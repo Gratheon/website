@@ -645,7 +645,7 @@ footer {
 	color: #551f00;
 }
 #splash {
-	background: url('https://gratheon.com/img/frame.jpg') no-repeat #302a61;
+	background: url('/img/frame.jpg') no-repeat #302a61;
 	background-size: 100%;
 	background-position: 0 46%;
 }
