@@ -1,0 +1,203 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>Beehive manager (by Gratheon)</title>
+
+	<meta name="Author" content="Artjom Kurapov - https://kurapov.ee" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+	<meta name="verify-v1" content="wSE6C/8XnNhej3MF9OFUTkbIVT+z9SF91Xyxq+4L9oQ=">
+	<meta name="google-site-verification" content="qf-Ud1ovJGbBZcLM3CH9VTO7wjn1bpVNGFxAivsu7bk" />
+
+	<link rel="apple-touch-icon" sizes="180x180" href="https://gratheon.com/res/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://gratheon.com/res/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://gratheon.com/res/favicons/favicon-16x16.png">
+
+	<link rel="manifest" href="https://gratheon.com/res/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://gratheon.com/res/favicons/safari-pinned-tab.svg" color="#000000">
+	<link rel="shortcut icon" href="https://gratheon.com/res/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-config" content="https://gratheon.com/res/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" type="text/css" href="file:///Users/artjom/git/website/style.css" />
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
+		type='text/css'>
+	<link
+		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
+		rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+
+	<div id="splash">
+		<header>
+			<video id="bgVideo" autoplay loop muted></video>
+			<div style="display: flex;z-index:2">
+				<div id="logo" style="float:none;"><a href="https://gratheon.com/"><img
+							src="https://gratheon.com/img/logo_v5.svg" style="width:70px;"></a></div>
+				<div id="splash_internal">
+
+					Beehive management <br />
+					with machine learning vision
+
+					<br />
+					<a class="signup" href="https://app.gratheon.com/account/register">Sign up</a>
+					<a class="signup" href="https://app.gratheon.com/account/authenticate/">Log in</a>
+				</div>
+			</div>
+
+			<div class="clear"></div>
+		</header>
+
+		<script>
+			const bgVideo = document.querySelector('#bgVideo');
+			const randomIndex = 1 + Math.floor(Math.random() * 15);
+			const randomUrl = "https://gratheon.s3.eu-central-1.amazonaws.com/video/" + `${randomIndex}`.padStart(2, '0') + ".mp4"
+
+			bgVideo.src = randomUrl;
+		</script>
+
+	</div>
+
+	<div id="wrapper_frontpage">
+		<div id='content'>
+
+			<div id='content_item6604' class="article_wrapper">
+
+
+
+
+				<article>
+					<p><img
+							src="https://gratheon.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc3c6508c-dbc8-433b-b10c-df0b5f4ed1a3%2Ftot_ra_two_high-quality.png?id=0b2858a9-efea-400a-88a2-b17a06bbac35&amp;table=block&amp;spaceId=6b3663fb-4bc2-4044-80e1-5d6ea956abef&amp;width=200&amp;userId=&amp;cache=v2"
+							style="vertical-align: middle;float: right;" /></p>
+					<h3>Modern and ethical beekeeping</h3>
+					<p><span style="background-color: transparent;">Honeybees are cute and
+							fluffy, making up a super-organism that we want to take care of, globally. They are key to
+							natural pollination and our food supply. Hobby beekeeping is a challenging physical labor
+							that requires weekly inspections, but it's difficult to automate. </span><br /></p>
+					<p>Existing solutions on the market are inadequate because they focus on
+						low-cost temperature and sound sensors that do provides <b>insufficient information</b>. Other
+						solutions target industrial beekeeping, which focuses on unhealthy congestion of multiple bees
+						into a single container. Industrial beekeeping often exploits bees by moving colonies around
+						mono-culture fields, draining the lifespan of bees.</p>
+					<h3>Open-source beekeeping assistance system</h3>
+					<p>Long term vision is a single-colony
+						<b><b></b><b><b></b></b><b><b></b><b><b>autonomous robotic beehive</b></b></b></b>, powered by
+						deep reinforcement machine learning, giving advanced monitoring to the beekeeper. All of our <a
+							href="https://github.com/orgs/Gratheon/repositories" target="">code is open-source</a>.</p>
+					<p>Our goals are to:</p>
+					<ul>
+						<li><span style="background-color: transparent;">reduce human inspection labor using robotic
+								automation, reducing induced stress on bees</span></li>
+						<li>save bee colony from <a
+								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4" target=""
+								style="background-color: transparent;">hornet attacks</a><br /></li>
+						<li>give better insights on colony life by analyzing <a
+								href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
+								target="" style="background-color: transparent;">nursing</a> and <a
+								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
+								style="background-color: transparent;">field</a> bees demographics</li>
+						<li><span style="background-color: transparent;">analyze </span><a
+								href="https://www.youtube.com/watch?v=W47sMDIS9zc" target=""
+								style="background-color: transparent;">brood development and hive resources</a></li>
+						<li>detect colony diseases from mites (Varroa destructor, Braula coeca, Tropilaelaps clareae,
+							Acarapis woodi, Aethina tumida) and bacterias (Paenibacillus larvae)</li>
+					</ul>
+					<h2>Progress<br /></h2>
+					<p><img style="float: right;" width="50%"
+							src="https://gratheon.s3.eu-central-1.amazonaws.com/4/Screenshot.jpg" /></p>
+					<p>✅ Bee detection and counter<br /></p>
+					<p>✅ Visually manage beehive and its frames within a web app<br />✅ Upload images of beehive frames
+						to get AI-assisted image analysis<br />✅ Zoom in and draw on top of the frame photos<br />✅
+						Plantnet integration with list of local plants<br />✅ Weather integration<br /><br />Also<br />✅
+						Open source all of the code<br />✅ Open GraphQL API</p>
+					<h3>Team (who)</h3>
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<a href="https://twitter.com/tot_ra">
+										<img style="border-radius:50px;" width="100" height="100"
+											src="https://pbs.twimg.com/profile_images/1613150098657087488/gL8Ljtc0_400x400.jpg" />
+									</a>
+									<br />
+									<a href="mailto:pilot@gratheon.com">Artjom Kurapov</a>,<br />Beekeeper, Software
+									Engineer, Founder
+								</td>
+
+							</tr>
+						</tbody>
+					</table>
+					<h3>See also</h3>
+					<ul>
+						<li><a href="https://github.com/orgs/Gratheon/projects/1">Roadmap with tasks</a></li>
+						<li><a
+								href="https://gratheon.notion.site/Culture-and-values-be3138c1cf0a4ebe8628f14448654682">Culture</a>
+						</li>
+						<li><a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7"
+								target="">Vacancies</a></li>
+						<li><a href="https://gratheon.notion.site/Relevant-scientific-publications-d943ae5c9e704464a8d1361767380016"
+								target="">Notable scientific work</a></li>
+					</ul>
+				</article>
+
+
+
+
+			</div>
+
+
+
+		</div>
+	</div>
+
+
+	<iframe width="100%" height="600" src="https://www.youtube.com/embed/gM3AJEAhmXc" frameborder="0"
+		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<footer>
+		<div id="contact">
+			<div>
+				Gratheon OÜ<br />
+				Reg. nr. 12245103<br />
+				Tallinn, Estonia
+			</div>
+			<div>
+				<a href="https://gratheon.com/terms">Terms of Use</a><br />
+				<a href="https://gratheon.com/privacy">Privacy policy</a>
+			</div>
+			<div>
+				<a href="https://github.com/gratheon">Github</a><br />
+				<a href="https://twitter.com/gratheon">Twitter</a><br />
+				<a href="mailto:pilot@gratheon.com">Email contact</a>
+			</div>
+		</div>
+	</footer>
+
+	<script type='text/javascript'>
+		var sys_url = "http://gratheon.com/";
+		var language = "eng";
+	</script>
+
+
+
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-30042696-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+
+
+</body>
+
+</html>
