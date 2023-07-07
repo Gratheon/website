@@ -66,53 +66,80 @@
 
 			<div id='content_item6604' class="article_wrapper">
 				<article>
-					<h3>Modern and ethical beekeeping</h3>
-					<p><span style="background-color: transparent;">Honeybees are cute and
+					<h2>State of beekeeping</h3>
+					<p>Honeybees are cute and
 							fluffy, making up a super-organism that we want to take care of, globally. They are key to
 							natural pollination and our food supply. Hobby beekeeping is a challenging physical labor
-							that requires weekly inspections, but it's difficult to automate. </span><br /></p>
-					<p>Existing solutions on the market are inadequate because they focus on
-						low-cost temperature and sound sensors that do provides <b>insufficient information</b>. Other
-						solutions target industrial beekeeping, which focuses on unhealthy congestion of multiple bees
-						into a single container. Industrial beekeeping often exploits bees by moving colonies around
-						mono-culture fields, draining the lifespan of bees.</p>
-					<h3>Open-source beekeeping assistance system</h3>
-					<p>Long term vision is a single-colony
-						<b>autonomous robotic beehive</b>, powered by
-						deep reinforcement machine learning, giving advanced monitoring to the beekeeper. All of our <a
-							href="https://github.com/orgs/Gratheon/repositories" target="">code is open-source</a>.</p>
-					<p>Our goals are to:</p>
-					<ul>
-						<li><span style="background-color: transparent;">reduce human inspection labor using robotic
-								automation, reducing induced stress on bees</span></li>
-						<li>save bee colony from <a
-								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4" target=""
-								style="background-color: transparent;">hornet attacks</a><br /></li>
-						<li>give better insights on colony life by analyzing <a
-								href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
-								target="" style="background-color: transparent;">nursing</a> and <a
-								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
-								style="background-color: transparent;">field</a> bees demographics</li>
-						<li><span style="background-color: transparent;">analyze </span><a
-								href="https://www.youtube.com/watch?v=W47sMDIS9zc" target=""
-								style="background-color: transparent;">brood development and hive resources</a></li>
-						<li>detect colony diseases from mites (Varroa destructor, Braula coeca, Tropilaelaps clareae,
-							Acarapis woodi, Aethina tumida) and bacterias (Paenibacillus larvae)</li>
-					</ul>
-					<h2>Features<br /></h2>
+							that requires weekly inspections, but it's difficult to automate. </p>
+					<p>Existing modern solutions on the market are inadequate because they focus on
+					low-cost temperature and sound sensors that do provides <b>insufficient information</b>. Alternative
+					solutions target industrial beekeeping and focus on unhealthy congestion of multiple bee colonies
+					inside a shipping container. Industrial beekeeping often exploits bees by moving colonies around
+					mono-culture fields, draining the lifespan of worker bees.</p>
+					
+					<h2>Open Beekeeping assistance system</h3>
+					<p>Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
+					deep reinforcement machine learning, with multiple cameras and sensors, providing advanced monitoring to the beekeeper along with remote control. </p>
+								
+					<h2>Goals and Features<br /></h2>
+					<p>We want to achieve:<p>
 					<p><img style="float: right;" width="50%"
 							src="https://gratheon.s3.eu-central-1.amazonaws.com/4/Screenshot.jpg" /></p>
 					
-					<ul style="list-style-type: none;">
-						<li>✅ Detection counting of bees on a frame photo</li>
-						<li>✅ Visually manage beehive and its frames within a web app</li>
-						<li>✅ Upload images of beehive frames</li>
-						<li>✅ Zoom in and draw on top of the frame photos</li>
+					<ul>
+						<li>
+							Monitoring. Give better insights on colony life by analyzing <a
+								href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
+								target="" style="background-color: transparent;">nursing</a> and <a
+								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
+								style="background-color: transparent;">field</a> bees demographics
+							<ul>
+								<li>✅ Upload images of beehive frames</li>
+								<li>✅ Detection of bees on a hive frame based on a photo</li>
+								<li>Analyze <a href="https://www.youtube.com/watch?v=W47sMDIS9zc">brood development and hive resources</a></li>
+								<li>Detection of queen</li>
+							</ul>
+						</li>
+						
+						<li>
+							Longevity of bee colony and individual worker bees.
+
+							<ul>
+								<li>Real-time detection of <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a> based on video stream with robotic hive entrance control</li>
+								
+								<li>Detect colony diseases, mites (Varroa destructor, Braula coeca, Tropilaelaps clareae,
+									Acarapis woodi, Aethina tumida) and bacterias (Paenibacillus larvae) by photo
+								</li>
+							</ul>
+						</li>
+							
+						
+						<li>Reduce human inspection labor using robotic automation</li>
+					</ul>
+
+					
+					
+					<h3>How</h3>
+					
+					<ul>
+						<li>✅ Visually manage beehive and its frames using a web app</li>
 						<li>✅ Plantnet integration with list of local plants</li>
 						<li>✅ Weather forecast around apiary</li>
+						<li>✅ Open source</</li>
 						<li>✅ Open GraphQL API</</li>
+						<li>✅ Transparent processes
+						
+						<ul>
+							<li><a href="https://github.com/orgs/Gratheon/projects/1">Roadmap with tasks</a></li>
+							<li><a href="https://gratheon.notion.site/Culture-and-values-be3138c1cf0a4ebe8628f14448654682">Culture</a>
+							</li>
+							<li><a href="https://gratheon.notion.site/Relevant-scientific-publications-d943ae5c9e704464a8d1361767380016"
+									target="">Scientific work we are inspired by</a></li>
+						</ul>
 					</ul>
+
 					<h3>Team</h3>
+					Join us! <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7" target="">Looking for volunteers & partners</a>
 					<table>
 						<tbody>
 							<tr>
@@ -129,17 +156,6 @@
 							</tr>
 						</tbody>
 					</table>
-					<h3>See also</h3>
-					<ul>
-						<li><a href="https://github.com/orgs/Gratheon/projects/1">Roadmap with tasks</a></li>
-						<li><a
-								href="https://gratheon.notion.site/Culture-and-values-be3138c1cf0a4ebe8628f14448654682">Culture</a>
-						</li>
-						<li><a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7"
-								target="">Vacancies</a></li>
-						<li><a href="https://gratheon.notion.site/Relevant-scientific-publications-d943ae5c9e704464a8d1361767380016"
-								target="">Notable scientific work</a></li>
-					</ul>
 				</article>
 
 
