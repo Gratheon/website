@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Beehive manager (by Gratheon)</title>
+	<title>Gratheon Open Beehive AI</title>
 
 	<meta name="Author" content="Artjom Kurapov - https://kurapov.ee" />
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -13,19 +13,40 @@
 	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-
 	<link rel="manifest" href="/favicons/site.webmanifest">
 	<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000">
 	<link rel="shortcut icon" href="/favicons/favicon.ico">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-config" content="/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
+
+
 	<link rel="stylesheet" type="text/css" href="/style.css" />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
 		type='text/css'>
 	<link
 		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
 		rel='stylesheet' type='text/css'>
+
+	<!-- Google analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-30042696-1');
+	</script>
+
+
+	<!-- Microsoft clarity usage analytics -->
+	<script type="text/javascript">
+		(function(c,l,a,r,i,t,y){
+			c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+			t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+			y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+		})(window, document, "clarity", "script", "hxl3bdiaiq");
+	</script>
 
 </head>
 
@@ -39,8 +60,8 @@
 							src="/img/logo_v5.svg" style="width:70px;"></a></div>
 				<div id="splash_internal">
 
-					Beehive management <br />
-					with machine learning vision
+					Monitor bees<br />
+					with AI vision
 
 					<br />
 					<a class="signup" href="https://app.gratheon.com/account/register">Sign up</a>
@@ -85,7 +106,7 @@
 						mono-culture fields, draining the lifespan of worker bees.
 					</p>
 					
-					<h2>Open Beekeeping assistance system</h3>
+					<h2>Gratheon Open Beehive</h3>
 					<p>
 						Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
 						deep reinforcement machine learning, with multiple cameras and sensors, providing advanced monitoring 
@@ -93,8 +114,15 @@
 						beekeeping more ethical.
 					</p>
 								
+					<video 
+						style="max-width:800px;width:100%;"
+						autoplay
+						loop
+						muted
+						src="https://gratheon.s3.eu-central-1.amazonaws.com/video/detection.mov"></video>
+
+
 					<h2>Features</h2>
-					<img style="float: right;" width="50%" src="https://gratheon.s3.eu-central-1.amazonaws.com/4/Screenshot.jpg" />
 					<p>We want to achieve:<p>
 					
 					<ul>
@@ -108,8 +136,9 @@
 								<li>✅ Upload images of beehive frames</li>
 								<li>✅ Detection of bees on a hive frame based on a photo</li>
 								<li>✅ Analyze <a href="https://www.youtube.com/watch?v=W47sMDIS9zc">brood development and hive resources</a></li>
-								<li>⏳ Detection of queen presense</li>
+								<li>⏳ Improved of queen presense detection</li>
 								<li>⏳ Detection of swarming based on queen cups</li>
+								<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count) </li>
 							</ul>
 						</li>
 						
@@ -117,8 +146,9 @@
 							Longevity of bee colony and individual worker bees.
 
 							<ul>
-								<li>⏳ Detect <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a></li>
+								<li>⏳ Detect <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a> at the gate by video</li>
 								<li>⏳ Detect <i>varroa destructor</i> mites</li>
+								<li>⏳ Detect deseases based on bee morphography</li>
 							</ul>
 						</li>
 							
@@ -127,7 +157,7 @@
 							Autonomous hive
 							<ul>
 								<li>⏳ Use robotic box and frame actuators</li>
-								<li>⏳ Entrance control, depending on hornets & weather</li>
+								<li>⏳ Gate control, depending on hornets & weather</li>
 							</ul>
 						</li>
 						<li>
@@ -136,6 +166,7 @@
 								<li>✅ Visually manage beehive and its frames using a web app</li>
 								<li>✅ Plantnet integration with list of local plants</li>
 								<li>✅ Weather forecast around apiary</li>
+								<li>⏳ Timeline of inspections with a graph</li>
 							</ul>
 						</li>
 					</ul>
@@ -186,12 +217,13 @@
 			</div>
 			<div>
 				<a href="/terms.html">Terms of Use</a><br />
-				<a href="/privacy.html">Privacy policy</a>
+				<a href="/privacy.html">Privacy policy</a><br />
+				<a href="mailto:pilot@gratheon.com">Email contact</a>
 			</div>
 			<div>
 				<a href="https://github.com/gratheon">Github</a><br />
 				<a href="https://twitter.com/gratheon">Twitter</a><br />
-				<a href="mailto:pilot@gratheon.com">Email contact</a>
+				<a href="https://www.linkedin.com/company/gratheon/">Linkedin</a>
 			</div>
 		</div>
 	</footer>
@@ -200,22 +232,6 @@
 		var sys_url = "http://gratheon.com/";
 		var language = "eng";
 	</script>
-
-
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-30042696-1');
-</script>
-
-
-
 </body>
 
 </html>
