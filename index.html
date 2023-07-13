@@ -4,6 +4,10 @@
 <head>
 	<title>Gratheon Open Beehive AI</title>
 
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
 	<meta name="Author" content="Artjom Kurapov - https://kurapov.ee" />
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
@@ -56,16 +60,17 @@
 		<header>
 			<video id="bgVideo" autoplay loop muted></video>
 			<div style="display: flex;z-index:2">
-				<div id="logo" style="float:none;"><a href="https://gratheon.com/"><img
-							src="/img/logo_v5.svg" style="width:70px;"></a></div>
+				<div id="logo"><a href="https://gratheon.com/"><img
+							src="/img/logo_v5.svg"></a></div>
 				<div id="splash_internal">
 
 					Monitor bees<br />
 					with AI vision
 
-					<br />
-					<a class="signup" href="https://app.gratheon.com/account/register">Sign up</a>
-					<a class="signup" href="https://app.gratheon.com/account/authenticate/">Log in</a>
+					<div style="margin-top:15px;">
+						<a class="signup" href="https://app.gratheon.com/account/register">Sign up</a>
+						<a class="signup" href="https://app.gratheon.com/account/authenticate/">Log in</a>
+					</div>
 				</div>
 			</div>
 
@@ -89,22 +94,54 @@
 				<article>
 					<h2>State of beekeeping</h3>
 					<p>
-						Honeybees are cute and fluffy, making up a super-organism that we want to take care of, globally. They are key to
-						natural pollination and our food supply. However, hobby beekeeping is challenging as it requires constant <b>monitoring</b>
-						to keep track of varroa mites, presense of queen, hornet attacks, swarming or stealing state.
+						Honeybees are cute super-organisms that we want to take care of ❤️. 
+						They are key to natural pollination and our food supply. 
+						However, hobby beekeeping is challenging as it requires constant 
+						monitoring to keep track of health, resources, attacks, reproduction, 
+						and swarming states.
 					</p>
 					<p>
-						Traditional beekeepers do hard <b>physical labor</b> and inspect beehives on a weekly basis.
-						Inspections can lead to colony stress and loss of bees due to stinging or alcohol washing tests.
+						Traditional beekeeping involves hard physical labor. 
+						On top of that, bees also suffer. Unpredictable weather, 
+						monocultural crops, pesticide use, viral and bacterial infections, 
+						birds, mites, rodents, bears, wasps - all of these factors affect 
+						the colony, which is constantly engaged in building, cleaning, 
+						reproduction, growth, and feeding. When you add constant inspections 
+						by the beekeeper, it leads to colony stress and loss of bees.
 					</p>
 
 					<p>
-						Existing modern solutions on the market are inadequate because they focus on
-						low-cost temperature and sound sensors that provide <b>insufficient information</b>. Alternative
-						solutions target industrial beekeeping and focus on unhealthy congestion of multiple bee colonies
-						inside a shipping container. Industrial beekeeping often exploits bees by moving colonies around
-						mono-culture fields, draining the lifespan of worker bees.
+						Unethical treatment of bees is prevalent. 
+						The lack of technological advancement, on one hand, leads some 
+						beekeepers to count mites using medieval alcohol washing tests 
+						that kill hundreds of bees, justifying it as saving the colony.
 					</p>
+					<p>
+						Industrialization and narrow specialization can lead to exploitation. 
+						Monocultural fields, lawns, golf fields result in a lack of pollen diversity. 
+						Industrial beekeepers, in turn, use trucks to move colonies 
+						around fields for pollination. This practice drains the lifespan 
+						of worker bees and creates unhealthy congestion of colonies, 
+						increasing health risks.
+					</p>
+
+					<p>
+						Existing modern solutions on the market are inadequate because 
+						they focus on low-cost temperature and sound sensors that provide 
+						insufficient information. 
+
+						Others focus only on one area - finding mites or finding queen, or counting bees at the gate.
+
+						Alternative solutions target industrial 
+						beekeeping and focus on the unhealthy congestion of multiple bee 
+						colonies inside a shipping container.
+					</p>
+					
+
+					<iframe 
+						style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
+						src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
+						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 					
 					<h2>Gratheon Open Beehive</h3>
 					<p>
@@ -115,12 +152,11 @@
 					</p>
 								
 					<video 
-						style="max-width:800px;width:100%;"
+						style="max-width:800px;width:100%;margin:0 auto;display:block;"
 						autoplay
 						loop
 						muted
 						src="https://gratheon.s3.eu-central-1.amazonaws.com/video/detection.mov"></video>
-
 
 					<h2>Features</h2>
 					<p>We want to achieve:<p>
@@ -136,9 +172,12 @@
 								<li>✅ Upload images of beehive frames</li>
 								<li>✅ Detection of bees on a hive frame based on a photo</li>
 								<li>✅ Analyze <a href="https://www.youtube.com/watch?v=W47sMDIS9zc">brood development and hive resources</a></li>
-								<li>⏳ Improved of queen presense detection</li>
+								<li>⏳ Stream video of gateway</li>
+								<li>⏳ Improved detection of queen presense</li>
 								<li>⏳ Detection of swarming based on queen cups</li>
 								<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count) </li>
+								<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
+								<li>⏳ Analyze audio for swarming and anomalies</li>
 							</ul>
 						</li>
 						
@@ -158,6 +197,7 @@
 							<ul>
 								<li>⏳ Use robotic box and frame actuators</li>
 								<li>⏳ Gate control, depending on hornets & weather</li>
+								<li>⏳ Ventilation assistance based on temperature/humidity</li>
 							</ul>
 						</li>
 						<li>
@@ -194,20 +234,10 @@
 						</tbody>
 					</table>
 				</article>
-
-
-
-
 			</div>
-
-
-
 		</div>
 	</div>
 
-
-	<iframe width="100%" height="600" src="https://www.youtube.com/embed/gM3AJEAhmXc" frameborder="0"
-		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<footer>
 		<div id="contact">
 			<div>
