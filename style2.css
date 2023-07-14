@@ -12,7 +12,7 @@
 /* =============================================================================
 HTML5 display definitions
 ========================================================================== */
-article,
+/* article, */
 aside,
 details,
 figcaption,
@@ -24,14 +24,6 @@ nav,
 section {
 	display: block;
 }
-
-/* audio,
-canvas,
-video {
-	display: inline-block;
-	*display: inline;
-	*zoom: 1;
-} */
 
 audio:not([controls]) {
 	display: none;
@@ -511,67 +503,6 @@ p.info {
 	padding: 5px 20px;
 }
 
-/* Paginator */
-.paging {
-	list-style: none;
-	clear: left;
-	font-family: Arial, sans-serif;
-	font-size: 0.75em;
-	margin: 1em auto;
-	padding: 1em 1em 2em 0pt;
-	width: 400px;
-	text-align: center;
-}
-
-.paging li {
-	min-width: 15px;
-	float: left;
-	margin: 2px;
-}
-
-.paging li.prev,
-.paging li.next {
-	width: 70px;
-}
-
-.paging .ctrl {
-	font-family: Arial;
-	color: gray;
-	text-align: center;
-}
-
-.paging a:hover {
-	background: #E6E6E6 none repeat scroll 0%;
-}
-
-#content .paging a,
-.paginator span {
-	background: #FFFFFF none repeat scroll 0%;
-	border: 1px solid #FFFFFF;
-	color: #666666;
-	display: block;
-	padding: 2px 4px;
-	text-align: center;
-}
-
-#content .paging a {
-	border: 1px solid #BEB1B1;
-	color: #777777;
-	text-decoration: none;
-}
-
-#content .paging a.active {
-	background: #6E5543 none repeat scroll 0%;
-	border: 1px solid #BEB1B1;
-	color: #FFFFFF;
-	font-weight: bold;
-}
-
-.paging span.nextprev {
-	border: medium none;
-	color: #666666 !important;
-}
-
 object.audioplayer {
 	height: 14px;
 	width: 200px;
@@ -591,6 +522,14 @@ body {
 }
 
 h1 {
+	font-size: 2rem;
+}
+
+h2 {
+	font-size: 1.9rem;
+}
+
+h3 {
 	font-size: 1.7rem;
 }
 
@@ -602,17 +541,9 @@ h1 {
 	color: #18426e;
 }
 
-article#welcome_message {
-	font-size: 20px;
-}
-
-#wrapper_frontpage {
-	clear: both;
-}
-
 header {
 	display: block;
-	font-size: 16px;
+	/* font-size: 16px; */
 	min-height: 55px;
 	padding: 25px;
 }
@@ -653,49 +584,6 @@ header #logo a img {
 	width: 50px;
 }
 
-/* nav {
-	clear: both;
-	width: auto;
-	display: block;
-	font-size: 15px;
-	font-weight: bold;
-	background: #dfddd1;
-	min-height: 30px;
-	margin: 10px 0 0 10px;
-	border-radius: 5px;
-}
-
-nav .selected {
-	background-color: #2F3846;
-	color: white;
-	padding: 6px;
-}
-
-nav .selected:visited {
-	color: white;
-}
-
-nav ul {
-	margin: 0;
-	padding: 7px;
-	margin-left: 10px;
-	float: left;
-}
-
-nav ul li {
-	float: left;
-	margin-right: 10px;
-}
-
-nav a {
-	text-decoration: none;
-	color: #000;
-	font-weight: 700;
-}
-
-nav a:visited {
-	color: #232424;
-} */
 
 footer {
 	clear: both;
@@ -706,25 +594,11 @@ footer {
 	margin-top: -3px;
 }
 
-/* #latest_news {
-	background-color: white;
-	padding: 30px;
-	border-bottom: 5px solid #11406B;
-}
-
-#latest_news .img {
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
-} */
-
 #content {
 	color: #222;
 	background: rgba(255, 255, 255, 0.98);
-	opacity: 0.98;
 	padding: 20px 40px 20px;
 	font-size: 17px;
-	clear: both;
 }
 
 #content h1 {
@@ -761,46 +635,106 @@ footer {
 }
 
 #splash #splash_internal {
+	height: 100px;
+	color: white;
+}
+
+#splash #splash_internal div {
 	text-shadow: 2px 2px black;
 	font: 25px 'Open Sans';
 	text-align: left;
-	height: 150px;
-	color: white;
 	font-weight: 700;
+	white-space: nowrap;
 }
 
-#splash #splash_internal .signup {
+#splash #splash_internal p {
+	font-size: 15px;
+	margin: 0;
+	text-shadow: black 1px 1px;
+}
+
+.signup {
 	background: #0070ff;
-	border-radius: 3px;
+	border-radius: 8px;
 	color: white;
-	padding: 10px;
+	padding: 10px 15px;
 	border: 0;
 	font-size: 18px;
 	font-weight: bold;
 	text-decoration: none;
+	text-shadow: none;
+	margin: 5px auto;
 }
 
 .signup:visited {
 	color: white;
 }
 
+.signup:hover {
+	color: black;
+	background: yellow;
+}
+
+
+#bgVideo {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 120%;
+	height: auto;
+}
+
+#how-to {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+#how-to li {
+	padding: 0 20px 10px 0;
+	flex-grow: 1;
+}
+
+#showcase {
+	max-width: 1000px;
+	margin: 0 auto;
+	width: 100%;
+	display: block;
+}
 
 @media screen and (min-width: 1024px) {
+	#how-to {
+		flex-direction: row;
+	}
+
+	#showcase {
+		position: relative;
+		margin: -160px auto 0;
+	}
+
 	header #logo {
 		margin: 0 25px 0 0;
-		height:80px;
+		height: 80px;
 	}
+
 	header #logo a img {
 		height: 80px;
 		width: 80px;
 	}
-	#splash #splash_internal {
-		font-size: 32px;
+
+	#splash #splash_internal div {
+		font-size: 45px;
 	}
 
-	#splash #splash_internal .signup {
+	.signup {
 		padding: 10px 30px;
-		font-size: 25px;
+		font-size: 30px;
+		width: 150px;
+		margin: 0 auto;
+		display: block;
 	}
 
 	#latest_news {
@@ -823,46 +757,6 @@ footer {
 	#contact div {
 		padding: 40px 25px;
 	}
-
-	#content .category .article_wrapper {
-		float: left;
-		width: 30%;
-		padding: 10px;
-	}
-
-	#wrapper_frontpage nav {
-		width: 350px;
-		margin: 100px auto 0;
-	}
-}
-
-.modal {
-	padding: 50px;
-	left: calc(50% - 200px);
-	max-width: 400px;
-	display: none;
-	position: absolute;
-	background: rgba(255, 255, 255, 0.95);
-	border-radius: 10px;
-	top: 150px;
-	z-index: 2000;
-	border: 1px solid #b5b5b5;
-}
-
-
-.modal button {
-	font-size: 13px;
-	padding: 7px 14px;
-	background: #2b2b2b;
-	color: white;
-	border: 0;
-	border-radius: 3px;
-	display: block;
-	margin-right: 5px;
-}
-
-.modal button[type=submit] {
-	background: green;
 }
 
 .loginLabel {
@@ -923,13 +817,4 @@ header {
 	header {
 		height: 200px;
 	}
-}
-
-#splash video {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 120%;
-	height: auto;
 }
