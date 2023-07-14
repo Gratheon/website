@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Gratheon Open Beehive AI</title>
+	<title>Beehive management with AI | Gratheon</title>
 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="mobile-web-app-capable" content="yes">
@@ -25,7 +25,7 @@
 	<meta name="theme-color" content="#ffffff">
 
 
-	<link rel="stylesheet" type="text/css" href="/style.css" />
+	<link rel="stylesheet" type="text/css" href="/style2.css" />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
 		type='text/css'>
 	<link
@@ -57,24 +57,27 @@
 <body>
 
 	<div id="splash">
+		<a style="color:white;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		font-size:14px;
+		text-shadow: 1px 1px black;
+		z-index: 50;" href="https://app.gratheon.com/account/authenticate/">Log in</a>
 		<header>
 			<video id="bgVideo" autoplay loop muted></video>
-			<div style="display: flex;z-index:2">
-				<div id="logo"><a href="https://gratheon.com/"><img
-							src="/img/logo_v5.svg"></a></div>
-				<div id="splash_internal">
-
-					Monitor bees<br />
-					with AI vision
-
-					<div style="margin-top:15px;">
-						<a class="signup" href="https://app.gratheon.com/account/register">Sign up</a>
-						<a class="signup" href="https://app.gratheon.com/account/authenticate/">Log in</a>
+			<div style="z-index:2;">
+				<div style="display: flex;">
+					<div id="logo"><a href="https://gratheon.com/"><img
+								src="/img/logo_v5.svg"></a></div>
+					<div id="splash_internal">
+						<div>Monitor bees with AI</div>
+						<p>Gather holistic view to make life-changing decisions</p>
 					</div>
+					
 				</div>
+				<a class="signup" href="https://app.gratheon.com/account/register">Try it free</a>
 			</div>
-
-			<div class="clear"></div>
 		</header>
 
 		<script>
@@ -84,158 +87,171 @@
 
 			bgVideo.src = randomUrl;
 		</script>
-
 	</div>
+			
 
-	<div id="wrapper_frontpage">
-		<div id='content'>
+	<video 
+		id="showcase"
+		autoplay
+		loop
+		muted
+		src="https://gratheon.s3.eu-central-1.amazonaws.com/video/detection.mov"></video>
 
-			<div id='content_item6604' class="article_wrapper">
-				<article>
-					<h2>State of beekeeping</h3>
-					<p>
-						Honeybees are cute super-organisms that we want to take care of ❤️. 
-						They are key to natural pollination and our food supply. 
-						However, hobby beekeeping is challenging as it requires constant 
-						monitoring to keep track of health, resources, attacks, reproduction, 
-						and swarming states.
-					</p>
-					<p>
-						Traditional beekeeping involves hard physical labor. 
-						On top of that, bees also suffer. Unpredictable weather, 
-						monocultural crops, pesticide use, viral and bacterial infections, 
-						birds, mites, rodents, bears, wasps - all of these factors affect 
-						the colony, which is constantly engaged in building, cleaning, 
-						reproduction, growth, and feeding. When you add constant inspections 
-						by the beekeeper, it leads to colony stress and loss of bees.
-					</p>
+	<div id='content'>
+		<article style="text-align: center;">
+			<h2>How Gratheon works</h3>
+			<p>Stay organized in tracking colony state with these easy steps</p>
 
-					<p>
-						Unethical treatment of bees is prevalent. 
-						The lack of technological advancement, on one hand, leads some 
-						beekeepers to count mites using medieval alcohol washing tests 
-						that kill hundreds of bees, justifying it as saving the colony.
-					</p>
-					<p>
-						Industrialization and narrow specialization can lead to exploitation. 
-						Monocultural fields, lawns, golf fields result in a lack of pollen diversity. 
-						Industrial beekeepers, in turn, use trucks to move colonies 
-						around fields for pollination. This practice drains the lifespan 
-						of worker bees and creates unhealthy congestion of colonies, 
-						increasing health risks.
-					</p>
+			<ol id="how-to">
+				<li>
+					<h3>Inspect</h3>
+					Upload inspection photos of all frames of your beehive
+				</li>
+				<li>
+					<h3>Detect</h3>
+					Get detected queen, bees and cell type distribution
+				</li>
+				<li>
+					<h3>React</h3>
+					Inspect regularly to get chronological development overview
+				</li>
+			</ol>
+				
+			<p style="text-align:left;">
+				Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
+				deep reinforcement machine learning, with multiple cameras and sensors, providing advanced monitoring 
+				to the beekeeper along with remote control, removing the need of manual inspections and making
+				beekeeping more ethical.
 
-					<p>
-						Existing modern solutions on the market are inadequate because 
-						they focus on low-cost temperature and sound sensors that provide 
-						insufficient information. 
+				Gratheon app is <a href="https://github.com/gratheon">open source</a> and uses open source models.
+				You can volunteer to improve our system, build upon it yourself.
+				We provide GraphQL API - feel free to import or export data.
+			</p>
+		</article>
+		
+		<article>
+			<h2>Why Gratheon</h3>
+			<p>
+				Honeybees are cute super-organisms that we want to take care of ❤️. 
+				They are key to natural pollination and our food supply. 
+				However, hobby beekeeping is challenging as it requires constant 
+				monitoring to keep track of health, resources, attacks, reproduction, 
+				and swarming states.
+			</p>
+			<p>
+				Traditional beekeeping involves hard physical labor. 
+				On top of that, bees also suffer. Unpredictable weather, 
+				monocultural crops, pesticide use, viral and bacterial infections, 
+				birds, mites, rodents, bears, wasps - all of these factors affect 
+				the colony, which is constantly engaged in building, cleaning, 
+				reproduction, growth, and feeding. When you add constant inspections 
+				by the beekeeper, it leads to colony stress and loss of bees.
+			</p>
 
-						Others focus only on one area - finding mites or finding queen, or counting bees at the gate.
+			<p>
+				Unethical treatment of bees is prevalent. 
+				The lack of technological advancement, on one hand, leads some 
+				beekeepers to count mites using medieval alcohol washing tests 
+				that kill hundreds of bees, justifying it as saving the colony.
+			</p>
+			<p>
+				Industrialization and narrow specialization can lead to exploitation. 
+				Monocultural fields, lawns, golf fields result in a lack of pollen diversity. 
+				Industrial beekeepers, in turn, use trucks to move colonies 
+				around fields for pollination. This practice drains the lifespan 
+				of worker bees and creates unhealthy congestion of colonies, 
+				increasing health risks.
+			</p>
 
-						Alternative solutions target industrial 
-						beekeeping and focus on the unhealthy congestion of multiple bee 
-						colonies inside a shipping container.
-					</p>
-					
+			<p>
+				Existing modern solutions on the market are inadequate because 
+				they focus on low-cost temperature and sound sensors that provide 
+				insufficient information. 
 
-					<iframe 
-						style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
-						src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
-						allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					
-					<h2>Gratheon Open Beehive</h3>
-					<p>
-						Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
-						deep reinforcement machine learning, with multiple cameras and sensors, providing advanced monitoring 
-						to the beekeeper along with remote control, removing the need of manual inspections and making
-						beekeeping more ethical.
-					</p>
-								
-					<video 
-						style="max-width:800px;width:100%;margin:0 auto;display:block;"
-						autoplay
-						loop
-						muted
-						src="https://gratheon.s3.eu-central-1.amazonaws.com/video/detection.mov"></video>
+				Others focus only on one area - finding mites or finding queen, or counting bees at the gate.
 
-					<h2>Features</h2>
-					<p>We want to achieve:<p>
-					
+				Alternative solutions target industrial 
+				beekeeping and focus on the unhealthy congestion of multiple bee 
+				colonies inside a shipping container.
+			</p>
+			
+
+			<iframe 
+				style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
+				src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
+				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
+			<h2>Roadmap</h2>
+			
+			<ul>
+				<li>
+					Monitoring. Give better insights on colony life by analyzing <a
+						href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
+						target="" style="background-color: transparent;">nursing</a> and <a
+						href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
+						style="background-color: transparent;">field</a> bees demographics
 					<ul>
-						<li>
-							Monitoring. Give better insights on colony life by analyzing <a
-								href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
-								target="" style="background-color: transparent;">nursing</a> and <a
-								href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
-								style="background-color: transparent;">field</a> bees demographics
-							<ul>
-								<li>✅ Upload images of beehive frames</li>
-								<li>✅ Detection of bees on a hive frame based on a photo</li>
-								<li>✅ Analyze <a href="https://www.youtube.com/watch?v=W47sMDIS9zc">brood development and hive resources</a></li>
-								<li>⏳ Stream video of gateway</li>
-								<li>⏳ Improved detection of queen presense</li>
-								<li>⏳ Detection of swarming based on queen cups</li>
-								<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count) </li>
-								<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
-								<li>⏳ Analyze audio for swarming and anomalies</li>
-							</ul>
-						</li>
-						
-						<li>
-							Longevity of bee colony and individual worker bees.
-
-							<ul>
-								<li>⏳ Detect <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a> at the gate by video</li>
-								<li>⏳ Detect <i>varroa destructor</i> mites</li>
-								<li>⏳ Detect deseases based on bee morphography</li>
-							</ul>
-						</li>
-							
-						
-						<li>
-							Autonomous hive
-							<ul>
-								<li>⏳ Use robotic box and frame actuators</li>
-								<li>⏳ Gate control, depending on hornets & weather</li>
-								<li>⏳ Ventilation assistance based on temperature/humidity</li>
-							</ul>
-						</li>
-						<li>
-							Modern digital app
-							<ul>
-								<li>✅ Visually manage beehive and its frames using a web app</li>
-								<li>✅ Plantnet integration with list of local plants</li>
-								<li>✅ Weather forecast around apiary</li>
-								<li>⏳ Timeline of inspections with a graph</li>
-							</ul>
-						</li>
+						<li>⏳ Stream raspberry-pi video of hive gateway</li>
+						<li>⏳ Improved detection of queen presense</li>
+						<li>⏳ Detection of swarming based on queen cups</li>
+						<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count) </li>
+						<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
+						<li>⏳ Analyze audio for swarming and anomalies</li>
 					</ul>
+				</li>
+				
+				<li>
+					Longevity of bee colony and individual worker bees.
 
-					And much more - see our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a>.
-					Our system is <a href="https://github.com/gratheon">open source</a>. You can improve our system or build upon it yourself.
-					We provide GraphQL API. Feel free to import or export data.
-						
-					<h3>Team</h3>
-					We are looking for <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7" target="">volunteers, partners and investors</a>
-					<table>
-						<tbody>
-							<tr>
-								<td>
-									<a href="https://twitter.com/tot_ra">
-										<img style="border-radius:50px;" width="100" height="100"
-											src="https://kurapov.ee/img/logo.jpg" />
-									</a>
-									<br />
-									<a href="mailto:pilot@gratheon.com">Artjom Kurapov</a>,<br />Beekeeper, Software
-									Engineer, Founder
-								</td>
+					<ul>
+						<li>⏳ Detect <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a> at the gate by video</li>
+						<li>⏳ Detect <i>varroa destructor</i> mites</li>
+						<li>⏳ Detect deseases based on bee morphography</li>
+					</ul>
+				</li>
+					
+				
+				<li>
+					Autonomous hive
+					<ul>
+						<li>⏳ Use robotic box and frame actuators</li>
+						<li>⏳ Gate control, depending on hornets & weather</li>
+						<li>⏳ Ventilation assistance based on temperature/humidity</li>
+					</ul>
+				</li>
+				<li>
+					Modern digital app
+					<ul>
+						<li>✅ Visually manage beehive and its frames using a web app</li>
+						<li>✅ Plantnet integration with list of local plants</li>
+						<li>✅ Weather forecast around apiary</li>
+						<li>⏳ Timeline of inspections with a graph</li>
+					</ul>
+				</li>
+			</ul>
 
-							</tr>
-						</tbody>
-					</table>
-				</article>
-			</div>
-		</div>
+			And much more - see our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a>.
+				
+			<h3>Team</h3>
+			We are looking for <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7" target="">volunteers, partners and investors</a>
+			<table>
+				<tbody>
+					<tr>
+						<td>
+							<a href="https://twitter.com/tot_ra">
+								<img style="border-radius:50px;" width="100" height="100"
+									src="https://kurapov.ee/img/logo.jpg" />
+							</a>
+							<br />
+							<a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br />Beekeeper, Software
+							Engineer, Founder
+						</td>
+
+					</tr>
+				</tbody>
+			</table>
+		</article>
+
 	</div>
 
 	<footer>
