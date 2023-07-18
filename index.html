@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
 	<title>Beehive management with AI | Gratheon</title>
+	<meta name="description" content="Monitoring software as a service for backyard beekeepers">
 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="mobile-web-app-capable" content="yes">
@@ -31,27 +32,6 @@
 	<link
 		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
 		rel='stylesheet' type='text/css'>
-
-	<!-- Google analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'UA-30042696-1');
-	</script>
-
-
-	<!-- Microsoft clarity usage analytics -->
-	<script type="text/javascript">
-		(function(c,l,a,r,i,t,y){
-			c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-			t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-			y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-		})(window, document, "clarity", "script", "hxl3bdiaiq");
-	</script>
-
 </head>
 
 <body>
@@ -68,13 +48,12 @@
 			<video id="bgVideo" autoplay loop muted></video>
 			<div style="z-index:2;">
 				<div style="display: flex;">
-					<div id="logo"><a href="https://gratheon.com/"><img
-								src="/img/logo_v5.svg"></a></div>
+					<div id="logo"><a href="https://gratheon.com/"><img alt="logo" src="/img/logo_v5.svg"></a></div>
 					<div id="splash_internal">
 						<div>Monitor bees with AI</div>
 						<p>Gather holistic apiary overview to make life-changing decisions</p>
 					</div>
-					
+
 				</div>
 				<a class="signup" href="https://app.gratheon.com/account/register">Try it free</a>
 			</div>
@@ -83,190 +62,208 @@
 		<script>
 			const bgVideo = document.querySelector('#bgVideo');
 			const randomIndex = 1 + Math.floor(Math.random() * 15);
-			const randomUrl = "https://gratheon.s3.eu-central-1.amazonaws.com/video/" + `${randomIndex}`.padStart(2, '0') + ".mp4"
+			const randomUrl = "https://gratheon.s3-accelerate.amazonaws.com/video/" + `${randomIndex}`.padStart(2, '0') + ".mp4"
 
 			bgVideo.src = randomUrl;
 		</script>
 	</div>
-			
 
-	<video 
-		id="showcase"
-		autoplay
-		loop
-		muted
-		src="https://gratheon.s3.eu-central-1.amazonaws.com/video/detection.mov"></video>
+
+	<video id="showcase" autoplay loop muted
+		src="https://gratheon.s3-accelerate.amazonaws.com/video/detection.mov"></video>
 
 	<div id='content'>
 		<article style="text-align: center;">
 			<h2>How Gratheon works</h3>
-			<p>Stay organized in tracking colony state with these easy steps</p>
+				<p>Stay organized in tracking colony state with these easy steps</p>
 
-			<ol id="how-to">
-				<li>
-					<h3>Inspect</h3>
-					Upload inspection photos of all frames of your beehive
-				</li>
-				<li>
-					<h3>Detect</h3>
-					Get detected queen, bees and cell type distribution
-				</li>
-				<li>
-					<h3>React</h3>
-					Inspect regularly to get chronological development overview
-				</li>
-			</ol>
-			
-			<p style="text-align:left;">
-				Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
-				deep reinforcement machine learning, with multiple cameras and sensors, providing advanced monitoring 
-				to the beekeeper along with remote control, removing the need of manual inspections and making
-				beekeeping more ethical.
-			</p>
+				<ol id="how-to">
+					<li>
+						<h3>Inspect</h3>
+						Upload inspection photos of all frames of your beehive<br />
+
+						<video width="300" autoplay loop muted
+							src="https://gratheon.s3-accelerate.amazonaws.com/step1.mov"></video>
+					</li>
+					<li>
+						<h3>Detect</h3>
+						Get detected queen, bees and cell type distribution<br />
+						<img alt="beehive frame with detected cell types" width="300" src="https://gratheon.s3-accelerate.amazonaws.com/step2.webp" />
+					</li>
+					<li>
+						<h3>React</h3>
+						Inspect regularly to get chronological development overview
+					</li>
+				</ol>
+
+				<p style="text-align:left;">
+					Our long-term vision is a single-colony <b>autonomous robotic beehive</b>, powered by
+					deep reinforcement machine learning, with multiple cameras and sensors, providing advanced
+					monitoring
+					to the beekeeper along with remote control, removing the need of manual inspections and making
+					beekeeping more ethical.
+				</p>
 		</article>
-		
+
 		<article>
 			<h2>Why Gratheon</h3>
-			<p>
-				Honeybees are cute super-organisms that we want to take care of ❤️. 
-				They are key to natural pollination and our food supply. 
-				However, hobby beekeeping is challenging as it requires constant 
-				monitoring to keep track of health, resources, attacks, reproduction, 
-				and swarming states.
-			</p>
-			<p>
-				Traditional beekeeping involves hard physical labor. 
-				On top of that, bees also suffer. Unpredictable weather, 
-				monocultural crops, pesticide use, viral and bacterial infections, 
-				birds, mites, rodents, bears, wasps - all of these factors affect 
-				the colony, which is constantly engaged in building, cleaning, 
-				reproduction, growth, and feeding. When you add constant inspections 
-				by the beekeeper, it leads to colony stress and loss of bees.
-			</p>
+				<p>
+					Honeybees are cute super-organisms that we want to take care of ❤️.
+					They are key to natural pollination and our food supply.
+					However, hobby beekeeping is challenging as it requires constant
+					monitoring to keep track of health, resources, attacks, reproduction,
+					and swarming states.
+				</p>
+				<p>
+					Traditional beekeeping involves hard physical labor.
+					On top of that, bees also suffer. Unpredictable weather,
+					monocultural crops, pesticide use, viral and bacterial infections,
+					birds, mites, rodents, bears, wasps - all of these factors affect
+					the colony, which is constantly engaged in building, cleaning,
+					reproduction, growth, and feeding. When you add constant inspections
+					by the beekeeper, it leads to colony stress and loss of bees.
+				</p>
 
-			<p>
-				Unethical treatment of bees is prevalent. 
-				The lack of technological advancement, on one hand, leads some 
-				beekeepers to count mites using medieval alcohol washing tests 
-				that kill hundreds of bees, justifying it as saving the colony.
-			</p>
-			<p>
-				Industrialization and narrow specialization can lead to exploitation. 
-				Monocultural fields, lawns, golf fields result in a lack of pollen diversity. 
-				Industrial beekeepers, in turn, use trucks to move colonies 
-				around fields for pollination. This practice drains the lifespan 
-				of worker bees and creates unhealthy congestion of colonies, 
-				increasing health risks.
-			</p>
+				<p>
+					Unethical treatment of bees is prevalent.
+					The lack of technological advancement, on one hand, leads some
+					beekeepers to count mites using medieval alcohol washing tests
+					that kill hundreds of bees, justifying it as saving the colony.
+				</p>
+				<p>
+					Industrialization and narrow specialization can lead to exploitation.
+					Monocultural fields, lawns, golf fields result in a lack of pollen diversity.
+					Industrial beekeepers, in turn, use trucks to move colonies
+					around fields for pollination. This practice drains the lifespan
+					of worker bees and creates unhealthy congestion of colonies,
+					increasing health risks.
+				</p>
 
-			<p>
-				Existing modern solutions on the market are inadequate because 
-				they focus on low-cost temperature and sound sensors that provide 
-				insufficient information. 
+				<p>
+					Existing modern solutions on the market are inadequate because
+					they focus on low-cost temperature and sound sensors that provide
+					insufficient information.
 
-				Others focus only on one area - finding mites or finding queen, or counting bees at the gate.
+					Others focus only on one area - finding mites or finding queen, or counting bees at the gate.
 
-				Alternative solutions target industrial 
-				beekeeping and focus on the unhealthy congestion of multiple bee 
-				colonies inside a shipping container.
-			</p>
-			
+					Alternative solutions target industrial
+					beekeeping and focus on the unhealthy congestion of multiple bee
+					colonies inside a shipping container.
+				</p>
 
-			<iframe 
-				style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
-				src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
-				allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			
-			<h2>Roadmap</h2>
-			
-			<ul>
-				<li>
-					Monitoring. Give better insights on colony life by analyzing <a
-						href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
-						target="" style="background-color: transparent;">nursing</a> and <a
-						href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
-						style="background-color: transparent;">field</a> bees demographics
-					<ul>
-						<li>⏳ Stream raspberry-pi video of hive gateway</li>
-						<li>⏳ Improved detection of queen presense</li>
-						<li>⏳ Detection of swarming based on queen cups</li>
-						<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count) </li>
-						<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
-						<li>⏳ Analyze audio for swarming and anomalies</li>
-					</ul>
-				</li>
-				
-				<li>
-					Longevity of bee colony and individual worker bees.
 
-					<ul>
-						<li>⏳ Detect <a href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a> at the gate by video</li>
-						<li>⏳ Detect <i>varroa destructor</i> mites</li>
-						<li>⏳ Detect deseases based on bee morphography</li>
-					</ul>
-				</li>
-					
-				
-				<li>
-					Autonomous hive
-					<ul>
-						<li>⏳ Use robotic box and frame actuators</li>
-						<li>⏳ Gate control, depending on hornets & weather</li>
-						<li>⏳ Ventilation assistance based on temperature/humidity</li>
-					</ul>
-				</li>
-				<li>
-					Modern digital app
-					<ul>
-						<li>✅ Visually manage beehive and its frames using a web app</li>
-						<li>✅ Plantnet integration with list of local plants</li>
-						<li>✅ Weather forecast around apiary</li>
-						<li>⏳ Timeline of inspections with a graph</li>
-					</ul>
-				</li>
-			</ul>
+				<iframe 
+					title="Author's introduction"
+					style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
+					src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
+					allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+					allowfullscreen></iframe>
 
-			And much more - see our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a>.
-				
-			<h3>Team</h3>
-			We are looking for <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7" target="">volunteers, partners and investors</a>
-			<table>
-				<tbody>
-					<tr>
-						<td>
-							<a href="https://twitter.com/tot_ra">
-								<img style="border-radius:50px;" width="100" height="100"
-									src="https://kurapov.ee/img/logo.jpg" />
-							</a>
-							<br />
-							<a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br />Beekeeper, Software
-							Engineer, Founder
-						</td>
+				<h2>Roadmap</h2>
 
-					</tr>
-				</tbody>
-			</table>
+				<ul>
+					<li>
+						Monitoring. Give better insights on colony life by analyzing <a
+							href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
+							target="" style="background-color: transparent;">nursing</a> and <a
+							href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
+							style="background-color: transparent;">field</a> bees demographics
+						<ul>
+							<li>⏳ Stream raspberry-pi video of hive gateway</li>
+							<li>⏳ Improved detection of queen presense</li>
+							<li>⏳ Detection of swarming based on queen cups</li>
+							<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count)
+							</li>
+							<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
+							<li>⏳ Analyze audio for swarming and anomalies</li>
+						</ul>
+					</li>
 
-			<h2>Open</h2>
-			<p>
-				Gratheon app is fully <a href="https://github.com/gratheon">open source</a> and provides GraphQL API. 
-				You can volunteer to fix or improve the system, or build upon it yourself.
-			</p>
+					<li>
+						Longevity of bee colony and individual worker bees.
 
-			<h4>Acknowledgements</h4>
-			<p>
-				Gratheon is built on the shoulders of giants.
-				We use pick best open-source models that are often backed by serious scientific publications.
-			</p>
-			<p>
-				Our <a href="https://github.com/Gratheon/models-frame-resources">frame resource detection</a> is based on 
-				<a href="https://doi.org/10.1016/j.compag.2020.105244">Automatic detection and classification of honey bee comb cells using deep learning</a> by
-				Thiago S. Alves, M. Alice Pinto, Paulo Ventura, Cátia J. Neves, David G. Biron, Arnaldo C. Junior, Pedro L. De Paula Filho, Pedro J. Rodrigues,
-			</p>
-			<p>
-				Our <a href="https://github.com/Gratheon/models-yolov5">bee detection</a> uses YoLoV5 model trained on dataset by
-				<a href="https://universe.roboflow.com/matt-nudi/honey-bee-detection-model-zgjnb">Matt Nudi</a>
-			</p>
+						<ul>
+							<li>⏳ Detect <a
+									href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a>
+								at the gate by video</li>
+							<li>⏳ Detect <i>varroa destructor</i> mites</li>
+							<li>⏳ Detect deseases based on bee morphography</li>
+						</ul>
+					</li>
+
+
+					<li>
+						Autonomous hive
+						<ul>
+							<li>⏳ Use robotic box and frame actuators</li>
+							<li>⏳ Gate control, depending on hornets & weather</li>
+							<li>⏳ Ventilation assistance based on temperature/humidity</li>
+						</ul>
+					</li>
+					<li>
+						Modern digital app
+						<ul>
+							<li>✅ Visually manage beehive and its frames using a web app</li>
+							<li>✅ Plantnet integration with list of local plants</li>
+							<li>✅ Weather forecast around apiary</li>
+							<li>⏳ Timeline of inspections with a graph</li>
+						</ul>
+					</li>
+				</ul>
+
+				And much more - see our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a>.
+
+				<h3>Team</h3>
+				We are looking for <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7"
+					target="">volunteers, partners and investors</a>
+				<table>
+					<tbody>
+						<tr>
+							<td>
+								<a href="https://twitter.com/tot_ra">
+									<img alt="author photo" style="border-radius:50px;" width="100" height="100"
+										src="https://kurapov.ee/img/logo.jpg" />
+								</a>
+								<br />
+								<a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br />Beekeeper,
+								Software
+								Engineer, Founder
+							</td>
+
+						</tr>
+					</tbody>
+				</table>
+
+				<h2>Open</h2>
+				<p>
+					Gratheon app is fully <a href="https://github.com/gratheon">open source</a> and provides GraphQL
+					API.
+					You can volunteer to fix or improve the system, or build upon it yourself.
+				</p>
+
+				<h3>Acknowledgements</h3>
+				<p>
+					Gratheon is built on the shoulders of giants.
+					We pick and integrate the best open-source models, that are often backed by serious scientific
+					publications.
+				</p>
+				<p>
+					Our <a href="https://github.com/Gratheon/models-frame-resources">frame resource detection</a> is
+					based on
+					<a href="https://doi.org/10.1016/j.compag.2020.105244">Automatic detection and classification of
+						honey bee comb cells using deep learning</a> by
+					Thiago S. Alves, M. Alice Pinto, Paulo Ventura, Cátia J. Neves, David G. Biron, Arnaldo C. Junior,
+					Pedro L. De Paula Filho, Pedro J. Rodrigues,
+				</p>
+				<p>
+					Our <a href="https://github.com/Gratheon/models-yolov5">bee detection</a> uses YoLoV5 model trained
+					on dataset by
+					<a href="https://universe.roboflow.com/matt-nudi/honey-bee-detection-model-zgjnb">Matt Nudi</a>
+				</p>
+				<p>
+					Our <a href="https://github.com/Gratheon/models-gate-tracker">gate counter model</a> is based on
+					work done by Fabian Hickert for his Master thesis
+				</p>
 
 		</article>
 
@@ -296,6 +293,40 @@
 		var sys_url = "http://gratheon.com/";
 		var language = "eng";
 	</script>
+
+	<!-- Google analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-30042696-1');
+	</script>
+
+
+	<!-- Microsoft clarity usage analytics -->
+	<script type="text/javascript">
+		(function (c, l, a, r, i, t, y) {
+			c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+			t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+			y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+		})(window, document, "clarity", "script", "hxl3bdiaiq");
+	</script>
+
+	<!--Tawk.to customer support-->
+	<script type="text/javascript">
+		var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+		(function(){
+		var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+		s1.async=true;
+		s1.src='https://embed.tawk.to/64b6ec5acc26a871b0293d74/1h5l8mh5h';
+		s1.charset='UTF-8';
+		s1.setAttribute('crossorigin','*');
+		s0.parentNode.insertBefore(s1,s0);
+		})();
+		</script>
+	<!--End of Tawk.to Script-->
 </body>
 
 </html>
