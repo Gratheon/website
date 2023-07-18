@@ -618,18 +618,18 @@ footer {
 
 #contact {
 	color: white;
-	background: #ae8d62;
+	background: #241603;
 	font-size: 18px;
 	padding: 20px 40px;
 	margin: 0;
 }
 
 #contact a {
-	color: #551f00;
+	color: #ffe353;
 }
 
 #splash {
-	background: url('/img/frame.jpg') no-repeat #302a61;
+	background: url('https://gratheon.s3-accelerate.amazonaws.com/frame.webp') no-repeat #302a61;
 	background-size: 100%;
 	background-position: 0 46%;
 }
