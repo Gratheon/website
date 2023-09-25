@@ -26,7 +26,7 @@
 	<meta name="theme-color" content="#ffffff">
 
 
-	<link rel="stylesheet" type="text/css" href="/style2.css" />
+	<link rel="stylesheet" type="text/css" href="style2.css" />
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
 		type='text/css'>
 	<link
@@ -48,7 +48,7 @@
 			<video id="bgVideo" autoplay loop muted></video>
 			<div style="z-index:2;">
 				<div style="display: flex;">
-					<div id="logo"><a href="https://gratheon.com/"><img alt="logo" src="/img/logo_v5.svg"></a></div>
+					<div id="logo"><a href="https://gratheon.com/"><img alt="logo" src="img/logo_v5.svg"></a></div>
 					<div id="splash_internal">
 						<div>Monitor bees with AI</div>
 						<p>Gather holistic apiary overview to make life-changing decisions</p>
@@ -85,6 +85,18 @@
 					</div>
 
 					<div class="feature">
+						<h3>Frame notes</h3>
+						<p>Use ipad pencil or mouse to draw on top of the frame to highlight important regions</p>
+					</div>
+
+					<div class="feature">
+						<h3>Analytics</h3>
+						<p>Aggregate timeline data from different sources, such as weather, external hardware APIs using
+							built-in industry-standard Grafana monitoring solution
+							to discover and predict colony behaviour</p>
+					</div>
+
+					<div class="feature">
 						<h3>Frame and bee detection</h3>
 						<p>Upload inspection photos of the frames to get automatic AI detection of cells and bees</p>
 						<video width="300" autoplay loop muted
@@ -93,12 +105,6 @@
 							src="https://gratheon.s3-accelerate.amazonaws.com/step2.webp" />
 
 					</div>
-
-					<div class="feature">
-						<h3>Frame notes</h3>
-						<p>Use ipad pencil or mouse to draw on top of the frame to highlight important regions</p>
-					</div>
-
 
 					<div class="feature">
 						<h3>Entrance video monitoring</h3>
@@ -111,12 +117,9 @@
 							src="https://gratheon.s3-accelerate.amazonaws.com/video/gate-demo.mp4"></video>
 					</div>
 
-
 					<div class="feature">
-						<h3>Analytics</h3>
-						<p>Aggregate timeline data from different sources, such as weather, external hardware APIs using
-							built-in industry-standard Grafana monitoring solution
-							to discover and predict colony behaviour</p>
+						<h3>Environment</h3>
+						<p>Gather context of plants and weather around your apiary</p>
 					</div>
 				</div>
 		</article>
@@ -172,58 +175,7 @@
 					allowfullscreen></iframe>
 
 				<h2>Roadmap</h2>
-
-				<ul>
-					<li>
-						Monitoring. Give better insights on colony life by analyzing <a
-							href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-21769-1/MediaObjects/41467_2021_21769_MOESM13_ESM.mp4"
-							target="" style="background-color: transparent;">nursing</a> and <a
-							href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/counter.mp4" target=""
-							style="background-color: transparent;">field</a> bees demographics
-						<ul>
-							<li>⏳ Stream raspberry-pi video of hive gateway</li>
-							<li>⏳ Improved detection of queen presense</li>
-							<li>⏳ Detection of swarming based on queen cups</li>
-							<li>⏳ Detection of field bee loss based on gate traffic video (bees coming in/out count)
-							</li>
-							<li>⏳ Support low-level sensor APIs (temperature, humidity, weight) </li>
-							<li>⏳ Analyze audio for swarming and anomalies</li>
-						</ul>
-					</li>
-
-					<li>
-						Longevity of bee colony and individual worker bees.
-
-						<ul>
-							<li>⏳ Detect <a
-									href="https://satoh.cs.uec.ac.jp/ja/research/bee/images/bee/hornet.mp4">hornets</a>
-								at the gate by video</li>
-							<li>⏳ Detect <i>varroa destructor</i> mites</li>
-							<li>⏳ Detect deseases based on bee morphography</li>
-						</ul>
-					</li>
-
-
-					<li>
-						Autonomous hive
-						<ul>
-							<li>⏳ Use robotic box and frame actuators</li>
-							<li>⏳ Gate control, depending on hornets & weather</li>
-							<li>⏳ Ventilation assistance based on temperature/humidity</li>
-						</ul>
-					</li>
-					<li>
-						Modern digital app
-						<ul>
-							<li>✅ Visually manage beehive and its frames using a web app</li>
-							<li>✅ Plantnet integration with list of local plants</li>
-							<li>✅ Weather forecast around apiary</li>
-							<li>⏳ Timeline of inspections with a graph</li>
-						</ul>
-					</li>
-				</ul>
-
-				And much more - see our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a>.
+				See our <a href="https://github.com/orgs/Gratheon/projects/1">roadmap and tasks</a> for what to expect in the future.
 
 				<h3>Team</h3>
 				We are looking for <a href="https://gratheon.notion.site/Vacancies-e50bd8e561c74102ab8e2b96276809c7"

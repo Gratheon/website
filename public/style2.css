@@ -799,6 +799,17 @@ header {
 	overflow: hidden;
 }
 
+.features{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.feature {
+	flex-basis: calc(33.33333% - 5px);
+	max-width: calc(33.33333% - 5px);
+}
+
+
 @media (max-width: 1024px) {
 	header {
 		height: 400px;
@@ -813,7 +824,8 @@ header {
 
 
 	.feature {
-		max-width: 45%;
+		flex-basis: calc(50% - 5px);
+		max-width: calc(50% - 5px);
 	}
 }
 
@@ -823,10 +835,9 @@ header {
 		height: 200px;
 	}
 
-	.features{
-		display: grid;
-	}
 	.feature {
-		max-width: 30%;
+		flex-basis: 100%;
+		max-width: 100%;
 	}
+	
 }
