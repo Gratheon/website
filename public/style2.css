@@ -809,6 +809,10 @@ header {
 	max-width: calc(33.33333% - 5px);
 }
 
+.feature img{
+	max-width:100%;
+}
+
 
 @media (max-width: 1024px) {
 	header {
