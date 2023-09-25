@@ -810,11 +810,23 @@ header {
 	header {
 		height: 300px;
 	}
+
+
+	.feature {
+		max-width: 45%;
+	}
 }
 
 
 @media (max-width: 600px) {
 	header {
 		height: 200px;
+	}
+
+	.features{
+		display: grid;
+	}
+	.feature {
+		max-width: 30%;
 	}
 }
