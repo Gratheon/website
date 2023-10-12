@@ -845,3 +845,25 @@ header {
 	}
 	
 }
+
+.action {
+	background: #108310;
+	border-radius: 8px;
+	color: white;
+	padding: 10px 15px;
+	border: 0;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	text-shadow: none;
+	margin: 5px auto;
+}
+
+.action:visited {
+	color: white;
+}
+
+.action:hover {
+	color: black;
+	background: yellow;
+}
