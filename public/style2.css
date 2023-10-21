@@ -52,6 +52,7 @@ body {
 	margin: 0;
 	font-size: 13px;
 	line-height: 1.231;
+	min-width:370px;
 }
 
 body,
@@ -304,7 +305,8 @@ table input {
 	*overflow: auto;
 }
 
-table td, table th{
+table td,
+table th {
 	padding: 3px 10px;
 	border: 1px solid gray;
 }
@@ -634,7 +636,7 @@ footer {
 }
 
 #splash {
-	background: url('https://gratheon.s3-accelerate.amazonaws.com/frame.webp') no-repeat #302a61;
+	background: #0248ff;
 	background-size: 100%;
 	background-position: 0 46%;
 }
@@ -653,9 +655,16 @@ footer {
 }
 
 #splash #splash_internal p {
-	font-size: 15px;
+	font-size: 20px;
 	margin: 0;
-	text-shadow: black 1px 1px;
+	border-radius:10px;
+	padding: 0 5px;
+	font-weight:bold;
+		
+	color: white;
+	
+	mix-blend-mode: color-dodge;
+
 }
 
 .signup {
@@ -710,6 +719,12 @@ footer {
 	display: block;
 }
 
+@media screen and (min-width: 600px) {
+	#splash #splash_internal div {
+		font-size: 32px;
+		line-height:105%
+	}
+}
 @media screen and (min-width: 1024px) {
 	#how-to {
 		flex-direction: row;
@@ -804,20 +819,20 @@ header {
 	overflow: hidden;
 }
 
-.features{
+.features {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
 }
+
 .feature {
 	flex-basis: calc(33.33333% - 5px);
 	max-width: calc(33.33333% - 5px);
 }
 
-.feature img{
-	max-width:100%;
+.feature img {
+	max-width: 100%;
 }
-
 
 @media (max-width: 1024px) {
 	header {
@@ -825,12 +840,10 @@ header {
 	}
 }
 
-
 @media (max-width: 800px) {
 	header {
 		height: 300px;
 	}
-
 
 	.feature {
 		flex-basis: calc(50% - 5px);
@@ -848,7 +861,7 @@ header {
 		flex-basis: 100%;
 		max-width: 100%;
 	}
-	
+
 }
 
 .action {
@@ -873,27 +886,27 @@ header {
 	background: yellow;
 }
 
-/* #future{
-	display:flex;
-}
-
-#future div{
-	padding-bottom:0 10px 10px 0;
-} */
-
-#author{
+#author {
 	padding: 30px;
-	float:right;
+	float: right;
 	width: 200px;
 }
 
 @media (max-width: 600px) {
-	#author{
-		padding:30px 0;
-		float:none;
+	#author {
+		padding: 30px 0;
+		float: none;
 	}
+}
 
-	/* #future{
-		flex-direction:column;
-	} */
+#login {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background: rgba(128, 128, 128, 0.8);
+	text-align: center;
+	border-radius: 0 0 0 5px;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
 }
