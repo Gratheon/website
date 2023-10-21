@@ -537,7 +537,12 @@ h2 {
 }
 
 h3 {
-	font-size: 1.7rem;
+	font-size: 1.5rem;
+	margin:0;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'PT Serif Caption'
 }
 
 #languages {
@@ -826,12 +831,20 @@ header {
 }
 
 .feature {
+	padding:5px;
+	box-sizing: border-box;
 	flex-basis: calc(33.33333% - 5px);
 	max-width: calc(33.33333% - 5px);
 }
 
 .feature img {
+	max-width:450px;
 	max-width: 100%;
+}
+
+.feature video{
+	max-width:450px;
+	width:100%;
 }
 
 @media (max-width: 1024px) {
