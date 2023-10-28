@@ -878,7 +878,7 @@ header {
 }
 
 .action {
-	background: #108310;
+	background: gray;
 	border-radius: 8px;
 	color: white;
 	padding: 10px 15px;
@@ -890,6 +890,10 @@ header {
 	margin: 5px auto;
 }
 
+
+.action_green {
+	background: #108310;
+}
 .action:visited {
 	color: white;
 }
