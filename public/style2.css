@@ -85,11 +85,13 @@ textarea {
 	Links
 	========================================================================== */
 a {
-	color: #00e;
+	color: rgb(0, 76, 255);
+	border-bottom: 1px solid rgb(255, 234, 0);
+	text-decoration: none;
 }
 
 a:visited {
-	color: #551a8b;
+	color: #5300f9;
 }
 
 a:hover {
@@ -596,16 +598,6 @@ header #logo a img {
 	width: 50px;
 }
 
-
-footer {
-	clear: both;
-	display: block;
-	padding: 0;
-	bottom: 0;
-	min-height: 100px;
-	margin-top: -3px;
-}
-
 #content {
 	color: #222;
 	background: rgba(255, 255, 255, 0.98);
@@ -626,18 +618,6 @@ footer {
 
 #content ul {
 	padding-left: 20px;
-}
-
-#contact {
-	color: white;
-	background: #241603;
-	font-size: 18px;
-	padding: 20px 40px;
-	margin: 0;
-}
-
-#contact a {
-	color: #ffe353;
 }
 
 #splash {
@@ -771,16 +751,6 @@ footer {
 	#latest_news div {
 		width: 200px;
 		margin: 10px auto;
-	}
-
-	#contact {
-		height: 200px;
-		padding: 0;
-		display: flex;
-	}
-
-	#contact div {
-		padding: 40px 25px;
 	}
 }
 
@@ -920,4 +890,46 @@ header {
 	padding: 10px;
 	color: white;
 	text-decoration: none;
+}
+
+
+
+
+/* footer */
+footer {
+	clear: both;
+	display: block;
+	padding: 0;
+	bottom: 0;
+	min-height: 100px;
+	margin-top: -3px;
+}
+
+
+footer a, footer a:visited {
+	color: #ffe353;
+}
+
+
+footer {
+	color: white;
+	background: #241603;
+	font-size: 18px;
+	padding: 20px 40px;
+	margin: 0;
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+}
+
+@media screen and (min-width: 1024px) {
+	footer {
+		padding: 0;
+		display: flex;
+		padding: 40px 25px;
+	}
+
+	footer div {
+		padding: 10px;
+	}
 }
