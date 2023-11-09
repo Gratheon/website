@@ -858,6 +858,9 @@ header {
 	text-decoration: none;
 	text-shadow: none;
 	margin: 5px auto;
+	white-space: nowrap;
+	box-sizing: border-box;
+	display: inline-block;
 }
 
 
