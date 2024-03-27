@@ -820,6 +820,7 @@ header {
 
 .feature video {
 	max-width: 450px;
+	max-height: 450px;
 	width: 100%;
 }
 
