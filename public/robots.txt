@@ -1,2 +1,4 @@
 User-Agent: *
 Allow: /
+Disallow: https://app.gratheon.com/*
+Sitemap: https://gratheon.com/sitemap.xml
