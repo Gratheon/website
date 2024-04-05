@@ -1,0 +1,25 @@
+﻿Name,palgafond,phase,salary (netto),department,Responsibilities
+Product Manager / Beekeeper / Community relations,1735,1 - pre-seed,1000,"product, sales-marketing","- Talk to clients
+- gather requirements
+- community
+- Task prioritization"
+Fullstack engineer,6940,1 - pre-seed,4000,engineering / web-app,"- need to further develop the app both BE and FE (go, python, nodejs, react)"
+MLOps / Data scientist / Research,6940,1 - pre-seed,4000,engineering / machine-learning,"- need to optimize models. Better precision, less memory usage
+- gather and improve training datasets
+- need to integrate new vision models
+- need to run it on edge devices
+- build own GPU inference server"
+Robotics (Mechanical / Electronics) engineer,6072,1 - pre-seed,3500,engineering / robotics,"- need to plan robotic beehive - CAD modelling
+- need to build components - 3D printing
+- need to plan and improve internals -Electronics, signal processing, PCB design
+(Altium)"
+UI designer,0,2-seed,,,"• take over work from fullstack dev to have more FE/BE specialization
+• need to optimize frontend and make it more scalable"
+Quality Automations engineer,0,2-seed,,engineering / machine-learning,need to write e2e tests if engineers still did not
+SRE/DevOps/Infra engineer,6940,2-seed,4000,engineering / infra,"- build deployment pipeline for edge devices (balena, snapstore..)
+- maintain deployment pipeline
+- scale infra from single-node docker-containerized services further
+- automate e2e tests
+- services monitoring
+- db backup"
+Sales & Marketing manager,0,,,sales-marketing,need to grow user base and take over work from PM

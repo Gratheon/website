@@ -1,0 +1,65 @@
+﻿Name,Website,Focus,Funding,Country,Details,Pricing,Customer estimation
+https://beewise.ag/home,https://beewise.ag/,"nest, robot, vision",120M,Israel,Industrial level robotic beehives with image processing. Rent model,$400/month per container + 2000$ delivery,
+Apic.ai,https://apic.ai/research.html,"entrance, vision",,Germany,"scientific research, counter","video + scale + sensor
+350 € - 550 € per ",
+LabelBee,,,,USA / Puerto Rico,,,
+BeeHero,https://www.beehero.io/,analog,42M,Israel,"Low-signal hardware
+SaaS app
+Industrial focus",,
+BeeScanning,https://www.beescanning.com/,"software, vision",,Sweden,Varroa mite detection with mobile app and image recognition,40 € /year,5k
+HiveTracks,https://www.hivetracks.com/,software,,USA / NC,nice UI / hive manager,70 € / year,1k downloads
+HiveBloom,,software,,,"nice UI / hive manager
+android / ios",20 € / year,5k downloads
+Apizoom,https://www.apizoom.app/,"software, varroa, vision",,Switzerland,"android / ios
+(Dead) Varroa mite detection on hive bottom. Requires a photo of the coin present",,
+Beemate,https://beemate.buzz/,"entrance, vision",,Australia,"Entrance tracking, 
+temperature, humidity and sound sensors",,
+Bee Queen Detector,,software,,,Queen detection with mobile app and image recognition,free,10k
+BeePi,"https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-a-multisensor-electronic-beehive-monitor/description
+https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-honeybees-meet-ai-stage-2
+https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-honeybees-meet-ai-stage-3/description","entrance, vision",,USA / Utah,"scientific research, counter + audio
+
+no sensors inside the hive
+no cloud computation",,
+Beep.nl,"https://beep.nl/
+https://www.kickstarter.com/projects/beepnl/beep-base-a-measurement-system-to-assist-beekeepers?ref=discovery&term=beehive","analog, nest",,Netherlands,Low-signal hardware (audio) + software + opensource app,"scale + sensor + hub - 475 €
+2k+ users",
+Beelab.se,https://www.beelab.se/,"analog, nest",,Sweden,MQTT +  AWS + Grafanahttps://www.beelab.se/https://www.youtube.com/watch?v=XhjNoGhjdfE,,
+ApiManager,https://apimanager.net/,software,,,,,10k downloads
+ApiaryBook,apiarybook.com,software,50K,England,"Exhaustive administration of various data / CRUD
+android / ios",,"25k MAU
+250k downloads"
+IntelligentHives,https://intelligenthives.eu/#/,"analog, nest",,Poland,Low-signal hardware (audio) + software,scale + sensor + hub - 430 $,
+BeeHiveMonitoring,beehivemonitoring.com,analog,,Slovakia,,"hub - 160 €
+scale - 160 €
+sensor - 70 €",
+SmartHive,http://smarthive.co.kr/,nest,,Korea,"Semi-automatic robotic assistant, focus on cleaning the frames",6000 $,
+Broodminder,broodminder.com,analog,,USA,Low-signal hardware (audio) + software,"hub - 260$
+scale - 240$
+sensor - 42$",
+Solutionbee.com,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,"hub - 1200$
+scale - 360$
+sensor - 65$",
+beehivemonitoringusa.com,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,170$,
+https://www.osbeehives.com/,,analog,,,"Low-signal hardware (audio)
+Audio-focus
+SaaS app",119$,
+https://beesage.co/,,analog,,Netherlands,,10 EUR / mo + 150 EUR device,
+https://www.hivetracks.com/,,,,,SaaS app,8$ / month,
+APIs tech,https://www.indiegogo.com/projects/apis-tech-smart-hive-monitor-for-every-beehive#/,,,,,,
+Hive genie,https://www.indiegogo.com/projects/hive-genie-beehive-monitor-controller-guardian#/,,,USA,,,
+GoBuzzr,https://www.gobuzzr.com/,analog,,,"temperature, humidity, weight → device + app",,
+HiveMind,https://www.kickstarter.com/projects/hivemind/innovative-wireless-beehive-scales?ref=discovery&term=beehive,,,,,,
+BuzzBox,https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive,,,,,,
+urbanBee: Kolony,https://www.kickstarter.com/projects/283199796/urbanbee-kolony?ref=discovery&term=beehive,,,,"seems to be dead project, last publication 2019
+https://www.facebook.com/UrbanBee/?locale=mg_MG",,
+HivePi,,,,,https://www.youtube.com/watch?v=NPoLbz1RYGk,,
+BeeBot,,,,,https://www.youtube.com/watch?v=WDs45mVPYmc,,
+Scales,,,,,https://www.youtube.com/watch?v=kE4ovbHn7Yw,,
+Arnia.co,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,"150$ / year
+scale - 307$
+sensor - 90$",
+ApisProtect,https://apisprotect.com/,analog,,Ireland,,,
+ProHiver,https://prohiver.com/,"analog, weight",,Lithuania,,,
+HivePulse,https://hivepulse.co.za/,analog,,,,,
+HoneyInstruments,https://www.honeyinstruments.com/en,analog,,,,,
