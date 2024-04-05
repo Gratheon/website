@@ -1,0 +1,685 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Robotic beehive</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(255, 255, 255, 0.0375); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="fd9559a2-950b-44bc-8291-972299ced18e" class="page sans"><header><img class="page-cover-image" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_white_wooden_box_glass_box_with_yellow_r_7%201.jpg" style="object-position:center 86.43%"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon">🧿</span></div><h1 class="page-title">R<strong>obotic beehive</strong></h1><p class="page-description"></p></header><div class="page-body"><h2 id="1903cf0d-feca-46f1-9118-0e0e3cfdef5d" class="">Why</h2><p id="af397a54-c124-43dd-89b1-8ad4cd282d95" class="">To solve <a href="../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20as%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html">Observability of bee colony</a>, <a href="../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20as%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Hard%20physical%20labor%20b8861af7945c4cfea61020521ec26a27.html">Hard physical labor</a> and <a href="../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20as%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Remote%20apiary%20locations%20take%20time%202a2e75c03b294fc9949eed71f94bfe7d.html">Remote apiary locations take time</a>  problems, we’re building a robotic beehive, capable of replacing human beekeeper by doing inspections automatically.</p><h2 id="d4568088-f43e-4b52-a385-68aaef519016" class="">How</h2><p id="78457922-9139-453f-a327-ea8c1dbd97bb" class="">Robot should extract hive frames, take a photo and upload to the cloud app where it will be processed for health status. Extraction should happen without disturbing the bees, exposing them to elements or risking people around.</p><p id="b1bc8867-ed5e-413d-b951-6c4839985d2a" class="">This is a fixed single-colony robot and is a base functionality that<a href="Robotic%20apiary%20beekeeper%20c14f4ea70f3146b5868a2d7874b8a958.html"><span class="icon">🤖</span>Robotic apiary beekeeper</a> would use to serve entire apiary. Pricing strategy is to follow Tesla approach - first build an expensive prototype from generic parts and over time make it more affordable</p><h2 id="f675e502-ed60-44fb-97eb-9ae7a7cbc182" class="">What</h2><figure id="1d7756eb-f56e-4a30-ba65-2a128b583f82" class="link-to-page"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Mechanism%20to%20extract%20frames%201d7756ebf56e4a30ba652a128b583f82.html"><span class="icon">🦾</span>Mechanism to extract frames</a></figure><figure id="9c8e8ec5-2ace-496f-af85-e5a21f988c0b" class="link-to-page"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Bill%20of%20Materials%209c8e8ec52ace496faf85e5a21f988c0b.html"><span class="icon">⚙️</span>Bill of Materials</a></figure><p id="f7935de5-0bf3-4351-8193-c841c1cfb6d1" class="">
+</p><p id="06ff0ff8-6555-44a9-952d-43ceee035500" class="">
+</p><h2 id="4305e1ed-d9db-42e9-b982-380d1863e1c9" class="">Prototype</h2><figure id="7bcba400-b6ac-4b07-a29a-3c46646a7e56" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/20240321_115156_(1).jpg"><img style="width:656.0069580078125px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/20240321_115156_(1).jpg"/></a></figure><p id="f19fc99a-f509-4330-8425-8ca0b1ad9eac" class="">
+</p><h2 id="27c566f4-3947-4da5-bcd0-f848184dcf92" class="">Vision</h2><h3 id="14896da6-54a8-45ae-8a20-14f0690e84af" class="">3D sketch</h3><figure id="62f1f698-26e2-4f31-ac63-cba18bfdbae0"><a href="https://www.tinkercad.com/things/cWCQhx15Z0r-gratheon-stationary-hive-protype" class="bookmark source"><div class="bookmark-info"><div class="bookmark-text"><div class="bookmark-title"></div></div><div class="bookmark-href">https://www.tinkercad.com/things/cWCQhx15Z0r-gratheon-stationary-hive-protype</div></div></a></figure><figure id="a0c2bf77-5bd0-437a-9a91-769868bb67cc" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-27_at_01.25.33.png"><img style="width:1317px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-27_at_01.25.33.png"/></a><figcaption>v4. Brought back dynamic camera and simplified vertical frame fixation. changed gantry to be vertical, added second hive section inspection ability</figcaption></figure><div id="894face6-840f-4df9-a415-5620d3c5e60f" class="column-list"><div id="8cdf13c7-1323-494e-ad03-70f85722814a" style="width:50%" class="column"><figure id="a292431a-23f0-41a3-9e3d-e5dc8b761983" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-24_at_18.24.57.png"><img style="width:1203px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-24_at_18.24.57.png"/></a><figcaption>v3. added aluminium frames to have more modular structure. Moved entrance to have more symmetric hive as well as equal access to frames by bees</figcaption></figure></div><div id="57b2bb3a-d9ae-4cbd-94c0-2ec63fefb728" style="width:50%" class="column"><figure id="d02e1e9c-652b-4812-85d0-df6bad22fde8" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-24_at_18.29.21.png"><img style="width:1184px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-12-24_at_18.29.21.png"/></a><figcaption>v3. Cameras are fixed in position, now instead, frames are expected to be moved left or right out of original position to cameras focal point. This requires custom frame hook that should have it fixed in 3x planes</figcaption></figure></div></div><figure id="6ead23f9-51a8-455b-84a2-52f64b27e9ea" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-27_at_11.51.38.png"><img style="width:1281px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-27_at_11.51.38.png"/></a><figcaption>v2. Moving cameras on top, trying to simplify the focusing mechanism<br/><br/></figcaption></figure><figure id="1f14a3b3-53b6-4f6b-8661-be12b12f6e1e" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-26_at_16.47.08.png"><img style="width:1312px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-26_at_16.47.08.png"/></a><figcaption>v1. entrance on the side, two cameras that are moved by robot to have fixed focal point for every frame. Makes entire chamber quite wide as cameras need lots of space for focal point of last frames that are pulled out</figcaption></figure><p id="a423796f-826f-4f13-99ac-4542d461efe0" class="">
+</p><h3 id="4c5a2f42-03e0-4fe7-a4a7-39e39cc74ed2" class="">2D sketch</h3><div id="d80e7eb9-ebec-43fd-8fcb-1078777d7049" class="column-list"><div id="bac52a29-10a5-4f3b-b71b-f1a1d6587226" style="width:50%" class="column"><figure id="13a91e90-89c5-4e28-8dc8-876f77cd3289" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-18_at_22.27.44.png"><img style="width:506px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-18_at_22.27.44.png"/></a><figcaption>Image, GPU system</figcaption></figure><p id="e9ecadf1-cb60-4d2a-9384-12e4b7340da8" class="">
+</p></div><div id="024be132-3c9a-4514-9d5c-18aa803ddf1d" style="width:50%" class="column"><figure id="4ffa3743-b756-4cc1-a9e9-0fba5392ed7b" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-18_at_22.30.34.png"><img style="width:405px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-18_at_22.30.34.png"/></a><figcaption>Mechanism to extract frames</figcaption></figure></div></div><h3 id="e118f1e1-83ea-448a-9096-4aa31365cffc" class="">AI sketch</h3><div id="7725b8f2-3e45-4f5d-845f-cfa81c2a1c43" class="column-list"><div id="5931e594-c973-4f90-a970-b85500582e03" style="width:50%" class="column"><figure id="456319ba-a3c6-4d2d-9e30-9f62de9ad8e9" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_white_wooden_box_glass_box_with_yellow_r_7.jpg"><img style="width:768px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_white_wooden_box_glass_box_with_yellow_r_7.jpg"/></a></figure></div><div id="6e60b477-7f2a-442f-8832-b0e300a4b106" style="width:50%" class="column"><figure id="1803cec2-9ea5-497f-818e-ce88a8dfc739" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-22_at_12.27.52.png"><img style="width:1359px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Screenshot_2023-11-22_at_12.27.52.png"/></a></figure><p id="c00cc658-4a0c-4db8-b464-807695ed63b1" class="">
+</p></div></div><div id="76823e67-a6dc-4576-95f7-d1fcfe5feced" class="column-list"><div id="0817312c-c614-4e57-8f99-be7ad5425ea7" style="width:50%" class="column"><figure id="5e2e7644-616d-4174-b610-a013699ae1ce" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_blackyellow_glassbox_with_robotic_gantry_2.jpg"><img style="width:768px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_blackyellow_glassbox_with_robotic_gantry_2.jpg"/></a></figure></div><div id="bfe559c4-c4e8-46e4-a02e-90b27a63834f" style="width:50%" class="column"><div><figure id="c6905c46-3268-41eb-a0fc-150879f5cc18" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_blackyellow_glassbox_with_robotic_gantry_3.jpg"><img style="width:768px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Leonardo_Diffusion_XL_blackyellow_glassbox_with_robotic_gantry_3.jpg"/></a></figure></div></div></div><div id="61522016-8d8c-4636-9d61-65f23c571cbb" class="collection-content"><h4 class="collection-title">Robotic beehive product requirements</h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesMultipleSelect"><path d="M1.91602 4.83789C2.44238 4.83789 2.87305 4.40723 2.87305 3.87402C2.87305 3.34766 2.44238 2.91699 1.91602 2.91699C1.38281 2.91699 0.952148 3.34766 0.952148 3.87402C0.952148 4.40723 1.38281 4.83789 1.91602 4.83789ZM5.1084 4.52344H14.3984C14.7607 4.52344 15.0479 4.23633 15.0479 3.87402C15.0479 3.51172 14.7607 3.22461 14.3984 3.22461H5.1084C4.74609 3.22461 4.45898 3.51172 4.45898 3.87402C4.45898 4.23633 4.74609 4.52344 5.1084 4.52344ZM1.91602 9.03516C2.44238 9.03516 2.87305 8.60449 2.87305 8.07129C2.87305 7.54492 2.44238 7.11426 1.91602 7.11426C1.38281 7.11426 0.952148 7.54492 0.952148 8.07129C0.952148 8.60449 1.38281 9.03516 1.91602 9.03516ZM5.1084 8.7207H14.3984C14.7607 8.7207 15.0479 8.43359 15.0479 8.07129C15.0479 7.70898 14.7607 7.42188 14.3984 7.42188H5.1084C4.74609 7.42188 4.45898 7.70898 4.45898 8.07129C4.45898 8.43359 4.74609 8.7207 5.1084 8.7207ZM1.91602 13.2324C2.44238 13.2324 2.87305 12.8018 2.87305 12.2686C2.87305 11.7422 2.44238 11.3115 1.91602 11.3115C1.38281 11.3115 0.952148 11.7422 0.952148 12.2686C0.952148 12.8018 1.38281 13.2324 1.91602 13.2324ZM5.1084 12.918H14.3984C14.7607 12.918 15.0479 12.6309 15.0479 12.2686C15.0479 11.9062 14.7607 11.6191 14.3984 11.6191H5.1084C4.74609 11.6191 4.45898 11.9062 4.45898 12.2686C4.45898 12.6309 4.74609 12.918 5.1084 12.918Z"></path></svg></span>Tags</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>Name</th></tr></thead><tbody><tr id="fe321850-0adc-43b2-b7e1-6bc4335441d9"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20kill%20bees%20%5Bwith%20moving%20mechanisms,%20hypothermia%20fe3218500adc43b2b7e16bc4335441d9.html">not kill bees [with moving mechanisms, hypothermia, open to stealing or attacks via cracks]</a></td></tr><tr id="5eba5495-de2a-4d35-a30e-b60c41e53b26"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/make%20on-demand%20frame%20photo%20within%201%20minute%20time%205eba5495de2a4d35a30eb60c41e53b26.html">make on-demand frame photo within 1 minute time</a></td></tr><tr id="0e96d8b6-d83a-4cf9-a042-6f140ff15229"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/make%20on-demand%20inspection%20Move%20out%2010%20frames,%20take%200e96d8b6d83a4cf9a0426f140ff15229.html">make on-demand inspection. Move out 10 frames, take photos from both sides</a></td></tr><tr id="7002a435-5921-4d07-a4c3-30466efb9cd3"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/frame%20photo%20resolution%20should%20be%2015%20MP%207002a43559214d07a4c330466efb9cd3.html">frame photo resolution should be &gt; 15 MP</a></td></tr><tr id="6d4fbcc7-886f-4103-981b-35c7b74ae2bb"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/stream%20entrance%20stream%20on-demand%206d4fbcc7886f4103981b35c7b74ae2bb.html">stream entrance stream on-demand</a></td></tr><tr id="be555641-a6f8-4cd2-b2de-71f54473077f"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/be%20able%20to%20extract%20frame%20if%20bees%20glued%20it%20with%20wax%20be555641a6f84cd2b2de71f54473077f.html">be able to extract frame if bees glued it with wax</a></td></tr><tr id="60a1715c-b61b-47e2-9fb6-451f931fca9c"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/move%20frame%20that%20is%20full%20of%20honey%20(4kg)%2060a1715cb61b47e29fb6451f931fca9c.html">move frame that is full of honey (4kg)</a></td></tr><tr id="f46ae668-ce75-40f3-9391-46bb52788629"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/close%20entrance%20in%20case%20of%20danger%20(hornets,%20stealin%20f46ae668ce7540f3939146bb52788629.html">close entrance in case of danger (hornets, stealing behaviour)</a></td></tr><tr id="67adb15e-b22d-4a4a-b86d-1f4117bbf481"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/count%20bees%20at%20the%20entrance%2067adb15eb22d4a4ab86d1f4117bbf481.html">count bees at the entrance</a></td></tr><tr id="0656fbfb-5a81-43d9-8609-023238279446"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/be%20repairable%20(modular,%20hot-swappable)%200656fbfb5a8143d98609023238279446.html">be repairable (modular, hot-swappable)</a></td></tr><tr id="107ed84c-a1a9-4865-a664-f6c39e282bd1"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/be%20offline-first%20Provide%20data%20to%20beekeeper%20without%20107ed84ca1a94865a664f6c39e282bd1.html">be offline-first. Provide data to beekeeper without internet or cloud account</a></td></tr><tr id="2adf5547-7984-4f1a-870e-d7c7b11ee874"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/provide%20manual%20on-site%20control%20over%20frame%20movement%202adf554779844f1a870ed7c7b11ee874.html">provide manual on-site control over frame movement</a></td></tr><tr id="3b12a681-2578-447f-be14-bbf765e0a054"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/fallback%20to%20safe%20mode%20on%20power%20loss%203b12a6812578447fbe14bbf765e0a054.html">fallback to safe mode on power loss</a></td></tr><tr id="2e0ce23a-6cca-457b-8ef8-fc61d07a1a82"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/fallback%20to%20safe%20mode%20on%20internet%20connection%20loss%202e0ce23a6cca457b8ef8fc61d07a1a82.html">fallback to safe mode on internet connection loss</a></td></tr><tr id="9c1a651d-4942-4e6d-a227-0ac0e3d29524"><td class="cell-r}?c"><span class="selected-value select-value-color-purple">must</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/extract%208-10%20frames%20per%20box%209c1a651d49424e6da2270ac0e3d29524.html">extract 8-10 frames per box</a></td></tr><tr id="83235463-885b-4ce7-a4b6-c4ff959e3054"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/allow%20manual%20extraction%20replacement%20of%20specific%20fr%2083235463885b4ce7a4b6c4ff959e3054.html">allow manual extraction/replacement of specific frame by beekeeper, without opening the hive (for cross-family resource balancing, honey separation etc)</a></td></tr><tr id="fbd2cac3-9334-4f29-832e-5f9ce71d7823"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/take%20into%20account%20bee%20morphology%20for%20material%20desi%20fbd2cac393344f29832e5f9ce71d7823.html">take into account bee morphology for material design (bee’s grip)</a></td></tr><tr id="ddc927be-5fb3-497a-bf30-054e455a4f28"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/container%20box%20vary%20in%20size%20depending%20on%20frame%20size%20ddc927be5fb3497abf30054e455a4f28.html">container box vary in size depending on frame size (langstroth, estonian, farrar, dadan etc)</a></td></tr><tr id="2d489353-9389-4395-a10a-466324ae81df"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/decrease%20entrance%20in%20case%20of%20high%20wind%20weather%20(st%202d48935393894395a10a466324ae81df.html">decrease entrance in case of high wind weather (storm)</a></td></tr><tr id="5bb1c923-f478-4925-8b50-b05d3e55ecbb"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/take%20photos%20in%20the%20dark%20poor%20lighting%205bb1c923f47849258b50b05d3e55ecbb.html">take photos in the dark / poor lighting</a></td></tr><tr id="0b22d076-401e-4c01-a94b-2b979c32fa68"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20be%20affected%20by%20bees%20flying%200b22d076401e4c01a94b2b979c32fa68.html">not be affected by bees flying</a></td></tr><tr id="6631c975-8a30-4dcc-a90e-2e5188667a16"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/survive%20winter%20temperatures%20of%20-30C%206631c9758a304dcca90e2e5188667a16.html">survive winter temperatures of -30C</a></td></tr><tr id="8c1fd214-3838-4fa2-b4db-e1d91da85710"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/survive%20direct%20sunlight%20of%20+60C%20weather%208c1fd21438384fa2b4dbe1d91da85710.html">survive direct sunlight of +60C weather</a></td></tr><tr id="837c6773-7ea3-4b87-a031-eefe94444276"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20disturb%20bees%20or%20beekeeper%20with%20noise%20(occasion%20837c67737ea34b87a031eefe94444276.html">not disturb bees or beekeeper with noise (occasional 55db max)</a></td></tr><tr id="c600c7d8-c41b-45f0-83fa-64a617c47377"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20have%20high-power%20(220V)%20voltage%20cords%20inside%20th%20c600c7d8c41b45f083fa64a617c47377.html">not have high-power (220V) voltage cords inside the hive near the bees</a></td></tr><tr id="46720420-dd1c-454c-940b-da746f9839b9"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20have%20chemically%20aroma%20active%20compounds%20(plasti%2046720420dd1c454c940bda746f9839b9.html">not have chemically/aroma active compounds (plastic) inside the hive</a></td></tr><tr id="be6e7f03-7cf7-47cc-9f3f-c853081bbca8"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/avoid%20(cold)%20metal%20exposed%20to%20bees%20inside%20the%20hive%20be6e7f037cf747cc9f3fc853081bbca8.html">avoid (cold) metal exposed to bees inside the hive</a></td></tr><tr id="0314e2a3-c205-4422-82b3-d597303e7311"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/keep%20hive%20internals%20at%2050-60%25%20humidity%20(ventilatio%200314e2a3c205442282b3d597303e7311.html">keep hive internals at 50-60% humidity (ventilation on top)</a></td></tr><tr id="360469a8-b577-4e96-892b-0987e6084e04"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/design%20bee%20movements%20to%20be%20efficient%20while%20navigat%20360469a8b5774e96892b0987e6084e04.html">design bee movements to be efficient while navigating inside the hive</a></td></tr><tr id="a9fbaff4-4cb3-48cf-8790-688cdfd0938a"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/do%20inspection%20without%20major%20interruption%20in%20colony%20a9fbaff44cb348cf8790688cdfd0938a.html">do inspection without major interruption in colony life (one frame at a time)</a></td></tr><tr id="d320626a-9d34-4a28-8819-b9a0a2e1e669"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20do%20inspections%20of%20the%20hive%20at%20cold%20(winter)%20ti%20d320626a9d344a288819b9a0a2e1e669.html">not do inspections of the hive at cold (winter) time</a></td></tr><tr id="110e38c0-df55-4d43-9c1e-0873ee0445f2"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/have%20gradual%20lighting%20of%20the%20frame%20while%20taking%20a%20%20110e38c0df554d439c1e0873ee0445f2.html">have gradual lighting of the frame while taking a photo to not blind/affect bees</a></td></tr><tr id="76734021-ac9f-47d4-94bd-b57ad4f843f9"><td class="cell-r}?c"><span class="selected-value select-value-color-green">should</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/not%20risk%20bee%20healthy%20by%20having%20multiple%20colonies%20t%2076734021ac9f47d494bdb57ad4f843f9.html">not risk bee healthy by having multiple colonies together in one congested space</a></td></tr><tr id="9a3f820b-758b-48c6-be22-effce28c2f0b"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/take%203-9%20photos%20instead%20of%201%20huge%20frame%20photo,%20but%209a3f820b758b48c6be22effce28c2f0b.html">take 3-9 photos instead of 1 huge frame photo, but they must be taken at the same time</a></td></tr><tr id="cfd1d42f-0ad6-4946-93e2-1bc8b2df4af0"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/assist%20with%20cooling%20warming%20the%20hive%20cfd1d42f0ad6494693e21bc8b2df4af0.html">assist with cooling/warming the hive</a></td></tr><tr id="497da272-f302-421a-bcc9-a091d011e955"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/keep%20hive%20internals%20at%20constant%2032-35%205%20C%20temperat%20497da272f302421abcc9a091d011e955.html">keep hive internals at constant 32-35.5 C temperature</a></td></tr><tr id="bf173c7a-3f36-4bc5-aa25-82013bf6130f"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/survive%20water%20submersion%20(floods,%20very%20heavy%20rains%20bf173c7a3f364bc5aa2582013bf6130f.html">survive water submersion (floods, very heavy rains)</a></td></tr><tr id="c68b3744-9ba9-4d68-b61a-889201597bf4"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/backward-compatible,%20follow%20existing%20beekeeping%20tr%20c68b37449ba94d68b61a889201597bf4.html">backward-compatible, follow existing beekeeping traditions. Ex. frame sizes, boxes etc</a></td></tr><tr id="dd436dd0-0119-4500-986b-5cbe58cd8cd4"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/be%20autonomous%20with%20solar%20power%20and%20batteries%20dd436dd001194500986b5cbe58cd8cd4.html">be autonomous with solar power and batteries</a></td></tr><tr id="997d1f01-3913-4820-9bb6-b495e3392071"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/do%20automatic%20pest%20control%20%5Bremotely%20controlled%5D%20997d1f01391348209bb6b495e3392071.html">do automatic pest control [remotely controlled]</a></td></tr><tr id="89b4ca10-8d86-4476-8bdf-670ec79bf6bc"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/do%20sugar%20syrup%20feeding%20%5Bremotely%20controlled%5D%2089b4ca108d8644768bdf670ec79bf6bc.html">do sugar syrup feeding [remotely controlled]</a></td></tr><tr id="d8300007-cda9-4014-b419-d0382cf49a54"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/measure%20and%20send%20audio%20of%20hive%20internals%20(4-channe%20d8300007cda94014b419d0382cf49a54.html">measure and send audio of hive internals (4-channel) and externals (2-channel)</a></td></tr><tr id="1c3b93e3-0f58-4f3f-8c01-8ecf43b35309"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/measure%20and%20send%20level%20of%20external%20illumination%201c3b93e30f584f3f8c018ecf43b35309.html">measure and send level of external illumination</a></td></tr><tr id="857945a2-6c62-481b-abba-e272636b468e"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/measure%20and%20send%20entire%20hive%20weight%20857945a26c62481babbae272636b468e.html">measure and send entire hive weight</a></td></tr><tr id="9b99bd2b-c952-4cff-9c5c-1d31f4a59aaa"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/record%20a%20video%20or%20stream%20of%20the%20hive%20frame%20side%209b99bd2bc9524cff9c5c1d31f4a59aaa.html">record a video or stream of the hive frame side</a></td></tr><tr id="a1e61760-8b3a-4bdb-9d5d-c15d2711fe29"><td class="cell-r}?c"><span class="selected-value select-value-color-pink">could</span></td><td class="cell-title"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Robotic%20beehive%20product%20requirements%20615220168d8c46369d6165f23c571cbb/get%20rid%20of%20fallen%20varroa%20mites%20on%20the%20hive%20bottom%20a1e617608b3a4bdb9d5dc15d2711fe29.html">get rid of fallen varroa mites on the hive bottom</a></td></tr></tbody></table><br/><br/></div><p id="52270c28-775d-4507-82b8-db3f71dd68ba" class="">
+</p><h2 id="fe73f492-62cf-4702-9492-0065a2ef0699" class="">Cabinet Hive type</h2><p id="033547cd-2c46-448d-9589-33c4daee43e2" class="">We assume that beehive nest follows a cabinet style construction where frames can be moved out to the side</p><p id="7b65c4b2-6a14-40cb-8635-fbeb16a2cc6d" class="">
+</p><p id="c7fa3d79-c46c-4a7e-98d8-7fc8d3bf61c6" class="">Some pictures of the internet:</p><div id="b3bbd7bc-1b9f-49fb-b4de-abdab76df93b" class="column-list"><div id="93a49943-6908-434f-b79a-07dfbf95118f" style="width:50%" class="column"><figure id="2130f0ef-f14d-4844-bd2f-b51d470ae444" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled.png"><img style="width:564px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled.png"/></a></figure></div><div id="33a9f9ea-dc0b-4287-9a7e-99c496af6be0" style="width:50%" class="column"><figure id="a663b56d-d1c2-42eb-9460-de7279c05937" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%201.png"><img style="width:564px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%201.png"/></a></figure></div></div><div id="7ee97472-65da-4e76-9e61-66c5bb413388" class="column-list"><div id="0625f130-ad53-4c1f-84e6-2632909f815b" style="width:50%" class="column"><figure id="24ba0cb2-0046-41e1-ada6-232655354ed3" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%202.png"><img style="width:564px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%202.png"/></a></figure></div><div id="b187b403-76b3-4a73-99f7-2d15aff8255d" style="width:50%" class="column"><figure id="3ddf2615-5784-46e5-ac18-30744374bd58" class="image"><a href="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%203.png"><img style="width:564px" src="Robotic%20beehive%20fd9559a2950b44bc8291972299ced18e/Untitled%203.png"/></a></figure></div></div></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
