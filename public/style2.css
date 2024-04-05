@@ -654,6 +654,7 @@ header h1 a {
 	text-decoration: none;
 	text-shadow: none;
 	margin: 5px auto;
+	display:inline-block;
 }
 
 .signup:visited {
@@ -892,7 +893,7 @@ nav {
 nav #menu{
 	padding: 10px;
 	min-width:50%;
-	
+
 }
 
 nav #menu a, nav #menu a:visited{
@@ -905,9 +906,13 @@ nav #menu a, nav #menu a:visited{
 nav #logo {
 	text-decoration: none;
 	background: rgba(255, 255, 255);
-	border-radius: 5px;
-	height: 30px;
-	width: 30px;
+	border-radius: 2px;
+	height: 36px;
+	width: 36px;
+}
+
+nav #logo a {
+	border: none;
 }
 
 
@@ -964,7 +969,7 @@ footer {
 }
 
 #google-play img{
-	margin-top: -20px;
+	margin-top: -5px;
 }
 
 @media screen and (min-width: 1024px) {
