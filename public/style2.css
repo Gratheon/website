@@ -892,6 +892,7 @@ nav {
 
 	background: rgba(41, 41, 41, 0.8);
 	text-align: left;
+	z-index: 3;
 }
 
 nav #menu{
