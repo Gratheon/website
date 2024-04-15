@@ -802,7 +802,7 @@ header {
 
 .feature img {
 	max-width: 450px;
-	max-width: 100%;
+	width: 100%;
 }
 
 .feature video {
@@ -814,6 +814,12 @@ header {
 .feature2col {
 	flex-basis: calc(50% - 5px);
 	max-width: calc(50% - 5px);
+}
+
+.feature img,
+.feature2col video{
+	max-width: 650px;
+	max-height: 650px;
 }
 
 @media (max-width: 1024px) {
