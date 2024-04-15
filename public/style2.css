@@ -811,6 +811,11 @@ header {
 	width: 100%;
 }
 
+.feature2col {
+	flex-basis: calc(50% - 5px);
+	max-width: calc(50% - 5px);
+}
+
 @media (max-width: 1024px) {
 	header {
 		height: 400px;
