@@ -1,6 +1,0 @@
-﻿Cause,Risk,Probability (%),Impact (%),Score,Response plan,Fallback,Effect (Fallback cost EUR)
-DB is stored on app server,"mysql crashes, data is lost",80,100,8000,db backup?,,
-Electric power loss,"robot is left open, causing hypothermia to bees",40,80,3200,,,
-Unforeseen code vulnerability,Security breach / data leak,30,100,3000,,,
-Wrong privacy policy,Google Play non-compliance,,,0,,,
-Missing functionality,Google Play non-compliance,,,0,,,
