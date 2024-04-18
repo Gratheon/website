@@ -654,7 +654,7 @@ header h1 a {
 	text-decoration: none;
 	text-shadow: none;
 	margin: 5px auto;
-	display:inline-block;
+	display: inline-block;
 }
 
 .signup:visited {
@@ -817,7 +817,7 @@ header {
 }
 
 .feature img,
-.feature2col video{
+.feature2col video {
 	max-width: 650px;
 	max-height: 650px;
 }
@@ -882,23 +882,16 @@ header {
 	background: yellow;
 }
 
-.blue{
+.blue {
 	background: #0070ff;
 }
 
-
-@media (max-width: 600px) {
-	#author {
-		padding: 30px 0;
-		float: none;
-	}
-}
 
 nav {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	display:flex;
+	display: flex;
 	flex-direction: row;
 
 	background: rgba(41, 41, 41, 0.8);
@@ -906,15 +899,16 @@ nav {
 	z-index: 3;
 }
 
-nav #menu{
+nav #menu {
 	padding: 18px;
 }
 
-nav #menu a, nav #menu a:visited{
+nav #menu a,
+nav #menu a:visited {
 	color: white;
 	text-decoration: none;
 	margin: 0 20px;
-	font-size:16px;
+	font-size: 16px;
 }
 
 
@@ -931,20 +925,17 @@ nav #logo a {
 }
 
 
-/* footer */
-footer {
-	clear: both;
-	display: block;
-	padding: 0;
-	bottom: 0;
-	min-height: 100px;
-	margin-top: -3px;
-}
-
-
 footer a,
 footer a:visited {
 	color: #ffe353;
+	text-decoration: none;
+	border:none;
+	padding: 0 3px;
+}
+
+footer a:hover {
+	color: black;
+	background: rgb(253, 220, 4);
 }
 
 
@@ -952,23 +943,32 @@ footer {
 	color: white;
 	background: #241603;
 	font-size: 18px;
-	padding: 20px 40px;
+	padding: 40px 40px 0 40px;
+
 	margin: 0;
 	display: flex;
 	gap: 20px;
 	flex-wrap: wrap;
+
+	background: linear-gradient(
+		rgba(0, 0, 0, 0.9),
+		rgba(0, 0, 0, 0.1)
+		), url('https://gratheon.s3-accelerate.amazonaws.com/www/nvidia.webp');
+
+	min-height: 400px;
+	background-size: cover;
 }
 
 @media screen and (min-width: 1024px) {
 	footer {
 		padding: 0;
 		display: flex;
-		padding: 40px 25px;
+		padding: 40px;
 	}
 
-	footer div {
+	/* footer div {
 		padding: 10px;
-	}
+	} */
 }
 
 .install-buttons {
@@ -983,7 +983,7 @@ footer {
 	border: none;
 }
 
-#google-play img{
+#google-play img {
 	margin-top: -5px;
 }
 
@@ -992,11 +992,11 @@ footer {
 		flex-direction: column;
 	}
 
-	#google-play img{
+	#google-play img {
 		margin-top: -5px;
 	}
 }
 
-.page-text{
-	margin-top:70px;
+.page-text {
+	margin-top: 70px;
 }
