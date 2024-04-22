@@ -955,7 +955,7 @@ footer {
 		rgba(0, 0, 0, 0.1)
 		), url('https://gratheon.s3-accelerate.amazonaws.com/www/nvidia.webp');
 
-	min-height: 400px;
+	min-height: 250px;
 	background-size: cover;
 }
 
