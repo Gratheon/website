@@ -39,15 +39,24 @@
 <body>
 	<nav>
 		<div id="logo">
-			<a href="https://gratheon.com/"><img alt="logo" src="img/logo_v6.svg"></a>
+			<a href="https://gratheon.com/">
+				<img alt="logo" src="img/logo_v6.svg" class="desktop" />
+				<img alt="logo" src="img/logo_v5.svg" class="mobile" />
+			</a>
 		</div>
-		<div id="menu">
+		<div class="menu" style="flex-grow:1">
 			<a href="https://gratheon.notion.site/Gratheon-fdac3638d55542ddb073ae90537cd5b5">About</a>
-			<a href="prices.html">Pricing</a>
-			<a href="https://app.gratheon.com/account/authenticate/">Log in</a>
+			<a href="https://gratheon.notion.site/Problems-we-are-solving-15a899e8bf10455c9ef903c6e269af2c">Problems</a>
+			<a href="https://gratheon.notion.site/All-ideas-features-ca76f493a1454e14b7dfbae7bd292a2e">Features</a>
+			<a href="https://gratheon.notion.site/Careers-e50bd8e561c74102ab8e2b96276809c7?pvs=4">Careers</a>
+			<a href="https://gratheon.notion.site/Pricing-model-772b9e19dd8d440db9259d5150d8d0a5">Pricing</a>
+		</div>
+
+		<div class="menu">
+			<a href="https://app.gratheon.com/account/authenticate/">Log&nbsp;in</a>
 		</div>
 	</nav>
-	
+
 	<div id="splash">
 		<header>
 			<video id="bgVideo" autoplay loop muted></video>
@@ -336,7 +345,7 @@
 
 
 	<footer>
-		<div style="display:flex;">
+		<div style="display:flex;" id="company-info">
 			<div style="padding-right:10px">
 				<a href="https://gratheon.com/" style="border:none;">
 					<img style="width:50px;height:50px;background:white;border-radius:5px;" alt="logo"
