@@ -816,13 +816,19 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: row;
+	padding-left:10px;
+
 }
 
 .feature {
-	padding: 5px;
+	padding: 10px 15px;
 	box-sizing: border-box;
 	flex-basis: calc(33.33333% - 5px);
 	max-width: calc(33.33333% - 5px);
+	border: 1px solid #EEE;
+	border-collapse: collapse;
+	margin-left: -1px;
+	margin-top: -1px;
 }
 
 .feature img {
