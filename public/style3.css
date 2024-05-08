@@ -50,7 +50,7 @@ html {
 
 body {
 	margin: 0;
-	font-size: 13px;
+	font-size: 18px;
 	line-height: 1.231;
 	min-width: 370px;
 }
@@ -595,7 +595,7 @@ header h1 a {
 	color: #222;
 	background: rgba(255, 255, 255, 0.98);
 	padding: 20px 40px 20px;
-	font-size: 17px;
+	/* font-size: 17px; */
 }
 
 #content h1 {
@@ -606,7 +606,7 @@ header h1 a {
 #content h1 a {
 	text-decoration: none;
 	color: black;
-	font-size: 25px;
+	/* font-size: 25px; */
 }
 
 #content ul {
@@ -776,37 +776,6 @@ header h1 a {
 	}
 }
 
-.loginLabel {
-	line-height: 28px;
-	flex-basis: 100px;
-	font-size: 12px;
-	margin-right: 5px;
-	vertical-align: middle;
-	display: inline-block;
-}
-
-.loginInput {
-	flex-grow: 1;
-	padding: 5px;
-	font-size: 12px;
-	border: 1px solid #bababa;
-	border-radius: 3px;
-	width: 220px;
-	-webkit-text-fill-color: black;
-	-webkit-box-shadow: 0 0 0px 1000px #ffffff inset;
-	margin-bottom: 3px;
-}
-
-.loginError {
-	font-size: 10px;
-	color: red;
-	margin: 0 0 10px 95px;
-}
-
-.loginInputError {
-	border: 1px solid red;
-}
-
 header {
 	height: 600px;
 	display: flex;
@@ -821,7 +790,6 @@ header {
 	flex-wrap: wrap;
 	flex-direction: row;
 	padding-left:10px;
-
 }
 
 .feature {
