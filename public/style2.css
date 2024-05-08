@@ -622,11 +622,11 @@ header h1 a {
 #splash #splash_internal {
 	height: 100px;
 	color: white;
-	margin-top: 80px;
+	margin-top: 10px;
 }
 
 #splash #splash_internal div {
-	text-shadow: 2px 2px black;
+	text-shadow: 1px 1px black;
 	font: 25px 'Open Sans';
 	text-align: left;
 	font-weight: 700;
@@ -634,14 +634,13 @@ header h1 a {
 }
 
 #splash #splash_internal p {
-	font-size: 20px;
+	font-size: 15px;
 	margin: 0;
 	border-radius: 10px;
-	padding: 0 5px;
+	padding: 0 2px;
 	font-weight: bold;
 	color: white;
 	mix-blend-mode: color-dodge;
-
 }
 
 .signup {
@@ -715,7 +714,7 @@ header h1 a {
 }
 @media screen and (min-width: 600px) {
 	#splash #splash_internal div {
-		font-size: 32px;
+		font-size: 35px;
 		line-height: 105%
 	}
 
@@ -749,7 +748,12 @@ header h1 a {
 	}
 
 	#splash #splash_internal div {
-		font-size: 45px;
+		font-size: 50px;
+	}
+	#splash #splash_internal p {
+		font-size: 25px;
+		-webkit-text-stroke-width: 0.6px;
+		-webkit-text-stroke-color: black;
 	}
 
 	.signup {
@@ -948,8 +952,8 @@ nav .menu a:hover {
 	color: rgb(253, 220, 4);
 	margin: 0;
 	padding: 0 20px;
+	border-radius: 2px;
 }
-
 
 nav #logo {
 	text-decoration: none;
