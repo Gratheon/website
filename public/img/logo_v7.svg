@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-  <ellipse style="stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px; fill: rgb(255, 255, 255);" cx="253.798" cy="153.152" rx="148.872" ry="148.872">
+  <ellipse style="stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px; fill: rgb(255, 255, 255);" cx="255.083" cy="132.5" rx="131.637" ry="131.637">
     <title>sun-white</title>
   </ellipse>
-  <polygon style="stroke-linejoin: round; stroke-linecap: round; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255); stroke-width: 20px;" points="55.382 130.192 445.991 129.107 370.938 227.797 133.977 225.261">
+  <polygon style="stroke-linejoin: round; stroke-linecap: round; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255); stroke-width: 20px;" points="69.746 108.133 439.372 107.107 368.351 200.495 144.119 198.095">
     <title>T-top-white</title>
   </polygon>
-  <rect x="196.805" y="181.727" width="111.984" height="174.527" style="stroke: rgb(255, 255, 255); stroke-width: 0px; fill: rgb(255, 255, 255);">
+  <rect x="203.572" y="156.9" width="105.968" height="165.152" style="stroke: rgb(255, 255, 255); stroke-width: 0px; fill: rgb(255, 255, 255);">
     <title>T</title>
   </rect>
-  <rect x="121.069" y="182.407" width="260.976" height="287.989" style="fill: rgb(255, 255, 255); stroke-linecap: round; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 30px;">
+  <rect x="131.904" y="157.543" width="246.957" height="272.519" style="fill: rgb(255, 255, 255); stroke-linecap: round; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 30px;">
     <title>H-white-bg</title>
   </rect>
-  <ellipse style="fill: rgb(255, 217, 0); stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px;" cx="253.489" cy="152.336" rx="104.721" ry="104.721">
+  <ellipse style="fill: rgb(255, 217, 0); stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px;" cx="257.211" cy="129.088" rx="99.095" ry="99.095">
     <title>sun</title>
   </ellipse>
-  <g transform="matrix(0.7763319611549377, 0, 0, 0.7763319611549377, -32.87050677642975, 102.38483581520367)" style="">
+  <g transform="matrix(0.7346280217170715, 0, 0, 0.7346280217170715, -13.765773024645, 81.82061889500346)" style="">
     <title>H</title>
     <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="444.19325" x2="261.99234" y1="155.15" x1="261.99234" stroke-width="60" fill="none" style="" stroke="#000">
       <title>H-left</title>
@@ -27,8 +27,8 @@
       <title>H-mid</title>
     </line>
   </g>
-  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 6px;" x1="148.294" y1="450.041" x2="193.389" y2="450.033"/>
-  <g style="" transform="matrix(3.9967100620269775, 0, 0, 2.2586669921875, -863.375379076233, 28.55978817581814)">
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 6px;" x1="157.667" y1="410.8" x2="200.339" y2="410.793"/>
+  <g style="" transform="matrix(3.782010078430176, 0, 0, 2.137332916259765, -799.6566891619068, 11.96138209046994)">
     <title>T-top</title>
     <rect x="273.694" y="68.839" width="11.729" height="62.841" style="stroke: rgb(255, 255, 255); stroke-width: 0px;">
       <title>T</title>
@@ -39,6 +39,6 @@
     <path style="fill: rgb(255, 217, 0); stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.541 112.015 C 276.797 113.457 282.818 113.451 285.524 111.925 L 285.522 120.109 C 281.282 121.988 277.812 121.671 273.541 120.309 L 273.541 112.015 Z"/>
     <path style="fill: rgb(255, 217, 0); stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.564 124.108 C 276.821 125.55 282.842 125.544 285.547 124.018 L 285.545 132.202 C 281.305 134.081 277.837 133.764 273.564 132.402 L 273.564 124.108 Z"/>
   </g>
-  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 6px;" x1="310.907" y1="449.75" x2="356.002" y2="449.742"/>
-  <line style="fill: rgb(216, 216, 216); stroke-linecap: square; stroke: rgb(2, 72, 255); stroke-width: 7px;" x1="152.205" y1="150.715" x2="354.969" y2="151.043"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 6px;" x1="311.544" y1="410.525" x2="354.217" y2="410.517"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: square; stroke: rgb(2, 72, 255); stroke-width: 7px;" x1="161.368" y1="127.554" x2="353.239" y2="127.864"/>
 </svg>
