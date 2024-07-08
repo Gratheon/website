@@ -1,0 +1,12 @@
+﻿Vendor,Device / chip,Price,Tags
+NVidia,"NVidia Jetson Nano (../NVidia%20Jetson%20Nano%206500eadfbab64e7b8bd0d0896df30701.html) ",250,
+Nvidia,"NVidia Jetson Orin Nano (../NVidia%20Jetson%20Orin%20Nano%200432edfb44f748a6874c41ddefa7f69c.html) ",650,
+https://devkit.sima.ai/,,2000,"onnx, pytorch, tensorflow"
+VeriSilicon,,,
+RockChip,,,
+MediaTek,,,
+Analog Devices,,,
+Greener Wave,,,
+BrainChip,,,
+Innatera,,,
+Nordic Semiconductor,,,

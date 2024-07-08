@@ -1,0 +1,679 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Completed features</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="bafc694b-f515-4111-b3bf-06394d00f65e" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">✅</span></div><h1 class="page-title">Completed features</h1><p class="page-description"></p></header><div class="page-body"><p id="de1548f4-a201-42a9-a8ba-dc14306fc9e2" class="">
+</p><div id="fa5876f9-4b43-4f79-b781-04f96f83f742" class="collection-content"><h4 class="collection-title">Features</h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesRelation"><path d="M13.1475 10.5869V3.72363C13.1475 3.25195 12.833 2.93066 12.3477 2.93066H5.48438C5.02637 2.93066 4.70508 3.27246 4.70508 3.67578C4.70508 4.07227 5.05371 4.40039 5.46387 4.40039H7.89746L10.8438 4.30469L9.59961 5.39844L3.08496 11.9199C2.92773 12.0771 2.8457 12.2686 2.8457 12.46C2.8457 12.8564 3.20801 13.2256 3.61816 13.2256C3.80957 13.2256 3.99414 13.1504 4.15137 12.9932L10.6729 6.47168L11.7803 5.22754L11.6641 8.05762V10.6074C11.6641 11.0176 11.9922 11.373 12.4023 11.373C12.8057 11.373 13.1475 11.0312 13.1475 10.5869Z"></path></svg></span>goal / problem solved</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>feature name</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesSelect"><path d="M8 15.126C11.8623 15.126 15.0615 11.9336 15.0615 8.06445C15.0615 4.20215 11.8623 1.00293 7.99316 1.00293C4.13086 1.00293 0.938477 4.20215 0.938477 8.06445C0.938477 11.9336 4.1377 15.126 8 15.126ZM8 13.7383C4.85547 13.7383 2.33301 11.209 2.33301 8.06445C2.33301 4.91992 4.84863 2.39746 7.99316 2.39746C11.1377 2.39746 13.6738 4.91992 13.6738 8.06445C13.6738 11.209 11.1445 13.7383 8 13.7383ZM7.62402 10.6348C7.79492 10.915 8.20508 10.9287 8.37598 10.6348L10.666 6.73145C10.8574 6.41016 10.7002 6.04102 10.3652 6.04102H5.62793C5.29297 6.04102 5.14941 6.43066 5.32031 6.73145L7.62402 10.6348Z"></path></svg></span>verticality</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesFormula"><path d="M5.04688 14.3604H11.2744C11.7324 14.3604 12.0537 14.0801 12.0537 13.6494C12.0537 13.2119 11.7324 12.9248 11.2744 12.9248H5.81934V12.8564L9.30566 8.82324C9.54492 8.57031 9.6748 8.29688 9.6748 8.0166C9.6748 7.73633 9.54492 7.45605 9.29883 7.20996L5.81934 3.2793V3.21094H11.2812C11.7393 3.21094 12.0537 2.92383 12.0537 2.48633C12.0537 2.05566 11.7393 1.77539 11.2812 1.77539H5.05371C4.34277 1.77539 3.95312 2.26758 3.95312 2.81445C3.95312 3.12207 4.07617 3.44336 4.33594 3.69629L8.15039 7.96875V8.05078L4.3291 12.4395C4.06934 12.6924 3.94629 13.0137 3.94629 13.3213C3.94629 13.8682 4.33594 14.3604 5.04688 14.3604Z"></path></svg></span>Priority</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesRelation"><path d="M13.1475 10.5869V3.72363C13.1475 3.25195 12.833 2.93066 12.3477 2.93066H5.48438C5.02637 2.93066 4.70508 3.27246 4.70508 3.67578C4.70508 4.07227 5.05371 4.40039 5.46387 4.40039H7.89746L10.8438 4.30469L9.59961 5.39844L3.08496 11.9199C2.92773 12.0771 2.8457 12.2686 2.8457 12.46C2.8457 12.8564 3.20801 13.2256 3.61816 13.2256C3.80957 13.2256 3.99414 13.1504 4.15137 12.9932L10.6729 6.47168L11.7803 5.22754L11.6641 8.05762V10.6074C11.6641 11.0176 11.9922 11.373 12.4023 11.373C12.8057 11.373 13.1475 11.0312 13.1475 10.5869Z"></path></svg></span>Idea by</th></tr></thead><tbody><tr id="7b0b7f49-e99a-400d-9ff5-62b9e2bc85a2"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20account%20deletion%207b0b7f49e99a400d9ff562b9e2bc85a2.html"><span class="icon">❌</span>User account deletion</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="5ef2d218-b00d-45fa-bb5f-0ed9917b2fcf"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20analysis%20-%20bee%20counter%205ef2d218b00d45fabb5f0ed9917b2fcf.html"><span class="icon">🐝</span>Frame analysis - bee counter</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="7f56f6a0-a6d7-4076-9c4f-da66f1054e34"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Insufficient%20pollination%2093d31ab6309443f9bbe0a50f4b560188.html"><span class="icon">🌻</span>Insufficient pollination</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Apiary%20satellite%20view%207f56f6a0a6d740769c4fda66f1054e34.html"><span class="icon">🛰️</span>Apiary satellite view</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="085f1613-7ed1-4781-be25-379238204037"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Neglect%20to%20treat%20mites,%20requeen%20or%20feed%206e953c567ee74f4c9bdf219e5bb80164.html"><span class="icon">🚶🏻‍♂️</span>Neglect to treat mites, requeen or feed</a>, <a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Lack%20of%20knowledge%20experience%2076651a1939d34d268d71974da0b048e9.html"><span class="icon">🎒</span>Lack of knowledge / experience</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Beekeeping%20advice%20with%20LLM%20085f16137ed14781be25379238204037.html"><span class="icon">🤖</span>Beekeeping advice with LLM</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="6de40e5a-a96a-402e-a2ad-cf8dd609eb52"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/progressive%20web%20app%206de40e5aa96a402ea2adcf8dd609eb52.html"><span class="icon">📲</span>progressive web app</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-brown">horizontal</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="fc0aabb6-3b46-4a42-b066-a31269a0733e"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/user%20language%20+%20translations%20fc0aabb63b464a42b066a31269a0733e.html"><span class="icon">💱</span>user language + translations</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-brown">horizontal</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="d376cd30-6719-455a-9991-df58efe7a221"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Monoculture%20agriculture%20361e470fd22a4b61b50fba3d486fb8bb.html"><span class="icon">🌻</span>Monoculture agriculture</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/list%20of%20local%20plants%20(plantnet)%20d376cd306719455a9991df58efe7a221.html"><span class="icon">🎋</span>list of local plants (plantnet)</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="ac1c60b8-e5ee-4440-ad5c-15ad70d7de2f"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Not%20weather-resistant%20hives%200d0ca3ba83234d639559c94f6a6fbeaa.html"><span class="icon">🌪️</span>Not weather-resistant hives</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/weather%20graph%20ac1c60b8e5ee4440ad5c15ad70d7de2f.html"><span class="icon">⛈️</span>weather graph</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="e704bc7a-9165-4ff9-b7f4-56d5733eb76b"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Drawing%20on%20canvas%20e704bc7a91654ff9b7f456d5733eb76b.html"><span class="icon">🎨</span>Drawing on canvas</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="ccfbfe36-e086-4770-b5f7-7644cb44cbda"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="fcbfae08-a5b2-4ff3-85e0-348214e66414"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Swarming%2013184fe7583e452dbbc8c4e57333ef97.html"><span class="icon">🧶</span>Swarming</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20queen%20cup%20detection%20fcbfae08a5b24ff385e0348214e66414.html"><span class="icon">🐝</span>Frame side queen cup detection</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="e9ff0312-8cdb-4892-9373-7b8a4c1e7098"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Colony%20starvation%209925e34207b94b7e9da10e0dcfdf6e47.html"><span class="icon">🍽️</span>Colony starvation</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Honeycomb%20cell%20detection%20e9ff03128cdb489293737b8a4c1e7098.html"><span class="icon">🐝</span>Honeycomb cell detection</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="c9d3df6f-053e-41bb-b7b8-414b7c2bb397"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20photo%20upload%20c9d3df6f053e41bbb7b8414b7c2bb397.html"><span class="icon">📷</span>Frame side photo upload</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="bb1c977a-eb0b-4972-a116-754f6c07955a"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="74da1b48-8d4c-4965-8ccd-9c5f4247de7c"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Billing%20subscription%2074da1b488d4c49658ccd9c5f4247de7c.html"><span class="icon">💰</span>Billing subscription</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="796de50a-a11a-48d7-b88c-e99fc2e2beff"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/API%20token%20management%20796de50aa11a48d7b88ce99fc2e2beff.html"><span class="icon">🔐</span>API token management</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="f3d378c9-84e4-4771-adf2-948959660baa"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20editing%20f3d378c984e44771adf2948959660baa.html"><span class="icon">🧑🏻‍🚀</span>User editing</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="57ec6e16-49d3-449c-912b-7361f5f4d37d"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20login%2057ec6e1649d3449c912b7361f5f4d37d.html"><span class="icon">🧑🏻‍🚀</span>User login</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="48f81c4c-cbc7-48ce-adf6-18b28eda9a39"><td class="cell-s\?W"></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20registration%20+%20password%20restoration%2048f81c4ccbc748ceadf618b28eda9a39.html"><span class="icon">🧑🏻‍🚀</span>User registration + password restoration</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="7e554ea5-8e60-4e58-8b50-646821467d34"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Apiary%20management%207e554ea58e604e588b50646821467d34.html"><span class="icon">📦</span>Apiary management</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr><tr id="983906f7-83d4-45f9-b3a4-6c253df0a9c0"><td class="cell-s\?W"><a href="../../Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Observability%20of%20bee%20colony%20c7971983f26d4ff19da0ef3390c4871b.html"><span class="icon">👁️</span>Observability of bee colony</a></td><td class="cell-title"><a href="Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-Lo;O"><span class="selected-value select-value-color-red">vertical</span></td><td class="cell-My;z">0</td><td class="cell-GI[Z"></td></tr></tbody></table><br/><br/></div><p id="efff28fa-6d59-40ab-b297-292485cfce05" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

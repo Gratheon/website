@@ -1,0 +1,16 @@
+﻿Name,Note,Paid now,Price,Tags,URL
+Discord,,No,6,communication,
+Github,Hosting code,Yes,0,code,
+Penpot,"Alternatively Figma, but it costs more",Yes,0,"UX, design",https://design.penpot.app/
+Digital Ocean,DB + server,Yes,80,hosting,
+AWS S3,S3 bucket,Yes,3,hosting,
+Notion,Documentation & task management,No,18,"communication, docs, per-user",
+Sentry,Error logs,No,0,logs,
+Datadog,Perfomance Tracing,No,0,monitoring,
+Tinkercad,Alternatively - freeCAD,No,0,CAD,
+G-Suite,,No,14,"communication, per-user",
+Amplitude,Product analytics,No,,analytics,
+Microsoft Clarity,Product analytics,No,,analytics,
+Twilio Sendgrid,Email delivery,No,,,
+Clarifai," AI inference",No,,,
+Stripe,Payments,No,,,

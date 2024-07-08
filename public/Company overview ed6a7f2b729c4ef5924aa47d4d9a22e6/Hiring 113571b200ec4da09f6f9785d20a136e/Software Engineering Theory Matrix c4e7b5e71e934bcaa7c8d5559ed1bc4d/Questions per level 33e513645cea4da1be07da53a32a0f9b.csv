@@ -1,0 +1,150 @@
+﻿Area,"Phase 1 (junior, mid)","Phase 2 (mid, senior)",Phase 3 (senior+),Property
+"Teamwork, Communication,Business processes,FeedbackOwnership and Drive","• Did you have any conflicts at work in the past?
+    ◦ over technology, misunderstanding of context, PR reviews, different views on arch solution?
+        ▪ How did you resolve them?
+• What work processes are you used to?
+    ◦ What code style do you use?
+    ◦ What is the difference between waterfall, scrum and kanban?
+    ◦ What are the benefits and the drawbacks of working in an Agile environment?
+• How does perfect PR look like?","• How requirements and documentation can be expressed and held up-to-date?
+    ◦ Tests, readme, api docs, DB diagrams, state
+• Tell us an incident that you caused
+• What is the perfect task description for you? Who should write it?
+    ◦ Acceptance criteria / steps to reproduce
+• As company and team grows from 1+ developer to 200+, how should teams grow?
+    ◦ Should engineers have narrow specialisation?
+    ◦ Should engineers have access to live DB?
+    ◦ Should services have internal credentials?
+• At what you should pay attention with PR reviews?
+    ◦ bugs, size, complexity, improvements","• What should happen if service goes down in the middle of the night?
+    ◦ on-call & alerts
+• How do you make sure that critical bugs in production at night don't keep growing within organization?
+    ◦ incident management. lessons learned. CI.
+• What non-functional requirements can you list?
+    ◦ Security, Scalability, Consistency, Fault tolerance
+• You need to partially migrate data to another datacenter, but its owned by 5+ teams. How do you do that?
+• Any opensource contributions / maintenance experience?",
+"Basic algorithms
+Code structures
+Frameworks
+RegExes","• Whats a pure function?
+    ◦ static methods?
+• What are the benefits of MVC?
+    ◦ separating frequently changed code, one-way data flow
+• How does CPU work in general?
+• What is space and time complexity?
+    ◦ Take your homework or recursive binary tree reversal as example
+• When is dependency injection needed?","• What do you think about ORMs?
+    ◦ active record & repository patterns?
+• What is middleware, when is it used?
+• How would you write a rough validation of IP and Email inputs without using libraries or frameworks?
+• What patterns do you know?
+    ◦ factory, builder, singleton, decorator, proxy, adaptor, iterator, visitor, observer..
+- Whats the difference between stack and heap? Where are global variables stored?
+- What is the difference between Error and Exception","• Whats finite-state machine?
+• Whats abstract syntax tree?
+• Lets take php, nodejs and go. How are they handling requests in terms of concurrency?
+    ◦ php-fpm - pool of workers;nodejs - emulation of concurrency with event loop;go - goroutines, full CPU utilization
+• Lets compare php and C. Both have structures called arrays. How are they different?
+• How do most languages store float vars?
+    ◦ Is javascript number type the same as go lang's integer?
+    ◦ Why is 0.2 + 0.1 not equal to 0.3?
+• PHP: what is opcode cache, how does it work?",
+"Security
+Networking","• What popular attacks on web apps do you know and how to defend against them?
+    ◦ xss, sql injection, csrf
+• How would you implement user's authentication? How would you store and protect his credentials?
+• How does hashing work?
+    ◦ whats a hash collision?","• What are public/private keys and why do we need them?
+• How can developers access production DBs if they have performance problems?
+• Whats an OSI model?
+• whats CORS?
+• whats the difference between HTTP & UDP
+• how does TCP work?
+    ◦ TLS
+    ◦ IP
+• how does CDN work?","• you have 30 services. Each service has dependencies (npm, composer, go modules, docker etc.). How do you manage security updates?
+• You have password field that is md5 hashed. You need it to be sha1. How do you do that?
+    ◦ extra column or schema versioning while migrating
+• Whats are the benefits of OAuth? How does it work?",
+API,"• If HTTP is stateless, how do websites usually handle user being logged-in?
+    ◦ Cookies on client-side + sessions on backend
+• How do websites usually store session?
+    ◦ In filesystem / db
+• Whats XML? How is it different from JSON?","• Given a choice of REST API and GraphQL, which one would you choose for a long-term project?
+• Given a choice of decentralized APIs and centralized event bus, which one would you choose & why?
+• How do you version REST APIs?
+• How do you restart a service if its serving HTTP requests?","• What format do you use for documenting API?
+    ◦ swagger, graphql, json-schema
+• How do graphql subscriptions work?
+• Ever heard of SOA(P)? How is it different from REST & GraphQL?
+• Whats XSLT, XSD, Xpath? How is it superior or inferior to JSON?",
+"Data processing
+Databases
+SQL","• What is an index? When it is required and when to avoid?
+• How do you design DB schema?
+    ◦ Whats data normalization?
+• What are foreign keys for? Whats referrential integrity?
+• What is sharding?
+• Whats types of database engines do you know?
+• How do you change database structure in production?
+• Can we run every API call in a huge transaction?","• How / why can deadlocks appear?
+• Whats the difference between LEFT JOIN, INNER JOIN and OUTER JOIN?
+• What are views for?
+• When one should use or not use triggers?
+• What is map-reduce? What is it needed for? What engines allow it?
+• Whats does HAVING do in SQL?
+• What do you know about encodings and collations?","• What do you look for in the EXPLAIN plans of your queries?
+• Whats the difference between Lock wait timeout and Deadlock found?
+• Whats a query hint?
+• How does UNICODE work?
+• What limitations of mysql do you know about?
+• What are isolation levels for?
+• How does binary tree search work?",
+"System design
+Architecture
+Message Queues","• You need to scale horizontally. How do you route requests to different processes?
+• How do you discover services?
+• You need to process files after they are uploaded. How do you do that?
+• How does perfect log entry look like?
+• We have the same service deployed to EU and US. It must display same data which is updated 10 times a day at most. Where/how to store data?","• How can we prevent DoS?
+    ◦ limit concurrent HTTP connections
+• How can we prevent backend abuse? 
+    ◦ limit DB connections, max payload size
+• How to handle 100, 1000 etc concurrent requests? What to keep in mind or how to achieve it?
+• Whats pub-sub?
+","• App uses DB + MQ. How to make sure data is not lost?
+• How can you sync data in different tabs or browsers for the same user without page refresh?
+    ◦ How can you check for user data in the exchange?
+• What is KTable?
+• Whats Kafka streams? redis streams?",
+"Code quality
+Observability","• How would you test an elevator?
+• What types of tests do you know? Which did you write?
+• How would you prepare user accounts in DB for integration tests?
+• How can you automatically measure how good your code is?
+    ◦ LOC, cyclomatic complexity, number of defects
+• What code coverage is acceptable?
+• How would you test that on deal creation API endpoint for authenticated user, a webhook call is made?","• How can you find slowest part of the app?
+• How do you find bug cause if multiple services in production are involved?
+• How do you debug a running service?
+• What is spy, stub, mock?
+• Where is typescript useful?
+• give an example for service level objective","• Whats the difference between average, median, p95, percentile?
+• How does distributed tracing work?
+• How does debugger work?
+• What should you look at while performance-profiling a process?
+• What metrics should you monitor?
+    ◦ health, errors, resource consumption, requests, product metrics
+- prometheus data types",
+Build & Deploy,"• Whats the difference between git and svn?
+    ◦ decentralized / centralized
+• How do you safely deploy your changes into production with 0 downtime?
+    ◦ FTP? git commit? deployment pipeline?
+• What is docker?
+• Why would you need a build tool?
+    ◦ grunt, npm run, ant, make","• You have a name that needs to be split to first and last name. How do you roll it out without any downtime?
+• What is kubernetes? How does it work? Why big companies adopt it?
+• What is git rebase for?
+    ◦ rewriting history","• How to roll out multiple services with shared DB/schema with 100% availability?
+    ◦ in multiple deployments & DB migration files",

@@ -1,0 +1,682 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Final Garage48 project page</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="395bddc3-353f-45a5-bae3-01ca13ddde28" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">🎁</span></div><h1 class="page-title">Final Garage48 project page</h1><p class="page-description"></p></header><div class="page-body"><h2 id="9eef7e2f-d442-449e-aec6-2b0555c14dbd" class=""><strong>Problem</strong></h2><p id="91bbd1c8-a518-47fa-9e7c-90fb1c4c43e1" class="">Food security. 735.1M undernourished people worldwide according to FAO in 2022</p><p id="66bb6c6b-bf1d-4444-86ff-d7ffb48c6c4c" class="">Farming crops are inefficiently pollinated. This happens because beehives are currently positioned randomly, however beekeeper decides to. Beekeepers do not know where and why to place beehives. Bees are key to <strong>natural pollination</strong>, which increases <strong>crop yields</strong>, aiding in food supply, reducing the need in deforestation.<strong> </strong>Farmers can inadvertently kill bees with pesticides.</p><p id="b66c89ec-3318-4aac-b134-2db0b9ddefbd" class=""><strong>Solution</strong></p><p id="908fbb2a-52a8-4ac5-b098-cf54a25c3330" class="">We&#x27;re improving <strong>environment overview</strong> <strong>for the beekeepers</strong>.</p><p id="0d851cbc-70f8-4815-8396-16bcdd86df8a" class="">By analyzing pollination coverage from satellite, beehives can be positioned more <strong>efficiently</strong>.</p><p id="c7173d44-2379-4560-9ec6-9d5e9dd2e91c" class="">Thanks to our app, farmers can get better yields, beekeepers get more honey and healthy bees and bees get more nectar or pollen diversity.</p><p id="0e8b95ec-15e0-41d4-8ac9-d46bd59212e0" class="">Diverse pollen improves bee&#x27;s health as well as taste of the honey. Bees also do not need to compete with each other as much over resources. Separate hive positioning reduces the risk of diseases.</p><p id="26eba0a0-4a23-4f76-9741-ce11a1fbdc44" class="">In general, <a href="https://gratheon.com/">Gratheon</a> helps beekeepers with observability and automation so that they could be more efficient and their colonies would stay healthy. We provide app and integrate hardware so that computer vision could alert a beekeeper in case of danger. Our long-term vision is autonomous robotic beehive.</p><p id="ce314b3e-17cb-43fb-bbb6-0316d02e2519" class=""><strong>Pollen map feature ideation</strong></p><p id="ef469b9e-4706-4adc-9086-113881d1e285" class="">1. Given a satellite image of the apiary with 5 km radius (max flight range of a bee), run AI predictions to detect which <strong>types</strong> of trees and field crops are growing around the apiary and its <strong>square area (m2)</strong>.</p><figure id="98913621-09b5-4eca-bab4-e1ecdaa30bc4" class="image"><a href="https://taikai.azureedge.net/SpHNA52s0IuGg_zDkN9BBdI6rtf6IYdSQ-IUdFGPKDs/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9iZjI3OGEyMC03OTc4LTExZWUtYWNhOC1iMTYxZjY5NmQyZTdTY3JlZW5zaG90IDIwMjMtMTEtMDIgYXQgMTQuMDkuNDEucG5n"><img style="width:700px" src="https://taikai.azureedge.net/SpHNA52s0IuGg_zDkN9BBdI6rtf6IYdSQ-IUdFGPKDs/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9iZjI3OGEyMC03OTc4LTExZWUtYWNhOC1iMTYxZjY5NmQyZTdTY3JlZW5zaG90IDIwMjMtMTEtMDIgYXQgMTQuMDkuNDEucG5n"/></a></figure><p id="a421b217-e7a7-466a-a467-084a2005a2f4" class="">Crop classification, image and feature by EOS data analytics as a goal</p><p id="fb9ec95b-6cdc-43f3-8ba6-ca38ba7f9fb3" class="">2. Given detected pollination sources, suggest to beekeeper how to optimally place bees to optimize for max nectar flow or max pollen diversity. This is also important given that crops may bloom at different time. Coupled with real-time pollination activity data at individual beehives, beekeeper can make informed decisions</p><figure id="9e275bc6-3408-48a2-a710-2901c742aa99" class="image"><a href="https://taikai.azureedge.net/Ve-hRKCzIbVhPdvuiX_dKJyjl_X9TZNKjMBc03W-r5w/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9lZmM1MjA5MC03OTY3LTExZWUtYmVlMi1iZDM1NjE1ZjhjY2JTY3JlZW5zaG90IDIwMjMtMTEtMDIgYXQgMTIuMDkuMTcucG5n"><img style="width:621px" src="https://taikai.azureedge.net/Ve-hRKCzIbVhPdvuiX_dKJyjl_X9TZNKjMBc03W-r5w/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9lZmM1MjA5MC03OTY3LTExZWUtYmVlMi1iZDM1NjE1ZjhjY2JTY3JlZW5zaG90IDIwMjMtMTEtMDIgYXQgMTIuMDkuMTcucG5n"/></a></figure><p id="17455877-4ba6-4863-82a9-49418db0baf5" class="">Hive placement optimization, image and feature by beehero.io</p><p id="978ee9c4-02ee-4356-b93a-d66daff874a9" class="">Note that this feature targets beekeepers that are able to <strong>move beehives</strong> or city planners that want to optimally position autonomous beehives in the city. For static apiaries we would <em>only</em> provide what type of nectar/honey you can expect, so that you would know at which time specific nectar (ex. buckwheat) is harvested as well as predict the amount of honey depending on the plant&#x27;s nectar secretion</p><p id="e2ce259e-3d9f-458f-bd96-5a6c612ab45e" class=""><strong>Product Design Mockup</strong></p><p id="1c73d9eb-558c-481f-92b1-2d1feb5cca70" class="">We started with how we want user to interact with the map to receive interested data</p><ul id="b09fb542-0359-4c09-b2a2-6e39c8d0338b" class="bulleted-list"><li style="list-style-type:disc">crop types</li></ul><ul id="0d1b002f-0a8f-4afe-8b4e-8b32350fafd2" class="bulleted-list"><li style="list-style-type:disc">ratios of crops within pollinateable area</li></ul><ul id="e68659dc-b90d-480f-ab8a-9f45235d213c" class="bulleted-list"><li style="list-style-type:disc">blooming time</li></ul><ul id="9f8350d3-f89f-49ae-ac4c-ed614f11b592" class="bulleted-list"><li style="list-style-type:disc">plant nectar production (kg/ha)</li></ul><h2 id="d7758383-e4d4-4153-87fc-51f923031407" class="">EU space technologies</h2><p id="c913d057-50d5-4560-a0cd-827762109390" class="">We are using Sentinel 2 L1C data, RGB layer to get base information about fields</p><p id="864f3fab-b62c-460d-88a7-b55f39dd97c0" class="">We are then running segmentation on an image to detect fields</p><p id="b6b939a5-47f4-485f-846b-eefa8eb6851c" class="">Then we run classification of detected fields to understand which crop we are dealing with. As we know time of the image, we can use it to match blooming time.</p><p id="d9c7244a-97e1-4d0e-abf4-f2a259018ebd" class="">Then we calculate the square area of the field</p><p id="ce20f791-fafe-421d-90f0-3c91601ef953" class="">Then we calculate the ratio of all field types within 5km vicinity and report this to the user (beekeeper)</p><p id="0a76119a-5e59-4660-a6b0-ed414ed9b8e6" class="">Beekeeper can move the location of the beehive, which will result in recalculation of  percentages</p><p id="c1b3357e-54a2-4a9d-8b5a-316bfcb0de49" class="">Beekeeper can also see how much bees from different hives intersect</p><h1 id="393dc521-4a71-4517-923e-3357cc1baabf" class="">Team</h1><p id="b84d3c36-fea0-4a9c-9814-1955402a3bdd" class=""><a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a> -  software engineer</p><p id="7b16abc5-4b18-424d-9d34-6e633ef94393" class=""><a href="https://www.linkedin.com/in/alekseiboris/">Aleksei Boris</a> - bizdev / legal / ops</p><p id="9b91184a-f46b-43b1-ad00-cf6935c787d8" class=""><a href="https://www.linkedin.com/in/nataliia-kinash/">Natalia Kinash</a> - machine learning engineer, applied mathematics</p><p id="8b518184-60a8-44d9-a67c-e8a25ec00efb" class=""><a href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACcYIOABh-CstsU-a3j6keX8AEZKUSY5El8&amp;keywords=Reinis%20Indans&amp;origin=ENTITY_SEARCH_HOME_HISTORY&amp;sid=uqZ">Reinis Indans</a> - GIS / fullstack engineer</p><div id="1f6cefe4-cafd-43ef-8a2f-6ba21e684554" class="collection-content"><h4 class="collection-title">Advisors-db</h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>Name</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesMultipleSelect"><path d="M1.91602 4.83789C2.44238 4.83789 2.87305 4.40723 2.87305 3.87402C2.87305 3.34766 2.44238 2.91699 1.91602 2.91699C1.38281 2.91699 0.952148 3.34766 0.952148 3.87402C0.952148 4.40723 1.38281 4.83789 1.91602 4.83789ZM5.1084 4.52344H14.3984C14.7607 4.52344 15.0479 4.23633 15.0479 3.87402C15.0479 3.51172 14.7607 3.22461 14.3984 3.22461H5.1084C4.74609 3.22461 4.45898 3.51172 4.45898 3.87402C4.45898 4.23633 4.74609 4.52344 5.1084 4.52344ZM1.91602 9.03516C2.44238 9.03516 2.87305 8.60449 2.87305 8.07129C2.87305 7.54492 2.44238 7.11426 1.91602 7.11426C1.38281 7.11426 0.952148 7.54492 0.952148 8.07129C0.952148 8.60449 1.38281 9.03516 1.91602 9.03516ZM5.1084 8.7207H14.3984C14.7607 8.7207 15.0479 8.43359 15.0479 8.07129C15.0479 7.70898 14.7607 7.42188 14.3984 7.42188H5.1084C4.74609 7.42188 4.45898 7.70898 4.45898 8.07129C4.45898 8.43359 4.74609 8.7207 5.1084 8.7207ZM1.91602 13.2324C2.44238 13.2324 2.87305 12.8018 2.87305 12.2686C2.87305 11.7422 2.44238 11.3115 1.91602 11.3115C1.38281 11.3115 0.952148 11.7422 0.952148 12.2686C0.952148 12.8018 1.38281 13.2324 1.91602 13.2324ZM5.1084 12.918H14.3984C14.7607 12.918 15.0479 12.6309 15.0479 12.2686C15.0479 11.9062 14.7607 11.6191 14.3984 11.6191H5.1084C4.74609 11.6191 4.45898 11.9062 4.45898 12.2686C4.45898 12.6309 4.74609 12.918 5.1084 12.918Z"></path></svg></span>Area</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesText"><path d="M1.56738 3.25879H14.4258C14.7676 3.25879 15.0479 2.97852 15.0479 2.63672C15.0479 2.29492 14.7744 2.02148 14.4258 2.02148H1.56738C1.21875 2.02148 0.952148 2.29492 0.952148 2.63672C0.952148 2.97852 1.22559 3.25879 1.56738 3.25879ZM1.56738 6.84082H14.4258C14.7676 6.84082 15.0479 6.56055 15.0479 6.21875C15.0479 5.87695 14.7744 5.60352 14.4258 5.60352H1.56738C1.21875 5.60352 0.952148 5.87695 0.952148 6.21875C0.952148 6.56055 1.22559 6.84082 1.56738 6.84082ZM1.56738 10.4229H14.4258C14.7676 10.4229 15.0479 10.1426 15.0479 9.80078C15.0479 9.45898 14.7744 9.18555 14.4258 9.18555H1.56738C1.21875 9.18555 0.952148 9.45898 0.952148 9.80078C0.952148 10.1426 1.22559 10.4229 1.56738 10.4229ZM1.56738 14.0049H8.75879C9.10059 14.0049 9.38086 13.7246 9.38086 13.3828C9.38086 13.041 9.10742 12.7676 8.75879 12.7676H1.56738C1.21875 12.7676 0.952148 13.041 0.952148 13.3828C0.952148 13.7246 1.22559 14.0049 1.56738 14.0049Z"></path></svg></span>Relevant org</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesMultipleSelect"><path d="M1.91602 4.83789C2.44238 4.83789 2.87305 4.40723 2.87305 3.87402C2.87305 3.34766 2.44238 2.91699 1.91602 2.91699C1.38281 2.91699 0.952148 3.34766 0.952148 3.87402C0.952148 4.40723 1.38281 4.83789 1.91602 4.83789ZM5.1084 4.52344H14.3984C14.7607 4.52344 15.0479 4.23633 15.0479 3.87402C15.0479 3.51172 14.7607 3.22461 14.3984 3.22461H5.1084C4.74609 3.22461 4.45898 3.51172 4.45898 3.87402C4.45898 4.23633 4.74609 4.52344 5.1084 4.52344ZM1.91602 9.03516C2.44238 9.03516 2.87305 8.60449 2.87305 8.07129C2.87305 7.54492 2.44238 7.11426 1.91602 7.11426C1.38281 7.11426 0.952148 7.54492 0.952148 8.07129C0.952148 8.60449 1.38281 9.03516 1.91602 9.03516ZM5.1084 8.7207H14.3984C14.7607 8.7207 15.0479 8.43359 15.0479 8.07129C15.0479 7.70898 14.7607 7.42188 14.3984 7.42188H5.1084C4.74609 7.42188 4.45898 7.70898 4.45898 8.07129C4.45898 8.43359 4.74609 8.7207 5.1084 8.7207ZM1.91602 13.2324C2.44238 13.2324 2.87305 12.8018 2.87305 12.2686C2.87305 11.7422 2.44238 11.3115 1.91602 11.3115C1.38281 11.3115 0.952148 11.7422 0.952148 12.2686C0.952148 12.8018 1.38281 13.2324 1.91602 13.2324ZM5.1084 12.918H14.3984C14.7607 12.918 15.0479 12.6309 15.0479 12.2686C15.0479 11.9062 14.7607 11.6191 14.3984 11.6191H5.1084C4.74609 11.6191 4.45898 11.9062 4.45898 12.2686C4.45898 12.6309 4.74609 12.918 5.1084 12.918Z"></path></svg></span>Source</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesRelation"><path d="M13.1475 10.5869V3.72363C13.1475 3.25195 12.833 2.93066 12.3477 2.93066H5.48438C5.02637 2.93066 4.70508 3.27246 4.70508 3.67578C4.70508 4.07227 5.05371 4.40039 5.46387 4.40039H7.89746L10.8438 4.30469L9.59961 5.39844L3.08496 11.9199C2.92773 12.0771 2.8457 12.2686 2.8457 12.46C2.8457 12.8564 3.20801 13.2256 3.61816 13.2256C3.80957 13.2256 3.99414 13.1504 4.15137 12.9932L10.6729 6.47168L11.7803 5.22754L11.6641 8.05762V10.6074C11.6641 11.0176 11.9922 11.373 12.4023 11.373C12.8057 11.373 13.1475 11.0312 13.1475 10.5869Z"></path></svg></span>🛴 Features</th></tr></thead><tbody><tr id="ea091520-7037-4fe6-915b-e49f579821d5"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Olga%20Gerassimova%20ea09152070374fe6915be49f579821d5.html">Olga Gerassimova</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-gray">devops</span><span class="selected-value select-value-color-pink">ops</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="faea853b-be1b-4f0e-8bcc-3bb0c160b411"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Olena%20Stoliarova%20faea853bbe1b4f0e8bcc3bb0c160b411.html">Olena Stoliarova</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-green">engineering</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-blue">climathon</span></td><td class="cell-s`zC"></td></tr><tr id="cb6a43a5-9e0a-4e93-be14-99a1fa842465"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Aleksei%20Kolesnikov%20cb6a43a59e0a4e93be1499a1fa842465.html">Aleksei Kolesnikov </a></td><td class="cell-KLxh"><span class="selected-value select-value-color-pink">ops</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-gray">tehnopol</span></td><td class="cell-s`zC"></td></tr><tr id="9a0e69d7-9326-4c84-81bf-74ab9700f1a2"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Olga%20Shatokha%209a0e69d793264c8481bf74ab9700f1a2.html">Olga Shatokha</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-purple">hiring</span></td><td class="cell-dph~">Bee’s Knees</td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="93fbcd53-8080-4845-86a7-4bfa64ddbefc"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Evgeny%20Goroshko%2093fbcd538080484586a74bfa64ddbefc.html">Evgeny Goroshko</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-gray">devops</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="804bb1a7-7601-4e3f-ba95-23e55f1a43be"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Archil%20Kristinashvili%20804bb1a776014e3fba9523e55f1a43be.html">Archil Kristinashvili</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-blue">monitoring</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="cc131333-5ebc-4a15-a2a0-7dccfdacd0a2"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Martin%20Koidu%20cc1313335ebc4a15a2a07dccfdacd0a2.html">Martin Koidu</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="871d73e4-4cef-4133-a00c-2dae06f9a6de"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Dmitri%20Don%20871d73e44cef4133a00c2dae06f9a6de.html">Dmitri Don</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="4ad01663-34e4-4931-ac23-9d0944200d3f"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Dmitri%20Kalinaichev%204ad0166334e44931ac239d0944200d3f.html">Dmitri Kalinaichev</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="22d0dbc8-27de-4010-88a3-0c4b6a495aaf"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Vadim%20Shabarov%2022d0dbc827de401088a30c4b6a495aaf.html">Vadim Shabarov</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="eb418dc8-db7e-4fb8-8a06-2e9a6abc817c"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Ernest%20Bondarenko%20eb418dc8db7e4fb88a062e9a6abc817c.html">Ernest Bondarenko</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-yellow">ethics</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-green">devclub</span></td><td class="cell-s`zC"></td></tr><tr id="818a9238-1060-458f-92ea-fee12a655711"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Ksenia%20Kravts%CC%8Cenko%20818a92381060458f92eafee12a655711.html">Ksenia Kravtšenko</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-orange">legal</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-gray">tehnopol</span></td><td class="cell-s`zC"></td></tr><tr id="f751c073-62fe-4b63-a8bd-399fcdb68f7e"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Oleg%20Tsernetsov%20f751c07362fe4b63a8bd399fcdb68f7e.html">Oleg Tsernetsov</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-green">engineering</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="1ee16ee1-1df6-4a28-aa6f-2cbf4426b31e"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Ain%20Valtin%201ee16ee11df64a28aa6f2cbf4426b31e.html">Ain Valtin</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-green">engineering</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-orange">pipedrive</span></td><td class="cell-s`zC"></td></tr><tr id="2d0558c7-95d8-4c76-afc2-ea60ddce1543"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Anton%20Vishnevski%202d0558c795d84c76afc2ea60ddce1543.html">Anton Vishnevski</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-gray">devops</span><span class="selected-value select-value-color-green">engineering</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-blue">climathon</span></td><td class="cell-s`zC"></td></tr><tr id="521c1479-5004-45f0-a2a6-19b313fa8c52"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Jevgeni%20Kalbin%20521c1479500445f0a2a619b313fa8c52.html">Jevgeni Kalbin</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-purple">robotics</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-gray">tehnopol</span></td><td class="cell-s`zC"></td></tr><tr id="264dd83a-fbc4-4eca-8095-237cc2b53b02"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Ilya%20Bolkhovsky%20264dd83afbc44eca8095237cc2b53b02.html">Ilya Bolkhovsky</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~">Kodebusters</td><td class="cell-Eibm"><span class="selected-value select-value-color-yellow">cassini</span></td><td class="cell-s`zC"></td></tr><tr id="1ec60a4a-7bb9-402f-89b1-312003de6928"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Marko%20Junolainen%201ec60a4a7bb9402f89b1312003de6928.html">Marko Junolainen</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="0078e3d0-d5ed-442d-be05-85885d4e1b93"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Anna-Maria%20Ouertani%200078e3d0d5ed442dbe0585885d4e1b93.html">Anna-Maria Ouertani</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-brown">press</span></td><td class="cell-dph~">Kanal 7</td><td class="cell-Eibm"><span class="selected-value select-value-color-default">postimees</span></td><td class="cell-s`zC"></td></tr><tr id="51bd0e72-dc55-41d5-80d9-f63c24203f67"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Jevgenia%20Parv%2051bd0e72dc5541d580d9f63c24203f67.html">Jevgenia Parv</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-brown">press</span></td><td class="cell-dph~">Delfi</td><td class="cell-Eibm"><span class="selected-value select-value-color-purple">delfi</span></td><td class="cell-s`zC"></td></tr><tr id="0c6892ec-9e88-4fd5-9719-0392f6279763"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Sofia%20Spegatta%200c6892ec9e884fd597190392f6279763.html">Sofia Spegatta</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-blue">contractors / outsource</span></td><td class="cell-dph~">Solveit</td><td class="cell-Eibm"><span class="selected-value select-value-color-red">linkedin</span><span class="selected-value select-value-color-brown">startup-day</span></td><td class="cell-s`zC"></td></tr><tr id="4f7eada9-f601-4ea4-bbb9-f35784da6a2b"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Annimari%20Lehtoma%CC%88ki%204f7eada9f6014ea4bbb9f35784da6a2b.html">Annimari Lehtomäki</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-red">accelerator</span></td><td class="cell-dph~">JAMK</td><td class="cell-Eibm"><span class="selected-value select-value-color-brown">startup-day</span></td><td class="cell-s`zC"></td></tr><tr id="8200eb07-92dd-44a2-a27b-5f0fdf10c850"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Olga%20Kurdovskaja%208200eb0792dd44a2a27b5f0fdf10c850.html">Olga Kurdovskaja</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-red">accelerator</span></td><td class="cell-dph~">Tehnopol Startup Incubator</td><td class="cell-Eibm"><span class="selected-value select-value-color-gray">tehnopol</span></td><td class="cell-s`zC"></td></tr><tr id="1ec2e29a-2c39-4d20-9402-474584c89b6e"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Julia%20Jolkin%201ec2e29a2c394d209402474584c89b6e.html">Julia Jolkin</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-purple">hiring</span></td><td class="cell-dph~"></td><td class="cell-Eibm"><span class="selected-value select-value-color-green">devclub</span></td><td class="cell-s`zC"></td></tr><tr id="668cb417-f7b8-498e-ab8b-33de7f45f5e7"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Brait%20Pilvik%20668cb417f7b8498eab8b33de7f45f5e7.html">Brait Pilvik</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-red">accelerator</span></td><td class="cell-dph~">Prototron</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="53577af8-34bd-4c39-9aab-0325b92bb1ed"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Liis%20Leidsaar%2053577af834bd4c399aab0325b92bb1ed.html">Liis Leidsaar</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-yellow">education</span><span class="selected-value select-value-color-purple">hiring</span></td><td class="cell-dph~">kood/Jõhvi</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="a2997a92-0151-4756-804a-3953e32fcd51"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Khrystyna%20Hladun%20a2997a9201514756804a3953e32fcd51.html">Khrystyna Hladun</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-red">gis</span><span class="selected-value select-value-color-green">potential-partners</span></td><td class="cell-dph~">EOS Data</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="5b641d72-3c69-4f4f-8e24-c89384302af7"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/S%CC%8Cimon%20Bili%CC%81k%205b641d723c694f4f8e24c89384302af7.html">Šimon Bilík</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-blue">research</span></td><td class="cell-dph~">Brno University</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="bbe5d472-404c-4b7c-979c-6261f0c3a88c"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Adam%20Ligocki%20bbe5d472404c4b7c979c6261f0c3a88c.html">Adam Ligocki</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-blue">research</span></td><td class="cell-dph~">Brno University</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="bc054c4b-f669-4359-a46d-7b86a8c6e6e8"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Beatriz%20Remeseiro%20bc054c4bf6694359a46d7b86a8c6e6e8.html">Beatriz Remeseiro</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-blue">research</span></td><td class="cell-dph~">Universidad de Oviedo</td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="d49d30f0-0f81-469d-93f0-811d5faea543"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Erki%20Naumanis%20d49d30f00f81469d93f0811d5faea543.html">Erki Naumanis</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-default">product</span></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"></td></tr><tr id="614d8cc3-4e72-4846-86a9-d24e7d9473c1"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Anu%20Maasik%20614d8cc34e72484686a9d24e7d9473c1.html">Anu Maasik</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-orange">legal</span><span class="selected-value select-value-color-brown">patents</span></td><td class="cell-dph~">Moosedog</td><td class="cell-Eibm"><span class="selected-value select-value-color-pink">prototron</span></td><td class="cell-s`zC"></td></tr><tr id="aa7f4877-3671-434b-83ae-635995bd42cd"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Kati%20Pino%20aa7f48773671434b83ae635995bd42cd.html">Kati Pino</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-orange">legal</span></td><td class="cell-dph~">Hedman</td><td class="cell-Eibm"><span class="selected-value select-value-color-pink">prototron</span></td><td class="cell-s`zC"></td></tr><tr id="530df848-d0c5-4b94-a3ae-2b12f46c92b4"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Sergei%20Kaskov%20530df848d0c54b94a3ae2b12f46c92b4.html">Sergei Kaskov</a></td><td class="cell-KLxh"></td><td class="cell-dph~"></td><td class="cell-Eibm"></td><td class="cell-s`zC"><a href="../../../Products%2058e0ca42932f483aa6654f96baccb97a/Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Share%20of%20beehive%20inspection%20public%20URL%20477d096f683542f4a182e53ff5f23780.html"><span class="icon">♻️</span>Share of beehive inspection public URL</a></td></tr><tr id="537c95d6-c637-434d-bee6-d100e0f60d93"><td class="cell-title"><a href="../../../Careers%20e50bd8e561c74102ab8e2b96276809c7/Friends%206b51c9883cd94fe8a70a4ae548d1970a/Advisors-db%20af2ec59abbb847bba31ba091372e5507/Ragmar%20Saksing%20537c95d6c637434dbee6d100e0f60d93.html">Ragmar Saksing</a></td><td class="cell-KLxh"><span class="selected-value select-value-color-default">beekeeping</span><span class="selected-value select-value-color-green">potential-partners</span></td><td class="cell-dph~">TalTech / Tehnopol</td><td class="cell-Eibm"><span class="selected-value select-value-color-default">latitude59</span></td><td class="cell-s`zC"></td></tr></tbody></table><br/><br/></div><p id="2040523b-c0ae-4a71-8c4c-3a4d15a0a8cf" class="">
+</p><h2 id="b5c6915a-a1cf-48bb-b56d-9e04fded4aea" class="">Design mockup</h2><p id="83be7172-1ce2-4c47-b49f-a8afd71fbfad" class="">
+</p><div id="e958c4a7-1dd9-4010-bd04-3d983a0ee0f7" class="column-list"><div id="731a483d-d7a4-4a3b-985e-f9f34c5379cc" style="width:50%" class="column"><figure id="e2d53064-69f5-44fb-917e-367c18149001" class="image"><a href="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_08.58.03.png"><img style="width:720px" src="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_08.58.03.png"/></a><figcaption>Apiary view with single hive map</figcaption></figure></div><div id="c815dcdd-3a01-48a1-b7f1-cede7fe3dd42" style="width:50%" class="column"><figure id="a64dad45-6e51-4c55-b29d-2cdedbdade8d" class="image"><a href="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_09.24.44.png"><img style="width:1596px" src="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_09.24.44.png"/></a><figcaption>Blooming time view</figcaption></figure></div></div><p id="477ce986-4a07-44a8-8e7d-533f6f058c6a" class="">
+</p><h2 id="cdc1d654-ac3a-46ea-aaeb-1816d42f4d15" class="">System design</h2><p id="14a79179-9e17-4142-84e4-2072233c74f1" class="">
+</p><figure id="72306fa7-ae56-432d-b713-fded682ad15c" class="image"><a href="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_09.15.25.png"><img style="width:1334px" src="Final%20Garage48%20project%20page%20395bddc3353f45a5bae301ca13ddde28/Screenshot_2023-11-04_at_09.15.25.png"/></a><figcaption>Service component diagram</figcaption></figure><p id="b5721392-f81a-45d8-af3f-06a885b5a35a" class="">Initial idea was that, given coordinates X,Y of the apiary, we make request to copernicus servers to receive RGB visible spectrum data. Then we pass result png image to a trained ML model that will do segmentation of fields and classification of them. We then wanted to store inference results to DB to have caching in place in case user visits same page.</p><p id="782a2b55-32f2-4933-b5d3-c5815bad6390" class=""><strong>Machine learning and SATELLITE DATA USED</strong></p><p id="ac9447de-031f-4c2f-b10a-07be94ea7691" class="">We trained two separate models during development.</p><p id="9a12be5a-6d09-4a45-8e30-d6804b327262" class="">We tried first <a href="https://universe.roboflow.com/gratheon/crop-fields/model/2">a light-weight version</a> which could do segmentation of  fields without actual classification. We did not end up using it as we wanted actual field types and it was trained on pre-existing dataset that was not related to Copernicus although it would be the fastest to integrate</p><p id="7efad498-81aa-4e37-a710-f9ab69ba58dc" class="">Second model was more complex. We exported map of Estonia without cloud coverage (for 13 june 2023) from Copernicus Open Data Hub in multispectral .dim format which includes all layers (infrered etc), then we processed it in QGIS. We normalized resolution to be 20m.</p><p id="5dbe6210-8a95-42fd-b710-62e7a2106fcb" class="">For training a model we took polygon data from Estonian registries - PRIA (crop fields registry) and Maaamet (forests and buildings). Then we unified these layers, cleaned classes (out of original 300 classes we got 25 classes). To prepare dataset, for every class we picked training (300) and validation(50) instances. We used random forest model.</p><figure id="317e2c64-dcb4-4e8a-8641-43b3ae09147e" class="image"><a href="https://taikai.azureedge.net/yy9I6kzJQiPxGJO1GGC8FzAQ4cAjCxXV_Tyz_0mm7JU/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9jMTU0MzM1MC03YmQ3LTExZWUtYWNhOC1iMTYxZjY5NmQyZTcyMDIzMTEwNF8xNTM5MzIuanBn"><img style="width:300px" src="https://taikai.azureedge.net/yy9I6kzJQiPxGJO1GGC8FzAQ4cAjCxXV_Tyz_0mm7JU/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9jMTU0MzM1MC03YmQ3LTExZWUtYWNhOC1iMTYxZjY5NmQyZTcyMDIzMTEwNF8xNTM5MzIuanBn"/></a></figure><p id="36eb9267-eae3-4c5b-8f2f-d85aaa9d2de2" class="">QGis interface</p><p id="358df83b-0d4f-427c-918a-1d1891326935" class="">As a result, model produces an image where for every pixel we have a class prediction. This allows us to run inference in countries/regions that do not have digital field/crop mapping data available. This also allows us to easily calculate class ratios using simple per-pixel sumation.</p><p id="f1c1ba9e-37f6-49f5-85b5-ef210bd193b9" class="">For inference we use sentinel-2-l2a and process API</p><figure id="7b31733c-4d84-4135-859c-532e4db9ad91" class="image"><a href="https://taikai.azureedge.net/lxvZH6Y8IJDUQNHxb9uoId7h_g9qVF0Iv7DZKyQfNtc/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9jNWQxNmMyMC03YmQ5LTExZWUtYWNhOC1iMTYxZjY5NmQyZTdTY3JlZW5zaG90IDIwMjMtMTEtMDUgYXQgMTQuNDkuMTIucG5n"><img style="width:300px" src="https://taikai.azureedge.net/lxvZH6Y8IJDUQNHxb9uoId7h_g9qVF0Iv7DZKyQfNtc/rs:fit:800:0:0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3RhaWthaS1zdG9yYWdlL2ltYWdlcy9jNWQxNmMyMC03YmQ5LTExZWUtYWNhOC1iMTYxZjY5NmQyZTdTY3JlZW5zaG90IDIwMjMtMTEtMDUgYXQgMTQuNDkuMTIucG5n"/></a></figure><p id="e79b6360-1660-481b-b902-aed003ecba2f" class="">Visualization of trained field classification near Tallinn, Estonia (on top)</p><p id="b74d1ca1-092c-4b0e-9797-614883dd2d96" class=""><strong>Result app</strong></p><p id="490495f1-b45d-42c4-a469-72c406dfbba3" class="">We have a web-app deployed and available for the customers.</p><p id="d772fa61-809f-45fb-be44-4c32df365d3e" class="">We make request to copernicus server to get sentinel-2-l2a image for specific location +- 4 km (bee flight range) and provide a list of classes we can run inference on</p><p id="776ec260-e833-4427-b0d8-3656342dee08" class="">To access it, you need to:</p><ul id="6be3e8ba-a9f2-48e5-98e4-4555d5ae0cf5" class="bulleted-list"><li style="list-style-type:disc">register in the app - <a href="https://app.gratheon.com/account/register">https://app.gratheon.com/account/register</a></li></ul><ul id="696f6947-70be-4cd9-80e3-37a76bffcb6b" class="bulleted-list"><li style="list-style-type:disc">create new apiary - <a href="https://app.gratheon.com/apiaries/create">https://app.gratheon.com/apiaries/create</a></li></ul><ul id="ea910da4-971a-41c2-b163-e056e102a69c" class="bulleted-list"><li style="list-style-type:disc">go into apiary view, drag the marker and click &quot;Analyze crops&quot; - <a href="https://app.gratheon.com/apiaries/edit/2">https://app.gratheon.com/apiaries/edit/2</a></li></ul><p id="f64877d8-aaf0-433c-9da3-d2e72381b9b3" class=""><strong>Source code</strong></p><ul id="8f9f52d9-86ec-44e6-9602-0dfd7776769b" class="bulleted-list"><li style="list-style-type:disc">ML training dataset - <a href="https://drive.google.com/drive/folders/1Gh4DXqaDFF1r3lsgxQlo2HREPjo6xlRK?usp=sharing">https://drive.google.com/drive/folders/1Gh4DXqaDFF1r3lsgxQlo2HREPjo6xlRK?usp=sharing</a></li></ul><ul id="4e388a81-fc1d-4616-a0be-6a5d2c181f75" class="bulleted-list"><li style="list-style-type:disc">Backend &amp; ML code - <a href="https://github.com/Gratheon/satellite-pollination-map">https://github.com/Gratheon/satellite-pollination-map</a></li></ul><ul id="7e7f9d36-ad92-4ebb-83ec-e5f6d885ef3b" class="bulleted-list"><li style="list-style-type:disc">Frontend recent changes related to hackathon - <a href="https://github.com/Gratheon/web-app/commits/main">https://github.com/Gratheon/web-app/commits/main</a></li></ul><p id="18ab3ef7-b901-42d8-92da-50615bbec3b2" class=""><strong>Limitations &amp; future work</strong></p><ul id="439b5acc-e9ee-491d-914b-7b6461fb7bc6" class="bulleted-list"><li style="list-style-type:disc">We could connect beekeepers with farmers to prevent pesticide exposure affecting bees during blooming time</li></ul><ul id="a2059e85-e25e-4f4c-8aa0-93065b33fae1" class="bulleted-list"><li style="list-style-type:disc">ML model needs more work on precision. We used fixed date for dataset, so instead we could use historical data to train models with more precise blooming time (say every 2 weeks, april-june)</li></ul><ul id="53500761-af92-4b42-8303-e5cf67c20be9" class="bulleted-list"><li style="list-style-type:disc">We did not reach deploying model into production within hackathon timeframe.</li></ul><ul id="7921f3be-d292-4033-bf86-69464863b9ef" class="bulleted-list"><li style="list-style-type:disc">We did not reach integrating correct pollination times and nectar flow rate for classes that we intend to detect</li></ul><p id="6e33f957-89f0-4214-96ac-a13e88ea98af" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

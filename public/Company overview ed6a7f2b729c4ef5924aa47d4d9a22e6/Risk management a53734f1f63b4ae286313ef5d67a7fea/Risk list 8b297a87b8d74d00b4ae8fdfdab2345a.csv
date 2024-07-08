@@ -1,0 +1,18 @@
+﻿Risk,Cause,Probability (%),Impact (%),Score,Response plan,Fallback,Effect (Fallback cost EUR)
+"Database (mysql) crashes, customer data is lost",DB is stored on app server,80,100,8000,DB backup. We are using now centralized (managed) DB by Digital Ocean instead of a on-node mysql. This has backups built-in. Though it costs a bit more,,
+"Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) jams, customer bees are open to the weather, get hypothermia and die. Customer sues us.",Electric power loss,40,80,3200,,,
+Google Play non-compliance,Wrong privacy policy,,,0,,,
+Google Play non-compliance,Missing functionality,,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) is litting on fire,,3,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) is squashing bees,,10,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) is wastes customer’s electricity,,3,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) jams and bees are open to the weather,,5,,0,,,
+Death of founders,,,,0,"- Code is open source, the project will live on",,
+Confidentiality breaches,,,,0,"- we do not have confidential information (yet) and try to be as transparent as possible accoring to Radiate truth (../Careers%20e50bd8e561c74102ab8e2b96276809c7/Company%20roles%20d961012e6fc04f329b876179617803d8/Culture%20and%20values%20be3138c1cf0a4ebe8628f14448654682/Company%20Values%20c65e8769a562453b88b3131ca818103f/Radiate%20truth%2052ad44ce6a014b66b7251968c7f37d41.html) ",,
+"Database (mysql) data is stolen, GDPR breach, Estonian data protection agency (Andmekaitse) or EU regulators fine us",Unforseen code vulnerability,20,80,1600,"- Notify all affected customers
+- Hire CR12 / Hackerone to detect potential breaches in security",,
+Solicitation (stealing team). Team mate convinces some team mates to start a competing business,,,,0,"- With Legal & compliance (Legal%20&%20compliance%20e871f9865d37421ab19a2d5ffac2a174.html) we have brand protection
+- Once we are an established company, employment contracts will prohibit solicitation",,
+Team is arguing over minor things and never reaches selling the product,,15,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) is not efficient and has duplicate/wasted components,,,,0,,,
+Robotic Beehive (../Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) jams customer’s hands. Causes loss of limbs. Customer sues us,,10,,0,,,
