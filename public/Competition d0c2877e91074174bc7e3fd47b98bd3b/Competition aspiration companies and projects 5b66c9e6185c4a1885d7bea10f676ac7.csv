@@ -1,0 +1,88 @@
+﻿Competes with product,Name,Website,Focus,Funding,Country,Details,Pricing,Customer estimation
+"Robotic Apiary (Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Apiary%20c14f4ea70f3146b5868a2d7874b8a958.html) ",https://beewise.ag/home,https://beewise.ag/,"nest, robot, vision",120M,Israel,Industrial level robotic beehives with image processing. Rent model,"v1 - 600$ (40 hives)
+
+v2 - $400/month per container + 2000$ delivery",
+"📱Web-app ",Nectar,https://www.nectar.buzz/,software,,Canada,Beekeeping organizer for migratory beekeepers,,
+"Entrance Observer (Products%2058e0ca42932f483aa6654f96baccb97a/Entrance%20Observer%20b0319799ab7744dc928c08119de4fc43.html) ",Apic.ai,https://apic.ai/research.html,"entrance, vision",🔬,Germany,"scientific research, counter","video + scale + sensor
+350 € - 550 € per ",
+"Entrance Observer (Products%2058e0ca42932f483aa6654f96baccb97a/Entrance%20Observer%20b0319799ab7744dc928c08119de4fc43.html) ",Best Bees,https://bestbees.com/smarthive-lp/,"entrance, robot, varroa, vision",,US,,,
+"Entrance Observer (Products%2058e0ca42932f483aa6654f96baccb97a/Entrance%20Observer%20b0319799ab7744dc928c08119de4fc43.html) ",Beemate,https://beemate.buzz/,"entrance, vision",,Australia,"Entrance tracking, 
+temperature, humidity and sound sensors",,
+"Entrance Observer (Products%2058e0ca42932f483aa6654f96baccb97a/Entrance%20Observer%20b0319799ab7744dc928c08119de4fc43.html) ",VimanaTech & B-honey: Purple Hive project,https://www.vimanatech.com.au/about,"entrance, sms, varroa, vision",,Australia,Varroa mite detection at the entrance,,
+"Entrance Observer (Products%2058e0ca42932f483aa6654f96baccb97a/Entrance%20Observer%20b0319799ab7744dc928c08119de4fc43.html) ",🇨🇿 BeeLogger,https://github.com/boortel/Bee-Health-Monitor/tree/main,"entrance, vision",🔬,Czech Republic,"open source, raspberry pi",,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",BeeHero,https://www.beehero.io/,analog,42M,Israel,"Low-signal hardware
+SaaS app
+Industrial focus",,
+"Robotic Beehive (Products%2058e0ca42932f483aa6654f96baccb97a/Robotic%20Beehive%20fd9559a2950b44bc8291972299ced18e.html) ",RoboRoyale,https://roboroyale.eu/,"nest, robot, vision",🔬,Czech Republic,,,
+"Web-app (Products%2058e0ca42932f483aa6654f96baccb97a/Web-app%202937ed264e1d434a8664caa4bc40978e.html) ",BeeScanning,https://www.beescanning.com/,"software, vision",,Sweden,Varroa mite detection with mobile app and image recognition,40 € /year,5k
+"📱Web-app ",HiveTracks,https://www.hivetracks.com/,software,,USA / NC,nice UI / hive manager,70 € / year,1k downloads
+"📱Web-app ",HiveBloom,,software,,,"nice UI / hive manager
+android / ios",20 € / year,5k downloads
+"📱Web-app ",Apizoom,https://www.apizoom.app/,"software, varroa, vision",,Switzerland,"android / ios
+(Dead) Varroa mite detection on hive bottom. Requires a photo of the coin present",,
+"🧿Robotic Beehive 
+📱Web-app ",Beep.nl,"https://beep.nl/
+https://www.kickstarter.com/projects/beepnl/beep-base-a-measurement-system-to-assist-beekeepers?ref=discovery&term=beehive","analog, nest",,Netherlands,Low-signal hardware (audio) + software + opensource app,"scale + sensor + hub - 475 €
+2k+ users",
+"🧿Robotic Beehive ",LabelBee,,,🔬,USA / Puerto Rico,,,
+,Bee Queen Detector,,software,,,Queen detection with mobile app and image recognition,free,10k
+"👁️‍🗨️Entrance Observer ",BeePi,"https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-a-multisensor-electronic-beehive-monitor/description
+https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-honeybees-meet-ai-stage-2
+https://www.kickstarter.com/projects/beepihoneybeesmeetai/beepi-honeybees-meet-ai-stage-3/description","entrance, vision",🔬,USA / Utah,"scientific research, counter + audio
+
+no sensors inside the hive
+no cloud computation",,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",Beelab.se,https://www.beelab.se/,"analog, nest",,Sweden,MQTT +  AWS + Grafanahttps://www.beelab.se/https://www.youtube.com/watch?v=XhjNoGhjdfE,,
+"📱Web-app ",ApiManager,https://apimanager.net/,software,,,,,10k downloads
+"📱Web-app ",ApiaryBook,apiarybook.com,software,50K,England,"Exhaustive administration of various data / CRUD
+android / ios",,"25k MAU
+250k downloads"
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",IntelligentHives,https://intelligenthives.eu/#/,"analog, nest",,Poland,Low-signal hardware (audio) + software,scale + sensor + hub - 430 $,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",BeeHiveMonitoring,beehivemonitoring.com,analog,,Slovakia,,"hub - 160 €
+scale - 160 €
+sensor - 70 €",
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",SmartHive,http://smarthive.co.kr/,nest,,Korea,"Semi-automatic robotic assistant, focus on cleaning the frames",6000 $,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",Broodminder,broodminder.com,analog,,USA,Low-signal hardware (audio) + software,"hub - 260$
+scale - 240$
+sensor - 42$",
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",Solutionbee.com,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,"hub - 1200$
+scale - 360$
+sensor - 65$",
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",beehivemonitoringusa.com,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,170$,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",https://www.osbeehives.com/,,analog,,,"Low-signal hardware (audio)
+Audio-focus
+SaaS app",119$,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",https://beesage.co/,,analog,,Netherlands,,10 EUR / mo + 150 EUR device,
+,APIs tech,https://www.indiegogo.com/projects/apis-tech-smart-hive-monitor-for-every-beehive#/,,,,,,
+,Hive genie,https://www.indiegogo.com/projects/hive-genie-beehive-monitor-controller-guardian#/,,,USA,,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",GoBuzzr,https://www.gobuzzr.com/,analog,,,"temperature, humidity, weight → device + app",,
+,HiveMind,https://www.kickstarter.com/projects/hivemind/innovative-wireless-beehive-scales?ref=discovery&term=beehive,,,,,,
+,BuzzBox,https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive,,,,,,
+,urbanBee: Kolony,https://www.kickstarter.com/projects/283199796/urbanbee-kolony?ref=discovery&term=beehive,,,,"seems to be dead project, last publication 2019
+https://www.facebook.com/UrbanBee/?locale=mg_MG",,
+,HivePi,,,,,https://www.youtube.com/watch?v=NPoLbz1RYGk,,
+,BeeBot,,,,,https://www.youtube.com/watch?v=WDs45mVPYmc,,
+,Scales,,,,,https://www.youtube.com/watch?v=kE4ovbHn7Yw,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",ApisProtect,https://apisprotect.com/,analog,,Ireland,,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",ProHiver,https://prohiver.com/,"analog, weight",,Lithuania,,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",HivePulse,https://hivepulse.co.za/,analog,,,,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",HoneyInstruments,https://www.honeyinstruments.com/en,analog,,,,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",AgriSound,https://agrisound.io/,"analog, weight",,UK,,,
+"🧿Robotic Beehive ",ApiPulse,https://apipulse.ru/,"analog, audio, weight",,Russia,,,
+,Beetight 2,,software,,,"android app, 5k downloads",,
+,OSBeehives,,software,,,"android app, 5k downloads",,
+,BeeOrganizer,,software,,,"android app, 1k downloads, free
+medium UI / basic hive manager",,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",Arnia.co,,analog,,,Low-signal hardware (audio+scale+temp+humidity) + software,"150$ / year
+scale - 307$
+sensor - 90$",
+,Hive manager / Vatorex,,software,,,"android / ios app
+medium UI / basic hive manager + 
+temperature-based mite treatment",free + 120 € / year,
+,BeePlus Beekeeping,,software,,,ios app,8 €,
+,InspectNext,,software,,,ios app,,
+,Smartbeehive / умный улей,,software,,,ios app,,
+,Mobile Apiary,,software,,,ios app,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",Intelligent hives,,"analog, software",,,ios app,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",BroodMinder Bees,,"analog, software",,,ios app,,
+"Beehive IoT sensors (Products%2058e0ca42932f483aa6654f96baccb97a/Beehive%20IoT%20sensors%2026aad244cdf64f4e8596d050f44f0bed.html) ",i-bee,,"analog, software",,,ios app,,

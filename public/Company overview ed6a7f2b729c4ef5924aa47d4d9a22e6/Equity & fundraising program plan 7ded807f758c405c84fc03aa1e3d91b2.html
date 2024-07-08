@@ -1,0 +1,685 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Equity &amp; fundraising program plan</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="7ded807f-758c-405c-84fc-03aa1e3d91b2" class="page sans"><header><img class="page-cover-image" src="https://images.unsplash.com/photo-1554298128-c916518a4b34?ixlib=rb-4.0.3&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon">🦚</span></div><h1 class="page-title">Equity &amp; fundraising program plan</h1><p class="page-description"></p></header><div class="page-body"><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="3bd95cb2-5019-4384-a78e-67cc766f4783"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%">This page is summarizing the rough <strong>plan</strong> of the equity program for the employees, founders, investors and advisors.</div></figure><p id="754d7acb-fbfd-4aba-94f7-8f738b7ae0e6" class="">
+</p><p id="cfb42043-eb91-4300-8ee0-ec825ae791f9" class="">Equity is a mechanism of motivation and compensation at early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. Making everyone owning the company is part of our company values - <a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Company%20roles%20d961012e6fc04f329b876179617803d8/Culture%20and%20values%20be3138c1cf0a4ebe8628f14448654682/Company%20Values%20c65e8769a562453b88b3131ca818103f/Team%20effort%20946788035d7f4462b4228eee8a4ca7ca.html"><span class="icon">🐝</span>Team effort</a> and <a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Company%20roles%20d961012e6fc04f329b876179617803d8/Culture%20and%20values%20be3138c1cf0a4ebe8628f14448654682/Company%20Values%20c65e8769a562453b88b3131ca818103f/Gather%20value%2077aab01281814dec94ccddf330619a23.html"><span class="icon">🍯</span>Gather value</a>.<br/><br/></p><p id="0409f16b-eb04-4e9c-9424-37c60716fc3e" class="">If you leave, you loose options. Company can print more shares. Options are virtual and are not affecting the legal body of Gratheon OÜ registry as mentioned in <a href="Legal%20&amp;%20compliance%20e871f9865d37421ab19a2d5ffac2a174/Legal%20training%20by%20Hedman%206144b4856a8a4ffbbe28f145d4b4470e.html"><span class="icon">🥧</span>Legal training by Hedman</a> </p><p id="d6bea0c8-ca1d-4216-8da0-d8e65370cc49" class="">
+</p><ul id="77192bd8-f034-49d0-ac97-b9832c4be519" class="toggle"><li><details open=""><summary>ChatGPT, what is equity?</summary><p id="85ccd535-fa08-4682-bd3f-361bee1b76be" class="">Equity in a startup or a small business can be an attractive form of compensation for employees and partners, as it offers a share in the potential future success of the company. Equity represents ownership in the company, and it can take several forms. Common types include stock options, restricted stock, and performance shares, each with its unique characteristics and tax implications.</p><p id="a854aa74-788c-4fd4-b067-3c5a9ce82068" class="">Equity is often given to early employees as part of their compensation package, but it can also be used to attract high-quality talent as the company grows. The amount of equity is usually based on the employee&#x27;s role, seniority, and when they joined the company. It&#x27;s worth noting that equity is not the same as immediate cash, and its value is tied to the success and profitability of the business. As such, it represents a long-term investment in the company.</p><p id="4e9ae604-6195-42a1-bd2f-a23921f84b29" class="">When a startup decides to offer equity, it essentially divides ownership of the company into a predetermined number of shares. These shares may then be distributed among the founders, investors, and employees. The percentage of ownership that each share represents is inversely proportional to the total number of shares. In other words, the more shares that exist, the less ownership each one represents.</p><p id="60ba214f-fed8-4417-9dc1-f1b60a9353dc" class="">For employees, receiving equity means they are being given a certain number of shares in the company. This can either be done directly or through an equity compensation plan, such as a stock option plan. Under such a plan, employees are given the option to purchase a set number of shares at a fixed price, usually lower than market value. This becomes more valuable as the company&#x27;s value increases.</p><p id="ad51cf5b-7784-429d-ad3b-e2f39f1e8bb1" class="">However, equity also comes with risks. If the startup fails, the value of the equity could become worthless. Furthermore, there may be restrictions on when and how equity can be sold, which means employees may not be able to realize the value of their equity immediately. Therefore, while equity can have great rewards, it is important for recipients to understand the potential risks and limitations.</p><figure id="63b5eeac-293e-4a1f-ac78-affe6f342a7b"><div class="source"><a href="https://www.youtube.com/watch?v=5oO3k5ghKT8">https://www.youtube.com/watch?v=5oO3k5ghKT8</a></div></figure></details></li></ul><p id="28b6c956-b970-4d5b-a07e-3cf353f15d60" class="">
+</p><h2 id="48ecbf31-59ca-495b-a31a-e483d728dbdb" class="">Aggregated CAP table, an example</h2><p id="8217c3b9-291e-4e6f-9dca-7f7b1b9b1a42" class="">Approximate expected distribution of shares over time.</p><p id="936fbc1a-bac6-4e02-a75a-bb1d9474c46f" class="">For team option pool and founders,  we will have 1 year cliff, 4 years of vesting time.</p><p id="fd3a3aba-3555-489b-b84e-cd4adf9bf3d0" class="">
+</p><table id="12067b7c-085c-4f32-90a3-c67b6f5f4bf8" class="simple-table"><tbody><tr id="315f049d-fea5-4561-91b3-757255287aef"><td id="I`vn" class="" style="width:202.5625px">Who</td><td id="l~[u" class="" style="width:188px">angel phase ⛳</td><td id="ULU`" class="" style="width:154px">pre-seed</td><td id=";iOQ" class="" style="width:157px">seed</td><td id="gvkF" class="" style="width:190px">series A</td></tr><tr id="de4f063d-a37a-498a-ac49-b968e2a2feab"><td id="I`vn" class="" style="width:202.5625px">Founder</td><td id="l~[u" class="" style="width:188px">60% (600 000)</td><td id="ULU`" class="" style="width:154px">54.3%</td><td id=";iOQ" class="" style="width:157px"></td><td id="gvkF" class="" style="width:190px">41%</td></tr><tr id="5fc64502-e7b1-4aed-bbf3-92d2e534ed4b"><td id="I`vn" class="" style="width:202.5625px">Team option pool</td><td id="l~[u" class="" style="width:188px">38% (380 000)</td><td id="ULU`" class="" style="width:154px">34.3%</td><td id=";iOQ" class="" style="width:157px"></td><td id="gvkF" class="" style="width:190px">26%</td></tr><tr id="09f07655-9db9-45bf-ab5c-e714760387f5"><td id="I`vn" class="" style="width:202.5625px">Investors</td><td id="l~[u" class="" style="width:188px">2% (2 000)</td><td id="ULU`" class="" style="width:154px">+20% (200 000)</td><td id=";iOQ" class="" style="width:157px">+10% (110 000)</td><td id="gvkF" class="" style="width:190px">+20% (242 000)</td></tr><tr id="93f478ec-b743-419a-a98a-62b40c00e7ed"><td id="I`vn" class="" style="width:202.5625px">Advisors<br/>(~0.1-1% per person)<br/></td><td id="l~[u" class="" style="width:188px">5% (50 000)</td><td id="ULU`" class="" style="width:154px"></td><td id=";iOQ" class="" style="width:157px"></td><td id="gvkF" class="" style="width:190px"></td></tr><tr id="e5a6fc47-e60c-46ba-92b1-af19213d6287"><td id="I`vn" class="" style="width:202.5625px">Capital to raise in convertible loan</td><td id="l~[u" class="" style="width:188px">40k<br/>in convertible notes<br/></td><td id="ULU`" class="" style="width:154px">1M<br/><br/></td><td id=";iOQ" class="" style="width:157px">1.4M</td><td id="gvkF" class="" style="width:190px">10M</td></tr><tr id="dbdedd72-c0d0-4d10-a880-f1e94289d329"><td id="I`vn" class="" style="width:202.5625px">Fundraising goal</td><td id="l~[u" class="" style="width:188px">for software and hardware prototype development</td><td id="ULU`" class="" style="width:154px">development runway for the prototype to be production-ready</td><td id=";iOQ" class="" style="width:157px">enter the market</td><td id="gvkF" class="" style="width:190px">scale business in Europe</td></tr><tr id="df232b13-e3c7-4796-af82-a8a00f8bee50"><td id="I`vn" class="" style="width:202.5625px">Shares total</td><td id="l~[u" class="" style="width:188px">1 000 000</td><td id="ULU`" class="" style="width:154px">1 200000</td><td id=";iOQ" class="" style="width:157px">1 210 000</td><td id="gvkF" class="" style="width:190px">1 452 000</td></tr><tr id="9df33e30-3b20-4711-a72a-49e25a2cbfb0"><td id="I`vn" class="" style="width:202.5625px">Post-money valuation</td><td id="l~[u" class="" style="width:188px">2M</td><td id="ULU`" class="" style="width:154px">7M</td><td id=";iOQ" class="" style="width:157px">14M</td><td id="gvkF" class="" style="width:190px">50M</td></tr><tr id="226234f9-6c38-4fd0-a450-d4da36e3a0d4"><td id="I`vn" class="" style="width:202.5625px">Share value</td><td id="l~[u" class="" style="width:188px">0.04</td><td id="ULU`" class="" style="width:154px">6</td><td id=";iOQ" class="" style="width:157px">11.5</td><td id="gvkF" class="" style="width:190px">34</td></tr><tr id="81a9c3e6-0ea3-4dcc-bbb5-5b77a738909f"><td id="I`vn" class="" style="width:202.5625px">Join time risk coefficient</td><td id="l~[u" class="" style="width:188px">10</td><td id="ULU`" class="" style="width:154px">5</td><td id=";iOQ" class="" style="width:157px">1.5</td><td id="gvkF" class="" style="width:190px">1</td></tr></tbody></table><p id="6c260a68-abaf-4afc-980b-1a32f8dddfef" class="">
+</p><h2 id="dd9bec9c-acfa-4064-9992-ea9feb5cc185" class="">⛲ Team option pool calculation</h2><p id="8f6ec775-804a-4be9-a3e7-ff4674511e4b" class=""><strong>Assuming</strong> we are successful and do reach 100 employees after series A with initial option pool of 380 000 shares equity and do not print more shares, on average <strong>each employee gets ~ 3800 shares</strong> at 34 EUR per share valuation.</p><h3 id="04043fdb-7c88-4421-84d4-d1bec3e87e58" class="">Hierarchical equity</h3><p id="14fd01d3-05b7-48d6-8d9f-2eeac71afd37" class="">Flat equity model does not take into consideration <strong>join time</strong> which involves higher risks. <br/>And it does not differentiate by <br/><strong>skill level</strong>.</p><p id="922c602f-a204-47e9-9c6f-5024c50a4f06" class="">To combat this we add <code>Join time risk coefficient</code> (above) that depends on  company phase (round) and <code>Equity staff level coefficient</code> that depends on experience / seniority level. Both affect the real amount of shares provided to the person.</p><p id="fd247832-62e5-4ec9-a65f-aef2e04daf01" class="">The negative side is that it is not possible to balance in advance amount of employees and their levels. So to calculate base level (2000 shares), we assume that we can hire 100 Senior engineers + have some buffer for </p><p id="4f7e169a-649e-4c36-aa5a-23dc3bfe72a1" class="">
+</p><div id="8467f1a9-b276-43ef-b23f-567f66a1981f" class="collection-content"><h4 class="collection-title">Staff levels</h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesText"><path d="M1.56738 3.25879H14.4258C14.7676 3.25879 15.0479 2.97852 15.0479 2.63672C15.0479 2.29492 14.7744 2.02148 14.4258 2.02148H1.56738C1.21875 2.02148 0.952148 2.29492 0.952148 2.63672C0.952148 2.97852 1.22559 3.25879 1.56738 3.25879ZM1.56738 6.84082H14.4258C14.7676 6.84082 15.0479 6.56055 15.0479 6.21875C15.0479 5.87695 14.7744 5.60352 14.4258 5.60352H1.56738C1.21875 5.60352 0.952148 5.87695 0.952148 6.21875C0.952148 6.56055 1.22559 6.84082 1.56738 6.84082ZM1.56738 10.4229H14.4258C14.7676 10.4229 15.0479 10.1426 15.0479 9.80078C15.0479 9.45898 14.7744 9.18555 14.4258 9.18555H1.56738C1.21875 9.18555 0.952148 9.45898 0.952148 9.80078C0.952148 10.1426 1.22559 10.4229 1.56738 10.4229ZM1.56738 14.0049H8.75879C9.10059 14.0049 9.38086 13.7246 9.38086 13.3828C9.38086 13.041 9.10742 12.7676 8.75879 12.7676H1.56738C1.21875 12.7676 0.952148 13.041 0.952148 13.3828C0.952148 13.7246 1.22559 14.0049 1.56738 14.0049Z"></path></svg></span>Level</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>Name</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesFormula"><path d="M5.04688 14.3604H11.2744C11.7324 14.3604 12.0537 14.0801 12.0537 13.6494C12.0537 13.2119 11.7324 12.9248 11.2744 12.9248H5.81934V12.8564L9.30566 8.82324C9.54492 8.57031 9.6748 8.29688 9.6748 8.0166C9.6748 7.73633 9.54492 7.45605 9.29883 7.20996L5.81934 3.2793V3.21094H11.2812C11.7393 3.21094 12.0537 2.92383 12.0537 2.48633C12.0537 2.05566 11.7393 1.77539 11.2812 1.77539H5.05371C4.34277 1.77539 3.95312 2.26758 3.95312 2.81445C3.95312 3.12207 4.07617 3.44336 4.33594 3.69629L8.15039 7.96875V8.05078L4.3291 12.4395C4.06934 12.6924 3.94629 13.0137 3.94629 13.3213C3.94629 13.8682 4.33594 14.3604 5.04688 14.3604Z"></path></svg></span>Equity plan (shares)</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesNumber"><path d="M2.4834 10.9902H4.33594L3.75488 13.8887C3.74121 13.9639 3.72754 14.0664 3.72754 14.1416C3.72754 14.5381 3.99414 14.7637 4.39746 14.7637C4.81445 14.7637 5.09473 14.5449 5.18359 14.1143L5.80566 10.9902H8.79297L8.21191 13.8887C8.19824 13.9639 8.18457 14.0664 8.18457 14.1416C8.18457 14.5381 8.45117 14.7637 8.85449 14.7637C9.27148 14.7637 9.55176 14.5449 9.63379 14.1143L10.2627 10.9902H12.4502C12.9287 10.9902 13.2432 10.6758 13.2432 10.2109C13.2432 9.8418 12.9902 9.56836 12.6006 9.56836H10.5498L11.2129 6.28711H13.3662C13.8379 6.28711 14.1523 5.96582 14.1523 5.50098C14.1523 5.13184 13.9062 4.8584 13.5098 4.8584H11.5L12.0195 2.27441C12.0264 2.21973 12.0469 2.11035 12.0469 2.01465C12.0469 1.625 11.7666 1.39258 11.3633 1.39258C10.9053 1.39258 10.6797 1.63867 10.5977 2.05566L10.0303 4.8584H7.04297L7.5625 2.27441C7.57617 2.21973 7.58984 2.11035 7.58984 2.01465C7.58984 1.625 7.30957 1.39258 6.91309 1.39258C6.44824 1.39258 6.21582 1.63867 6.13379 2.05566L5.57324 4.8584H3.54297C3.06445 4.8584 2.75 5.18652 2.75 5.65137C2.75 6.03418 3.00293 6.28711 3.39258 6.28711H5.28613L4.62305 9.56836H2.63379C2.15527 9.56836 1.84082 9.89648 1.84082 10.3613C1.84082 10.7373 2.09375 10.9902 2.4834 10.9902ZM6.09277 9.56836L6.75586 6.28711H9.74316L9.08008 9.56836H6.09277Z"></path></svg></span>Equity staff level coefficient</th></tr></thead><tbody><tr id="be8f5bc5-04af-46b0-82f7-1834167253d3"><td class="cell-XTdu">L1</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Intern%20be8f5bc504af46b082f71834167253d3.html"><span class="icon">🎒</span>Intern</a></td><td class="cell-Ml^q">400</td><td class="cell-k]Ql">0.2</td></tr><tr id="975c3d21-c75e-4349-968e-93effb7f5f07"><td class="cell-XTdu">L2</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Junior%20975c3d21c75e4349968e93effb7f5f07.html"><span class="icon">🥉</span>Junior</a></td><td class="cell-Ml^q">1000</td><td class="cell-k]Ql">0.5</td></tr><tr id="c45b4e97-cb2d-49a2-b73a-1e55b95ceb26"><td class="cell-XTdu">L3</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Middle%20c45b4e97cb2d49a2b73a1e55b95ceb26.html"><span class="icon">🥈</span>Middle</a></td><td class="cell-Ml^q">2000</td><td class="cell-k]Ql">1</td></tr><tr id="c62668f4-5070-4b73-b87d-66b506b315ab"><td class="cell-XTdu">L4</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Senior%20Manager%20c62668f450704b73b87d66b506b315ab.html"><span class="icon">🥇</span>Senior / Manager</a></td><td class="cell-Ml^q">3000</td><td class="cell-k]Ql">1.5</td></tr><tr id="89947324-a2ed-488c-9372-33ef5541ff67"><td class="cell-XTdu">L5</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Staff%20Lead%20Head%2089947324a2ed488c937233ef5541ff67.html"><span class="icon">🏅</span>Staff / Lead / Head</a></td><td class="cell-Ml^q">4000</td><td class="cell-k]Ql">2</td></tr><tr id="e42b22e2-6779-451d-b495-b31d8fd62b42"><td class="cell-XTdu">L6</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Principal%20Director%20Group%20EM%20e42b22e26779451db495b31d8fd62b42.html"><span class="icon">🎖️</span>Principal / Director / Group EM</a></td><td class="cell-Ml^q">6000</td><td class="cell-k]Ql">3</td></tr><tr id="b004ca0f-8c11-4731-a620-e16615c073ef"><td class="cell-XTdu">L7</td><td class="cell-title"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Levels%2038a094b7550d4c1cb7b5cdf494bc6b0f/Staff%20levels%20a09c5732ed894c10b92492cb8dc8f5c1/Fellow%20C%20VP%20b004ca0f8c114731a620e16615c073ef.html"><span class="icon">🔆</span>Fellow / C* / VP</a></td><td class="cell-Ml^q">8000</td><td class="cell-k]Ql">4</td></tr></tbody></table><br/><br/></div><p id="31813f16-3947-47a4-a20a-56d8b0b44861" class="">
+</p><h3 id="d87e924e-c2f9-41e9-93e3-7c395a2902bd" class="">Investment funding rounds</h3><p id="f1816177-5121-441f-ad78-ffa3420f25e3" class="">At each step of funding round, some equity is given away to the investors in return for raised capital. New investor gets new shares, nothing happens to previously given away shares, thus ownership % is diluted but valuation of the company increases.</p><h2 id="d8d66837-16e7-4163-b87f-44b139c2f148" class="">Software to consider</h2><ul id="5457aebf-b480-4391-8ec1-76c9979c76f2" class="bulleted-list"><li style="list-style-type:disc">koos.io</li></ul><ul id="c94fa587-05e2-4e34-8b0d-b862efdbfff3" class="bulleted-list"><li style="list-style-type:disc">saltox.co</li></ul><ul id="0e6ec599-175a-48cc-a26b-a375919c507c" class="bulleted-list"><li style="list-style-type:disc">carta</li></ul><p id="2b9404f3-ef07-4105-b02c-ec646ff0f5a6" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

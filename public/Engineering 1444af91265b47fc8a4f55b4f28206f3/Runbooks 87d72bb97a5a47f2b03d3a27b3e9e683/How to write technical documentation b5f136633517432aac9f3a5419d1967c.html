@@ -1,0 +1,679 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>How to write technical documentation</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="b5f13663-3517-432a-ac9f-3a5419d1967c" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">🧶</span></div><h1 class="page-title"><strong>How to write technical documentation</strong></h1><p class="page-description"></p></header><div class="page-body"><h2 id="eab6c764-6c66-4727-92f0-937ac8ee8dbb" class="">Quick summary</h2><p id="14ec44c2-05c4-45c8-b21f-7bd0cf41c923" class="">Use github for documentation. For multiple services, use separate repo. Tie your tech doc to product</p><p id="88788c29-d8f2-4eac-9450-52ddc0c0ead3" class="">Create readme.md in your repo and add there:</p><ul id="20dbf1e2-eb20-44e7-ad65-764f213d683a" class="bulleted-list"><li style="list-style-type:disc"><strong>Description</strong></li></ul><ul id="875616a2-6b64-4ca1-a93f-eaab1cd650ef" class="bulleted-list"><li style="list-style-type:disc"><strong>Usage</strong></li></ul><ul id="d6d2c5de-3d64-43b6-84db-a394f2a18148" class="bulleted-list"><li style="list-style-type:disc"><strong>Dependencies</strong></li></ul><ul id="602b8a7c-4df9-44ca-a44a-adad8f0c2cc2" class="bulleted-list"><li style="list-style-type:disc"><strong>DB schema</strong></li></ul><ul id="40c03228-011b-4448-86ee-06f34e47c5ec" class="bulleted-list"><li style="list-style-type:disc"><strong>Contribution</strong></li></ul><h2 id="4fd31282-a2b0-497f-8a46-4c23833758a5" class="">Purpose</h2><p id="a20ffb8e-52f4-455b-b23f-4711de56a154" class="">Documentation can be of different type, depending on its purpose and end-user (specification document, maintenance sheet, integration document shared with other vendors etc.).This recommendation discusses documentation systems that is needed for web-app as a product for internal engineers.It does not refer to public API documentation, public knowledge center or how-to articles.</p><h2 id="cccaa6d3-11d9-4033-ace6-e4fa174e18d5" class="">Single service (readme.md) structure</h2><hr id="d2c8a18e-5dd0-410f-b61d-271785f96e63"/><p id="02334385-a7f8-4f64-89b1-d8ad78a431e9" class="">These are all optional, pick ones that are relevant to you. &quot;Priority&quot; column here is just to allow sorting of priorities</p><div id="5603a69b-87ca-418b-a008-0da053f0ce5b" class="collection-content"><h4 class="collection-title"></h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>Heading</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesSelect"><path d="M8 15.126C11.8623 15.126 15.0615 11.9336 15.0615 8.06445C15.0615 4.20215 11.8623 1.00293 7.99316 1.00293C4.13086 1.00293 0.938477 4.20215 0.938477 8.06445C0.938477 11.9336 4.1377 15.126 8 15.126ZM8 13.7383C4.85547 13.7383 2.33301 11.209 2.33301 8.06445C2.33301 4.91992 4.84863 2.39746 7.99316 2.39746C11.1377 2.39746 13.6738 4.91992 13.6738 8.06445C13.6738 11.209 11.1445 13.7383 8 13.7383ZM7.62402 10.6348C7.79492 10.915 8.20508 10.9287 8.37598 10.6348L10.666 6.73145C10.8574 6.41016 10.7002 6.04102 10.3652 6.04102H5.62793C5.29297 6.04102 5.14941 6.43066 5.32031 6.73145L7.62402 10.6348Z"></path></svg></span>Priority</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesSelect"><path d="M8 15.126C11.8623 15.126 15.0615 11.9336 15.0615 8.06445C15.0615 4.20215 11.8623 1.00293 7.99316 1.00293C4.13086 1.00293 0.938477 4.20215 0.938477 8.06445C0.938477 11.9336 4.1377 15.126 8 15.126ZM8 13.7383C4.85547 13.7383 2.33301 11.209 2.33301 8.06445C2.33301 4.91992 4.84863 2.39746 7.99316 2.39746C11.1377 2.39746 13.6738 4.91992 13.6738 8.06445C13.6738 11.209 11.1445 13.7383 8 13.7383ZM7.62402 10.6348C7.79492 10.915 8.20508 10.9287 8.37598 10.6348L10.666 6.73145C10.8574 6.41016 10.7002 6.04102 10.3652 6.04102H5.62793C5.29297 6.04102 5.14941 6.43066 5.32031 6.73145L7.62402 10.6348Z"></path></svg></span>Group</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesText"><path d="M1.56738 3.25879H14.4258C14.7676 3.25879 15.0479 2.97852 15.0479 2.63672C15.0479 2.29492 14.7744 2.02148 14.4258 2.02148H1.56738C1.21875 2.02148 0.952148 2.29492 0.952148 2.63672C0.952148 2.97852 1.22559 3.25879 1.56738 3.25879ZM1.56738 6.84082H14.4258C14.7676 6.84082 15.0479 6.56055 15.0479 6.21875C15.0479 5.87695 14.7744 5.60352 14.4258 5.60352H1.56738C1.21875 5.60352 0.952148 5.87695 0.952148 6.21875C0.952148 6.56055 1.22559 6.84082 1.56738 6.84082ZM1.56738 10.4229H14.4258C14.7676 10.4229 15.0479 10.1426 15.0479 9.80078C15.0479 9.45898 14.7744 9.18555 14.4258 9.18555H1.56738C1.21875 9.18555 0.952148 9.45898 0.952148 9.80078C0.952148 10.1426 1.22559 10.4229 1.56738 10.4229ZM1.56738 14.0049H8.75879C9.10059 14.0049 9.38086 13.7246 9.38086 13.3828C9.38086 13.041 9.10742 12.7676 8.75879 12.7676H1.56738C1.21875 12.7676 0.952148 13.041 0.952148 13.3828C0.952148 13.7246 1.22559 14.0049 1.56738 14.0049Z"></path></svg></span>Details</th></tr></thead><tbody><tr id="c75048d6-481e-4b37-ab4c-34caad467614"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Description%20c75048d6481e4b37ab4c34caad467614.html">Description</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">1 MUST</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">Problem statement and purpose of the service. Screenshot of the UI, if applicable</td></tr><tr id="7d050c0a-51d2-4889-8252-27ec72f42fea"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Installation%207d050c0a51d24889825227ec72f42fea.html">Installation</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">How to run locally (installing dependencies, docker, shell scripts, <a href="https://github.com/pipedrive/cms#installation-flow">manual actions</a>)</td></tr><tr id="44348488-2e23-4ee9-85d1-c33442104852"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Usage%20443484882e234ee985d1c33442104852.html">Usage</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">• Where its in UI<br/>• <br/>URL, feature flags, user settings, payment tier</td></tr><tr id="fae6a753-ea29-402b-80db-aaf5ee90c3f2"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Stakeholders%20fae6a753ea29402b80dbaaf5ee90c3f2.html">Stakeholders</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">Who uses this service directly, who is affected (tribes, clients, third-party developers..), who is the <strong>owner</strong></td></tr><tr id="edae1570-bef2-4ff3-818c-5836acb95883"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Roadmap%20edae1570bef24ff3818c5836acb95883.html">Roadmap</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">What is the future of this service. How it evolve (roadmap link), will it merge or be deprecated</td></tr><tr id="a3b2cd53-d48a-4a79-8267-c03915639b5c"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/TEX%20video%20a3b2cd53d48a4a798267c03915639b5c.html">TEX video</a></td><td class="cell-d\an"><span class="selected-value select-value-color-red">4 WISH</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-purple">Overview</span></td><td class="cell-bk`i">Explain how service works</td></tr><tr id="eafcbdfd-b7ac-468e-b2e7-4594cab0d3d0"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Product%20requirements%20eafcbdfdb7ac468eb2e74594cab0d3d0.html">Product requirements</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">1 MUST</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-pink">Functionality</span></td><td class="cell-bk`i">How does service affect product experience? </td></tr><tr id="115f529d-27db-4ac9-bff1-d0ab3dfe7d0c"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Use%20cases%20FAQ%20115f529d27db4ac9bff1d0ab3dfe7d0c.html">Use cases / FAQ</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-pink">Functionality</span></td><td class="cell-bk`i">Stakeholders, actions, multiplicity.Example - describe typical scenarios that developers follow (adding some new code, extending a service etc)</td></tr><tr id="f1b12dc4-accd-4008-a1de-b8fe053f7f39"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Business%20rules%20State%20diagram%20f1b12dc4accd4008a1deb8fe053f7f39.html">Business rules / State diagram</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-pink">Functionality</span></td><td class="cell-bk`i">• use <a href="https://mermaid-js.github.io/mermaid/#/stateDiagram">mermaid-js</a>These are typically complex if-else scenarios important to how product behaves</td></tr><tr id="e239eea2-8687-49e2-8f76-b47b06a12605"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Page%20navigation%20e239eea2868749e28f76b47b06a12605.html">Page navigation</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-pink">Functionality</span></td><td class="cell-bk`i">Useful to show how user can navigate across UI</td></tr><tr id="8b7101e2-a7a0-42b6-8bc1-e188a664fa3f"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Entities%20&amp;%20relationships%208b7101e2a7a042b68bc1e188a664fa3f.html">Entities &amp; relationships</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">Concepts and terminology, their one-to-many relationships. This can be seen as more general version of DB schema diagram, but can include entities that are not only in DB, but also in external services, filesystem, caches etc.</td></tr><tr id="660413bf-d74b-4b34-af44-e038880cca12"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Contribution%20660413bfd74b4b34af44e038880cca12.html">Contribution</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-red">Processes</span></td><td class="cell-bk`i">• What needs to be done before PR (linters, codestyle, version bumping, changelog, <a href="https://github.com/pipedrive/popeye#drafting-a-release">drafting a release</a> for a library)<br/>• <br/>How should pull-request review happen (slack notifications)<br/>• <br/>Who can deploy at what time (if applicable like in barista case)</td></tr><tr id="4eb33892-bace-44ed-887f-162a220b8433"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Development%204eb33892bace44ed887f162a220b8433.html">Development</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-red">Processes</span></td><td class="cell-bk`i">• How to build (global tools if needed)<br/>• <br/>How to run in hot reload mode<br/>• <br/>How to debug in IDE / docker, profile, benchmark<br/>• <br/>How initial DB is set up. Where are migrations &amp; fixtures</td></tr><tr id="fdcdc57a-0c3d-4d9f-aab0-7947204a27fa"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Testing%20&amp;%20Quality%20fdcdc57a0c3d4d9faab07947204a27fa.html">Testing &amp; Quality</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-red">Processes</span></td><td class="cell-bk`i">• How to run unit tests (how to make snapshots)<br/>• <br/>How to run functional tests (how they work)<br/>• <br/>Badges (sonar, codeship, snyk)</td></tr><tr id="c239f1fe-ae55-4e3a-a21c-4412919e95ef"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Deployment%20Publishing%20c239f1feae554e3aa21c4412919e95ef.html">Deployment / Publishing</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-red">Processes</span></td><td class="cell-bk`i">• Deployment links (jenkins)<br/>• <br/>Monitoring links<br/>    ◦ <br/><strong>Grafana dashboard</strong><br/>    ◦ <br/>Graylog<br/>• <br/>Prometheus endpoints for monitoring? What metrics are important/tracked?<br/>• <br/>Deployment diagram. Useful in case of complex server type or non-standard region setup (backoffice, marketplace)<br/>• <br/>Multi-DC diagram / region specific logic</td></tr><tr id="14f10de8-4917-44ed-9b08-626df39738e6"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Configuration%2014f10de8491744ed9b08626df39738e6.html">Configuration</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">• Do you use custom <strong>ENV variables</strong> that affect service? What are the <strong>default values</strong>?<br/>• <br/>Where its stored (consul, db, package.json)<br/>• <br/>What fields affect what, important TTLs</td></tr><tr id="280e4e14-51ba-4491-8ae3-3155fefe6bc9"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/DB%20schema%20280e4e1451ba44918ae33155fefe6bc9.html">DB schema</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">1 MUST</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">• Use <a href="https://mermaid-js.github.io/mermaid/#/entityRelationshipDiagram">mermaid-js</a>, See <a href="https://github.com/pipedrive/graphql-schema-registry#db-structure">mermaid js example</a><br/>• <br/>Link to schemas / diagram (if service has any DB at all).Lucidchart can automatically generate it based on DQL dump</td></tr><tr id="7d5cfb11-1ef9-4d25-9a80-ad4c59bc8069"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Events%207d5cfb111ef94d259a80ad4c59bc8069.html">Events</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">Generated for external MQ, tracking or analytics engines<br/>• <br/>See <a href="https://github.com/pipedrive/identity#kafka-events">identity</a> as README example<br/>• <br/>Fastify event schema (typescript)<br/>• <br/>Links/accounts for sesheta, google analytics, <a href="https://github.com/pipedrive/webapp#new-relic-tracked-actions">newrelic</a>, fullstory<br/>• <br/>Schema, fields, type. Link to tests</td></tr><tr id="e71dca6d-815b-4cc1-be60-bb536e7099d6"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Tech%20stack%20e71dca6d815b4cc1be60bb536e7099d6.html">Tech stack</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">List if stack is non-standard. Include versions<br/>• <br/>Language &amp; extensions<br/>• <br/>Framework<br/>• <br/>Third-party product (cms, forum etc.)</td></tr><tr id="bc9388c4-05db-408a-9e58-4cffb3e5045b"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Dependencies%20bc9388c405db408a9e584cffb3e5045b.html">Dependencies</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">1 MUST</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">• Use <a href="https://mermaid-js.github.io/mermaid/#/flowchart">mermaid-js</a> flow chart<br/>    ◦ <br/>you can include html links in service names to reference other repos - see <a href="https://github.com/pipedrive/barista#component-diagram">barista example</a><br/><br/>Can include<br/>• <br/>services<br/>    ◦ <br/>external SaaS services &amp; APIs<br/>    ◦ <br/>CDNs<br/>• <br/>database servers<br/>• <br/>message queues<br/>• <br/>background (cron) jobs should include start time, frequency and name<br/><br/>Should include what service depends on (as network requests) - other- Use <a href="https://rpm.newrelic.com/accounts/947939/service_maps">newrelic service maps</a> to track calls in realtime- Service-manager for service discovery info</td></tr><tr id="b4e6c5b8-e9ce-4747-aa85-07fa2c28e210"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Libraries%20b4e6c5b8e9ce4747aa8507fa2c28e210.html">Libraries</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">Mention third-party dependencies if they are not standard for your stack (package.json, composer.json, Gopkg.toml)<br/><br/>Make sure that license <a href="https://github.com/pipedrive/webapp#licenses">allows commercial use</a></td></tr><tr id="209f44a1-bf48-41b8-a5f1-1ce701969abe"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/API%20209f44a1bf4841b8a5f11ce701969abe.html">API</a></td><td class="cell-d\an"><span class="selected-value select-value-color-blue">2 SHOULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">(Ordered from easiest to hardest)<br/>• Plain list of endpoints &amp; methods that are used<br/>    ◦ you can use collapsible blocks<br/>• Draw a diagram (lucidchart)Useful if service has 3+ endpoints, has non-restful interface.Can highlight what endpoint calls what sub-service / db<br/>• export postman collections<br/>• Include input payload &amp; response examples (if swagger is not used)<br/>• Compose swagger.json manually<br/>• Compose swagger.json on the fly based on code annotations<br/>• Serve swagger.json via API based on live code &amp; schemas<br/>• Exposed public function reference (for libraries)<br/></td></tr><tr id="2f794925-57c9-44f4-8847-001755c92bec"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Class%20diagram%202f79492557c944f48847001755c92bec.html">Class diagram</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">• Use <a href="https://mermaid-js.github.io/mermaid/#/classDiagram">mermaid-js</a><br/>• <br/>Useful to show deeper waterfall or inheritance structure or highlight specific functionality<br/>• <br/>Sub-systems. How important <strong>custom code</strong> works (Caching, DB query builder, Localisation, Event processing, Logging, Email generation &amp; delivery, Search, File handling, Encryption).Typically these are candidates for extraction to a separate library or a service</td></tr><tr id="16c977c3-9312-4753-bcc0-35f63e092e38"><td class="cell-title"><a href="How%20to%20write%20technical%20documentation%20b5f136633517432aac9f3a5419d1967c/Untitled%20Database%205603a69b87ca418ba0080da053f0ce5b/Sequence%20diagrams%2016c977c393124753bcc035f63e092e38.html">Sequence diagrams</a></td><td class="cell-d\an"><span class="selected-value select-value-color-gray">3 COULD</span></td><td class="cell-GkKx"><span class="selected-value select-value-color-yellow">Architecture</span></td><td class="cell-bk`i">Data flow diagram with time directed from top to bottom.Use <a href="https://mermaid-js.github.io/mermaid/#/sequenceDiagram">mermaid-js</a>.Useful logic is complex with multiple involved services, to show response/error code importance</td></tr></tbody></table><br/><br/></div><h2 id="4355b78e-b298-4fef-8d2b-dca6c5e5d4d7" class="">Project architecture</h2><p id="52c2e3fa-ae65-4923-ae97-40fcb0182dc7" class="">In progress, structure is not clear yet</p><p id="deeae22e-ab90-4f71-b4aa-9c5b26a2a5e2" class="">Multiple services are usually grouped by their role for the <strong>product. </strong>Project is a big feature group of web-app or a separate product / stand-alone portal</p><p id="ba14778d-d5ab-43b6-b95b-af0668dceb7e" class="">
+</p><h2 id="967b52d3-bca3-4097-ba34-f5b08902eeec" class="">Diagrams</h2><p id="1656fa16-7392-49c7-92a0-1bc30eca8020" class="">Diagrams are visually pleasing, but maintaining them is harder. They are also not as searchable, so keep them to minimum</p><p id="21e331a8-3239-48b8-95c1-ebabef5b41c7" class="">You can use:</p><ul id="55c33432-a752-48c7-b2c3-68c3bc2f3b46" class="bulleted-list"><li style="list-style-type:disc"><a href="https://mermaid-js.github.io/mermaid/#/flowchart"><strong>mermaid-js </strong></a>recommended as it is built-in into github, has IDE plugins, thus does not need any image re-upload or re-generation</li></ul><ul id="a7341616-c5d0-4d63-b0ae-7fe63c23dec8" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.lucidchart.com/">lucidcharts</a> (ask internal IT for access)</li></ul><ul id="2f929a52-2f01-4f94-bb17-75c97e305a5c" class="bulleted-list"><li style="list-style-type:disc">draw.io</li></ul><ul id="b3f539fd-f066-4ee4-8063-4295b6cfd696" class="bulleted-list"><li style="list-style-type:disc"><a href="https://www.websequencediagrams.com/">websequencediagrams</a></li></ul><p id="426420b4-c249-4ce7-8588-3db79a2505bd" class="">Or other SaaS service that is editable. Should not need explicit permission. Link is needed in each case. Should not need custom software</p><p id="886c6f78-ea60-4d97-a8dd-340a10863253" class="">In each component/class/queue description put in a name that can be <strong>searchable</strong> through the code or in consul.</p><p id="281b0450-d1d6-4835-8479-edd2b64543bb" class="">If you use lucidchart, try to include</p><p id="23dd521f-b9b8-41f5-a3aa-f215d0fed4f2" class=""><strong>legend</strong></p><p id="d39736e3-abb1-455b-bc08-deab0ef66d5c" class="">(</p><p id="8b7da085-5f47-405d-952e-44805bd5c1b0" class=""><a href="https://www.lucidchart.com/documents/view/e4e8abc4-4d1a-438d-a38d-02ec789a5b01">lucidchart link</a></p><p id="7e2b62b4-9b6a-4d3a-8b02-560d1a673584" class="">) to explain what certain shapes mean. Typically, prefer using UML 2.0 syntax</p><figure id="0fde58bd-441b-4e6b-abe8-c5346ad9d57b" class="image"><a href="https://www.lucidchart.com/publicSegments/view/59504737-6b6e-4dd7-89b3-e9022802edf2/image.png"><img src="https://www.lucidchart.com/publicSegments/view/59504737-6b6e-4dd7-89b3-e9022802edf2/image.png"/></a></figure><h2 id="f24ec9c8-076d-4839-a83b-1efd3c96109f" class="">Theory</h2><p id="28beb2ae-65fd-445c-bab2-b18ed60ae54d" class="">Wow, you reached this section. You must be an aspiring librarian wizard</p><h2 id="d921ee17-09f5-402c-ab70-13b564eee630" class="">Documentation role</h2><p id="292d77ce-6059-4dbf-9bd0-4e125ad0bfa2" class="">Documentation is needed to answer most important question - <strong>Why</strong> (service is needed)?With technical documentation, question often transforms more into <strong>How</strong> (does it work)?</p><ul id="5b18b8cb-a016-4c42-a687-9dab0c76ec45" class="bulleted-list"><li style="list-style-type:disc">explain purpose, <strong>reasons</strong>, limitations of having this service</li></ul><ul id="c270b140-c8d9-4384-a2ac-cf4110f31867" class="bulleted-list"><li style="list-style-type:disc">explain what is the <strong>role</strong> and roadmap of the service in a product</li></ul><ul id="842814df-6c43-4688-aee4-b7b1020ecb89" class="bulleted-list"><li style="list-style-type:disc">efficiently share the <strong>knowledge</strong> of most important parts across tribes</li></ul><ul id="7178414b-ee94-4181-ab10-97ae1c75e0a1" class="bulleted-list"><li style="list-style-type:disc">formalize <strong>requirements</strong> to have common expectations of what are service limitations</li></ul><ul id="8fd67b1c-44d3-48eb-afb0-89d62e709a27" class="bulleted-list"><li style="list-style-type:disc">synchronise <strong>terminology</strong> that service uses and exposes with other parties</li></ul><ul id="6a3d9fd4-38d3-4250-bb86-82105f3dac78" class="bulleted-list"><li style="list-style-type:disc">improve quality by having <strong>automated tests</strong> acting as living documentation that proves that service works as expected</li></ul><ul id="728f92ed-c455-4566-8ba8-b22c07e59c99" class="bulleted-list"><li style="list-style-type:disc">act as <strong>map</strong>, linking to implementation details</li></ul><h2 id="fae0b46e-3ee1-4a02-af75-36c080691eb1" class="">Requirements</h2><p id="1c8041a3-93a1-42f2-b09b-bb32362a66ef" class="">To answer <strong>How</strong> (service works), you can list functional requirements.</p><p id="5c5f7343-2388-4a37-bcf1-a95191502ad2" class="">Architecture is expressed by constraints. To answer <strong>Why</strong> service was written the way it is, mention non-functional requirements.For the product its often: Performance, Reliability, Security, Usability, Configurability, Availability, ScalabilityFor development its often: Maintainability, Localisation, Compatibility, Reusability, Extensibility, Portability, Interoperability, Accessibility</p><p id="708f1de5-13f5-4a77-b50a-f87229695812" class="">See <a href="https://confluence.atlassian.com/doc/blog/2015/08/how-to-document-product-requirements-in-confluence">https://confluence.atlassian.com/doc/blog/2015/08/how-to-document-product-requirements-in-confluence</a></p><h2 id="4b527ade-3e53-4930-a7de-6ea0766afbe3" class="">Language style</h2><p id="b5c46b7a-bb35-4f4b-85e1-7b02a9951040" class="">Documentation should be</p><ul id="9d4b181a-55e7-4276-9177-3dbcaa18b972" class="bulleted-list"><li style="list-style-type:disc">Simple. Avoid slang and abbreviations. Provide examples for complex calculations</li></ul><ul id="75e13f39-7651-4af1-9a2e-b1e7821195a9" class="bulleted-list"><li style="list-style-type:disc">Incomplete. Documentation cannot cover everything, that is what code is for. Instead its an overview of significant, high-level things worthy of notice. Think of google maps with its zoom levels and layering.</li></ul><ul id="e4de126e-d740-435d-a544-3d7006f0bd0b" class="bulleted-list"><li style="list-style-type:disc">Consistent. Content should not contradict itself and use same terminology</li></ul><ul id="e1cf62bd-a6d9-4dde-9576-efde57bc8178" class="bulleted-list"><li style="list-style-type:disc">Precise. Things that you should avoid:<ul id="300b17ec-b45e-4924-ae14-4f8fbac10117" class="bulleted-list"><li style="list-style-type:circle">generalizations (all, everywhere, never, any, each)</li></ul><ul id="b1f79456-5769-4312-9682-cb47ccf674ff" class="bulleted-list"><li style="list-style-type:circle">vague verbs (optimize, improve, support, handle)</li></ul><ul id="1a8ebc87-f64a-410e-b0eb-d654e708baef" class="bulleted-list"><li style="list-style-type:circle">vague adjectives (easy, simple, seamless)</li></ul><ul id="0b8bb6c1-1677-4339-9e7c-3d7275070bcb" class="bulleted-list"><li style="list-style-type:circle">vague references (like in product X)</li></ul><ul id="a3dc1291-b707-4d14-b2fd-ebfbeff0a894" class="bulleted-list"><li style="list-style-type:circle">not countable values (few, several, many, some)</li></ul><ul id="eeb4ae50-c906-4180-93c9-72561fbaee7c" class="bulleted-list"><li style="list-style-type:circle">open-ended statements (etc., where appropriate, sufficient, optionally, including but not limited to)</li></ul><ul id="6e6d2d92-2d5c-4509-8e4c-f19e97e11de3" class="bulleted-list"><li style="list-style-type:circle">recursive and/or double meaning sentenses (see last point)</li></ul></li></ul><h2 id="190e1982-3641-454f-8209-7c7c32f50fd1" class="">Keeping documentation in sync</h2><p id="d68575b6-8ae4-4143-af85-fc827095ff4b" class="">Documentation tends to get <strong>out of sync</strong> because developers don&#x27;t use documentation, so they don&#x27;t update it &amp; rely on code as single source of truth.</p><p id="75d383b6-d73f-4af4-9968-0c1ffca7e3d8" class="">Suggested approach is to</p><ul id="e7b0b5ba-9ae7-46b7-94cc-a0c3cb19e1c8" class="bulleted-list"><li style="list-style-type:disc">Keep <strong>service</strong> docs in github</li></ul><ul id="61ec8dbf-2aed-47b9-89ff-3be7ee2911f2" class="bulleted-list"><li style="list-style-type:disc">Have diagrams <strong>editable</strong> by any developer (without explicit permission request)</li></ul><ul id="5999a022-6798-40c8-9525-2df811d72d1b" class="bulleted-list"><li style="list-style-type:disc">Update docs with every github PR<ul id="1a0fe90c-f0ad-4a19-92c8-f25e51fcc59e" class="bulleted-list"><li style="list-style-type:circle">include diagrams included in PR description</li></ul><p id="2438af15-e41d-4f38-bbb1-59aa65874c2f" class="">
+</p></li></ul></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>

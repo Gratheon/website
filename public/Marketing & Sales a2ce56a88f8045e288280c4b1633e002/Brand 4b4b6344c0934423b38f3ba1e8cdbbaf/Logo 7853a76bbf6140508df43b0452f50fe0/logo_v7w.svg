@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 174" xmlns="http://www.w3.org/2000/svg">
+  <rect x="23.608" y="54.855" width="456.888" height="76.722" style="stroke-linejoin: round; stroke-width: 25px; stroke-linecap: round; stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 1.1368683772161603e-13)"/>
+  <g transform="matrix(1.0060189962387085, 0, 0, 1.0060189962387085, 107.10572974541401, -142.02762052457945)" style="">
+    <title>TH</title>
+    <g transform="matrix(0.212996, 0, 0, 0.212996, 63.309346, 176.961276)" style="">
+      <title>background</title>
+      <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+        <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" style="stroke-linejoin: round; stroke-linecap: round;"/>
+      </g>
+    </g>
+    <ellipse style="stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px; fill: rgb(255, 255, 255);" cx="138.961" cy="189.523" rx="44.673" ry="44.673">
+      <title>sun-white</title>
+    </ellipse>
+    <rect x="125.389" y="197.236" width="29.466" height="45.922" style="stroke: rgb(255, 255, 255); stroke-width: 0px; fill: rgb(255, 255, 255);">
+      <title>T</title>
+    </rect>
+    <ellipse style="fill: rgb(255, 217, 0); stroke-miterlimit: 4.63; stroke-linejoin: round; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 0px;" cx="140.304" cy="189.503" rx="27.555" ry="27.555">
+      <title>sun</title>
+    </ellipse>
+    <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 2.98205px;" x1="-40.332" y1="265.242" x2="158.897" y2="265.214"/>
+    <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(0, 170, 0); stroke-width: 2.98205px;" x1="157.169" y1="265.169" x2="349.515" y2="265.137"/>
+    <g transform="matrix(0.205751, 0, 0, 0.205751, 66.367868, 176.204364)" style="">
+      <title>background</title>
+      <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="g-1">
+        <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" style="stroke-linejoin: round; stroke-linecap: round;"/>
+      </g>
+    </g>
+    <g transform="matrix(0.202842, 0, 0, 0.202842, 65.67714, 176.258807)" style="">
+      <title>H</title>
+      <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="444.19325" x2="261.99234" y1="155.15" x1="261.99234" stroke-width="60" fill="none" style="" stroke="#000">
+        <title>H-left</title>
+      </line>
+      <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="444.69325" x2="472.22333" y1="155.65" x1="472.22333" stroke-width="60" fill="none" style="" stroke="#000">
+        <title>H-right</title>
+      </line>
+      <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="367.8" x2="471.93503" y1="367.8" x1="261.4" fill-opacity="null" stroke-opacity="null" stroke-width="60" fill="none" style="" stroke="#000">
+        <title>H-mid</title>
+      </line>
+    </g>
+    <g style="" transform="matrix(1.044272, 0, 0, 0.590152, -151.248415, 156.969592)">
+      <title>T-top</title>
+      <rect x="273.694" y="68.839" width="11.729" height="62.841" style="stroke: rgb(255, 255, 255); stroke-width: 0px;">
+        <title>T</title>
+      </rect>
+      <polygon style="stroke-linejoin: round; stroke-linecap: round; stroke: rgb(255, 255, 255); stroke-width: 0px;" points="241.445 52.589 317.147 52.589 306.342 71.902 252.26 71.589">
+        <title>T-top</title>
+      </polygon>
+      <path style="stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.669 127.866 C 276.896 129.308 282.86 129.302 285.54 127.776 L 285.241 135.857 C 280.471 137.573 279.431 137.594 273.877 135.765 L 273.669 127.866 Z"/>
+      <path style="fill: rgb(255, 217, 0); stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.587 99.916 C 276.843 101.358 282.865 101.352 285.57 99.826 L 285.568 108.01 C 281.328 109.889 277.859 109.572 273.587 108.21 L 273.587 99.916 Z"/>
+      <path style="fill: rgb(255, 217, 0); stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.541 112.015 C 276.797 113.457 282.818 113.451 285.524 111.925 L 285.522 120.109 C 281.282 121.988 277.812 121.671 273.541 120.309 L 273.541 112.015 Z"/>
+      <path style="fill: rgb(255, 217, 0); stroke: rgb(255, 255, 255); stroke-width: 0px;" d="M 273.564 124.108 C 276.821 125.55 282.842 125.544 285.547 124.018 L 285.545 132.202 C 281.305 134.081 277.837 133.764 273.564 132.402 L 273.564 124.108 Z"/>
+    </g>
+    <line style="fill: rgb(216, 216, 216); stroke-linecap: square; stroke: rgb(2, 72, 255); stroke-width: 2.98205px;" x1="114.257" y1="189.503" x2="166.34" y2="189.44"/>
+  </g>
+  <text style="font-family: Futura; font-size: 78.1px; font-weight: 500; letter-spacing: 0.5px; stroke: rgb(255, 255, 255); stroke-width: 0px; white-space: pre;" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 1.1368683772161603e-13)" x="35.335" y="126.086">GRA</text>
+  <text style="font-family: Futura; font-size: 78.1px; font-weight: 500; letter-spacing: 0.5px; stroke: rgb(255, 255, 255); stroke-width: 0px; white-space: pre;" x="290.658" y="126.195" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 1.1368683772161603e-13)">EON</text>
+</svg>

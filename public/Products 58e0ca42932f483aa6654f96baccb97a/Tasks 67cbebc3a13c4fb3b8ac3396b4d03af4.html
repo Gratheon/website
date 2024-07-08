@@ -1,0 +1,680 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Tasks</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+    margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(120, 119, 116, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(212, 76, 71, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: rgba(35, 131, 226, .07); }
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-transparentGray { background-color: rgba(227, 226, 224, 0); }
+.select-value-color-translucentGray { background-color: rgba(0, 0, 0, 0.06); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="67cbebc3-a13c-4fb3-b8ac-3396b4d03af4" class="page sans"><header><div class="page-header-icon undefined"><span class="icon">☑️</span></div><h1 class="page-title">Tasks</h1><p class="page-description"></p></header><div class="page-body"><p id="04d335fa-fe63-4209-9908-22fc46be5308" class="">Tasks are specific actions needed to improve or fix a feature from <a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e.html"><span class="icon">💡</span>Ideas and Features</a><br/>Tasks may also not be related to any feature, but do require work as maintenance<br/></p><p id="16423429-c798-43be-b70d-fe97fe691606" class="">
+</p><div id="069bb66e-37d1-4486-aade-c4627bb9c112" class="collection-content"><h4 class="collection-title">Tasks</h4><table class="collection-content"><thead><tr><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesRelation"><path d="M13.1475 10.5869V3.72363C13.1475 3.25195 12.833 2.93066 12.3477 2.93066H5.48438C5.02637 2.93066 4.70508 3.27246 4.70508 3.67578C4.70508 4.07227 5.05371 4.40039 5.46387 4.40039H7.89746L10.8438 4.30469L9.59961 5.39844L3.08496 11.9199C2.92773 12.0771 2.8457 12.2686 2.8457 12.46C2.8457 12.8564 3.20801 13.2256 3.61816 13.2256C3.80957 13.2256 3.99414 13.1504 4.15137 12.9932L10.6729 6.47168L11.7803 5.22754L11.6641 8.05762V10.6074C11.6641 11.0176 11.9922 11.373 12.4023 11.373C12.8057 11.373 13.1475 11.0312 13.1475 10.5869Z"></path></svg></span>🛴 Features</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesTitle"><path d="M0.637695 13.1914C1.0957 13.1914 1.32812 13 1.47852 12.5215L2.24414 10.3887H6.14746L6.90625 12.5215C7.05664 13 7.2959 13.1914 7.74707 13.1914C8.22559 13.1914 8.5332 12.9043 8.5332 12.4531C8.5332 12.2891 8.50586 12.1523 8.44434 11.9678L5.41602 3.79199C5.2041 3.21777 4.82129 2.9375 4.19922 2.9375C3.60449 2.9375 3.21484 3.21777 3.0166 3.78516L-0.0322266 12.002C-0.09375 12.1797 -0.121094 12.3232 -0.121094 12.4668C-0.121094 12.918 0.166016 13.1914 0.637695 13.1914ZM2.63379 9.12402L4.17871 4.68066H4.21973L5.76465 9.12402H2.63379ZM12.2793 13.2324C13.3115 13.2324 14.2891 12.6787 14.7129 11.8037H14.7402V12.5762C14.7471 12.9863 15.0273 13.2393 15.4238 13.2393C15.834 13.2393 16.1143 12.9795 16.1143 12.5215V8.00977C16.1143 6.49902 14.9658 5.52148 13.1543 5.52148C11.7666 5.52148 10.6592 6.08887 10.2695 6.99121C10.1943 7.15527 10.1533 7.3125 10.1533 7.46289C10.1533 7.81152 10.4062 8.04395 10.7686 8.04395C11.0215 8.04395 11.2129 7.94824 11.3496 7.73633C11.7529 6.99121 12.2861 6.65625 13.1064 6.65625C14.0977 6.65625 14.6992 7.20996 14.6992 8.1123V8.67285L12.5664 8.7959C10.7686 8.8916 9.77734 9.69824 9.77734 11.0107C9.77734 12.3369 10.8096 13.2324 12.2793 13.2324ZM12.6621 12.1387C11.8008 12.1387 11.2129 11.667 11.2129 10.9561C11.2129 10.2725 11.7598 9.82129 12.7578 9.75977L14.6992 9.62988V10.3203C14.6992 11.3457 13.7969 12.1387 12.6621 12.1387Z"></path></svg></span>Name</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesSelect"><path d="M8 15.126C11.8623 15.126 15.0615 11.9336 15.0615 8.06445C15.0615 4.20215 11.8623 1.00293 7.99316 1.00293C4.13086 1.00293 0.938477 4.20215 0.938477 8.06445C0.938477 11.9336 4.1377 15.126 8 15.126ZM8 13.7383C4.85547 13.7383 2.33301 11.209 2.33301 8.06445C2.33301 4.91992 4.84863 2.39746 7.99316 2.39746C11.1377 2.39746 13.6738 4.91992 13.6738 8.06445C13.6738 11.209 11.1445 13.7383 8 13.7383ZM7.62402 10.6348C7.79492 10.915 8.20508 10.9287 8.37598 10.6348L10.666 6.73145C10.8574 6.41016 10.7002 6.04102 10.3652 6.04102H5.62793C5.29297 6.04102 5.14941 6.43066 5.32031 6.73145L7.62402 10.6348Z"></path></svg></span>type</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesNumber"><path d="M2.4834 10.9902H4.33594L3.75488 13.8887C3.74121 13.9639 3.72754 14.0664 3.72754 14.1416C3.72754 14.5381 3.99414 14.7637 4.39746 14.7637C4.81445 14.7637 5.09473 14.5449 5.18359 14.1143L5.80566 10.9902H8.79297L8.21191 13.8887C8.19824 13.9639 8.18457 14.0664 8.18457 14.1416C8.18457 14.5381 8.45117 14.7637 8.85449 14.7637C9.27148 14.7637 9.55176 14.5449 9.63379 14.1143L10.2627 10.9902H12.4502C12.9287 10.9902 13.2432 10.6758 13.2432 10.2109C13.2432 9.8418 12.9902 9.56836 12.6006 9.56836H10.5498L11.2129 6.28711H13.3662C13.8379 6.28711 14.1523 5.96582 14.1523 5.50098C14.1523 5.13184 13.9062 4.8584 13.5098 4.8584H11.5L12.0195 2.27441C12.0264 2.21973 12.0469 2.11035 12.0469 2.01465C12.0469 1.625 11.7666 1.39258 11.3633 1.39258C10.9053 1.39258 10.6797 1.63867 10.5977 2.05566L10.0303 4.8584H7.04297L7.5625 2.27441C7.57617 2.21973 7.58984 2.11035 7.58984 2.01465C7.58984 1.625 7.30957 1.39258 6.91309 1.39258C6.44824 1.39258 6.21582 1.63867 6.13379 2.05566L5.57324 4.8584H3.54297C3.06445 4.8584 2.75 5.18652 2.75 5.65137C2.75 6.03418 3.00293 6.28711 3.39258 6.28711H5.28613L4.62305 9.56836H2.63379C2.15527 9.56836 1.84082 9.89648 1.84082 10.3613C1.84082 10.7373 2.09375 10.9902 2.4834 10.9902ZM6.09277 9.56836L6.75586 6.28711H9.74316L9.08008 9.56836H6.09277Z"></path></svg></span>Estimate</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesNumber"><path d="M2.4834 10.9902H4.33594L3.75488 13.8887C3.74121 13.9639 3.72754 14.0664 3.72754 14.1416C3.72754 14.5381 3.99414 14.7637 4.39746 14.7637C4.81445 14.7637 5.09473 14.5449 5.18359 14.1143L5.80566 10.9902H8.79297L8.21191 13.8887C8.19824 13.9639 8.18457 14.0664 8.18457 14.1416C8.18457 14.5381 8.45117 14.7637 8.85449 14.7637C9.27148 14.7637 9.55176 14.5449 9.63379 14.1143L10.2627 10.9902H12.4502C12.9287 10.9902 13.2432 10.6758 13.2432 10.2109C13.2432 9.8418 12.9902 9.56836 12.6006 9.56836H10.5498L11.2129 6.28711H13.3662C13.8379 6.28711 14.1523 5.96582 14.1523 5.50098C14.1523 5.13184 13.9062 4.8584 13.5098 4.8584H11.5L12.0195 2.27441C12.0264 2.21973 12.0469 2.11035 12.0469 2.01465C12.0469 1.625 11.7666 1.39258 11.3633 1.39258C10.9053 1.39258 10.6797 1.63867 10.5977 2.05566L10.0303 4.8584H7.04297L7.5625 2.27441C7.57617 2.21973 7.58984 2.11035 7.58984 2.01465C7.58984 1.625 7.30957 1.39258 6.91309 1.39258C6.44824 1.39258 6.21582 1.63867 6.13379 2.05566L5.57324 4.8584H3.54297C3.06445 4.8584 2.75 5.18652 2.75 5.65137C2.75 6.03418 3.00293 6.28711 3.39258 6.28711H5.28613L4.62305 9.56836H2.63379C2.15527 9.56836 1.84082 9.89648 1.84082 10.3613C1.84082 10.7373 2.09375 10.9902 2.4834 10.9902ZM6.09277 9.56836L6.75586 6.28711H9.74316L9.08008 9.56836H6.09277Z"></path></svg></span>Impact (%)</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesStatus"><path d="M8.75488 1.02344C8.75488 0.613281 8.41309 0.264648 8.00293 0.264648C7.59277 0.264648 7.25098 0.613281 7.25098 1.02344V3.11523C7.25098 3.51855 7.59277 3.86719 8.00293 3.86719C8.41309 3.86719 8.75488 3.51855 8.75488 3.11523V1.02344ZM3.91504 5.0293C4.20215 5.31641 4.69434 5.32324 4.97461 5.03613C5.26855 4.74902 5.26855 4.25684 4.98145 3.96973L3.53906 2.52051C3.25195 2.2334 2.7666 2.21973 2.47949 2.50684C2.19238 2.79395 2.18555 3.28613 2.47266 3.57324L3.91504 5.0293ZM10.9629 4.01758C10.6826 4.30469 10.6826 4.79688 10.9697 5.08398C11.2568 5.37109 11.749 5.36426 12.0361 5.07715L13.4854 3.62793C13.7725 3.34082 13.7725 2.84863 13.4785 2.55469C13.1982 2.27441 12.7061 2.27441 12.4189 2.56152L10.9629 4.01758ZM15.0234 8.78906C15.4336 8.78906 15.7822 8.44727 15.7822 8.03711C15.7822 7.62695 15.4336 7.28516 15.0234 7.28516H12.9385C12.5283 7.28516 12.1797 7.62695 12.1797 8.03711C12.1797 8.44727 12.5283 8.78906 12.9385 8.78906H15.0234ZM0.975586 7.28516C0.56543 7.28516 0.223633 7.62695 0.223633 8.03711C0.223633 8.44727 0.56543 8.78906 0.975586 8.78906H3.07422C3.48438 8.78906 3.83301 8.44727 3.83301 8.03711C3.83301 7.62695 3.48438 7.28516 3.07422 7.28516H0.975586ZM12.0361 10.9902C11.749 10.71 11.2568 10.71 10.9629 10.9971C10.6826 11.2842 10.6826 11.7764 10.9697 12.0635L12.4258 13.5127C12.7129 13.7998 13.2051 13.793 13.4922 13.5059C13.7793 13.2256 13.7725 12.7266 13.4854 12.4395L12.0361 10.9902ZM2.52051 12.4395C2.22656 12.7266 2.22656 13.2188 2.50684 13.5059C2.79395 13.793 3.28613 13.7998 3.57324 13.5127L5.02246 12.0703C5.31641 11.7832 5.31641 11.291 5.03613 11.0039C4.74902 10.7168 4.25684 10.71 3.96973 10.9971L2.52051 12.4395ZM8.75488 12.9658C8.75488 12.5557 8.41309 12.207 8.00293 12.207C7.59277 12.207 7.25098 12.5557 7.25098 12.9658V15.0576C7.25098 15.4609 7.59277 15.8096 8.00293 15.8096C8.41309 15.8096 8.75488 15.4609 8.75488 15.0576V12.9658Z"></path></svg></span>Status</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesMultipleSelect"><path d="M1.91602 4.83789C2.44238 4.83789 2.87305 4.40723 2.87305 3.87402C2.87305 3.34766 2.44238 2.91699 1.91602 2.91699C1.38281 2.91699 0.952148 3.34766 0.952148 3.87402C0.952148 4.40723 1.38281 4.83789 1.91602 4.83789ZM5.1084 4.52344H14.3984C14.7607 4.52344 15.0479 4.23633 15.0479 3.87402C15.0479 3.51172 14.7607 3.22461 14.3984 3.22461H5.1084C4.74609 3.22461 4.45898 3.51172 4.45898 3.87402C4.45898 4.23633 4.74609 4.52344 5.1084 4.52344ZM1.91602 9.03516C2.44238 9.03516 2.87305 8.60449 2.87305 8.07129C2.87305 7.54492 2.44238 7.11426 1.91602 7.11426C1.38281 7.11426 0.952148 7.54492 0.952148 8.07129C0.952148 8.60449 1.38281 9.03516 1.91602 9.03516ZM5.1084 8.7207H14.3984C14.7607 8.7207 15.0479 8.43359 15.0479 8.07129C15.0479 7.70898 14.7607 7.42188 14.3984 7.42188H5.1084C4.74609 7.42188 4.45898 7.70898 4.45898 8.07129C4.45898 8.43359 4.74609 8.7207 5.1084 8.7207ZM1.91602 13.2324C2.44238 13.2324 2.87305 12.8018 2.87305 12.2686C2.87305 11.7422 2.44238 11.3115 1.91602 11.3115C1.38281 11.3115 0.952148 11.7422 0.952148 12.2686C0.952148 12.8018 1.38281 13.2324 1.91602 13.2324ZM5.1084 12.918H14.3984C14.7607 12.918 15.0479 12.6309 15.0479 12.2686C15.0479 11.9062 14.7607 11.6191 14.3984 11.6191H5.1084C4.74609 11.6191 4.45898 11.9062 4.45898 12.2686C4.45898 12.6309 4.74609 12.918 5.1084 12.918Z"></path></svg></span>Tags</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesRelation"><path d="M13.1475 10.5869V3.72363C13.1475 3.25195 12.833 2.93066 12.3477 2.93066H5.48438C5.02637 2.93066 4.70508 3.27246 4.70508 3.67578C4.70508 4.07227 5.05371 4.40039 5.46387 4.40039H7.89746L10.8438 4.30469L9.59961 5.39844L3.08496 11.9199C2.92773 12.0771 2.8457 12.2686 2.8457 12.46C2.8457 12.8564 3.20801 13.2256 3.61816 13.2256C3.80957 13.2256 3.99414 13.1504 4.15137 12.9932L10.6729 6.47168L11.7803 5.22754L11.6641 8.05762V10.6074C11.6641 11.0176 11.9922 11.373 12.4023 11.373C12.8057 11.373 13.1475 11.0312 13.1475 10.5869Z"></path></svg></span>Responsibility taken by</th><th><span class="icon property-icon"><svg role="graphics-symbol" viewBox="0 0 16 16" style="width:14px;height:14px;display:block;fill:rgba(55, 53, 47, 0.45);flex-shrink:0" class="typesFormula"><path d="M5.04688 14.3604H11.2744C11.7324 14.3604 12.0537 14.0801 12.0537 13.6494C12.0537 13.2119 11.7324 12.9248 11.2744 12.9248H5.81934V12.8564L9.30566 8.82324C9.54492 8.57031 9.6748 8.29688 9.6748 8.0166C9.6748 7.73633 9.54492 7.45605 9.29883 7.20996L5.81934 3.2793V3.21094H11.2812C11.7393 3.21094 12.0537 2.92383 12.0537 2.48633C12.0537 2.05566 11.7393 1.77539 11.2812 1.77539H5.05371C4.34277 1.77539 3.95312 2.26758 3.95312 2.81445C3.95312 3.12207 4.07617 3.44336 4.33594 3.69629L8.15039 7.96875V8.05078L4.3291 12.4395C4.06934 12.6924 3.94629 13.0137 3.94629 13.3213C3.94629 13.8682 4.33594 14.3604 5.04688 14.3604Z"></path></svg></span>Priority</th></tr></thead><tbody><tr id="0edd6914-f7b0-41fd-9667-0b8afe439aca"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Video%20streaming%20playback%207214e1994f564d4b8888a5acae7318f0.html"><span class="icon">📺</span>Video streaming playback</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Design%20UI%20for%20hive%20entrance%20video%20replay%200edd6914f7b041fd96670b8afe439aca.html">Design UI for hive entrance video replay</a></td><td class="cell-y=T="><span class="selected-value select-value-color-yellow">improvement</span></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-yellow"><div class="status-dot status-dot-color-yellow"></div>In progress</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-red">UX</span></td><td class="cell-d=b?"><a href="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Team%205ff38d33b8a2448ca02ffc26aed09278/Team%20db%20a9358923ffb1467387b2fea1216f1e76/Kurban%20Ramazanov%203b92fe8960a54a71b16dc772d762a5ca.html"><img class="icon" src="../Careers%20e50bd8e561c74102ab8e2b96276809c7/Company%20roles%20d961012e6fc04f329b876179617803d8/Designer%20(UX%20UI%20Industrial)%20454c89d18d7e4eeb822c54d9966bc169/1713530019360.jpg"/>Kurban Ramazanov</a></td><td class="cell-]QDX">0</td></tr><tr id="e429195a-cbe1-4f00-81d6-086ca9174a72"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Varroa%20Treatment%20diary%2090030bfde0c749ce922d43a2d46c273a.html"><span class="icon">📅</span>Varroa Treatment diary</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Mark%20box%20having%20treatment%20strips%20e429195acbe14f0081d6086ca9174a72.html">Mark box having treatment strips</a></td><td class="cell-y=T="><span class="selected-value select-value-color-green">new feature</span></td><td class="cell-QOWF">2</td><td class="cell-H&lt;QP">90</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">45</td></tr><tr id="ad69d0c4-3969-492d-a157-a31729068c46"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Queen%20management%2022a0d681d48444de984f38ece23e9566.html"><span class="icon">👑</span>Queen management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Separate%20queen%20presense%20toggling%20from%20detected%20que%20ad69d0c43969492da157a31729068c46.html">Separate queen presense toggling from detected queens</a></td><td class="cell-y=T="><span class="selected-value select-value-color-red">bug</span></td><td class="cell-QOWF">2</td><td class="cell-H&lt;QP">80</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">40</td></tr><tr id="b1211631-d258-4e9c-afe8-8d03d139480c"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20bottom%20type%20of%20box%20b1211631d2584e9cafe88d03d139480c.html">add bottom type of box</a></td><td class="cell-y=T="><span class="selected-value select-value-color-green">new feature</span></td><td class="cell-QOWF">2</td><td class="cell-H&lt;QP">70</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">35</td></tr><tr id="756624ee-1e64-4772-ab5c-cf3498b29a95"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20classic%20roof%20top%20756624ee1e644772ab5ccf3498b29a95.html">Add classic roof top</a></td><td class="cell-y=T="><span class="selected-value select-value-color-green">new feature</span></td><td class="cell-QOWF">2</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">25</td></tr><tr id="6a19e259-be6c-464c-849b-03790709fe40"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Honeycomb%20cell%20detection%20e9ff03128cdb489293737b8a4c1e7098.html"><span class="icon">🐝</span>Honeycomb cell detection</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Update%20beehive%20section%20frame%20cell%20type%20ratios%20on%20u%206a19e259be6c464c849b03790709fe40.html">Update beehive section frame cell type ratios on update</a></td><td class="cell-y=T="><span class="selected-value select-value-color-red">bug</span></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">20</td></tr><tr id="f12f4a8f-60f6-4dea-8812-f78d46e0732a"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/API%20token%20management%20796de50aa11a48d7b88ce99fc2e2beff.html"><span class="icon">🔐</span>API token management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20API%20token%20removal%20f12f4a8f60f64dea8812f78d46e0732a.html">Add API token removal</a></td><td class="cell-y=T="><span class="selected-value select-value-color-yellow">improvement</span></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">20</td></tr><tr id="4daeb094-00fc-40dc-9999-a2a4e7819d62"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20ability%20to%20create%20a%20nucleus%20(5%20frames)%204daeb09400fc40dc9999a2a4e7819d62.html">Add ability to create a nucleus (5 frames)</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="01259720-c2dc-48f4-9774-86163b01a6ab"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Mark%20box%20as%20having%20a%20candy%20feeding%2001259720c2dc48f4977486163b01a6ab.html">Mark box as having a candy feeding</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="abdb1348-e4d3-4ea6-9010-843cd565accc"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Video%20streaming%20API%202d7a22aaf3a74b8e831f2a409c243e69.html"><span class="icon">📹</span>Video streaming API</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Handle%20network%20disconnects%20on%20client%20side%20abdb1348e4d34ea69010843cd565accc.html">Handle network disconnects on client side</a></td><td class="cell-y=T="><span class="selected-value select-value-color-yellow">improvement</span></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="949d7ae4-ec21-45af-b851-719e59f24329"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20ventilation%20type%20of%20a%20box%20949d7ae4ec2145afb851719e59f24329.html">Add ventilation type of a box</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="77bc00eb-46df-4a75-9dc1-19650253aff7"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Analytics%20with%20grafana%20044239bdf92544a0a1ed95258d812e04.html"><span class="icon">📊</span>Analytics with grafana</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Setup%20influx%20DB%20under%20telemetry-api%2077bc00eb46df4a759dc119650253aff7.html">Setup influx DB under telemetry-api</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="7177a285-63b3-494f-b07a-528880a23eee"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20box%20size%20selection%207177a28563b3494fb07a528880a23eee.html">Add box size selection</a></td><td class="cell-y=T="><span class="selected-value select-value-color-green">new feature</span></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">17</td></tr><tr id="2c5cf985-92da-44ba-a2f5-82e42fa2280b"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Analytics%20-%20demography%20and%20simulation%20b438f638fe694c06b66f9249b6bb0e88.html"><span class="icon">🐝</span>Analytics - demography and simulation</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Calculate%20daily%20bee%20loss%20based%20on%20gate%20traffic%20sta%202c5cf98592da44baa2f582e42fa2280b.html">Calculate daily bee loss based on gate traffic stats</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">70</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">14</td></tr><tr id="eca1611b-9762-41a1-a547-dac3964afa09"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Make%20frontpage%20multilingual%20&amp;%20dependent%20on%20browser%20eca1611b976241a1a547dac3964afa09.html">Make frontpage multilingual &amp; dependent on browser language to improve engagement</a></td><td class="cell-y=T="><span class="selected-value select-value-color-yellow">improvement</span></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">13</td></tr><tr id="6826bfdf-aef0-449e-b7cf-277804a871f6"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Hive%20numbering%20(manual%20automated)%206826bfdfaef0449eb7cf277804a871f6.html">Hive numbering (manual / automated)</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">13</td></tr><tr id="62c895a1-2e4b-4462-a613-36a044e9310b"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Alerts%208b65dea8fc164a7f91b0a76fa0948189.html"><span class="icon">⚠️</span>Alerts</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20email%20alerts%2062c895a12e4b4462a61336a044e9310b.html">add email alerts</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">13</td></tr><tr id="1bab04b6-59f5-4494-b0fc-e17737ea33e8"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/move%20frames%20between%20boxes%201bab04b659f54494b0fce17737ea33e8.html">move frames between boxes</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">12</td></tr><tr id="349110a6-971c-44b4-96c6-63b667144b9c"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Count%20bees%20coming%20in%20out%209337ac850236440cb4667fb624d9aaec.html"><span class="icon">👁️‍🗨️</span>Count bees coming in/out</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Integrate%20bee%20counting%20on%20the%20edge%20349110a6971c44b496c663b667144b9c.html">Integrate bee counting on the edge</a></td><td class="cell-y=T="><span class="selected-value select-value-color-green">new feature</span></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">80</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">11</td></tr><tr id="39a0ec3e-7950-4d4d-a286-324c08158ddc"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/fix%20drawing%20on%20a%20frame%20-%20clicking%20clear%20-%20draw%20aga%2039a0ec3e79504d4da286324c08158ddc.html">fix drawing on a frame -&gt; clicking clear -&gt; draw again</a></td><td class="cell-y=T="><span class="selected-value select-value-color-red">bug</span></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">80</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">11</td></tr><tr id="e11c13ec-0cf2-456a-9d9e-8afecd8f7705"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Telemetry%20API%20-%20Add%20graphQL%20API%20for%20influx%20to%20have%20e11c13ec0cf2456a9d9e8afecd8f7705.html">Telemetry API - Add graphQL API for influx to have hive data storeable (sound, temperature, humidity)</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">10</td></tr><tr id="219eb0a7-39d2-4f30-b6c9-d3741d9878cc"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Analytics%20with%20grafana%20044239bdf92544a0a1ed95258d812e04.html"><span class="icon">📊</span>Analytics with grafana</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20grafana%20UI%20to%20influx%20for%20public%20visibility%20Tie%20219eb0a739d24f30b6c9d3741d9878cc.html">Add grafana UI to influx for public visibility. Tie access control to accounts</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">50</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">10</td></tr><tr id="736eeebd-efc5-461c-a8c7-f282f83c7d69"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20panning%20while%20zoomed,%20disable%20drawing%20when%20in%20%20736eeebdefc5461ca8c7f282f83c7d69.html">Add panning while zoomed, disable drawing when in this mode</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">9</td></tr><tr id="5ce0b9a4-5584-4ffe-9473-d92bfa01a1c9"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Create%20centralized%20logging%205ce0b9a455844ffe9473d92bfa01a1c9.html">Create centralized logging</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">9</td></tr><tr id="fe0099e4-d572-4c3c-858b-df1897bbbc52"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20photo%20upload%20c9d3df6f053e41bbb7b8414b7c2bb397.html"><span class="icon">📷</span>Frame side photo upload</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/bulk%20file%20upload%20view%20(as%20new%20inspection)%20fe0099e4d5724c3c858bdf1897bbbc52.html">
+bulk file upload view (as new inspection)</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">9</td></tr><tr id="f0aec6ca-623a-4db0-b5a6-1849dac1104d"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/reset%20frame%20numbers%20to%20be%20user-specific%20f0aec6ca623a4db0b5a61849dac1104d.html">reset frame numbers to be user-specific</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">8</td></tr><tr id="171efaf7-17a6-4785-878d-e407272066c1"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Manual%20inspections%20timeline%2091984eebbfde4a52a5d9a3836a6a998e.html"><span class="icon">📈</span>Manual inspections timeline</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/In%20timeline%20view,%20show%20note%20of%20the%20inspection%20171efaf717a64785878de407272066c1.html">In timeline view, show note of the inspection</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">8</td></tr><tr id="95e2e392-3414-4b9b-a969-cff3ca402422"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Queen%20detection%206efc6b5e9eac4d79a622abb89abdfde9.html"><span class="icon">👑</span>Queen detection</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Change%20queen%20detection%20to%20need%20a%20confirmation%20from%2095e2e39234144b9ba969cff3ca402422.html">Change queen detection to need a confirmation from a user</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">7</td></tr><tr id="52b9e998-9e1e-45fa-8a69-c99c18a6288c"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Smart%20home%20integration%20over%20zigbee%20160a14672978428c879480f7af149c1e.html"><span class="icon">🔗</span>Smart home integration over zigbee</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/research%20smart%20home%20tuya%20integration%2052b9e9989e1e45fa8a69c99c18a6288c.html">research smart home / tuya integration</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">7</td></tr><tr id="65e15eb4-b18a-4801-8266-0c7f18d71491"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Weather%20alerts%20a930050b479e4b6cacfdae2fed669146.html"><span class="icon">⚠️</span>Weather alerts</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/integrate%20weather%20warnings%20(storms%20hurricanes)%20-%20c%2065e15eb4b18a480182660c7f18d71491.html">integrate weather warnings (storms/hurricanes) -&gt; compare to apiary location -&gt; generate app alert</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">6</td></tr><tr id="f2d41de2-fb79-4e57-b946-844f410b5f23"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/e2e%20tests%20f2d41de2fb794e57b946844f410b5f23.html">e2e tests</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">6</td></tr><tr id="45e26838-d2aa-497d-8dd2-6e64a9d114fa"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/frame%20edit%20view%20-%20add%20clear%20cells%20button%20+%20drawing%2045e26838d2aa497d8dd26e64a9d114fa.html">frame edit view - add &quot;clear cells&quot; button + drawing mode to remove some incorrectly detected frame cells</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">6</td></tr><tr id="5a82d667-114b-40dd-974c-bd161cd22034"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Design%20UI%20UX%20wireframes%20for%20beehive%20view%205a82d667114b40dd974cbd161cd22034.html">Design UI/UX wireframes for beehive view</a></td><td class="cell-y=T="></td><td class="cell-QOWF">11</td><td class="cell-H&lt;QP">60</td><td class="cell-zafS"><span class="status-value select-value-color-green"><div class="status-dot status-dot-color-green"></div>groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">5</td></tr><tr id="bc21a663-a3c7-401d-9559-c356b49ebb80"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Drone%20detection%205e748cb1e1794193b6e0604b1996d7b7.html"><span class="icon">🐝</span>Drone detection</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/improve%20drone%20detection%20bc21a663a3c7401d9559c356b49ebb80.html">improve drone detection</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="84c37d3c-c03b-452c-ac2a-c94fc140ea72"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/keyboard%20shortcuts%20support%206e40924d954b40f2830fa5b8aa7af1bb.html"><span class="icon">⌨️</span>keyboard shortcuts support</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/keyboard%20shortcuts%2084c37d3cc03b452cac2ac94fc140ea72.html">keyboard shortcuts</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="a2df82b1-760c-46c7-8435-888126d54f29"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20photo%20upload%20c9d3df6f053e41bbb7b8414b7c2bb397.html"><span class="icon">📷</span>Frame side photo upload</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/file%20upload%20-%20progress%20bar%20a2df82b1760c46c78435888126d54f29.html">file upload - progress bar</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="6ea85c76-995d-4896-82ac-09e51cc597cc"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20password%20change%20c145a2c7669c43ae9122fa811dc8fa73.html"><span class="icon">🧑🏻‍🚀</span>User password change</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/user-cycle%20-%20restore%20password%206ea85c76995d489682ac09e51cc597cc.html">user-cycle - restore password</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="db58e11f-8ee8-4183-9b59-895ff9e78adc"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20photo%20upload%20c9d3df6f053e41bbb7b8414b7c2bb397.html"><span class="icon">📷</span>Frame side photo upload</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/frame%20upload%20-%20allow%20pasting%20images%20via%20clipboard%20%20db58e11f8ee841839b59895ff9e78adc.html">frame upload - allow pasting images via clipboard API</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="2f7f0d10-1780-4b6d-a497-5861ca477623"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Alerts%208b65dea8fc164a7f91b0a76fa0948189.html"><span class="icon">⚠️</span>Alerts</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20SMS%20alerts%202f7f0d1017804b6da4975861ca477623.html">add SMS alerts</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="dd338f3e-0d34-456d-b8e4-e2138becd30c"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Analytics%20-%20demography%20and%20simulation%20b438f638fe694c06b66f9249b6bb0e88.html"><span class="icon">🐝</span>Analytics - demography and simulation</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20colony%20population%20estimation%20dd338f3e0d34456db8e4e2138becd30c.html">add colony population estimation</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">4</td></tr><tr id="0e7b7c49-fef9-4878-9c78-0860439b4561"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20queen%20cup%20detection%20fcbfae08a5b24ff385e0348214e66414.html"><span class="icon">🐝</span>Frame side queen cup detection</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/detect%20different%20types%20of%20queen%20cups%200e7b7c49fef948789c780860439b4561.html">detect different types of queen cups</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">3</td></tr><tr id="33d1ef43-799f-48b3-bd1f-65dee181fc14"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/research%20onesoil%20integration%2033d1ef43799f48b3bd1f65dee181fc14.html">research onesoil integration</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">10</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">3</td></tr><tr id="395b2017-5286-4a8f-a0cb-15cfd88621a5"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/research%20e-agronoom%20integration%20395b201752864a8fa0cb15cfd88621a5.html">research e-agronoom integration</a></td><td class="cell-y=T="></td><td class="cell-QOWF">3</td><td class="cell-H&lt;QP">10</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">3</td></tr><tr id="38ae2be3-1289-4493-ae7f-d6fd7ed87232"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Optimize%20web-app%20bundle%20size%2038ae2be312894493ae7fd6fd7ed87232.html">Optimize web-app bundle size</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">3</td></tr><tr id="1d8c5517-4100-42b8-a656-1f2baa10aef4"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20rate-limiting%201d8c5517410042b8a6561f2baa10aef4.html">add rate-limiting</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">40</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">3</td></tr><tr id="412a6f52-98ad-4f2a-96d8-7b5fa494cd05"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Apiary%20management%207e554ea58e604e588b50646821467d34.html"><span class="icon">📦</span>Apiary management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Manually%20enter,%20which%20plants%20grow%20around%20the%20apiar%20412a6f5298ad4f2a96d87b5fa494cd05.html">Manually enter, which plants grow around the apiary in terms of area (ha), percentage (%). Tie it to graph of blooming time</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">15</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">2</td></tr><tr id="2b4cc4f2-cc23-45e9-b2c4-288d7efbf8ad"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Apiary%20management%207e554ea58e604e588b50646821467d34.html"><span class="icon">📦</span>Apiary management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Integrate%20Estonian%20apiaries%20public%20data%20in%20apiary%20%202b4cc4f2cc2345e9b2c4288d7efbf8ad.html">Integrate Estonian apiaries public data in apiary view</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">2</td></tr><tr id="0671f76f-4272-4645-8061-bf0832740584"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20photo%20upload%20c9d3df6f053e41bbb7b8414b7c2bb397.html"><span class="icon">📷</span>Frame side photo upload</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/add%20google%20drive%20photo%20download%20integration%200671f76f427246458061bf0832740584.html">add google drive photo download integration</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">20</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">2</td></tr><tr id="e93553df-b290-45f3-82e0-7d3f9f29db93"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/on%20phones,%20in%20frame%20image%20view,%20add%20zoom-in%20with%20p%20e93553dfb29045f382e07d3f9f29db93.html">on phones, in frame image view, add zoom-in with pinch gesture</a></td><td class="cell-y=T="></td><td class="cell-QOWF">5</td><td class="cell-H&lt;QP">10</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">2</td></tr><tr id="44fc4c24-63b6-4a7d-9f82-21166fb8093e"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Own%20cheap%20cloud%20GPU%20inferencing%20platform%2044fc4c2463b64a7d9f8221166fb8093e.html">Own cheap cloud GPU inferencing platform</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">30</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">2</td></tr><tr id="944ffdb2-ecb0-4c2a-ac9e-772179247e1d"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Multiple%20user%20support%20c15aeef93e3d48019d9d9650df6c8cf2.html"><span class="icon">🧑🏻‍🚀</span>Multiple user support</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Invite%20users%20to%20the%20account%20944ffdb2ecb04c2aac9e772179247e1d.html">Invite users to the account</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">10</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">1</td></tr><tr id="02f43f9a-e745-486d-b08a-9a7f7eb56cd3"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/render%20hive%20in%203d%2002f43f9ae745486db08a9a7f7eb56cd3.html">render hive in 3d</a></td><td class="cell-y=T="></td><td class="cell-QOWF">7</td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">1</td></tr><tr id="2b678c3b-f1aa-42b3-8744-dacaf87acc90"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/web-app%20add%20configuration%20to%20load%20from%20filesystem%202b678c3bf1aa42b38744dacaf87acc90.html">web-app: add configuration to load from filesystem</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="4fbaf3c8-0277-4d75-abe4-ccd33d254683"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Analytics%20-%20demography%20and%20simulation%20b438f638fe694c06b66f9249b6bb0e88.html"><span class="icon">🐝</span>Analytics - demography and simulation</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Predict%20overwintering%20likelihood%204fbaf3c802774d75abe4ccd33d254683.html">Predict overwintering likelihood</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="162607ca-42c7-4d6b-843c-ceaa1a211c03"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Queen%20management%2022a0d681d48444de984f38ece23e9566.html"><span class="icon">👑</span>Queen management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Show%20queen%20age%20(1%20year)%20instead%20of%20birth%20year%20162607ca42c74d6b843cceaa1a211c03.html">Show queen age (1 year) instead of birth year</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="9a8f68b8-3974-490b-8dcf-3861c6badad6"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Mark%20colony%20as%20dead%20&amp;%20generate%20yearly%20mortality%20re%209a8f68b83974490b8dcf3861c6badad6.html">Mark colony as dead &amp; generate yearly mortality report</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="4c9b7fd4-1ec1-47c7-ae52-f83175e2f463"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20colony%20last%20treatment%20time%20(in%20hive%20table%20view%204c9b7fd41ec147c7ae52f83175e2f463.html">Add colony last treatment time (in hive table view)</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="05edf5dc-c9ef-416b-a7f9-3e23342887b8"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20colony%20last%20feeding%20time%20(in%20hive%20table%20view)%2005edf5dcc9ef416ba7f93e23342887b8.html">Add colony last feeding time (in hive table view)</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="7b5e4e29-ccc9-4c76-9d52-8ad9dc2b0226"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Billing%20subscription%2074da1b488d4c49658ccd9c5f4247de7c.html"><span class="icon">💰</span>Billing subscription</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Enforce%20functional%20limitations%20that%20depend%20on%20bill%207b5e4e29ccc94c769d528ad9dc2b0226.html">Enforce functional limitations that depend on billing tier</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="26b2f158-3f17-45d2-9650-161000e06f44"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Billing%20subscription%2074da1b488d4c49658ccd9c5f4247de7c.html"><span class="icon">💰</span>Billing subscription</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Downgrade%20billing%20plan%20after%202%20weeks%20of%20trial%20expi%2026b2f1583f1745d29650161000e06f44.html">Downgrade billing plan after 2 weeks of trial expiration</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="20bf576c-0c06-42fa-9606-f1a1ece22ca1"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/User%20registration%20+%20password%20restoration%2048f81c4ccbc748ceadf618b28eda9a39.html"><span class="icon">🧑🏻‍🚀</span>User registration + password restoration</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20forgot%20password%20and%20restoration%20flow%2020bf576c0c0642fa9606f1a1ece22ca1.html">Add &quot;forgot password&quot; and restoration flow</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="afd296e0-3d56-4e0d-8dd1-7d4c89ab53ac"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Frame%20side%20photo%20image%20cropping%20afd296e03d564e0d8dd17d4c89ab53ac.html">Frame side photo image cropping</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="0087e5c4-7b94-4cbe-b948-45c7232b50f1"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Billing%20subscription%2074da1b488d4c49658ccd9c5f4247de7c.html"><span class="icon">💰</span>Billing subscription</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Ability%20to%20cancel%20billing%20subscription%200087e5c47b944cbeb94845c7232b50f1.html">Ability to cancel billing subscription</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="efee91b5-5b3c-4027-a67c-30c973595ab8"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Frame%20side%20management%20ccfbfe36e0864770b5f77644cb44cbda.html"><span class="icon">🖼️</span>Frame side management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Change%20section%20frame%20types%20in%20bulk%20(foundation%20%E2%86%92%20c%20efee91b55b3c4027a67c30c973595ab8.html">Change section frame types in bulk (foundation → comb)</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="7604c404-9d29-4f80-b70c-ce1131d0c7a6"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Fix%20hive%20note%20editing%20having%20a%20flickering%20experien%207604c4049d294f80b70cce1131d0c7a6.html">Fix hive note editing having a flickering experience</a></td><td class="cell-y=T="><span class="selected-value select-value-color-red">bug</span></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="92d304eb-462e-40e5-a97e-acc54ec4eac8"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20management%20983906f783d445f9b3a46c253df0a9c0.html"><span class="icon">📦</span>Hive management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Add%20ability%20to%20change%20frame%20type%2092d304eb462e40e5a97eacc54ec4eac8.html">Add ability to change frame type </a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="775e5b04-0e4c-4d4e-89b0-05413ae0059e"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Pollination%20optimization%20with%20hive%20placement%20recom%20c824e0e6b0c441c2a7815057ef0958d5.html"><span class="icon">🌻</span>Pollination optimization with hive placement recommendation</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Ability%20to%20add%20pollen%20honey%20lab%20results%20notes%20775e5b040e4c4d4e89b005413ae0059e.html">Ability to add pollen / honey lab results notes</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="949dc027-8826-44b1-80d5-47a2d575a6b9"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Hive%20section%20management%20bb1c977aeb0b4972a116754f6c07955a.html"><span class="icon">📦</span>Hive section management</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Section%20with%20size%20choice%20(Farrar,%20Dadant%20etc%20)%20949dc027882644b180d547a2d575a6b9.html">Section with size choice (Farrar, Dadant etc.)</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP"></td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="c250f91b-65d7-410e-b3a1-1b2aa311af30"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/Setup%20kubernetes%20cluster%20to%20have%20multiple%20pods%20and%20c250f91b65d7410eb3a11b2aa311af30.html">Setup kubernetes cluster to have multiple pods and servers for scaling</a></td><td class="cell-y=T="></td><td class="cell-QOWF">13</td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"></td><td class="cell-d=b?"></td><td class="cell-]QDX">0</td></tr><tr id="d4e046b8-4337-4710-9bed-a1f4d18b5cd4"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/swarm-api%20add%20hot%20reload%20d4e046b8433747109beda1f4d18b5cd4.html">swarm-api: add hot reload</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">2</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="26b413a7-99d5-4c30-a458-5906c9a87c86"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/swarm-api%20add%20dataloader%20to%20hive%20lastInspection%2026b413a799d54c30a4585906c9a87c86.html">swarm-api: add dataloader to hive.lastInspection</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">3</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="40aa6eb9-d3d2-4665-88f5-67e51fd1c11c"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/web-app%20revise%20offline%20mode%2040aa6eb9d3d2466588f567e51fd1c11c.html">web-app: revise offline mode</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="7471c26c-1986-49d4-8c37-e3ceb70a6e47"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/web-app%20-%20add%20ui%20tests%20to%20github%20(needs%20full%20stack%207471c26c198649d48c37e3ceb70a6e47.html">web-app - add ui tests to github (needs full stack to run)</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">7</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="a86f8321-23e4-424e-9596-d450ffd025da"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/make%20table%20view%20configureable%20with%20columns%20and%20sor%20a86f832123e4424e9596d450ffd025da.html">make table view configureable with columns and sortable</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-orange">frontend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="56555a04-a312-4760-8499-f99f30c794ea"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/graphql-router%20research%20upgrade%20to%20rust%20version%2056555a04a31247608499f99f30c794ea.html">graphql-router: research upgrade to rust version</a></td><td class="cell-y=T="><span class="selected-value select-value-color-yellow">improvement</span></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="177a069f-e135-4a8a-a2b7-e059d69a33e8"><td class="cell-JY@r"><a href="Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e/Features%20d633b0f6a0294bf484899eb3c63d77a7/Telemetry%20API%205d60632841534620ba56d1bb296af98b.html"><span class="icon">📊</span>Telemetry API</a></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/telemetry-api%20setup%20MQTT%20broker%20server%20177a069fe1354a8aa2b7e059d69a33e8.html">telemetry-api: setup MQTT broker server</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">5</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr><tr id="69c252be-0e19-4569-92fd-94c7e43b98aa"><td class="cell-JY@r"></td><td class="cell-title"><a href="Tasks%2067cbebc3a13c4fb3b8ac3396b4d03af4/Tasks%20069bb66e37d14486aadec4627bb9c112/swarm-api%20Add%20SQL%20logging%2069c252be0e19456992fd94c7e43b98aa.html">swarm-api: Add SQL logging</a></td><td class="cell-y=T="></td><td class="cell-QOWF"></td><td class="cell-H&lt;QP">3</td><td class="cell-zafS"><span class="status-value select-value-color-orange"><div class="status-dot status-dot-color-orange"></div>not groomed</span></td><td class="cell-wQuK"><span class="selected-value select-value-color-blue">backend</span></td><td class="cell-d=b?"></td><td class="cell-]QDX"></td></tr></tbody></table><br/><br/></div><p id="c2c9475c-72bd-4805-9b6f-b32382ff5967" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
