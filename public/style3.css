@@ -776,7 +776,7 @@ header h1 a {
 	}
 }
 
-header {
+header#front {
 	height: 600px;
 	display: flex;
 	align-items: center;
