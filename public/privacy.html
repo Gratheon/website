@@ -22,49 +22,10 @@
   <meta name="msapplication-config" content="/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" type="text/css" href="style3.css" />
-
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
-    type='text/css'>
-
-
-  <link
-    href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
-    rel='stylesheet' type='text/css'>
-
-  <script>
-    //for dumb IE
-    document.createElement('header');
-    document.createElement('footer');
-    document.createElement('section');
-    document.createElement('aside');
-    document.createElement('nav');
-    document.createElement('article');
-  </script>
-
-
-  <!-- Google analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-30042696-1');
-  </script>
-
-
-  <!-- Microsoft clarity usage analytics -->
-  <script type="text/javascript">
-    (function (c, l, a, r, i, t, y) {
-      c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
-      t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
-      y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
-    })(window, document, "clarity", "script", "hxl3bdiaiq");
-  </script>
+<?php include('/www/website/public/_head.php'); ?>
 </head>
 
-<body>
+<body><?php include('/www/website/public/_nav.php'); ?>
   <div id='content' class="page-text article_wrapper">
     <img alt="logo" src="img/logo_v6.svg" width="150" style="margin: 0 auto;display:block;" />
     <h1 style="border-bottom: 2px solid #fbd200; text-align:center;">Privacy Policy</h1>
@@ -456,6 +417,6 @@
     var sys_url = "http://gratheon.com/";
     var language = "eng";
   </script>
-</body>
+<?php include('/www/website/public/_analytics.php'); ?></body>
 
 </html>
