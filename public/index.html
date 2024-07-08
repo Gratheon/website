@@ -5,9 +5,6 @@
 	<title>Beehive AI monitoring | Gratheon</title>
 	<meta name="description" content="Monitoring software as a service for backyard beekeepers">
 
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-capable" content="yes">
 
 	<meta name="Author" content="Artjom Kurapov - https://kurapov.ee" />
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -31,35 +28,10 @@
 	<meta property="og:image:width" content="2000">
 	<meta property="og:image:height" content="1277">
 
-	<link rel="stylesheet" type="text/css" href="style3.css" />
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
-		type='text/css'>
-	<link
-		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
-		rel='stylesheet' type='text/css'>
+	<?php include('/www/website/public/_head.php'); ?>
 </head>
 
-<body>
-	<nav>
-		<div id="logo">
-			<a href="https://gratheon.com/">
-				<img alt="logo" src="img/logo_v7w.svg" class="desktop" />
-				<img alt="logo" src="img/logo_v7.svg" class="mobile" />
-			</a>
-		</div>
-		<div class="menu" style="flex-grow:1">
-			<a href="Gratheon fdac3638d55542ddb073ae90537cd5b5.html">About</a>
-			<a href="Problems we are solving 15a899e8bf10455c9ef903c6e269af2c.html">Problems</a>
-			<a href="Products 58e0ca42932f483aa6654f96baccb97a.html">Products</a>
-			<a href="Careers e50bd8e561c74102ab8e2b96276809c7.html">Careers</a>
-			<a href="Pricing 772b9e19dd8d440db9259d5150d8d0a5.html">Pricing</a>
-		</div>
-
-		<div class="menu">
-			<a href="https://app.gratheon.com/account/authenticate/">Log&nbsp;in</a>
-		</div>
-	</nav>
-
+<body><?php include('/www/website/public/_nav.php'); ?>
 	<div id="splash">
 		<header>
 			<video id="bgVideo" autoplay loop muted></video>
@@ -338,11 +310,6 @@
 				<img src="./img/robot.jpeg" alt="Robotic beehive" />
 			</div>
 		</div>
-		
-		<!-- <div style="margin:40px auto 0;max-width:490px;" class="pipedriveWebForms"
-			data-pd-webforms="https://webforms.pipedrive.com/f/30Y3Lch1QzPpw86fg3shdAEQDyDSR6VCzjxLBaBk9toyX4YKJpdu6uNF0Qd1Epn9h">
-			<script src="https://webforms.pipedrive.com/f/loader"></script>
-		</div> -->
 	</div>
 
 	<div style="display:flex;">
@@ -395,48 +362,6 @@
 		var language = "eng";
 	</script>
 
-	<!-- Google analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30042696-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', 'UA-30042696-1');
-	</script>
-
-
-	<!-- Microsoft clarity usage analytics -->
-	<script type="text/javascript">
-		(function (c, l, a, r, i, t, y) {
-			c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
-			t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
-			y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
-		})(window, document, "clarity", "script", "hxl3bdiaiq");
-	</script>
-
-
-	<!-- Amplitude pipeline usage analytics -->
-	<script type="text/javascript">
-		!function () { "use strict"; !function (e, t) { var n = e.amplitude || { _q: [], _iq: {} }; if (n.invoked) e.console && console.error && console.error("Amplitude snippet has been loaded."); else { var r = function (e, t) { e.prototype[t] = function () { return this._q.push({ name: t, args: Array.prototype.slice.call(arguments, 0) }), this } }, s = function (e, t, n) { return function (r) { e._q.push({ name: t, args: Array.prototype.slice.call(n, 0), resolve: r }) } }, o = function (e, t, n) { e[t] = function () { if (n) return { promise: new Promise(s(e, t, Array.prototype.slice.call(arguments))) } } }, i = function (e) { for (var t = 0; t < m.length; t++)o(e, m[t], !1); for (var n = 0; n < g.length; n++)o(e, g[n], !0) }; n.invoked = !0; var u = t.createElement("script"); u.type = "text/javascript", u.integrity = "sha384-x0ik2D45ZDEEEpYpEuDpmj05fY91P7EOZkgdKmq4dKL/ZAVcufJ+nULFtGn0HIZE", u.crossOrigin = "anonymous", u.async = !0, u.src = "https://cdn.amplitude.com/libs/analytics-browser-2.0.0-min.js.gz", u.onload = function () { e.amplitude.runQueuedFunctions || console.log("[Amplitude] Error: could not load SDK") }; var a = t.getElementsByTagName("script")[0]; a.parentNode.insertBefore(u, a); for (var c = function () { return this._q = [], this }, p = ["add", "append", "clearAll", "prepend", "set", "setOnce", "unset", "preInsert", "postInsert", "remove", "getUserProperties"], l = 0; l < p.length; l++)r(c, p[l]); n.Identify = c; for (var d = function () { return this._q = [], this }, f = ["getEventProperties", "setProductId", "setQuantity", "setPrice", "setRevenue", "setRevenueType", "setEventProperties"], v = 0; v < f.length; v++)r(d, f[v]); n.Revenue = d; var m = ["getDeviceId", "setDeviceId", "getSessionId", "setSessionId", "getUserId", "setUserId", "setOptOut", "setTransport", "reset", "extendSession"], g = ["init", "add", "remove", "track", "logEvent", "identify", "groupIdentify", "setGroup", "revenue", "flush"]; i(n), n.createInstance = function (e) { return n._iq[e] = { _q: [] }, i(n._iq[e]), n._iq[e] }, e.amplitude = n } }(window, document) }();
-
-		amplitude.init('22c65699d4c0d9ee32ba08a9c3087dcd');
-		amplitude.track('Visited frontpage');
-	</script>
-
-	<!--Tawk.to customer support-->
-	<script type="text/javascript">
-		var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-		(function () {
-			var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-			s1.async = true;
-			s1.src = 'https://embed.tawk.to/64b6ec5acc26a871b0293d74/1h5l8mh5h';
-			s1.charset = 'UTF-8';
-			s1.setAttribute('crossorigin', '*');
-			s0.parentNode.insertBefore(s1, s0);
-		})();
-	</script>
-	<!--End of Tawk.to Script-->
-</body>
+<?php include('/www/website/public/_analytics.php'); ?></body>
 
 </html>
