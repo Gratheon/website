@@ -822,13 +822,13 @@ header#front {
 }
 
 @media (max-width: 1024px) {
-	header {
+	header#front {
 		height: 400px;
 	}
 }
 
 @media (max-width: 800px) {
-	header {
+	header#front {
 		height: 300px;
 	}
 
@@ -840,7 +840,7 @@ header#front {
 
 
 @media (max-width: 600px) {
-	header {
+	header#front {
 		height: 200px;
 	}
 
