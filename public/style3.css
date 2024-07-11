@@ -70,13 +70,13 @@ textarea {
 * Also: hot pink! (or customize the background color to match your design)
 */
 ::-moz-selection {
-	background: #fe57a1;
+	background: #2f8b0b;
 	color: #fff;
 	text-shadow: none;
 }
 
 ::selection {
-	background: #fe57a1;
+	background: #2f8b0b;
 	color: #fff;
 	text-shadow: none;
 }
