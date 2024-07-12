@@ -28,10 +28,22 @@
 	<meta property="og:image:width" content="2000">
 	<meta property="og:image:height" content="1277">
 
+	<!-- <meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+
+	<link rel="stylesheet" type="text/css" href="./style3.css" />
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
+		type='text/css'>
+	<link
+		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
+		rel='stylesheet' type='text/css'> -->
+
 	<?php include('/www/website/public/_head.php'); ?>
 </head>
 
-<body><?php include('/www/website/public/_nav.php'); ?>
+<body>
+	<?php include('/www/website/public/_nav.php'); ?>
 	<div id="splash">
 		<header id="front">
 			<video id="bgVideo" autoplay loop muted></video>
@@ -39,7 +51,7 @@
 				<div style="display: flex;">
 					<div id="splash_internal">
 						<div>Beehive AI inspection platform</div>
-						
+
 						<p style="background:black;text-align:center">
 							Organize apiary to track your bees productivity and health
 						</p>
@@ -76,13 +88,6 @@
 			<div class="features">
 
 				<div class="feature">
-					<h3>Count bees</h3>
-					<p>Measure precise colony size and predict potential swarming</p>
-
-					<img src="https://gratheon.s3-accelerate.amazonaws.com/www/queen-cups.webp">
-				</div>
-
-				<div class="feature">
 					<h3>Model beehives</h3>
 					<p>
 						It's difficult to observe and record all colony information using pen and paper while in the
@@ -93,31 +98,17 @@
 				</div>
 
 				<div class="feature">
-					<h3>Classify beecomb</h3>
-					<p>
-						Take a photo of honeycombs to get detection of cells and ratio of resources.
-						Balancing nectar and pollen between colonies can prevent starvation
-					</p>
-					<img alt="beehive frame with detected cell types"
-						src="img/comb.webp" />
+					<h3>Upload frame photos</h3>
+					<p>Take frame photo and upload it to the app.
+						We will detect and count bees to measure precise colony size and predict potential swarming</p>
 
+					<img src="./img/count.webp">
 				</div>
 
 				<div class="feature">
-					<h3>Queenspotting</h3>
+					<h3>Store inspections</h3>
 					<p>
-						Finding a queen in a bustling metropolis to determine if the colony has a future can be
-						quite challenging.
-						We can surprise you and find two
-					</p>
-
-					<img src="./img/queens.webp" />
-				</div>
-
-
-				<div class="feature">
-					<h3>Inspections</h3>
-					<p>Take snapshot of the beehive state to track colony development over time.
+						Take snapshot of the beehive state to track colony development over time.
 						Compare same frame to see changes in the colony.
 					</p>
 
@@ -125,7 +116,35 @@
 				</div>
 
 				<div class="feature">
-					<h3>AI beekeeper</h3>
+					<h3>Find a queen</h3>
+					<p>
+						Finding a queen in a bustling metropolis to determine if the colony has a future can be
+						challenging. We can surprise you and find two
+					</p>
+
+					<img src="./img/queens.webp" />
+				</div>
+
+				<div class="feature">
+					<h3>Estimate resources</h3>
+					<p>
+						We also detect different cells to estimate ratio of resources.
+						Balancing nectar and pollen between colonies can prevent starvation
+					</p>
+					<img alt="beehive frame with detected cell types" src="img/comb.webp" />
+
+				</div>
+
+				<div class="feature">
+					<h3>Measure mite infestation</h3>
+					<p>Detect and count varroa mites infesting your bees without the need of killing bees with
+						alcohol washing test</p>
+
+					<img src="./img/varroa.webp">
+				</div>
+
+				<div class="feature">
+					<h3>Learn from AI</h3>
 					<p>Given all of the hive context, get a one-button advice from a large language model on the
 						next steps</p>
 
@@ -133,7 +152,7 @@
 				</div>
 
 				<div class="feature">
-					<h3>Frame notes</h3>
+					<h3>Take notes</h3>
 					<p>Use ipad pencil or mouse to draw on top of the frame to highlight important regions</p>
 
 					<video autoplay loop muted src="https://gratheon.s3-accelerate.amazonaws.com/www/ipad3.mov"></video>
@@ -148,23 +167,14 @@
 
 
 				<div class="feature">
-					<h3>Video stream</h3>
+					<h3>Spy on bees</h3>
 					<p>
 						Stream your beehive entrance from unused phone, raspberry-pi or our device.
 						Play back past videos under correct beehive to see what happened.
 						Useful in case of hornet attacks, robbing, queen mating flights
 					</p>
 
-					<video autoplay loop muted
-					src="./img/video-stream.mov"></video>
-				</div>
-
-				<div class="feature">
-					<h3>Varroa mites</h3>
-					<p>Detect and count varroa mites infesting your bees without the need of killing bees with
-						alcohol washing test</p>
-
-					<img src="./img/varroa.webp">
+					<video autoplay loop muted src="./img/video-stream.mov"></video>
 				</div>
 
 			</div>
@@ -190,10 +200,10 @@
 
 				<p>
 					I’m a software engineer and 5 years ago I became a beekeeper to improve pollination of my garden and
-					get higher yields. To me, bees are also a cute and interesting pet. 
+					get higher yields. To me, bees are also a cute and interesting pet.
 				</p>
 				<p>
-					Bees are key species for our food security. 
+					Bees are key species for our food security.
 					Farmers are cooperating with beekeepers to increase yields through precise pollination.
 				</p>
 				<p>
@@ -205,8 +215,10 @@
 				<p>
 					Observability is typically solved with a hard physical labor and frequent and time-limited
 					inspections.
-					Dressed in a protective suit, in the summer heat, you need to lift 20 kg beehive sections, that were designed 150 years ago and notice
-					small details while you are getting stung by defending bees, causing inspection stress and killing bees.
+					Dressed in a protective suit, in the summer heat, you need to lift 20 kg beehive sections, that were
+					designed 150 years ago and notice
+					small details while you are getting stung by defending bees, causing inspection stress and killing
+					bees.
 				</p>
 
 				<p>
@@ -222,7 +234,8 @@
 
 				<p>
 					By providing actionable metrics and automation, beekeepers become more
-					efficient, spend less time in the field and analyse more, doing precise intervention only when needed.
+					efficient, spend less time in the field and analyse more, doing precise intervention only when
+					needed.
 				</p>
 
 				<div id="future">
@@ -247,7 +260,8 @@
 						</p>
 
 						<p>
-							Join us to improve life of 100 million bee colonies worldwide and meet pollination demand for more.
+							Join us to improve life of 100 million bee colonies worldwide and meet pollination demand
+							for more.
 							We're looking for <strong>investors</strong> to scale our development, <a
 								href="https://www.notion.so/gratheon/Open-roles-positions-e50bd8e561c74102ab8e2b96276809c7?pvs=4">engineers</a>
 							to join <a
@@ -284,7 +298,7 @@
 			<div class="feature feature2col">
 				<h3>Entrance Observer</h3>
 				<p>
-					Get video feed of entrance in real-time. 
+					Get video feed of entrance in real-time.
 					Count bees coming in and out to estimate foraging bee daily loss.
 					Detect varroa mites riding on bees.
 					Block entrance in case of hornet attacks.
@@ -362,6 +376,7 @@
 		var language = "eng";
 	</script>
 
-<?php include('/www/website/public/_analytics.php'); ?></body>
+	<?php include('/www/website/public/_analytics.php'); ?>
+</body>
 
 </html>
