@@ -14,6 +14,12 @@
 		</div>
 
 		<div class="menu">
+			<a href="#"
+			onclick=()=> {
+                window.Tawk_API.start();
+                window.Tawk_API.maximize();
+            }>Contact</a>
+			>Support</a>
 			<a href="https://app.gratheon.com/account/authenticate/">Log&nbsp;in</a>
 		</div>
 	</nav>
