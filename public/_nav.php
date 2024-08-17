@@ -20,9 +20,7 @@
     </div>
 
     <div class="menu">
-        <a href="#"
-        onclick="openSupport()">Contact</a>
-        >Support</a>
+        <a href="#" onclick="openSupport()">Support</a>
         <a href="https://app.gratheon.com/account/authenticate/">Log&nbsp;in</a>
     </div>
 </nav>
