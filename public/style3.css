@@ -586,7 +586,7 @@ header h1 a {
 #content {
     color: #222;
     background: rgba(255, 255, 255, 0.98);
-    padding: 20px 40px 20px;
+    padding: 20px;
     /* font-size: 17px; */
 }
 
@@ -1013,42 +1013,44 @@ article {
 }
 
 #devices {
-    padding: 0 20px;
+    padding: 0 10px;
 }
 
 .device {
-    padding: 20px;
+    padding: 20px 0;
+    overflow: hidden;
 }
 
 .device-text {
     padding-right: 20px;
 }
 
+
+.device-imgs {
+    display:flex;
+}
+
 .device-imgs img {
-    max-width: 100%;
+    max-width: 50%;
+    object-fit: contain;
+    max-height: 300px
 }
 
 .device-imgs video {
+    max-height: 300px;
     max-width: 100%;
+    object-fit: cover;
 }
 
 @media screen and (min-width: 1024px) {
     .device {
-        height: 300px;
+        max-height: 300px;
         display: flex;
         padding: 20px;
     }
 
     .device-text {
-        max-width: 40%;
         padding-right: 20px;
-    }
-
-    .device-imgs{
-        display:flex;
-    }
-
-    .device-imgs video {
-        max-height: 200px;
+        width: 40%;
     }
 }
