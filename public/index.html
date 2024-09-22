@@ -2,375 +2,422 @@
 <html lang="en">
 
 <head>
-	<title>Beehive AI monitoring | Gratheon</title>
-	<meta name="description" content="Monitoring software as a service for backyard beekeepers">
+    <title>Beehive AI monitoring | Gratheon</title>
+    <meta name="description" content="Monitoring software as a service for backyard beekeepers">
 
 
-	<meta name="Author" content="Artjom Kurapov - https://kurapov.ee" />
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
-	<meta name="verify-v1" content="wSE6C/8XnNhej3MF9OFUTkbIVT+z9SF91Xyxq+4L9oQ=">
-	<meta name="google-site-verification" content="qf-Ud1ovJGbBZcLM3CH9VTO7wjn1bpVNGFxAivsu7bk" />
+    <meta name="Author" content="Artjom Kurapov - https://kurapov.ee"/>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+    <meta name="verify-v1" content="wSE6C/8XnNhej3MF9OFUTkbIVT+z9SF91Xyxq+4L9oQ=">
+    <meta name="google-site-verification" content="qf-Ud1ovJGbBZcLM3CH9VTO7wjn1bpVNGFxAivsu7bk"/>
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
-	<link rel="manifest" href="/favicons/site.webmanifest">
-	<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000">
-	<link rel="shortcut icon" href="/favicons/favicon.ico">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-config" content="/favicons/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
 
-	<meta property="og:image" content="https://gratheon.com/img/gratheon-web-app.webp">
-	<meta property="og:image:width" content="2000">
-	<meta property="og:image:height" content="1277">
+    <meta property="og:image" content="https://gratheon.com/img/gratheon-web-app.webp">
+    <meta property="og:image:width" content="2000">
+    <meta property="og:image:height" content="1277">
 
-	<!-- <meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
 
-	<link rel="stylesheet" type="text/css" href="./style3.css" />
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
-		type='text/css'>
-	<link
-		href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
-		rel='stylesheet' type='text/css'> -->
+    <link rel="stylesheet" type="text/css" href="style3.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,cyrillic' rel='stylesheet'
+          type='text/css'>
+    <link
+            href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif+Caption|PT+Serif:400,700|Russo+One|Righteous|Marmelad|Cuprum:400,700&subset=latin,cyrillic'
+            rel='stylesheet' type='text/css'>
 
-	<?php include('/www/website/public/_head.php'); ?>
+    <!--	<?php include('/www/website/public/_head.php'); ?>-->
 </head>
 
 <body>
-	<?php include('/www/website/public/_nav.php'); ?>
-	<div id="splash">
-		<header id="front">
-			<video id="bgVideo" autoplay loop muted></video>
-			<div style="z-index:2;">
-				<div style="display: flex;">
-					<div id="splash_internal">
-						<div>Beehive inspection platform</div>
+<script>
+    function openSupport() {
+        window.Tawk_API.start();
+        window.Tawk_API.maximize();
+    }
+</script>
+<nav>
+    <div id="logo">
+        <a href="https://gratheon.com/">
+            <img alt="logo" src="img/logo_v7w.svg" class="desktop"/>
+            <img alt="logo" src="img/logo_v7.svg" class="mobile"/>
+        </a>
+    </div>
+    <div class="menu" style="flex-grow:1">
+        <a href="/Gratheon fdac3638d55542ddb073ae90537cd5b5.html">About</a>
+        <a href="/Problems we are solving 15a899e8bf10455c9ef903c6e269af2c.html">Problems</a>
+        <a href="/Products 58e0ca42932f483aa6654f96baccb97a.html">Products</a>
+        <a href="/Careers e50bd8e561c74102ab8e2b96276809c7.html">Careers</a>
+        <a href="/Pricing 772b9e19dd8d440db9259d5150d8d0a5.html">Pricing</a>
+    </div>
 
-						<p style="background:black;text-align:center">
-							Organize apiary data to save your strength, time and bees
-						</p>
+    <div class="menu">
+        <a href="#" onclick="openSupport()">Support</a>
+        <a href="https://app.gratheon.com/account/authenticate/">Log&nbsp;in</a>
+    </div>
+</nav>
 
-					</div>
-				</div>
-				<div class="install-buttons">
-					<div>
-						<a class="signup blue" href="https://app.gratheon.com/account/register">Try it free</a>
-					</div>
-					<div>
-						<a id="google-play"
-							href="https://play.google.com/store/apps/details?id=com.gratheon.app.twa"><img width=160
-								src="img/google-play-badge.png" /></a>
-					</div>
-				</div>
-			</div>
-		</header>
+<!--	<?php include('/www/website/public/_nav.php'); ?>-->
+<div id="splash">
+    <header id="front">
+        <video id="bgVideo" autoplay loop muted></video>
+        <div style="z-index:2;">
+            <div style="display: flex;">
+                <div id="splash_internal">
+                    <div>Beehive inspection platform</div>
 
-		<script>
-			const bgVideo = document.querySelector('#bgVideo');
-			const randomIndex = 1 + Math.floor(Math.random() * 15);
-			const randomUrl = "https://gratheon.s3-accelerate.amazonaws.com/video/" + `${randomIndex}`.padStart(2, '0') + ".mp4"
+                    <p style="background:black;text-align:center">
+                        Organize apiary data to save your strength, time and bees
+                    </p>
 
-			bgVideo.src = randomUrl;
-		</script>
-	</div>
+                </div>
+            </div>
+            <div class="install-buttons">
+                <div>
+                    <a class="signup blue" href="https://app.gratheon.com/account/register">Try it free</a>
+                </div>
+                <div>
+                    <a id="google-play"
+                       href="https://play.google.com/store/apps/details?id=com.gratheon.app.twa"><img width=160
+                                                                                                      src="img/google-play-badge.png"/></a>
+                </div>
+            </div>
+        </div>
+    </header>
 
-	<video id="showcase" autoplay loop muted
-		src="https://gratheon.s3-accelerate.amazonaws.com/www/detection2.mov"></video>
+    <script>
+        const bgVideo = document.querySelector('#bgVideo');
+        const randomIndex = 1 + Math.floor(Math.random() * 15);
+        const randomUrl = "https://gratheon.s3-accelerate.amazonaws.com/video/" + `${randomIndex}`.padStart(2, '0') + ".mp4"
 
-	<div>
-		<h2 style="text-align:center;">How does it work?</h3>
-			<div class="features">
+        bgVideo.src = randomUrl;
+    </script>
+</div>
 
-				<div class="feature">
-					<h3>Model beehives</h3>
-					<p>
-						It's difficult to observe and record all colony information using pen and paper while in the
-						field. Model hives to remember where to take action and why
-					</p>
-					<video autoplay loop muted
-						src="https://gratheon.s3-accelerate.amazonaws.com/www/frame-management3.mov"></video>
-				</div>
+<video id="showcase" autoplay loop muted
+       src="https://gratheon.s3-accelerate.amazonaws.com/www/detection2.mov"></video>
 
-				<div class="feature">
-					<h3>Upload frame photos</h3>
-					<p>Take frame photo and upload it to the app.
-						We will detect and count bees to measure precise colony size and predict potential swarming</p>
+<div>
+    <h2 style="text-align:center;">How does app work?</h2>
+    <div class="features">
 
-					<img src="./img/count.webp">
-				</div>
+        <div class="feature">
+            <h3>Model beehives</h3>
+            <p>
+                It's difficult to observe and record all colony information using pen and paper while in the
+                field. Model hives to remember where to take action and why
+            </p>
+            <video autoplay loop muted
+                   src="https://gratheon.s3-accelerate.amazonaws.com/www/frame-management3.mov"></video>
+        </div>
 
-				<div class="feature">
-					<h3>Store inspections</h3>
-					<p>
-						Take snapshot of the beehive state to track colony development over time.
-						Compare same frame to see changes in the colony.
-					</p>
+        <div class="feature">
+            <h3>Upload frame photos</h3>
+            <p>Take frame photo and upload it to the app.
+                We will detect and count bees to measure precise colony size and predict potential swarming</p>
 
-					<img src="./img/inspections.webp" />
-				</div>
+            <img src="./img/count.webp">
+        </div>
 
-				<div class="feature">
-					<h3>Find a queen</h3>
-					<p>
-						Finding a queen in a bustling metropolis to determine if the colony has a future can be
-						challenging. We can surprise you and find two
-					</p>
+        <div class="feature">
+            <h3>Store inspections</h3>
+            <p>
+                Take snapshot of the beehive state to track colony development over time.
+                Compare same frame to see changes in the colony.
+            </p>
 
-					<img src="./img/queens.webp" />
-				</div>
+            <img src="./img/inspections.webp"/>
+        </div>
 
-				<div class="feature">
-					<h3>Estimate resources</h3>
-					<p>
-						We also detect different cells to estimate ratio of resources.
-						Balancing nectar and pollen between colonies can prevent starvation
-					</p>
-					<img alt="beehive frame with detected cell types" src="img/comb.webp" />
+        <div class="feature">
+            <h3>Find a queen</h3>
+            <p>
+                Finding a queen in a bustling metropolis to determine if the colony has a future can be
+                challenging. We can surprise you and find two
+            </p>
 
-				</div>
+            <img src="./img/queens.webp"/>
+        </div>
 
-				<div class="feature">
-					<h3>Measure mite infestation</h3>
-					<p>Detect and count varroa mites infesting your bees without the need of killing bees with
-						alcohol washing test</p>
+        <div class="feature">
+            <h3>Estimate resources</h3>
+            <p>
+                We also detect different cells to estimate ratio of resources.
+                Balancing nectar and pollen between colonies can prevent starvation
+            </p>
+            <img alt="beehive frame with detected cell types" src="img/comb.webp"/>
 
-					<img src="./img/varroa.webp">
-				</div>
+        </div>
 
-				<div class="feature">
-					<h3>Learn from AI</h3>
-					<p>Given all of the hive context, get a one-button advice from a large language model on the
-						next steps</p>
+        <div class="feature">
+            <h3>Measure mite infestation</h3>
+            <p>Detect and count varroa mites infesting your bees without the need of killing bees with
+                alcohol washing test</p>
 
-					<img alt="beehive frame with detected cell types" src="img/llm.webp" />
-				</div>
+            <img src="./img/varroa.webp">
+        </div>
 
-				<div class="feature">
-					<h3>Take notes</h3>
-					<p>Use ipad pencil or mouse to draw on top of the frame to highlight important regions</p>
+        <div class="feature">
+            <h3>Learn from AI</h3>
+            <p>Given all of the hive context, get a one-button advice from a large language model on the
+                next steps</p>
 
-					<video autoplay loop muted src="https://gratheon.s3-accelerate.amazonaws.com/www/ipad3.mov"></video>
-				</div>
+            <img alt="beehive frame with detected cell types" src="img/llm.webp"/>
+        </div>
 
-				<!-- <div class="feature">
-					<h3>Analytics</h3>
-					<p>Aggregate timeline data from different sources, such as weather, external hardware APIs using
-						built-in industry-standard Grafana monitoring solution
-						to discover and predict colony behaviour</p>
-				</div> -->
+        <div class="feature">
+            <h3>Take notes</h3>
+            <p>Use ipad pencil or mouse to draw on top of the frame to highlight important regions</p>
 
+            <video autoplay loop muted src="https://gratheon.s3-accelerate.amazonaws.com/www/ipad3.mov"></video>
+        </div>
 
-				<div class="feature">
-					<h3>Spy on bees</h3>
-					<p>
-						Stream your beehive entrance from unused phone, raspberry-pi or our device.
-						Play back past videos under correct beehive to see what happened.
-						Useful in case of hornet attacks, robbing, queen mating flights
-					</p>
-
-					<video autoplay loop muted src="./img/video-stream.mov"></video>
-				</div>
-
-			</div>
-
-	</div>
-	<div id='content'>
-		<article>
-			<h2>Shape the future of beekeeping</h3>
-				<div id="author" style="display:flex">
-					<div style="padding-right:10px">
-						<a href="https://twitter.com/tot_ra" style="border:none">
-							<img alt="author photo" style="border-radius:25px;" width="50" height="50"
-								src="https://kurapov.ee/img/logo.jpg" />
-						</a>
-					</div>
-
-					<div>
-						By
-						<a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br />Beekeeper,
-						Founding engineer
-					</div>
-				</div>
-
-				<p>
-					I’m a software engineer and 5 years ago I became a beekeeper to improve pollination of my garden and
-					get higher yields. To me, bees are also a cute and interesting pet.
-				</p>
-				<p>
-					Bees are key species for our food security.
-					Farmers are cooperating with beekeepers to increase yields through precise pollination.
-				</p>
-				<p>
-					Traditional beekeeping requires observability of a bee colony, because bees can experience
-					starvation , loss of a queen, late swarming or get <i>Varroa destructor</i> mite infestation
-					which weakens the colony and causes overwintering collapse.
-				</p>
-
-				<p>
-					Observability is typically solved with a hard physical labor and frequent and time-limited
-					inspections.
-					Dressed in a protective suit, in the summer heat, you need to lift 20 kg beehive sections, that were
-					designed 150 years ago and notice
-					small details while you are getting stung by defending bees, causing inspection stress and killing
-					bees.
-				</p>
-
-				<p>
-					As your apiary grows, this work becomes unscalable.
-					Industrial beekeepers have multiple apiaries at distant locations
-					that are hard to reach. Existing solutions do not adequately solve these issues
-				</p>
-
-				<p>💡 Our goal is to help beekeepers with observability and automation.
-					Our vision is a fully autonomous multi-hive Robotic Apiary that can remotely inspect
-					colonies. We will reach this step by step, starting with a software.
-				</p>
-
-				<p>
-					By providing actionable metrics and automation, beekeepers become more
-					efficient, spend less time in the field and analyse more, doing precise intervention only when
-					needed.
-				</p>
-
-				<div id="future">
-					<div>
-						<p>
-							Gratheon app is built on the shoulders of open-source software and
-							is fully <a href="https://github.com/gratheon">open source</a> too.
-						</p>
-
-						<p>
-							Join us to improve life of 100 million bee colonies worldwide and meet pollination demand
-							for more.
-							We're looking for <strong>investors</strong> to scale our development, <a
-								href="https://www.notion.so/gratheon/Open-roles-positions-e50bd8e561c74102ab8e2b96276809c7?pvs=4">engineers</a>
-							to join <a
-								href="https://www.notion.so/gratheon/Team-5ff38d33b8a2448ca02ffc26aed09278?pvs=4">our
-								team</a>, <a
-								href="https://www.notion.so/gratheon/Advisors-6b51c9883cd94fe8a70a4ae548d1970a?pvs=4">beekeepers</a>
-							to run field testing and advisors to guide us.
-
-						</p>
-
-						<p>
-							Got some ideas?
-						</p>
-
-						<a class="action action_green" href="https://discord.gg/PcbP4uedWj">Tell us in Discord</a>
-
-						<a style="max-width:109px" class="action blue"
-							href="https://app.gratheon.com/account/register">Sign
-							up</a>
-
-					</div>
-				</div>
-
-				<iframe title="Author's introduction"
-					style="max-width:800px;width:100%; height:450px; margin:0 auto;display:block;"
-					src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
-					allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-					allowfullscreen></iframe>
-
-		</article>
-
-		<h2>Products in development</h2>
-		<div class="features">
-			<div class="feature">
-				<h3>Beehive sensors</h3>
-				<p>
-					Measure temperature, humidity, CO2 level, barometric pressure, sound and weight to correlate colony development
-					with environmental factors. Most affordable, data- and energy-efficient.
-				</p>
-				<img src="./img/sensors.webp" alt="Beehive sensors" />
-				<img src="./img/temp.webp" alt="temperature graph" />
-			</div>
-			<div class="feature">
-				<h3>Entrance Observer</h3>
-				<p>
-					Get video feed of entrance in real-time.
-					Count bees coming in and out to estimate foraging bee daily loss.
-					Detect varroa mites riding on bees.
-					Track pollen flow. Detect robbing, worker orientation flights.
-					Detect queen mating flights.
-				</p>
-
-<!--				<video autoplay loop muted src="https://gratheon.s3-accelerate.amazonaws.com/www/gate-demo.mp4"></video>-->
-				<img src="./img/gatehousev3.jpg" alt="Entrance Observer" />
-			</div>
-
-			<div class="feature">
-				<h3>Robotic beehive</h3>
-				<p>
-					Automate frame inspections with a robotic beehive.
-					Peek remotely into the hive to save your time and energy.
-					Block entrance in case of hornet attacks.
-					Be always up-to-date with alert notifications.
-					Keep bees stress-free and neighbours sting-free.
-				</p>
-				<video autoplay loop muted
-					src="https://gratheon.s3-accelerate.amazonaws.com/video/linear-actuator.mp4"></video>
-
-<!--				<img src="./img/robot.jpeg" alt="Robotic beehive" />-->
-			</div>
-		</div>
-	</div>
-
-	<div style="display:flex;">
-		<div style="background-color:#FFD900; height:6px;flex-grow:1;"></div>
-		<div style="background-color:#2f8b0b; height:6px;flex-grow:1;"></div>
-		<div style="background-color:#0248ff; height:6px;flex-grow:1;"></div>
-	</div>
+        <!-- <div class="feature">
+            <h3>Analytics</h3>
+            <p>Aggregate timeline data from different sources, such as weather, external hardware APIs using
+                built-in industry-standard Grafana monitoring solution
+                to discover and predict colony behaviour</p>
+        </div> -->
 
 
-	<footer>
-		<div style="display:flex;" id="company-info">
-			<div style="padding-right:10px">
-				<a href="https://gratheon.com/" style="border:none;">
-					<img style="width:50px;height:50px;background:white;border-radius:5px;" alt="logo"
-						src="img/logo_v7.svg">
-				</a>
-			</div>
-			<div>
-				<A href="https://ariregister.rik.ee/est/company/12245103/Gratheon-O%C3%9C">Gratheon OÜ</A><br />
-				Tallinn, Estonia
-			</div>
-		</div>
+        <div class="feature">
+            <h3>Spy on bees</h3>
+            <p>
+                Stream your beehive entrance from unused phone, raspberry-pi or our device.
+                Play back past videos under correct beehive to see what happened.
+                Useful to detect hornet attacks, robbing, queen mating flights.
+            </p>
 
-		<div>
-			<a href="/terms.html">Terms of Use</a><br />
-			<a href="/privacy.html">Privacy policy</a><br />
-			<a href="mailto:pilot@gratheon.com">Email</a>
-		</div>
-		<div>
-			<a href="https://t.me/gratheon">Telegram</a><br />
-			<a href="https://twitter.com/gratheon">Twitter</a><br />
-			<a href="https://www.linkedin.com/company/gratheon/">Linkedin</a><br />
-		</div>
-		<div>
-			<a href="https://www.facebook.com/gratheon">Facebook</a><br />
-			<a href="https://www.twitch.tv/tot_ra">Twitch</a><br />
-			<a href="https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ">Youtube</a>
-		</div>
+            <video autoplay loop muted src="./img/video-stream.mov"></video>
+        </div>
 
-		<div>
-			<a href="https://discord.gg/PcbP4uedWj">Discord</a><br />
-			<a href="https://github.com/gratheon">Github</a><br />
-			<a href="https://gratheon.notion.site/Gratheon-fdac3638d55542ddb073ae90537cd5b5">Notion</a>
-		</div>
-	</footer>
+    </div>
 
-	<script type='text/javascript'>
-		var sys_url = "http://gratheon.com/";
-		var language = "eng";
-	</script>
+</div>
 
-	<?php include('/www/website/public/_analytics.php'); ?>
+
+<div id="devices">
+    <h2 style="text-align:center;">Hardware products (in development)</h2>
+
+    <div>
+        <div class="device">
+            <div class="device-text">
+                <h3>Beehive sensors</h3>
+                <p>
+                    Measure temperature, humidity, CO2 level, barometric pressure, sound and weight to correlate colony
+                    development
+                    with environmental factors. Most affordable, data- and energy-efficient.
+                </p>
+            </div>
+            <div class="device-imgs">
+                <img src="./img/sensors.webp" alt="Beehive sensors" style="max-height: 200px"/>
+                <img src="./img/temp.webp" alt="temperature graph" style="max-height: 100px"/>
+            </div>
+        </div>
+
+
+        <div class="device">
+            <div class="device-text">
+                <h3>Entrance Observer</h3>
+                <p>
+                    Get video feed of entrance in real-time.
+                    Count bees coming in and out to estimate foraging bee daily loss.
+                    Detect varroa mites riding on bees.
+                    Track pollen flow. Detect robbing, worker orientation flights.
+                    Detect queen mating flights.
+                </p>
+            </div>
+
+            <div class="device-imgs">
+                <img src="./img/gatehousev3.jpg" alt="Entrance Observer" style="max-height: 300px"/>
+                <video autoplay loop muted src="./img/counting.mov"></video>
+            </div>
+        </div>
+
+        <div class="device">
+            <div class="device-text">
+                <h3>Robotic beehive</h3>
+                <p>
+                    Our ultimate goal.
+                    Automate inspections with a mechanical frame extraction.
+                    Save energy from lifting heavy beehive sections.
+                    Reduce bees dying from inspections.
+                    Improve efficiency with remote internal observation to save time on field trips.
+                    Be always up-to-date with alert notifications.
+                    Keep neighbours sting-free in urban areas.
+                </p>
+            </div>
+            <div class="device-imgs">
+                <video autoplay loop muted
+                   src="https://gratheon.s3-accelerate.amazonaws.com/video/linear-actuator.mp4"></video>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='content'>
+    <article>
+        <h2>Shape the future of beekeeping</h2>
+        <div id="author" style="display:flex">
+            <div style="padding-right:10px">
+                <a href="https://twitter.com/tot_ra" style="border:none">
+                    <img alt="author photo" style="border-radius:25px;" width="50" height="50"
+                         src="https://kurapov.ee/img/logo.jpg"/>
+                </a>
+            </div>
+
+            <div>
+                By
+                <a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br/>Beekeeper,
+                Founding engineer
+            </div>
+        </div>
+
+        <p>
+            I’m a software engineer and 5 years ago I became a beekeeper to improve pollination of my garden and
+            get higher yields. To me, bees are also a cute and interesting pet.
+        </p>
+        <p>
+            Bees are key species for our food security.
+            Farmers are cooperating with beekeepers to increase yields through precise pollination.
+        </p>
+        <p>
+            Traditional beekeeping requires observability of a bee colony, because bees can experience
+            starvation , loss of a queen, late swarming or get <i>Varroa destructor</i> mite infestation
+            which weakens the colony and causes overwintering collapse.
+        </p>
+
+        <p>
+            Observability is typically solved with a hard physical labor and frequent and time-limited
+            inspections.
+            Dressed in a protective suit, in the summer heat, you need to lift 20 kg beehive sections, that were
+            designed 150 years ago and notice
+            small details while you are getting stung by defending bees, causing inspection stress and killing
+            bees.
+        </p>
+
+        <p>
+            As your apiary grows, this work becomes unscalable.
+            Industrial beekeepers have multiple apiaries at distant locations
+            that are hard to reach. Existing solutions do not adequately solve these issues
+        </p>
+
+        <p>💡 Our goal is to help beekeepers with observability and automation.
+            Our vision is a fully autonomous multi-hive Robotic Apiary that can remotely inspect
+            colonies. We will reach this step by step, starting with a software.
+        </p>
+
+        <p>
+            By providing actionable metrics and automation, beekeepers become more
+            efficient, spend less time in the field and analyse more, doing precise intervention only when
+            needed.
+        </p>
+
+        <div id="future">
+            <div>
+                <p>
+                    Gratheon app is built on the shoulders of open-source software and
+                    is fully <a href="https://github.com/gratheon">open source</a> too.
+                </p>
+
+                <p>
+                    Join us to improve life of 100 million bee colonies worldwide and meet pollination demand
+                    for more.
+                    We're looking for <strong>investors</strong> to scale our development, <a
+                        href="https://www.notion.so/gratheon/Open-roles-positions-e50bd8e561c74102ab8e2b96276809c7?pvs=4">engineers</a>
+                    to join <a
+                        href="https://www.notion.so/gratheon/Team-5ff38d33b8a2448ca02ffc26aed09278?pvs=4">our
+                    team</a>, <a
+                        href="https://www.notion.so/gratheon/Advisors-6b51c9883cd94fe8a70a4ae548d1970a?pvs=4">beekeepers</a>
+                    to run field testing and advisors to guide us.
+
+                </p>
+
+                <p>
+                    Got some ideas?
+                </p>
+
+                <a class="action action_green" href="https://discord.gg/PcbP4uedWj">Tell us in Discord</a>
+
+                <a style="max-width:109px" class="action blue"
+                   href="https://app.gratheon.com/account/register">Sign
+                    up</a>
+
+            </div>
+        </div>
+    </article>
+</div>
+
+<iframe title="Author's introduction"
+        style="width:100%; height:500px; margin:0 auto;display:block;"
+        src="https://www.youtube.com/embed/gM3AJEAhmXc?rel=0" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+
+<div style="display:flex;">
+    <div style="background-color:#FFD900; height:6px;flex-grow:1;"></div>
+    <div style="background-color:#2f8b0b; height:6px;flex-grow:1;"></div>
+    <div style="background-color:#0248ff; height:6px;flex-grow:1;"></div>
+</div>
+
+
+<footer>
+    <div style="display:flex;" id="company-info">
+        <div style="padding-right:10px">
+            <a href="https://gratheon.com/" style="border:none;">
+                <img style="width:50px;height:50px;background:white;border-radius:5px;" alt="logo"
+                     src="img/logo_v7.svg">
+            </a>
+        </div>
+        <div>
+            <A href="https://ariregister.rik.ee/est/company/12245103/Gratheon-O%C3%9C">Gratheon OÜ</A><br/>
+            Tallinn, Estonia
+        </div>
+    </div>
+
+    <div>
+        <a href="/terms.html">Terms of Use</a><br/>
+        <a href="/privacy.html">Privacy policy</a><br/>
+        <a href="mailto:pilot@gratheon.com">Email</a>
+    </div>
+    <div>
+        <a href="https://t.me/gratheon">Telegram</a><br/>
+        <a href="https://twitter.com/gratheon">Twitter</a><br/>
+        <a href="https://www.linkedin.com/company/gratheon/">Linkedin</a><br/>
+    </div>
+    <div>
+        <a href="https://www.facebook.com/gratheon">Facebook</a><br/>
+        <a href="https://www.twitch.tv/tot_ra">Twitch</a><br/>
+        <a href="https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ">Youtube</a>
+    </div>
+
+    <div>
+        <a href="https://discord.gg/PcbP4uedWj">Discord</a><br/>
+        <a href="https://github.com/gratheon">Github</a><br/>
+        <a href="https://gratheon.notion.site/Gratheon-fdac3638d55542ddb073ae90537cd5b5">Notion</a>
+    </div>
+</footer>
+
+<script type='text/javascript'>
+    var sys_url = "http://gratheon.com/";
+    var language = "eng";
+</script>
+
+<?php include('/www/website/public/_analytics.php'); ?>
 </body>
 
 </html>
