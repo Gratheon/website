@@ -360,17 +360,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-20a": {
+  "/about-f1d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-75e": {
+  "/about-887": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-8a3": {
+  "/about-d85": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -432,6 +432,14 @@
   "/about/company/Press kit-084": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-press-kit-275-1df"
+  },
+  "/about/company/Team/-fa9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-495-022"
+  },
+  "/about/company/Team/Aleksei Prokopov-def": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-aleksei-prokopovc-74-243"
   },
   "/about/company/Team/Artjom Kurapov-28e": {
     "__comp": "__comp---theme-doc-item-178-a40",

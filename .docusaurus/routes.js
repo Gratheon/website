@@ -164,15 +164,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '20a'),
+    component: ComponentCreator('/about', 'f1d'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '75e'),
+        component: ComponentCreator('/about', '887'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8a3'),
+            component: ComponentCreator('/about', 'd85'),
             routes: [
               {
                 path: '/about/',
@@ -261,6 +261,18 @@ export default [
               {
                 path: '/about/company/Press kit',
                 component: ComponentCreator('/about/company/Press kit', '084'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/',
+                component: ComponentCreator('/about/company/Team/', 'fa9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Aleksei Prokopov',
+                component: ComponentCreator('/about/company/Team/Aleksei Prokopov', 'def'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

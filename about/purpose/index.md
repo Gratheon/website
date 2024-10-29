@@ -3,8 +3,8 @@ sidebar_position: 1
 title: 🌻 Purpose
 ---
 
-<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
-![](../pexels-nicky-18365421.jpg)
+<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-20%" }}>
+![](img/pexels-nicky-18365421.jpg)
 </div></div>
 
 # What we do
@@ -20,7 +20,7 @@ title: 🌻 Purpose
     We help 🧑🏻‍🚀 beekeepers to model and organize their apiary 🐝 using our[Web-app](https://www.notion.so/Web-app-2937ed264e1d434a8664caa4bc40978e?pvs=21). We develop and integrate IoT devices with camera and AI vision to report vital colony metrics and alert beekeepers in case of danger. Our long-term vision is a [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21)
     
 - Call to action video (2 min)
-<iframe width="1100" height="627" src="https://www.youtube.com/embed/gM3AJEAhmXc" title="Call to action for automated beekeeping with Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/gM3AJEAhmXc" title="Call to action for automated beekeeping with Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## For investors

@@ -7,7 +7,6 @@ sidebar_position: 2
 
 > 💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
 
-
 ### More 
 
 > Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [🌻Insufficient pollination](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Insufficient%20pollination%2093d31ab6309443f9bbe0a50f4b560188.html) and increase yields  
@@ -74,7 +73,8 @@ We are not focusing solely on saving honeybees as a species, because globally co
 
 [https://www.youtube.com/watch?v=CidaOP7PA-o](https://www.youtube.com/watch?v=CidaOP7PA-o)
 
-[https://www.youtube.com/watch?v=VSYgDssQUtA](https://www.youtube.com/watch?v=VSYgDssQUtA)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VSYgDssQUtA" title="Bee extinction: Why we&#39;re saving the wrong bees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [![](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Screenshot_2024-04-15_at_15.17.41.png)](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Screenshot_2024-04-15_at_15.17.41.png)
 

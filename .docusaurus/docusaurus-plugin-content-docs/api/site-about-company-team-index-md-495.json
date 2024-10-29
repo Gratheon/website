@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/index",
+  "title": "index",
+  "description": "- Artjom Kurapov",
+  "source": "@site/about/company/Team/index.md",
+  "sourceDirName": "company/Team",
+  "slug": "/company/Team/",
+  "permalink": "/about/company/Team/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Press kit",
+    "permalink": "/about/company/Press kit"
+  },
+  "next": {
+    "title": "Aleksei Prokopov",
+    "permalink": "/about/company/Team/Aleksei Prokopov"
+  }
+}

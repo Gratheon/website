@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Aleksei Prokopov",
+  "title": "Aleksei Prokopov",
+  "description": "",
+  "source": "@site/about/company/Team/Aleksei Prokopov.md",
+  "sourceDirName": "company/Team",
+  "slug": "/company/Team/Aleksei Prokopov",
+  "permalink": "/about/company/Team/Aleksei Prokopov",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/about/company/Team/"
+  },
+  "next": {
+    "title": "Artjom Kurapov",
+    "permalink": "/about/company/Team/Artjom Kurapov"
+  }
+}

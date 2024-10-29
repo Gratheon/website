@@ -160,8 +160,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Team/Aleksei Prokopov",
+              "path": "/about/company/Team/Aleksei Prokopov",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Team/Artjom Kurapov",
               "path": "/about/company/Team/Artjom Kurapov",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/index",
+              "path": "/about/company/Team/",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -12,7 +12,7 @@ Such domain entities include:
 - Frames
 - Inspections
 
-![](../../../web-app.png)
+![](../img/web-app.png)
 
 ## Use cases
 
@@ -22,7 +22,7 @@ Second use-case is to upload a video of hive entrance and see it as a video stre
 
 App itself is also multilingual
 
-![](../../../app%20in%20russian.png)
+![](../img/app%20in%20russian.png)
 
 
 
