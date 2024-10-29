@@ -1,266 +1,309 @@
 {
-  "/blog-0e0": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "2618d7e3"
-      }
-    ],
-    "__props": "c15d9823"
-  },
-  "/blog/2024/01/01/Garage48-fb9": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "8122953a"
-  },
-  "/blog/archive-182": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "f81c1134"
-  },
-  "/blog/authors-0b7": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "ef8b811a"
-  },
-  "/blog/authors/all-sebastien-lorber-articles-495": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [],
-    "sidebar": "814f3328",
-    "__props": "c9c9bef8"
-  },
-  "/blog/authors/yangshun-7c6": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [],
-    "sidebar": "814f3328",
-    "__props": "1dea6ca3"
-  },
-  "/Prices-be0": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "9b7eb69f"
-  },
-  "/privacy-476": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "8e33b65d"
-  },
-  "/terms-235": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "445e7840"
-  },
-  "/about-f13": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "360dc931"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/about-6ed": {
-    "__comp": "a7bd4aaa",
-    "__props": "a14d12f5"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/about-4c4": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-0e0": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-261-91b"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/2024/01/01/Garage48-fb9": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-01-01-garage-48812-f77"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/authors/all-sebastien-lorber-articles-495": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+  },
+  "/blog/authors/yangshun-7c6": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+  },
+  "/Prices-be0": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---pricesa-74-cab"
+    },
+    "content": "content---prices-9-b-7-fd5"
+  },
+  "/privacy-476": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---pricesa-74-cab"
+    },
+    "content": "content---privacy-8-e-3-935"
+  },
+  "/terms-235": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---pricesa-74-cab"
+    },
+    "content": "content---terms-445-f2d"
+  },
+  "/about-50c": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---about-360-66a"
+    }
+  },
+  "/about-33c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---abouta-14-337"
+  },
+  "/about-7e6": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-739": {
-    "__comp": "17896441",
-    "content": "d29c4ae5"
-  },
-  "/about/about/-80f": {
-    "__comp": "17896441",
-    "content": "5b4909bd"
-  },
-  "/about/about/Brand meaning-f72": {
-    "__comp": "17896441",
-    "content": "89d0b464"
-  },
-  "/about/about/Company mission-e77": {
-    "__comp": "17896441",
-    "content": "8551a001"
-  },
-  "/about/about/Ethics-3f6": {
-    "__comp": "17896441",
-    "content": "eeb7e7fe"
-  },
-  "/about/about/Logo 🧪-6f4": {
-    "__comp": "17896441",
-    "content": "53e92ca5"
-  },
-  "/about/about/Merchandise-d06": {
-    "__comp": "17896441",
-    "content": "2abfde3f"
-  },
-  "/about/about/Naming etymology-830": {
-    "__comp": "17896441",
-    "content": "c44ef3bc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-d-29-33c"
   },
   "/about/careers/-58b": {
-    "__comp": "17896441",
-    "content": "cc2c2ba8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-careers-cc-2-db4"
   },
   "/about/company/-7f3": {
-    "__comp": "17896441",
-    "content": "6f20a9a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-6-f-2-881"
   },
   "/about/company/All-hands meeting recordings-8d9": {
-    "__comp": "17896441",
-    "content": "eafffeb4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-all-hands-meeting-recordingseaf-cbc"
   },
   "/about/company/Culture and values-e84": {
-    "__comp": "17896441",
-    "content": "ca342816"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-culture-and-valuesca-3-872"
   },
   "/about/company/Equity & fundraising program plan-7aa": {
-    "__comp": "17896441",
-    "content": "8633df2a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-equity-fundraising-program-plan-863-084"
   },
   "/about/company/Press kit-3f9": {
-    "__comp": "17896441",
-    "content": "0fbefc44"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-press-kit-0-fb-d72"
   },
   "/about/company/values/Adapt to change 🏕️-ad1": {
-    "__comp": "17896441",
-    "content": "df1da943"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-adapt-to-change-🏕️-df-1-d6c"
   },
   "/about/company/values/Ethical heart 🌳-2e0": {
-    "__comp": "17896441",
-    "content": "8d9c4aaa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-ethical-heart-🌳-8-d-9-ec5"
   },
   "/about/company/values/Gather value 🍯-867": {
-    "__comp": "17896441",
-    "content": "ac2f09d1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-gather-value-🍯-ac-2-124"
   },
   "/about/company/values/Humbly kind 🧸-332": {
-    "__comp": "17896441",
-    "content": "95e6edfc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-humbly-kind-🧸-95-e-ef0"
   },
   "/about/company/values/New horizons 🏔️-cf3": {
-    "__comp": "17896441",
-    "content": "d444cb64"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-new-horizons-🏔️-d-44-1f0"
   },
   "/about/company/values/Observable mind 🧿-ad0": {
-    "__comp": "17896441",
-    "content": "1859d439"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-observable-mind-🧿-185-972"
   },
   "/about/company/values/Radiate truth 🌞-0e6": {
-    "__comp": "17896441",
-    "content": "e1ea1f19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-radiate-truth-🌞-e-1-e-ed1"
   },
   "/about/company/values/Team effort 🐝-0a9": {
-    "__comp": "17896441",
-    "content": "76c5fa3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-team-effort-🐝-76-c-b63"
   },
   "/about/company/Volunteering-97c": {
-    "__comp": "17896441",
-    "content": "91832639"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteering-918-3b5"
   },
   "/about/Engineering/CAD modelling-56a": {
-    "__comp": "17896441",
-    "content": "6272c507"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-cad-modelling-627-c3f"
   },
   "/about/Engineering/Cloud Infrastructure-849": {
-    "__comp": "17896441",
-    "content": "7b057770"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-cloud-infrastructure-7-b-0-08f"
   },
   "/about/Engineering/Design-b40": {
-    "__comp": "17896441",
-    "content": "11eeb5fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-design-11-e-119"
   },
   "/about/Engineering/Engineering onboarding-df1": {
-    "__comp": "17896441",
-    "content": "d2ae3996"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-engineering-onboardingd-2-a-7da"
   },
   "/about/Engineering/ML Datasets-c1d": {
-    "__comp": "17896441",
-    "content": "79fb9713"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-ml-datasets-79-f-39b"
   },
   "/about/Engineering/Robotics-e63": {
-    "__comp": "17896441",
-    "content": "2ec68d0b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-robotics-2-ec-b3c"
   },
   "/about/Engineering/Tech stack, conventions, environments-8d1": {
-    "__comp": "17896441",
-    "content": "25ef5043"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-tech-stack-conventions-environments-25-e-4f5"
   },
   "/about/Engineering/UX - UI wireframes-c47": {
-    "__comp": "17896441",
-    "content": "56bfa222"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-ux-ui-wireframes-56-b-438"
+  },
+  "/about/motivation/-288": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-614-197"
+  },
+  "/about/motivation/Brand meaning-8b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-brand-meaning-8-ee-10a"
+  },
+  "/about/motivation/Company mission-bae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-company-missione-76-f76"
+  },
+  "/about/motivation/Ethics-b63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-ethicsdd-8-fdb"
+  },
+  "/about/motivation/Logo 🧪-d6a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-logo-🧪-6-d-9-df0"
+  },
+  "/about/motivation/Merchandise-d34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-merchandise-1-f-4-02f"
+  },
+  "/about/motivation/Naming-302": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-motivation-namingacd-5a2"
   },
   "/about/Problems-59e": {
-    "__comp": "17896441",
-    "content": "d548cec3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problemsd-54-10b"
   },
   "/about/products/-865": {
-    "__comp": "17896441",
-    "content": "c6baab2b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-c-6-b-b03"
   },
   "/about/research/-811": {
-    "__comp": "17896441",
-    "content": "29db49fd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-29-d-a03"
   },
   "/docs-49a": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-832": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs-c12": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano-39a": {
-    "__comp": "17896441",
-    "content": "98272d8e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-how-to-setup-remote-desktop-connection-to-jetson-orin-or-nano-982-968"
   },
   "/docs/Jetson Nano setup-dcd": {
-    "__comp": "17896441",
-    "content": "1d110089"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-jetson-nano-setup-1-d-1-d2e"
   },
   "/-e5f": {
-    "__comp": "1df93b7f",
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---pricesa-74-cab"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 > Ethics is a branch of philosophy that deals with the study of what is **morally** right or wrong, good or bad.
 
 Ethics goes beyond current legal status.

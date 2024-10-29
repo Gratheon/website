@@ -1,19 +1,16 @@
 ---
 sidebar_position: 1
-title: 🌻 What we do, why and how
+title: 🌻 Motivation
 ---
 ![](../pexels-nicky-18365421.jpg)
 # Why
 
-[Company Mission](https://www.notion.so/Company-Mission-e052619834d4474793e15f95dba6dd04?pvs=21)
-
-[Problems we are solving](https://www.notion.so/Problems-we-are-solving-15a899e8bf10455c9ef903c6e269af2c?pvs=21) 
-
+- [Company mission](Company%20mission.md)
+- [Problems](../Problems.md)
 # How
 
-[Ethics](https://www.notion.so/Ethics-524cc73d04b24958b6ae617e0c474fd6?pvs=21)
-
-[Culture and values](https://www.notion.so/Culture-and-values-be3138c1cf0a4ebe8628f14448654682?pvs=21) 
+- [Ethics](Ethics.md)
+- [Culture and values](../company/Culture%20and%20values.md)
 
 # What we do
 

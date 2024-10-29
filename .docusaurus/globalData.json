@@ -45,41 +45,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "about/Brand meaning",
-              "path": "/about/about/Brand meaning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/Company mission",
-              "path": "/about/about/Company mission",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/Ethics",
-              "path": "/about/about/Ethics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/index",
-              "path": "/about/about/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/Logo 🧪",
-              "path": "/about/about/Logo 🧪",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/Merchandise",
-              "path": "/about/about/Merchandise",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "about/Naming etymology",
-              "path": "/about/about/Naming etymology",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "careers/Careers",
               "path": "/about/careers/",
               "sidebar": "tutorialSidebar"
@@ -197,6 +162,41 @@
             {
               "id": "index",
               "path": "/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Brand meaning",
+              "path": "/about/motivation/Brand meaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Company mission",
+              "path": "/about/motivation/Company mission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Ethics",
+              "path": "/about/motivation/Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/index",
+              "path": "/about/motivation/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Logo 🧪",
+              "path": "/about/motivation/Logo 🧪",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Merchandise",
+              "path": "/about/motivation/Merchandise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "motivation/Naming",
+              "path": "/about/motivation/Naming",
               "sidebar": "tutorialSidebar"
             },
             {

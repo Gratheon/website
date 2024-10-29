@@ -1,11 +1,11 @@
 {
-  "id": "about/index",
-  "title": "🌻 Why",
+  "id": "motivation/index",
+  "title": "🌻 Motivation",
   "description": "- Company mission",
-  "source": "@site/src/about/about/index.md",
-  "sourceDirName": "about",
-  "slug": "/about/",
-  "permalink": "/about/about/",
+  "source": "@site/src/about/motivation/index.md",
+  "sourceDirName": "motivation",
+  "slug": "/motivation/",
+  "permalink": "/about/motivation/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -13,7 +13,7 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "title": "🌻 Why"
+    "title": "🌻 Motivation"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/about/"
   },
   "next": {
-    "title": "Brand meaning",
-    "permalink": "/about/about/Brand meaning"
+    "title": "Mission",
+    "permalink": "/about/motivation/Company mission"
   }
 }

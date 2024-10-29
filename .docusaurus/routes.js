@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '0e0'),
     exact: true
@@ -49,61 +84,19 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'f13'),
+    component: ComponentCreator('/about', '50c'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '6ed'),
+        component: ComponentCreator('/about', '33c'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '4c4'),
+            component: ComponentCreator('/about', '7e6'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '739'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/',
-                component: ComponentCreator('/about/about/', '80f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Brand meaning',
-                component: ComponentCreator('/about/about/Brand meaning', 'f72'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Company mission',
-                component: ComponentCreator('/about/about/Company mission', 'e77'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Ethics',
-                component: ComponentCreator('/about/about/Ethics', '3f6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Logo 🧪',
-                component: ComponentCreator('/about/about/Logo 🧪', '6f4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Merchandise',
-                component: ComponentCreator('/about/about/Merchandise', 'd06'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/about/Naming etymology',
-                component: ComponentCreator('/about/about/Naming etymology', '830'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -242,6 +235,48 @@ export default [
               {
                 path: '/about/Engineering/UX - UI wireframes',
                 component: ComponentCreator('/about/Engineering/UX - UI wireframes', 'c47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/',
+                component: ComponentCreator('/about/motivation/', '288'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Brand meaning',
+                component: ComponentCreator('/about/motivation/Brand meaning', '8b2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Company mission',
+                component: ComponentCreator('/about/motivation/Company mission', 'bae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Ethics',
+                component: ComponentCreator('/about/motivation/Ethics', 'b63'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Logo 🧪',
+                component: ComponentCreator('/about/motivation/Logo 🧪', 'd6a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Merchandise',
+                component: ComponentCreator('/about/motivation/Merchandise', 'd34'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/motivation/Naming',
+                component: ComponentCreator('/about/motivation/Naming', '302'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

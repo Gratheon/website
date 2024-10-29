@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
-  },
-  "next": {
     "title": "Culture and values",
     "permalink": "/about/company/Culture and values"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan",
+    "permalink": "/about/company/Equity & fundraising program plan"
   }
 }

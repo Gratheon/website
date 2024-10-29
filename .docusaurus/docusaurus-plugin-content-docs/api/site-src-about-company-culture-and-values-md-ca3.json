@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "All-hands meeting recordings",
-    "permalink": "/about/company/All-hands meeting recordings"
+    "title": "👔 Company",
+    "permalink": "/about/company/"
   },
   "next": {
-    "title": "Equity & fundraising program plan",
-    "permalink": "/about/company/Equity & fundraising program plan"
+    "title": "All-hands meeting recordings",
+    "permalink": "/about/company/All-hands meeting recordings"
   }
 }

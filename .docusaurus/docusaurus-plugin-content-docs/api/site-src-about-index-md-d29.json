@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Welcome. This is a garage-phase startup wannabe with big dreams. Feel free to explore.",
+  "description": "Gratheon is a garage-phase self-bootstrapping startup with big dreams.",
   "source": "@site/src/about/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "🌻 What we do, why and how",
-    "permalink": "/about/about/"
+    "title": "🌻 Motivation",
+    "permalink": "/about/motivation/"
   }
 }

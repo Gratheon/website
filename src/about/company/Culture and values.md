@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 
 Cultural values affects how we do things internally, which clients and employees align with us
 
