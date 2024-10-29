@@ -1,0 +1,23 @@
+{
+  "id": "products/Web-app",
+  "title": "Web-app",
+  "description": "Gratheon web-app main job is to provide data analytics about bees that beekeeper owns.",
+  "source": "@site/about/products/Web-app.md",
+  "sourceDirName": "products",
+  "slug": "/products/Web-app",
+  "permalink": "/about/products/Web-app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}

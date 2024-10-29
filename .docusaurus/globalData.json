@@ -200,6 +200,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/Web-app",
+              "path": "/about/products/Web-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "purpose/Brand meaning",
               "path": "/about/purpose/Brand meaning",
               "sidebar": "tutorialSidebar"

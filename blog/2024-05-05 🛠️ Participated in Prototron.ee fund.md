@@ -1,4 +1,4 @@
-![](../../1000004871.jpg)
+![](img/1000004871.jpg)
 
 <!--truncate-->
 
@@ -6,7 +6,7 @@
 - Prototron
     - Brait - [https://www.linkedin.com/in/brait-pilvik/](https://www.linkedin.com/in/brait-pilvik/)
     - Maret
-![](../../Screenshot%202024-04-15%20at%2011.47.35.png)
+![](img/Screenshot%202024-04-15%20at%2011.47.35.png)
 
 - TalTech (Tiit Land rektor - [https://taltech.ee/ulikool/rektoraat](https://taltech.ee/ulikool/rektoraat))
     
@@ -96,12 +96,12 @@ While the solution's AI and IT aspects show promise, there's a pressing need for
 
 It seemed that the team's ambition may be holding them back from fully realizing the potential of their idea. Encouragement and motivation are essential to inspire greater ambition and drive. Building a cohesive and motivated team will be instrumental in overcoming challenges and propelling the idea forward to success
 
-![](../../435094050_10161678545892973_7404118579682025802_n.jpg)
+![](img/435094050_10161678545892973_7404118579682025802_n.jpg)
 
-![](../../436210853_805847201578676_6882231138636034486_n.jpg)
+![](img/436210853_805847201578676_6882231138636034486_n.jpg)
 
-![](../../v0EW02ws.jpg)
+![](img/v0EW02ws.jpg)
 
-![](../../GxLPwRND.jpg)
+![](img/GxLPwRND.jpg)
 
-![](../../eJZl7ryZ.jpg)
+![](img/eJZl7ryZ.jpg)

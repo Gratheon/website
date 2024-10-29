@@ -164,15 +164,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '965'),
+    component: ComponentCreator('/about', '20a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '289'),
+        component: ComponentCreator('/about', '75e'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '66f'),
+            component: ComponentCreator('/about', '8a3'),
             routes: [
               {
                 path: '/about/',
@@ -303,6 +303,12 @@ export default [
               {
                 path: '/about/products/',
                 component: ComponentCreator('/about/products/', '5dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/Web-app',
+                component: ComponentCreator('/about/products/Web-app', 'e94'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
