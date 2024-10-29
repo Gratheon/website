@@ -1,0 +1,24 @@
+{
+  "id": "Engineering/Engineering onboarding",
+  "title": "Engineering onboarding",
+  "description": "Goal of this document is to kickstart your development of the Products",
+  "source": "@site/docs/Engineering/Engineering onboarding.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Engineering onboarding",
+  "permalink": "/docs/Engineering/Engineering onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Engineering onboarding.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design",
+    "permalink": "/docs/Engineering/Design"
+  },
+  "next": {
+    "title": "ML Datasets",
+    "permalink": "/docs/Engineering/ML Datasets"
+  }
+}

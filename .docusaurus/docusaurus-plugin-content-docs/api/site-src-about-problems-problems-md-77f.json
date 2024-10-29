@@ -1,0 +1,25 @@
+{
+  "id": "Problems/Problems",
+  "title": "🌨️ Problems",
+  "description": "💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security",
+  "source": "@site/src/about/Problems/Problems.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/",
+  "permalink": "/about/Problems/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌨️ Problems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔬 Research",
+    "permalink": "/about/research/"
+  },
+  "next": {
+    "title": "Careers",
+    "permalink": "/about/careers/"
+  }
+}

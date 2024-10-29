@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-0e0": {
+  "/blog-18a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,21 +50,49 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-261-91b"
+        "content": "content---blog-743-7fa"
+      },
+      {
+        "content": "content---blog-92-d-c2d"
+      },
+      {
+        "content": "content---blog-77-c-bca"
       }
     ],
     "__props": "__props---blogc-15-573"
   },
-  "/blog/2024/01/01/Garage48-fb9": {
+  "/blog/2023/01/12/ 💶 Pitched to Picus Capital-7b0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-01-01-garage-48812-f77"
+    "content": "content---blog-2023-01-12-💶-pitched-to-picus-capital-5-e-9-a9a"
+  },
+  "/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon-e9b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-11-05-🛰️-participated-in-garage-48-cassini-hackathon-47-a-d1e"
+  },
+  "/blog/2023/11/23/ 📢 Featured in a Delfi article-4be": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-11-23-📢-featured-in-a-delfi-article-6-c-9-809"
   },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -94,167 +122,167 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-e1d": {
+  "/about-92c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-075": {
+  "/about-064": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-941": {
+  "/about-ffd": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/about/-739": {
+  "/about/-498": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-d-29-33c"
+    "content": "content---about-230-53f"
   },
-  "/about/careers/-58b": {
+  "/about/careers/-20c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-careers-cc-2-db4"
+    "content": "content---about-careers-88-a-727"
   },
-  "/about/company/-7f3": {
+  "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-6-f-2-881"
+    "content": "content---about-company-c-38-14c"
   },
-  "/about/company/All-hands meeting recordings-8d9": {
+  "/about/company/Culture and values 🫀/-169": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-all-hands-meeting-recordingseaf-cbc"
+    "content": "content---about-company-culture-and-values-🫀-7-b-6-349"
   },
-  "/about/company/Culture and values-e84": {
+  "/about/company/Culture and values 🫀/Adapt to change 🏕️-46a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-valuesca-3-872"
+    "content": "content---about-company-culture-and-values-🫀-adapt-to-change-🏕️-23-f-d41"
   },
-  "/about/company/Equity & fundraising program plan-7aa": {
+  "/about/company/Culture and values 🫀/Ethical heart 🌳-5bb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-equity-fundraising-program-plan-863-084"
+    "content": "content---about-company-culture-and-values-🫀-ethical-heart-🌳-b-62-fb1"
   },
-  "/about/company/Press kit-3f9": {
+  "/about/company/Culture and values 🫀/Gather value 🍯-d7f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-press-kit-0-fb-d72"
+    "content": "content---about-company-culture-and-values-🫀-gather-value-🍯-8-cc-e09"
   },
-  "/about/company/values/Adapt to change 🏕️-ad1": {
+  "/about/company/Culture and values 🫀/Humbly kind 🧸-5d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-adapt-to-change-🏕️-df-1-d6c"
+    "content": "content---about-company-culture-and-values-🫀-humbly-kind-🧸-ce-1-fc4"
   },
-  "/about/company/values/Ethical heart 🌳-2e0": {
+  "/about/company/Culture and values 🫀/New horizons 🏔️-99b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-ethical-heart-🌳-8-d-9-ec5"
+    "content": "content---about-company-culture-and-values-🫀-new-horizons-🏔️-91-e-40f"
   },
-  "/about/company/values/Gather value 🍯-867": {
+  "/about/company/Culture and values 🫀/Observable mind 🧿-f5c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-gather-value-🍯-ac-2-124"
+    "content": "content---about-company-culture-and-values-🫀-observable-mind-🧿-4-af-1d0"
   },
-  "/about/company/values/Humbly kind 🧸-332": {
+  "/about/company/Culture and values 🫀/Radiate truth 🌞-22e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-humbly-kind-🧸-95-e-ef0"
+    "content": "content---about-company-culture-and-values-🫀-radiate-truth-🌞-12-e-11d"
   },
-  "/about/company/values/New horizons 🏔️-cf3": {
+  "/about/company/Culture and values 🫀/Team effort 🐝-658": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-new-horizons-🏔️-d-44-1f0"
+    "content": "content---about-company-culture-and-values-🫀-team-effort-🐝-b-2-a-196"
   },
-  "/about/company/values/Observable mind 🧿-ad0": {
+  "/about/company/Equity & fundraising program plan-472": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-observable-mind-🧿-185-972"
+    "content": "content---about-company-equity-fundraising-program-plane-58-96d"
   },
-  "/about/company/values/Radiate truth 🌞-0e6": {
+  "/about/company/Meeting recordings-c91": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-radiate-truth-🌞-e-1-e-ed1"
+    "content": "content---about-company-meeting-recordings-13-d-bbe"
   },
-  "/about/company/values/Team effort 🐝-0a9": {
+  "/about/company/Press kit-084": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-values-team-effort-🐝-76-c-b63"
+    "content": "content---about-company-press-kit-275-1df"
   },
-  "/about/company/Volunteering-97c": {
+  "/about/company/Volunteering-d82": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteering-918-3b5"
+    "content": "content---about-company-volunteering-641-2de"
   },
-  "/about/Engineering/CAD modelling-56a": {
+  "/about/Problems/-2cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-cad-modelling-627-c3f"
+    "content": "content---about-problems-fe-3-467"
   },
-  "/about/Engineering/Cloud Infrastructure-849": {
+  "/about/products/-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-cloud-infrastructure-7-b-0-08f"
+    "content": "content---about-products-548-6ee"
   },
-  "/about/Engineering/Design-b40": {
+  "/about/purpose/-f43": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-design-11-e-119"
+    "content": "content---about-purpose-e-26-cd9"
   },
-  "/about/Engineering/Engineering onboarding-df1": {
+  "/about/purpose/Brand meaning-d53": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-engineering-onboardingd-2-a-7da"
+    "content": "content---about-purpose-brand-meaningd-12-8cb"
   },
-  "/about/Engineering/Merchandise-031": {
+  "/about/purpose/Company mission-e87": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-merchandise-350-abc"
+    "content": "content---about-purpose-company-mission-334-5f0"
   },
-  "/about/Engineering/ML Datasets-c1d": {
+  "/about/purpose/Ethics-56c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-ml-datasets-79-f-39b"
+    "content": "content---about-purpose-ethics-646-6c8"
   },
-  "/about/Engineering/Robotics-e63": {
+  "/about/purpose/Logo 🧪-c1f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-robotics-2-ec-b3c"
+    "content": "content---about-purpose-logo-🧪-c-7-d-2d2"
   },
-  "/about/Engineering/Tech stack, conventions, environments-8d1": {
+  "/about/purpose/Naming-844": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-tech-stack-conventions-environments-25-e-4f5"
+    "content": "content---about-purpose-namingc-7-d-a96"
   },
-  "/about/Engineering/UX - UI wireframes-c47": {
+  "/about/research/-af7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-engineering-ux-ui-wireframes-56-b-438"
+    "content": "content---about-research-ae-1-f4f"
   },
-  "/about/Problems-59e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problemsd-54-10b"
-  },
-  "/about/products/-865": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-c-6-b-b03"
-  },
-  "/about/purpose/-f3e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-4-db-ed4"
-  },
-  "/about/purpose/Brand meaning-dbb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-brand-meaningc-76-094"
-  },
-  "/about/purpose/Company mission-398": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-company-mission-02-d-c52"
-  },
-  "/about/purpose/Ethics-65b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-ethicsf-85-0ee"
-  },
-  "/about/purpose/Logo 🧪-07d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-logo-🧪-c-29-a69"
-  },
-  "/about/purpose/Naming-739": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-naming-22-e-ba5"
-  },
-  "/about/research/-811": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-29-d-a03"
-  },
-  "/docs-49a": {
+  "/docs-5dd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-832": {
+  "/docs-428": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c12": {
+  "/docs-0d7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/Engineering/CAD modelling-265": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-cad-modellingd-0-e-9cb"
+  },
+  "/docs/Engineering/Cloud Infrastructure-b86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-cloud-infrastructuree-57-7f2"
+  },
+  "/docs/Engineering/Design-5b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-designae-0-b97"
+  },
+  "/docs/Engineering/Engineering onboarding-84e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-engineering-onboarding-75-b-246"
+  },
+  "/docs/Engineering/Merchandise-f86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-merchandisec-85-5fc"
+  },
+  "/docs/Engineering/ML Datasets-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-ml-datasets-8-e-6-5b8"
+  },
+  "/docs/Engineering/Robotics-807": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-roboticsc-28-99d"
+  },
+  "/docs/Engineering/Tech stack, conventions, environments-19a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-tech-stack-conventions-environmentsd-52-a24"
+  },
+  "/docs/Engineering/UX - UI wireframes-392": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-engineering-ux-ui-wireframesb-3-a-0c8"
   },
   "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano-39a": {
     "__comp": "__comp---theme-doc-item-178-a40",

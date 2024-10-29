@@ -1,0 +1,23 @@
+{
+  "id": "index",
+  "title": "Overview",
+  "description": "Gratheon is a garage-phase self-bootstrapping startup with big dreams.",
+  "source": "@site/about/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/about/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🌻 Purpose",
+    "permalink": "/about/purpose/"
+  }
+}

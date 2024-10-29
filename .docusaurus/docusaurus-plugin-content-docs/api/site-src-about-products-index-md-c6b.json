@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 3,
+    "sidebar_position": 4,
     "title": "🍯 Products"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Team effort 🐝",
-    "permalink": "/about/company/values/Team effort 🐝"
+    "title": "🌨️ Problems",
+    "permalink": "/about/Problems/"
   },
   "next": {
-    "title": "🔬 Research",
-    "permalink": "/about/research/"
+    "title": "👔 Company",
+    "permalink": "/about/company/"
   }
 }

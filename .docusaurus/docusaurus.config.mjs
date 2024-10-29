@@ -80,7 +80,7 @@ export default {
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Gratheon",
         "src": "img/logo_v7w.svg"
       },
       "items": [
@@ -95,9 +95,10 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://gratheon.com/prices",
-          "label": "Pricing",
-          "position": "left"
+          "type": "docSidebar",
+          "sidebarId": "tutorialSidebar",
+          "position": "left",
+          "label": "Docs"
         },
         {
           "to": "/blog",
@@ -105,10 +106,9 @@ export default {
           "position": "left"
         },
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "right",
-          "label": "Docs"
+          "href": "/prices",
+          "label": "Pricing",
+          "position": "left"
         },
         {
           "href": "https://app.gratheon.com/account/authenticate/",
@@ -422,7 +422,7 @@ export default {
       "@docusaurus/plugin-content-docs",
       {
         "id": "api",
-        "path": "src/about",
+        "path": "./about",
         "routeBasePath": "about",
         "sidebarPath": "sidebars.ts"
       }

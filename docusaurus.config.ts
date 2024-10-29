@@ -97,23 +97,26 @@ const config: Config = {
     navbar: {
       title: '',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Gratheon',
         src: 'img/logo_v7w.svg',
       },
       items: [
         {to: '/about', label: 'About', position: 'left'},
         {to: '/about/products', label: 'Products', position: 'left'},
-        {href: 'https://gratheon.com/prices', label: 'Pricing', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
+        
 
 
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
-          position: 'right',
+          position: 'left',
           label: 'Docs',
         },
 
+        {to: '/blog', label: 'Blog', position: 'left'},
+
+        {href: '/prices', label: 'Pricing', position: 'left'},
+        
         {href: 'https://app.gratheon.com/account/authenticate/', label: 'Log in', position: 'right'},
         
       ],
@@ -214,7 +217,7 @@ const config: Config = {
       '@docusaurus/plugin-content-docs',
       {
         id: 'api',
-        path: 'src/about',
+        path: './about',
         routeBasePath: 'about',
         sidebarPath: 'sidebars.ts',
         // ... other options

@@ -1,0 +1,23 @@
+{
+  "id": "company/Culture and values 🫀/Gather value 🍯",
+  "title": "Gather value 🍯",
+  "description": "Bring value, create symbiotic relations, enrich all parties. We bring value to beekeepers and to our team. Grow wider in your abilities and knowledge to bring more impact.",
+  "source": "@site/src/about/company/Culture and values 🫀/Gather value 🍯.md",
+  "sourceDirName": "company/Culture and values 🫀",
+  "slug": "/company/Culture and values 🫀/Gather value 🍯",
+  "permalink": "/about/company/Culture and values 🫀/Gather value 🍯",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethical heart 🌳",
+    "permalink": "/about/company/Culture and values 🫀/Ethical heart 🌳"
+  },
+  "next": {
+    "title": "Humbly kind 🧸",
+    "permalink": "/about/company/Culture and values 🫀/Humbly kind 🧸"
+  }
+}

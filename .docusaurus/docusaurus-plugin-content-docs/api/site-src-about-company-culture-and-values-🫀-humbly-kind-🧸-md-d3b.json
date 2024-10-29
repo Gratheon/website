@@ -1,0 +1,23 @@
+{
+  "id": "company/Culture and values 🫀/Humbly kind 🧸",
+  "title": "Humbly kind 🧸",
+  "description": "",
+  "source": "@site/src/about/company/Culture and values 🫀/Humbly kind 🧸.md",
+  "sourceDirName": "company/Culture and values 🫀",
+  "slug": "/company/Culture and values 🫀/Humbly kind 🧸",
+  "permalink": "/about/company/Culture and values 🫀/Humbly kind 🧸",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gather value 🍯",
+    "permalink": "/about/company/Culture and values 🫀/Gather value 🍯"
+  },
+  "next": {
+    "title": "New horizons 🏔️",
+    "permalink": "/about/company/Culture and values 🫀/New horizons 🏔️"
+  }
+}

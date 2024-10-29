@@ -2,10 +2,22 @@
   "title": " ",
   "items": [
     {
-      "title": "Garage 48 Cassini hackathon → apiary satellite map",
-      "permalink": "/blog/2024/01/01/Garage48",
+      "title": " 📢 Featured in a Delfi article",
+      "permalink": "/blog/2023/11/23/ 📢 Featured in a Delfi article",
       "unlisted": false,
-      "date": "2023-11-05T10:00:00.000Z"
+      "date": "2023-11-23T00:00:00.000Z"
+    },
+    {
+      "title": " 🛰️ Participated in Garage48 Cassini hackathon",
+      "permalink": "/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon",
+      "unlisted": false,
+      "date": "2023-11-05T00:00:00.000Z"
+    },
+    {
+      "title": " 💶 Pitched to Picus Capital",
+      "permalink": "/blog/2023/01/12/ 💶 Pitched to Picus Capital",
+      "unlisted": false,
+      "date": "2023-01-12T00:00:00.000Z"
     }
   ]
 }

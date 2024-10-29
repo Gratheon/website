@@ -1,0 +1,26 @@
+{
+  "id": "purpose/Company mission",
+  "title": "Company mission",
+  "description": "“Harmonize humanity with nature”",
+  "source": "@site/about/purpose/Company mission.md",
+  "sourceDirName": "purpose",
+  "slug": "/purpose/Company mission",
+  "permalink": "/about/purpose/Company mission",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Purpose",
+    "permalink": "/about/purpose/"
+  },
+  "next": {
+    "title": "Brand meaning",
+    "permalink": "/about/purpose/Brand meaning"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "id": "purpose/Ethics",
-  "title": "Ethics",
+  "title": "Ethics ☯️",
   "description": "Ethics is a branch of philosophy that deals with the study of what is morally right or wrong, good or bad.",
   "source": "@site/src/about/purpose/Ethics.md",
   "sourceDirName": "purpose",
@@ -12,7 +12,8 @@
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 4
+    "sidebar_position": 4,
+    "title": "Ethics ☯️"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +21,7 @@
     "permalink": "/about/purpose/Logo 🧪"
   },
   "next": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
+    "title": "🌨️ Problems",
+    "permalink": "/about/Problems/"
   }
 }

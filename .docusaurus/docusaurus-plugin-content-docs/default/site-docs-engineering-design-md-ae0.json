@@ -1,0 +1,24 @@
+{
+  "id": "Engineering/Design",
+  "title": "Design",
+  "description": "Facebook groups / contractors may help here https://www.facebook.com/groups/142661069830141/",
+  "source": "@site/docs/Engineering/Design.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Design",
+  "permalink": "/docs/Engineering/Design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Design.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloud Infrastructure",
+    "permalink": "/docs/Engineering/Cloud Infrastructure"
+  },
+  "next": {
+    "title": "Engineering onboarding",
+    "permalink": "/docs/Engineering/Engineering onboarding"
+  }
+}

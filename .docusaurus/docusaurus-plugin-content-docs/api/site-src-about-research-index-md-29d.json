@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 6,
   "frontMatter": {
-    "sidebar_position": 4,
+    "sidebar_position": 6,
     "title": "🔬 Research"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🍯 Products",
-    "permalink": "/about/products/"
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
   },
   "next": {
-    "title": "CAD modelling",
-    "permalink": "/about/Engineering/CAD modelling"
+    "title": "Careers",
+    "permalink": "/about/careers/"
   }
 }

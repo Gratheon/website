@@ -13,6 +13,10 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/Engineering/UX - UI wireframes"
+  },
   "next": {
     "title": "Jetson Nano setup",
     "permalink": "/docs/Jetson Nano setup"

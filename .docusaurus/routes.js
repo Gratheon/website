@@ -39,12 +39,22 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '0e0'),
+    component: ComponentCreator('/blog', '18a'),
     exact: true
   },
   {
-    path: '/blog/2024/01/01/Garage48',
-    component: ComponentCreator('/blog/2024/01/01/Garage48', 'fb9'),
+    path: '/blog/2023/01/12/ 💶 Pitched to Picus Capital',
+    component: ComponentCreator('/blog/2023/01/12/ 💶 Pitched to Picus Capital', '7b0'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon',
+    component: ComponentCreator('/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon', 'e9b'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/11/23/ 📢 Featured in a Delfi article',
+    component: ComponentCreator('/blog/2023/11/23/ 📢 Featured in a Delfi article', '4be'),
     exact: true
   },
   {
@@ -69,217 +79,163 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'e1d'),
+    component: ComponentCreator('/about', '92c'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '075'),
+        component: ComponentCreator('/about', '064'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '941'),
+            component: ComponentCreator('/about', 'ffd'),
             routes: [
               {
                 path: '/about/',
-                component: ComponentCreator('/about/', '739'),
+                component: ComponentCreator('/about/', '498'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/careers/',
-                component: ComponentCreator('/about/careers/', '58b'),
+                component: ComponentCreator('/about/careers/', '20c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/company/',
-                component: ComponentCreator('/about/company/', '7f3'),
+                component: ComponentCreator('/about/company/', '4f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/All-hands meeting recordings',
-                component: ComponentCreator('/about/company/All-hands meeting recordings', '8d9'),
+                path: '/about/company/Culture and values 🫀/',
+                component: ComponentCreator('/about/company/Culture and values 🫀/', '169'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values',
-                component: ComponentCreator('/about/company/Culture and values', 'e84'),
+                path: '/about/company/Culture and values 🫀/Adapt to change 🏕️',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Adapt to change 🏕️', '46a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Ethical heart 🌳',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Ethical heart 🌳', '5bb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Gather value 🍯',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Gather value 🍯', 'd7f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Humbly kind 🧸',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Humbly kind 🧸', '5d3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/New horizons 🏔️',
+                component: ComponentCreator('/about/company/Culture and values 🫀/New horizons 🏔️', '99b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Observable mind 🧿',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Observable mind 🧿', 'f5c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Radiate truth 🌞',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Radiate truth 🌞', '22e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Culture and values 🫀/Team effort 🐝',
+                component: ComponentCreator('/about/company/Culture and values 🫀/Team effort 🐝', '658'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/company/Equity & fundraising program plan',
-                component: ComponentCreator('/about/company/Equity & fundraising program plan', '7aa'),
+                component: ComponentCreator('/about/company/Equity & fundraising program plan', '472'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Meeting recordings',
+                component: ComponentCreator('/about/company/Meeting recordings', 'c91'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/company/Press kit',
-                component: ComponentCreator('/about/company/Press kit', '3f9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Adapt to change 🏕️',
-                component: ComponentCreator('/about/company/values/Adapt to change 🏕️', 'ad1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Ethical heart 🌳',
-                component: ComponentCreator('/about/company/values/Ethical heart 🌳', '2e0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Gather value 🍯',
-                component: ComponentCreator('/about/company/values/Gather value 🍯', '867'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Humbly kind 🧸',
-                component: ComponentCreator('/about/company/values/Humbly kind 🧸', '332'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/New horizons 🏔️',
-                component: ComponentCreator('/about/company/values/New horizons 🏔️', 'cf3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Observable mind 🧿',
-                component: ComponentCreator('/about/company/values/Observable mind 🧿', 'ad0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Radiate truth 🌞',
-                component: ComponentCreator('/about/company/values/Radiate truth 🌞', '0e6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/values/Team effort 🐝',
-                component: ComponentCreator('/about/company/values/Team effort 🐝', '0a9'),
+                component: ComponentCreator('/about/company/Press kit', '084'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/company/Volunteering',
-                component: ComponentCreator('/about/company/Volunteering', '97c'),
+                component: ComponentCreator('/about/company/Volunteering', 'd82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Engineering/CAD modelling',
-                component: ComponentCreator('/about/Engineering/CAD modelling', '56a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Cloud Infrastructure',
-                component: ComponentCreator('/about/Engineering/Cloud Infrastructure', '849'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Design',
-                component: ComponentCreator('/about/Engineering/Design', 'b40'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Engineering onboarding',
-                component: ComponentCreator('/about/Engineering/Engineering onboarding', 'df1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Merchandise',
-                component: ComponentCreator('/about/Engineering/Merchandise', '031'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/ML Datasets',
-                component: ComponentCreator('/about/Engineering/ML Datasets', 'c1d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Robotics',
-                component: ComponentCreator('/about/Engineering/Robotics', 'e63'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/Tech stack, conventions, environments',
-                component: ComponentCreator('/about/Engineering/Tech stack, conventions, environments', '8d1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Engineering/UX - UI wireframes',
-                component: ComponentCreator('/about/Engineering/UX - UI wireframes', 'c47'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Problems',
-                component: ComponentCreator('/about/Problems', '59e'),
+                path: '/about/Problems/',
+                component: ComponentCreator('/about/Problems/', '2cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/products/',
-                component: ComponentCreator('/about/products/', '865'),
+                component: ComponentCreator('/about/products/', '5dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/',
-                component: ComponentCreator('/about/purpose/', 'f3e'),
+                component: ComponentCreator('/about/purpose/', 'f43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/Brand meaning',
-                component: ComponentCreator('/about/purpose/Brand meaning', 'dbb'),
+                component: ComponentCreator('/about/purpose/Brand meaning', 'd53'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/Company mission',
-                component: ComponentCreator('/about/purpose/Company mission', '398'),
+                component: ComponentCreator('/about/purpose/Company mission', 'e87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/Ethics',
-                component: ComponentCreator('/about/purpose/Ethics', '65b'),
+                component: ComponentCreator('/about/purpose/Ethics', '56c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/Logo 🧪',
-                component: ComponentCreator('/about/purpose/Logo 🧪', '07d'),
+                component: ComponentCreator('/about/purpose/Logo 🧪', 'c1f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/purpose/Naming',
-                component: ComponentCreator('/about/purpose/Naming', '739'),
+                component: ComponentCreator('/about/purpose/Naming', '844'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/research/',
-                component: ComponentCreator('/about/research/', '811'),
+                component: ComponentCreator('/about/research/', 'af7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -291,16 +247,70 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '49a'),
+    component: ComponentCreator('/docs', '5dd'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '832'),
+        component: ComponentCreator('/docs', '428'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c12'),
+            component: ComponentCreator('/docs', '0d7'),
             routes: [
+              {
+                path: '/docs/Engineering/CAD modelling',
+                component: ComponentCreator('/docs/Engineering/CAD modelling', '265'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Cloud Infrastructure',
+                component: ComponentCreator('/docs/Engineering/Cloud Infrastructure', 'b86'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Design',
+                component: ComponentCreator('/docs/Engineering/Design', '5b9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Engineering onboarding',
+                component: ComponentCreator('/docs/Engineering/Engineering onboarding', '84e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Merchandise',
+                component: ComponentCreator('/docs/Engineering/Merchandise', 'f86'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/ML Datasets',
+                component: ComponentCreator('/docs/Engineering/ML Datasets', '1ff'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Robotics',
+                component: ComponentCreator('/docs/Engineering/Robotics', '807'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/Tech stack, conventions, environments',
+                component: ComponentCreator('/docs/Engineering/Tech stack, conventions, environments', '19a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Engineering/UX - UI wireframes',
+                component: ComponentCreator('/docs/Engineering/UX - UI wireframes', '392'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/How to setup Remote Desktop connection to Jetson Orin or Nano',
                 component: ComponentCreator('/docs/How to setup Remote Desktop connection to Jetson Orin or Nano', '39a'),

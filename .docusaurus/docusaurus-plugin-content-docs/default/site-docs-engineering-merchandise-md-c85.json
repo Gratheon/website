@@ -1,0 +1,26 @@
+{
+  "id": "Engineering/Merchandise",
+  "title": "Merchandise",
+  "description": "Design",
+  "source": "@site/docs/Engineering/Merchandise.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Merchandise",
+  "permalink": "/docs/Engineering/Merchandise",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Merchandise.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Datasets",
+    "permalink": "/docs/Engineering/ML Datasets"
+  },
+  "next": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/Engineering/Robotics"
+  }
+}

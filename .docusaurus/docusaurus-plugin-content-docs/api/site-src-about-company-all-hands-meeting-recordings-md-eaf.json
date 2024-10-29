@@ -1,6 +1,6 @@
 {
   "id": "company/All-hands meeting recordings",
-  "title": "All-hands meeting recordings",
+  "title": "All-hands meeting recordings 🎥",
   "description": "Topics for QA meeting (10 july 2024)",
   "source": "@site/src/about/company/All-hands meeting recordings.md",
   "sourceDirName": "company",
@@ -10,10 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "All-hands meeting recordings 🎥"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Culture and values",
+    "title": "Culture and values 🫀",
     "permalink": "/about/company/Culture and values"
   },
   "next": {

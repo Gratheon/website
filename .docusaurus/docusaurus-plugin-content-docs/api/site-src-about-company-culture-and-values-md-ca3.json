@@ -1,6 +1,6 @@
 {
   "id": "company/Culture and values",
-  "title": "Culture and values",
+  "title": "Culture and values 🫀",
   "description": "Cultural values affects how we do things internally, which clients and employees align with us",
   "source": "@site/src/about/company/Culture and values.md",
   "sourceDirName": "company",
@@ -12,7 +12,8 @@
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
-    "sidebar_position": 0
+    "sidebar_position": 0,
+    "title": "Culture and values 🫀"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +21,7 @@
     "permalink": "/about/company/"
   },
   "next": {
-    "title": "All-hands meeting recordings",
-    "permalink": "/about/company/All-hands meeting recordings"
+    "title": "Adapt to change 🏕️",
+    "permalink": "/about/company/Culture and values 🫀/Adapt to change 🏕️"
   }
 }

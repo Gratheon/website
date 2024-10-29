@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 2,
+    "sidebar_position": 5,
     "title": "👔 Company"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ethics",
-    "permalink": "/about/purpose/Ethics"
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
   },
   "next": {
-    "title": "Culture and values",
-    "permalink": "/about/company/Culture and values"
+    "title": "Culture and values 🫀",
+    "permalink": "/about/company/Culture and values 🫀/"
   }
 }

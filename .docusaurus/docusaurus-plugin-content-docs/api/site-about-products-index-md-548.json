@@ -1,0 +1,27 @@
+{
+  "id": "products/index",
+  "title": "🍯 Products",
+  "description": "→ Build something beekeepers want → Talk to the customers & write code",
+  "source": "@site/about/products/index.md",
+  "sourceDirName": "products",
+  "slug": "/products/",
+  "permalink": "/about/products/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "🍯 Products"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌨️ Problems",
+    "permalink": "/about/Problems/"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}

@@ -8,8 +8,53 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "How to setup Remote Desktop connection to Jetson Orin or Nano",
+          "mainDocId": "Engineering/CAD modelling",
           "docs": [
+            {
+              "id": "Engineering/CAD modelling",
+              "path": "/docs/Engineering/CAD modelling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Cloud Infrastructure",
+              "path": "/docs/Engineering/Cloud Infrastructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Design",
+              "path": "/docs/Engineering/Design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Engineering onboarding",
+              "path": "/docs/Engineering/Engineering onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Merchandise",
+              "path": "/docs/Engineering/Merchandise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/ML Datasets",
+              "path": "/docs/Engineering/ML Datasets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Robotics",
+              "path": "/docs/Engineering/Robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Tech stack, conventions, environments",
+              "path": "/docs/Engineering/Tech stack, conventions, environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/UX - UI wireframes",
+              "path": "/docs/Engineering/UX - UI wireframes",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "How to setup Remote Desktop connection to Jetson Orin or Nano",
               "path": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano",
@@ -25,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano",
-                "label": "How to setup Remote Desktop connection to Jetson Orin or Nano"
+                "path": "/docs/Engineering/CAD modelling",
+                "label": "Engineering/CAD modelling"
               }
             }
           }
@@ -50,13 +95,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/All-hands meeting recordings",
-              "path": "/about/company/All-hands meeting recordings",
+              "id": "company/Culture and values 🫀/Adapt to change 🏕️",
+              "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values",
-              "path": "/about/company/Culture and values",
+              "id": "company/Culture and values 🫀/Ethical heart 🌳",
+              "path": "/about/company/Culture and values 🫀/Ethical heart 🌳",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/Gather value 🍯",
+              "path": "/about/company/Culture and values 🫀/Gather value 🍯",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/Humbly kind 🧸",
+              "path": "/about/company/Culture and values 🫀/Humbly kind 🧸",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/index",
+              "path": "/about/company/Culture and values 🫀/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/New horizons 🏔️",
+              "path": "/about/company/Culture and values 🫀/New horizons 🏔️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/Observable mind 🧿",
+              "path": "/about/company/Culture and values 🫀/Observable mind 🧿",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/Radiate truth 🌞",
+              "path": "/about/company/Culture and values 🫀/Radiate truth 🌞",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values 🫀/Team effort 🐝",
+              "path": "/about/company/Culture and values 🫀/Team effort 🐝",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -70,48 +150,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Meeting recordings",
+              "path": "/about/company/Meeting recordings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Press kit",
               "path": "/about/company/Press kit",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Adapt to change 🏕️",
-              "path": "/about/company/values/Adapt to change 🏕️",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Ethical heart 🌳",
-              "path": "/about/company/values/Ethical heart 🌳",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Gather value 🍯",
-              "path": "/about/company/values/Gather value 🍯",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Humbly kind 🧸",
-              "path": "/about/company/values/Humbly kind 🧸",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/New horizons 🏔️",
-              "path": "/about/company/values/New horizons 🏔️",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Observable mind 🧿",
-              "path": "/about/company/values/Observable mind 🧿",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Radiate truth 🌞",
-              "path": "/about/company/values/Radiate truth 🌞",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/values/Team effort 🐝",
-              "path": "/about/company/values/Team effort 🐝",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -120,58 +165,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering/CAD modelling",
-              "path": "/about/Engineering/CAD modelling",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Cloud Infrastructure",
-              "path": "/about/Engineering/Cloud Infrastructure",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Design",
-              "path": "/about/Engineering/Design",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Engineering onboarding",
-              "path": "/about/Engineering/Engineering onboarding",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Merchandise",
-              "path": "/about/Engineering/Merchandise",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/ML Datasets",
-              "path": "/about/Engineering/ML Datasets",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Robotics",
-              "path": "/about/Engineering/Robotics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Tech stack, conventions, environments",
-              "path": "/about/Engineering/Tech stack, conventions, environments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/UX - UI wireframes",
-              "path": "/about/Engineering/UX - UI wireframes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "index",
               "path": "/about/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems",
-              "path": "/about/Problems",
+              "id": "Problems/index",
+              "path": "/about/Problems/",
               "sidebar": "tutorialSidebar"
             },
             {

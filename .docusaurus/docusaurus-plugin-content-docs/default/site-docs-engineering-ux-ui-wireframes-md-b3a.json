@@ -1,0 +1,24 @@
+{
+  "id": "Engineering/UX - UI wireframes",
+  "title": "UX - UI wireframes",
+  "description": "Page views",
+  "source": "@site/docs/Engineering/UX - UI wireframes.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/UX - UI wireframes",
+  "permalink": "/docs/Engineering/UX - UI wireframes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/UX - UI wireframes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/docs/Engineering/Tech stack, conventions, environments"
+  },
+  "next": {
+    "title": "How to setup Remote Desktop connection to Jetson Orin or Nano",
+    "permalink": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano"
+  }
+}

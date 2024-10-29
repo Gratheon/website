@@ -1,0 +1,27 @@
+{
+  "id": "company/Culture and values 🫀/index",
+  "title": "Culture and values 🫀",
+  "description": "Cultural values affects how we do things internally, which clients and employees align with us",
+  "source": "@site/about/company/Culture and values 🫀/index.md",
+  "sourceDirName": "company/Culture and values 🫀",
+  "slug": "/company/Culture and values 🫀/",
+  "permalink": "/about/company/Culture and values 🫀/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "Culture and values 🫀"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  },
+  "next": {
+    "title": "Adapt to change 🏕️",
+    "permalink": "/about/company/Culture and values 🫀/Adapt to change 🏕️"
+  }
+}

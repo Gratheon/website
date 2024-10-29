@@ -1,0 +1,24 @@
+{
+  "id": "Engineering/Cloud Infrastructure",
+  "title": "Cloud Infrastructure",
+  "description": "App is fully hosted on DigitalOcean, Ubuntu 20.04",
+  "source": "@site/docs/Engineering/Cloud Infrastructure.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Cloud Infrastructure",
+  "permalink": "/docs/Engineering/Cloud Infrastructure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Cloud Infrastructure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAD modelling",
+    "permalink": "/docs/Engineering/CAD modelling"
+  },
+  "next": {
+    "title": "Design",
+    "permalink": "/docs/Engineering/Design"
+  }
+}

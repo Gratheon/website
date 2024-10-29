@@ -1,7 +1,7 @@
 {
   "id": "purpose/index",
-  "title": "🌻 Motivation",
-  "description": "- Company mission",
+  "title": "🌻 Purpose",
+  "description": "> We help 🧑🏻‍🚀 beekeepers with 🐝 AI observability and 🤖 robotic automation. We provide a Web-app and develop Entrance Observer and a Robotic Beehive so that beekeepers become more efficient and their colonies stay healthy.",
   "source": "@site/src/about/purpose/index.md",
   "sourceDirName": "purpose",
   "slug": "/purpose/",
@@ -13,7 +13,7 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "title": "🌻 Motivation"
+    "title": "🌻 Purpose"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
