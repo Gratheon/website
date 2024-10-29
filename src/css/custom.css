@@ -62,6 +62,10 @@
         font-family: "PT Serif Caption", serif;
     }
 
+    nav{
+        display: block;
+    }
+
     .navbar__logo{
         height: 2.3rem;
         margin-top:-10px;
@@ -212,6 +216,8 @@
       margin: 0;
       padding: 0;
   }
+
+  nav
 
 
   img {
