@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Gratheon is a garage-phase self-bootstrapping startup with big dreams.",
+  "description": "Gratheon is a garage-phase bootstrapping startup with big dreams. See 📑 deck for quick overview.",
   "source": "@site/about/index.md",
   "sourceDirName": ".",
   "slug": "/",

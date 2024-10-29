@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "rating": 100
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "💀Intrusive inspections",

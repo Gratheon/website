@@ -1,0 +1,23 @@
+{
+  "id": "Problems/Poor ventilation",
+  "title": "Poor ventilation",
+  "description": "Some beehives have poor ventilation. Bees during winter die because of this → Overwintering collapse",
+  "source": "@site/about/Problems/Poor ventilation.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/Poor ventilation",
+  "permalink": "/about/Problems/Poor ventilation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "❄️ Overwintering collapse",
+    "permalink": "/about/Problems/❄️ Overwintering collapse"
+  },
+  "next": {
+    "title": "🌲 Distant locations",
+    "permalink": "/about/Problems/🌲 Distant locations"
+  }
+}

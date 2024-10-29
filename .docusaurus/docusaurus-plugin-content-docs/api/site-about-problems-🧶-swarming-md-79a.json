@@ -1,0 +1,26 @@
+{
+  "id": "Problems/🧶 Swarming",
+  "title": "🧶 Swarming",
+  "description": "Swarming is natural and good. This is how bee colony reproduces.",
+  "source": "@site/about/Problems/🧶 Swarming.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🧶 Swarming",
+  "permalink": "/about/Problems/🧶 Swarming",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 70,
+    "class": "beekeeping practices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Infestations",
+    "permalink": "/about/Problems/🦀 Infestations"
+  },
+  "next": {
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
+  }
+}

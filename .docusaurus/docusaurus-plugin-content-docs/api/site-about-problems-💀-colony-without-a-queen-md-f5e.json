@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "class": "internal state",
+    "prio": "60"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👁️Time-consuming inspections",
-    "permalink": "/about/Problems/👁️Time-consuming inspections"
+    "title": "💀 Intrusive inspections",
+    "permalink": "/about/Problems/💀 Intrusive inspections"
   },
   "next": {
-    "title": "💀Intrusive inspections",
-    "permalink": "/about/Problems/💀Intrusive inspections"
+    "title": "💢 Aggressive bee colonies",
+    "permalink": "/about/Problems/💢 Aggressive bee colonies"
   }
 }

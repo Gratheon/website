@@ -1,0 +1,23 @@
+{
+  "id": "Problems/Colony with drone-laying queen",
+  "title": "Colony with drone-laying queen",
+  "description": "",
+  "source": "@site/about/Problems/Colony with drone-laying queen.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/Colony with drone-laying queen",
+  "permalink": "/about/Problems/Colony with drone-laying queen",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "❄️ Overwintering collapse",
+    "permalink": "/about/Problems/❄️ Overwintering collapse"
+  },
+  "next": {
+    "title": "🌲 Distant locations",
+    "permalink": "/about/Problems/🌲 Distant locations"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Problems/🦀 Infestations",
+  "title": "🦀 Infestations",
+  "description": "Hive infestations weaken colonies, lead to viral infections, cause deformed wings, uncapped pupae",
+  "source": "@site/about/Problems/🦀 Infestations.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🦀 Infestations",
+  "permalink": "/about/Problems/🦀 Infestations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "external influence",
+    "priority": 80
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Diseases",
+    "permalink": "/about/Problems/🦀 Diseases"
+  },
+  "next": {
+    "title": "🧶 Swarming",
+    "permalink": "/about/Problems/🧶 Swarming"
+  }
+}

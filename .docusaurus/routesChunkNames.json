@@ -360,17 +360,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-0b7": {
+  "/about-384": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-569": {
+  "/about-d6c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-8d9": {
+  "/about-e55": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -384,6 +384,10 @@
   "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-c-38-14c"
+  },
+  "/about/company/❤️‍🔥 Volunteering-acf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-❤️‍🔥-volunteering-533-250"
   },
   "/about/company/Culture and values 🫀/-169": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -445,10 +449,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-team-artjom-kurapov-6-af-109"
   },
-  "/about/company/Volunteering-d82": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteering-641-2de"
-  },
   "/about/company/Volunteers/Aleksei Boris-392": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteers-aleksei-borisc-7-b-ff9"
@@ -469,57 +469,73 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problems-❄️-overwintering-collapsed-5-e-7ca"
   },
-  "/about/Problems/🌲Distant locations-a3d": {
+  "/about/Problems/🌲 Distant locations-638": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌲-distant-locations-298-fb6"
+    "content": "content---about-problems-🌲-distant-locations-125-bb1"
   },
-  "/about/Problems/🌻Insufficient pollination-6b4": {
+  "/about/Problems/🌻 Insufficient pollination-a86": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌻-insufficient-pollination-4-cd-f2b"
+    "content": "content---about-problems-🌻-insufficient-pollination-40-d-721"
   },
-  "/about/Problems/🍽️Colony starvation-1ea": {
+  "/about/Problems/🍽️ Colony starvation-bc0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🍽️-colony-starvationf-01-19e"
+    "content": "content---about-problems-🍽️-colony-starvationc-2-e-883"
   },
-  "/about/Problems/🏘️Multiple apiaries-a41": {
+  "/about/Problems/🏘️ Multiple apiaries-558": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🏘️-multiple-apiaries-6-ae-382"
+    "content": "content---about-problems-🏘️-multiple-apiaries-1-d-6-7a9"
   },
-  "/about/Problems/👁️Observability of bee colony-c19": {
+  "/about/Problems/👁️ Observability of bee colony-0fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-👁️-observability-of-bee-colony-455-7df"
+    "content": "content---about-problems-👁️-observability-of-bee-colony-982-927"
   },
-  "/about/Problems/👁️Time-consuming inspections-5e7": {
+  "/about/Problems/👁️ Time-consuming inspections-e43": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-👁️-time-consuming-inspections-311-912"
+    "content": "content---about-problems-👁️-time-consuming-inspections-849-801"
+  },
+  "/about/Problems/💀 Colony with drone-laying queen-dad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-colony-with-drone-laying-queen-91-f-e3c"
+  },
+  "/about/Problems/💀 Intrusive inspections-594": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-intrusive-inspections-0-a-3-9e9"
   },
   "/about/Problems/💀Colony without a queen-081": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problems-💀-colony-without-a-queenf-5-e-c0e"
   },
-  "/about/Problems/💀Intrusive inspections-06f": {
+  "/about/Problems/💢 Aggressive bee colonies-3b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💀-intrusive-inspectionsbd-9-730"
+    "content": "content---about-problems-💢-aggressive-bee-colonies-1-b-1-6ee"
   },
-  "/about/Problems/💪🏻Physical labor-028": {
+  "/about/Problems/💢 Hornet attacks-c3a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💪🏻-physical-labor-3-d-6-f8f"
+    "content": "content---about-problems-💢-hornet-attacks-1-af-18b"
   },
-  "/about/Problems/💪🏻Unscalable work-ac1": {
+  "/about/Problems/💪🏻 Physical labor-a28": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💪🏻-unscalable-work-418-683"
+    "content": "content---about-problems-💪🏻-physical-labor-981-00c"
   },
-  "/about/Problems/🦀Diseases-786": {
+  "/about/Problems/💪🏻 Unscalable work-430": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🦀-diseases-1-c-3-445"
+    "content": "content---about-problems-💪🏻-unscalable-workc-88-39e"
   },
-  "/about/Problems/🦀Infestations-f5b": {
+  "/about/Problems/🦀 Diseases-3f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🦀-infestations-79-f-7bd"
+    "content": "content---about-problems-🦀-diseasescdb-7bb"
   },
-  "/about/Problems/🧶Swarming-f4a": {
+  "/about/Problems/🦀 Infestations-64a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🧶-swarming-2-dd-278"
+    "content": "content---about-problems-🦀-infestations-862-f12"
+  },
+  "/about/Problems/🧶 Swarming-095": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🧶-swarming-79-a-c1d"
+  },
+  "/about/Problems/Poor hive ventilation-183": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-poor-hive-ventilation-34-d-a16"
   },
   "/about/products/-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -549,10 +565,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-e-26-cd9"
   },
-  "/about/purpose/Brand meaning-d53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-brand-meaningd-12-8cb"
-  },
   "/about/purpose/Company mission-e87": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-company-mission-334-5f0"
@@ -568,6 +580,10 @@
   "/about/purpose/Naming-844": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-namingc-7-d-a96"
+  },
+  "/about/purpose/Symbolism-cbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-symbolism-09-c-a3b"
   },
   "/about/research/-af7": {
     "__comp": "__comp---theme-doc-item-178-a40",

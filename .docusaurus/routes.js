@@ -164,15 +164,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '0b7'),
+    component: ComponentCreator('/about', '384'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '569'),
+        component: ComponentCreator('/about', 'd6c'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8d9'),
+            component: ComponentCreator('/about', 'e55'),
             routes: [
               {
                 path: '/about/',
@@ -189,6 +189,12 @@ export default [
               {
                 path: '/about/company/',
                 component: ComponentCreator('/about/company/', '4f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/❤️‍🔥 Volunteering',
+                component: ComponentCreator('/about/company/❤️‍🔥 Volunteering', 'acf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -283,12 +289,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Volunteering',
-                component: ComponentCreator('/about/company/Volunteering', 'd82'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/Volunteers/Aleksei Boris',
                 component: ComponentCreator('/about/company/Volunteers/Aleksei Boris', '392'),
                 exact: true,
@@ -319,38 +319,50 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🌲Distant locations',
-                component: ComponentCreator('/about/Problems/🌲Distant locations', 'a3d'),
+                path: '/about/Problems/🌲 Distant locations',
+                component: ComponentCreator('/about/Problems/🌲 Distant locations', '638'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🌻Insufficient pollination',
-                component: ComponentCreator('/about/Problems/🌻Insufficient pollination', '6b4'),
+                path: '/about/Problems/🌻 Insufficient pollination',
+                component: ComponentCreator('/about/Problems/🌻 Insufficient pollination', 'a86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🍽️Colony starvation',
-                component: ComponentCreator('/about/Problems/🍽️Colony starvation', '1ea'),
+                path: '/about/Problems/🍽️ Colony starvation',
+                component: ComponentCreator('/about/Problems/🍽️ Colony starvation', 'bc0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🏘️Multiple apiaries',
-                component: ComponentCreator('/about/Problems/🏘️Multiple apiaries', 'a41'),
+                path: '/about/Problems/🏘️ Multiple apiaries',
+                component: ComponentCreator('/about/Problems/🏘️ Multiple apiaries', '558'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/👁️Observability of bee colony',
-                component: ComponentCreator('/about/Problems/👁️Observability of bee colony', 'c19'),
+                path: '/about/Problems/👁️ Observability of bee colony',
+                component: ComponentCreator('/about/Problems/👁️ Observability of bee colony', '0fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/👁️Time-consuming inspections',
-                component: ComponentCreator('/about/Problems/👁️Time-consuming inspections', '5e7'),
+                path: '/about/Problems/👁️ Time-consuming inspections',
+                component: ComponentCreator('/about/Problems/👁️ Time-consuming inspections', 'e43'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💀 Colony with drone-laying queen',
+                component: ComponentCreator('/about/Problems/💀 Colony with drone-laying queen', 'dad'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💀 Intrusive inspections',
+                component: ComponentCreator('/about/Problems/💀 Intrusive inspections', '594'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -361,38 +373,50 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/💀Intrusive inspections',
-                component: ComponentCreator('/about/Problems/💀Intrusive inspections', '06f'),
+                path: '/about/Problems/💢 Aggressive bee colonies',
+                component: ComponentCreator('/about/Problems/💢 Aggressive bee colonies', '3b2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/💪🏻Physical labor',
-                component: ComponentCreator('/about/Problems/💪🏻Physical labor', '028'),
+                path: '/about/Problems/💢 Hornet attacks',
+                component: ComponentCreator('/about/Problems/💢 Hornet attacks', 'c3a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/💪🏻Unscalable work',
-                component: ComponentCreator('/about/Problems/💪🏻Unscalable work', 'ac1'),
+                path: '/about/Problems/💪🏻 Physical labor',
+                component: ComponentCreator('/about/Problems/💪🏻 Physical labor', 'a28'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🦀Diseases',
-                component: ComponentCreator('/about/Problems/🦀Diseases', '786'),
+                path: '/about/Problems/💪🏻 Unscalable work',
+                component: ComponentCreator('/about/Problems/💪🏻 Unscalable work', '430'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🦀Infestations',
-                component: ComponentCreator('/about/Problems/🦀Infestations', 'f5b'),
+                path: '/about/Problems/🦀 Diseases',
+                component: ComponentCreator('/about/Problems/🦀 Diseases', '3f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Problems/🧶Swarming',
-                component: ComponentCreator('/about/Problems/🧶Swarming', 'f4a'),
+                path: '/about/Problems/🦀 Infestations',
+                component: ComponentCreator('/about/Problems/🦀 Infestations', '64a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🧶 Swarming',
+                component: ComponentCreator('/about/Problems/🧶 Swarming', '095'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/Poor hive ventilation',
+                component: ComponentCreator('/about/Problems/Poor hive ventilation', '183'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -439,12 +463,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/purpose/Brand meaning',
-                component: ComponentCreator('/about/purpose/Brand meaning', 'd53'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/purpose/Company mission',
                 component: ComponentCreator('/about/purpose/Company mission', 'e87'),
                 exact: true,
@@ -465,6 +483,12 @@ export default [
               {
                 path: '/about/purpose/Naming',
                 component: ComponentCreator('/about/purpose/Naming', '844'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/purpose/Symbolism',
+                component: ComponentCreator('/about/purpose/Symbolism', 'cbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

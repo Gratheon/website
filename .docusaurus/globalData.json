@@ -95,6 +95,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/❤️‍🔥 Volunteering",
+              "path": "/about/company/❤️‍🔥 Volunteering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Culture and values 🫀/Adapt to change 🏕️",
               "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
@@ -175,11 +180,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteering",
-              "path": "/about/company/Volunteering",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Volunteers/Aleksei Boris",
               "path": "/about/company/Volunteers/Aleksei Boris",
               "sidebar": "tutorialSidebar"
@@ -205,33 +205,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🌲Distant locations",
-              "path": "/about/Problems/🌲Distant locations",
+              "id": "Problems/🌲 Distant locations",
+              "path": "/about/Problems/🌲 Distant locations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🌻Insufficient pollination",
-              "path": "/about/Problems/🌻Insufficient pollination",
+              "id": "Problems/🌻 Insufficient pollination",
+              "path": "/about/Problems/🌻 Insufficient pollination",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🍽️Colony starvation",
-              "path": "/about/Problems/🍽️Colony starvation",
+              "id": "Problems/🍽️ Colony starvation",
+              "path": "/about/Problems/🍽️ Colony starvation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🏘️Multiple apiaries",
-              "path": "/about/Problems/🏘️Multiple apiaries",
+              "id": "Problems/🏘️ Multiple apiaries",
+              "path": "/about/Problems/🏘️ Multiple apiaries",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/👁️Observability of bee colony",
-              "path": "/about/Problems/👁️Observability of bee colony",
+              "id": "Problems/👁️ Observability of bee colony",
+              "path": "/about/Problems/👁️ Observability of bee colony",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/👁️Time-consuming inspections",
-              "path": "/about/Problems/👁️Time-consuming inspections",
+              "id": "Problems/👁️ Time-consuming inspections",
+              "path": "/about/Problems/👁️ Time-consuming inspections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💀 Colony with drone-laying queen",
+              "path": "/about/Problems/💀 Colony with drone-laying queen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💀 Intrusive inspections",
+              "path": "/about/Problems/💀 Intrusive inspections",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -240,38 +250,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/💀Intrusive inspections",
-              "path": "/about/Problems/💀Intrusive inspections",
+              "id": "Problems/💢 Aggressive bee colonies",
+              "path": "/about/Problems/💢 Aggressive bee colonies",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/💪🏻Physical labor",
-              "path": "/about/Problems/💪🏻Physical labor",
+              "id": "Problems/💢 Hornet attacks",
+              "path": "/about/Problems/💢 Hornet attacks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/💪🏻Unscalable work",
-              "path": "/about/Problems/💪🏻Unscalable work",
+              "id": "Problems/💪🏻 Physical labor",
+              "path": "/about/Problems/💪🏻 Physical labor",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🦀Diseases",
-              "path": "/about/Problems/🦀Diseases",
+              "id": "Problems/💪🏻 Unscalable work",
+              "path": "/about/Problems/💪🏻 Unscalable work",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🦀Infestations",
-              "path": "/about/Problems/🦀Infestations",
+              "id": "Problems/🦀 Diseases",
+              "path": "/about/Problems/🦀 Diseases",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/🧶Swarming",
-              "path": "/about/Problems/🧶Swarming",
+              "id": "Problems/🦀 Infestations",
+              "path": "/about/Problems/🦀 Infestations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🧶 Swarming",
+              "path": "/about/Problems/🧶 Swarming",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Problems/index",
               "path": "/about/Problems/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/Poor hive ventilation",
+              "path": "/about/Problems/Poor hive ventilation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -305,11 +325,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "purpose/Brand meaning",
-              "path": "/about/purpose/Brand meaning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "purpose/Company mission",
               "path": "/about/purpose/Company mission",
               "sidebar": "tutorialSidebar"
@@ -332,6 +347,11 @@
             {
               "id": "purpose/Naming",
               "path": "/about/purpose/Naming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Symbolism",
+              "path": "/about/purpose/Symbolism",
               "sidebar": "tutorialSidebar"
             },
             {

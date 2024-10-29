@@ -10,14 +10,16 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "class": "anthropological dangers"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌲Distant locations",
-    "permalink": "/about/Problems/🌲Distant locations"
+    "title": "🌲 Distant locations",
+    "permalink": "/about/Problems/🌲 Distant locations"
   },
   "next": {
-    "title": "🍽️Colony starvation",
-    "permalink": "/about/Problems/🍽️Colony starvation"
+    "title": "🍽️ Colony starvation",
+    "permalink": "/about/Problems/🍽️ Colony starvation"
   }
 }

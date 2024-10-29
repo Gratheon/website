@@ -1,0 +1,25 @@
+{
+  "id": "Problems/🌲 Distant locations",
+  "title": "🌲 Distant locations",
+  "description": "If your apiaries are far away (forest, rural area), you need to drive for inspections.",
+  "source": "@site/about/Problems/🌲 Distant locations.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🌲 Distant locations",
+  "permalink": "/about/Problems/🌲 Distant locations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 70
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Poor hive ventilation",
+    "permalink": "/about/Problems/Poor hive ventilation"
+  },
+  "next": {
+    "title": "🍽️ Colony starvation",
+    "permalink": "/about/Problems/🍽️ Colony starvation"
+  }
+}

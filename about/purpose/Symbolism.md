@@ -6,9 +6,32 @@ hide_table_of_contents: true
 Colors represent main wavelengths that 🐝 bees can see, company values and other associations:
 ![](../../src/img/Pasted%20image%2020241028105230.png)
 
+Recomendation on logo usage
+- Use white background whenever possible
+- Use wide version only if there is company name stated
+- You can use sunflower emoji 🌻 as stylized alternative in chat conversations
+
+ ![](../../src/img/logo_v7.svg)
+ 
+(SVG)
+
+![](../../src/img/logo_v7.png)
+
+(PNG)
+
+
+![](../../src/img/logo_v7w.svg)
+
+(wide version, SVG version with white outline)
+
+
+![](../../src/img/logo-v7w.png)
+
+(PNG version, with white outline)
+
 ## Brand meanings and association matrix
 
-💡 [Logo 🧪](Logo%20🧪.md) can be interpreted in many ways. Some are actual technological blueprint of our products. Some are tied to bees, spirituality and [Culture and values](https://www.notion.so/Culture-and-values-be3138c1cf0a4ebe8628f14448654682?pvs=21)
+💡 Logo can be interpreted in many ways. Some are actual technological blueprint of our products. Some are tied to bees, spirituality and [Culture and values](https://www.notion.so/Culture-and-values-be3138c1cf0a4ebe8628f14448654682?pvs=21)
 
 Here is a matrix meaning view of colors and shapes:
 
