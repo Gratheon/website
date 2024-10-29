@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Artjom Kurapov",
+  "title": "Artjom Kurapov",
+  "description": "- blog",
+  "source": "@site/about/company/Team/Artjom Kurapov.md",
+  "sourceDirName": "company/Team",
+  "slug": "/company/Team/Artjom Kurapov",
+  "permalink": "/about/company/Team/Artjom Kurapov",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Press kit",
+    "permalink": "/about/company/Press kit"
+  },
+  "next": {
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
+  }
+}

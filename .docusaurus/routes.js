@@ -39,12 +39,27 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '18a'),
+    component: ComponentCreator('/blog', '50a'),
     exact: true
   },
   {
     path: '/blog/2023/01/12/ 💶 Pitched to Picus Capital',
     component: ComponentCreator('/blog/2023/01/12/ 💶 Pitched to Picus Capital', '7b0'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/10/10/ 🎒 Tehnopol tech startup bootcamp',
+    component: ComponentCreator('/blog/2023/10/10/ 🎒 Tehnopol tech startup bootcamp', 'f47'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/10/27/ 🛠️ Winner in API World + AI DevWorld Hackaton',
+    component: ComponentCreator('/blog/2023/10/27/ 🛠️ Winner in API World + AI DevWorld Hackaton', '33f'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/10/28/ 🛠️ Climathon hackathon',
+    component: ComponentCreator('/blog/2023/10/28/ 🛠️ Climathon hackathon', '3f3'),
     exact: true
   },
   {
@@ -55,6 +70,76 @@ export default [
   {
     path: '/blog/2023/11/23/ 📢 Featured in a Delfi article',
     component: ComponentCreator('/blog/2023/11/23/ 📢 Featured in a Delfi article', '4be'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/12/06/ 📢 EstoniAI Meetup v5',
+    component: ComponentCreator('/blog/2023/12/06/ 📢 EstoniAI Meetup v5', 'cac'),
+    exact: true
+  },
+  {
+    path: '/blog/2023/12/20/ 📢 Devclub.eu talk about AI and bees',
+    component: ComponentCreator('/blog/2023/12/20/ 📢 Devclub.eu talk about AI and bees', '5d1'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/01/26/ 💶 Visiting Startup Day 2024',
+    component: ComponentCreator('/blog/2024/01/26/ 💶 Visiting Startup Day 2024', '97c'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/02/29/ 📢 Pitched at Founders Live',
+    component: ComponentCreator('/blog/2024/02/29/ 📢 Pitched at Founders Live', 'd73'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/03/24/ 📺 Kanal 7 interview',
+    component: ComponentCreator('/blog/2024/03/24/ 📺 Kanal 7 interview', 'e1f'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/03/27/ 🎒 Participated in EAS.ee deeptech grant qualifications webinar',
+    component: ComponentCreator('/blog/2024/03/27/ 🎒 Participated in EAS.ee deeptech grant qualifications webinar', 'f89'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/04/12/ 💶 Pitch to 500co',
+    component: ComponentCreator('/blog/2024/04/12/ 💶 Pitch to 500co', 'dac'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/05/05/ 💶 Sent deck to tilia.vc',
+    component: ComponentCreator('/blog/2024/05/05/ 💶 Sent deck to tilia.vc', '352'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/05/05/ 💶 Visited Latitude59',
+    component: ComponentCreator('/blog/2024/05/05/ 💶 Visited Latitude59', '24b'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/05/05/ 🛠️ Participated in Prototron.ee fund',
+    component: ComponentCreator('/blog/2024/05/05/ 🛠️ Participated in Prototron.ee fund', '0e4'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers',
+    component: ComponentCreator('/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers', '8c3'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/06/17/ 💶 Pitch to purposetech.vc',
+    component: ComponentCreator('/blog/2024/06/17/ 💶 Pitch to purposetech.vc', 'dc4'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/06/27/ 🛠️ Participated in K-space.ee hackathon',
+    component: ComponentCreator('/blog/2024/06/27/ 🛠️ Participated in K-space.ee hackathon', '491'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/09/26/ 🎒 Attended Building a Viral Product Webinar',
+    component: ComponentCreator('/blog/2024/09/26/ 🎒 Attended Building a Viral Product Webinar', '0a5'),
     exact: true
   },
   {
@@ -79,15 +164,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '92c'),
+    component: ComponentCreator('/about', '965'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '064'),
+        component: ComponentCreator('/about', '289'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'ffd'),
+            component: ComponentCreator('/about', '66f'),
             routes: [
               {
                 path: '/about/',
@@ -180,8 +265,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Team/Artjom Kurapov',
+                component: ComponentCreator('/about/company/Team/Artjom Kurapov', '28e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/Volunteering',
                 component: ComponentCreator('/about/company/Volunteering', 'd82'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Aleksei Boris',
+                component: ComponentCreator('/about/company/Volunteers/Aleksei Boris', '392'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Natalia Kinash',
+                component: ComponentCreator('/about/company/Volunteers/Natalia Kinash', '8fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Reinis Indans',
+                component: ComponentCreator('/about/company/Volunteers/Reinis Indans', '109'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

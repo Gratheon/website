@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-18a": {
+  "/blog-50a": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
@@ -50,10 +50,61 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
+        "content": "content---blogfa-7-10c"
+      },
+      {
+        "content": "content---blog-90-e-1a1"
+      },
+      {
+        "content": "content---blog-915-d26"
+      },
+      {
+        "content": "content---blog-065-5c2"
+      },
+      {
+        "content": "content---blog-20-b-63a"
+      },
+      {
+        "content": "content---blog-1-f-7-28d"
+      },
+      {
+        "content": "content---blog-755-1ae"
+      },
+      {
+        "content": "content---blog-2-a-4-e8d"
+      },
+      {
+        "content": "content---blog-085-4ec"
+      },
+      {
+        "content": "content---blogb-66-567"
+      },
+      {
+        "content": "content---blog-979-1fe"
+      },
+      {
+        "content": "content---blog-008-170"
+      },
+      {
+        "content": "content---blogf-4-d-01c"
+      },
+      {
+        "content": "content---blog-7-cb-7f0"
+      },
+      {
         "content": "content---blog-743-7fa"
       },
       {
         "content": "content---blog-92-d-c2d"
+      },
+      {
+        "content": "content---blog-40-b-e3c"
+      },
+      {
+        "content": "content---blog-97-d-9f4"
+      },
+      {
+        "content": "content---blog-83-e-52b"
       },
       {
         "content": "content---blog-77-c-bca"
@@ -71,6 +122,39 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2023-01-12-💶-pitched-to-picus-capital-5-e-9-a9a"
+  },
+  "/blog/2023/10/10/ 🎒 Tehnopol tech startup bootcamp-f47": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-10-🎒-tehnopol-tech-startup-bootcampff-0-878"
+  },
+  "/blog/2023/10/27/ 🛠️ Winner in API World + AI DevWorld Hackaton-33f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-27-🛠️-winner-in-api-world-ai-dev-world-hackaton-5-c-7-394"
+  },
+  "/blog/2023/10/28/ 🛠️ Climathon hackathon-3f3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-28-🛠️-climathon-hackathon-46-d-669"
   },
   "/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon-e9b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -93,6 +177,160 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2023-11-23-📢-featured-in-a-delfi-article-6-c-9-809"
+  },
+  "/blog/2023/12/06/ 📢 EstoniAI Meetup v5-cac": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-12-06-📢-estoni-ai-meetup-v-5722-154"
+  },
+  "/blog/2023/12/20/ 📢 Devclub.eu talk about AI and bees-5d1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-12-20-📢-devclub-eu-talk-about-ai-and-beesae-0-ce3"
+  },
+  "/blog/2024/01/26/ 💶 Visiting Startup Day 2024-97c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-01-26-💶-visiting-startup-day-2024286-bde"
+  },
+  "/blog/2024/02/29/ 📢 Pitched at Founders Live-d73": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-02-29-📢-pitched-at-founders-live-2-c-9-a83"
+  },
+  "/blog/2024/03/24/ 📺 Kanal 7 interview-e1f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-03-24-📺-kanal-7-interviewdce-da4"
+  },
+  "/blog/2024/03/27/ 🎒 Participated in EAS.ee deeptech grant qualifications webinar-f89": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-03-27-🎒-participated-in-eas-ee-deeptech-grant-qualifications-webinara-33-3e7"
+  },
+  "/blog/2024/04/12/ 💶 Pitch to 500co-dac": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-04-12-💶-pitch-to-500-co-16-f-485"
+  },
+  "/blog/2024/05/05/ 💶 Sent deck to tilia.vc-352": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-💶-sent-deck-to-tilia-vcbe-2-943"
+  },
+  "/blog/2024/05/05/ 💶 Visited Latitude59-24b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-💶-visited-latitude-5984-f-ca6"
+  },
+  "/blog/2024/05/05/ 🛠️ Participated in Prototron.ee fund-0e4": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-🛠️-participated-in-prototron-ee-fund-685-edf"
+  },
+  "/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers-8c3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-10-🎒-hosting-internship-school-for-qa-engineers-8-d-0-f34"
+  },
+  "/blog/2024/06/17/ 💶 Pitch to purposetech.vc-dc4": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-17-💶-pitch-to-purposetech-vcd-1-d-7d3"
+  },
+  "/blog/2024/06/27/ 🛠️ Participated in K-space.ee hackathon-491": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-27-🛠️-participated-in-k-space-ee-hackathon-378-424"
+  },
+  "/blog/2024/09/26/ 🎒 Attended Building a Viral Product Webinar-0a5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-09-26-🎒-attended-building-a-viral-product-webinar-691-82c"
   },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -122,17 +360,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-92c": {
+  "/about-965": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-064": {
+  "/about-289": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-ffd": {
+  "/about-66f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -195,9 +433,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-press-kit-275-1df"
   },
+  "/about/company/Team/Artjom Kurapov-28e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-artjom-kurapov-6-af-109"
+  },
   "/about/company/Volunteering-d82": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteering-641-2de"
+  },
+  "/about/company/Volunteers/Aleksei Boris-392": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-aleksei-borisc-7-b-ff9"
+  },
+  "/about/company/Volunteers/Natalia Kinash-8fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-natalia-kinashf-71-f01"
+  },
+  "/about/company/Volunteers/Reinis Indans-109": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-reinis-indans-509-049"
   },
   "/about/Problems/-2cd": {
     "__comp": "__comp---theme-doc-item-178-a40",

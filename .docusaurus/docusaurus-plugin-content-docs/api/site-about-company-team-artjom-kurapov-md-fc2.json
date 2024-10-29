@@ -1,0 +1,25 @@
+{
+  "id": "company/team/Artjom Kurapov",
+  "title": "Artjom Kurapov",
+  "description": "",
+  "source": "@site/about/company/team/Artjom Kurapov.md",
+  "sourceDirName": "company/team",
+  "slug": "/company/team/Artjom Kurapov",
+  "permalink": "/about/company/team/Artjom Kurapov",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
+  },
+  "next": {
+    "title": "Aleksei Boris",
+    "permalink": "/about/company/volunteers/Aleksei Boris"
+  }
+}

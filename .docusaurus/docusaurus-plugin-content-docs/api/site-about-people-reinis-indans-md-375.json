@@ -1,0 +1,21 @@
+{
+  "id": "people/Reinis Indans",
+  "title": "Reinis Indans",
+  "description": "",
+  "source": "@site/about/people/Reinis Indans.md",
+  "sourceDirName": "people",
+  "slug": "/people/Reinis Indans",
+  "permalink": "/about/people/Reinis Indans",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Natalia Kinash",
+    "permalink": "/about/people/Natalia Kinash"
+  }
+}

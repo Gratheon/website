@@ -160,8 +160,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Team/Artjom Kurapov",
+              "path": "/about/company/Team/Artjom Kurapov",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Volunteering",
               "path": "/about/company/Volunteering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Aleksei Boris",
+              "path": "/about/company/Volunteers/Aleksei Boris",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Natalia Kinash",
+              "path": "/about/company/Volunteers/Natalia Kinash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Reinis Indans",
+              "path": "/about/company/Volunteers/Reinis Indans",
               "sidebar": "tutorialSidebar"
             },
             {

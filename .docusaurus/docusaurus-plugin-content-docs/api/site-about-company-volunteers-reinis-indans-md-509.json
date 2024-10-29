@@ -1,0 +1,25 @@
+{
+  "id": "company/Volunteers/Reinis Indans",
+  "title": "Reinis Indans",
+  "description": "https://www.linkedin.com/in/reinis-indans/",
+  "source": "@site/about/company/Volunteers/Reinis Indans.md",
+  "sourceDirName": "company/Volunteers",
+  "slug": "/company/Volunteers/Reinis Indans",
+  "permalink": "/about/company/Volunteers/Reinis Indans",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Natalia Kinash",
+    "permalink": "/about/company/Volunteers/Natalia Kinash"
+  },
+  "next": {
+    "title": "🔬 Research",
+    "permalink": "/about/research/"
+  }
+}
