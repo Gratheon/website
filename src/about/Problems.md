@@ -2,15 +2,12 @@
 title: "🌨️ Problems"
 ---
 
-![](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Varroa_destructor2_2019-09-06-19.10.23_ZS_PMax_UDR_48697673082.webp)
-
 # Problems we are solving
 
-## Short problem statement
+> 💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
 
-💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
 
-### Medium problem statement
+### More 
 
 > Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [🌻Insufficient pollination](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Problems%20and%20goals%20cd532f09000b4e99a2e2fb8135a707f2/Insufficient%20pollination%2093d31ab6309443f9bbe0a50f4b560188.html) and increase yields  
 >   

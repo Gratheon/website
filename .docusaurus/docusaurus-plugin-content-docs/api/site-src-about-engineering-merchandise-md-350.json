@@ -1,0 +1,25 @@
+{
+  "id": "Engineering/Merchandise",
+  "title": "Merchandise",
+  "description": "Design",
+  "source": "@site/src/about/Engineering/Merchandise.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Merchandise",
+  "permalink": "/about/Engineering/Merchandise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML Datasets",
+    "permalink": "/about/Engineering/ML Datasets"
+  },
+  "next": {
+    "title": "Robot Vendors",
+    "permalink": "/about/Engineering/Robotics"
+  }
+}

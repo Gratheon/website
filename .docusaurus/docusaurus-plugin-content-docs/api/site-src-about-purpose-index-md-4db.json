@@ -1,11 +1,11 @@
 {
-  "id": "motivation/index",
+  "id": "purpose/index",
   "title": "🌻 Motivation",
   "description": "- Company mission",
-  "source": "@site/src/about/motivation/index.md",
-  "sourceDirName": "motivation",
-  "slug": "/motivation/",
-  "permalink": "/about/motivation/",
+  "source": "@site/src/about/purpose/index.md",
+  "sourceDirName": "purpose",
+  "slug": "/purpose/",
+  "permalink": "/about/purpose/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -22,6 +22,6 @@
   },
   "next": {
     "title": "Company mission",
-    "permalink": "/about/motivation/Company mission"
+    "permalink": "/about/purpose/Company mission"
   }
 }

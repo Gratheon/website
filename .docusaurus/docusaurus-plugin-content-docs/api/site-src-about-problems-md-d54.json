@@ -1,7 +1,7 @@
 {
   "id": "Problems",
   "title": "🌨️ Problems",
-  "description": "Short problem statement",
+  "description": "💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security",
   "source": "@site/src/about/Problems.md",
   "sourceDirName": ".",
   "slug": "/Problems",

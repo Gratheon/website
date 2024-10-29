@@ -73,41 +73,6 @@
     },
     "__props": "__props---blog-archivef-81-229"
   },
-  "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
-  },
-  "/blog/authors/all-sebastien-lorber-articles-495": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
-  },
-  "/blog/authors/yangshun-7c6": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---blog-2024-01-01-garage-48-ace-da6"
-      },
-      "plugin": "plugin---blog-369-22e"
-    },
-    "items": [],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
-  },
   "/Prices-be0": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
@@ -129,17 +94,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-50c": {
+  "/about-e1d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-33c": {
+  "/about-075": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-7e6": {
+  "/about-941": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-739": {
@@ -222,6 +187,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-engineering-engineering-onboardingd-2-a-7da"
   },
+  "/about/Engineering/Merchandise-031": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-engineering-merchandise-350-abc"
+  },
   "/about/Engineering/ML Datasets-c1d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-engineering-ml-datasets-79-f-39b"
@@ -238,34 +207,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-engineering-ux-ui-wireframes-56-b-438"
   },
-  "/about/motivation/-288": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-614-197"
-  },
-  "/about/motivation/Brand meaning-8b2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-brand-meaning-8-ee-10a"
-  },
-  "/about/motivation/Company mission-bae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-company-missione-76-f76"
-  },
-  "/about/motivation/Ethics-b63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-ethicsdd-8-fdb"
-  },
-  "/about/motivation/Logo 🧪-d6a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-logo-🧪-6-d-9-df0"
-  },
-  "/about/motivation/Merchandise-d34": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-merchandise-1-f-4-02f"
-  },
-  "/about/motivation/Naming-302": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-motivation-namingacd-5a2"
-  },
   "/about/Problems-59e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problemsd-54-10b"
@@ -273,6 +214,30 @@
   "/about/products/-865": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-c-6-b-b03"
+  },
+  "/about/purpose/-f3e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-4-db-ed4"
+  },
+  "/about/purpose/Brand meaning-dbb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-brand-meaningc-76-094"
+  },
+  "/about/purpose/Company mission-398": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-company-mission-02-d-c52"
+  },
+  "/about/purpose/Ethics-65b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-ethicsf-85-0ee"
+  },
+  "/about/purpose/Logo 🧪-07d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-logo-🧪-c-29-a69"
+  },
+  "/about/purpose/Naming-739": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-purpose-naming-22-e-ba5"
   },
   "/about/research/-811": {
     "__comp": "__comp---theme-doc-item-178-a40",

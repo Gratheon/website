@@ -41,25 +41,25 @@ const config: Config = {
             'https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/',
         },
 
-        // blog: {
-        //   blogSidebarCount: 20,
-        //   showLastUpdateTime: false,
-        //   blogSidebarTitle: 'Last posts',
-        //   showReadingTime: true,
-        //   postsPerPage: 20,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl: 'https://github.com/gratheon/website/tree/main/',
+        blog: {
+          blogSidebarCount: 20,
+          showLastUpdateTime: false,
+          blogSidebarTitle: ' ',
+          showReadingTime: true,
+          postsPerPage: 20,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl: 'https://github.com/gratheon/website/tree/main/',
 
-        //   // Useful options to enforce blogging best practices
-        //   onInlineTags: 'warn',
-        //   onInlineAuthors: 'warn',
-        //   onUntruncatedBlogPosts: 'warn',
-        // },
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
 
         theme: {
           customCss: './src/css/custom.css',

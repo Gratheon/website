@@ -29,6 +29,24 @@ export default {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/"
         },
+        "blog": {
+          "blogSidebarCount": 20,
+          "showLastUpdateTime": false,
+          "blogSidebarTitle": " ",
+          "showReadingTime": true,
+          "postsPerPage": 20,
+          "feedOptions": {
+            "type": [
+              "rss",
+              "atom"
+            ],
+            "xslt": true
+          },
+          "editUrl": "https://github.com/gratheon/website/tree/main/",
+          "onInlineTags": "warn",
+          "onInlineAuthors": "warn",
+          "onUntruncatedBlogPosts": "warn"
+        },
         "theme": {
           "customCss": "./src/css/custom.css"
         },

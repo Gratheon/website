@@ -1,6 +1,6 @@
 
 Materials for press media coverage.
-See [Logo 🧪](../motivation/Logo%20🧪.md) for referencing
+See [Logo 🧪](../purpose/Logo%20🧪.md) for referencing
 
 ## Contact
 

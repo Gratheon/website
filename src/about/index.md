@@ -2,7 +2,9 @@
 title: "Overview"
 sidebar_position: 0
 ---
-Gratheon is a garage-phase self-bootstrapping startup with big dreams. 
+Gratheon is a garage-phase self-bootstrapping startup with big dreams.
+
+See [📑 deck](deck.pdf) for quick overview.
 
 ## Overview
 

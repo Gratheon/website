@@ -1,11 +1,11 @@
 {
-  "id": "motivation/Ethics",
+  "id": "mission/Ethics",
   "title": "Ethics",
   "description": "Ethics is a branch of philosophy that deals with the study of what is morally right or wrong, good or bad.",
-  "source": "@site/src/about/motivation/Ethics.md",
-  "sourceDirName": "motivation",
-  "slug": "/motivation/Ethics",
-  "permalink": "/about/motivation/Ethics",
+  "source": "@site/src/about/mission/Ethics.md",
+  "sourceDirName": "mission",
+  "slug": "/mission/Ethics",
+  "permalink": "/about/mission/Ethics",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,7 +17,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Logo 🧪",
-    "permalink": "/about/motivation/Logo 🧪"
+    "permalink": "/about/mission/Logo 🧪"
   },
   "next": {
     "title": "👔 Company",

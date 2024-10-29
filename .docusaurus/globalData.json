@@ -140,6 +140,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Engineering/Merchandise",
+              "path": "/about/Engineering/Merchandise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Engineering/ML Datasets",
               "path": "/about/Engineering/ML Datasets",
               "sidebar": "tutorialSidebar"
@@ -165,41 +170,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "motivation/Brand meaning",
-              "path": "/about/motivation/Brand meaning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/Company mission",
-              "path": "/about/motivation/Company mission",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/Ethics",
-              "path": "/about/motivation/Ethics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/index",
-              "path": "/about/motivation/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/Logo 🧪",
-              "path": "/about/motivation/Logo 🧪",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/Merchandise",
-              "path": "/about/motivation/Merchandise",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "motivation/Naming",
-              "path": "/about/motivation/Naming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Problems",
               "path": "/about/Problems",
               "sidebar": "tutorialSidebar"
@@ -207,6 +177,36 @@
             {
               "id": "products/index",
               "path": "/about/products/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Brand meaning",
+              "path": "/about/purpose/Brand meaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Company mission",
+              "path": "/about/purpose/Company mission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Ethics",
+              "path": "/about/purpose/Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/index",
+              "path": "/about/purpose/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Logo 🧪",
+              "path": "/about/purpose/Logo 🧪",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "purpose/Naming",
+              "path": "/about/purpose/Naming",
               "sidebar": "tutorialSidebar"
             },
             {
