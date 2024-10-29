@@ -1,0 +1,23 @@
+{
+  "id": "engineering/Cloud Infrastructure",
+  "title": "Cloud Infrastructure",
+  "description": "App is fully hosted on DigitalOcean, Ubuntu 20.04",
+  "source": "@site/src/about/engineering/Cloud Infrastructure.md",
+  "sourceDirName": "engineering",
+  "slug": "/engineering/Cloud Infrastructure",
+  "permalink": "/about/engineering/Cloud Infrastructure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAD modelling",
+    "permalink": "/about/engineering/CAD modelling"
+  },
+  "next": {
+    "title": "Design",
+    "permalink": "/about/engineering/Design"
+  }
+}

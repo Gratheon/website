@@ -1,0 +1,23 @@
+{
+  "id": "Engineering/Tech stack, conventions, environments",
+  "title": "Tech stack, conventions, environments",
+  "description": "Languages",
+  "source": "@site/src/about/Engineering/Tech stack, conventions, environments.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Tech stack, conventions, environments",
+  "permalink": "/about/Engineering/Tech stack, conventions, environments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Vendors",
+    "permalink": "/about/Engineering/Robotics"
+  },
+  "next": {
+    "title": "UX - UI wireframes",
+    "permalink": "/about/Engineering/UX - UI wireframes"
+  }
+}

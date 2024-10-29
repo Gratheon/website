@@ -1,0 +1,20 @@
+{
+  "id": "Jetson Nano setup",
+  "title": "Jetson Nano setup",
+  "description": "Installation",
+  "source": "@site/docs/Jetson Nano setup.md",
+  "sourceDirName": ".",
+  "slug": "/Jetson Nano setup",
+  "permalink": "/docs/Jetson Nano setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Jetson Nano setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to setup Remote Desktop connection to Jetson Orin or Nano",
+    "permalink": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano"
+  }
+}

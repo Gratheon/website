@@ -1,0 +1,20 @@
+{
+  "id": "How to setup Remote Desktop connection",
+  "title": "How to setup Remote Desktop connection",
+  "description": "Remote desktop with VNC",
+  "source": "@site/docs/How to setup Remote Desktop connection.md",
+  "sourceDirName": ".",
+  "slug": "/How to setup Remote Desktop connection",
+  "permalink": "/docs/How to setup Remote Desktop connection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/How to setup Remote Desktop connection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "index",
+    "permalink": "/docs/"
+  }
+}

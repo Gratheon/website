@@ -1,0 +1,23 @@
+{
+  "id": "about/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/src/about/about/Untitled.md",
+  "sourceDirName": "about",
+  "slug": "/about/Untitled",
+  "permalink": "/about/about/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Naming etymology",
+    "permalink": "/about/about/Naming etymology"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Engineering/CAD modelling",
+  "title": "CAD modelling",
+  "description": "- We use tinkercad for not serious models to just convey the idea or for 3d printing",
+  "source": "@site/src/about/Engineering/CAD modelling.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/CAD modelling",
+  "permalink": "/about/Engineering/CAD modelling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔬 Research",
+    "permalink": "/about/research/"
+  },
+  "next": {
+    "title": "Cloud Infrastructure",
+    "permalink": "/about/Engineering/Cloud Infrastructure"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "What we do, why and how/index",
+  "title": "What we do, why and how",
+  "description": "Company Mission",
+  "source": "@site/docs/What we do, why and how/index.md",
+  "sourceDirName": "What we do, why and how",
+  "slug": "/What we do, why and how/",
+  "permalink": "/docs/What we do, why and how/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/What we do, why and how/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "What we do, why and how"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Company",
+    "permalink": "/docs/company/"
+  }
+}

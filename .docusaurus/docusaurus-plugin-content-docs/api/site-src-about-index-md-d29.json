@@ -1,0 +1,23 @@
+{
+  "id": "index",
+  "title": "Overview",
+  "description": "Welcome. This is a garage-phase startup wannabe with big dreams. Feel free to explore.",
+  "source": "@site/src/about/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/about/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🌻 What we do, why and how",
+    "permalink": "/about/about/"
+  }
+}

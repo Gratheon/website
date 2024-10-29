@@ -1,0 +1,28 @@
+{
+  "id": "products/index",
+  "title": "🍯 Products",
+  "description": "→ Build something beekeepers want → Talk to the customers & write code",
+  "source": "@site/docs/products/index.md",
+  "sourceDirName": "products",
+  "slug": "/products/",
+  "permalink": "/docs/products/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/products/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "🍯 Products"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👔 Company",
+    "permalink": "/docs/company/"
+  },
+  "next": {
+    "title": "🔬 Research",
+    "permalink": "/docs/research/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Engineering/Design",
+  "title": "Design",
+  "description": "Facebook groups / contractors may help here https://www.facebook.com/groups/142661069830141/",
+  "source": "@site/src/about/Engineering/Design.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Design",
+  "permalink": "/about/Engineering/Design",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloud Infrastructure",
+    "permalink": "/about/Engineering/Cloud Infrastructure"
+  },
+  "next": {
+    "title": "Engineering onboarding",
+    "permalink": "/about/Engineering/Engineering onboarding"
+  }
+}

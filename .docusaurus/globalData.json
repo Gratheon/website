@@ -1,0 +1,192 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "How to setup Remote Desktop connection to Jetson Orin or Nano",
+          "docs": [
+            {
+              "id": "How to setup Remote Desktop connection to Jetson Orin or Nano",
+              "path": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Jetson Nano setup",
+              "path": "/docs/Jetson Nano setup",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano",
+                "label": "How to setup Remote Desktop connection to Jetson Orin or Nano"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "api": {
+      "path": "/about",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/about",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "about/Brand meaning",
+              "path": "/about/about/Brand meaning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/Company mission",
+              "path": "/about/about/Company mission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/Ethics",
+              "path": "/about/about/Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/index",
+              "path": "/about/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/Logo",
+              "path": "/about/about/Logo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/Merchandise",
+              "path": "/about/about/Merchandise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "about/Naming etymology",
+              "path": "/about/about/Naming etymology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "careers/Careers",
+              "path": "/about/careers/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Culture and values",
+              "path": "/about/company/Culture and values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Equity & fundraising program plan",
+              "path": "/about/company/Equity & fundraising program plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/index",
+              "path": "/about/company/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Gather value 🍯",
+              "path": "/about/company/values/Gather value 🍯",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Radiate truth 🌞",
+              "path": "/about/company/values/Radiate truth 🌞",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteering",
+              "path": "/about/company/Volunteering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/CAD modelling",
+              "path": "/about/Engineering/CAD modelling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Cloud Infrastructure",
+              "path": "/about/Engineering/Cloud Infrastructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Design",
+              "path": "/about/Engineering/Design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Engineering onboarding",
+              "path": "/about/Engineering/Engineering onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/ML Datasets",
+              "path": "/about/Engineering/ML Datasets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Robotics",
+              "path": "/about/Engineering/Robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/Tech stack, conventions, environments",
+              "path": "/about/Engineering/Tech stack, conventions, environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Engineering/UX - UI wireframes",
+              "path": "/about/Engineering/UX - UI wireframes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems",
+              "path": "/about/Problems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/index",
+              "path": "/about/products/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/index",
+              "path": "/about/research/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/about/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

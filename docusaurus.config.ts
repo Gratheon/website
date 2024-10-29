@@ -1,0 +1,218 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+const config: Config = {
+  title: 'Gratheon',
+  tagline: 'Dinosaurs are cool',
+  favicon: 'favicons/favicon.ico',
+
+  // Set the production url of your site here
+  url: 'https://gratheon.com',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'gratheon', // Usually your GitHub org/user name.
+  projectName: 'website', // Usually your repo name.
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebars.ts',
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
+        blog:  {
+          showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+
+        pages: {
+          path: 'src/pages',
+          routeBasePath: '',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          mdxPageComponent: '@theme/MDXPage',
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
+        },
+
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+
+    // Replace with your project's social card
+    image: 'img/gratheon-web-app.webp',
+    navbar: {
+      title: '',
+      logo: {
+        alt: 'My Site Logo',
+        src: 'img/logo_v7w.svg',
+      },
+      items: [
+        {to: '/about', label: 'About', position: 'left'},
+        {to: '/about/products', label: 'Products', position: 'left'},
+        {href: 'https://gratheon.com/prices', label: 'Pricing', position: 'left'},
+
+
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'right',
+          label: 'Docs',
+        },
+
+        {href: 'https://app.gratheon.com/account/authenticate/', label: 'Log in', position: 'right'},
+        
+
+        // {
+        //   href: 'https://github.com/gratheon/website',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+            items: [{
+              html: `
+                <a href="https://ariregister.rik.ee/est/company/12245103/Gratheon-O%C3%9C">Gratheon OÜ</a><br />
+                Tallinn, Estonia
+              `,
+            }],
+        },
+        {
+          // title: 'Docs',
+          items: [
+            {
+              label: 'Privacy Policy',
+              to: 'privacy',
+            },
+            {
+              label: 'Terms Of Service',
+              to: 'terms',
+            },
+            {
+              label: 'Email',
+              href: 'mailto:pilot@gratheon.com',
+            },
+          ],
+        },
+        {
+          // title: 'Community',
+          items: [
+            {
+              label: 'Telegram',
+              href: 'https://t.me/gratheon',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/gratheon',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/gratheon/',
+            },
+          ],
+        },
+        {
+          // title: 'More',
+          items: [
+            {
+              label: 'Facebook',
+              to: 'https://www.facebook.com/gratheon',
+            },
+            {
+              label: 'Twitch',
+              to: 'https://www.twitch.tv/tot_ra',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ',
+            },
+          ],
+        },
+        {
+          // title: 'More',
+          items: [
+            {
+              label: 'Discord',
+              to: 'https://discord.gg/PcbP4uedWj',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/gratheon',
+            },
+          ],
+        },
+      ],
+      // copyright: `Copyright © ${new Date().getFullYear()} Gratheon`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'api',
+        path: 'src/about',
+        routeBasePath: 'about',
+        sidebarPath: 'sidebars.ts',
+        // ... other options
+      },
+    ],
+  ],
+};
+
+export default config;

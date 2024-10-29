@@ -1,0 +1,23 @@
+{
+  "id": "about/Brand meaning",
+  "title": "Brand meaning",
+  "description": "Colors represent main wavelengths that 🐝 bees can see, company values and other associations:",
+  "source": "@site/src/about/about/Brand meaning.md",
+  "sourceDirName": "about",
+  "slug": "/about/Brand meaning",
+  "permalink": "/about/about/Brand meaning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 What we do, why and how",
+    "permalink": "/about/about/"
+  },
+  "next": {
+    "title": "Mission",
+    "permalink": "/about/about/Company mission"
+  }
+}

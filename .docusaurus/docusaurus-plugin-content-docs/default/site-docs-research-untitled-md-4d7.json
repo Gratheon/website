@@ -1,0 +1,20 @@
+{
+  "id": "research/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/research/Untitled.md",
+  "sourceDirName": "research",
+  "slug": "/research/Untitled",
+  "permalink": "/docs/research/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/research/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Products",
+    "permalink": "/docs/products/"
+  }
+}

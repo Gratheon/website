@@ -1,0 +1,28 @@
+{
+  "id": "research/index",
+  "title": "🔬 Research",
+  "description": "We want to be aware of recent and historical development in research. Here we track publications that are most relevant.",
+  "source": "@site/docs/research/index.md",
+  "sourceDirName": "research",
+  "slug": "/research/",
+  "permalink": "/docs/research/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/research/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "🔬 Research"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍯 Products",
+    "permalink": "/docs/products/"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/docs/"
+  }
+}

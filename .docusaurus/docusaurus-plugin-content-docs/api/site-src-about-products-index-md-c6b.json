@@ -1,0 +1,27 @@
+{
+  "id": "products/index",
+  "title": "🍯 Products",
+  "description": "→ Build something beekeepers want → Talk to the customers & write code",
+  "source": "@site/src/about/products/index.md",
+  "sourceDirName": "products",
+  "slug": "/products/",
+  "permalink": "/about/products/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "🍯 Products"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Radiate truth 🌞",
+    "permalink": "/about/company/values/Radiate truth 🌞"
+  },
+  "next": {
+    "title": "🔬 Research",
+    "permalink": "/about/research/"
+  }
+}

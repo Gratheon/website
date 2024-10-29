@@ -1,0 +1,23 @@
+{
+  "id": "company/values/Gather value",
+  "title": "Gather value",
+  "description": "Bring value, create symbiotic relations, enrich all parties. We bring value to beekeepers and to our team. Grow wider in your abilities and knowledge to bring more impact.",
+  "source": "@site/src/about/company/values/Gather value.md",
+  "sourceDirName": "company/values",
+  "slug": "/company/values/Gather value",
+  "permalink": "/about/company/values/Gather value",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
+  },
+  "next": {
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
+  }
+}

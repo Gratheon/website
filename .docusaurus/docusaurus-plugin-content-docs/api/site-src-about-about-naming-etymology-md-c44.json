@@ -1,0 +1,23 @@
+{
+  "id": "about/Naming etymology",
+  "title": "Naming etymology",
+  "description": "scientific",
+  "source": "@site/src/about/about/Naming etymology.md",
+  "sourceDirName": "about",
+  "slug": "/about/Naming etymology",
+  "permalink": "/about/about/Naming etymology",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Merchandise",
+    "permalink": "/about/about/Merchandise"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}

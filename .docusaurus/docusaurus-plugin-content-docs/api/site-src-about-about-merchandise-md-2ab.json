@@ -1,0 +1,25 @@
+{
+  "id": "about/Merchandise",
+  "title": "Merchandise",
+  "description": "Design",
+  "source": "@site/src/about/about/Merchandise.md",
+  "sourceDirName": "about",
+  "slug": "/about/Merchandise",
+  "permalink": "/about/about/Merchandise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "draft"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Logo",
+    "permalink": "/about/about/Logo"
+  },
+  "next": {
+    "title": "Naming etymology",
+    "permalink": "/about/about/Naming etymology"
+  }
+}

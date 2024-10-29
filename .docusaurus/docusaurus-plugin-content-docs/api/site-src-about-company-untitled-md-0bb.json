@@ -1,0 +1,23 @@
+{
+  "id": "company/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/src/about/company/Untitled.md",
+  "sourceDirName": "company",
+  "slug": "/company/Untitled",
+  "permalink": "/about/company/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equity & fundraising program plan",
+    "permalink": "/about/company/Equity & fundraising program plan"
+  },
+  "next": {
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
+  }
+}

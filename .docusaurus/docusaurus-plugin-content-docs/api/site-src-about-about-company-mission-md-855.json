@@ -1,0 +1,23 @@
+{
+  "id": "about/Company mission",
+  "title": "Mission",
+  "description": "“Harmonize humanity with nature”",
+  "source": "@site/src/about/about/Company mission.md",
+  "sourceDirName": "about",
+  "slug": "/about/Company mission",
+  "permalink": "/about/about/Company mission",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Brand meaning",
+    "permalink": "/about/about/Brand meaning"
+  },
+  "next": {
+    "title": "Ethics",
+    "permalink": "/about/about/Ethics"
+  }
+}

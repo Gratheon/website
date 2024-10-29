@@ -1,0 +1,25 @@
+{
+  "id": "Problems",
+  "title": "🌨️ Problems",
+  "description": "Short problem statement",
+  "source": "@site/src/about/Problems.md",
+  "sourceDirName": ".",
+  "slug": "/Problems",
+  "permalink": "/about/Problems",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🌨️ Problems"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/about/Engineering/UX - UI wireframes"
+  },
+  "next": {
+    "title": "Careers",
+    "permalink": "/about/careers/"
+  }
+}

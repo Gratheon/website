@@ -1,0 +1,23 @@
+{
+  "id": "about/Logo",
+  "title": "Logo",
+  "description": "SVG",
+  "source": "@site/src/about/about/Logo.md",
+  "sourceDirName": "about",
+  "slug": "/about/Logo",
+  "permalink": "/about/about/Logo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics",
+    "permalink": "/about/about/Ethics"
+  },
+  "next": {
+    "title": "Merchandise",
+    "permalink": "/about/about/Merchandise"
+  }
+}

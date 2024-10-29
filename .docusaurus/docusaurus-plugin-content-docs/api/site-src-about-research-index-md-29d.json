@@ -1,0 +1,27 @@
+{
+  "id": "research/index",
+  "title": "🔬 Research",
+  "description": "We want to be aware of recent and historical development in research. Here we track publications that are most relevant.",
+  "source": "@site/src/about/research/index.md",
+  "sourceDirName": "research",
+  "slug": "/research/",
+  "permalink": "/about/research/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "🔬 Research"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
+  },
+  "next": {
+    "title": "CAD modelling",
+    "permalink": "/about/Engineering/CAD modelling"
+  }
+}

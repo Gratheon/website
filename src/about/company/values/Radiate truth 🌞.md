@@ -1,0 +1,1 @@
+Be joyful and honest, have fun. Our code and processes are transparent to the world. Communicate to reduce boundaries, complexity, be predictable to be trusted.

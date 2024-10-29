@@ -1,0 +1,23 @@
+{
+  "id": "Engineering/UX - UI wireframes",
+  "title": "UX - UI wireframes",
+  "description": "Page views",
+  "source": "@site/src/about/Engineering/UX - UI wireframes.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/UX - UI wireframes",
+  "permalink": "/about/Engineering/UX - UI wireframes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/about/Engineering/Tech stack, conventions, environments"
+  },
+  "next": {
+    "title": "🌨️ Problems",
+    "permalink": "/about/Problems"
+  }
+}
