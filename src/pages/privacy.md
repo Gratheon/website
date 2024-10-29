@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Privacy Policy
 
-**[Last updated](https://github.com/Gratheon/website/commits/main/privacy.html) October 29, 2024**  
+**[Last updated](https://github.com/Gratheon/website/commits/main/src/pages/privacy.md) October 29, 2024**  
 
 Thank you for choosing to be part of our community at **Gratheon OÜ** ("company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at pilot@gratheon.com.
 

@@ -4,7 +4,7 @@ hide_table_of_contents: true
 ---
 # Terms Of Service
 
-**[Last updated](https://github.com/Gratheon/website/commits/main/terms.html)** **July 18, 2023**
+**[Last updated](https://github.com/Gratheon/website/commits/main/src/pages/terms.md)** **October 29, 2024**
 
 ### AGREEMENT TO TERMS
 
