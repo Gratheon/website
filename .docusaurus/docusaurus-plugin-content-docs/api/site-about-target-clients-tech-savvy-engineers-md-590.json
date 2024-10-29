@@ -1,0 +1,23 @@
+{
+  "id": "Target clients/Tech-savvy engineers",
+  "title": "Tech-savvy engineers",
+  "description": "- Tech enthusiasts willing to tinker with software and hardware",
+  "source": "@site/about/Target clients/Tech-savvy engineers.md",
+  "sourceDirName": "Target clients",
+  "slug": "/Target clients/Tech-savvy engineers",
+  "permalink": "/about/Target clients/Tech-savvy engineers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Potential new beekeepers",
+    "permalink": "/about/Target clients/Potential new beekeepers"
+  },
+  "next": {
+    "title": "Urban beekeepers",
+    "permalink": "/about/Target clients/Urban beekeepers"
+  }
+}

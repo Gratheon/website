@@ -1,0 +1,23 @@
+{
+  "id": "Target clients/Urban beekeepers",
+  "title": "Urban beekeepers",
+  "description": "An extension of Backyard beekeepers, but in city area where main concern is ability to inspect bees without too much swarming hassle affecting neighbours",
+  "source": "@site/about/Target clients/Urban beekeepers.md",
+  "sourceDirName": "Target clients",
+  "slug": "/Target clients/Urban beekeepers",
+  "permalink": "/about/Target clients/Urban beekeepers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "next": {
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/Target clients/👨🏻 Potential new beekeepers"
+  }
+}

@@ -3,7 +3,7 @@ sidebar_position: 6
 title: 🔬 Research
 ---
 
-We want to be aware of recent and historical development in research. Here we track publications that are most relevant.
+We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. Here we track publications that are most relevant.
 
 An good overview is presented in [[Machine Learning and Computer Vision Techniques in Bee Monitoring Applications](https://arxiv.org/pdf/2208.00085.pdf)]([https://www.notion.so/Machine-Learning-and-Computer-Vision-Techniques-in-Bee-Monitoring-Applications-9935a742aff04940b207a7932b6b1ed5?pvs=21](https://www.notion.so/Machine-Learning-and-Computer-Vision-Techniques-in-Bee-Monitoring-Applications-9935a742aff04940b207a7932b6b1ed5?pvs=21))
 
@@ -25,6 +25,19 @@ One-time yet very notable works were also in:
 
 [Scientific publications](https://www.notion.so/dd0f4ebdb6fd4b78b60cf376ac2466e0?pvs=21)
 
+# Scientific publications
+
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index"  SORT year desc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index"  SORT year desc -->
+
+| title                                                                                                                                                                            | orgs                                                                                                 | year |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
+| [Varroa destructor detection on honey bees using hyperspectral imagery](about/research/Varroa%20destructor%20detection%20on%20honey%20bees%20using%20hyperspectral%20imagery.md) | <ul><li>🇨🇿 Brno University of Technology</li><li>🇫🇮 LUT University</li></ul>                     | 2024 |
+| [Honey bees modify plantpollinator network structure](about/research/Honey%20bees%20modify%20plantpollinator%20network%20structure.md)                                           | <ul><li>🇨🇦 University of Alberta</li></ul>                                                         | 2023 |
+| [Biodiversity conservation and current threats to European honeybees](about/research/Biodiversity%20conservation%20and%20current%20threats%20to%20European%20honeybees.md)       | <ul><li>🇪🇸 Universidad de Murcia</li><li>🇩🇪 Martin-Luther-Universität Halle-Wittenberg</li></ul> | 2009 |
+<!-- SerializedQuery END -->
+
+
 ## EU grants
 
 - Hiveopolis - [https://cordis.europa.eu/project/id/824069](https://cordis.europa.eu/project/id/824069)
@@ -34,3 +47,4 @@ One-time yet very notable works were also in:
 [Apidologie](https://www.springer.com/journal/13592)
 
 [http://www.apian.ch/pages/about/](http://www.apian.ch/pages/about/)
+

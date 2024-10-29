@@ -1,0 +1,23 @@
+{
+  "id": "Target personas/👨🏻‍💻 Tech-savvy engineers",
+  "title": "👨🏻‍💻 Tech-savvy engineers",
+  "description": "- Tech enthusiasts willing to tinker with software and hardware",
+  "source": "@site/about/Target personas/👨🏻‍💻 Tech-savvy engineers.md",
+  "sourceDirName": "Target personas",
+  "slug": "/Target personas/👨🏻‍💻 Tech-savvy engineers",
+  "permalink": "/about/Target personas/👨🏻‍💻 Tech-savvy engineers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/Target personas/👨🏻 Potential new beekeepers"
+  },
+  "next": {
+    "title": "👨🏻‍🚀 Backyard beekeepers",
+    "permalink": "/about/Target personas/👨🏻‍🚀 Backyard beekeepers"
+  }
+}

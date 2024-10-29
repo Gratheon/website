@@ -1,0 +1,5 @@
+- Someone like [Backyard beekeepers](https://www.notion.so/Backyard-beekeepers-3f32d134fa11467aad7f5015288a2efe?pvs=21) or [Farmers](https://www.notion.so/Farmers-df786b4ba018453da181a8d9da186a79?pvs=21) who wants to take care of bees but is afraid and lacks information
+- Has hard time choosing the right first set of frames, beehive sections, bees, equipment
+- Main selling point would be a [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21) that is the new shiny thing that
+    - Educates - [Lack of knowledge / experience](https://www.notion.so/Lack-of-knowledge-experience-76651a1939d34d268d71974da0b048e9?pvs=21)
+    - Looks awesome

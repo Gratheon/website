@@ -1,0 +1,29 @@
+{
+  "id": "research/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+  "description": "PDF",
+  "source": "@site/about/research/Varroa destructor detection on honey bees using hyperspectral imagery.md",
+  "sourceDirName": "research",
+  "slug": "/research/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2024",
+    "orgs": [
+      "🇨🇿 Brno University of Technology",
+      "🇫🇮 LUT University"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Honey bees modify plantpollinator network structure",
+    "permalink": "/about/research/Honey bees modify plantpollinator network structure"
+  },
+  "next": {
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/Target clients/👨🏻 Potential new beekeepers"
+  }
+}

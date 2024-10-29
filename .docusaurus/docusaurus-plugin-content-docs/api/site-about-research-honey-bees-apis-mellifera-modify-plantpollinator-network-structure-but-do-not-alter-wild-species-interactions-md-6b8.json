@@ -1,0 +1,28 @@
+{
+  "id": "research/Honey bees (Apis mellifera) modify plantpollinator network structure, but do not alter wild species’ interactions",
+  "title": "Honey bees (Apis mellifera) modify plantpollinator network structure, but do not alter wild species’ interactions",
+  "description": "PDF",
+  "source": "@site/about/research/Honey bees (Apis mellifera) modify plantpollinator network structure, but do not alter wild species’ interactions.md",
+  "sourceDirName": "research",
+  "slug": "/research/Honey bees (Apis mellifera) modify plantpollinator network structure, but do not alter wild species’ interactions",
+  "permalink": "/about/research/Honey bees (Apis mellifera) modify plantpollinator network structure, but do not alter wild species’ interactions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇨🇦 University of Alberta"
+    ],
+    "year": "2023"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biodiversity, conservation and current threats to European honeybees",
+    "permalink": "/about/research/Biodiversity, conservation and current threats to European honeybees"
+  },
+  "next": {
+    "title": "👨🏻‍🚒Industrial beekeepers",
+    "permalink": "/about/Target clients/👨🏻‍🚒Industrial beekeepers"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Competition/index",
+  "title": "🏎️ Competition",
+  "description": "- https://www.hackster.io/518000/buzztech-machine-learning-at-the-edge-07c951",
+  "source": "@site/about/Competition/index.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/",
+  "permalink": "/about/Competition/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "🏎️ Competition",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "next": {
+    "title": "👨🏻‍🚒Industrial beekeepers",
+    "permalink": "/about/Target clients/👨🏻‍🚒Industrial beekeepers"
+  }
+}

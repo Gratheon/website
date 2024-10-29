@@ -1,7 +1,7 @@
 {
   "id": "research/index",
   "title": "🔬 Research",
-  "description": "We want to be aware of recent and historical development in research. Here we track publications that are most relevant.",
+  "description": "We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. Here we track publications that are most relevant.",
   "source": "@site/about/research/index.md",
   "sourceDirName": "research",
   "slug": "/research/",
@@ -21,7 +21,7 @@
     "permalink": "/about/company/❤️‍🔥 Volunteering"
   },
   "next": {
-    "title": "👨🏻‍🚒Industrial beekeepers",
-    "permalink": "/about/Target clients/👨🏻‍🚒Industrial beekeepers"
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/about/research/Biodiversity conservation and current threats to European honeybees"
   }
 }

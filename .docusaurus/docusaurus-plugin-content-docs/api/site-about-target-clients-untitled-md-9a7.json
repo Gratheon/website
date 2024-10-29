@@ -1,0 +1,23 @@
+{
+  "id": "Target clients/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/about/Target clients/Untitled.md",
+  "sourceDirName": "Target clients",
+  "slug": "/Target clients/Untitled",
+  "permalink": "/about/Target clients/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech-savvy engineers",
+    "permalink": "/about/Target clients/Tech-savvy engineers"
+  },
+  "next": {
+    "title": "Urban beekeepers",
+    "permalink": "/about/Target clients/Urban beekeepers"
+  }
+}

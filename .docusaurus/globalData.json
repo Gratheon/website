@@ -90,11 +90,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "careers/Careers",
-              "path": "/about/careers/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/❤️‍🔥 Volunteering",
               "path": "/about/company/❤️‍🔥 Volunteering",
               "sidebar": "tutorialSidebar"
@@ -415,13 +410,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "research/Biodiversity conservation and current threats to European honeybees",
+              "path": "/about/research/Biodiversity conservation and current threats to European honeybees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/Honey bees modify plantpollinator network structure",
+              "path": "/about/research/Honey bees modify plantpollinator network structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "research/index",
               "path": "/about/research/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Target clients/👨🏻‍🚒Industrial beekeepers",
-              "path": "/about/Target clients/👨🏻‍🚒Industrial beekeepers",
+              "id": "research/Varroa destructor detection on honey bees using hyperspectral imagery",
+              "path": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👨🏻 Potential new beekeepers",
+              "path": "/about/Target clients/👨🏻 Potential new beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👨🏻‍💻 Tech-savvy engineers",
+              "path": "/about/Target clients/👨🏻‍💻 Tech-savvy engineers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👨🏻‍🚀 Backyard beekeepers",
+              "path": "/about/Target clients/👨🏻‍🚀 Backyard beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👨🏻‍🚒 Industrial beekeepers",
+              "path": "/about/Target clients/👨🏻‍🚒 Industrial beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👩🏻 Tech scale-up companies",
+              "path": "/about/Target clients/👩🏻 Tech scale-up companies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👩🏼‍🏫 Urban beekeepers",
+              "path": "/about/Target clients/👩🏼‍🏫 Urban beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/🧑🏻‍🌾 Farmers",
+              "path": "/about/Target clients/🧑🏻‍🌾 Farmers",
               "sidebar": "tutorialSidebar"
             }
           ],

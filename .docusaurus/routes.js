@@ -164,25 +164,19 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '9b1'),
+    component: ComponentCreator('/about', '1a8'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'c49'),
+        component: ComponentCreator('/about', '772'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '064'),
+            component: ComponentCreator('/about', '1da'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '498'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/careers/',
-                component: ComponentCreator('/about/careers/', '20c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -571,8 +565,62 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Target clients/👨🏻‍🚒Industrial beekeepers',
-                component: ComponentCreator('/about/Target clients/👨🏻‍🚒Industrial beekeepers', '399'),
+                path: '/about/research/Biodiversity conservation and current threats to European honeybees',
+                component: ComponentCreator('/about/research/Biodiversity conservation and current threats to European honeybees', '0fe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/research/Honey bees modify plantpollinator network structure',
+                component: ComponentCreator('/about/research/Honey bees modify plantpollinator network structure', '58e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/research/Varroa destructor detection on honey bees using hyperspectral imagery',
+                component: ComponentCreator('/about/research/Varroa destructor detection on honey bees using hyperspectral imagery', '41c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👨🏻 Potential new beekeepers',
+                component: ComponentCreator('/about/Target clients/👨🏻 Potential new beekeepers', 'd9d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👨🏻‍💻 Tech-savvy engineers',
+                component: ComponentCreator('/about/Target clients/👨🏻‍💻 Tech-savvy engineers', 'e46'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👨🏻‍🚀 Backyard beekeepers',
+                component: ComponentCreator('/about/Target clients/👨🏻‍🚀 Backyard beekeepers', '37a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👨🏻‍🚒 Industrial beekeepers',
+                component: ComponentCreator('/about/Target clients/👨🏻‍🚒 Industrial beekeepers', '11c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👩🏻 Tech scale-up companies',
+                component: ComponentCreator('/about/Target clients/👩🏻 Tech scale-up companies', '369'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👩🏼‍🏫 Urban beekeepers',
+                component: ComponentCreator('/about/Target clients/👩🏼‍🏫 Urban beekeepers', '3cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/🧑🏻‍🌾 Farmers',
+                component: ComponentCreator('/about/Target clients/🧑🏻‍🌾 Farmers', 'fef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

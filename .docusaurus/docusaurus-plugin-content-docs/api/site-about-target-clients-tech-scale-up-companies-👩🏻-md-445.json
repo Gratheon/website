@@ -1,0 +1,23 @@
+{
+  "id": "Target clients/Tech scale-up companies 👩🏻",
+  "title": "Tech scale-up companies 👩🏻",
+  "description": "- High tech companies For example organizations such as LHV, TalTech, Pipedrive do have bees on rooftops",
+  "source": "@site/about/Target clients/Tech scale-up companies 👩🏻.md",
+  "sourceDirName": "Target clients",
+  "slug": "/Target clients/Tech scale-up companies 👩🏻",
+  "permalink": "/about/Target clients/Tech scale-up companies 👩🏻",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Farmers 🧑🏻‍🌾",
+    "permalink": "/about/Target clients/Farmers 🧑🏻‍🌾"
+  },
+  "next": {
+    "title": "Urban beekeepers 👩🏼‍🏫",
+    "permalink": "/about/Target clients/Urban beekeepers 👩🏼‍🏫"
+  }
+}

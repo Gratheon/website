@@ -1,0 +1,28 @@
+{
+  "id": "research/Honey bees modify plantpollinator network structure",
+  "title": "Honey bees modify plantpollinator network structure",
+  "description": "PDF",
+  "source": "@site/about/research/Honey bees modify plantpollinator network structure.md",
+  "sourceDirName": "research",
+  "slug": "/research/Honey bees modify plantpollinator network structure",
+  "permalink": "/about/research/Honey bees modify plantpollinator network structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇨🇦 University of Alberta"
+    ],
+    "year": "2023"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/about/research/Biodiversity conservation and current threats to European honeybees"
+  },
+  "next": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Target clients/Backyard beekeepers 👨🏻‍🚀",
+  "title": "Backyard beekeepers 👨🏻‍🚀",
+  "description": "House owner (B2C, not a legal entity)",
+  "source": "@site/about/Target clients/Backyard beekeepers 👨🏻‍🚀.md",
+  "sourceDirName": "Target clients",
+  "slug": "/Target clients/Backyard beekeepers 👨🏻‍🚀",
+  "permalink": "/about/Target clients/Backyard beekeepers 👨🏻‍🚀",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "next": {
+    "title": "Farmers 🧑🏻‍🌾",
+    "permalink": "/about/Target clients/Farmers 🧑🏻‍🌾"
+  }
+}

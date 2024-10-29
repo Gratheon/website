@@ -1,0 +1,6 @@
+- Main motivation - improving yields [Insufficient pollination](https://www.notion.so/Insufficient-pollination-93d31ab6309443f9bbe0a50f4b560188?pvs=21)
+- Deals with lots of different things
+    - gardening, field work
+    - animals - chickens, dairy, sheep
+    - tractors, construction
+- Lives outside the city so - [Distant locations](https://www.notion.so/Distant-locations-2a2e75c03b294fc9949eed71f94bfe7d?pvs=21) is an issue with poor internet coverage

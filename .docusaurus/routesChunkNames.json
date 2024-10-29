@@ -360,26 +360,22 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-9b1": {
+  "/about-1a8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-c49": {
+  "/about-772": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-064": {
+  "/about-1da": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-230-53f"
-  },
-  "/about/careers/-20c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-careers-88-a-727"
   },
   "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -637,9 +633,45 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-research-ae-1-f4f"
   },
-  "/about/Target clients/👨🏻‍🚒Industrial beekeepers-399": {
+  "/about/research/Biodiversity conservation and current threats to European honeybees-0fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍🚒-industrial-beekeepersf-06-d6e"
+    "content": "content---about-research-biodiversity-conservation-and-current-threats-to-european-honeybeesaa-9-2fd"
+  },
+  "/about/research/Honey bees modify plantpollinator network structure-58e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-honey-bees-modify-plantpollinator-network-structure-650-558"
+  },
+  "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery-41c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-varroa-destructor-detection-on-honey-bees-using-hyperspectral-imagerya-22-573"
+  },
+  "/about/Target clients/👨🏻 Potential new beekeepers-d9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👨🏻-potential-new-beekeepers-084-250"
+  },
+  "/about/Target clients/👨🏻‍💻 Tech-savvy engineers-e46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👨🏻‍💻-tech-savvy-engineers-573-771"
+  },
+  "/about/Target clients/👨🏻‍🚀 Backyard beekeepers-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👨🏻‍🚀-backyard-beekeepers-3-a-0-be6"
+  },
+  "/about/Target clients/👨🏻‍🚒 Industrial beekeepers-11c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👨🏻‍🚒-industrial-beekeeperseff-b8d"
+  },
+  "/about/Target clients/👩🏻 Tech scale-up companies-369": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👩🏻-tech-scale-up-companies-187-924"
+  },
+  "/about/Target clients/👩🏼‍🏫 Urban beekeepers-3cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👩🏼‍🏫-urban-beekeepers-715-a0e"
+  },
+  "/about/Target clients/🧑🏻‍🌾 Farmers-fef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-🧑🏻‍🌾-farmers-9-e-1-828"
   },
   "/docs-5dd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

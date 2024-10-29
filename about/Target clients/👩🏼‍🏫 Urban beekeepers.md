@@ -1,0 +1,1 @@
+An extension of [Backyard beekeepers](https://www.notion.so/Backyard-beekeepers-3f32d134fa11467aad7f5015288a2efe?pvs=21), but in city area where main concern is ability to inspect bees without too much swarming hassle affecting neighbours

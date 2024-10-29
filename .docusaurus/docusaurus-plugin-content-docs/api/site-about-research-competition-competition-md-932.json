@@ -1,0 +1,23 @@
+{
+  "id": "research/Competition/Competition",
+  "title": "Competition",
+  "description": "",
+  "source": "@site/about/research/Competition/Competition.md",
+  "sourceDirName": "research/Competition",
+  "slug": "/research/Competition/",
+  "permalink": "/about/research/Competition/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/about/research/Biodiversity conservation and current threats to European honeybees"
+  },
+  "next": {
+    "title": "Honey bees modify plantpollinator network structure",
+    "permalink": "/about/research/Honey bees modify plantpollinator network structure"
+  }
+}

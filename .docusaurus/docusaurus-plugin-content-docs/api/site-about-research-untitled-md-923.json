@@ -1,0 +1,23 @@
+{
+  "id": "research/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/about/research/Untitled.md",
+  "sourceDirName": "research",
+  "slug": "/research/Untitled",
+  "permalink": "/about/research/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Honey bees modify plantpollinator network structure",
+    "permalink": "/about/research/Honey bees modify plantpollinator network structure"
+  },
+  "next": {
+    "title": "👨🏻‍🚒Industrial beekeepers",
+    "permalink": "/about/Target clients/👨🏻‍🚒Industrial beekeepers"
+  }
+}
