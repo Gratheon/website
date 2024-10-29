@@ -1,0 +1,23 @@
+{
+  "id": "Problems/👁️Observability of bee colony",
+  "title": "👁️Observability of bee colony",
+  "description": "",
+  "source": "@site/about/Problems/👁️Observability of bee colony.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/👁️Observability of bee colony",
+  "permalink": "/about/Problems/👁️Observability of bee colony",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏘️Multiple apiaries",
+    "permalink": "/about/Problems/🏘️Multiple apiaries"
+  },
+  "next": {
+    "title": "👁️Time-consuming inspections",
+    "permalink": "/about/Problems/👁️Time-consuming inspections"
+  }
+}

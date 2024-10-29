@@ -1,0 +1,23 @@
+{
+  "id": "Problems/👁️Time-consuming inspections",
+  "title": "👁️Time-consuming inspections",
+  "description": "",
+  "source": "@site/about/Problems/👁️Time-consuming inspections.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/👁️Time-consuming inspections",
+  "permalink": "/about/Problems/👁️Time-consuming inspections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👁️Observability of bee colony",
+    "permalink": "/about/Problems/👁️Observability of bee colony"
+  },
+  "next": {
+    "title": "💀Colony without a queen",
+    "permalink": "/about/Problems/💀Colony without a queen"
+  }
+}

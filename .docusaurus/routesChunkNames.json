@@ -360,17 +360,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-f1d": {
+  "/about-0b7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-887": {
+  "/about-569": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-d85": {
+  "/about-8d9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -465,13 +465,85 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problems-fe-3-467"
   },
+  "/about/Problems/❄️ Overwintering collapse-86e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-❄️-overwintering-collapsed-5-e-7ca"
+  },
+  "/about/Problems/🌲Distant locations-a3d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🌲-distant-locations-298-fb6"
+  },
+  "/about/Problems/🌻Insufficient pollination-6b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🌻-insufficient-pollination-4-cd-f2b"
+  },
+  "/about/Problems/🍽️Colony starvation-1ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🍽️-colony-starvationf-01-19e"
+  },
+  "/about/Problems/🏘️Multiple apiaries-a41": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🏘️-multiple-apiaries-6-ae-382"
+  },
+  "/about/Problems/👁️Observability of bee colony-c19": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-👁️-observability-of-bee-colony-455-7df"
+  },
+  "/about/Problems/👁️Time-consuming inspections-5e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-👁️-time-consuming-inspections-311-912"
+  },
+  "/about/Problems/💀Colony without a queen-081": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-colony-without-a-queenf-5-e-c0e"
+  },
+  "/about/Problems/💀Intrusive inspections-06f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-intrusive-inspectionsbd-9-730"
+  },
+  "/about/Problems/💪🏻Physical labor-028": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💪🏻-physical-labor-3-d-6-f8f"
+  },
+  "/about/Problems/💪🏻Unscalable work-ac1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💪🏻-unscalable-work-418-683"
+  },
+  "/about/Problems/🦀Diseases-786": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🦀-diseases-1-c-3-445"
+  },
+  "/about/Problems/🦀Infestations-f5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🦀-infestations-79-f-7bd"
+  },
+  "/about/Problems/🧶Swarming-f4a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🧶-swarming-2-dd-278"
+  },
   "/about/products/-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-548-6ee"
   },
-  "/about/products/Web-app-e94": {
+  "/about/products/🌡️ Beehive IoT sensors-d57": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-88-b-f2c"
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-702-b90"
+  },
+  "/about/products/👁️‍🗨️ Entrance Observer-88f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-👁️‍🗨️-entrance-observer-02-a-fda"
+  },
+  "/about/products/📱Web-app-814": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-appc-1-d-fa7"
+  },
+  "/about/products/🧿 Robotic Beehive-625": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🧿-robotic-beehive-1-df-e91"
+  },
+  "/about/products/🪬 Robotic Apiary-a32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🪬-robotic-apiary-94-b-884"
   },
   "/about/purpose/-f43": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -500,6 +572,10 @@
   "/about/research/-af7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-research-ae-1-f4f"
+  },
+  "/about/Target clients/👨🏻‍🚒Industrial beekeepers-399": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-target-clients-👨🏻‍🚒-industrial-beekeepersf-06-d6e"
   },
   "/docs-5dd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

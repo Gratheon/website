@@ -1,0 +1,23 @@
+{
+  "id": "Problems/🌻Insufficient pollination",
+  "title": "🌻Insufficient pollination",
+  "description": "",
+  "source": "@site/about/Problems/🌻Insufficient pollination.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🌻Insufficient pollination",
+  "permalink": "/about/Problems/🌻Insufficient pollination",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌲Distant locations",
+    "permalink": "/about/Problems/🌲Distant locations"
+  },
+  "next": {
+    "title": "🍽️Colony starvation",
+    "permalink": "/about/Problems/🍽️Colony starvation"
+  }
+}

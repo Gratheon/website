@@ -1,0 +1,23 @@
+{
+  "id": "Problems/❄️Overwintering collapse",
+  "title": "❄️Overwintering collapse",
+  "description": "",
+  "source": "@site/about/Problems/❄️Overwintering collapse.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/❄️Overwintering collapse",
+  "permalink": "/about/Problems/❄️Overwintering collapse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌨️ Problems",
+    "permalink": "/about/Problems/"
+  },
+  "next": {
+    "title": "🌲Distant locations",
+    "permalink": "/about/Problems/🌲Distant locations"
+  }
+}

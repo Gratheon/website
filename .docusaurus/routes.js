@@ -164,15 +164,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'f1d'),
+    component: ComponentCreator('/about', '0b7'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '887'),
+        component: ComponentCreator('/about', '569'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'd85'),
+            component: ComponentCreator('/about', '8d9'),
             routes: [
               {
                 path: '/about/',
@@ -313,14 +313,122 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/Problems/❄️ Overwintering collapse',
+                component: ComponentCreator('/about/Problems/❄️ Overwintering collapse', '86e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🌲Distant locations',
+                component: ComponentCreator('/about/Problems/🌲Distant locations', 'a3d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🌻Insufficient pollination',
+                component: ComponentCreator('/about/Problems/🌻Insufficient pollination', '6b4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🍽️Colony starvation',
+                component: ComponentCreator('/about/Problems/🍽️Colony starvation', '1ea'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🏘️Multiple apiaries',
+                component: ComponentCreator('/about/Problems/🏘️Multiple apiaries', 'a41'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/👁️Observability of bee colony',
+                component: ComponentCreator('/about/Problems/👁️Observability of bee colony', 'c19'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/👁️Time-consuming inspections',
+                component: ComponentCreator('/about/Problems/👁️Time-consuming inspections', '5e7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💀Colony without a queen',
+                component: ComponentCreator('/about/Problems/💀Colony without a queen', '081'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💀Intrusive inspections',
+                component: ComponentCreator('/about/Problems/💀Intrusive inspections', '06f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💪🏻Physical labor',
+                component: ComponentCreator('/about/Problems/💪🏻Physical labor', '028'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/💪🏻Unscalable work',
+                component: ComponentCreator('/about/Problems/💪🏻Unscalable work', 'ac1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🦀Diseases',
+                component: ComponentCreator('/about/Problems/🦀Diseases', '786'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🦀Infestations',
+                component: ComponentCreator('/about/Problems/🦀Infestations', 'f5b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Problems/🧶Swarming',
+                component: ComponentCreator('/about/Problems/🧶Swarming', 'f4a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/',
                 component: ComponentCreator('/about/products/', '5dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/Web-app',
-                component: ComponentCreator('/about/products/Web-app', 'e94'),
+                path: '/about/products/🌡️ Beehive IoT sensors',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors', 'd57'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer', '88f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/📱Web-app',
+                component: ComponentCreator('/about/products/📱Web-app', '814'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🧿 Robotic Beehive',
+                component: ComponentCreator('/about/products/🧿 Robotic Beehive', '625'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🪬 Robotic Apiary',
+                component: ComponentCreator('/about/products/🪬 Robotic Apiary', 'a32'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -363,6 +471,12 @@ export default [
               {
                 path: '/about/research/',
                 component: ComponentCreator('/about/research/', 'af7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Target clients/👨🏻‍🚒Industrial beekeepers',
+                component: ComponentCreator('/about/Target clients/👨🏻‍🚒Industrial beekeepers', '399'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -1,7 +1,7 @@
 {
   "id": "products/index",
   "title": "🍯 Products",
-  "description": "→ Build something beekeepers want → Talk to the customers & write code",
+  "description": "Ideas and Features",
   "source": "@site/about/products/index.md",
   "sourceDirName": "products",
   "slug": "/products/",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌨️ Problems",
-    "permalink": "/about/Problems/"
+    "title": "🧶Swarming",
+    "permalink": "/about/Problems/🧶Swarming"
   },
   "next": {
-    "title": "Web-app",
-    "permalink": "/about/products/Web-app"
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app"
   }
 }

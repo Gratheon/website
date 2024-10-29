@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+`status: minimum viable product, 60% complete`
 
 Gratheon web-app main job is to provide data analytics about bees that beekeeper owns.
 Main use-case is to add most important entities to an app and then manipulate their state as a reflection of reality. 

@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors",
+  "title": "🌡️ Beehive IoT sensors",
+  "description": "status: proof-of-concept, 20% complete",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors.md",
+  "sourceDirName": "products",
+  "slug": "/products/🌡️ Beehive IoT sensors",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app"
+  },
+  "next": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer"
+  }
+}

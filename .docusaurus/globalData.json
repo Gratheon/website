@@ -200,18 +200,108 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problems/❄️ Overwintering collapse",
+              "path": "/about/Problems/❄️ Overwintering collapse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🌲Distant locations",
+              "path": "/about/Problems/🌲Distant locations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🌻Insufficient pollination",
+              "path": "/about/Problems/🌻Insufficient pollination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🍽️Colony starvation",
+              "path": "/about/Problems/🍽️Colony starvation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🏘️Multiple apiaries",
+              "path": "/about/Problems/🏘️Multiple apiaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/👁️Observability of bee colony",
+              "path": "/about/Problems/👁️Observability of bee colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/👁️Time-consuming inspections",
+              "path": "/about/Problems/👁️Time-consuming inspections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💀Colony without a queen",
+              "path": "/about/Problems/💀Colony without a queen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💀Intrusive inspections",
+              "path": "/about/Problems/💀Intrusive inspections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💪🏻Physical labor",
+              "path": "/about/Problems/💪🏻Physical labor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/💪🏻Unscalable work",
+              "path": "/about/Problems/💪🏻Unscalable work",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🦀Diseases",
+              "path": "/about/Problems/🦀Diseases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🦀Infestations",
+              "path": "/about/Problems/🦀Infestations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🧶Swarming",
+              "path": "/about/Problems/🧶Swarming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problems/index",
               "path": "/about/Problems/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/index",
-              "path": "/about/products/",
+              "id": "products/🌡️ Beehive IoT sensors",
+              "path": "/about/products/🌡️ Beehive IoT sensors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/Web-app",
-              "path": "/about/products/Web-app",
+              "id": "products/👁️‍🗨️ Entrance Observer",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app",
+              "path": "/about/products/📱Web-app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive",
+              "path": "/about/products/🧿 Robotic Beehive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🪬 Robotic Apiary",
+              "path": "/about/products/🪬 Robotic Apiary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/index",
+              "path": "/about/products/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -247,6 +337,11 @@
             {
               "id": "research/index",
               "path": "/about/research/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Target clients/👨🏻‍🚒Industrial beekeepers",
+              "path": "/about/Target clients/👨🏻‍🚒Industrial beekeepers",
               "sidebar": "tutorialSidebar"
             }
           ],

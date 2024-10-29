@@ -1,0 +1,23 @@
+{
+  "id": "products/🪬 Robotic Apiary",
+  "title": "🪬 Robotic Apiary",
+  "description": "status: idea",
+  "source": "@site/about/products/🪬 Robotic Apiary.md",
+  "sourceDirName": "products",
+  "slug": "/products/🪬 Robotic Apiary",
+  "permalink": "/about/products/🪬 Robotic Apiary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/🧿 Robotic Beehive"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}
