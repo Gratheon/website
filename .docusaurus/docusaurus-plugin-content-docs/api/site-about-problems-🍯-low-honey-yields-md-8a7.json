@@ -1,0 +1,23 @@
+{
+  "id": "Problems/🍯 Low honey yields",
+  "title": "🍯 Low honey yields",
+  "description": "",
+  "source": "@site/about/Problems/🍯 Low honey yields.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🍯 Low honey yields",
+  "permalink": "/about/Problems/🍯 Low honey yields",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Monocultural agriculture",
+    "permalink": "/about/Problems/🌻 Monocultural agriculture"
+  },
+  "next": {
+    "title": "🍽️ Colony starvation",
+    "permalink": "/about/Problems/🍽️ Colony starvation"
+  }
+}

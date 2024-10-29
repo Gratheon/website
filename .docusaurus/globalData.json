@@ -215,13 +215,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problems/🌻 Monocultural agriculture",
+              "path": "/about/Problems/🌻 Monocultural agriculture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🍯 Low honey yields",
+              "path": "/about/Problems/🍯 Low honey yields",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problems/🍽️ Colony starvation",
               "path": "/about/Problems/🍽️ Colony starvation",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problems/🎒 Challenging to become a new beekeeper",
+              "path": "/about/Problems/🎒 Challenging to become a new beekeeper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🏘️ Bees attacking neighbours",
+              "path": "/about/Problems/🏘️ Bees attacking neighbours",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problems/🏘️ Multiple apiaries",
               "path": "/about/Problems/🏘️ Multiple apiaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🐭 Mice killing a colony",
+              "path": "/about/Problems/🐭 Mice killing a colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🐻 Bears destroying hives & colonies",
+              "path": "/about/Problems/🐻 Bears destroying hives & colonies",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -235,18 +265,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problems/💀 Alcohol washing killing bees",
+              "path": "/about/Problems/💀 Alcohol washing killing bees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problems/💀 Colony with drone-laying queen",
               "path": "/about/Problems/💀 Colony with drone-laying queen",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/💀 Intrusive inspections",
-              "path": "/about/Problems/💀 Intrusive inspections",
+              "id": "Problems/💀 Colony without a queen",
+              "path": "/about/Problems/💀 Colony without a queen",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Problems/💀Colony without a queen",
-              "path": "/about/Problems/💀Colony without a queen",
+              "id": "Problems/💀 Intrusive inspections",
+              "path": "/about/Problems/💀 Intrusive inspections",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -260,6 +295,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Problems/💢 Robbing state",
+              "path": "/about/Problems/💢 Robbing state",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Problems/💪🏻 Physical labor",
               "path": "/about/Problems/💪🏻 Physical labor",
               "sidebar": "tutorialSidebar"
@@ -267,6 +307,31 @@
             {
               "id": "Problems/💪🏻 Unscalable work",
               "path": "/about/Problems/💪🏻 Unscalable work",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/📦 Warehouse organization",
+              "path": "/about/Problems/📦 Warehouse organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🗃️ Flimsy beehives",
+              "path": "/about/Problems/🗃️ Flimsy beehives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🗃️ Poor hive ventilation",
+              "path": "/about/Problems/🗃️ Poor hive ventilation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🗃️ Ugly beehives",
+              "path": "/about/Problems/🗃️ Ugly beehives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Problems/🤢 Pesticide poisoning",
+              "path": "/about/Problems/🤢 Pesticide poisoning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -287,11 +352,6 @@
             {
               "id": "Problems/index",
               "path": "/about/Problems/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Problems/Poor hive ventilation",
-              "path": "/about/Problems/Poor hive ventilation",
               "sidebar": "tutorialSidebar"
             },
             {

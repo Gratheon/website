@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🍽️ Colony starvation",
-    "permalink": "/about/Problems/🍽️ Colony starvation"
+    "title": "🏘️ Bees attacking neighbours",
+    "permalink": "/about/Problems/🏘️ Bees attacking neighbours"
   },
   "next": {
-    "title": "👁️ Time-consuming inspections",
-    "permalink": "/about/Problems/👁️ Time-consuming inspections"
+    "title": "🐭 Mice killing a colony",
+    "permalink": "/about/Problems/🐭 Mice killing a colony"
   }
 }

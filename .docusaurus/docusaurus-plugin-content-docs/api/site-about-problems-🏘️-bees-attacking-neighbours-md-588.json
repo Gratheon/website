@@ -1,0 +1,23 @@
+{
+  "id": "Problems/🏘️ Bees attacking neighbours",
+  "title": "🏘️ Bees attacking neighbours",
+  "description": "",
+  "source": "@site/about/Problems/🏘️ Bees attacking neighbours.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🏘️ Bees attacking neighbours",
+  "permalink": "/about/Problems/🏘️ Bees attacking neighbours",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎒 Challenging to become a new beekeeper",
+    "permalink": "/about/Problems/🎒 Challenging to become a new beekeeper"
+  },
+  "next": {
+    "title": "🏘️ Multiple apiaries",
+    "permalink": "/about/Problems/🏘️ Multiple apiaries"
+  }
+}

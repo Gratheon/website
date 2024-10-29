@@ -1,0 +1,23 @@
+{
+  "id": "Problems/🐻 Bears destroying hives & colonies",
+  "title": "🐻 Bears destroying hives & colonies",
+  "description": "Bears attack colonies and they cannot recover after that.",
+  "source": "@site/about/Problems/🐻 Bears destroying hives & colonies.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🐻 Bears destroying hives & colonies",
+  "permalink": "/about/Problems/🐻 Bears destroying hives & colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐭 Mice killing a colony",
+    "permalink": "/about/Problems/🐭 Mice killing a colony"
+  },
+  "next": {
+    "title": "👁️ Time-consuming inspections",
+    "permalink": "/about/Problems/👁️ Time-consuming inspections"
+  }
+}

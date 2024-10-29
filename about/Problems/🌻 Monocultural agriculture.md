@@ -1,0 +1,2 @@
+- Reduces food source diversity
+- Likely leads to [**Pesticide exposure** / poisoning](https://www.notion.so/Pesticide-exposure-poisoning-48fb3122dddc443c90a9c777585f54cc?pvs=21)

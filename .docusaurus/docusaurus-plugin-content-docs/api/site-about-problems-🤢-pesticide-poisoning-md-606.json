@@ -1,0 +1,23 @@
+{
+  "id": "Problems/🤢 Pesticide poisoning",
+  "title": "🤢 Pesticide poisoning",
+  "description": "Problem",
+  "source": "@site/about/Problems/🤢 Pesticide poisoning.md",
+  "sourceDirName": "Problems",
+  "slug": "/Problems/🤢 Pesticide poisoning",
+  "permalink": "/about/Problems/🤢 Pesticide poisoning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗃️ Ugly beehives",
+    "permalink": "/about/Problems/🗃️ Ugly beehives"
+  },
+  "next": {
+    "title": "🦀 Diseases",
+    "permalink": "/about/Problems/🦀 Diseases"
+  }
+}
