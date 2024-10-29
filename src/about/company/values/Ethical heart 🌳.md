@@ -1,0 +1,1 @@
+Care about sentient organisms. Go beyond product to have sustainable ecosystem and environment. Balance work and life

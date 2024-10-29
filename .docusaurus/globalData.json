@@ -65,8 +65,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "about/Logo",
-              "path": "/about/about/Logo",
+              "id": "about/Logo 🧪",
+              "path": "/about/about/Logo 🧪",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -85,6 +85,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/All-hands meeting recordings",
+              "path": "/about/company/All-hands meeting recordings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Culture and values",
               "path": "/about/company/Culture and values",
               "sidebar": "tutorialSidebar"
@@ -100,13 +105,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Press kit",
+              "path": "/about/company/Press kit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Adapt to change 🏕️",
+              "path": "/about/company/values/Adapt to change 🏕️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Ethical heart 🌳",
+              "path": "/about/company/values/Ethical heart 🌳",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/values/Gather value 🍯",
               "path": "/about/company/values/Gather value 🍯",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/values/Humbly kind 🧸",
+              "path": "/about/company/values/Humbly kind 🧸",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/New horizons 🏔️",
+              "path": "/about/company/values/New horizons 🏔️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Observable mind 🧿",
+              "path": "/about/company/values/Observable mind 🧿",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/values/Radiate truth 🌞",
               "path": "/about/company/values/Radiate truth 🌞",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Team effort 🐝",
+              "path": "/about/company/values/Team effort 🐝",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,0 +1,1 @@
+Be bold, get things done, take responsibility. Get hands dirty, take small steps, be prepared, survive, speed, autonomy, freedom

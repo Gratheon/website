@@ -38,23 +38,29 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog:  {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+
+        // blog: {
+        //   blogSidebarCount: 20,
+        //   showLastUpdateTime: false,
+        //   blogSidebarTitle: 'Last posts',
+        //   showReadingTime: true,
+        //   postsPerPage: 20,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl: 'https://github.com/gratheon/website/tree/main/',
+
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
+
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -98,6 +104,7 @@ const config: Config = {
         {to: '/about', label: 'About', position: 'left'},
         {to: '/about/products', label: 'Products', position: 'left'},
         {href: 'https://gratheon.com/prices', label: 'Pricing', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
 
 
         {
@@ -109,12 +116,6 @@ const config: Config = {
 
         {href: 'https://app.gratheon.com/account/authenticate/', label: 'Log in', position: 'right'},
         
-
-        // {
-        //   href: 'https://github.com/gratheon/website',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
       ],
     },
     footer: {
@@ -195,6 +196,13 @@ const config: Config = {
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} Gratheon`,
     },
+
+    blog: {
+      sidebar: {
+        groupByYear: true,
+      },
+    },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

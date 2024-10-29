@@ -1,0 +1,23 @@
+{
+  "id": "company/values/Team effort 🐝",
+  "title": "Team effort 🐝",
+  "description": "Be part of the collective, make friends, communicate, lead by example, equal voice, take ownership, disagree and commit",
+  "source": "@site/src/about/company/values/Team effort 🐝.md",
+  "sourceDirName": "company/values",
+  "slug": "/company/values/Team effort 🐝",
+  "permalink": "/about/company/values/Team effort 🐝",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Radiate truth 🌞",
+    "permalink": "/about/company/values/Radiate truth 🌞"
+  },
+  "next": {
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
+  }
+}

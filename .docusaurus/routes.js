@@ -4,7 +4,12 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    component: ComponentCreator('/blog', '0e0'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/01/01/Garage48',
+    component: ComponentCreator('/blog/2024/01/01/Garage48', 'fb9'),
     exact: true
   },
   {
@@ -19,57 +24,12 @@ export default [
   },
   {
     path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '495'),
     exact: true
   },
   {
     path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
-    exact: true
-  },
-  {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    component: ComponentCreator('/blog/authors/yangshun', '7c6'),
     exact: true
   },
   {
@@ -89,15 +49,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '157'),
+    component: ComponentCreator('/about', 'f13'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'aa2'),
+        component: ComponentCreator('/about', '6ed'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '1b6'),
+            component: ComponentCreator('/about', '4c4'),
             routes: [
               {
                 path: '/about/',
@@ -130,8 +90,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/about/Logo',
-                component: ComponentCreator('/about/about/Logo', 'dd5'),
+                path: '/about/about/Logo 🧪',
+                component: ComponentCreator('/about/about/Logo 🧪', '6f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -160,6 +120,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/All-hands meeting recordings',
+                component: ComponentCreator('/about/company/All-hands meeting recordings', '8d9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/Culture and values',
                 component: ComponentCreator('/about/company/Culture and values', 'e84'),
                 exact: true,
@@ -172,14 +138,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Press kit',
+                component: ComponentCreator('/about/company/Press kit', '3f9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/values/Adapt to change 🏕️',
+                component: ComponentCreator('/about/company/values/Adapt to change 🏕️', 'ad1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/values/Ethical heart 🌳',
+                component: ComponentCreator('/about/company/values/Ethical heart 🌳', '2e0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/values/Gather value 🍯',
                 component: ComponentCreator('/about/company/values/Gather value 🍯', '867'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/values/Humbly kind 🧸',
+                component: ComponentCreator('/about/company/values/Humbly kind 🧸', '332'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/values/New horizons 🏔️',
+                component: ComponentCreator('/about/company/values/New horizons 🏔️', 'cf3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/values/Observable mind 🧿',
+                component: ComponentCreator('/about/company/values/Observable mind 🧿', 'ad0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/values/Radiate truth 🌞',
                 component: ComponentCreator('/about/company/values/Radiate truth 🌞', '0e6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/values/Team effort 🐝',
+                component: ComponentCreator('/about/company/values/Team effort 🐝', '0a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

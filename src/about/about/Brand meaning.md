@@ -3,7 +3,7 @@ Colors represent main wavelengths that 🐝 bees can see, company values and oth
 
 ## Brand meanings and association matrix
 
-💡 [Logo](Logo.md) can be interpreted in many ways. Some are actual technological blueprint of our products. Some are tied to bees, spirituality and [Culture and values](https://www.notion.so/Culture-and-values-be3138c1cf0a4ebe8628f14448654682?pvs=21)
+💡 [Logo 🧪](Logo%20🧪.md) can be interpreted in many ways. Some are actual technological blueprint of our products. Some are tied to bees, spirituality and [Culture and values](https://www.notion.so/Culture-and-values-be3138c1cf0a4ebe8628f14448654682?pvs=21)
 
 Here is a matrix meaning view of colors and shapes:
 

@@ -27,21 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -93,6 +79,11 @@ export default {
         {
           "href": "https://gratheon.com/prices",
           "label": "Pricing",
+          "position": "left"
+        },
+        {
+          "to": "/blog",
+          "label": "Blog",
           "position": "left"
         },
         {
@@ -185,6 +176,11 @@ export default {
           "title": null
         }
       ]
+    },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
     },
     "prism": {
       "theme": {
@@ -395,11 +391,6 @@ export default {
       "sidebar": {
         "hideable": false,
         "autoCollapseCategories": false
-      }
-    },
-    "blog": {
-      "sidebar": {
-        "groupByYear": true
       }
     },
     "metadata": [],

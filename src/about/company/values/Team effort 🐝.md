@@ -1,0 +1,1 @@
+Be part of the collective, make friends, communicate, lead by example, equal voice, take ownership, disagree and commit

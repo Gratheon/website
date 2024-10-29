@@ -1,0 +1,23 @@
+{
+  "id": "company/Press kit",
+  "title": "Press kit",
+  "description": "Materials for press media coverage.",
+  "source": "@site/src/about/company/Press kit.md",
+  "sourceDirName": "company",
+  "slug": "/company/Press kit",
+  "permalink": "/about/company/Press kit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equity & fundraising program plan",
+    "permalink": "/about/company/Equity & fundraising program plan"
+  },
+  "next": {
+    "title": "Volunteering",
+    "permalink": "/about/company/Volunteering"
+  }
+}

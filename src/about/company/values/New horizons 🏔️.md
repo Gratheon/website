@@ -1,0 +1,1 @@
+Reach mastery and wisdom. Improve continuously, grow above yourself, define new norm, withstand the test of time, quality, performance. Reach equilibrium of opposing values, opinions and responsibilities.
