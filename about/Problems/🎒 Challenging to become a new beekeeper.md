@@ -17,7 +17,7 @@ For a regular person, that wants to become a beekeeper, its challenging to get s
 
 Beekeepers can have common workshops, but its hard to observe small details of particular colony with all of the buzzing, wearing a suit:
 
-![](../../../GN9QBxKXIAA4tfF.jpg)
+![](../img/GN9QBxKXIAA4tfF.jpg)
 
 source - [https://x.com/KilbarchanBees/status/1792239360659665097](https://x.com/KilbarchanBees/status/1792239360659665097)
 
