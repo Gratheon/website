@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 ### Remote desktop with VNC
 
 ```bash

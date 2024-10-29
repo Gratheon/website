@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/How to setup Remote Desktop connection to Jetson Orin or Nano.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "UX - UI wireframes",
-    "permalink": "/docs/Engineering/UX - UI wireframes"
-  },
-  "next": {
     "title": "Jetson Nano setup",
     "permalink": "/docs/Jetson Nano setup"
+  },
+  "next": {
+    "title": "CAD modelling",
+    "permalink": "/docs/Engineering/CAD modelling"
   }
 }

@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Engineering/CAD modelling",
+          "mainDocId": "Jetson Nano setup",
           "docs": [
             {
               "id": "Engineering/CAD modelling",
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Engineering/CAD modelling",
-                "label": "Engineering/CAD modelling"
+                "path": "/docs/Jetson Nano setup",
+                "label": "Jetson Nano setup"
               }
             }
           }

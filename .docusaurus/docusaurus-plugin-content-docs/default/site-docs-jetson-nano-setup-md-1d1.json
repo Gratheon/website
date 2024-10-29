@@ -11,9 +11,12 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Jetson Nano setup.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
-  "previous": {
+  "next": {
     "title": "How to setup Remote Desktop connection to Jetson Orin or Nano",
     "permalink": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano"
   }

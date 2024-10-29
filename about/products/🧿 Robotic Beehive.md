@@ -10,12 +10,12 @@ To solve [**Observability of bee colony**](https://www.notion.so/Observability-o
 
 Single-colony robot costs too much (>2000 EUR) to be cost-efficient in large scales. Because of this, it is unlikely that [Industrial beekeepers](https://www.notion.so/Industrial-beekeepers-cf0c8af087cb456dbb72058b88a42db9?pvs=21) or [Farmers](https://www.notion.so/Farmers-df786b4ba018453da181a8d9da186a79?pvs=21) (that have >20 beehives) will buy it. Instead, we are targeting people that value exterior [Design](https://www.notion.so/Design-0fcc20f16af7447587add9b6a9799f9b?pvs=21) to compliment their brand.
 
-![](../../../honeyflow.png)
+![](../img/honeyflow.png)
 
 
 [https://www.honeyflow.com/](https://www.honeyflow.com/) as example of tehnological beehive, selling for 700 EUR
 
-![](../../../president.png)
+![](../img/president.png)
 
 
 President Alar Karis harvesting honey from the Kadriorg Palace beehives. ([Photo: Office of the President](https://news.err.ee/1609070024/gallery-president-alar-karis-harvesting-honey-in-front-of-kadriorg-palace#lg=1&slide=1)) An example of complimentary brand
@@ -50,7 +50,7 @@ Extraction should happen without disturbing the bees, exposing them to elements 
 ## What
 
 ### Schematic overview
-![](../../../Screenshot%202024-07-01%20at%2018.58.24.png)
+![](../img/Screenshot%202024-07-01%20at%2018.58.24.png)
 
 [https://excalidraw.com/#json=rQMKVE0rgF-pux2zTyB_S,LQlTn5W0gDaznvv2JDouhA](https://excalidraw.com/#json=rQMKVE0rgF-pux2zTyB_S,LQlTn5W0gDaznvv2JDouhA)
 
