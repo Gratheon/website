@@ -7,19 +7,11 @@
   "slug": "/company/Volunteers/Reinis Indans",
   "permalink": "/about/company/Volunteers/Reinis Indans",
   "draft": false,
-  "unlisted": false,
+  "unlisted": true,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Natalia Kinash",
-    "permalink": "/about/company/Volunteers/Natalia Kinash"
-  },
-  "next": {
-    "title": "❤️‍🔥 Volunteering",
-    "permalink": "/about/company/❤️‍🔥 Volunteering"
-  }
+  "sidebar": "tutorialSidebar"
 }

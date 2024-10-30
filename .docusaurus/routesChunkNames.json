@@ -1,740 +1,697 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/blog-50a": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogfa-7-10c"
+        "content": "fa730fa6"
       },
       {
-        "content": "content---blog-90-e-1a1"
+        "content": "90e54128"
       },
       {
-        "content": "content---blog-915-d26"
+        "content": "91521523"
       },
       {
-        "content": "content---blog-065-5c2"
+        "content": "0658933b"
       },
       {
-        "content": "content---blog-20-b-63a"
+        "content": "20b16fd7"
       },
       {
-        "content": "content---blog-1-f-7-28d"
+        "content": "1f741928"
       },
       {
-        "content": "content---blog-755-1ae"
+        "content": "75568b97"
       },
       {
-        "content": "content---blog-2-a-4-e8d"
+        "content": "2a470d39"
       },
       {
-        "content": "content---blog-085-4ec"
+        "content": "085d2eb1"
       },
       {
-        "content": "content---blogb-66-567"
+        "content": "b66f2eed"
       },
       {
-        "content": "content---blog-979-1fe"
+        "content": "979803ea"
       },
       {
-        "content": "content---blog-008-170"
+        "content": "00815042"
       },
       {
-        "content": "content---blogf-4-d-01c"
+        "content": "f4d87a25"
       },
       {
-        "content": "content---blog-7-cb-7f0"
+        "content": "7cbf22ef"
       },
       {
-        "content": "content---blog-743-7fa"
+        "content": "74327d2a"
       },
       {
-        "content": "content---blog-92-d-c2d"
+        "content": "92d0fa76"
       },
       {
-        "content": "content---blog-40-b-e3c"
+        "content": "40bb86c0"
       },
       {
-        "content": "content---blog-97-d-9f4"
+        "content": "97d1c4b1"
       },
       {
-        "content": "content---blog-83-e-52b"
+        "content": "83e6dee3"
       },
       {
-        "content": "content---blog-77-c-bca"
+        "content": "77ca604d"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/2023/01/12/ 💶 Pitched to Picus Capital-7b0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-01-12-💶-pitched-to-picus-capital-5-e-9-a9a"
+    "sidebar": "814f3328",
+    "content": "5e9b843f"
   },
   "/blog/2023/10/10/ 🎒 Tehnopol tech startup bootcamp-f47": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-10-10-🎒-tehnopol-tech-startup-bootcampff-0-878"
+    "sidebar": "814f3328",
+    "content": "ff044014"
   },
   "/blog/2023/10/27/ 🛠️ Winner in API World + AI DevWorld Hackaton-33f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-10-27-🛠️-winner-in-api-world-ai-dev-world-hackaton-5-c-7-394"
+    "sidebar": "814f3328",
+    "content": "5c772a33"
   },
   "/blog/2023/10/28/ 🛠️ Climathon hackathon-3f3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-10-28-🛠️-climathon-hackathon-46-d-669"
+    "sidebar": "814f3328",
+    "content": "46df2af5"
   },
   "/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon-e9b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-11-05-🛰️-participated-in-garage-48-cassini-hackathon-47-a-d1e"
+    "sidebar": "814f3328",
+    "content": "47ac1116"
   },
   "/blog/2023/11/23/ 📢 Featured in a Delfi article-4be": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-11-23-📢-featured-in-a-delfi-article-6-c-9-809"
+    "sidebar": "814f3328",
+    "content": "6c99cf4e"
   },
   "/blog/2023/12/06/ 📢 EstoniAI Meetup v5-cac": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-12-06-📢-estoni-ai-meetup-v-5722-154"
+    "sidebar": "814f3328",
+    "content": "7221ffe4"
   },
   "/blog/2023/12/20/ 📢 Devclub.eu talk about AI and bees-5d1": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2023-12-20-📢-devclub-eu-talk-about-ai-and-beesae-0-ce3"
+    "sidebar": "814f3328",
+    "content": "ae0dfdf9"
   },
   "/blog/2024/01/26/ 💶 Visiting Startup Day 2024-97c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-01-26-💶-visiting-startup-day-2024286-bde"
+    "sidebar": "814f3328",
+    "content": "286fee50"
   },
   "/blog/2024/02/29/ 📢 Pitched at Founders Live-d73": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-02-29-📢-pitched-at-founders-live-2-c-9-a83"
+    "sidebar": "814f3328",
+    "content": "2c96f76e"
   },
   "/blog/2024/03/24/ 📺 Kanal 7 interview-e1f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-03-24-📺-kanal-7-interviewdce-da4"
+    "sidebar": "814f3328",
+    "content": "dcea8c13"
   },
   "/blog/2024/03/27/ 🎒 Participated in EAS.ee deeptech grant qualifications webinar-f89": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-03-27-🎒-participated-in-eas-ee-deeptech-grant-qualifications-webinara-33-3e7"
+    "sidebar": "814f3328",
+    "content": "a33cc7a6"
   },
   "/blog/2024/04/12/ 💶 Pitch to 500co-dac": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-04-12-💶-pitch-to-500-co-16-f-485"
+    "sidebar": "814f3328",
+    "content": "16f0a8d7"
   },
   "/blog/2024/05/05/ 💶 Sent deck to tilia.vc-352": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-05-05-💶-sent-deck-to-tilia-vcbe-2-943"
+    "sidebar": "814f3328",
+    "content": "be227058"
   },
   "/blog/2024/05/05/ 💶 Visited Latitude59-24b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-05-05-💶-visited-latitude-5984-f-ca6"
+    "sidebar": "814f3328",
+    "content": "84fa48e7"
   },
   "/blog/2024/05/05/ 🛠️ Participated in Prototron.ee fund-0e4": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-05-05-🛠️-participated-in-prototron-ee-fund-685-edf"
+    "sidebar": "814f3328",
+    "content": "6856e000"
   },
   "/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers-8c3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-06-10-🎒-hosting-internship-school-for-qa-engineers-8-d-0-f34"
+    "sidebar": "814f3328",
+    "content": "8d023e88"
   },
   "/blog/2024/06/17/ 💶 Pitch to purposetech.vc-dc4": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-06-17-💶-pitch-to-purposetech-vcd-1-d-7d3"
+    "sidebar": "814f3328",
+    "content": "d1d63994"
   },
   "/blog/2024/06/27/ 🛠️ Participated in K-space.ee hackathon-491": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-06-27-🛠️-participated-in-k-space-ee-hackathon-378-424"
+    "sidebar": "814f3328",
+    "content": "3784f427"
   },
   "/blog/2024/09/26/ 🎒 Attended Building a Viral Product Webinar-0a5": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-09-26-🎒-attended-building-a-viral-product-webinar-691-82c"
+    "sidebar": "814f3328",
+    "content": "691f3f7f"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
-  "/Prices-be0": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/prices-25f": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---pricesa-74-cab"
+      "plugin": "a7456010"
     },
-    "content": "content---prices-9-b-7-fd5"
+    "content": "36662b43"
   },
   "/privacy-476": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---pricesa-74-cab"
+      "plugin": "a7456010"
     },
-    "content": "content---privacy-8-e-3-935"
+    "content": "8e33b65d"
   },
   "/terms-235": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---pricesa-74-cab"
+      "plugin": "a7456010"
     },
-    "content": "content---terms-445-f2d"
+    "content": "445e7840"
   },
   "/about-1a8": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---about-360-66a"
+      "plugin": "360dc931"
     }
   },
   "/about-772": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---abouta-14-337"
+    "__comp": "a7bd4aaa",
+    "__props": "a14d12f5"
   },
   "/about-1da": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/about/-498": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-230-53f"
+    "__comp": "17896441",
+    "content": "230402f8"
   },
   "/about/company/-4f1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-c-38-14c"
+    "__comp": "17896441",
+    "content": "c38f42bc"
   },
   "/about/company/❤️‍🔥 Volunteering-acf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-❤️‍🔥-volunteering-533-250"
+    "__comp": "17896441",
+    "content": "5331a3d0"
   },
   "/about/company/Culture and values 🫀/-169": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-7-b-6-349"
+    "__comp": "17896441",
+    "content": "7b68f9b1"
   },
   "/about/company/Culture and values 🫀/Adapt to change 🏕️-46a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-adapt-to-change-🏕️-23-f-d41"
+    "__comp": "17896441",
+    "content": "23fb706f"
   },
   "/about/company/Culture and values 🫀/Ethical heart 🌳-5bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-ethical-heart-🌳-b-62-fb1"
+    "__comp": "17896441",
+    "content": "b6297ef3"
   },
   "/about/company/Culture and values 🫀/Gather value 🍯-d7f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-gather-value-🍯-8-cc-e09"
+    "__comp": "17896441",
+    "content": "8cc91bdc"
   },
   "/about/company/Culture and values 🫀/Humbly kind 🧸-5d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-humbly-kind-🧸-ce-1-fc4"
+    "__comp": "17896441",
+    "content": "ce1cea64"
   },
   "/about/company/Culture and values 🫀/New horizons 🏔️-99b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-new-horizons-🏔️-91-e-40f"
+    "__comp": "17896441",
+    "content": "91e7c064"
   },
   "/about/company/Culture and values 🫀/Observable mind 🧿-f5c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-observable-mind-🧿-4-af-1d0"
+    "__comp": "17896441",
+    "content": "4afc54ae"
   },
   "/about/company/Culture and values 🫀/Radiate truth 🌞-22e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-radiate-truth-🌞-12-e-11d"
+    "__comp": "17896441",
+    "content": "12ecfef4"
   },
   "/about/company/Culture and values 🫀/Team effort 🐝-658": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-team-effort-🐝-b-2-a-196"
+    "__comp": "17896441",
+    "content": "b2a1f3e7"
   },
   "/about/company/Equity & fundraising program plan-472": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-equity-fundraising-program-plane-58-96d"
+    "__comp": "17896441",
+    "content": "e58e196f"
   },
   "/about/company/Meeting recordings-c91": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-meeting-recordings-13-d-bbe"
+    "__comp": "17896441",
+    "content": "13dedbf1"
   },
   "/about/company/Press kit-084": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-press-kit-275-1df"
+    "__comp": "17896441",
+    "content": "275498b6"
   },
   "/about/company/Team/-fa9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-team-495-022"
+    "__comp": "17896441",
+    "content": "495d7765"
   },
   "/about/company/Team/Aleksei Prokopov-def": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-team-aleksei-prokopovc-74-243"
+    "__comp": "17896441",
+    "content": "c745c496"
   },
   "/about/company/Team/Artjom Kurapov-28e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-team-artjom-kurapov-6-af-109"
+    "__comp": "17896441",
+    "content": "6af299f8"
   },
   "/about/company/Volunteers/Aleksei Boris-392": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteers-aleksei-borisc-7-b-ff9"
+    "__comp": "17896441",
+    "content": "c7bdb059"
   },
   "/about/company/Volunteers/Natalia Kinash-8fd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteers-natalia-kinashf-71-f01"
+    "__comp": "17896441",
+    "content": "f718acd3"
   },
   "/about/company/Volunteers/Reinis Indans-109": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteers-reinis-indans-509-049"
+    "__comp": "17896441",
+    "content": "509660ec"
   },
   "/about/Problems/-2cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-fe-3-467"
+    "__comp": "17896441",
+    "content": "fe3d07ae"
   },
   "/about/Problems/❄️ Overwintering collapse-86e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-❄️-overwintering-collapsed-5-e-7ca"
+    "__comp": "17896441",
+    "content": "d5e38bbe"
   },
   "/about/Problems/🌲 Distant locations-638": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌲-distant-locations-125-bb1"
+    "__comp": "17896441",
+    "content": "1250e98f"
   },
   "/about/Problems/🌻 Insufficient pollination-a86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌻-insufficient-pollination-40-d-721"
+    "__comp": "17896441",
+    "content": "40d3e6b5"
   },
   "/about/Problems/🌻 Monocultural agriculture-2dd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌻-monocultural-agriculture-5-bc-4fa"
+    "__comp": "17896441",
+    "content": "5bc2303f"
   },
   "/about/Problems/🍯 Low honey yields-b4a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🍯-low-honey-yields-8-a-7-c6a"
+    "__comp": "17896441",
+    "content": "8a7f1e9a"
   },
   "/about/Problems/🍽️ Colony starvation-bc0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🍽️-colony-starvationc-2-e-883"
+    "__comp": "17896441",
+    "content": "c2e5f517"
   },
   "/about/Problems/🎒 Challenging to become a new beekeeper-a38": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🎒-challenging-to-become-a-new-beekeeper-79-c-d62"
+    "__comp": "17896441",
+    "content": "79cc45a5"
   },
   "/about/Problems/🏘️ Bees attacking neighbours-609": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🏘️-bees-attacking-neighbours-588-f04"
+    "__comp": "17896441",
+    "content": "58893a6c"
   },
   "/about/Problems/🏘️ Multiple apiaries-558": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🏘️-multiple-apiaries-1-d-6-7a9"
+    "__comp": "17896441",
+    "content": "1d6c8876"
   },
   "/about/Problems/🐭 Mice killing a colony-6f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🐭-mice-killing-a-colony-085-2b8"
+    "__comp": "17896441",
+    "content": "085bb9e2"
   },
   "/about/Problems/🐻 Bears destroying hives & colonies-878": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🐻-bears-destroying-hives-coloniesbe-2-ea4"
+    "__comp": "17896441",
+    "content": "be266e17"
   },
   "/about/Problems/👁️ Observability of bee colony-0fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-👁️-observability-of-bee-colony-982-927"
+    "__comp": "17896441",
+    "content": "982cf4d2"
   },
   "/about/Problems/👁️ Time-consuming inspections-e43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-👁️-time-consuming-inspections-849-801"
+    "__comp": "17896441",
+    "content": "849d5037"
   },
   "/about/Problems/💀 Alcohol washing killing bees-2fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💀-alcohol-washing-killing-beesc-1-c-8b0"
+    "__comp": "17896441",
+    "content": "c1ceb1a1"
   },
   "/about/Problems/💀 Colony with drone-laying queen-dad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💀-colony-with-drone-laying-queen-91-f-e3c"
+    "__comp": "17896441",
+    "content": "91fffd53"
   },
   "/about/Problems/💀 Colony without a queen-3d2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💀-colony-without-a-queenf-86-c15"
+    "__comp": "17896441",
+    "content": "f8625ce0"
   },
   "/about/Problems/💀 Intrusive inspections-594": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💀-intrusive-inspections-0-a-3-9e9"
+    "__comp": "17896441",
+    "content": "0a3c998b"
   },
   "/about/Problems/💢 Aggressive bee colonies-3b2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💢-aggressive-bee-colonies-1-b-1-6ee"
+    "__comp": "17896441",
+    "content": "1b1825d1"
   },
   "/about/Problems/💢 Hornet attacks-c3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💢-hornet-attacks-1-af-18b"
+    "__comp": "17896441",
+    "content": "1af21106"
   },
   "/about/Problems/💢 Robbing state-8f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💢-robbing-state-596-a57"
+    "__comp": "17896441",
+    "content": "596fcdbf"
   },
   "/about/Problems/💪🏻 Physical labor-a28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💪🏻-physical-labor-981-00c"
+    "__comp": "17896441",
+    "content": "981ee276"
   },
   "/about/Problems/💪🏻 Unscalable work-430": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-💪🏻-unscalable-workc-88-39e"
+    "__comp": "17896441",
+    "content": "c88589db"
   },
   "/about/Problems/📦 Warehouse organization-76b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-📦-warehouse-organizationd-95-c32"
+    "__comp": "17896441",
+    "content": "d950e7e1"
   },
   "/about/Problems/🗃️ Flimsy beehives-6b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🗃️-flimsy-beehivesea-4-322"
+    "__comp": "17896441",
+    "content": "ea40e281"
   },
   "/about/Problems/🗃️ Poor hive ventilation-08c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🗃️-poor-hive-ventilation-7-bb-c72"
+    "__comp": "17896441",
+    "content": "7bb6da53"
   },
   "/about/Problems/🗃️ Ugly beehives-98a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🗃️-ugly-beehivesce-7-e67"
+    "__comp": "17896441",
+    "content": "ce7e104d"
   },
   "/about/Problems/🤢 Pesticide poisoning-6a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🤢-pesticide-poisoning-606-89d"
+    "__comp": "17896441",
+    "content": "606c11df"
   },
   "/about/Problems/🦀 Diseases-3f7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🦀-diseasescdb-7bb"
+    "__comp": "17896441",
+    "content": "cdb8f02d"
   },
   "/about/Problems/🦀 Infestations-64a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🦀-infestations-862-f12"
+    "__comp": "17896441",
+    "content": "8621cd1b"
   },
   "/about/Problems/🧶 Swarming-095": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🧶-swarming-79-a-c1d"
+    "__comp": "17896441",
+    "content": "79a14826"
   },
   "/about/products/-5dc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-548-6ee"
+    "__comp": "17896441",
+    "content": "5489ad2c"
   },
   "/about/products/🌡️ Beehive IoT sensors-d57": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-🌡️-beehive-io-t-sensors-702-b90"
+    "__comp": "17896441",
+    "content": "70278ed2"
   },
   "/about/products/👁️‍🗨️ Entrance Observer-88f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-👁️‍🗨️-entrance-observer-02-a-fda"
+    "__comp": "17896441",
+    "content": "02a319be"
   },
   "/about/products/📱Web-app-814": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-📱-web-appc-1-d-fa7"
+    "__comp": "17896441",
+    "content": "c1df981f"
   },
   "/about/products/🧿 Robotic Beehive-625": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-🧿-robotic-beehive-1-df-e91"
+    "__comp": "17896441",
+    "content": "1df050e7"
   },
   "/about/products/🪬 Robotic Apiary-a32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-🪬-robotic-apiary-94-b-884"
+    "__comp": "17896441",
+    "content": "94b225f0"
   },
   "/about/purpose/-f43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-e-26-cd9"
+    "__comp": "17896441",
+    "content": "e26b222d"
   },
   "/about/purpose/Company mission-e87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-company-mission-334-5f0"
+    "__comp": "17896441",
+    "content": "334c4c57"
   },
   "/about/purpose/Ethics-56c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-ethics-646-6c8"
+    "__comp": "17896441",
+    "content": "646f3330"
   },
   "/about/purpose/Logo 🧪-c1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-logo-🧪-c-7-d-2d2"
+    "__comp": "17896441",
+    "content": "c7dea19b"
   },
   "/about/purpose/Naming-844": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-namingc-7-d-a96"
+    "__comp": "17896441",
+    "content": "c7d65b04"
   },
   "/about/purpose/Symbolism-cbc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-symbolism-09-c-a3b"
+    "__comp": "17896441",
+    "content": "09c86d52"
   },
   "/about/research/-af7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-ae-1-f4f"
+    "__comp": "17896441",
+    "content": "ae11754e"
   },
   "/about/research/Biodiversity conservation and current threats to European honeybees-0fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-biodiversity-conservation-and-current-threats-to-european-honeybeesaa-9-2fd"
+    "__comp": "17896441",
+    "content": "aa9391f9"
   },
   "/about/research/Honey bees modify plantpollinator network structure-58e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-honey-bees-modify-plantpollinator-network-structure-650-558"
+    "__comp": "17896441",
+    "content": "650f21b2"
   },
   "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery-41c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-varroa-destructor-detection-on-honey-bees-using-hyperspectral-imagerya-22-573"
+    "__comp": "17896441",
+    "content": "a2213033"
   },
   "/about/Target clients/👨🏻 Potential new beekeepers-d9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻-potential-new-beekeepers-084-250"
+    "__comp": "17896441",
+    "content": "084c54ab"
   },
   "/about/Target clients/👨🏻‍💻 Tech-savvy engineers-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍💻-tech-savvy-engineers-573-771"
+    "__comp": "17896441",
+    "content": "573403b0"
   },
   "/about/Target clients/👨🏻‍🚀 Backyard beekeepers-37a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍🚀-backyard-beekeepers-3-a-0-be6"
+    "__comp": "17896441",
+    "content": "3a0ce113"
   },
   "/about/Target clients/👨🏻‍🚒 Industrial beekeepers-11c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍🚒-industrial-beekeeperseff-b8d"
+    "__comp": "17896441",
+    "content": "effd880c"
   },
   "/about/Target clients/👩🏻 Tech scale-up companies-369": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👩🏻-tech-scale-up-companies-187-924"
+    "__comp": "17896441",
+    "content": "18748562"
   },
   "/about/Target clients/👩🏼‍🏫 Urban beekeepers-3cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👩🏼‍🏫-urban-beekeepers-715-a0e"
+    "__comp": "17896441",
+    "content": "715e2791"
   },
   "/about/Target clients/🧑🏻‍🌾 Farmers-fef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-🧑🏻‍🌾-farmers-9-e-1-828"
+    "__comp": "17896441",
+    "content": "9e15fbbf"
   },
   "/docs-5dd": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-428": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-0d7": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/Engineering/CAD modelling-265": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-cad-modellingd-0-e-9cb"
+    "__comp": "17896441",
+    "content": "d0e1c249"
   },
   "/docs/Engineering/Cloud Infrastructure-b86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-cloud-infrastructuree-57-7f2"
+    "__comp": "17896441",
+    "content": "e5795e88"
   },
   "/docs/Engineering/Design-5b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-designae-0-b97"
+    "__comp": "17896441",
+    "content": "ae07255b"
   },
   "/docs/Engineering/Engineering onboarding-84e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-engineering-onboarding-75-b-246"
+    "__comp": "17896441",
+    "content": "75ba8dac"
   },
   "/docs/Engineering/Merchandise-f86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-merchandisec-85-5fc"
+    "__comp": "17896441",
+    "content": "c85d2a83"
   },
   "/docs/Engineering/ML Datasets-1ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-ml-datasets-8-e-6-5b8"
+    "__comp": "17896441",
+    "content": "8e61ae59"
   },
   "/docs/Engineering/Robotics-807": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-roboticsc-28-99d"
+    "__comp": "17896441",
+    "content": "c2867b0a"
   },
   "/docs/Engineering/Tech stack, conventions, environments-19a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-tech-stack-conventions-environmentsd-52-a24"
+    "__comp": "17896441",
+    "content": "d52876df"
   },
   "/docs/Engineering/UX - UI wireframes-392": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-ux-ui-wireframesb-3-a-0c8"
+    "__comp": "17896441",
+    "content": "b3a21835"
   },
   "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano-39a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-how-to-setup-remote-desktop-connection-to-jetson-orin-or-nano-982-968"
+    "__comp": "17896441",
+    "content": "98272d8e"
   },
   "/docs/Jetson Nano setup-dcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-jetson-nano-setup-1-d-1-d2e"
+    "__comp": "17896441",
+    "content": "1d110089"
   },
   "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---pricesa-74-cab"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
