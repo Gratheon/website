@@ -177,19 +177,16 @@
             {
               "id": "company/Volunteers/Aleksei Boris",
               "path": "/about/company/Volunteers/Aleksei Boris",
-              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "company/Volunteers/Natalia Kinash",
               "path": "/about/company/Volunteers/Natalia Kinash",
-              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "company/Volunteers/Reinis Indans",
               "path": "/about/company/Volunteers/Reinis Indans",
-              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
@@ -380,6 +377,11 @@
             {
               "id": "products/index",
               "path": "/about/products/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/prices",
+              "path": "/about/products/prices",
               "sidebar": "tutorialSidebar"
             },
             {

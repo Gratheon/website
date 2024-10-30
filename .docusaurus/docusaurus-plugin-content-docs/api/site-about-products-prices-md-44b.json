@@ -1,0 +1,26 @@
+{
+  "id": "products/prices",
+  "title": "⚖️ Pricing",
+  "description": "| Billing plan | Community                                                                                                                  | Essential                                                                                                           | Professional                                                                              |",
+  "source": "@site/about/products/prices.md",
+  "sourceDirName": "products",
+  "slug": "/products/prices",
+  "permalink": "/about/products/prices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "⚖️ Pricing",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors"
+  }
+}

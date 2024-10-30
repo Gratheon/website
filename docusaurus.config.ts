@@ -115,7 +115,7 @@ const config: Config = {
 
         {to: '/blog', label: 'Blog', position: 'left'},
 
-        {href: '/prices', label: 'Pricing', position: 'left'},
+        {href: '/about/products/prices', label: 'Pricing', position: 'left'},
         
         {href: 'https://app.gratheon.com/account/authenticate/', label: 'Log in', position: 'right'},
         

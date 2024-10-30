@@ -7,11 +7,19 @@
   "slug": "/company/Volunteers/Natalia Kinash",
   "permalink": "/about/company/Volunteers/Natalia Kinash",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aleksei Boris",
+    "permalink": "/about/company/Volunteers/Aleksei Boris"
+  },
+  "next": {
+    "title": "Reinis Indans",
+    "permalink": "/about/company/Volunteers/Reinis Indans"
+  }
 }

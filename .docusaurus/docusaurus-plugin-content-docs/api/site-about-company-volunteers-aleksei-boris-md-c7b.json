@@ -7,11 +7,19 @@
   "slug": "/company/Volunteers/Aleksei Boris",
   "permalink": "/about/company/Volunteers/Aleksei Boris",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artjom Kurapov",
+    "permalink": "/about/company/Team/Artjom Kurapov"
+  },
+  "next": {
+    "title": "Natalia Kinash",
+    "permalink": "/about/company/Volunteers/Natalia Kinash"
+  }
 }

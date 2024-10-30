@@ -106,7 +106,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "/prices",
+          "href": "/about/products/prices",
           "label": "Pricing",
           "position": "left"
         },

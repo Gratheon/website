@@ -3,7 +3,7 @@
   "permalink": "/prices",
   "source": "@site/src/pages/prices.md",
   "title": "Prices",
-  "description": "Prices for 📱Web-app software services",
+  "description": "Prices for 📱Web-app software services",
   "frontMatter": {
     "title": "Prices",
     "hide_table_of_contents": true
