@@ -149,25 +149,25 @@ export default [
   },
   {
     path: '/privacy',
-    component: ComponentCreator('/privacy', '476'),
+    component: ComponentCreator('/privacy', '03e'),
     exact: true
   },
   {
     path: '/terms',
-    component: ComponentCreator('/terms', '235'),
+    component: ComponentCreator('/terms', '0f5'),
     exact: true
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '13f'),
+    component: ComponentCreator('/about', 'cdc'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '32d'),
+        component: ComponentCreator('/about', 'add'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e03'),
+            component: ComponentCreator('/about', 'e5a'),
             routes: [
               {
                 path: '/about/',
@@ -178,12 +178,6 @@ export default [
               {
                 path: '/about/company/',
                 component: ComponentCreator('/about/company/', '4f1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/❤️‍🔥 Volunteering',
-                component: ComponentCreator('/about/company/❤️‍🔥 Volunteering', 'acf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -242,8 +236,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Equity & fundraising program plan',
-                component: ComponentCreator('/about/company/Equity & fundraising program plan', '472'),
+                path: '/about/company/equity',
+                component: ComponentCreator('/about/company/equity', 'b95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -278,14 +272,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/volunteer',
+                component: ComponentCreator('/about/company/volunteer', '26c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Ahmed Daoudi',
+                component: ComponentCreator('/about/company/Volunteers/Ahmed Daoudi', 'c71'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/Volunteers/Aleksei Boris',
                 component: ComponentCreator('/about/company/Volunteers/Aleksei Boris', '392'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Volunteers/Kurban Ramazanov',
+                component: ComponentCreator('/about/company/Volunteers/Kurban Ramazanov', '3de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Muhammad Zain Shakeel',
+                component: ComponentCreator('/about/company/Volunteers/Muhammad Zain Shakeel', '9d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/Volunteers/Natalia Kinash',
                 component: ComponentCreator('/about/company/Volunteers/Natalia Kinash', '8fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Volunteers/Olena Stoliarova',
+                component: ComponentCreator('/about/company/Volunteers/Olena Stoliarova', 'cc5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -554,48 +578,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/research/',
-                component: ComponentCreator('/about/research/', 'af7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
-                component: ComponentCreator('/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', 'e0b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Biodiversity conservation and current threats to European honeybees',
-                component: ComponentCreator('/about/research/Biodiversity conservation and current threats to European honeybees', '0fe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Honey bees modify plantpollinator network structure',
-                component: ComponentCreator('/about/research/Honey bees modify plantpollinator network structure', '58e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Markerless tracking of an entire honey bee colony',
-                component: ComponentCreator('/about/research/Markerless tracking of an entire honey bee colony', 'd3a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Towards dense object tracking in a 2D honeybee hive',
-                component: ComponentCreator('/about/research/Towards dense object tracking in a 2D honeybee hive', '012'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/research/Varroa destructor detection on honey bees using hyperspectral imagery',
-                component: ComponentCreator('/about/research/Varroa destructor detection on honey bees using hyperspectral imagery', '41c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/Target clients/👨🏻 Potential new beekeepers',
                 component: ComponentCreator('/about/Target clients/👨🏻 Potential new beekeepers', 'd9d'),
                 exact: true,
@@ -728,8 +710,96 @@ export default [
     ]
   },
   {
+    path: '/research',
+    component: ComponentCreator('/research', '4f5'),
+    routes: [
+      {
+        path: '/research',
+        component: ComponentCreator('/research', '43c'),
+        routes: [
+          {
+            path: '/research',
+            component: ComponentCreator('/research', 'de5'),
+            routes: [
+              {
+                path: '/research/',
+                component: ComponentCreator('/research/', '2c3'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
+                component: ComponentCreator('/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', '3b6'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ Towards dense object tracking in a 2D honeybee hive',
+                component: ComponentCreator('/research/⭐️ Towards dense object tracking in a 2D honeybee hive', 'ca1'),
+                exact: true
+              },
+              {
+                path: '/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
+                component: ComponentCreator('/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '947'),
+                exact: true
+              },
+              {
+                path: '/research/Approximation of functions determining colony activity using neural networks - master thesis',
+                component: ComponentCreator('/research/Approximation of functions determining colony activity using neural networks - master thesis', '99d'),
+                exact: true
+              },
+              {
+                path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
+                component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
+                exact: true
+              },
+              {
+                path: '/research/Biodiversity conservation and current threats to European honeybees',
+                component: ComponentCreator('/research/Biodiversity conservation and current threats to European honeybees', 'c05'),
+                exact: true
+              },
+              {
+                path: '/research/Honey bees modify plantpollinator network structure',
+                component: ComponentCreator('/research/Honey bees modify plantpollinator network structure', '935'),
+                exact: true
+              },
+              {
+                path: '/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
+                component: ComponentCreator('/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '103'),
+                exact: true
+              },
+              {
+                path: '/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey',
+                component: ComponentCreator('/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', '8e3'),
+                exact: true
+              },
+              {
+                path: '/research/Markerless tracking of an entire honey bee colony',
+                component: ComponentCreator('/research/Markerless tracking of an entire honey bee colony', '06d'),
+                exact: true
+              },
+              {
+                path: '/research/Raspberry Pi Bee Health Monitoring Device',
+                component: ComponentCreator('/research/Raspberry Pi Bee Health Monitoring Device', 'e0a'),
+                exact: true
+              },
+              {
+                path: '/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces',
+                component: ComponentCreator('/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces', '37b'),
+                exact: true
+              },
+              {
+                path: '/research/Varroa destructor detection on honey bees using hyperspectral imagery',
+                component: ComponentCreator('/research/Varroa destructor detection on honey bees using hyperspectral imagery', 'd70'),
+                exact: true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    component: ComponentCreator('/', 'dec'),
     exact: true
   },
   {

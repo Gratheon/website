@@ -1,0 +1,23 @@
+{
+  "id": "company/Volunteers/Ahmed Daoudi",
+  "title": "Ahmed Daoudi",
+  "description": "https://www.linkedin.com/in/ahmed-daoudi-aa693a230/",
+  "source": "@site/about/company/Volunteers/Ahmed Daoudi.md",
+  "sourceDirName": "company/Volunteers",
+  "slug": "/company/Volunteers/Ahmed Daoudi",
+  "permalink": "/about/company/Volunteers/Ahmed Daoudi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Press kit",
+    "permalink": "/about/company/Press kit"
+  },
+  "next": {
+    "title": "Aleksei Boris",
+    "permalink": "/about/company/Volunteers/Aleksei Boris"
+  }
+}

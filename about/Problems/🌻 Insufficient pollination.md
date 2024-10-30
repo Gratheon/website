@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 Food security - 735.1M undernourished people worldwide according to [FAO](https://www.fao.org/faostat/en/#data/FS) in 2022
 
-## Problem 1. Farmers do not have bees as pollinators and get low yields.
+## Farmers do not have bees as pollinators and get low yields.
 
 > We found a rapidly increasing demand for honeybee pollination but a decreasing pollination service capacity of honeybee colonies. Globally, the demand for honeybee pollination rose approximately 2.3 times higher than the stocked number of honeybee colonies in 2019, growing 1.78% annually, almost 2 times faster than honeybee colonies (0.95%). (…) Our study shows that managed [pollinators](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pollinator) are far too insufficient to adequately supply the agricultural pollination demand worldwide. This emphasises the importance of ongoing calls for protecting pollinators and the integrated management of honeybees and wild pollinator assemblages for a sustainable food-secure future world
 
@@ -14,7 +14,7 @@ Food security - 735.1M undernourished people worldwide according to [FAO](https
 
 [[**The lost opportunity from insufficient pollinators for global food supplies and human health**](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(22)00265-0/fulltext)]([https://www.notion.so/The-lost-opportunity-from-insufficient-pollinators-for-global-food-supplies-and-human-health-1cc1a880358645fdb66568b1f3d09764?pvs=21](https://www.notion.so/The-lost-opportunity-from-insufficient-pollinators-for-global-food-supplies-and-human-health-1cc1a880358645fdb66568b1f3d09764?pvs=21))
 
-## Problem 2. Even if bees are present, they are positioned inefficiently
+## Even if bees are present, they are positioned inefficiently
 
 Apiaries can be placed inefficiently, which can lead to extensive routes done by the foraging bees. This in turn increases risks for the colony to run out of foragers and have starvation. For the beekeepers it can mean reduced yields. Inefficient placement means that hives are positioned close together, far away from fields, trees or water.
 

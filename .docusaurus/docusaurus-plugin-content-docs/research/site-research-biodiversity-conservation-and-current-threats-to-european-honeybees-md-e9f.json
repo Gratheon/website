@@ -1,0 +1,20 @@
+{
+  "id": "Biodiversity conservation and current threats to European honeybees",
+  "title": "Biodiversity conservation and current threats to European honeybees",
+  "description": "PDF",
+  "source": "@site/research/Biodiversity conservation and current threats to European honeybees.md",
+  "sourceDirName": ".",
+  "slug": "/Biodiversity conservation and current threats to European honeybees",
+  "permalink": "/research/Biodiversity conservation and current threats to European honeybees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2009",
+    "orgs": [
+      "🇪🇸 Universidad de Murcia",
+      " 🇩🇪 Martin-Luther-Universität Halle-Wittenberg"
+    ]
+  }
+}

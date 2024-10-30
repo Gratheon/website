@@ -1,6 +1,6 @@
 {
   "id": "company/❤️‍🔥 Volunteering",
-  "title": "❤️‍🔥 Volunteering",
+  "title": "Volunteering ❤️‍🔥",
   "description": "How to start",
   "source": "@site/about/company/❤️‍🔥 Volunteering.md",
   "sourceDirName": "company",
@@ -10,11 +10,13 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Volunteering ❤️‍🔥"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Reinis Indans",
-    "permalink": "/about/company/Volunteers/Reinis Indans"
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
   },
   "next": {
     "title": "🔬 Research",

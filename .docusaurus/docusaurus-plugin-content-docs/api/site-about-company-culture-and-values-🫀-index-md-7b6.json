@@ -10,15 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 0,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 0,
+    "sidebar_position": 2,
     "title": "Culture and values 🫀"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
+    "title": "Artjom Kurapov",
+    "permalink": "/about/company/Team/Artjom Kurapov"
   },
   "next": {
     "title": "Adapt to change 🏕️",

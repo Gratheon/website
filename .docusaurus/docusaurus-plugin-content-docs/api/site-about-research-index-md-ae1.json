@@ -13,15 +13,16 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6,
-    "title": "🔬 Research"
+    "title": "🔬 Research",
+    "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "❤️‍🔥 Volunteering",
-    "permalink": "/about/company/❤️‍🔥 Volunteering"
+    "title": "Volunteering ❤️‍🔥",
+    "permalink": "/about/company/volunteer"
   },
   "next": {
-    "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
-    "permalink": "/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+    "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+    "permalink": "/about/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
   }
 }

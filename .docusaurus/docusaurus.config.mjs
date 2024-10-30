@@ -51,7 +51,7 @@ export default {
           "customCss": "./src/css/custom.css"
         },
         "pages": {
-          "path": "src/pages",
+          "path": "./pages",
           "routeBasePath": "",
           "include": [
             "**/*.{js,jsx,ts,tsx,md,mdx}"
@@ -99,6 +99,11 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Docs"
+        },
+        {
+          "to": "/research",
+          "label": "Research",
+          "position": "left"
         },
         {
           "to": "/blog",
@@ -425,6 +430,15 @@ export default {
         "path": "./about",
         "routeBasePath": "about",
         "sidebarPath": "sidebars.ts"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "research",
+        "path": "./research",
+        "routeBasePath": "research",
+        "sidebarPath": "sidebars.research.ts"
       }
     ]
   ],

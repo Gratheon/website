@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/privacy",
+  "source": "@site/pages/privacy.md",
+  "title": "Privacy Policy",
+  "description": "Last updated October 29, 2024",
+  "frontMatter": {
+    "title": "Privacy Policy",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "research/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "title": "⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "description": "PDF",
+  "source": "@site/about/research/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
+  "sourceDirName": "research",
+  "slug": "/research/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "permalink": "/about/research/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2018",
+    "orgs": [
+      "🇯🇵 Okinawa Institute of Science and Technology Graduate University"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+    "permalink": "/about/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+  },
+  "next": {
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/Target clients/👨🏻 Potential new beekeepers"
+  }
+}

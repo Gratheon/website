@@ -1,0 +1,29 @@
+{
+  "id": "research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+  "description": "PDF",
+  "source": "@site/about/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey.md",
+  "sourceDirName": "research",
+  "slug": "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "permalink": "/about/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ],
+    "year": "2023"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+    "permalink": "/about/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
+  },
+  "next": {
+    "title": "Markerless tracking of an entire honey bee colony",
+    "permalink": "/about/research/Markerless tracking of an entire honey bee colony"
+  }
+}

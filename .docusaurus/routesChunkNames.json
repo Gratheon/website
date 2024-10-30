@@ -339,31 +339,31 @@
     },
     "__props": "__props---blog-archivef-81-229"
   },
-  "/privacy-476": {
+  "/privacy-03e": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---pricesa-74-ba1"
+      "plugin": "plugin---privacya-74-75a"
     },
-    "content": "content---privacy-8-e-3-935"
+    "content": "content---privacyc-93-ad0"
   },
-  "/terms-235": {
+  "/terms-0f5": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---pricesa-74-ba1"
+      "plugin": "plugin---privacya-74-75a"
     },
-    "content": "content---terms-445-f2d"
+    "content": "content---termsaec-98a"
   },
-  "/about-13f": {
+  "/about-cdc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-32d": {
+  "/about-add": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-e03": {
+  "/about-e5a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -373,10 +373,6 @@
   "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-c-38-14c"
-  },
-  "/about/company/❤️‍🔥 Volunteering-acf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-❤️‍🔥-volunteering-533-250"
   },
   "/about/company/Culture and values 🫀/-169": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -414,9 +410,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-culture-and-values-🫀-team-effort-🐝-b-2-a-196"
   },
-  "/about/company/Equity & fundraising program plan-472": {
+  "/about/company/equity-b95": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-equity-fundraising-program-plane-58-96d"
+    "content": "content---about-company-equity-0-fc-f97"
   },
   "/about/company/Meeting recordings-c91": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -438,13 +434,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-team-artjom-kurapov-6-af-109"
   },
+  "/about/company/volunteer-26c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteerb-64-901"
+  },
+  "/about/company/Volunteers/Ahmed Daoudi-c71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-ahmed-daoudi-808-23b"
+  },
   "/about/company/Volunteers/Aleksei Boris-392": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteers-aleksei-borisc-7-b-ff9"
   },
+  "/about/company/Volunteers/Kurban Ramazanov-3de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-kurban-ramazanov-327-c0f"
+  },
+  "/about/company/Volunteers/Muhammad Zain Shakeel-9d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-muhammad-zain-shakeel-591-cfd"
+  },
   "/about/company/Volunteers/Natalia Kinash-8fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteers-natalia-kinashf-71-f01"
+  },
+  "/about/company/Volunteers/Olena Stoliarova-cc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-volunteers-olena-stoliarovaa-2-d-1df"
   },
   "/about/company/Volunteers/Reinis Indans-109": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -622,34 +638,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/about/research/-af7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-ae-1-f4f"
-  },
-  "/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots-e0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-autonomous-tracking-of-honey-bee-behaviors-over-long-term-periods-with-cooperating-robots-087-7f5"
-  },
-  "/about/research/Biodiversity conservation and current threats to European honeybees-0fe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-biodiversity-conservation-and-current-threats-to-european-honeybeesaa-9-2fd"
-  },
-  "/about/research/Honey bees modify plantpollinator network structure-58e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-honey-bees-modify-plantpollinator-network-structure-650-558"
-  },
-  "/about/research/Markerless tracking of an entire honey bee colony-d3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-markerless-tracking-of-an-entire-honey-bee-colony-15-a-bb1"
-  },
-  "/about/research/Towards dense object tracking in a 2D honeybee hive-012": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-towards-dense-object-tracking-in-a-2-d-honeybee-hive-9-cd-756"
-  },
-  "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery-41c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-research-varroa-destructor-detection-on-honey-bees-using-hyperspectral-imagerya-22-573"
-  },
   "/about/Target clients/👨🏻 Potential new beekeepers-d9d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-target-clients-👨🏻-potential-new-beekeepers-084-250"
@@ -735,10 +723,79 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-jetson-nano-setup-1-d-1-d2e"
   },
-  "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+  "/research-4f5": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---pricesa-74-ba1"
+      "plugin": "plugin---research-69-c-fe6"
+    }
+  },
+  "/research-43c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---research-262-273"
+  },
+  "/research-de5": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/research/-2c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-ca-8-83e"
+  },
+  "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots-3b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-autonomous-tracking-of-honey-bee-behaviors-over-long-term-periods-with-cooperating-robots-728-7b1"
+  },
+  "/research/⭐️ Towards dense object tracking in a 2D honeybee hive-ca1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-towards-dense-object-tracking-in-a-2-d-honeybee-hive-3-e-8-70b"
+  },
+  "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-947": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-ambient-electromagnetic-radiation-as-a-predictor-of-honey-bee-traffic-4-d-2-2d8"
+  },
+  "/research/Approximation of functions determining colony activity using neural networks - master thesis-99d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-approximation-of-functions-determining-colony-activity-using-neural-networks-master-thesis-91-c-f9d"
+  },
+  "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance-9c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillanceeab-c77"
+  },
+  "/research/Biodiversity conservation and current threats to European honeybees-c05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-biodiversity-conservation-and-current-threats-to-european-honeybeese-9-f-9db"
+  },
+  "/research/Honey bees modify plantpollinator network structure-935": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-honey-bees-modify-plantpollinator-network-structuree-02-bb5"
+  },
+  "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-103": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-identifying-queenlessness-in-honeybee-hives-from-audio-signals-using-machine-learningb-35-fbc"
+  },
+  "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-8e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-machine-learning-and-computer-vision-techniques-in-continuous-beehive-monitoring-applications-a-surveye-34-aa2"
+  },
+  "/research/Markerless tracking of an entire honey bee colony-06d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-markerless-tracking-of-an-entire-honey-bee-colony-15-f-1d8"
+  },
+  "/research/Raspberry Pi Bee Health Monitoring Device-e0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-raspberry-pi-bee-health-monitoring-device-3-e-6-20c"
+  },
+  "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-37b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-varroa-destructor-classification-using-legendre-fourier-moments-with-different-color-spaces-922-b22"
+  },
+  "/research/Varroa destructor detection on honey bees using hyperspectral imagery-d70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-varroa-destructor-detection-on-honey-bees-using-hyperspectral-imageryf-22-32c"
+  },
+  "/-dec": {
+    "__comp": "__comp---site-pages-index-tsx-4-fd-71b",
+    "__context": {
+      "plugin": "plugin---privacya-74-75a"
     },
     "config": "config---5-e-9-4f3"
   }

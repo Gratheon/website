@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Towards dense object tracking in a 2D honeybee hive",
-    "permalink": "/about/research/Towards dense object tracking in a 2D honeybee hive"
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/about/research/Raspberry Pi Bee Health Monitoring Device"
   },
   "next": {
-    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
-    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+    "title": "Varroa Destructor Classification Using Legendre–Fourier Moments with Different Color Spaces",
+    "permalink": "/about/research/Varroa Destructor Classification Using Legendre–Fourier Moments with Different Color Spaces"
   }
 }

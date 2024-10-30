@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/terms",
+  "source": "@site/pages/terms.md",
+  "title": "Terms Of Service",
+  "description": "Last updated October 29, 2024",
+  "frontMatter": {
+    "title": "Terms Of Service",
+    "hide_table_of_contents": true
+  },
+  "unlisted": false
+}

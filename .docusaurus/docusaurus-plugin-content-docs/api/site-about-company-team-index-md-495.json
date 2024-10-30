@@ -1,6 +1,6 @@
 {
   "id": "company/Team/index",
-  "title": "index",
+  "title": "Team ⚽️",
   "description": "- Artjom Kurapov",
   "source": "@site/about/company/Team/index.md",
   "sourceDirName": "company/Team",
@@ -10,11 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Team ⚽️",
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Press kit",
-    "permalink": "/about/company/Press kit"
+    "title": "👔 Company",
+    "permalink": "/about/company/"
   },
   "next": {
     "title": "Aleksei Prokopov",

@@ -90,11 +90,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "company/❤️‍🔥 Volunteering",
-              "path": "/about/company/❤️‍🔥 Volunteering",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Culture and values 🫀/Adapt to change 🏕️",
               "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
@@ -140,8 +135,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Equity & fundraising program plan",
-              "path": "/about/company/Equity & fundraising program plan",
+              "id": "company/equity",
+              "path": "/about/company/equity",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -175,13 +170,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/volunteer",
+              "path": "/about/company/volunteer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Ahmed Daoudi",
+              "path": "/about/company/Volunteers/Ahmed Daoudi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Volunteers/Aleksei Boris",
               "path": "/about/company/Volunteers/Aleksei Boris",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Volunteers/Kurban Ramazanov",
+              "path": "/about/company/Volunteers/Kurban Ramazanov",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Muhammad Zain Shakeel",
+              "path": "/about/company/Volunteers/Muhammad Zain Shakeel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Volunteers/Natalia Kinash",
               "path": "/about/company/Volunteers/Natalia Kinash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/Olena Stoliarova",
+              "path": "/about/company/Volunteers/Olena Stoliarova",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -410,41 +430,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
-              "path": "/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/Biodiversity conservation and current threats to European honeybees",
-              "path": "/about/research/Biodiversity conservation and current threats to European honeybees",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/Honey bees modify plantpollinator network structure",
-              "path": "/about/research/Honey bees modify plantpollinator network structure",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/index",
-              "path": "/about/research/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/Markerless tracking of an entire honey bee colony",
-              "path": "/about/research/Markerless tracking of an entire honey bee colony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/Towards dense object tracking in a 2D honeybee hive",
-              "path": "/about/research/Towards dense object tracking in a 2D honeybee hive",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "research/Varroa destructor detection on honey bees using hyperspectral imagery",
-              "path": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Target clients/👨🏻 Potential new beekeepers",
               "path": "/about/Target clients/👨🏻 Potential new beekeepers",
               "sidebar": "tutorialSidebar"
@@ -488,6 +473,81 @@
                 "label": "index"
               }
             }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "research": {
+      "path": "/research",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/research",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+              "path": "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+            },
+            {
+              "id": "⭐️ Towards dense object tracking in a 2D honeybee hive",
+              "path": "/research/⭐️ Towards dense object tracking in a 2D honeybee hive"
+            },
+            {
+              "id": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
+              "path": "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
+            },
+            {
+              "id": "Approximation of functions determining colony activity using neural networks - master thesis",
+              "path": "/research/Approximation of functions determining colony activity using neural networks - master thesis"
+            },
+            {
+              "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
+              "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
+            },
+            {
+              "id": "Biodiversity conservation and current threats to European honeybees",
+              "path": "/research/Biodiversity conservation and current threats to European honeybees"
+            },
+            {
+              "id": "Honey bees modify plantpollinator network structure",
+              "path": "/research/Honey bees modify plantpollinator network structure"
+            },
+            {
+              "id": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+              "path": "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
+            },
+            {
+              "id": "index",
+              "path": "/research/"
+            },
+            {
+              "id": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+              "path": "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
+            },
+            {
+              "id": "Markerless tracking of an entire honey bee colony",
+              "path": "/research/Markerless tracking of an entire honey bee colony"
+            },
+            {
+              "id": "Raspberry Pi Bee Health Monitoring Device",
+              "path": "/research/Raspberry Pi Bee Health Monitoring Device"
+            },
+            {
+              "id": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+              "path": "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+            },
+            {
+              "id": "Varroa destructor detection on honey bees using hyperspectral imagery",
+              "path": "/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {}
           }
         }
       ],

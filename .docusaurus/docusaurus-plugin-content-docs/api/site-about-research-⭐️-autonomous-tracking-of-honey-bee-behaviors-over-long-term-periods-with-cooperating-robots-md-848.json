@@ -1,0 +1,31 @@
+{
+  "id": "research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "title": "⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "description": "PDF",
+  "source": "@site/about/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md",
+  "sourceDirName": "research",
+  "slug": "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "permalink": "/about/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2024",
+    "orgs": [
+      "🇨🇿 Czech Technical University",
+      "🇦🇹 University of Graz",
+      "🇬🇧 Durham University",
+      "🇹🇷  Middle East Technical University"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "next": {
+    "title": "⭐️ Towards dense object tracking in a 2D honeybee hive",
+    "permalink": "/about/research/⭐️ Towards dense object tracking in a 2D honeybee hive"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "research/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+  "description": "PDF",
+  "source": "@site/about/research/BeeNet - An End-To-End Deep Network For Bee Surveillance.md",
+  "sourceDirName": "research",
+  "slug": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "permalink": "/about/research/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+    "year": "2023"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Approximation of functions determining colony activity using neural networks - master thesis",
+    "permalink": "/about/research/Approximation of functions determining colony activity using neural networks - master thesis"
+  },
+  "next": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/about/research/Biodiversity conservation and current threats to European honeybees"
+  }
+}
