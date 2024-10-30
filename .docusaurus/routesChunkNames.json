@@ -353,17 +353,17 @@
     },
     "content": "content---terms-445-f2d"
   },
-  "/about-439": {
+  "/about-13f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-0cc": {
+  "/about-32d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-230": {
+  "/about-e03": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -614,10 +614,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-ethics-646-6c8"
   },
-  "/about/purpose/Logo 🧪-c1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-logo-🧪-c-7-d-2d2"
-  },
   "/about/purpose/Naming-844": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-namingc-7-d-a96"
@@ -630,6 +626,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-research-ae-1-f4f"
   },
+  "/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots-e0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-autonomous-tracking-of-honey-bee-behaviors-over-long-term-periods-with-cooperating-robots-087-7f5"
+  },
   "/about/research/Biodiversity conservation and current threats to European honeybees-0fe": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-research-biodiversity-conservation-and-current-threats-to-european-honeybeesaa-9-2fd"
@@ -637,6 +637,14 @@
   "/about/research/Honey bees modify plantpollinator network structure-58e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-research-honey-bees-modify-plantpollinator-network-structure-650-558"
+  },
+  "/about/research/Markerless tracking of an entire honey bee colony-d3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-markerless-tracking-of-an-entire-honey-bee-colony-15-a-bb1"
+  },
+  "/about/research/Towards dense object tracking in a 2D honeybee hive-012": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-research-towards-dense-object-tracking-in-a-2-d-honeybee-hive-9-cd-756"
   },
   "/about/research/Varroa destructor detection on honey bees using hyperspectral imagery-41c": {
     "__comp": "__comp---theme-doc-item-178-a40",

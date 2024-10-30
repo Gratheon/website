@@ -400,11 +400,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "purpose/Logo 🧪",
-              "path": "/about/purpose/Logo 🧪",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "purpose/Naming",
               "path": "/about/purpose/Naming",
               "sidebar": "tutorialSidebar"
@@ -412,6 +407,11 @@
             {
               "id": "purpose/Symbolism",
               "path": "/about/purpose/Symbolism",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+              "path": "/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -427,6 +427,16 @@
             {
               "id": "research/index",
               "path": "/about/research/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/Markerless tracking of an entire honey bee colony",
+              "path": "/about/research/Markerless tracking of an entire honey bee colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "research/Towards dense object tracking in a 2D honeybee hive",
+              "path": "/about/research/Towards dense object tracking in a 2D honeybee hive",
               "sidebar": "tutorialSidebar"
             },
             {

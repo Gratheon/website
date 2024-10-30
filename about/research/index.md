@@ -27,13 +27,15 @@ One-time yet very notable works were also in:
 
 # Scientific publications
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index"  SORT year desc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index"  SORT year desc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index" SORT year desc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as title, orgs, year FROM "gratheon.com/about/research" WHERE file.name != "index" SORT year desc -->
 
 | title                                                                                                                                                                            | orgs                                                                                                 | year |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
 | [Varroa destructor detection on honey bees using hyperspectral imagery](about/research/Varroa%20destructor%20detection%20on%20honey%20bees%20using%20hyperspectral%20imagery.md) | <ul><li>🇨🇿 Brno University of Technology</li><li>🇫🇮 LUT University</li></ul>                     | 2024 |
 | [Honey bees modify plantpollinator network structure](about/research/Honey%20bees%20modify%20plantpollinator%20network%20structure.md)                                           | <ul><li>🇨🇦 University of Alberta</li></ul>                                                         | 2023 |
+| [Markerless tracking of an entire honey bee colony](about/research/Markerless%20tracking%20of%20an%20entire%20honey%20bee%20colony.md)                                           | <ul><li>🇯🇵 Okinawa Institute of Science and Technology Graduate University</li></ul>               | 2021 |
+| [Towards dense object tracking in a 2D honeybee hive](about/research/Towards%20dense%20object%20tracking%20in%20a%202D%20honeybee%20hive.md)                                     | <ul><li>🇯🇵 Okinawa Institute of Science and Technology Graduate University</li></ul>               | 2018 |
 | [Biodiversity conservation and current threats to European honeybees](about/research/Biodiversity%20conservation%20and%20current%20threats%20to%20European%20honeybees.md)       | <ul><li>🇪🇸 Universidad de Murcia</li><li>🇩🇪 Martin-Luther-Universität Halle-Wittenberg</li></ul> | 2009 |
 <!-- SerializedQuery END -->
 

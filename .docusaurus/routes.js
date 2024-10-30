@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '439'),
+    component: ComponentCreator('/about', '13f'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '0cc'),
+        component: ComponentCreator('/about', '32d'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '230'),
+            component: ComponentCreator('/about', 'e03'),
             routes: [
               {
                 path: '/about/',
@@ -542,12 +542,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/purpose/Logo 🧪',
-                component: ComponentCreator('/about/purpose/Logo 🧪', 'c1f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/purpose/Naming',
                 component: ComponentCreator('/about/purpose/Naming', '844'),
                 exact: true,
@@ -566,6 +560,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
+                component: ComponentCreator('/about/research/Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', 'e0b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/research/Biodiversity conservation and current threats to European honeybees',
                 component: ComponentCreator('/about/research/Biodiversity conservation and current threats to European honeybees', '0fe'),
                 exact: true,
@@ -574,6 +574,18 @@ export default [
               {
                 path: '/about/research/Honey bees modify plantpollinator network structure',
                 component: ComponentCreator('/about/research/Honey bees modify plantpollinator network structure', '58e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/research/Markerless tracking of an entire honey bee colony',
+                component: ComponentCreator('/about/research/Markerless tracking of an entire honey bee colony', 'd3a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/research/Towards dense object tracking in a 2D honeybee hive',
+                component: ComponentCreator('/about/research/Towards dense object tracking in a 2D honeybee hive', '012'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
