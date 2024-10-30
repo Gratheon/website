@@ -353,22 +353,54 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-cdc": {
+  "/about-1b2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-add": {
+  "/about-ca0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-e5a": {
+  "/about-e7a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-230-53f"
+  },
+  "/about/clients/-f24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-b-7-a-be6"
+  },
+  "/about/clients/👨🏻 Potential new beekeepers-ac7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👨🏻-potential-new-beekeepers-349-5cd"
+  },
+  "/about/clients/👨🏻‍💻 Tech-savvy engineers-300": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👨🏻‍💻-tech-savvy-engineers-148-86f"
+  },
+  "/about/clients/👨🏻‍🚀 Backyard beekeepers-129": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👨🏻‍🚀-backyard-beekeepers-960-ccb"
+  },
+  "/about/clients/👨🏻‍🚒 Industrial beekeepers-83b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👨🏻‍🚒-industrial-beekeepers-31-e-e95"
+  },
+  "/about/clients/👩🏻 Tech scale-up companies-4b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👩🏻-tech-scale-up-companiescf-4-21b"
+  },
+  "/about/clients/👩🏼‍🏫 Urban beekeepers-970": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-👩🏼‍🏫-urban-beekeepersda-2-5d5"
+  },
+  "/about/clients/🧑🏻‍🌾 Farmers-aad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-clients-🧑🏻‍🌾-farmers-6-eb-851"
   },
   "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -418,10 +450,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-meeting-recordings-13-d-bbe"
   },
-  "/about/company/Press kit-084": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-press-kit-275-1df"
-  },
   "/about/company/Team/-fa9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-team-495-022"
@@ -434,9 +462,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-team-artjom-kurapov-6-af-109"
   },
-  "/about/company/volunteer-26c": {
+  "/about/company/Volunteers/-d14": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-volunteerb-64-901"
+    "content": "content---about-company-volunteers-c-05-5e3"
   },
   "/about/company/Volunteers/Ahmed Daoudi-c71": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -465,6 +493,10 @@
   "/about/company/Volunteers/Reinis Indans-109": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteers-reinis-indans-509-049"
+  },
+  "/about/Press kit-4d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-press-kit-621-539"
   },
   "/about/Problems/-2cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -637,34 +669,6 @@
   "/about/purpose/Symbolism-cbc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
-  },
-  "/about/Target clients/👨🏻 Potential new beekeepers-d9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻-potential-new-beekeepers-084-250"
-  },
-  "/about/Target clients/👨🏻‍💻 Tech-savvy engineers-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍💻-tech-savvy-engineers-573-771"
-  },
-  "/about/Target clients/👨🏻‍🚀 Backyard beekeepers-37a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍🚀-backyard-beekeepers-3-a-0-be6"
-  },
-  "/about/Target clients/👨🏻‍🚒 Industrial beekeepers-11c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👨🏻‍🚒-industrial-beekeeperseff-b8d"
-  },
-  "/about/Target clients/👩🏻 Tech scale-up companies-369": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👩🏻-tech-scale-up-companies-187-924"
-  },
-  "/about/Target clients/👩🏼‍🏫 Urban beekeepers-3cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-👩🏼‍🏫-urban-beekeepers-715-a0e"
-  },
-  "/about/Target clients/🧑🏻‍🌾 Farmers-fef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-target-clients-🧑🏻‍🌾-farmers-9-e-1-828"
   },
   "/docs-5dd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

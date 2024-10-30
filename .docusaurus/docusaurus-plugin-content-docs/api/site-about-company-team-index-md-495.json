@@ -10,15 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
     "title": "Team ⚽️",
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
+    "title": "Team effort 🐝",
+    "permalink": "/about/company/Culture and values 🫀/Team effort 🐝"
   },
   "next": {
     "title": "Aleksei Prokopov",

@@ -1,0 +1,23 @@
+{
+  "id": "clients/👨🏻‍🚀 Backyard beekeepers",
+  "title": "👨🏻‍🚀 Backyard beekeepers",
+  "description": "House owner (B2C, not a legal entity)",
+  "source": "@site/about/clients/👨🏻‍🚀 Backyard beekeepers.md",
+  "sourceDirName": "clients",
+  "slug": "/clients/👨🏻‍🚀 Backyard beekeepers",
+  "permalink": "/about/clients/👨🏻‍🚀 Backyard beekeepers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👨🏻‍💻 Tech-savvy engineers",
+    "permalink": "/about/clients/👨🏻‍💻 Tech-savvy engineers"
+  },
+  "next": {
+    "title": "👨🏻‍🚒 Industrial beekeepers",
+    "permalink": "/about/clients/👨🏻‍🚒 Industrial beekeepers"
+  }
+}

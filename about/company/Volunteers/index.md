@@ -1,5 +1,6 @@
 ---
-title: Volunteering ❤️‍🔥 
+title: Volunteering ❤️‍🔥
+sidebar_position: 3
 ---
 
 You can contribute by following these steps:

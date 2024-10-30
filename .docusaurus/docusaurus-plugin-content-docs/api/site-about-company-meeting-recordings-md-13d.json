@@ -1,6 +1,6 @@
 {
   "id": "company/Meeting recordings",
-  "title": "All-hands meeting recordings 🎥",
+  "title": "Meeting recordings 🎥",
   "description": "Following Radiate truth 🌞 values, we are transparent in internal communications, which is important in modern asynchroneous world. Thats why we record important meetings.",
   "source": "@site/about/company/Meeting recordings.md",
   "sourceDirName": "company",
@@ -11,15 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "All-hands meeting recordings 🎥"
+    "title": "Meeting recordings 🎥"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Team effort 🐝",
-    "permalink": "/about/company/Culture and values 🫀/Team effort 🐝"
+    "title": "Reinis Indans",
+    "permalink": "/about/company/Volunteers/Reinis Indans"
   },
   "next": {
-    "title": "Press kit",
-    "permalink": "/about/company/Press kit"
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
   }
 }

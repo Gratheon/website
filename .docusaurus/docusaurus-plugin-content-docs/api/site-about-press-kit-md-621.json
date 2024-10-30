@@ -1,0 +1,22 @@
+{
+  "id": "Press kit",
+  "title": "Press kit",
+  "description": "Materials for press media coverage.",
+  "source": "@site/about/Press kit.md",
+  "sourceDirName": ".",
+  "slug": "/Press kit",
+  "permalink": "/about/Press kit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑🏻‍🌾 Farmers",
+    "permalink": "/about/clients/🧑🏻‍🌾 Farmers"
+  }
+}

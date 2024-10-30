@@ -90,6 +90,46 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "clients/👨🏻 Potential new beekeepers",
+              "path": "/about/clients/👨🏻 Potential new beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/👨🏻‍💻 Tech-savvy engineers",
+              "path": "/about/clients/👨🏻‍💻 Tech-savvy engineers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/👨🏻‍🚀 Backyard beekeepers",
+              "path": "/about/clients/👨🏻‍🚀 Backyard beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/👨🏻‍🚒 Industrial beekeepers",
+              "path": "/about/clients/👨🏻‍🚒 Industrial beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/👩🏻 Tech scale-up companies",
+              "path": "/about/clients/👩🏻 Tech scale-up companies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/👩🏼‍🏫 Urban beekeepers",
+              "path": "/about/clients/👩🏼‍🏫 Urban beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/🧑🏻‍🌾 Farmers",
+              "path": "/about/clients/🧑🏻‍🌾 Farmers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "clients/index",
+              "path": "/about/clients/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Culture and values 🫀/Adapt to change 🏕️",
               "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
@@ -150,11 +190,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Press kit",
-              "path": "/about/company/Press kit",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Team/Aleksei Prokopov",
               "path": "/about/company/Team/Aleksei Prokopov",
               "sidebar": "tutorialSidebar"
@@ -170,11 +205,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/volunteer",
-              "path": "/about/company/volunteer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Volunteers/Ahmed Daoudi",
               "path": "/about/company/Volunteers/Ahmed Daoudi",
               "sidebar": "tutorialSidebar"
@@ -182,6 +212,11 @@
             {
               "id": "company/Volunteers/Aleksei Boris",
               "path": "/about/company/Volunteers/Aleksei Boris",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Volunteers/index",
+              "path": "/about/company/Volunteers/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -212,6 +247,11 @@
             {
               "id": "index",
               "path": "/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Press kit",
+              "path": "/about/Press kit",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -427,41 +467,6 @@
             {
               "id": "purpose/Symbolism",
               "path": "/about/purpose/Symbolism",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👨🏻 Potential new beekeepers",
-              "path": "/about/Target clients/👨🏻 Potential new beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👨🏻‍💻 Tech-savvy engineers",
-              "path": "/about/Target clients/👨🏻‍💻 Tech-savvy engineers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👨🏻‍🚀 Backyard beekeepers",
-              "path": "/about/Target clients/👨🏻‍🚀 Backyard beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👨🏻‍🚒 Industrial beekeepers",
-              "path": "/about/Target clients/👨🏻‍🚒 Industrial beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👩🏻 Tech scale-up companies",
-              "path": "/about/Target clients/👩🏻 Tech scale-up companies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/👩🏼‍🏫 Urban beekeepers",
-              "path": "/about/Target clients/👩🏼‍🏫 Urban beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Target clients/🧑🏻‍🌾 Farmers",
-              "path": "/about/Target clients/🧑🏻‍🌾 Farmers",
               "sidebar": "tutorialSidebar"
             }
           ],

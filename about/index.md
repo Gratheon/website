@@ -4,7 +4,7 @@ sidebar_position: 0
 ---
 Gratheon is a garage-phase bootstrapping startup with big dreams. See [📑 deck](deck.pdf) for quick overview. 
 
-We highly encourage to join [volunteer](company/volunteer.md) program and contribute to open source, especially if you are a beekeeper.
+We highly encourage to join [index](company/Volunteers/index.md) program and contribute to open source, especially if you are a beekeeper.
 
 ## Overview
 

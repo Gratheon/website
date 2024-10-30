@@ -1,6 +1,9 @@
+---
+sidebar_position: 10
+---
 
 Materials for press media coverage.
-See [Symbolism](../purpose/Symbolism.md) for referencing logo
+See [Symbolism](purpose/Symbolism.md) for referencing logo
 
 ## Contact
 
@@ -10,22 +13,22 @@ See [Symbolism](../purpose/Symbolism.md) for referencing logo
 - Discord: [https://discord.gg/PcbP4uedWj](https://discord.gg/PcbP4uedWj)
 
 ## Beekeeping
-![](../../src/img/20230730_143206.jpg)
+![](img/20230730_143206.jpg)
 Bees on a sunflower in Croatia. Photo by Artjom Kurapov
 
 
-![](../../src/img/78D03A5C-B2BD-4837-A442-2F7550EB8028.jpg)
+![](img/78D03A5C-B2BD-4837-A442-2F7550EB8028.jpg)
 Bees at the hive entrance, photo by Artjom Kurapov
 
 
-![](../../src/img/IMG_4588.JPG.jpg)
+![](img/IMG_4588.JPG.jpg)
 Tallinn Zoo apiary, photo by Artjom Kurapov
 
-![](../../src/img/IMG_4120.jpg)
+![](img/IMG_4120.jpg)
 Personal apiary, photo by Artjom Kurapov
 
 
-![](../../src/img/gratheon-app.png)
+![](img/gratheon-app.png)
 App user interface (in english)
 
 # Team

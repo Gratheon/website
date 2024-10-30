@@ -159,19 +159,67 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'cdc'),
+    component: ComponentCreator('/about', '1b2'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'add'),
+        component: ComponentCreator('/about', 'ca0'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e5a'),
+            component: ComponentCreator('/about', 'e7a'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '498'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/',
+                component: ComponentCreator('/about/clients/', 'f24'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👨🏻 Potential new beekeepers',
+                component: ComponentCreator('/about/clients/👨🏻 Potential new beekeepers', 'ac7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👨🏻‍💻 Tech-savvy engineers',
+                component: ComponentCreator('/about/clients/👨🏻‍💻 Tech-savvy engineers', '300'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👨🏻‍🚀 Backyard beekeepers',
+                component: ComponentCreator('/about/clients/👨🏻‍🚀 Backyard beekeepers', '129'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👨🏻‍🚒 Industrial beekeepers',
+                component: ComponentCreator('/about/clients/👨🏻‍🚒 Industrial beekeepers', '83b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👩🏻 Tech scale-up companies',
+                component: ComponentCreator('/about/clients/👩🏻 Tech scale-up companies', '4b9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/👩🏼‍🏫 Urban beekeepers',
+                component: ComponentCreator('/about/clients/👩🏼‍🏫 Urban beekeepers', '970'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/clients/🧑🏻‍🌾 Farmers',
+                component: ComponentCreator('/about/clients/🧑🏻‍🌾 Farmers', 'aad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -248,12 +296,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Press kit',
-                component: ComponentCreator('/about/company/Press kit', '084'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/Team/',
                 component: ComponentCreator('/about/company/Team/', 'fa9'),
                 exact: true,
@@ -272,8 +314,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/volunteer',
-                component: ComponentCreator('/about/company/volunteer', '26c'),
+                path: '/about/company/Volunteers/',
+                component: ComponentCreator('/about/company/Volunteers/', 'd14'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -316,6 +358,12 @@ export default [
               {
                 path: '/about/company/Volunteers/Reinis Indans',
                 component: ComponentCreator('/about/company/Volunteers/Reinis Indans', '109'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Press kit',
+                component: ComponentCreator('/about/Press kit', '4d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -574,48 +622,6 @@ export default [
               {
                 path: '/about/purpose/Symbolism',
                 component: ComponentCreator('/about/purpose/Symbolism', 'cbc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👨🏻 Potential new beekeepers',
-                component: ComponentCreator('/about/Target clients/👨🏻 Potential new beekeepers', 'd9d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👨🏻‍💻 Tech-savvy engineers',
-                component: ComponentCreator('/about/Target clients/👨🏻‍💻 Tech-savvy engineers', 'e46'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👨🏻‍🚀 Backyard beekeepers',
-                component: ComponentCreator('/about/Target clients/👨🏻‍🚀 Backyard beekeepers', '37a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👨🏻‍🚒 Industrial beekeepers',
-                component: ComponentCreator('/about/Target clients/👨🏻‍🚒 Industrial beekeepers', '11c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👩🏻 Tech scale-up companies',
-                component: ComponentCreator('/about/Target clients/👩🏻 Tech scale-up companies', '369'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/👩🏼‍🏫 Urban beekeepers',
-                component: ComponentCreator('/about/Target clients/👩🏼‍🏫 Urban beekeepers', '3cb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Target clients/🧑🏻‍🌾 Farmers',
-                component: ComponentCreator('/about/Target clients/🧑🏻‍🌾 Farmers', 'fef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

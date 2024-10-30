@@ -1,5 +1,5 @@
 ---
-title: "All-hands meeting recordings 🎥"
+title: Meeting recordings 🎥
 ---
 
 Following [Radiate truth 🌞](Culture%20and%20values%20🫀/Radiate%20truth%20🌞.md) values, we are transparent in internal communications, which is important in modern asynchroneous world. Thats why we record important meetings.
