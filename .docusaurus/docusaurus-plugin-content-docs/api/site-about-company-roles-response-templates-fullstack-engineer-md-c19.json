@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Response templates/Fullstack engineer",
+  "title": "Fullstack engineer",
+  "description": "In russian",
+  "source": "@site/about/company/Roles/Response templates/Fullstack engineer.md",
+  "sourceDirName": "company/Roles/Response templates",
+  "slug": "/company/Roles/Response templates/Fullstack engineer",
+  "permalink": "/about/company/Roles/Response templates/Fullstack engineer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beekeeper",
+    "permalink": "/about/company/Roles/Response templates/Beekeeper"
+  },
+  "next": {
+    "title": "ML engineer role",
+    "permalink": "/about/company/Roles/Response templates/ML engineer role"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Response templates/index",
+  "title": "index",
+  "description": "If you’re reading this and thinking “what, a template? generic answers?”, then yes.",
+  "source": "@site/about/company/Roles/Response templates/index.md",
+  "sourceDirName": "company/Roles/Response templates",
+  "slug": "/company/Roles/Response templates/",
+  "permalink": "/about/company/Roles/Response templates/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML engineer 🧠",
+    "permalink": "/about/company/Roles/ML engineer 🧠"
+  },
+  "next": {
+    "title": "Beekeeper",
+    "permalink": "/about/company/Roles/Response templates/Beekeeper"
+  }
+}

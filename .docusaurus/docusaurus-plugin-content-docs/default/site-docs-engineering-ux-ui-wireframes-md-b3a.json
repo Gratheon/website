@@ -16,5 +16,9 @@
   "previous": {
     "title": "Tech stack, conventions, environments",
     "permalink": "/docs/Engineering/Tech stack, conventions, environments"
+  },
+  "next": {
+    "title": "Robotic beehive physical design",
+    "permalink": "/docs/Robotic beehive physical design"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles needed",
+  "title": "Roles needed",
+  "description": "Here we list roles that are needed for company operation",
+  "source": "@site/about/company/Roles needed.md",
+  "sourceDirName": "company",
+  "slug": "/company/Roles needed",
+  "permalink": "/about/company/Roles needed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting recordings 🎥",
+    "permalink": "/about/company/Meeting recordings"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  }
+}

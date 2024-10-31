@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '1b2'),
+    component: ComponentCreator('/about', '757'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'ca0'),
+        component: ComponentCreator('/about', '864'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e7a'),
+            component: ComponentCreator('/about', 'c4f'),
             routes: [
               {
                 path: '/about/',
@@ -292,6 +292,90 @@ export default [
               {
                 path: '/about/company/Meeting recordings',
                 component: ComponentCreator('/about/company/Meeting recordings', 'c91'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/',
+                component: ComponentCreator('/about/company/Roles/', '27f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Beekeeper & Community manager 🐝',
+                component: ComponentCreator('/about/company/Roles/Beekeeper & Community manager 🐝', '017'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Fullstack engineer',
+                component: ComponentCreator('/about/company/Roles/Fullstack engineer', '4d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Fullstack engineer 📱',
+                component: ComponentCreator('/about/company/Roles/Fullstack engineer 📱', 'f3a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/ML engineer 🧠',
+                component: ComponentCreator('/about/company/Roles/ML engineer 🧠', 'b18'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/',
+                component: ComponentCreator('/about/company/Roles/Response templates/', '150'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/Beekeeper',
+                component: ComponentCreator('/about/company/Roles/Response templates/Beekeeper', 'b6e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/Fullstack engineer',
+                component: ComponentCreator('/about/company/Roles/Response templates/Fullstack engineer', '391'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/ML engineer role',
+                component: ComponentCreator('/about/company/Roles/Response templates/ML engineer role', 'f3b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/Robotics engineer',
+                component: ComponentCreator('/about/company/Roles/Response templates/Robotics engineer', 'af1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Response templates/UX designer',
+                component: ComponentCreator('/about/company/Roles/Response templates/UX designer', '05f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/Robotics engineer 🦾',
+                component: ComponentCreator('/about/company/Roles/Robotics engineer 🦾', '980'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/SRE - Devops - Infrastructure engineer',
+                component: ComponentCreator('/about/company/Roles/SRE - Devops - Infrastructure engineer', 'f52'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Roles/UX designer 🔲',
+                component: ComponentCreator('/about/company/Roles/UX designer 🔲', '480'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -633,15 +717,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5dd'),
+    component: ComponentCreator('/docs', '4b8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '428'),
+        component: ComponentCreator('/docs', '7f1'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0d7'),
+            component: ComponentCreator('/docs', 'ba4'),
             routes: [
               {
                 path: '/docs/Engineering/CAD modelling',
@@ -680,12 +764,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Engineering/Robotics',
-                component: ComponentCreator('/docs/Engineering/Robotics', '807'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Engineering/Tech stack, conventions, environments',
                 component: ComponentCreator('/docs/Engineering/Tech stack, conventions, environments', '19a'),
                 exact: true,
@@ -708,6 +786,30 @@ export default [
                 component: ComponentCreator('/docs/Jetson Nano setup', 'dcd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic beehive physical design',
+                component: ComponentCreator('/docs/Robotic beehive physical design', '126'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotics/4 axis gantry',
+                component: ComponentCreator('/docs/Robotics/4 axis gantry', 'a71'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info',
+                component: ComponentCreator('/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info', '2c6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotics/Robot Vendors',
+                component: ComponentCreator('/docs/Robotics/Robot Vendors', '73a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }
@@ -717,15 +819,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '4f5'),
+    component: ComponentCreator('/research', '08a'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '43c'),
+        component: ComponentCreator('/research', 'dbd'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'de5'),
+            component: ComponentCreator('/research', '9d3'),
             routes: [
               {
                 path: '/research/',
@@ -753,6 +855,16 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Automatic detection and classification of honey bee comb cells using deeplearning',
+                component: ComponentCreator('/research/Automatic detection and classification of honey bee comb cells using deeplearning', '373'),
+                exact: true
+              },
+              {
+                path: '/research/BeeAlarmed. Masters thesis',
+                component: ComponentCreator('/research/BeeAlarmed. Masters thesis', '99d'),
+                exact: true
+              },
+              {
                 path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
                 component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
                 exact: true
@@ -763,13 +875,28 @@ export default [
                 exact: true
               },
               {
+                path: '/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
+                component: ComponentCreator('/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '70a'),
+                exact: true
+              },
+              {
                 path: '/research/Honey bees modify plantpollinator network structure',
                 component: ComponentCreator('/research/Honey bees modify plantpollinator network structure', '935'),
                 exact: true
               },
               {
+                path: '/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams',
+                component: ComponentCreator('/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams', '59b'),
+                exact: true
+              },
+              {
                 path: '/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
                 component: ComponentCreator('/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '103'),
+                exact: true
+              },
+              {
+                path: '/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
+                component: ComponentCreator('/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '95c'),
                 exact: true
               },
               {

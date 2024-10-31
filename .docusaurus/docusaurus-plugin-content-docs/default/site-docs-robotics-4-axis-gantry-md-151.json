@@ -1,0 +1,24 @@
+{
+  "id": "Robotics/4 axis gantry",
+  "title": "4 axis gantry",
+  "description": "This is a list of brainstormed ideas on how to move frames to take photos to automate inspections:",
+  "source": "@site/docs/Robotics/4 axis gantry.md",
+  "sourceDirName": "Robotics",
+  "slug": "/Robotics/4 axis gantry",
+  "permalink": "/docs/Robotics/4 axis gantry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotics/4 axis gantry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robotic beehive physical design",
+    "permalink": "/docs/Robotic beehive physical design"
+  },
+  "next": {
+    "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+    "permalink": "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info"
+  }
+}

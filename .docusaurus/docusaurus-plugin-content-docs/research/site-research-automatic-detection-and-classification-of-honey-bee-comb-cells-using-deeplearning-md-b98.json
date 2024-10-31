@@ -1,0 +1,22 @@
+{
+  "id": "Automatic detection and classification of honey bee comb cells using deeplearning",
+  "title": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+  "description": "https://bibliotecadigital.ipb.pt/bitstream/10198/22321/1/65.pdf",
+  "source": "@site/research/Automatic detection and classification of honey bee comb cells using deeplearning.md",
+  "sourceDirName": ".",
+  "slug": "/Automatic detection and classification of honey bee comb cells using deeplearning",
+  "permalink": "/research/Automatic detection and classification of honey bee comb cells using deeplearning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+    "orgs": [
+      "🇵🇹 Instituto Politécnico de Bragança",
+      "🇧🇷 Federal Technological University of Paraná",
+      "🇫🇷 Université Clermont-Auvergne"
+    ],
+    "year": "2020"
+  }
+}

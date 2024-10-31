@@ -1,0 +1,20 @@
+{
+  "id": "LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+  "title": "LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+  "description": "https://github.com/rmegret/labelbee",
+  "source": "@site/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
+  "sourceDirName": ".",
+  "slug": "/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+  "permalink": "/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+    "orgs": [
+      "🇵🇷 University of Puerto Rico"
+    ],
+    "year": "2019"
+  }
+}

@@ -6,16 +6,23 @@ sidebar_position: 3
 
 Volunteering means you work for free, because you’re **motivated** by other things:
 
-- Believing in [Company mission](../../purpose/Company%20mission.md), trying to help [👨🏻‍🚀 Backyard beekeepers](../../clients/👨🏻‍🚀%20Backyard%20beekeepers.md) and the 🐝 bees
+- You want to learn and become a beekeeper, believing in [Company mission](../../purpose/Company%20mission.md), trying to help [👨🏻‍🚀 Backyard beekeepers](../../clients/👨🏻‍🚀%20Backyard%20beekeepers.md) and the 🐝 bees
 - Gaining open-source proof of experience you can use at applying to other jobs & positions 
   (ex. you are a student and you want to show contribution with CAD model or typescript code)
-- Learning something new in the area that you are not yet familiar with (ex. IoT if you are a web developer)
-- You want to learn and become a beekeeper
-- Having more freedom of trying oneself in different **role**, compared to an established enterprise where entry barrier is so high (ex. trying to be an engineer if you are a PM)
-- Teaching others if you are experienced in one area (ex. ML to backend engineers)
+- Learning something new in the area that you are not yet familiar with 
+  (ex. IoT if you are a web developer)
+- Having more freedom of trying oneself in different **role**, compared to an established enterprise where entry barrier is so high
+  (ex. Trying to be an engineer if you are a PM)
+- Teaching others if you are experienced in one area 
+  (ex. as Robotics engineer streaming lessons on twitch & youtube)
 
+## How
+Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](../Culture%20and%20values%20🫀/Adapt%20to%20change%20🏕️.md)
 
-## Steps
+As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](../Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md) 
+
+## What to do
+
 You can contribute by following these steps:
 
 1. [**Join our discord**](https://discord.gg/PcbP4uedWj)
@@ -26,10 +33,6 @@ You can contribute by following these steps:
 4. Ask for more information in discord to get attention and document more information for the feature as part of [Features (prioritized and incomplete)](https://www.notion.so/Features-prioritized-and-incomplete-0ccc5a51879941eb8b6f220c261be046?pvs=21)
 5. Follow [Engineering onboarding](/docs/Engineering/Engineering%20onboarding)  if you need to change code and run services locally
 6. Think ahead how your contribution will look like. We use different software [Internal tools & cloud services](https://www.notion.so/Internal-tools-cloud-services-2f74cf6da2854e03986c6de7bda3551a?pvs=21) to host results
-
-## Lower expectations, lower entry barrier
-
-As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Its natural.
 
 ### Contributions
 

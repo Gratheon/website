@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Response templates/ML engineer role2",
+  "title": "ML engineer role2",
+  "description": "Response template",
+  "source": "@site/about/company/Roles/Response templates/ML engineer role2.md",
+  "sourceDirName": "company/Roles/Response templates",
+  "slug": "/company/Roles/Response templates/ML engineer role2",
+  "permalink": "/about/company/Roles/Response templates/ML engineer role2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML engineer role",
+    "permalink": "/about/company/Roles/ML engineer role"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  }
+}

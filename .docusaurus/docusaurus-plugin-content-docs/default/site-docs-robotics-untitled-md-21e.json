@@ -1,0 +1,20 @@
+{
+  "id": "Robotics/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/Robotics/Untitled.md",
+  "sourceDirName": "Robotics",
+  "slug": "/Robotics/Untitled",
+  "permalink": "/docs/Robotics/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotics/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/Robotics/Robot Vendors"
+  }
+}

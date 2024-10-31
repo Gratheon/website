@@ -353,17 +353,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-1b2": {
+  "/about-757": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-ca0": {
+  "/about-864": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-e7a": {
+  "/about-c4f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -449,6 +449,62 @@
   "/about/company/Meeting recordings-c91": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-meeting-recordings-13-d-bbe"
+  },
+  "/about/company/Roles/-27f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-adf-fdf"
+  },
+  "/about/company/Roles/Beekeeper & Community manager 🐝-017": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-beekeeper-community-manager-🐝-e-71-a1a"
+  },
+  "/about/company/Roles/Fullstack engineer-4d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-fullstack-engineerbfc-f33"
+  },
+  "/about/company/Roles/Fullstack engineer 📱-f3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-fullstack-engineer-📱-88-d-4df"
+  },
+  "/about/company/Roles/ML engineer 🧠-b18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-ml-engineer-🧠-35-e-4ab"
+  },
+  "/about/company/Roles/Response templates/-150": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-e-13-d5d"
+  },
+  "/about/company/Roles/Response templates/Beekeeper-b6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-beekeeper-7-cb-8f7"
+  },
+  "/about/company/Roles/Response templates/Fullstack engineer-391": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-fullstack-engineerc-19-c67"
+  },
+  "/about/company/Roles/Response templates/ML engineer role-f3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-ml-engineer-role-12-e-b73"
+  },
+  "/about/company/Roles/Response templates/Robotics engineer-af1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-robotics-engineerd-03-8d1"
+  },
+  "/about/company/Roles/Response templates/UX designer-05f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-response-templates-ux-designer-47-f-d29"
+  },
+  "/about/company/Roles/Robotics engineer 🦾-980": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-robotics-engineer-🦾-a-8-f-b1c"
+  },
+  "/about/company/Roles/SRE - Devops - Infrastructure engineer-f52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-sre-devops-infrastructure-engineer-7-e-3-9ce"
+  },
+  "/about/company/Roles/UX designer 🔲-480": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-roles-ux-designer-🔲-d-39-be2"
   },
   "/about/company/Team/-fa9": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -670,17 +726,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/docs-5dd": {
+  "/docs-4b8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-428": {
+  "/docs-7f1": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0d7": {
+  "/docs-ba4": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Engineering/CAD modelling-265": {
@@ -707,10 +763,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-engineering-ml-datasets-8-e-6-5b8"
   },
-  "/docs/Engineering/Robotics-807": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-roboticsc-28-99d"
-  },
   "/docs/Engineering/Tech stack, conventions, environments-19a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-engineering-tech-stack-conventions-environmentsd-52-a24"
@@ -727,17 +779,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-jetson-nano-setup-1-d-1-d2e"
   },
-  "/research-4f5": {
+  "/docs/Robotic beehive physical design-126": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-physical-design-522-c5d"
+  },
+  "/docs/Robotics/4 axis gantry-a71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotics-4-axis-gantry-151-f83"
+  },
+  "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info-2c6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotics-fuyu-3-axis-gantry-amc-4030-controller-infof-14-d9b"
+  },
+  "/docs/Robotics/Robot Vendors-73a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotics-robot-vendors-88-a-e49"
+  },
+  "/research-08a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-43c": {
+  "/research-dbd": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-de5": {
+  "/research-9d3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -760,6 +828,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-approximation-of-functions-determining-colony-activity-using-neural-networks-master-thesis-91-c-f9d"
   },
+  "/research/Automatic detection and classification of honey bee comb cells using deeplearning-373": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-automatic-detection-and-classification-of-honey-bee-comb-cells-using-deeplearningb-98-de9"
+  },
+  "/research/BeeAlarmed. Masters thesis-99d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-bee-alarmed-masters-thesis-6-a-0-2d1"
+  },
   "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillanceeab-c77"
@@ -768,13 +844,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-biodiversity-conservation-and-current-threats-to-european-honeybeese-9-f-9db"
   },
+  "/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives-70a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-deep-bees-building-and-scaling-convolutional-neuronal-nets-for-fast-and-large-scale-visual-monitoring-of-bee-hives-28-c-f14"
+  },
   "/research/Honey bees modify plantpollinator network structure-935": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-honey-bees-modify-plantpollinator-network-structuree-02-bb5"
   },
+  "/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams-59b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-honeybee-in-out-monitoring-system-by-object-recognition-and-tracking-from-real-time-webcams-6-e-5-665"
+  },
   "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-103": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-identifying-queenlessness-in-honeybee-hives-from-audio-signals-using-machine-learningb-35-fbc"
+  },
+  "/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video-95c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-label-bee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-videofda-a02"
   },
   "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-8e3": {
     "__comp": "__comp---theme-doc-item-178-a40",

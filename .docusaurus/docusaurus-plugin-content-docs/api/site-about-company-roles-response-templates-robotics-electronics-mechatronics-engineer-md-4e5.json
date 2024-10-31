@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Response templates/Robotics - Electronics - Mechatronics engineer",
+  "title": "Robotics - Electronics - Mechatronics engineer",
+  "description": "Role Description",
+  "source": "@site/about/company/Roles/Response templates/Robotics - Electronics - Mechatronics engineer.md",
+  "sourceDirName": "company/Roles/Response templates",
+  "slug": "/company/Roles/Response templates/Robotics - Electronics - Mechatronics engineer",
+  "permalink": "/about/company/Roles/Response templates/Robotics - Electronics - Mechatronics engineer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML engineer role",
+    "permalink": "/about/company/Roles/Response templates/ML engineer role"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  }
+}

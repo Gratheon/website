@@ -41,11 +41,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering/Robotics",
-              "path": "/docs/Engineering/Robotics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Engineering/Tech stack, conventions, environments",
               "path": "/docs/Engineering/Tech stack, conventions, environments",
               "sidebar": "tutorialSidebar"
@@ -63,6 +58,26 @@
             {
               "id": "Jetson Nano setup",
               "path": "/docs/Jetson Nano setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic beehive physical design",
+              "path": "/docs/Robotic beehive physical design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotics/4 axis gantry",
+              "path": "/docs/Robotics/4 axis gantry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotics/FUYU 3-axis gantry + AMC-4030 controller info",
+              "path": "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotics/Robot Vendors",
+              "path": "/docs/Robotics/Robot Vendors",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -187,6 +202,76 @@
             {
               "id": "company/Meeting recordings",
               "path": "/about/company/Meeting recordings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Beekeeper & Community manager 🐝",
+              "path": "/about/company/Roles/Beekeeper & Community manager 🐝",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Fullstack engineer",
+              "path": "/about/company/Roles/Fullstack engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Fullstack engineer 📱",
+              "path": "/about/company/Roles/Fullstack engineer 📱",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/ML engineer 🧠",
+              "path": "/about/company/Roles/ML engineer 🧠",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/Beekeeper",
+              "path": "/about/company/Roles/Response templates/Beekeeper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/Fullstack engineer",
+              "path": "/about/company/Roles/Response templates/Fullstack engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/index",
+              "path": "/about/company/Roles/Response templates/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/ML engineer role",
+              "path": "/about/company/Roles/Response templates/ML engineer role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/Robotics engineer",
+              "path": "/about/company/Roles/Response templates/Robotics engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Response templates/UX designer",
+              "path": "/about/company/Roles/Response templates/UX designer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Robotics engineer 🦾",
+              "path": "/about/company/Roles/Robotics engineer 🦾",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/Roles",
+              "path": "/about/company/Roles/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/SRE - Devops - Infrastructure engineer",
+              "path": "/about/company/Roles/SRE - Devops - Infrastructure engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Roles/UX designer 🔲",
+              "path": "/about/company/Roles/UX designer 🔲",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -510,6 +595,14 @@
               "path": "/research/Approximation of functions determining colony activity using neural networks - master thesis"
             },
             {
+              "id": "Automatic detection and classification of honey bee comb cells using deeplearning",
+              "path": "/research/Automatic detection and classification of honey bee comb cells using deeplearning"
+            },
+            {
+              "id": "BeeAlarmed. Masters thesis",
+              "path": "/research/BeeAlarmed. Masters thesis"
+            },
+            {
               "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
               "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
             },
@@ -518,8 +611,16 @@
               "path": "/research/Biodiversity conservation and current threats to European honeybees"
             },
             {
+              "id": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+              "path": "/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+            },
+            {
               "id": "Honey bees modify plantpollinator network structure",
               "path": "/research/Honey bees modify plantpollinator network structure"
+            },
+            {
+              "id": "Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
+              "path": "/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
             },
             {
               "id": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
@@ -528,6 +629,10 @@
             {
               "id": "index",
               "path": "/research/"
+            },
+            {
+              "id": "LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+              "path": "/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
             },
             {
               "id": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",

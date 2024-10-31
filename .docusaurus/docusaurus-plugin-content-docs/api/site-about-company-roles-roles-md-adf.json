@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Roles",
+  "title": "Roles",
+  "description": "Here we list roles that are needed for company operation",
+  "source": "@site/about/company/Roles/Roles.md",
+  "sourceDirName": "company/Roles",
+  "slug": "/company/Roles/",
+  "permalink": "/about/company/Roles/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting recordings 🎥",
+    "permalink": "/about/company/Meeting recordings"
+  },
+  "next": {
+    "title": "Beekeeper & Community manager 🐝",
+    "permalink": "/about/company/Roles/Beekeeper & Community manager 🐝"
+  }
+}

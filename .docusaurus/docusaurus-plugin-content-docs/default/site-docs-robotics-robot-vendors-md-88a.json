@@ -1,0 +1,20 @@
+{
+  "id": "Robotics/Robot Vendors",
+  "title": "Robot Vendors",
+  "description": "List of potential vendors for robot (parts)",
+  "source": "@site/docs/Robotics/Robot Vendors.md",
+  "sourceDirName": "Robotics",
+  "slug": "/Robotics/Robot Vendors",
+  "permalink": "/docs/Robotics/Robot Vendors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotics/Robot Vendors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+    "permalink": "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info"
+  }
+}
