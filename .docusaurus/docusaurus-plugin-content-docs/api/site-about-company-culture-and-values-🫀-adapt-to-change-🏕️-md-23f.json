@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Culture and values 🫀",
-    "permalink": "/about/company/Culture and values 🫀/"
+    "title": "Radiate truth 🌞",
+    "permalink": "/about/company/Culture and values 🫀/Radiate truth 🌞"
   },
   "next": {
-    "title": "Ethical heart 🌳",
-    "permalink": "/about/company/Culture and values 🫀/Ethical heart 🌳"
+    "title": "Team effort 🐝",
+    "permalink": "/about/company/Culture and values 🫀/Team effort 🐝"
   }
 }

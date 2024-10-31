@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Observable mind 🧿",
-    "permalink": "/about/company/Culture and values 🫀/Observable mind 🧿"
+    "title": "Gather value 🍯",
+    "permalink": "/about/company/Culture and values 🫀/Gather value 🍯"
   },
   "next": {
-    "title": "Team effort 🐝",
-    "permalink": "/about/company/Culture and values 🫀/Team effort 🐝"
+    "title": "Adapt to change 🏕️",
+    "permalink": "/about/company/Culture and values 🫀/Adapt to change 🏕️"
   }
 }

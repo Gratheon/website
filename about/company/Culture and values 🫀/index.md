@@ -2,8 +2,8 @@
 sidebar_position: 1
 title: Culture and values 🫀
 ---
-
-Cultural values affects how we do things internally, which clients and employees align with us
+Cultural values affects how we do things internally, which clients and employees align with us.
+Some of these may be obvious and cheesy, so bear with us 🐻
 
 - [Gather value 🍯](Gather%20value%20🍯.md)
 - [Radiate truth 🌞](Radiate%20truth%20🌞.md)

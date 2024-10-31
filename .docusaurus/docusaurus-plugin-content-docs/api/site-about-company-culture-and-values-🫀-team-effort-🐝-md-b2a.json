@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Radiate truth 🌞",
-    "permalink": "/about/company/Culture and values 🫀/Radiate truth 🌞"
+    "title": "Adapt to change 🏕️",
+    "permalink": "/about/company/Culture and values 🫀/Adapt to change 🏕️"
   },
   "next": {
-    "title": "Team ⚽️",
-    "permalink": "/about/company/Team/"
+    "title": "Humbly kind 🧸",
+    "permalink": "/about/company/Culture and values 🫀/Humbly kind 🧸"
   }
 }

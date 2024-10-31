@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Humbly kind 🧸",
-    "permalink": "/about/company/Culture and values 🫀/Humbly kind 🧸"
-  },
-  "next": {
     "title": "Observable mind 🧿",
     "permalink": "/about/company/Culture and values 🫀/Observable mind 🧿"
+  },
+  "next": {
+    "title": "Team ⚽️",
+    "permalink": "/about/company/Team/"
   }
 }
