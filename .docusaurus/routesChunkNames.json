@@ -795,26 +795,42 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotics-robot-vendors-88-a-e49"
   },
-  "/research-08a": {
+  "/research-975": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-dbd": {
+  "/research-cf7": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-9d3": {
+  "/research-ec6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-ca-8-83e"
   },
+  "/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning-fbb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-automatic-detection-and-classification-of-honey-bee-comb-cells-using-deeplearning-378-be1"
+  },
   "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots-3b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-⭐️-autonomous-tracking-of-honey-bee-behaviors-over-long-term-periods-with-cooperating-robots-728-7b1"
+  },
+  "/research/⭐️ BeeAlarmed. Masters thesis-2ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-bee-alarmed-masters-thesis-053-fec"
+  },
+  "/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives-63d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-deep-bees-building-and-scaling-convolutional-neuronal-nets-for-fast-and-large-scale-visual-monitoring-of-bee-hives-770-b60"
+  },
+  "/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video-003": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-label-bee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-videob-2-c-54e"
   },
   "/research/⭐️ Towards dense object tracking in a 2D honeybee hive-ca1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -828,14 +844,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-approximation-of-functions-determining-colony-activity-using-neural-networks-master-thesis-91-c-f9d"
   },
-  "/research/Automatic detection and classification of honey bee comb cells using deeplearning-373": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-automatic-detection-and-classification-of-honey-bee-comb-cells-using-deeplearningb-98-de9"
-  },
-  "/research/BeeAlarmed. Masters thesis-99d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-bee-alarmed-masters-thesis-6-a-0-2d1"
-  },
   "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillanceeab-c77"
@@ -843,10 +851,6 @@
   "/research/Biodiversity conservation and current threats to European honeybees-c05": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-biodiversity-conservation-and-current-threats-to-european-honeybeese-9-f-9db"
-  },
-  "/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives-70a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-deep-bees-building-and-scaling-convolutional-neuronal-nets-for-fast-and-large-scale-visual-monitoring-of-bee-hives-28-c-f14"
   },
   "/research/Honey bees modify plantpollinator network structure-935": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -859,10 +863,6 @@
   "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-103": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-identifying-queenlessness-in-honeybee-hives-from-audio-signals-using-machine-learningb-35-fbc"
-  },
-  "/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video-95c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-label-bee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-videofda-a02"
   },
   "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-8e3": {
     "__comp": "__comp---theme-doc-item-178-a40",

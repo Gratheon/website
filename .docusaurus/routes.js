@@ -819,15 +819,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '08a'),
+    component: ComponentCreator('/research', '975'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'dbd'),
+        component: ComponentCreator('/research', 'cf7'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '9d3'),
+            component: ComponentCreator('/research', 'ec6'),
             routes: [
               {
                 path: '/research/',
@@ -835,8 +835,28 @@ export default [
                 exact: true
               },
               {
+                path: '/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning',
+                component: ComponentCreator('/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning', 'fbb'),
+                exact: true
+              },
+              {
                 path: '/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
                 component: ComponentCreator('/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', '3b6'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ BeeAlarmed. Masters thesis',
+                component: ComponentCreator('/research/⭐️ BeeAlarmed. Masters thesis', '2ac'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
+                component: ComponentCreator('/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '63d'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
+                component: ComponentCreator('/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '003'),
                 exact: true
               },
               {
@@ -855,16 +875,6 @@ export default [
                 exact: true
               },
               {
-                path: '/research/Automatic detection and classification of honey bee comb cells using deeplearning',
-                component: ComponentCreator('/research/Automatic detection and classification of honey bee comb cells using deeplearning', '373'),
-                exact: true
-              },
-              {
-                path: '/research/BeeAlarmed. Masters thesis',
-                component: ComponentCreator('/research/BeeAlarmed. Masters thesis', '99d'),
-                exact: true
-              },
-              {
                 path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
                 component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
                 exact: true
@@ -872,11 +882,6 @@ export default [
               {
                 path: '/research/Biodiversity conservation and current threats to European honeybees',
                 component: ComponentCreator('/research/Biodiversity conservation and current threats to European honeybees', 'c05'),
-                exact: true
-              },
-              {
-                path: '/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
-                component: ComponentCreator('/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '70a'),
                 exact: true
               },
               {
@@ -892,11 +897,6 @@ export default [
               {
                 path: '/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
                 component: ComponentCreator('/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '103'),
-                exact: true
-              },
-              {
-                path: '/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
-                component: ComponentCreator('/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '95c'),
                 exact: true
               },
               {

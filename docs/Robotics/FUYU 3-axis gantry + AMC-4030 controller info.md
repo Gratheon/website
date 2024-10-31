@@ -21,7 +21,7 @@ Cons
 ![](img/a2aaef96.pdf)
 
 <iframe width="708" height="399" src="https://www.youtube.com/embed/8gxms9ys1wY" title="AMC4030 Controler card wiring operation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![](../../../20240531_094816.jpg)
+![](img/20240531_094816.jpg)
 
 ![](img/20240531_094751.jpg)
 

@@ -579,8 +579,24 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+              "path": "/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
+            },
+            {
               "id": "⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
               "path": "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+            },
+            {
+              "id": "⭐️ BeeAlarmed. Masters thesis",
+              "path": "/research/⭐️ BeeAlarmed. Masters thesis"
+            },
+            {
+              "id": "⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+              "path": "/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+            },
+            {
+              "id": "⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+              "path": "/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
             },
             {
               "id": "⭐️ Towards dense object tracking in a 2D honeybee hive",
@@ -595,24 +611,12 @@
               "path": "/research/Approximation of functions determining colony activity using neural networks - master thesis"
             },
             {
-              "id": "Automatic detection and classification of honey bee comb cells using deeplearning",
-              "path": "/research/Automatic detection and classification of honey bee comb cells using deeplearning"
-            },
-            {
-              "id": "BeeAlarmed. Masters thesis",
-              "path": "/research/BeeAlarmed. Masters thesis"
-            },
-            {
               "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
               "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
             },
             {
               "id": "Biodiversity conservation and current threats to European honeybees",
               "path": "/research/Biodiversity conservation and current threats to European honeybees"
-            },
-            {
-              "id": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
-              "path": "/research/DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
             },
             {
               "id": "Honey bees modify plantpollinator network structure",
@@ -629,10 +633,6 @@
             {
               "id": "index",
               "path": "/research/"
-            },
-            {
-              "id": "LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
-              "path": "/research/LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
             },
             {
               "id": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
