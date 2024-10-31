@@ -247,7 +247,7 @@ function HomepageHeader() {
             </div>
 
             <div className={styles.deviceImgs}>
-              <img src="./img/gatehousev3.jpg" alt="Entrance Observer" />
+              <img src="./img/observer.webp" alt="Entrance Observer" />
               <video autoPlay loop muted src="./img/counting.mov"></video>
             </div>
           </div>
