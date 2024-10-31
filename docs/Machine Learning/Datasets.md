@@ -1,7 +1,7 @@
 ## Our datasets
 
 Main source is available via [Google Drive](https://drive.google.com/drive/folders/105PmxDKFUR6NCPLHBkXGdkfcZwWf9ABI?usp=drive_link), mostly due to the size of the data. This includes:
-- bee videos from the [👁️‍🗨️ Entrance Observer](../../about/products/👁️‍🗨️%20Entrance%20Observer.md), may 2024. 
+- bee videos from the [👁️‍🗨️ Entrance Observer](/about/products/👁️‍🗨️%20Entrance%20Observer), may 2024. 
   640x480 resolutions, 10sec clips ~ 1h of videos in total, 1.1GB
 - inspections of the beehive frames (no annotations, JPG, ~15MP) in 2019, 2020, 2021, 2024 years
 
