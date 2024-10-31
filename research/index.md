@@ -3,9 +3,9 @@ sidebar_position: 6
 title: 🔬 Research
 hide_table_of_contents: true
 ---
-We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions. Here we track publications that are most relevant.
+We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions (see our docs for more engineering and ML specific articles). 
 
-An good overview is presented in this [Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey.md)
+Here we track research papers that are most relevant. An good overview is presented in this [Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey.md)
 
 ## Teams
 
@@ -49,15 +49,3 @@ One-time yet very notable works were also in:
 | [Biodiversity conservation and current threats to European honeybees](Biodiversity%20conservation%20and%20current%20threats%20to%20European%20honeybees.md)                                                                                                                           | <ul><li>🇪🇸 Universidad de Murcia</li><li>🇩🇪 Martin-Luther-Universität Halle-Wittenberg</li></ul>                                                                                        | 2009 |
 | [BeeAlarmed. Masters thesis](⭐️%20BeeAlarmed.%20Masters%20thesis.md)                                                                                                                                                                                                                  | <ul><li>🇩🇪 South Westphalia University of Applied Sciences</li></ul>                                                                                                                      | \-   |
 <!-- SerializedQuery END -->
-
-
-## EU grants
-
-- Hiveopolis - [https://cordis.europa.eu/project/id/824069](https://cordis.europa.eu/project/id/824069)
-
-## Related journals
-
-[Apidologie](https://www.springer.com/journal/13592)
-
-[http://www.apian.ch/pages/about/](http://www.apian.ch/pages/about/)
-

@@ -717,15 +717,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4b8'),
+    component: ComponentCreator('/docs', 'c1c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7f1'),
+        component: ComponentCreator('/docs', 'fa6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ba4'),
+            component: ComponentCreator('/docs', '2ae'),
             routes: [
               {
                 path: '/docs/Engineering/CAD modelling',
@@ -784,6 +784,12 @@ export default [
               {
                 path: '/docs/Jetson Nano setup',
                 component: ComponentCreator('/docs/Jetson Nano setup', 'dcd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Machine Learning/Datasets',
+                component: ComponentCreator('/docs/Machine Learning/Datasets', '8f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

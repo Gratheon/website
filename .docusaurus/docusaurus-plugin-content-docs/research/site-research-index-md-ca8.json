@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "🔬 Research",
-  "description": "We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions. Here we track publications that are most relevant.",
+  "description": "We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions (see our docs for more engineering and ML specific articles).",
   "source": "@site/research/index.md",
   "sourceDirName": ".",
   "slug": "/",

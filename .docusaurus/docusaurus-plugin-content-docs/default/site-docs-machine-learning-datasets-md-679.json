@@ -1,0 +1,24 @@
+{
+  "id": "Machine Learning/Datasets",
+  "title": "Datasets",
+  "description": "Our datasets",
+  "source": "@site/docs/Machine Learning/Datasets.md",
+  "sourceDirName": "Machine Learning",
+  "slug": "/Machine Learning/Datasets",
+  "permalink": "/docs/Machine Learning/Datasets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Machine Learning/Datasets.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/Engineering/UX - UI wireframes"
+  },
+  "next": {
+    "title": "Robotic beehive physical design",
+    "permalink": "/docs/Robotic beehive physical design"
+  }
+}
