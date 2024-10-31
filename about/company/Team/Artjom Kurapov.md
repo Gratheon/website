@@ -3,5 +3,5 @@
 - [blog](https://kurapov.ee)
 
 <div style={{borderRadius:100, width:200, height:200, overflow:'hidden'}}>
-![](../../../../artjom.jpg)
+![](img/artjom.jpg)
 </div>
