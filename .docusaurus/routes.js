@@ -717,16 +717,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c1c'),
+    component: ComponentCreator('/docs', '28f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fa6'),
+        component: ComponentCreator('/docs', 'aff'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2ae'),
+            component: ComponentCreator('/docs', '9d1'),
             routes: [
+              {
+                path: '/docs/Docs',
+                component: ComponentCreator('/docs/Docs', '758'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/Engineering/CAD modelling',
                 component: ComponentCreator('/docs/Engineering/CAD modelling', '265'),
@@ -742,12 +748,6 @@ export default [
               {
                 path: '/docs/Engineering/Design',
                 component: ComponentCreator('/docs/Engineering/Design', '5b9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/Engineering onboarding',
-                component: ComponentCreator('/docs/Engineering/Engineering onboarding', '84e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -776,12 +776,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/How to setup Remote Desktop connection to Jetson Orin or Nano',
-                component: ComponentCreator('/docs/How to setup Remote Desktop connection to Jetson Orin or Nano', '39a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/Jetson Nano setup',
                 component: ComponentCreator('/docs/Jetson Nano setup', 'dcd'),
                 exact: true,
@@ -794,8 +788,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Robotic beehive physical design',
-                component: ComponentCreator('/docs/Robotic beehive physical design', '126'),
+                path: '/docs/Remote Desktop connection setup',
+                component: ComponentCreator('/docs/Remote Desktop connection setup', '1b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotics/',
+                component: ComponentCreator('/docs/Robotics/', '7b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -814,6 +814,12 @@ export default [
               {
                 path: '/docs/Robotics/Robot Vendors',
                 component: ComponentCreator('/docs/Robotics/Robot Vendors', '73a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Volunteer engineering onboarding',
+                component: ComponentCreator('/docs/Volunteer engineering onboarding', '3be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

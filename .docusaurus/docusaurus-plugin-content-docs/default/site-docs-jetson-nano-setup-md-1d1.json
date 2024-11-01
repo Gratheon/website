@@ -16,8 +16,12 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/Docs"
+  },
   "next": {
-    "title": "How to setup Remote Desktop connection to Jetson Orin or Nano",
-    "permalink": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano"
+    "title": "Remote Desktop connection setup",
+    "permalink": "/docs/Remote Desktop connection setup"
   }
 }

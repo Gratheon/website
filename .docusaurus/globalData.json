@@ -8,8 +8,13 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Jetson Nano setup",
+          "mainDocId": "Docs",
           "docs": [
+            {
+              "id": "Docs",
+              "path": "/docs/Docs",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "Engineering/CAD modelling",
               "path": "/docs/Engineering/CAD modelling",
@@ -23,11 +28,6 @@
             {
               "id": "Engineering/Design",
               "path": "/docs/Engineering/Design",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Engineering onboarding",
-              "path": "/docs/Engineering/Engineering onboarding",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -51,11 +51,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "How to setup Remote Desktop connection to Jetson Orin or Nano",
-              "path": "/docs/How to setup Remote Desktop connection to Jetson Orin or Nano",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Jetson Nano setup",
               "path": "/docs/Jetson Nano setup",
               "sidebar": "tutorialSidebar"
@@ -66,8 +61,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotic beehive physical design",
-              "path": "/docs/Robotic beehive physical design",
+              "id": "Remote Desktop connection setup",
+              "path": "/docs/Remote Desktop connection setup",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,8 +76,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Robotics/index",
+              "path": "/docs/Robotics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Robotics/Robot Vendors",
               "path": "/docs/Robotics/Robot Vendors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteer engineering onboarding",
+              "path": "/docs/Volunteer engineering onboarding",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -90,8 +95,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Jetson Nano setup",
-                "label": "Jetson Nano setup"
+                "path": "/docs/Docs",
+                "label": "Docs"
               }
             }
           }

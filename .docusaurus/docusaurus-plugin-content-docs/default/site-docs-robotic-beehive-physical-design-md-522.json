@@ -1,7 +1,7 @@
 {
   "id": "Robotic beehive physical design",
   "title": "Robotic beehive physical design",
-  "description": "Positioning considered",
+  "description": "When designing a robotic beehive, we are considering different solutions:",
   "source": "@site/docs/Robotic beehive physical design.md",
   "sourceDirName": ".",
   "slug": "/Robotic beehive physical design",

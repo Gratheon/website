@@ -1,0 +1,20 @@
+{
+  "id": "index",
+  "title": "index",
+  "description": "This section describes more technical guides that can help you setup own devices that can interact with Gratheon app if you choose to. These guides also document our architecture, services, code, reasons to choose one solution over another.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/Robotics/Robot Vendors"
+  }
+}

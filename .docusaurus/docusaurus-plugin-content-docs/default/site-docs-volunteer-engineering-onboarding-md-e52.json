@@ -1,0 +1,27 @@
+{
+  "id": "Volunteer engineering onboarding",
+  "title": "Volunteer engineering onboarding",
+  "description": "Goal of this document is to kickstart your development of the Products",
+  "source": "@site/docs/Volunteer engineering onboarding.md",
+  "sourceDirName": ".",
+  "slug": "/Volunteer engineering onboarding",
+  "permalink": "/docs/Volunteer engineering onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Volunteer engineering onboarding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remote Desktop connection setup",
+    "permalink": "/docs/Remote Desktop connection setup"
+  },
+  "next": {
+    "title": "CAD modelling",
+    "permalink": "/docs/Engineering/CAD modelling"
+  }
+}

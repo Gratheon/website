@@ -58,6 +58,10 @@ A strong contribution is:
 - QA testing session conducted that found various bugs and issues with suggestions how to mitigate them. Results were a mix of google-docs, excel and chat messages reporting specific issues. Use `#product-feedback` discord channel to report issues. Use one message per issue to have separate threads.
 - Annotations for training Machine Learning models
 
+![](../../img/Screenshot_2024-07-05_at_00.51.10.png)
+![](../../img/Screenshot_2024-07-05_at_14.40.14.png)
+
+
 ## Communication
 
 If Discord is not enough, we also try to have weekly meetings over google meet. Its free form, but we try to record meetings into [All-hands meeting recordings](https://www.notion.so/All-hands-meeting-recordings-405d4ff10fc04cd4a57dc8ed9ef362a9?pvs=21) and stream it to [twitch](https://www.twitch.tv/tot_ra).

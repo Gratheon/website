@@ -49,8 +49,7 @@ sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 sudo apt-get install v4l-utils
 ```
 
-[How to install ML software with GPU acceleration](https://www.notion.so/How-to-install-ML-software-with-GPU-acceleration-09b95e4ad1554b6cbf9cbfd2820332c2?pvs=21)
+- [How to install ML software with GPU acceleration](https://www.notion.so/How-to-install-ML-software-with-GPU-acceleration-09b95e4ad1554b6cbf9cbfd2820332c2?pvs=21)
+- [How to remotely develop on Jetson Nano](https://www.notion.so/How-to-remotely-develop-on-Jetson-Nano-f36ca684a76d46168bb0af3cbcbdb142?pvs=21)
 
-[How to remotely develop on Jetson Nano](https://www.notion.so/How-to-remotely-develop-on-Jetson-Nano-f36ca684a76d46168bb0af3cbcbdb142?pvs=21)
-
-[https://youtu.be/GQ3drRllX3I](https://youtu.be/GQ3drRllX3I)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GQ3drRllX3I" title="Jetson Nano B01 - Dual RPi Cameras + how to get faster frame rates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

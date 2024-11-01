@@ -1,9 +1,0 @@
-﻿Category,Name,Item price,Items,Price,Ordered,Priority,Vendor,URL,Requirements
-"analog, electric",Arduino mega,50,1,50,,,,,
-analog,Temperature / Humidity sensors / DS18B20,2,1,2,yes,,ARCELI,https://www.aliexpress.com/item/1005006431677780.html,
-analog,Audio / Microphone for PINOUT,3.3333333333333335,3,10,yes,,AZDelivery,https://www.amazon.de/-/en/gp/product/B08T1V3752,
-analog,Tampering / Vibration sensor,2,3,6,no,,AZDelivery,https://www.amazon.de/-/en/gp/product/B07D92XBMS/,
-analog,Weight sensor,3,4,12,yes,,Geekstory,https://www.aliexpress.com/item/1005006827930173.html,
-analog,CO2 sensor - MQ135 / ENS160 / SCD40 / CCS811,,,0,yes,,,,
-analog,PM2 dust sensor - DSM501A / GP2Y1014AU / GP2Y1010AU0F / PMS5003,,,0,yes,,,,
-analog,Barometric sensor - BMP180,,,0,yes,,,https://www.aliexpress.com/item/1005004882802786.html,
