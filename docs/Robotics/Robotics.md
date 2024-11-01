@@ -1,4 +1,5 @@
-## 🧿 Robotic beehive physical design
+### 🧿 Robotic beehive physical design
+`status:draft
 
 When designing a robotic beehive, we are considering different solutions:
 
