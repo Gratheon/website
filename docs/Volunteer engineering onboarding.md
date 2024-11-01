@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 > Goal of this document is to kickstart your development of the [Products](https://www.notion.so/Products-58e0ca42932f483aa6654f96baccb97a?pvs=21)
 
-[https://youtube.com/watch?v=4awyyk8sWho](https://youtube.com/watch?v=4awyyk8sWho)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/4awyyk8sWho" title="Gratheon all-hands v1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Environment prerequisites
 
@@ -26,7 +26,7 @@ The following services are mandatory, you will need to git-checkout them and sta
 - graphql-schema-registry ← stores graphql schema of microservices
 - graphql-router ← routes API requests to other microservices using a [graphql federation](https://www.apollographql.com/docs/federation/), which basically means that requests are split and routed to the microservice that is responsible for particular part of the schema
 
-![Screenshot 2024-04-28 at 14.48.37.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/6d024cde-fe24-4578-9108-2e74198ba528/Screenshot_2024-04-28_at_14.48.37.png)
+![](img/Screenshot%202024-04-28%20at%2014.48.37.png)
 
 ### Product services
 
@@ -35,9 +35,10 @@ The following services are mandatory, you will need to git-checkout them and sta
 
 Note that some service may still be in development and can be unstable or only in draft phase (video processing for example)
 
-![Screenshot 2024-04-28 at 14.49.44.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/073fe13a-adca-4d71-8860-c98917817e7e/Screenshot_2024-04-28_at_14.49.44.png)
 
-![Screenshot 2024-04-28 at 14.53.10.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/e13d1deb-6353-498f-9f88-c2669072090c/Screenshot_2024-04-28_at_14.53.10.png)
+![](img/Screenshot%202024-04-28%20at%2014.49.44.png)
+
+![](img/Screenshot%202024-04-28%20at%2014.53.10.png)
 
 After checkout
 
@@ -55,4 +56,4 @@ Some services are not blocking the UI or backend in general, but are required fo
 - gate-video-stream
 - models-gate-tracker
 
-![Screenshot 2024-04-08 at 12.29.45.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/eb20325f-eb1e-4337-b022-2c145ac1469a/Screenshot_2024-04-08_at_12.29.45.png)
+![](img/Screenshot%202024-04-08%20at%2012.29.45.png)

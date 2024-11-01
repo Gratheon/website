@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 <div style={{ height:250, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
-![](../../Untitled.png)
+![](img/dog.png)
 </div></div>
 
 This section describes more technical guides that can help you setup own devices that can interact with Gratheon app if you choose to. These guides also document our architecture, services, code, reasons to choose one solution over another. 
