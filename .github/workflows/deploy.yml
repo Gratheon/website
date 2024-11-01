@@ -17,3 +17,6 @@ jobs:
       - name: move
         working-directory: /www/website/
         run: rm -rf /www/website/public && mv /www/website/build /www/website/public
+      - name: cleanup
+        working-directory: /www/website/
+        run: rm -rf /www/website/node_modules
