@@ -353,17 +353,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-757": {
+  "/about-75e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-864": {
+  "/about-740": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-c4f": {
+  "/about-62e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -449,6 +449,10 @@
   "/about/company/Meeting recordings-c91": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-meeting-recordings-13-d-bbe"
+  },
+  "/about/company/Merchandise-4e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-merchandised-93-997"
   },
   "/about/company/Roles/-27f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -726,46 +730,22 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/docs-e17": {
+  "/docs-5f2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-236": {
+  "/docs-8f5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-a18": {
+  "/docs-8e5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docsa-0-a-6c1"
-  },
-  "/docs/Engineering onboarding-727": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-onboarding-54-c-7f7"
-  },
-  "/docs/Engineering/CAD modelling 🫖-52a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-cad-modelling-🫖-f-65-589"
-  },
-  "/docs/Engineering/Design-5b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-designae-0-b97"
-  },
-  "/docs/Engineering/Merchandise-f86": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-merchandisec-85-5fc"
-  },
-  "/docs/Engineering/Tech stack, conventions, environments-19a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-tech-stack-conventions-environmentsd-52-a24"
-  },
-  "/docs/Engineering/UX - UI wireframes-392": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-ux-ui-wireframesb-3-a-0c8"
   },
   "/docs/Entrance observer/-62a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -871,6 +851,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-4-axis-gantry-37-f-b69"
   },
+  "/docs/Robotic Beehive/CAD modelling 🫖-0f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-cad-modelling-🫖-847-6eb"
+  },
+  "/docs/Robotic Beehive/Design-a28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-design-3-a-5-3c3"
+  },
   "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info-cb7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infofab-52d"
@@ -878,6 +866,18 @@
   "/docs/Robotic Beehive/Robot Vendors-6f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-robot-vendors-985-226"
+  },
+  "/docs/web-app/-d1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-f-30-003"
+  },
+  "/docs/web-app/Tech stack, conventions, environments-670": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-tech-stack-conventions-environments-6-f-9-d84"
+  },
+  "/docs/web-app/UX - UI wireframes-772": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-ux-ui-wireframes-256-93e"
   },
   "/research-25c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

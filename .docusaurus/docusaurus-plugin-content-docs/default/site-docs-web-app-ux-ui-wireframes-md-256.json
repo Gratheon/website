@@ -1,0 +1,24 @@
+{
+  "id": "web-app/UX - UI wireframes",
+  "title": "UX - UI wireframes",
+  "description": "- We use Penpot for wireframes instead of figma because, its free",
+  "source": "@site/docs/web-app/UX - UI wireframes.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/UX - UI wireframes",
+  "permalink": "/docs/web-app/UX - UI wireframes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/UX - UI wireframes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/docs/web-app/Tech stack, conventions, environments"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/iot/"
+  }
+}

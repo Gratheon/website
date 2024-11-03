@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Engineering onboarding",
-    "permalink": "/docs/Engineering onboarding"
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/web-app/UX - UI wireframes"
   },
   "next": {
     "title": "ESP32 setup",

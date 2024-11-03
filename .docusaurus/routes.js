@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '757'),
+    component: ComponentCreator('/about', '75e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '864'),
+        component: ComponentCreator('/about', '740'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'c4f'),
+            component: ComponentCreator('/about', '62e'),
             routes: [
               {
                 path: '/about/',
@@ -292,6 +292,12 @@ export default [
               {
                 path: '/about/company/Meeting recordings',
                 component: ComponentCreator('/about/company/Meeting recordings', 'c91'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Merchandise',
+                component: ComponentCreator('/about/company/Merchandise', '4e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -717,55 +723,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e17'),
+    component: ComponentCreator('/docs', '5f2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '236'),
+        component: ComponentCreator('/docs', '8f5'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a18'),
+            component: ComponentCreator('/docs', '8e5'),
             routes: [
               {
                 path: '/docs/Docs',
                 component: ComponentCreator('/docs/Docs', '758'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering onboarding',
-                component: ComponentCreator('/docs/Engineering onboarding', '727'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/CAD modelling 🫖',
-                component: ComponentCreator('/docs/Engineering/CAD modelling 🫖', '52a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/Design',
-                component: ComponentCreator('/docs/Engineering/Design', '5b9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/Merchandise',
-                component: ComponentCreator('/docs/Engineering/Merchandise', 'f86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/Tech stack, conventions, environments',
-                component: ComponentCreator('/docs/Engineering/Tech stack, conventions, environments', '19a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/UX - UI wireframes',
-                component: ComponentCreator('/docs/Engineering/UX - UI wireframes', '392'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -926,6 +896,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Robotic Beehive/CAD modelling 🫖',
+                component: ComponentCreator('/docs/Robotic Beehive/CAD modelling 🫖', '0f9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/Design',
+                component: ComponentCreator('/docs/Robotic Beehive/Design', 'a28'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info',
                 component: ComponentCreator('/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info', 'cb7'),
                 exact: true,
@@ -934,6 +916,24 @@ export default [
               {
                 path: '/docs/Robotic Beehive/Robot Vendors',
                 component: ComponentCreator('/docs/Robotic Beehive/Robot Vendors', '6f4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/',
+                component: ComponentCreator('/docs/web-app/', 'd1a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/Tech stack, conventions, environments',
+                component: ComponentCreator('/docs/web-app/Tech stack, conventions, environments', '670'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/UX - UI wireframes',
+                component: ComponentCreator('/docs/web-app/UX - UI wireframes', '772'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

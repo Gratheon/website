@@ -16,36 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering onboarding",
-              "path": "/docs/Engineering onboarding",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/CAD modelling 🫖",
-              "path": "/docs/Engineering/CAD modelling 🫖",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Design",
-              "path": "/docs/Engineering/Design",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Merchandise",
-              "path": "/docs/Engineering/Merchandise",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/Tech stack, conventions, environments",
-              "path": "/docs/Engineering/Tech stack, conventions, environments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Engineering/UX - UI wireframes",
-              "path": "/docs/Engineering/UX - UI wireframes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Entrance observer/Datasets",
               "path": "/docs/Entrance observer/Datasets",
               "sidebar": "tutorialSidebar"
@@ -171,6 +141,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Robotic Beehive/CAD modelling 🫖",
+              "path": "/docs/Robotic Beehive/CAD modelling 🫖",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/Design",
+              "path": "/docs/Robotic Beehive/Design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
               "path": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
               "sidebar": "tutorialSidebar"
@@ -183,6 +163,21 @@
             {
               "id": "Robotic Beehive/Robot Vendors",
               "path": "/docs/Robotic Beehive/Robot Vendors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/index",
+              "path": "/docs/web-app/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/Tech stack, conventions, environments",
+              "path": "/docs/web-app/Tech stack, conventions, environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/UX - UI wireframes",
+              "path": "/docs/web-app/UX - UI wireframes",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -307,6 +302,11 @@
             {
               "id": "company/Meeting recordings",
               "path": "/about/company/Meeting recordings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Merchandise",
+              "path": "/about/company/Merchandise",
               "sidebar": "tutorialSidebar"
             },
             {

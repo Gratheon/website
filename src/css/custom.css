@@ -522,52 +522,49 @@
 }
 
 
-#__docusaurus {
-    & > footer a,
-    & > footer a:visited {
+#__docusaurus > footer a,
+#__docusaurus > footer a:visited {
     color: #ffe353;
     text-decoration: none;
     border: none;
-    }
+}
 
-    :root{
-        --ifm-footer-link-hover-color: black;
-    }
+:root{
+    --ifm-footer-link-hover-color: black;
+}
 
-    & > footer a:hover {
-    color: black;
-    background: rgb(253, 220, 4);
-    }
+#__docusaurus > footer a:hover {
+color: black;
+background: rgb(253, 220, 4);
+}
 
-    & > footer {
-        color: white;
-        background: #241603;
-        font-size: 18px;
-        padding: 40px 40px 0 40px;
-
-        margin: 0;
+@media screen and (min-width: 1024px) {
+    #__docusaurus > footer {
+        padding: 0;
         display: flex;
-        gap: 20px;
-        flex-wrap: wrap;
-
-        background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
-        url("https://gratheon.s3-accelerate.amazonaws.com/www/nvidia.webp");
-
-        min-height: 250px;
-        background-size: cover;
-
-        .footer__item{
-            height: 25px;
-        }
+        padding: 20px;
     }
+}
 
+#__docusaurus > footer {
+    color: white;
+    background: #241603;
+    font-size: 18px;
+    padding: 40px 40px 0 40px;
 
-    @media screen and (min-width: 1024px) {
-        footer {
-            padding: 0;
-            display: flex;
-            padding: 20px;
-        }
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
+    url("https://gratheon.s3-accelerate.amazonaws.com/www/nvidia.webp");
+
+    min-height: 250px;
+    background-size: cover;
+
+    .footer__item{
+        height: 25px;
     }
 }
 

@@ -1,0 +1,23 @@
+{
+  "id": "company/Merchandise",
+  "title": "Merchandise",
+  "description": "status: idea",
+  "source": "@site/about/company/Merchandise.md",
+  "sourceDirName": "company",
+  "slug": "/company/Merchandise",
+  "permalink": "/about/company/Merchandise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting recordings 🎥",
+    "permalink": "/about/company/Meeting recordings"
+  },
+  "next": {
+    "title": "Roles",
+    "permalink": "/about/company/Roles/"
+  }
+}

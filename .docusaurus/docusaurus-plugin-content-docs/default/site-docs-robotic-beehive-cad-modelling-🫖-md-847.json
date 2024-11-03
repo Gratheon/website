@@ -1,0 +1,24 @@
+{
+  "id": "Robotic Beehive/CAD modelling 🫖",
+  "title": "CAD modelling 🫖",
+  "description": "- We use tinkercad for not serious models to just convey the idea or for 3d printing",
+  "source": "@site/docs/Robotic Beehive/CAD modelling 🫖.md",
+  "sourceDirName": "Robotic Beehive",
+  "slug": "/Robotic Beehive/CAD modelling 🫖",
+  "permalink": "/docs/Robotic Beehive/CAD modelling 🫖",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotic Beehive/CAD modelling 🫖.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4 axis gantry",
+    "permalink": "/docs/Robotic Beehive/4 axis gantry"
+  },
+  "next": {
+    "title": "Design",
+    "permalink": "/docs/Robotic Beehive/Design"
+  }
+}

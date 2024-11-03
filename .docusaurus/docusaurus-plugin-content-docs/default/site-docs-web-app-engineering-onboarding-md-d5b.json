@@ -1,0 +1,28 @@
+{
+  "id": "web-app/Engineering onboarding",
+  "title": "📱 Web-app",
+  "description": "Goal of this document is to kickstart your development of the Products",
+  "source": "@site/docs/web-app/Engineering onboarding.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/Engineering onboarding",
+  "permalink": "/docs/web-app/Engineering onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/Engineering onboarding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "📱 Web-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Merchandise",
+    "permalink": "/docs/Engineering/Merchandise"
+  },
+  "next": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/docs/web-app/Tech stack, conventions, environments"
+  }
+}

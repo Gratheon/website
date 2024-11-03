@@ -1,7 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+title: 📱 Web-app
 ---
-> Goal of this document is to kickstart your development of the [Products](https://www.notion.so/Products-58e0ca42932f483aa6654f96baccb97a?pvs=21)
+> Goal of this document is to kickstart your development of the web-app as an engineer
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/4awyyk8sWho" title="Gratheon all-hands v1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,7 +27,7 @@ The following services are mandatory, you will need to git-checkout them and sta
 - graphql-schema-registry ← stores graphql schema of microservices
 - graphql-router ← routes API requests to other microservices using a [graphql federation](https://www.apollographql.com/docs/federation/), which basically means that requests are split and routed to the microservice that is responsible for particular part of the schema
 
-![](img/Screenshot%202024-04-28%20at%2014.48.37.png)
+![](../img/Screenshot%202024-04-28%20at%2014.48.37.png)
 
 ### Product services
 
@@ -36,9 +37,9 @@ The following services are mandatory, you will need to git-checkout them and sta
 Note that some service may still be in development and can be unstable or only in draft phase (video processing for example)
 
 
-![](img/Screenshot%202024-04-28%20at%2014.49.44.png)
+![](../img/Screenshot%202024-04-28%20at%2014.49.44.png)
 
-![](img/Screenshot%202024-04-28%20at%2014.53.10.png)
+![](../img/Screenshot%202024-04-28%20at%2014.53.10.png)
 
 After checkout
 
@@ -56,4 +57,4 @@ Some services are not blocking the UI or backend in general, but are required fo
 - gate-video-stream
 - models-gate-tracker
 
-![](img/Screenshot%202024-04-08%20at%2012.29.45.png)
+![](../img/Screenshot%202024-04-08%20at%2012.29.45.png)

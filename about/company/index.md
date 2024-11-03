@@ -2,8 +2,10 @@
 sidebar_position: 5
 title: 👔 Company
 ---
-
+<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-20%" }}>
 ![](../img/swarm.jpg)
+</div></div>
+
 💡 A matrix-structure organization organizes its work into verticals and horizontal layers. A vertical is a business and product-oriented full stack view on the system as a subset of layers. A horizontal layer is an implementation, usually a specialised, technological mean and thus a [](https://www.notion.so/d961012e6fc04f329b876179617803d8?pvs=21)- view on the system.
 
 For example an iPhone is a vertical product, whereas its design, software, hardware, distribution, sales and marketing are horizontal layers.
