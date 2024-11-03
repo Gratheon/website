@@ -1,0 +1,28 @@
+{
+  "id": "Beehive IoT sensors/index",
+  "title": "🌡️ Beehive IoT sensors",
+  "description": "| title | orgs | year |",
+  "source": "@site/docs/Beehive IoT sensors/index.md",
+  "sourceDirName": "Beehive IoT sensors",
+  "slug": "/Beehive IoT sensors/",
+  "permalink": "/docs/Beehive IoT sensors/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "🌡️ Beehive IoT sensors",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Engineering onboarding",
+    "permalink": "/docs/Engineering onboarding"
+  },
+  "next": {
+    "title": "ESP32 setup",
+    "permalink": "/docs/Beehive IoT sensors/ESP32 setup"
+  }
+}

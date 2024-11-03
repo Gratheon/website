@@ -1,7 +1,4 @@
----
-status: draft
----
-
+`status: idea`
 ## Design
 Idea so far yellow T-shirt
 ## Potential vendors

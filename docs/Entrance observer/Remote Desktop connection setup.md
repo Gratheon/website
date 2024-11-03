@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Remote Desktop connection setup 🖥️
 ---
 
 ### Remote desktop with VNC
@@ -133,12 +134,12 @@ restart
 
 This is useful for host machines running Windows
 
-[https://www.youtube.com/watch?v=7-WMvmWVxJQ](https://www.youtube.com/watch?v=7-WMvmWVxJQ)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7-WMvmWVxJQ" title="L-2 Jetson Nano Headless | Use Jetson Nano Remotely" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Connecting from the browser
 
 - checkout [https://github.com/novnc/noVNC](https://github.com/novnc/noVNC) locally
-    
 - run 
 ```
 ./utils/novnc_proxy --vnc 192.168.1.223:5900 --listen [localhost:6081](<http://localhost:6081>)
@@ -146,5 +147,5 @@ This is useful for host machines running Windows
 where `192.168.1.223` is the IP of the jetson
     
 - open browser link that it suggests
-    
-    ![Screenshot 2024-06-20 at 19.13.32.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/13f71162-e881-47fa-91b1-ac8b70439557/Screenshot_2024-06-20_at_19.13.32.png)
+
+![](../img/Screenshot%202024-06-20%20at%2019.13.32.png)

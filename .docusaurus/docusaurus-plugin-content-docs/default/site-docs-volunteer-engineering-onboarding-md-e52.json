@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Volunteer engineering onboarding.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Remote Desktop connection setup",
-    "permalink": "/docs/Remote Desktop connection setup"
+    "title": "Docs",
+    "permalink": "/docs/Docs"
   },
   "next": {
-    "title": "CAD modelling",
-    "permalink": "/docs/Engineering/CAD modelling"
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/Beehive IoT sensors/"
   }
 }

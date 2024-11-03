@@ -726,30 +726,30 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/docs-6a7": {
+  "/docs-e17": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-086": {
+  "/docs-236": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-6fa": {
+  "/docs-a18": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docsa-0-a-6c1"
   },
-  "/docs/Engineering/CAD modelling-265": {
+  "/docs/Engineering onboarding-727": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-cad-modellingd-0-e-9cb"
+    "content": "content---docs-engineering-onboarding-54-c-7f7"
   },
-  "/docs/Engineering/Cloud Infrastructure-b86": {
+  "/docs/Engineering/CAD modelling 🫖-52a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-cloud-infrastructuree-57-7f2"
+    "content": "content---docs-engineering-cad-modelling-🫖-f-65-589"
   },
   "/docs/Engineering/Design-5b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -767,37 +767,117 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-engineering-ux-ui-wireframesb-3-a-0c8"
   },
-  "/docs/Jetson Nano setup-dcd": {
+  "/docs/Entrance observer/-62a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-jetson-nano-setup-1-d-1-d2e"
+    "content": "content---docs-entrance-observer-bb-7-0d4"
   },
-  "/docs/Machine Learning/Datasets-8f6": {
+  "/docs/Entrance observer/Datasets-b2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-machine-learning-datasets-679-bab"
+    "content": "content---docs-entrance-observer-datasets-643-a89"
   },
-  "/docs/Remote Desktop connection setup-1b8": {
+  "/docs/Entrance observer/Jetson Nano setup-d33": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-remote-desktop-connection-setup-555-f91"
+    "content": "content---docs-entrance-observer-jetson-nano-setupb-84-fd0"
   },
-  "/docs/Robotics/-7b2": {
+  "/docs/Entrance observer/Jetson Orin Nano setup-94c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotics-758-608"
+    "content": "content---docs-entrance-observer-jetson-orin-nano-setupbf-2-6b6"
   },
-  "/docs/Robotics/4 axis gantry-a71": {
+  "/docs/Entrance observer/ML processing devices-ef5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotics-4-axis-gantry-151-f83"
+    "content": "content---docs-entrance-observer-ml-processing-devicesfe-8-e23"
   },
-  "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info-2c6": {
+  "/docs/Entrance observer/Remote Desktop connection setup-cb8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotics-fuyu-3-axis-gantry-amc-4030-controller-infof-14-d9b"
+    "content": "content---docs-entrance-observer-remote-desktop-connection-setup-08-b-80e"
   },
-  "/docs/Robotics/Robot Vendors-73a": {
+  "/docs/Entrance observer/Which model to use for vision-df2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotics-robot-vendors-88-a-e49"
+    "content": "content---docs-entrance-observer-which-model-to-use-for-vision-858-cb1"
   },
-  "/docs/Volunteer engineering onboarding-3be": {
+  "/docs/iot/-bea": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-volunteer-engineering-onboardinge-52-2f5"
+    "content": "content---docs-iot-bb-8-2b3"
+  },
+  "/docs/iot/components/-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-5-e-2-3da"
+  },
+  "/docs/iot/components/Air Quality Sensor-74e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-air-quality-sensor-131-b06"
+  },
+  "/docs/iot/components/Barometric pressure sensor-3a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-barometric-pressure-sensor-57-e-21b"
+  },
+  "/docs/iot/components/Barometric sensor - BMP180-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-barometric-sensor-bmp-180-ca-8-4d0"
+  },
+  "/docs/iot/components/Battery 18650-254": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-battery-18650-c-1-e-966"
+  },
+  "/docs/iot/components/Battery shield-754": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-battery-shield-790-525"
+  },
+  "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module-4e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-carbon-dioxide-co-2-temperature-humidity-vo-cs-air-quality-sensor-module-078-5d4"
+  },
+  "/docs/iot/components/CO2 sensor - ENS160-dcd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-co-2-sensor-ens-160-b-93-fd4"
+  },
+  "/docs/iot/components/ESP32-e9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-esp-327-c-0-2da"
+  },
+  "/docs/iot/components/Microphone Amplifier Stable-65f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-microphone-amplifier-stable-752-b23"
+  },
+  "/docs/iot/components/PM2 dust sensor-31f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-pm-2-dust-sensor-9-c-7-7b9"
+  },
+  "/docs/iot/components/Tampering - Vibration sensor-9c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-tampering-vibration-sensor-87-d-5de"
+  },
+  "/docs/iot/components/Temperature - Humidity sensor alternative-551": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-temperature-humidity-sensor-alternatived-51-954"
+  },
+  "/docs/iot/components/Temperature - Humidity sensors - DS18B20-16d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-temperature-humidity-sensors-ds-18-b-20384-d04"
+  },
+  "/docs/iot/components/Weight sensor-dcc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-weight-sensorce-3-513"
+  },
+  "/docs/iot/ESP32 setup-8e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-esp-32-setup-561-e54"
+  },
+  "/docs/Robotic Beehive/-be3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-053-383"
+  },
+  "/docs/Robotic Beehive/4 axis gantry-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-4-axis-gantry-37-f-b69"
+  },
+  "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info-cb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infofab-52d"
+  },
+  "/docs/Robotic Beehive/Robot Vendors-6f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-robot-vendors-985-226"
   },
   "/research-25c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

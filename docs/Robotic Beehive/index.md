@@ -1,9 +1,12 @@
-### 🧿 Robotic beehive physical design
-`status:draft
+---
+title: 🧿 Robotic beehive
+sidebar_position: 5
+---
+`status:draft`
 
 When designing a robotic beehive, we are considering different solutions:
 
-- 🥇 [Move to side XY(Z)](https://www.notion.so/Move-to-side-XY-Z-844abdbbce8c4ea6b1121d0e7396d69f?pvs=21)  - see [4 axis gantry](Robotics/4%20axis%20gantry.md), to keep it powerful
+- 🥇 [Move to side XY(Z)](https://www.notion.so/Move-to-side-XY-Z-844abdbbce8c4ea6b1121d0e7396d69f?pvs=21)  - see [4 axis gantry](4%20axis%20gantry.md), to keep it powerful
 - 🥈 Move to side but with small motor per frame to keep it cheap
 - [Expand internally - move frame one-by-one](https://www.notion.so/Expand-internally-move-frame-one-by-one-aad6edfc74bc413d918f4032135a55ab?pvs=21)
 - [Move to side + raise up](https://www.notion.so/Move-to-side-raise-up-3e05773feeb04c81933414f69b6af737?pvs=21)

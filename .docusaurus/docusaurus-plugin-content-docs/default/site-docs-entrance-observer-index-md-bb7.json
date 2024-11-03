@@ -1,0 +1,29 @@
+{
+  "id": "Entrance observer/index",
+  "title": "👁️‍🗨️ Entrance observer",
+  "description": "Choosing processing architecture",
+  "source": "@site/docs/Entrance observer/index.md",
+  "sourceDirName": "Entrance observer",
+  "slug": "/Entrance observer/",
+  "permalink": "/docs/Entrance observer/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Entrance observer/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "👁️‍🗨️ Entrance observer",
+    "sidebar_position": 4,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weight sensor",
+    "permalink": "/docs/iot/components/Weight sensor"
+  },
+  "next": {
+    "title": "Jetson Nano setup",
+    "permalink": "/docs/Entrance observer/Jetson Nano setup"
+  }
+}

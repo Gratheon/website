@@ -1,0 +1,24 @@
+{
+  "id": "Beehive IoT sensors/components/Battery shield",
+  "title": "Battery shield",
+  "description": "https://www.aliexpress.com/item/1005007352240068.html?spm=a2g0o.best.0.0.33412c25T2XuCn&mp=1",
+  "source": "@site/docs/Beehive IoT sensors/components/Battery shield.md",
+  "sourceDirName": "Beehive IoT sensors/components",
+  "slug": "/Beehive IoT sensors/components/Battery shield",
+  "permalink": "/docs/Beehive IoT sensors/components/Battery shield",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/components/Battery shield.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Battery 18650",
+    "permalink": "/docs/Beehive IoT sensors/components/Battery 18650"
+  },
+  "next": {
+    "title": "CO2 sensor - ENS160",
+    "permalink": "/docs/Beehive IoT sensors/components/CO2 sensor - ENS160"
+  }
+}

@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Jetson Nano setup",
-    "permalink": "/docs/Jetson Nano setup"
+    "title": "Engineering onboarding",
+    "permalink": "/docs/Engineering onboarding"
   }
 }

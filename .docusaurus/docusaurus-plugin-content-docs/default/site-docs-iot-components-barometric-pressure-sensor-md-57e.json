@@ -1,0 +1,24 @@
+{
+  "id": "iot/components/Barometric pressure sensor",
+  "title": "Barometric pressure sensor",
+  "description": "",
+  "source": "@site/docs/iot/components/Barometric pressure sensor.md",
+  "sourceDirName": "iot/components",
+  "slug": "/iot/components/Barometric pressure sensor",
+  "permalink": "/docs/iot/components/Barometric pressure sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/components/Barometric pressure sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/iot/components/Air Quality Sensor"
+  },
+  "next": {
+    "title": "Barometric sensor - BMP180",
+    "permalink": "/docs/iot/components/Barometric sensor - BMP180"
+  }
+}

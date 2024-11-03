@@ -1,0 +1,24 @@
+{
+  "id": "Jetson Orin Nano setup",
+  "title": "Jetson Orin Nano setup",
+  "description": "Compared to Jetson Nano it also has",
+  "source": "@site/docs/Jetson Orin Nano setup.md",
+  "sourceDirName": ".",
+  "slug": "/Jetson Orin Nano setup",
+  "permalink": "/docs/Jetson Orin Nano setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Jetson Orin Nano setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Which model to use for vision",
+    "permalink": "/docs/Entrance observer/Which model to use for vision"
+  },
+  "next": {
+    "title": "4 axis gantry",
+    "permalink": "/docs/Robotic Beehive/4 axis gantry"
+  }
+}

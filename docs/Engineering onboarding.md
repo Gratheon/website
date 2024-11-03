@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 > Goal of this document is to kickstart your development of the [Products](https://www.notion.so/Products-58e0ca42932f483aa6654f96baccb97a?pvs=21)
 

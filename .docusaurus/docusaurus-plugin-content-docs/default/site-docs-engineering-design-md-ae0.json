@@ -1,7 +1,7 @@
 {
   "id": "Engineering/Design",
   "title": "Design",
-  "description": "Facebook groups / contractors may help here https://www.facebook.com/groups/142661069830141/",
+  "description": "status: idea",
   "source": "@site/docs/Engineering/Design.md",
   "sourceDirName": "Engineering",
   "slug": "/Engineering/Design",
@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cloud Infrastructure",
-    "permalink": "/docs/Engineering/Cloud Infrastructure"
+    "title": "CAD modelling 🫖",
+    "permalink": "/docs/Engineering/CAD modelling 🫖"
   },
   "next": {
     "title": "Merchandise",

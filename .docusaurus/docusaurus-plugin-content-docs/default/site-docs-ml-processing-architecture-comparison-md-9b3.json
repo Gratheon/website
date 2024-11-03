@@ -1,0 +1,24 @@
+{
+  "id": "ML Processing architecture comparison",
+  "title": "ML Processing architecture comparison",
+  "description": "|                      | Device                                                    | Price    |",
+  "source": "@site/docs/ML Processing architecture comparison.md",
+  "sourceDirName": ".",
+  "slug": "/ML Processing architecture comparison",
+  "permalink": "/docs/ML Processing architecture comparison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/ML Processing architecture comparison.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Orin Nano setup",
+    "permalink": "/docs/Jetson Orin Nano setup"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/Machine Learning/Datasets"
+  }
+}

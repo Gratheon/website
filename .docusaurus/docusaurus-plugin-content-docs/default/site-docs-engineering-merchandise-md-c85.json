@@ -1,7 +1,7 @@
 {
   "id": "Engineering/Merchandise",
   "title": "Merchandise",
-  "description": "Design",
+  "description": "status: idea",
   "source": "@site/docs/Engineering/Merchandise.md",
   "sourceDirName": "Engineering",
   "slug": "/Engineering/Merchandise",
@@ -11,9 +11,7 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Merchandise.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "status": "draft"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Design",

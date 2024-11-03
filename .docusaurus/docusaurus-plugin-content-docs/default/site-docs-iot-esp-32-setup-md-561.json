@@ -1,0 +1,24 @@
+{
+  "id": "iot/ESP32 setup",
+  "title": "ESP32 setup",
+  "description": "- download Arduino IDE",
+  "source": "@site/docs/iot/ESP32 setup.md",
+  "sourceDirName": "iot",
+  "slug": "/iot/ESP32 setup",
+  "permalink": "/docs/iot/ESP32 setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/ESP32 setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/iot/"
+  },
+  "next": {
+    "title": "Bill of materials",
+    "permalink": "/docs/iot/components/"
+  }
+}

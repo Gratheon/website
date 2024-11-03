@@ -1,0 +1,24 @@
+{
+  "id": "Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "description": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module (CS811 HDC1080)",
+  "source": "@site/docs/Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
+  "sourceDirName": "Beehive IoT sensors/components",
+  "slug": "/Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "permalink": "/docs/Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CO2 sensor - ENS160",
+    "permalink": "/docs/Beehive IoT sensors/components/CO2 sensor - ENS160"
+  },
+  "next": {
+    "title": "ESP32",
+    "permalink": "/docs/Beehive IoT sensors/components/ESP32"
+  }
+}

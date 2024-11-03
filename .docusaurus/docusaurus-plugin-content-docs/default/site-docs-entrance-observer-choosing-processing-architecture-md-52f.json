@@ -1,0 +1,24 @@
+{
+  "id": "Entrance observer/Choosing processing architecture",
+  "title": "Choosing processing architecture",
+  "description": "We can approach where to process video from different angles:",
+  "source": "@site/docs/Entrance observer/Choosing processing architecture.md",
+  "sourceDirName": "Entrance observer",
+  "slug": "/Entrance observer/Choosing processing architecture",
+  "permalink": "/docs/Entrance observer/Choosing processing architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Entrance observer/Choosing processing architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Remote Desktop connection setup 🖥️",
+    "permalink": "/docs/Entrance observer/Remote Desktop connection setup"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/Entrance observer/Datasets"
+  }
+}

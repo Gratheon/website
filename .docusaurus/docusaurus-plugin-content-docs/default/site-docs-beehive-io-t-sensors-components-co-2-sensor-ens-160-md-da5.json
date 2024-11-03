@@ -1,0 +1,24 @@
+{
+  "id": "Beehive IoT sensors/components/CO2 sensor - ENS160",
+  "title": "CO2 sensor - ENS160",
+  "description": "Alternatives",
+  "source": "@site/docs/Beehive IoT sensors/components/CO2 sensor - ENS160.md",
+  "sourceDirName": "Beehive IoT sensors/components",
+  "slug": "/Beehive IoT sensors/components/CO2 sensor - ENS160",
+  "permalink": "/docs/Beehive IoT sensors/components/CO2 sensor - ENS160",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/components/CO2 sensor - ENS160.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Battery shield",
+    "permalink": "/docs/Beehive IoT sensors/components/Battery shield"
+  },
+  "next": {
+    "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+    "permalink": "/docs/Beehive IoT sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module"
+  }
+}

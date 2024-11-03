@@ -1,0 +1,24 @@
+{
+  "id": "Engineering/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/Engineering/Untitled.md",
+  "sourceDirName": "Engineering",
+  "slug": "/Engineering/Untitled",
+  "permalink": "/docs/Engineering/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/Engineering/UX - UI wireframes"
+  },
+  "next": {
+    "title": "👁️‍🗨️ Entrance observer",
+    "permalink": "/docs/Entrance observer/"
+  }
+}

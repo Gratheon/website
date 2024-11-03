@@ -1,0 +1,26 @@
+{
+  "id": "iot/components/index",
+  "title": "Bill of materials",
+  "description": "| title                                                                                                                                                                                      |",
+  "source": "@site/docs/iot/components/index.md",
+  "sourceDirName": "iot/components",
+  "slug": "/iot/components/",
+  "permalink": "/docs/iot/components/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/components/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bill of materials"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ESP32 setup",
+    "permalink": "/docs/iot/ESP32 setup"
+  },
+  "next": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/iot/components/Air Quality Sensor"
+  }
+}

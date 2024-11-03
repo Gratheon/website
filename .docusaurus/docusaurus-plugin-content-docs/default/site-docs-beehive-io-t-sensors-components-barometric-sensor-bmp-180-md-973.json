@@ -1,0 +1,24 @@
+{
+  "id": "Beehive IoT sensors/components/Barometric sensor - BMP180",
+  "title": "Barometric sensor - BMP180",
+  "description": "https://www.aliexpress.com/item/1005004882802786.html",
+  "source": "@site/docs/Beehive IoT sensors/components/Barometric sensor - BMP180.md",
+  "sourceDirName": "Beehive IoT sensors/components",
+  "slug": "/Beehive IoT sensors/components/Barometric sensor - BMP180",
+  "permalink": "/docs/Beehive IoT sensors/components/Barometric sensor - BMP180",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/components/Barometric sensor - BMP180.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Barometric pressure sensor",
+    "permalink": "/docs/Beehive IoT sensors/components/Barometric pressure sensor"
+  },
+  "next": {
+    "title": "Battery 18650",
+    "permalink": "/docs/Beehive IoT sensors/components/Battery 18650"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Robotic Beehive/Robot Vendors",
+  "title": "Robot Vendors",
+  "description": "List of potential vendors for robot (parts)",
+  "source": "@site/docs/Robotic Beehive/Robot Vendors.md",
+  "sourceDirName": "Robotic Beehive",
+  "slug": "/Robotic Beehive/Robot Vendors",
+  "permalink": "/docs/Robotic Beehive/Robot Vendors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotic Beehive/Robot Vendors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+    "permalink": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info"
+  },
+  "next": {
+    "title": "CAD modelling 🫖",
+    "permalink": "/docs/Engineering/CAD modelling 🫖"
+  }
+}

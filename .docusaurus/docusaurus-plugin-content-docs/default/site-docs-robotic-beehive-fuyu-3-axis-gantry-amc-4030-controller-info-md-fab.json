@@ -1,0 +1,24 @@
+{
+  "id": "Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+  "description": "Pros",
+  "source": "@site/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info.md",
+  "sourceDirName": "Robotic Beehive",
+  "slug": "/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "permalink": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4 axis gantry",
+    "permalink": "/docs/Robotic Beehive/4 axis gantry"
+  },
+  "next": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/Robotic Beehive/Robot Vendors"
+  }
+}

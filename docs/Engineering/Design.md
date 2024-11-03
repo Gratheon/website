@@ -1,3 +1,5 @@
+`status: idea`
+
 Facebook groups / contractors may help here [https://www.facebook.com/groups/142661069830141/](https://www.facebook.com/groups/142661069830141/)
 
 ## Problem statement
@@ -19,29 +21,26 @@ Some ideas
 - Colors that highlight dangerous parts that should not be touched
 - Transparent areas to show internal mechanisms
 
-[https://www.youtube.com/watch?v=zNQv0ZX2eno](https://www.youtube.com/watch?v=zNQv0ZX2eno)
+<iframe width="50%" height="200" src="https://www.youtube.com/embed/zNQv0ZX2eno" title="The modern principles of design | Braun | British GQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[https://www.youtube.com/watch?v=BBFGECa7Vas](https://www.youtube.com/watch?v=BBFGECa7Vas)
+<iframe width="50%" height="200" src="https://www.youtube.com/embed/BBFGECa7Vas" title="Dyson Industrial Design Language Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2. Classic, Cosy
 
 More for [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21)
 
-![Color-Evolution_All-Species-2.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/3300d2b2-78d0-4d71-89e0-f716e99a6423/Color-Evolution_All-Species-2.jpg)
+![](../img/pro-1.jpg)
 
-![pro-1.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/30324573-515b-45ba-888f-8cd53b367b12/pro-1.jpg)
+![](../img/Color-Evolution_All-Species-2.jpg)
 
 ## 3. Nature-inspired, sustainable
-
-More for [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21)
-
-![439319727_375865652105538_2137747319015441158_n.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/31b00521-e8f6-4b9c-b31b-b4770f3a2d7a/439319727_375865652105538_2137747319015441158_n.jpg)
+![](../img/439319727_375865652105538_2137747319015441158_n.jpg)
 
 ## 4. Playful / Lego like
 
-![Screenshot 2024-07-19 at 02.05.58.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/6b3663fb-4bc2-4044-80e1-5d6ea956abef/092c4c3f-ef9a-4882-a179-63e91c707d1e/Screenshot_2024-07-19_at_02.05.58.png)
+![](../img/Screenshot%202024-07-19%20at%2002.05.58.png)
 
-[https://www.youtube.com/watch?app=desktop&v=BFh3cO8KrgY](https://www.youtube.com/watch?app=desktop&v=BFh3cO8KrgY)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BFh3cO8KrgY" title="Real Beehive Built From LEGO!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Industrial User Interface design inspiration
 

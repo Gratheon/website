@@ -1,0 +1,24 @@
+{
+  "id": "Beehive IoT sensors/components/Air Quality Sensor",
+  "title": "Air Quality Sensor",
+  "description": "Air Quality Sensor (TZT MQ135 MQ-135 )",
+  "source": "@site/docs/Beehive IoT sensors/components/Air Quality Sensor.md",
+  "sourceDirName": "Beehive IoT sensors/components",
+  "slug": "/Beehive IoT sensors/components/Air Quality Sensor",
+  "permalink": "/docs/Beehive IoT sensors/components/Air Quality Sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Beehive IoT sensors/components/Air Quality Sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ESP32 setup",
+    "permalink": "/docs/Beehive IoT sensors/ESP32 setup"
+  },
+  "next": {
+    "title": "Barometric pressure sensor",
+    "permalink": "/docs/Beehive IoT sensors/components/Barometric pressure sensor"
+  }
+}

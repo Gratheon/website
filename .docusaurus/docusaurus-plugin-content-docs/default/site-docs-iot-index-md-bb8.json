@@ -1,0 +1,29 @@
+{
+  "id": "iot/index",
+  "title": "🌡️ Beehive IoT sensors",
+  "description": "Choice of main CPU",
+  "source": "@site/docs/iot/index.md",
+  "sourceDirName": "iot",
+  "slug": "/iot/",
+  "permalink": "/docs/iot/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "🌡️ Beehive IoT sensors",
+    "sidebar_position": 3,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Engineering onboarding",
+    "permalink": "/docs/Engineering onboarding"
+  },
+  "next": {
+    "title": "ESP32 setup",
+    "permalink": "/docs/iot/ESP32 setup"
+  }
+}

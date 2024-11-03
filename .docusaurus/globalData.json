@@ -16,13 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering/CAD modelling",
-              "path": "/docs/Engineering/CAD modelling",
+              "id": "Engineering onboarding",
+              "path": "/docs/Engineering onboarding",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering/Cloud Infrastructure",
-              "path": "/docs/Engineering/Cloud Infrastructure",
+              "id": "Engineering/CAD modelling 🫖",
+              "path": "/docs/Engineering/CAD modelling 🫖",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -46,43 +46,143 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Jetson Nano setup",
-              "path": "/docs/Jetson Nano setup",
+              "id": "Entrance observer/Datasets",
+              "path": "/docs/Entrance observer/Datasets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Machine Learning/Datasets",
-              "path": "/docs/Machine Learning/Datasets",
+              "id": "Entrance observer/index",
+              "path": "/docs/Entrance observer/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Remote Desktop connection setup",
-              "path": "/docs/Remote Desktop connection setup",
+              "id": "Entrance observer/Jetson Nano setup",
+              "path": "/docs/Entrance observer/Jetson Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/4 axis gantry",
-              "path": "/docs/Robotics/4 axis gantry",
+              "id": "Entrance observer/Jetson Orin Nano setup",
+              "path": "/docs/Entrance observer/Jetson Orin Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/FUYU 3-axis gantry + AMC-4030 controller info",
-              "path": "/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info",
+              "id": "Entrance observer/ML processing devices",
+              "path": "/docs/Entrance observer/ML processing devices",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/Robot Vendors",
-              "path": "/docs/Robotics/Robot Vendors",
+              "id": "Entrance observer/Remote Desktop connection setup",
+              "path": "/docs/Entrance observer/Remote Desktop connection setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/Robotics",
-              "path": "/docs/Robotics/",
+              "id": "Entrance observer/Which model to use for vision",
+              "path": "/docs/Entrance observer/Which model to use for vision",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Volunteer engineering onboarding",
-              "path": "/docs/Volunteer engineering onboarding",
+              "id": "iot/components/Air Quality Sensor",
+              "path": "/docs/iot/components/Air Quality Sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Barometric pressure sensor",
+              "path": "/docs/iot/components/Barometric pressure sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Barometric sensor - BMP180",
+              "path": "/docs/iot/components/Barometric sensor - BMP180",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Battery 18650",
+              "path": "/docs/iot/components/Battery 18650",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Battery shield",
+              "path": "/docs/iot/components/Battery shield",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+              "path": "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/CO2 sensor - ENS160",
+              "path": "/docs/iot/components/CO2 sensor - ENS160",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/ESP32",
+              "path": "/docs/iot/components/ESP32",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/index",
+              "path": "/docs/iot/components/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Microphone Amplifier Stable",
+              "path": "/docs/iot/components/Microphone Amplifier Stable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/PM2 dust sensor",
+              "path": "/docs/iot/components/PM2 dust sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Tampering - Vibration sensor",
+              "path": "/docs/iot/components/Tampering - Vibration sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Temperature - Humidity sensor alternative",
+              "path": "/docs/iot/components/Temperature - Humidity sensor alternative",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Temperature - Humidity sensors - DS18B20",
+              "path": "/docs/iot/components/Temperature - Humidity sensors - DS18B20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/components/Weight sensor",
+              "path": "/docs/iot/components/Weight sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/ESP32 setup",
+              "path": "/docs/iot/ESP32 setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iot/index",
+              "path": "/docs/iot/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/4 axis gantry",
+              "path": "/docs/Robotic Beehive/4 axis gantry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+              "path": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/index",
+              "path": "/docs/Robotic Beehive/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/Robot Vendors",
+              "path": "/docs/Robotic Beehive/Robot Vendors",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "UX - UI wireframes",
-    "permalink": "/docs/Engineering/UX - UI wireframes"
+    "title": "Jetson Orin Nano setup",
+    "permalink": "/docs/Jetson Orin Nano setup"
   },
   "next": {
-    "title": "Robotics",
-    "permalink": "/docs/Robotics/"
+    "title": "ML processing devices",
+    "permalink": "/docs/Machine Learning/ML processing devices"
   }
 }

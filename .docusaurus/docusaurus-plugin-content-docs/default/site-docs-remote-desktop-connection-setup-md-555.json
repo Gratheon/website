@@ -1,6 +1,6 @@
 {
   "id": "Remote Desktop connection setup",
-  "title": "Remote Desktop connection setup",
+  "title": "Remote Desktop connection setup 🖥️",
   "description": "Remote desktop with VNC",
   "source": "@site/docs/Remote Desktop connection setup.md",
   "sourceDirName": ".",
@@ -13,12 +13,13 @@
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 2,
+    "title": "Remote Desktop connection setup 🖥️"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Jetson Nano setup",
-    "permalink": "/docs/Jetson Nano setup"
+    "title": "Docs",
+    "permalink": "/docs/Docs"
   },
   "next": {
     "title": "Volunteer engineering onboarding",

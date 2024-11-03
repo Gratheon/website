@@ -1,0 +1,27 @@
+{
+  "id": "Engineering onboarding",
+  "title": "Engineering onboarding",
+  "description": "Goal of this document is to kickstart your development of the Products",
+  "source": "@site/docs/Engineering onboarding.md",
+  "sourceDirName": ".",
+  "slug": "/Engineering onboarding",
+  "permalink": "/docs/Engineering onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Engineering onboarding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/Docs"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/iot/"
+  }
+}

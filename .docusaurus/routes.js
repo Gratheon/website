@@ -717,15 +717,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6a7'),
+    component: ComponentCreator('/docs', 'e17'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '086'),
+        component: ComponentCreator('/docs', '236'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6fa'),
+            component: ComponentCreator('/docs', 'a18'),
             routes: [
               {
                 path: '/docs/Docs',
@@ -734,14 +734,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Engineering/CAD modelling',
-                component: ComponentCreator('/docs/Engineering/CAD modelling', '265'),
+                path: '/docs/Engineering onboarding',
+                component: ComponentCreator('/docs/Engineering onboarding', '727'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Engineering/Cloud Infrastructure',
-                component: ComponentCreator('/docs/Engineering/Cloud Infrastructure', 'b86'),
+                path: '/docs/Engineering/CAD modelling 🫖',
+                component: ComponentCreator('/docs/Engineering/CAD modelling 🫖', '52a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -770,50 +770,170 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Jetson Nano setup',
-                component: ComponentCreator('/docs/Jetson Nano setup', 'dcd'),
+                path: '/docs/Entrance observer/',
+                component: ComponentCreator('/docs/Entrance observer/', '62a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Machine Learning/Datasets',
-                component: ComponentCreator('/docs/Machine Learning/Datasets', '8f6'),
+                path: '/docs/Entrance observer/Datasets',
+                component: ComponentCreator('/docs/Entrance observer/Datasets', 'b2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Remote Desktop connection setup',
-                component: ComponentCreator('/docs/Remote Desktop connection setup', '1b8'),
+                path: '/docs/Entrance observer/Jetson Nano setup',
+                component: ComponentCreator('/docs/Entrance observer/Jetson Nano setup', 'd33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Robotics/',
-                component: ComponentCreator('/docs/Robotics/', '7b2'),
+                path: '/docs/Entrance observer/Jetson Orin Nano setup',
+                component: ComponentCreator('/docs/Entrance observer/Jetson Orin Nano setup', '94c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Robotics/4 axis gantry',
-                component: ComponentCreator('/docs/Robotics/4 axis gantry', 'a71'),
+                path: '/docs/Entrance observer/ML processing devices',
+                component: ComponentCreator('/docs/Entrance observer/ML processing devices', 'ef5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info',
-                component: ComponentCreator('/docs/Robotics/FUYU 3-axis gantry + AMC-4030 controller info', '2c6'),
+                path: '/docs/Entrance observer/Remote Desktop connection setup',
+                component: ComponentCreator('/docs/Entrance observer/Remote Desktop connection setup', 'cb8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Robotics/Robot Vendors',
-                component: ComponentCreator('/docs/Robotics/Robot Vendors', '73a'),
+                path: '/docs/Entrance observer/Which model to use for vision',
+                component: ComponentCreator('/docs/Entrance observer/Which model to use for vision', 'df2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Volunteer engineering onboarding',
-                component: ComponentCreator('/docs/Volunteer engineering onboarding', '3be'),
+                path: '/docs/iot/',
+                component: ComponentCreator('/docs/iot/', 'bea'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/',
+                component: ComponentCreator('/docs/iot/components/', '798'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Air Quality Sensor',
+                component: ComponentCreator('/docs/iot/components/Air Quality Sensor', '74e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Barometric pressure sensor',
+                component: ComponentCreator('/docs/iot/components/Barometric pressure sensor', '3a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Barometric sensor - BMP180',
+                component: ComponentCreator('/docs/iot/components/Barometric sensor - BMP180', 'b3a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Battery 18650',
+                component: ComponentCreator('/docs/iot/components/Battery 18650', '254'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Battery shield',
+                component: ComponentCreator('/docs/iot/components/Battery shield', '754'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module',
+                component: ComponentCreator('/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module', '4e1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/CO2 sensor - ENS160',
+                component: ComponentCreator('/docs/iot/components/CO2 sensor - ENS160', 'dcd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/ESP32',
+                component: ComponentCreator('/docs/iot/components/ESP32', 'e9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Microphone Amplifier Stable',
+                component: ComponentCreator('/docs/iot/components/Microphone Amplifier Stable', '65f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/PM2 dust sensor',
+                component: ComponentCreator('/docs/iot/components/PM2 dust sensor', '31f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Tampering - Vibration sensor',
+                component: ComponentCreator('/docs/iot/components/Tampering - Vibration sensor', '9c1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Temperature - Humidity sensor alternative',
+                component: ComponentCreator('/docs/iot/components/Temperature - Humidity sensor alternative', '551'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Temperature - Humidity sensors - DS18B20',
+                component: ComponentCreator('/docs/iot/components/Temperature - Humidity sensors - DS18B20', '16d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/components/Weight sensor',
+                component: ComponentCreator('/docs/iot/components/Weight sensor', 'dcc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/iot/ESP32 setup',
+                component: ComponentCreator('/docs/iot/ESP32 setup', '8e7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/',
+                component: ComponentCreator('/docs/Robotic Beehive/', 'be3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/4 axis gantry',
+                component: ComponentCreator('/docs/Robotic Beehive/4 axis gantry', 'f8d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info',
+                component: ComponentCreator('/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info', 'cb7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/Robot Vendors',
+                component: ComponentCreator('/docs/Robotic Beehive/Robot Vendors', '6f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

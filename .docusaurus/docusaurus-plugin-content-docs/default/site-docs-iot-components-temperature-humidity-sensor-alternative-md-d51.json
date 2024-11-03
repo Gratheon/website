@@ -1,0 +1,24 @@
+{
+  "id": "iot/components/Temperature - Humidity sensor alternative",
+  "title": "Temperature - Humidity sensor alternative",
+  "description": "(AHT20+BMP280)",
+  "source": "@site/docs/iot/components/Temperature - Humidity sensor alternative.md",
+  "sourceDirName": "iot/components",
+  "slug": "/iot/components/Temperature - Humidity sensor alternative",
+  "permalink": "/docs/iot/components/Temperature - Humidity sensor alternative",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/components/Temperature - Humidity sensor alternative.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tampering - Vibration sensor",
+    "permalink": "/docs/iot/components/Tampering - Vibration sensor"
+  },
+  "next": {
+    "title": "Temperature - Humidity sensors - DS18B20",
+    "permalink": "/docs/iot/components/Temperature - Humidity sensors - DS18B20"
+  }
+}

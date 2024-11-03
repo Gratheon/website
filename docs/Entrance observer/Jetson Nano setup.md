@@ -49,7 +49,48 @@ sudo apt install libcanberra-gtk-module libcanberra-gtk3-module -y
 sudo apt-get install v4l-utils
 ```
 
-- [How to install ML software with GPU acceleration](https://www.notion.so/How-to-install-ML-software-with-GPU-acceleration-09b95e4ad1554b6cbf9cbfd2820332c2?pvs=21)
-- [How to remotely develop on Jetson Nano](https://www.notion.so/How-to-remotely-develop-on-Jetson-Nano-f36ca684a76d46168bb0af3cbcbdb142?pvs=21)
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GQ3drRllX3I" title="Jetson Nano B01 - Dual RPi Cameras + how to get faster frame rates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## How to install ML software with GPU acceleration
+
+
+## Python
+
+```
+sudo apt install python3-pip
+pip3 install --upgrade pip
+```
+
+## Opencv with cuda
+
+<iframe width="683" height="384" src="https://www.youtube.com/embed/P-EZr0zy53g" title="L-3 Install OpenCV 4.5 on NVIDIA Jetson Nano | Set Up a Camera for NVIDIA Jetson Nano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Install cuDNN
+
+[https://developer.nvidia.com/cudnn-downloads](https://developer.nvidia.com/cudnn-downloads)
+
+Install jtop to see GPU usage in realtime
+
+```bash
+# update pip as root
+sudo curl <https://bootstrap.pypa.io/get-pip.py> -o get-pip.py
+sudo python get-pip.py
+sudo python -m pip install jetson-stats
+
+# restart needed
+jtop
+nvidia-smi
+```
+
+
+## Install Pytorch with CUDA
+
+see [https://developer.download.nvidia.com/compute/redist/jp/v60dp/pytorch/](https://developer.download.nvidia.com/compute/redist/jp/v60dp/pytorch/)
+
+```bash
+pip install --no-cache <https://developer.download.nvidia.com/compute/redist/jp/v60dp/pytorch/torch-2.2.0a0+81ea7a4.nv24.01-cp310-cp310-linux_aarch64.whl>
+# pip install torchvision
+```
+
+See [https://github.com/dusty-nv/jetson-containers/tree/master/packages/l4t/l4t-pytorch](https://github.com/dusty-nv/jetson-containers/tree/master/packages/l4t/l4t-pytorch)

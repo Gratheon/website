@@ -1,0 +1,24 @@
+{
+  "id": "Entrance observer/ML processing devices",
+  "title": "ML processing devices",
+  "description": "| Vendor               | Device                                                    | Price    |",
+  "source": "@site/docs/Entrance observer/ML processing devices.md",
+  "sourceDirName": "Entrance observer",
+  "slug": "/Entrance observer/ML processing devices",
+  "permalink": "/docs/Entrance observer/ML processing devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Entrance observer/ML processing devices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Orin Nano setup",
+    "permalink": "/docs/Entrance observer/Jetson Orin Nano setup"
+  },
+  "next": {
+    "title": "Which model to use for vision",
+    "permalink": "/docs/Entrance observer/Which model to use for vision"
+  }
+}

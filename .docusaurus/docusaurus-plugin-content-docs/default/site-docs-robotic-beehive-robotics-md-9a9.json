@@ -1,0 +1,20 @@
+{
+  "id": "Robotic Beehive/Robotics",
+  "title": "Robotics",
+  "description": "🧿 Robotic beehive physical design",
+  "source": "@site/docs/Robotic Beehive/Robotics.md",
+  "sourceDirName": "Robotic Beehive",
+  "slug": "/Robotic Beehive/Robotics",
+  "permalink": "/docs/Robotic Beehive/Robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotic Beehive/Robotics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/Robotic Beehive/Robot Vendors"
+  }
+}
