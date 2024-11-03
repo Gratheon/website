@@ -825,15 +825,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'afd'),
+    component: ComponentCreator('/research', '25c'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'c23'),
+        component: ComponentCreator('/research', '054'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '688'),
+            component: ComponentCreator('/research', '6bf'),
             routes: [
               {
                 path: '/research/',
@@ -878,6 +878,11 @@ export default [
               {
                 path: '/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
                 component: ComponentCreator('/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', 'fd8'),
+                exact: true
+              },
+              {
+                path: '/research/Accuracy vs. Energy',
+                component: ComponentCreator('/research/Accuracy vs. Energy', '15b'),
                 exact: true
               },
               {
@@ -993,6 +998,11 @@ export default [
               {
                 path: '/research/The prediction of swarming in honeybee colonies using vibrational spectra',
                 component: ComponentCreator('/research/The prediction of swarming in honeybee colonies using vibrational spectra', 'ec3'),
+                exact: true
+              },
+              {
+                path: '/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
+                component: ComponentCreator('/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', '2d6'),
                 exact: true
               },
               {

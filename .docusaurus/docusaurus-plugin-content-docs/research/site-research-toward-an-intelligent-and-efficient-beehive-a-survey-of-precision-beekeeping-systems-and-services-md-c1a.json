@@ -1,0 +1,21 @@
+{
+  "id": "Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+  "title": "Toward an intelligent and efficient beehive: A survey of precision beekeeping systems and services",
+  "description": "PDF",
+  "source": "@site/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services.md",
+  "sourceDirName": ".",
+  "slug": "/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+  "permalink": "/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Toward an intelligent and efficient beehive: A survey of precision beekeeping systems and services",
+    "year": "2021",
+    "orgs": [
+      "🇫🇷 aivancity School for Technology",
+      "🇫🇷 Université de Lyon"
+    ]
+  }
+}

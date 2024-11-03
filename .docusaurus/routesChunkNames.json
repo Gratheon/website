@@ -799,17 +799,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-volunteer-engineering-onboardinge-52-2f5"
   },
-  "/research-afd": {
+  "/research-25c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-c23": {
+  "/research-054": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-688": {
+  "/research-6bf": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -847,6 +847,10 @@
   "/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees-fd8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-a-preliminary-study-of-image-analysis-for-parasite-detection-on-honey-beescdc-0ad"
+  },
+  "/research/Accuracy vs. Energy-15b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-accuracy-vs-energyfc-8-f03"
   },
   "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-947": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -939,6 +943,10 @@
   "/research/The prediction of swarming in honeybee colonies using vibrational spectra-ec3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-the-prediction-of-swarming-in-honeybee-colonies-using-vibrational-spectra-975-cc0"
+  },
+  "/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services-2d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-toward-an-intelligent-and-efficient-beehive-a-survey-of-precision-beekeeping-systems-and-servicesc-1-a-938"
   },
   "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-37b": {
     "__comp": "__comp---theme-doc-item-178-a40",

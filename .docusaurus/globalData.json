@@ -616,6 +616,10 @@
               "path": "/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
             },
             {
+              "id": "Accuracy vs. Energy",
+              "path": "/research/Accuracy vs. Energy"
+            },
+            {
               "id": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "path": "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
             },
@@ -710,6 +714,10 @@
             {
               "id": "The prediction of swarming in honeybee colonies using vibrational spectra",
               "path": "/research/The prediction of swarming in honeybee colonies using vibrational spectra"
+            },
+            {
+              "id": "Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+              "path": "/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
             },
             {
               "id": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
