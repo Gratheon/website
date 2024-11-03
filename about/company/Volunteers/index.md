@@ -31,7 +31,7 @@ You can contribute by following these steps:
 3. Alternatively, pick a task from [Tasks](https://www.notion.so/Tasks-67cbebc3a13c4fb3b8ac3396b4d03af4?pvs=21) if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
     - In large companies tasks are managed by a team in JIRA. We don’t use JIRA currently. We tried github issues but those add extra friction.
 4. Ask for more information in discord to get attention and document more information for the feature as part of [Features (prioritized and incomplete)](https://www.notion.so/Features-prioritized-and-incomplete-0ccc5a51879941eb8b6f220c261be046?pvs=21)
-5. Follow [Volunteer engineering onboarding](/docs/Volunteer%20engineering%20onboarding)  if you need to change code and run services locally
+5. Follow [Engineering onboarding](/docs/Engineering%20onboarding)  if you need to change code and run services locally
 6. Think ahead how your contribution will look like. We use different software [Internal tools & cloud services](https://www.notion.so/Internal-tools-cloud-services-2f74cf6da2854e03986c6de7bda3551a?pvs=21) to host results
 
 ### Contributions
