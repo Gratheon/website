@@ -632,6 +632,10 @@
               "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
             },
             {
+              "id": "BeeNet An End-To-End Deep Network For Bee Surveillance",
+              "path": "/research/BeeNet An End-To-End Deep Network For Bee Surveillance"
+            },
+            {
               "id": "BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
               "path": "/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
             },
@@ -684,6 +688,10 @@
               "path": "/research/Markerless tracking of an entire honey bee colony"
             },
             {
+              "id": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+              "path": "/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
+            },
+            {
               "id": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
               "path": "/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
             },
@@ -710,6 +718,10 @@
             {
               "id": "Varroa destructor detection on honey bees using hyperspectral imagery",
               "path": "/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+            },
+            {
+              "id": "Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques",
+              "path": "/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques"
             }
           ],
           "draftIds": [],

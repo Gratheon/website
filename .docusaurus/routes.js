@@ -825,15 +825,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '692'),
+    component: ComponentCreator('/research', 'afd'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '07a'),
+        component: ComponentCreator('/research', 'c23'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '02e'),
+            component: ComponentCreator('/research', '688'),
             routes: [
               {
                 path: '/research/',
@@ -901,6 +901,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/BeeNet An End-To-End Deep Network For Bee Surveillance',
+                component: ComponentCreator('/research/BeeNet An End-To-End Deep Network For Bee Surveillance', '853'),
+                exact: true
+              },
+              {
                 path: '/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
                 component: ComponentCreator('/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', '954'),
                 exact: true
@@ -961,6 +966,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields',
+                component: ComponentCreator('/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields', '6ca'),
+                exact: true
+              },
+              {
                 path: '/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
                 component: ComponentCreator('/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', '00d'),
                 exact: true
@@ -993,6 +1003,11 @@ export default [
               {
                 path: '/research/Varroa destructor detection on honey bees using hyperspectral imagery',
                 component: ComponentCreator('/research/Varroa destructor detection on honey bees using hyperspectral imagery', 'd70'),
+                exact: true
+              },
+              {
+                path: '/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques',
+                component: ComponentCreator('/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques', '933'),
                 exact: true
               }
             ]
