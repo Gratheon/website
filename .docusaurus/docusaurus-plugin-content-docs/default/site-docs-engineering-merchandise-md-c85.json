@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ML Datasets",
-    "permalink": "/docs/Engineering/ML Datasets"
+    "title": "Design",
+    "permalink": "/docs/Engineering/Design"
   },
   "next": {
     "title": "Tech stack, conventions, environments",

@@ -36,11 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Engineering/ML Datasets",
-              "path": "/docs/Engineering/ML Datasets",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Engineering/Tech stack, conventions, environments",
               "path": "/docs/Engineering/Tech stack, conventions, environments",
               "sidebar": "tutorialSidebar"
@@ -76,13 +71,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/index",
-              "path": "/docs/Robotics/",
+              "id": "Robotics/Robot Vendors",
+              "path": "/docs/Robotics/Robot Vendors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotics/Robot Vendors",
-              "path": "/docs/Robotics/Robot Vendors",
+              "id": "Robotics/Robotics",
+              "path": "/docs/Robotics/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -589,6 +584,10 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+              "path": "/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+            },
+            {
               "id": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
               "path": "/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
             },
@@ -613,6 +612,10 @@
               "path": "/research/⭐️ Towards dense object tracking in a 2D honeybee hive"
             },
             {
+              "id": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+              "path": "/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+            },
+            {
               "id": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "path": "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
             },
@@ -621,12 +624,24 @@
               "path": "/research/Approximation of functions determining colony activity using neural networks - master thesis"
             },
             {
+              "id": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+              "path": "/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
+            },
+            {
               "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
               "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
             },
             {
+              "id": "BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+              "path": "/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
+            },
+            {
               "id": "Biodiversity conservation and current threats to European honeybees",
               "path": "/research/Biodiversity conservation and current threats to European honeybees"
+            },
+            {
+              "id": "Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+              "path": "/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
             },
             {
               "id": "Honey bees modify plantpollinator network structure",
@@ -637,12 +652,28 @@
               "path": "/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
             },
             {
+              "id": "Honeybee Re-identification in Video New Datasets and Impact of Self-supervision",
+              "path": "/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision"
+            },
+            {
+              "id": "Honeybees on the move - Pollination services and honey production",
+              "path": "/research/Honeybees on the move - Pollination services and honey production"
+            },
+            {
               "id": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
               "path": "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
             },
             {
               "id": "index",
               "path": "/research/"
+            },
+            {
+              "id": "Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
+              "path": "/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+            },
+            {
+              "id": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
+              "path": "/research/Labeled dataset for bee detection and direction estimation on entrance to beehive"
             },
             {
               "id": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
@@ -653,8 +684,24 @@
               "path": "/research/Markerless tracking of an entire honey bee colony"
             },
             {
+              "id": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
+              "path": "/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
+            },
+            {
               "id": "Raspberry Pi Bee Health Monitoring Device",
               "path": "/research/Raspberry Pi Bee Health Monitoring Device"
+            },
+            {
+              "id": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+              "path": "/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+            },
+            {
+              "id": "The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount",
+              "path": "/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+            },
+            {
+              "id": "The prediction of swarming in honeybee colonies using vibrational spectra",
+              "path": "/research/The prediction of swarming in honeybee colonies using vibrational spectra"
             },
             {
               "id": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",

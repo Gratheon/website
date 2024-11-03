@@ -1,7 +1,7 @@
 {
   "id": "products/index",
   "title": "🍯 Products",
-  "description": "Ideas and Features",
+  "description": "Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day Problems",
   "source": "@site/about/products/index.md",
   "sourceDirName": "products",
   "slug": "/products/",

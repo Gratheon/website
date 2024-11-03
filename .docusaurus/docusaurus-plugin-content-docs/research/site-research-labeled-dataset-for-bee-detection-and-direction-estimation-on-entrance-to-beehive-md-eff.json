@@ -1,0 +1,19 @@
+{
+  "id": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
+  "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
+  "description": "- PDF",
+  "source": "@site/research/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
+  "sourceDirName": ".",
+  "slug": "/Labeled dataset for bee detection and direction estimation on entrance to beehive",
+  "permalink": "/research/Labeled dataset for bee detection and direction estimation on entrance to beehive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2023",
+    "orgs": [
+      "🇱🇹 Vilnius Gediminas Technical University"
+    ]
+  }
+}

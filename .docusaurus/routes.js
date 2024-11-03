@@ -717,15 +717,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '28f'),
+    component: ComponentCreator('/docs', '6a7'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'aff'),
+        component: ComponentCreator('/docs', '086'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9d1'),
+            component: ComponentCreator('/docs', '6fa'),
             routes: [
               {
                 path: '/docs/Docs',
@@ -754,12 +754,6 @@ export default [
               {
                 path: '/docs/Engineering/Merchandise',
                 component: ComponentCreator('/docs/Engineering/Merchandise', 'f86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Engineering/ML Datasets',
-                component: ComponentCreator('/docs/Engineering/ML Datasets', '1ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -795,7 +789,7 @@ export default [
               },
               {
                 path: '/docs/Robotics/',
-                component: ComponentCreator('/docs/Robotics/', '7b3'),
+                component: ComponentCreator('/docs/Robotics/', '7b2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -831,19 +825,24 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '975'),
+    component: ComponentCreator('/research', '692'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'cf7'),
+        component: ComponentCreator('/research', '07a'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'ec6'),
+            component: ComponentCreator('/research', '02e'),
             routes: [
               {
                 path: '/research/',
                 component: ComponentCreator('/research/', '2c3'),
+                exact: true
+              },
+              {
+                path: '/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
+                component: ComponentCreator('/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', 'b2f'),
                 exact: true
               },
               {
@@ -877,6 +876,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
+                component: ComponentCreator('/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', 'fd8'),
+                exact: true
+              },
+              {
                 path: '/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
                 component: ComponentCreator('/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '947'),
                 exact: true
@@ -887,13 +891,28 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring',
+                component: ComponentCreator('/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', '668'),
+                exact: true
+              },
+              {
                 path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
                 component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
                 exact: true
               },
               {
+                path: '/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
+                component: ComponentCreator('/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', '954'),
+                exact: true
+              },
+              {
                 path: '/research/Biodiversity conservation and current threats to European honeybees',
                 component: ComponentCreator('/research/Biodiversity conservation and current threats to European honeybees', 'c05'),
+                exact: true
+              },
+              {
+                path: '/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
+                component: ComponentCreator('/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period', '4a4'),
                 exact: true
               },
               {
@@ -907,8 +926,28 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision',
+                component: ComponentCreator('/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision', '7e4'),
+                exact: true
+              },
+              {
+                path: '/research/Honeybees on the move - Pollination services and honey production',
+                component: ComponentCreator('/research/Honeybees on the move - Pollination services and honey production', 'f3f'),
+                exact: true
+              },
+              {
                 path: '/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
                 component: ComponentCreator('/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '103'),
+                exact: true
+              },
+              {
+                path: '/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring',
+                component: ComponentCreator('/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring', '0ce'),
+                exact: true
+              },
+              {
+                path: '/research/Labeled dataset for bee detection and direction estimation on entrance to beehive',
+                component: ComponentCreator('/research/Labeled dataset for bee detection and direction estimation on entrance to beehive', 'd91'),
                 exact: true
               },
               {
@@ -922,8 +961,28 @@ export default [
                 exact: true
               },
               {
+                path: '/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
+                component: ComponentCreator('/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', '00d'),
+                exact: true
+              },
+              {
                 path: '/research/Raspberry Pi Bee Health Monitoring Device',
                 component: ComponentCreator('/research/Raspberry Pi Bee Health Monitoring Device', 'e0a'),
+                exact: true
+              },
+              {
+                path: '/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
+                component: ComponentCreator('/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', '42f'),
+                exact: true
+              },
+              {
+                path: '/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount',
+                component: ComponentCreator('/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount', 'bf8'),
+                exact: true
+              },
+              {
+                path: '/research/The prediction of swarming in honeybee colonies using vibrational spectra',
+                component: ComponentCreator('/research/The prediction of swarming in honeybee colonies using vibrational spectra', 'ec3'),
                 exact: true
               },
               {

@@ -726,17 +726,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/docs-28f": {
+  "/docs-6a7": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-aff": {
+  "/docs-086": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-9d1": {
+  "/docs-6fa": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
@@ -759,10 +759,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-engineering-merchandisec-85-5fc"
   },
-  "/docs/Engineering/ML Datasets-1ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-engineering-ml-datasets-8-e-6-5b8"
-  },
   "/docs/Engineering/Tech stack, conventions, environments-19a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-engineering-tech-stack-conventions-environmentsd-52-a24"
@@ -783,9 +779,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-remote-desktop-connection-setup-555-f91"
   },
-  "/docs/Robotics/-7b3": {
+  "/docs/Robotics/-7b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotics-ca-6-a5c"
+    "content": "content---docs-robotics-758-608"
   },
   "/docs/Robotics/4 axis gantry-a71": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -803,22 +799,26 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-volunteer-engineering-onboardinge-52-2f5"
   },
-  "/research-975": {
+  "/research-692": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-cf7": {
+  "/research-07a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-ec6": {
+  "/research-02e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-ca-8-83e"
+  },
+  "/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-b2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-⭐️-automated-video-monitoring-of-unmarked-and-marked-honey-bees-at-the-hive-entrance-418-ad3"
   },
   "/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning-fbb": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -844,6 +844,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-⭐️-towards-dense-object-tracking-in-a-2-d-honeybee-hive-3-e-8-70b"
   },
+  "/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees-fd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-a-preliminary-study-of-image-analysis-for-parasite-detection-on-honey-beescdc-0ad"
+  },
   "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-947": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-ambient-electromagnetic-radiation-as-a-predictor-of-honey-bee-traffic-4-d-2-2d8"
@@ -852,13 +856,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-approximation-of-functions-determining-colony-activity-using-neural-networks-master-thesis-91-c-f9d"
   },
+  "/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring-668": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-audio-image-video-and-weather-datasets-for-continuous-electronic-beehive-monitoring-49-a-286"
+  },
   "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillanceeab-c77"
   },
+  "/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos-954": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-bee-piv-a-method-to-measure-apis-mellifera-traffic-with-particle-image-velocimetry-in-videos-581-03e"
+  },
   "/research/Biodiversity conservation and current threats to European honeybees-c05": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-biodiversity-conservation-and-current-threats-to-european-honeybeese-9-f-9db"
+  },
+  "/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period-4a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-evaluation-of-the-honey-bee-colonies-weight-gain-during-theintensive-foraging-period-9-fc-f81"
   },
   "/research/Honey bees modify plantpollinator network structure-935": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -868,9 +884,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-honeybee-in-out-monitoring-system-by-object-recognition-and-tracking-from-real-time-webcams-6-e-5-665"
   },
+  "/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision-7e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-honeybee-re-identification-in-video-new-datasets-and-impact-of-self-supervision-5-d-6-b97"
+  },
+  "/research/Honeybees on the move - Pollination services and honey production-f3f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-honeybees-on-the-move-pollination-services-and-honey-productionb-05-644"
+  },
   "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-103": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-identifying-queenlessness-in-honeybee-hives-from-audio-signals-using-machine-learningb-35-fbc"
+  },
+  "/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring-0ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-integration-of-scales-and-cameras-in-nondisruptive-electronic-beehive-monitoringda-1-381"
+  },
+  "/research/Labeled dataset for bee detection and direction estimation on entrance to beehive-d91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-labeled-dataset-for-bee-detection-and-direction-estimation-on-entrance-to-beehiveeff-9f9"
   },
   "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-8e3": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -880,9 +912,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-markerless-tracking-of-an-entire-honey-bee-colony-15-f-1d8"
   },
+  "/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks-00d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-on-image-classification-in-video-analysis-of-omnidirectional-apis-mellifera-traffic-random-reinforced-forests-vs-shallow-convolutional-networks-40-d-187"
+  },
   "/research/Raspberry Pi Bee Health Monitoring Device-e0a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-raspberry-pi-bee-health-monitoring-device-3-e-6-20c"
+  },
+  "/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network-42f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-recognition-of-pollen-bearing-bees-from-video-using-convolutional-neural-network-237-052"
+  },
+  "/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount-bf8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-the-development-of-honey-bee-coloniesassessed-using-a-new-semi-automated-broodcounting-method-comb-countd-6-e-113"
+  },
+  "/research/The prediction of swarming in honeybee colonies using vibrational spectra-ec3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-the-prediction-of-swarming-in-honeybee-colonies-using-vibrational-spectra-975-cc0"
   },
   "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-37b": {
     "__comp": "__comp---theme-doc-item-178-a40",
