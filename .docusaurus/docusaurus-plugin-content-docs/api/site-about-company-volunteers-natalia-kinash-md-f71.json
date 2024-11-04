@@ -7,11 +7,19 @@
   "slug": "/company/Volunteers/Natalia Kinash",
   "permalink": "/about/company/Volunteers/Natalia Kinash",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muhammad Zain Shakeel",
+    "permalink": "/about/company/Volunteers/Muhammad Zain Shakeel"
+  },
+  "next": {
+    "title": "Olena Stoliarova",
+    "permalink": "/about/company/Volunteers/Olena Stoliarova"
+  }
 }

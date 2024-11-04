@@ -7,11 +7,19 @@
   "slug": "/company/Volunteers/Reinis Indans",
   "permalink": "/about/company/Volunteers/Reinis Indans",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Olena Stoliarova",
+    "permalink": "/about/company/Volunteers/Olena Stoliarova"
+  },
+  "next": {
+    "title": "Meeting recordings 🎥",
+    "permalink": "/about/company/Meeting recordings"
+  }
 }
