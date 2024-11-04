@@ -6,6 +6,7 @@ hide_table_of_contents: true
 Colors represent main wavelengths that 🐝 bees can see, company values and other associations:
 ![](../../src/img/Pasted%20image%2020241028105230.png)
 
+## Logo
 Recomendation on logo usage
 - Use white background whenever possible
 - Use wide version only if there is company name stated
@@ -25,8 +26,8 @@ Recomendation on logo usage
 (wide version, SVG version with white outline)
 
 
-![](../../src/img/logo-v7w.png)
 
+![](../../src/img/logo-v7w.png)
 (PNG version, with white outline)
 
 ## Brand meanings and association matrix
@@ -43,3 +44,14 @@ Here is a matrix meaning view of colors and shapes:
 | [Ethical heart 🌳](../company/Culture%20and%20values%20🫀/Ethical%20heart%20🌳.md)     | green  <br />#2f8b0b  | brood                             | H                      | heart, hive, grass, table, cup, grail, tree roots, earth, woman, plants, compassion, anahata                              | A beehive, landing board and entrance                                                                                                                                                            | Hive as seen from the side or from the top                                                                                                                                        | API gateway                                                                                                                | Trinity                                             |
 | [Radiate truth 🌞](../company/Culture%20and%20values%20🫀/Radiate%20truth%20🌞.md)     | yellow  <br />#FFD900 | honey                             | O                      | rising sun, hope, warmth, fire, will, enlightenment, idea, spirituality, glory, conception, circle of life, manipura, oud | A computing device                                                                                                                                                                               | A camera inspecting a frame                                                                                                                                                       | Insights, alerts, actions                                                                                                  | Christ, love                                        |
 | [Humbly kind 🧸](../company/Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md)         | white                 | bee worker                        | U                      | Union, spirit, signal, music, transport, medium, transparency, open source, trust                                         | Transparent glass                                                                                                                                                                                | Signal passing through the hive                                                                                                                                                   | Internal API calls                                                                                                         | Divine Light, Epiphany, Ascension, Baptism, Wedding |
+
+
+## Email template
+![](../img/Screenshot%202024-05-20%20at%2017.24.44.png)
+
+
+## Cover backgrounds
+
+![](../img/sunflower-7933994.jpg)
+
+![](../img/Screenshot%202024-05-03%20at%2002.23.16.png)

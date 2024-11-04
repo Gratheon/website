@@ -2,8 +2,8 @@
 title: Bill of materials
 ---
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/docs/iot/components"  WHERE file.name != "index" -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/docs/iot/components"  WHERE file.name != "index" -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com", ""), " ", "%20") + ")", "") as title  FROM "gratheon.com/docs/iot/components"  WHERE file.name != "index" -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com", ""), " ", "%20") + ")", "") as title  FROM "gratheon.com/docs/iot/components"  WHERE file.name != "index" -->
 
 | title                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -19,6 +19,5 @@ title: Bill of materials
 | [Temperature - Humidity sensor alternative](/docs/iot/components/Temperature%20-%20Humidity%20sensor%20alternative.md)                                                                     |
 | [Barometric pressure sensor](/docs/iot/components/Barometric%20pressure%20sensor.md)                                                                                                       |
 | [ESP32](/docs/iot/components/ESP32.md)                                                                                                                                                     |
-| [Battery shield](/docs/iot/components/Battery%20shield.md)                                                                                                                                 |
-| [Battery 18650](/docs/iot/components/Battery%2018650.md)                                                                                                                                   |
+| [Battery 18650 with shield](/docs/iot/components/Battery%2018650%20with%20shield.md)                                                                                                       |
 <!-- SerializedQuery END -->
