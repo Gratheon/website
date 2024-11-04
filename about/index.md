@@ -6,7 +6,7 @@ Gratheon is a garage-phase bootstrapping startup with big dreams. See [📑 deck
 
 We highly encourage to join [volunteering](company/Volunteers/index.md) program and contribute to open source, especially if you are a beekeeper.
 
-## Overview
+## Some numbers
 
 - 🐣 Founded legally in 2012 (for web-development)
 - 💡 [Idea formulated in 2020](https://www.youtube.com/watch?v=gM3AJEAhmXc)
