@@ -7,6 +7,14 @@ https://www.jamk.fi/en/project/agriventure-finland-2025
 
 ![](img/Screenshot%202024-11-04%20at%2015.26.19.png)
 
+From startups that BioBoosters has supported, I liked:
+- [https://antrobotics.de/](https://antrobotics.de/) 
+- [https://geopard.tech/](https://geopard.tech/)
+- [https://lensor.io/lensor-application/](https://lensor.io/lensor-application/)
+- [https://soilscout.com/](https://soilscout.com/)
+- [https://www.trabotyx.com/](https://www.trabotyx.com/)
+- [https://weedbot.eu/](https://weedbot.eu/)
+
 <!-- truncate -->
 
 [PDF](files/Test%20Farms%202025_deck%20for%20participants.pdf)
