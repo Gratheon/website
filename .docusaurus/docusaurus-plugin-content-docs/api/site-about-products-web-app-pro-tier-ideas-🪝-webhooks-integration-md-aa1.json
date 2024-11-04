@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+  "title": "🪝 Webhooks integration",
+  "description": "Similar to other integreations like Google-calendar integration, here the idea is to allow user to register a URL (webhook) that we will deliver some event to. For example a new hive added, a frame analyzed etc.",
+  "source": "@site/about/products/web-app/pro-tier-ideas/🪝 Webhooks integration.md",
+  "sourceDirName": "products/web-app/pro-tier-ideas",
+  "slug": "/products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+  "permalink": "/about/products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Talk to bee colony with AI",
+    "permalink": "/about/products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI"
+  },
+  "next": {
+    "title": "🪲 Hive beetle detection",
+    "permalink": "/about/products/web-app/pro-tier-ideas/🪲 Hive beetle detection"
+  }
+}

@@ -402,6 +402,7 @@
             {
               "id": "company/Volunteers/Aleksei Boris",
               "path": "/about/company/Volunteers/Aleksei Boris",
+              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
@@ -422,6 +423,7 @@
             {
               "id": "company/Volunteers/Natalia Kinash",
               "path": "/about/company/Volunteers/Natalia Kinash",
+              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
@@ -432,6 +434,7 @@
             {
               "id": "company/Volunteers/Reinis Indans",
               "path": "/about/company/Volunteers/Reinis Indans",
+              "unlisted": true,
               "sidebar": "tutorialSidebar"
             },
             {
@@ -610,11 +613,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app",
-              "path": "/about/products/📱Web-app",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/🪬 Robotic Apiary",
               "path": "/about/products/🪬 Robotic Apiary",
               "sidebar": "tutorialSidebar"
@@ -732,6 +730,131 @@
             {
               "id": "products/robotic-beehive/index",
               "path": "/about/products/robotic-beehive/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/index",
+              "path": "/about/products/web-app/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/↔️ Create colony split",
+              "path": "/about/products/web-app/pro-tier-ideas/↔️ Create colony split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/♻️ Hive ownership transfer",
+              "path": "/about/products/web-app/pro-tier-ideas/♻️ Hive ownership transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/⚖️ Colony comparison",
+              "path": "/about/products/web-app/pro-tier-ideas/⚖️ Colony comparison",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🌎 Map view",
+              "path": "/about/products/web-app/pro-tier-ideas/🌎 Map view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🌞 Apiary top-down view of  relative to the sun",
+              "path": "/about/products/web-app/pro-tier-ideas/🌞 Apiary top-down view of  relative to the sun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🌻 Pollination optimization with hive placement recommendation",
+              "path": "/about/products/web-app/pro-tier-ideas/🌻 Pollination optimization with hive placement recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🎮 Device management",
+              "path": "/about/products/web-app/pro-tier-ideas/🎮 Device management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐜 Ant detection",
+              "path": "/about/products/web-app/pro-tier-ideas/🐜 Ant detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐝 Analytics - demography and simulation",
+              "path": "/about/products/web-app/pro-tier-ideas/🐝 Analytics - demography and simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐝 Bee age classification",
+              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee age classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐝 Bee pose - morphometric model",
+              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee pose - morphometric model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐝 Bee race classification",
+              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee race classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🐝 Wax moth detection",
+              "path": "/about/products/web-app/pro-tier-ideas/🐝 Wax moth detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/👨🏻‍🚀 Multiple user support",
+              "path": "/about/products/web-app/pro-tier-ideas/👨🏻‍🚀 Multiple user support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/📅 Calendar view",
+              "path": "/about/products/web-app/pro-tier-ideas/📅 Calendar view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/📅 Google-calendar integration",
+              "path": "/about/products/web-app/pro-tier-ideas/📅 Google-calendar integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/📅 Varroa Treatment diary",
+              "path": "/about/products/web-app/pro-tier-ideas/📅 Varroa Treatment diary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/📦 Harvest hive frames and sections",
+              "path": "/about/products/web-app/pro-tier-ideas/📦 Harvest hive frames and sections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/📦 Inventory management - warehouse view",
+              "path": "/about/products/web-app/pro-tier-ideas/📦 Inventory management - warehouse view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI",
+              "path": "/about/products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+              "path": "/about/products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🪲 Hive beetle detection",
+              "path": "/about/products/web-app/pro-tier-ideas/🪲 Hive beetle detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🫶🏻 Multiple colony unification",
+              "path": "/about/products/web-app/pro-tier-ideas/🫶🏻 Multiple colony unification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/pro-tier-ideas/🛰️ SkyFi integration",
+              "path": "/about/products/web-app/pro-tier-ideas/🛰️ SkyFi integration",
               "sidebar": "tutorialSidebar"
             },
             {
