@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/essential-tier-ideas/✏️ Drawing on canvas",
+  "title": "✏️ Drawing on canvas",
+  "description": "User story",
+  "source": "@site/about/products/web-app/essential-tier-ideas/✏️ Drawing on canvas.md",
+  "sourceDirName": "products/web-app/essential-tier-ideas",
+  "slug": "/products/web-app/essential-tier-ideas/✏️ Drawing on canvas",
+  "permalink": "/about/products/web-app/essential-tier-ideas/✏️ Drawing on canvas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ Share of beehive inspection public URL",
+    "permalink": "/about/products/web-app/essential-tier-ideas/♻️ Share of beehive inspection public URL"
+  },
+  "next": {
+    "title": "🌪️ Weather alerts",
+    "permalink": "/about/products/web-app/essential-tier-ideas/🌪️ Weather alerts"
+  }
+}

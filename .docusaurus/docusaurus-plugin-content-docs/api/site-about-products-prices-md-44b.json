@@ -1,7 +1,7 @@
 {
   "id": "products/prices",
   "title": "⚖️ Pricing",
-  "description": "| Billing plan | Community                                                                                                                  | Essential                                                                                                           | Professional                                                                              |",
+  "description": "| Community                                                                                                                  | Essential                                                                                                           | Professional                                                                              |",
   "source": "@site/about/products/prices.md",
   "sourceDirName": "products",
   "slug": "/products/prices",

@@ -1,0 +1,23 @@
+{
+  "id": "products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+  "title": "🛑 Mechanically reduce hive entrance in case of high wind",
+  "description": "",
+  "source": "@site/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind.md",
+  "sourceDirName": "products/🧿 Robotic Beehive/ideas",
+  "slug": "/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+  "permalink": "/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛑 Close mechanized hive entrance in case of hornet attack",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack"
+  },
+  "next": {
+    "title": "🦾 Moveable hive bottom with varroa counting",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting"
+  }
+}

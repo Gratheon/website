@@ -66,13 +66,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Battery 18650",
-              "path": "/docs/iot/components/Battery 18650",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Battery shield",
-              "path": "/docs/iot/components/Battery shield",
+              "id": "iot/components/Battery 18650 with shield",
+              "path": "/docs/iot/components/Battery 18650 with shield",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -156,13 +151,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotic Beehive/index",
-              "path": "/docs/Robotic Beehive/",
+              "id": "Robotic Beehive/Robot Vendors",
+              "path": "/docs/Robotic Beehive/Robot Vendors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Robotic Beehive/Robot Vendors",
-              "path": "/docs/Robotic Beehive/Robot Vendors",
+              "id": "Robotic Beehive/Robotic beehive",
+              "path": "/docs/Robotic Beehive/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -613,6 +608,111 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/🧿 Robotic Beehive/🧿 Robotic Beehive",
+              "path": "/about/products/🧿 Robotic Beehive/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🔌 Energy autonomy",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🔌 Energy autonomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🔥 Hive heating",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🔥 Hive heating",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🦾 Robotic frame reordering",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic frame reordering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🚁 Ventilation control",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🚁 Ventilation control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "path": "/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/🪬 Robotic Apiary",
               "path": "/about/products/🪬 Robotic Apiary",
               "sidebar": "tutorialSidebar"
@@ -628,108 +728,253 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
-              "path": "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+              "id": "products/web-app/community-tier/♻️ Apiary position sharing",
+              "path": "/about/products/web-app/community-tier/♻️ Apiary position sharing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
-              "path": "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+              "id": "products/web-app/community-tier/♻️ Public beehive view",
+              "path": "/about/products/web-app/community-tier/♻️ Public beehive view",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode",
-              "path": "/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode",
+              "id": "products/web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
+              "path": "/about/products/web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX",
-              "path": "/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX",
+              "id": "products/web-app/community-tier/🌍 user language + translations",
+              "path": "/about/products/web-app/community-tier/🌍 user language + translations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🐝 Bee nursing video analysis",
-              "path": "/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis",
+              "id": "products/web-app/community-tier/🌪️ weather graph",
+              "path": "/about/products/web-app/community-tier/🌪️ weather graph",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🐝 Bee specialization classification",
-              "path": "/about/products/robotic-beehive/ideas/🐝 Bee specialization classification",
+              "id": "products/web-app/community-tier/🌻 list of local plants",
+              "path": "/about/products/web-app/community-tier/🌻 list of local plants",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/📸 Full hive inspection",
-              "path": "/about/products/robotic-beehive/ideas/📸 Full hive inspection",
+              "id": "products/web-app/community-tier/🎒 Product onboarding videos & UI",
+              "path": "/about/products/web-app/community-tier/🎒 Product onboarding videos & UI",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/📸 Real-time frame scanning",
-              "path": "/about/products/robotic-beehive/ideas/📸 Real-time frame scanning",
+              "id": "products/web-app/community-tier/🐝 Frame analysis - bee counter",
+              "path": "/about/products/web-app/community-tier/🐝 Frame analysis - bee counter",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
-              "path": "/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+              "id": "products/web-app/community-tier/🐝 Frame side queen cup detection",
+              "path": "/about/products/web-app/community-tier/🐝 Frame side queen cup detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🔌 Energy autonomy",
-              "path": "/about/products/robotic-beehive/ideas/🔌 Energy autonomy",
+              "id": "products/web-app/community-tier/🐝 Honeycomb cell detection & management",
+              "path": "/about/products/web-app/community-tier/🐝 Honeycomb cell detection & management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🔥 Hive heating",
-              "path": "/about/products/robotic-beehive/ideas/🔥 Hive heating",
+              "id": "products/web-app/community-tier/🐝 Worker bee detection",
+              "path": "/about/products/web-app/community-tier/🐝 Worker bee detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting",
-              "path": "/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting",
+              "id": "products/web-app/community-tier/👑 Queen detection",
+              "path": "/about/products/web-app/community-tier/👑 Queen detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🦾 Robotic frame reordering",
-              "path": "/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+              "id": "products/web-app/community-tier/👑 Queen management",
+              "path": "/about/products/web-app/community-tier/👑 Queen management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🦾 Robotic insertion of new frames",
-              "path": "/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames",
+              "id": "products/web-app/community-tier/💶 Billing subscription",
+              "path": "/about/products/web-app/community-tier/💶 Billing subscription",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction",
-              "path": "/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction",
+              "id": "products/web-app/community-tier/📍 Show close-by beekeepers from government registry",
+              "path": "/about/products/web-app/community-tier/📍 Show close-by beekeepers from government registry",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa",
-              "path": "/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa",
+              "id": "products/web-app/community-tier/📦 Apiary management",
+              "path": "/about/products/web-app/community-tier/📦 Apiary management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🚁 Ventilation control",
-              "path": "/about/products/robotic-beehive/ideas/🚁 Ventilation control",
+              "id": "products/web-app/community-tier/📦 Hive management",
+              "path": "/about/products/web-app/community-tier/📦 Hive management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
-              "path": "/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
+              "id": "products/web-app/community-tier/📦 Hive section management",
+              "path": "/about/products/web-app/community-tier/📦 Hive section management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
-              "path": "/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
+              "id": "products/web-app/community-tier/📱 mobile app",
+              "path": "/about/products/web-app/community-tier/📱 mobile app",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
-              "path": "/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "id": "products/web-app/community-tier/📸 Frame side photo upload",
+              "path": "/about/products/web-app/community-tier/📸 Frame side photo upload",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/robotic-beehive/index",
-              "path": "/about/products/robotic-beehive/",
+              "id": "products/web-app/community-tier/🔐 API token management",
+              "path": "/about/products/web-app/community-tier/🔐 API token management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🖮 keyboard shortcuts support",
+              "path": "/about/products/web-app/community-tier/🖮 keyboard shortcuts support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🖼️ Frame side management",
+              "path": "/about/products/web-app/community-tier/🖼️ Frame side management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🧑‍🚀 User editing",
+              "path": "/about/products/web-app/community-tier/🧑‍🚀 User editing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🧑‍🚀 User email verification and change",
+              "path": "/about/products/web-app/community-tier/🧑‍🚀 User email verification and change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🧑‍🚀 User login",
+              "path": "/about/products/web-app/community-tier/🧑‍🚀 User login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🧑‍🚀 User password change",
+              "path": "/about/products/web-app/community-tier/🧑‍🚀 User password change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🧑‍🚀 User registration + password restoration",
+              "path": "/about/products/web-app/community-tier/🧑‍🚀 User registration + password restoration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/community-tier/🙅 User account deletion",
+              "path": "/about/products/web-app/community-tier/🙅 User account deletion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/☀️ Solar radiance as weather datasource",
+              "path": "/about/products/web-app/essential-tier/☀️ Solar radiance as weather datasource",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/♻️ QR-code printing & scanning",
+              "path": "/about/products/web-app/essential-tier/♻️ QR-code printing & scanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/♻️ Share of beehive inspection public URL",
+              "path": "/about/products/web-app/essential-tier/♻️ Share of beehive inspection public URL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/✏️ Drawing on canvas",
+              "path": "/about/products/web-app/essential-tier/✏️ Drawing on canvas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🌪️ Weather alerts",
+              "path": "/about/products/web-app/essential-tier/🌪️ Weather alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🌻 Flower blooming map",
+              "path": "/about/products/web-app/essential-tier/🌻 Flower blooming map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🍭 Feeding management",
+              "path": "/about/products/web-app/essential-tier/🍭 Feeding management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🐝 Drone brood detection",
+              "path": "/about/products/web-app/essential-tier/🐝 Drone brood detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🐝 Frame analysis - chilled brood",
+              "path": "/about/products/web-app/essential-tier/🐝 Frame analysis - chilled brood",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🐝 Laying workers cell detection",
+              "path": "/about/products/web-app/essential-tier/🐝 Laying workers cell detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/📡 Offline mode",
+              "path": "/about/products/web-app/essential-tier/📡 Offline mode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/📦 Manual inspections - Bulk file upload",
+              "path": "/about/products/web-app/essential-tier/📦 Manual inspections - Bulk file upload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🔎 Inspection management",
+              "path": "/about/products/web-app/essential-tier/🔎 Inspection management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🔔  Alerts",
+              "path": "/about/products/web-app/essential-tier/🔔  Alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🔔 Drone detection",
+              "path": "/about/products/web-app/essential-tier/🔔 Drone detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
+              "path": "/about/products/web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
+              "path": "/about/products/web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🤖 Beekeeping advice with LLM",
+              "path": "/about/products/web-app/essential-tier/🤖 Beekeeping advice with LLM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🦀 Varroa infestation management",
+              "path": "/about/products/web-app/essential-tier/🦀 Varroa infestation management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🦀 Varroa mite detection",
+              "path": "/about/products/web-app/essential-tier/🦀 Varroa mite detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web-app/essential-tier/🛰️ Apiary satellite view",
+              "path": "/about/products/web-app/essential-tier/🛰️ Apiary satellite view",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -738,123 +983,123 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/↔️ Create colony split",
-              "path": "/about/products/web-app/pro-tier-ideas/↔️ Create colony split",
+              "id": "products/web-app/pro-tier/↔️ Create colony split",
+              "path": "/about/products/web-app/pro-tier/↔️ Create colony split",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/♻️ Hive ownership transfer",
-              "path": "/about/products/web-app/pro-tier-ideas/♻️ Hive ownership transfer",
+              "id": "products/web-app/pro-tier/♻️ Hive ownership transfer",
+              "path": "/about/products/web-app/pro-tier/♻️ Hive ownership transfer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/⚖️ Colony comparison",
-              "path": "/about/products/web-app/pro-tier-ideas/⚖️ Colony comparison",
+              "id": "products/web-app/pro-tier/⚖️ Colony comparison",
+              "path": "/about/products/web-app/pro-tier/⚖️ Colony comparison",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🌎 Map view",
-              "path": "/about/products/web-app/pro-tier-ideas/🌎 Map view",
+              "id": "products/web-app/pro-tier/🌎 Map view",
+              "path": "/about/products/web-app/pro-tier/🌎 Map view",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🌞 Apiary top-down view of  relative to the sun",
-              "path": "/about/products/web-app/pro-tier-ideas/🌞 Apiary top-down view of  relative to the sun",
+              "id": "products/web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+              "path": "/about/products/web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🌻 Pollination optimization with hive placement recommendation",
-              "path": "/about/products/web-app/pro-tier-ideas/🌻 Pollination optimization with hive placement recommendation",
+              "id": "products/web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
+              "path": "/about/products/web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🎮 Device management",
-              "path": "/about/products/web-app/pro-tier-ideas/🎮 Device management",
+              "id": "products/web-app/pro-tier/🎮 Device management",
+              "path": "/about/products/web-app/pro-tier/🎮 Device management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐜 Ant detection",
-              "path": "/about/products/web-app/pro-tier-ideas/🐜 Ant detection",
+              "id": "products/web-app/pro-tier/🐜 Ant detection",
+              "path": "/about/products/web-app/pro-tier/🐜 Ant detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐝 Analytics - demography and simulation",
-              "path": "/about/products/web-app/pro-tier-ideas/🐝 Analytics - demography and simulation",
+              "id": "products/web-app/pro-tier/🐝 Analytics - demography and simulation",
+              "path": "/about/products/web-app/pro-tier/🐝 Analytics - demography and simulation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐝 Bee age classification",
-              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee age classification",
+              "id": "products/web-app/pro-tier/🐝 Bee age classification",
+              "path": "/about/products/web-app/pro-tier/🐝 Bee age classification",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐝 Bee pose - morphometric model",
-              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee pose - morphometric model",
+              "id": "products/web-app/pro-tier/🐝 Bee pose - morphometric model",
+              "path": "/about/products/web-app/pro-tier/🐝 Bee pose - morphometric model",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐝 Bee race classification",
-              "path": "/about/products/web-app/pro-tier-ideas/🐝 Bee race classification",
+              "id": "products/web-app/pro-tier/🐝 Bee race classification",
+              "path": "/about/products/web-app/pro-tier/🐝 Bee race classification",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🐝 Wax moth detection",
-              "path": "/about/products/web-app/pro-tier-ideas/🐝 Wax moth detection",
+              "id": "products/web-app/pro-tier/🐝 Wax moth detection",
+              "path": "/about/products/web-app/pro-tier/🐝 Wax moth detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/👨🏻‍🚀 Multiple user support",
-              "path": "/about/products/web-app/pro-tier-ideas/👨🏻‍🚀 Multiple user support",
+              "id": "products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+              "path": "/about/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/📅 Calendar view",
-              "path": "/about/products/web-app/pro-tier-ideas/📅 Calendar view",
+              "id": "products/web-app/pro-tier/📅 Calendar view",
+              "path": "/about/products/web-app/pro-tier/📅 Calendar view",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/📅 Google-calendar integration",
-              "path": "/about/products/web-app/pro-tier-ideas/📅 Google-calendar integration",
+              "id": "products/web-app/pro-tier/📅 Google-calendar integration",
+              "path": "/about/products/web-app/pro-tier/📅 Google-calendar integration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/📅 Varroa Treatment diary",
-              "path": "/about/products/web-app/pro-tier-ideas/📅 Varroa Treatment diary",
+              "id": "products/web-app/pro-tier/📅 Varroa Treatment diary",
+              "path": "/about/products/web-app/pro-tier/📅 Varroa Treatment diary",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/📦 Harvest hive frames and sections",
-              "path": "/about/products/web-app/pro-tier-ideas/📦 Harvest hive frames and sections",
+              "id": "products/web-app/pro-tier/📦 Harvest hive frames and sections",
+              "path": "/about/products/web-app/pro-tier/📦 Harvest hive frames and sections",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/📦 Inventory management - warehouse view",
-              "path": "/about/products/web-app/pro-tier-ideas/📦 Inventory management - warehouse view",
+              "id": "products/web-app/pro-tier/📦 Inventory management - warehouse view",
+              "path": "/about/products/web-app/pro-tier/📦 Inventory management - warehouse view",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI",
-              "path": "/about/products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI",
+              "id": "products/web-app/pro-tier/🤖 Talk to bee colony with AI",
+              "path": "/about/products/web-app/pro-tier/🤖 Talk to bee colony with AI",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🪝 Webhooks integration",
-              "path": "/about/products/web-app/pro-tier-ideas/🪝 Webhooks integration",
+              "id": "products/web-app/pro-tier/🪝 Webhooks integration",
+              "path": "/about/products/web-app/pro-tier/🪝 Webhooks integration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🪲 Hive beetle detection",
-              "path": "/about/products/web-app/pro-tier-ideas/🪲 Hive beetle detection",
+              "id": "products/web-app/pro-tier/🪲 Hive beetle detection",
+              "path": "/about/products/web-app/pro-tier/🪲 Hive beetle detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🫶🏻 Multiple colony unification",
-              "path": "/about/products/web-app/pro-tier-ideas/🫶🏻 Multiple colony unification",
+              "id": "products/web-app/pro-tier/🫶🏻 Multiple colony unification",
+              "path": "/about/products/web-app/pro-tier/🫶🏻 Multiple colony unification",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web-app/pro-tier-ideas/🛰️ SkyFi integration",
-              "path": "/about/products/web-app/pro-tier-ideas/🛰️ SkyFi integration",
+              "id": "products/web-app/pro-tier/🛰️ SkyFi integration",
+              "path": "/about/products/web-app/pro-tier/🛰️ SkyFi integration",
               "sidebar": "tutorialSidebar"
             },
             {

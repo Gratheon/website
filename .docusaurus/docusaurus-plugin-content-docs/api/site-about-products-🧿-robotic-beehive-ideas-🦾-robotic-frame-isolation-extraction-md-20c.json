@@ -1,0 +1,23 @@
+{
+  "id": "products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction",
+  "title": "🦾Robotic frame isolation & extraction",
+  "description": "Goal",
+  "source": "@site/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction.md",
+  "sourceDirName": "products/🧿 Robotic Beehive/ideas",
+  "slug": "/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction",
+  "permalink": "/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦾 Robotic insertion of new frames",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames"
+  },
+  "next": {
+    "title": "🧪 Automatic acid treatment against varroa",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa"
+  }
+}

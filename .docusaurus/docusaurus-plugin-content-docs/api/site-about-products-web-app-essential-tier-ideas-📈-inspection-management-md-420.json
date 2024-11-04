@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/essential-tier-ideas/📈 Inspection management",
+  "title": "📈 Inspection management",
+  "description": "",
+  "source": "@site/about/products/web-app/essential-tier-ideas/📈 Inspection management.md",
+  "sourceDirName": "products/web-app/essential-tier-ideas",
+  "slug": "/products/web-app/essential-tier-ideas/📈 Inspection management",
+  "permalink": "/about/products/web-app/essential-tier-ideas/📈 Inspection management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Drone brood detection",
+    "permalink": "/about/products/web-app/essential-tier-ideas/🐝 Drone brood detection"
+  },
+  "next": {
+    "title": "🔔  Alerts",
+    "permalink": "/about/products/web-app/essential-tier-ideas/🔔  Alerts"
+  }
+}

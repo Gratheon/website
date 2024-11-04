@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/community-tier/👑 Queen detection",
+  "title": "👑 Queen detection",
+  "description": "Background",
+  "source": "@site/about/products/web-app/community-tier/👑 Queen detection.md",
+  "sourceDirName": "products/web-app/community-tier",
+  "slug": "/products/web-app/community-tier/👑 Queen detection",
+  "permalink": "/about/products/web-app/community-tier/👑 Queen detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Worker bee detection",
+    "permalink": "/about/products/web-app/community-tier/🐝 Worker bee detection"
+  },
+  "next": {
+    "title": "👑 Queen management",
+    "permalink": "/about/products/web-app/community-tier/👑 Queen management"
+  }
+}

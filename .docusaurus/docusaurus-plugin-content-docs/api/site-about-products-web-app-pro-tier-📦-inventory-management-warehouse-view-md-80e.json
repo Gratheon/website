@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/pro-tier/📦 Inventory management - warehouse view",
+  "title": "📦 Inventory management - warehouse view",
+  "description": "We want beekeepers to be aware of their apiary state",
+  "source": "@site/about/products/web-app/pro-tier/📦 Inventory management - warehouse view.md",
+  "sourceDirName": "products/web-app/pro-tier",
+  "slug": "/products/web-app/pro-tier/📦 Inventory management - warehouse view",
+  "permalink": "/about/products/web-app/pro-tier/📦 Inventory management - warehouse view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Harvest hive frames and sections",
+    "permalink": "/about/products/web-app/pro-tier/📦 Harvest hive frames and sections"
+  },
+  "next": {
+    "title": "🛰️ SkyFi integration",
+    "permalink": "/about/products/web-app/pro-tier/🛰️ SkyFi integration"
+  }
+}

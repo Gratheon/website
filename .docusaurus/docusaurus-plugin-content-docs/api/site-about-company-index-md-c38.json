@@ -1,7 +1,7 @@
 {
   "id": "company/index",
   "title": "👔 Company",
-  "description": "💡 A matrix-structure organization organizes its work into verticals and horizontal layers. A vertical is a business and product-oriented full stack view on the system as a subset of layers. A horizontal layer is an implementation, usually a specialised, technological mean and thus a - view on the system.",
+  "description": "💡 This is a placeholder page for how the company should like.",
   "source": "@site/about/company/index.md",
   "sourceDirName": "company",
   "slug": "/company/",

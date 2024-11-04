@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/pro-tier/📦 Harvest hive frames and sections",
+  "title": "📦 Harvest hive frames and sections",
+  "description": "Why",
+  "source": "@site/about/products/web-app/pro-tier/📦 Harvest hive frames and sections.md",
+  "sourceDirName": "products/web-app/pro-tier",
+  "slug": "/products/web-app/pro-tier/📦 Harvest hive frames and sections",
+  "permalink": "/about/products/web-app/pro-tier/📦 Harvest hive frames and sections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📅 Varroa Treatment diary",
+    "permalink": "/about/products/web-app/pro-tier/📅 Varroa Treatment diary"
+  },
+  "next": {
+    "title": "📦 Inventory management - warehouse view",
+    "permalink": "/about/products/web-app/pro-tier/📦 Inventory management - warehouse view"
+  }
+}

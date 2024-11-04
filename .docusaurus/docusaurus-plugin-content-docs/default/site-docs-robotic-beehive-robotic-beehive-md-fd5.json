@@ -1,0 +1,28 @@
+{
+  "id": "Robotic Beehive/Robotic beehive",
+  "title": "🧿 Robotic beehive",
+  "description": "status:draft",
+  "source": "@site/docs/Robotic Beehive/Robotic beehive.md",
+  "sourceDirName": "Robotic Beehive",
+  "slug": "/Robotic Beehive/",
+  "permalink": "/docs/Robotic Beehive/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Robotic Beehive/Robotic beehive.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "🧿 Robotic beehive",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Which model to use for vision",
+    "permalink": "/docs/Entrance observer/Which model to use for vision"
+  },
+  "next": {
+    "title": "4 axis gantry",
+    "permalink": "/docs/Robotic Beehive/4 axis gantry"
+  }
+}

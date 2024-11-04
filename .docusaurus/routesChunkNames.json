@@ -1,11 +1,14 @@
 {
-  "/blog-50a": {
+  "/blog-616": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "77621ed5"
+      },
       {
         "content": "fa730fa6"
       },
@@ -62,9 +65,6 @@
       },
       {
         "content": "83e6dee3"
-      },
-      {
-        "content": "77ca604d"
       }
     ],
     "__props": "c15d9823"
@@ -289,12 +289,36 @@
     "sidebar": "814f3328",
     "content": "691f3f7f"
   },
+  "/blog/2024/11/04/ 🎒 JAMK workshop 🇫🇮-eea": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "113e39ce"
+  },
   "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
     "__props": "f81c1134"
+  },
+  "/blog/page/2-4ab": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "77ca604d"
+      }
+    ],
+    "__props": "8ea09047"
   },
   "/privacy-03e": {
     "__comp": "1f391b9e",
@@ -310,17 +334,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-b76": {
+  "/about-c5b": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-638": {
+  "/about-4dc": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-4a0": {
+  "/about-11f": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -651,6 +675,90 @@
     "__comp": "17896441",
     "content": "02a319be"
   },
+  "/about/products/🧿 Robotic Beehive/-e8c": {
+    "__comp": "17896441",
+    "content": "20185118"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder-6ae": {
+    "__comp": "17896441",
+    "content": "e0806310"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring-aa5": {
+    "__comp": "17896441",
+    "content": "291cdb66"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode-c01": {
+    "__comp": "17896441",
+    "content": "449bfe42"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX-e7c": {
+    "__comp": "17896441",
+    "content": "20b35949"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis-4c9": {
+    "__comp": "17896441",
+    "content": "60299796"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification-a2d": {
+    "__comp": "17896441",
+    "content": "aecd29a9"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection-705": {
+    "__comp": "17896441",
+    "content": "368b0a4a"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning-c1b": {
+    "__comp": "17896441",
+    "content": "95e6a903"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees-aa3": {
+    "__comp": "17896441",
+    "content": "a5a9b03d"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🔌 Energy autonomy-144": {
+    "__comp": "17896441",
+    "content": "6fa639c7"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🔥 Hive heating-130": {
+    "__comp": "17896441",
+    "content": "beef6737"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting-64f": {
+    "__comp": "17896441",
+    "content": "a74d78d6"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic frame reordering-ab6": {
+    "__comp": "17896441",
+    "content": "28dcf58a"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames-f43": {
+    "__comp": "17896441",
+    "content": "1be5d16d"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction-7ca": {
+    "__comp": "17896441",
+    "content": "20c49058"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa-7d3": {
+    "__comp": "17896441",
+    "content": "fc7b42a5"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🚁 Ventilation control-a27": {
+    "__comp": "17896441",
+    "content": "5b5c6129"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour-6d1": {
+    "__comp": "17896441",
+    "content": "525f0529"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack-738": {
+    "__comp": "17896441",
+    "content": "10f509e5"
+  },
+  "/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind-3ec": {
+    "__comp": "17896441",
+    "content": "7a9ced8e"
+  },
   "/about/products/🪬 Robotic Apiary-a32": {
     "__comp": "17896441",
     "content": "94b225f0"
@@ -659,189 +767,305 @@
     "__comp": "17896441",
     "content": "44b0ab5f"
   },
-  "/about/products/robotic-beehive/-2ec": {
-    "__comp": "17896441",
-    "content": "f459d01c"
-  },
-  "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder-2ac": {
-    "__comp": "17896441",
-    "content": "ca58c700"
-  },
-  "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring-4bc": {
-    "__comp": "17896441",
-    "content": "35069742"
-  },
-  "/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode-8f6": {
-    "__comp": "17896441",
-    "content": "41c368eb"
-  },
-  "/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX-83d": {
-    "__comp": "17896441",
-    "content": "38adefec"
-  },
-  "/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis-924": {
-    "__comp": "17896441",
-    "content": "527540f5"
-  },
-  "/about/products/robotic-beehive/ideas/🐝 Bee specialization classification-614": {
-    "__comp": "17896441",
-    "content": "5f02d50d"
-  },
-  "/about/products/robotic-beehive/ideas/📸 Full hive inspection-768": {
-    "__comp": "17896441",
-    "content": "77f86130"
-  },
-  "/about/products/robotic-beehive/ideas/📸 Real-time frame scanning-a3f": {
-    "__comp": "17896441",
-    "content": "000b26f2"
-  },
-  "/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees-17b": {
-    "__comp": "17896441",
-    "content": "d2827fc8"
-  },
-  "/about/products/robotic-beehive/ideas/🔌 Energy autonomy-dd9": {
-    "__comp": "17896441",
-    "content": "386ea9aa"
-  },
-  "/about/products/robotic-beehive/ideas/🔥 Hive heating-42c": {
-    "__comp": "17896441",
-    "content": "d970c8c8"
-  },
-  "/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting-a84": {
-    "__comp": "17896441",
-    "content": "fb0efd8a"
-  },
-  "/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering-f63": {
-    "__comp": "17896441",
-    "content": "9d544425"
-  },
-  "/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames-4cc": {
-    "__comp": "17896441",
-    "content": "232c22d6"
-  },
-  "/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction-600": {
-    "__comp": "17896441",
-    "content": "ad72b359"
-  },
-  "/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa-83b": {
-    "__comp": "17896441",
-    "content": "4fc90bac"
-  },
-  "/about/products/robotic-beehive/ideas/🚁 Ventilation control-6ec": {
-    "__comp": "17896441",
-    "content": "e553ce69"
-  },
-  "/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour-598": {
-    "__comp": "17896441",
-    "content": "fca72fef"
-  },
-  "/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack-a3c": {
-    "__comp": "17896441",
-    "content": "407599d3"
-  },
-  "/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind-3ba": {
-    "__comp": "17896441",
-    "content": "62994029"
-  },
   "/about/products/web-app/-bf4": {
     "__comp": "17896441",
     "content": "c2a3555f"
   },
-  "/about/products/web-app/pro-tier-ideas/↔️ Create colony split-92b": {
+  "/about/products/web-app/community-tier/♻️ Apiary position sharing-fd0": {
     "__comp": "17896441",
-    "content": "12600407"
+    "content": "6e4d60e2"
   },
-  "/about/products/web-app/pro-tier-ideas/♻️ Hive ownership transfer-dc1": {
+  "/about/products/web-app/community-tier/♻️ Public beehive view-626": {
     "__comp": "17896441",
-    "content": "a6324b61"
+    "content": "c8ba7e22"
   },
-  "/about/products/web-app/pro-tier-ideas/⚖️ Colony comparison-d84": {
+  "/about/products/web-app/community-tier/♻️ Quick frame analysis demo on frontpage-440": {
     "__comp": "17896441",
-    "content": "4896edea"
+    "content": "33b9398a"
   },
-  "/about/products/web-app/pro-tier-ideas/🌎 Map view-979": {
+  "/about/products/web-app/community-tier/🌍 user language + translations-474": {
     "__comp": "17896441",
-    "content": "00f952aa"
+    "content": "f0e958b2"
   },
-  "/about/products/web-app/pro-tier-ideas/🌞 Apiary top-down view of  relative to the sun-a7e": {
+  "/about/products/web-app/community-tier/🌪️ weather graph-f31": {
     "__comp": "17896441",
-    "content": "7908bac3"
+    "content": "eca6a717"
   },
-  "/about/products/web-app/pro-tier-ideas/🌻 Pollination optimization with hive placement recommendation-c7a": {
+  "/about/products/web-app/community-tier/🌻 list of local plants-d8d": {
     "__comp": "17896441",
-    "content": "c619c9a9"
+    "content": "0e80cb04"
   },
-  "/about/products/web-app/pro-tier-ideas/🎮 Device management-f75": {
+  "/about/products/web-app/community-tier/🎒 Product onboarding videos & UI-820": {
     "__comp": "17896441",
-    "content": "5d2ebac4"
+    "content": "29314e92"
   },
-  "/about/products/web-app/pro-tier-ideas/🐜 Ant detection-f83": {
+  "/about/products/web-app/community-tier/🐝 Frame analysis - bee counter-fb1": {
     "__comp": "17896441",
-    "content": "566b5fce"
+    "content": "3510aae2"
   },
-  "/about/products/web-app/pro-tier-ideas/🐝 Analytics - demography and simulation-545": {
+  "/about/products/web-app/community-tier/🐝 Frame side queen cup detection-c03": {
     "__comp": "17896441",
-    "content": "070fcf24"
+    "content": "d6c2fb27"
   },
-  "/about/products/web-app/pro-tier-ideas/🐝 Bee age classification-999": {
+  "/about/products/web-app/community-tier/🐝 Honeycomb cell detection & management-78a": {
     "__comp": "17896441",
-    "content": "8d33bf3b"
+    "content": "3c51d6aa"
   },
-  "/about/products/web-app/pro-tier-ideas/🐝 Bee pose - morphometric model-2d9": {
+  "/about/products/web-app/community-tier/🐝 Worker bee detection-e63": {
     "__comp": "17896441",
-    "content": "1f7d419a"
+    "content": "85a09fb0"
   },
-  "/about/products/web-app/pro-tier-ideas/🐝 Bee race classification-374": {
+  "/about/products/web-app/community-tier/👑 Queen detection-004": {
     "__comp": "17896441",
-    "content": "dc69693e"
+    "content": "87606146"
   },
-  "/about/products/web-app/pro-tier-ideas/🐝 Wax moth detection-731": {
+  "/about/products/web-app/community-tier/👑 Queen management-cfd": {
     "__comp": "17896441",
-    "content": "cab2e3eb"
+    "content": "8c33f2bc"
   },
-  "/about/products/web-app/pro-tier-ideas/👨🏻‍🚀 Multiple user support-101": {
+  "/about/products/web-app/community-tier/💶 Billing subscription-074": {
     "__comp": "17896441",
-    "content": "b28973ce"
+    "content": "99a951ca"
   },
-  "/about/products/web-app/pro-tier-ideas/📅 Calendar view-da8": {
+  "/about/products/web-app/community-tier/📍 Show close-by beekeepers from government registry-633": {
     "__comp": "17896441",
-    "content": "5f7ef98e"
+    "content": "7a9b3271"
   },
-  "/about/products/web-app/pro-tier-ideas/📅 Google-calendar integration-577": {
+  "/about/products/web-app/community-tier/📦 Apiary management-a2e": {
     "__comp": "17896441",
-    "content": "42fcc523"
+    "content": "9a95927b"
   },
-  "/about/products/web-app/pro-tier-ideas/📅 Varroa Treatment diary-965": {
+  "/about/products/web-app/community-tier/📦 Hive management-837": {
     "__comp": "17896441",
-    "content": "1c701113"
+    "content": "8cc62860"
   },
-  "/about/products/web-app/pro-tier-ideas/📦 Harvest hive frames and sections-804": {
+  "/about/products/web-app/community-tier/📦 Hive section management-b0a": {
     "__comp": "17896441",
-    "content": "936ce389"
+    "content": "5f0c189c"
   },
-  "/about/products/web-app/pro-tier-ideas/📦 Inventory management - warehouse view-dce": {
+  "/about/products/web-app/community-tier/📱 mobile app-28e": {
     "__comp": "17896441",
-    "content": "05a536fb"
+    "content": "eb6efaf3"
   },
-  "/about/products/web-app/pro-tier-ideas/🤖 Talk to bee colony with AI-048": {
+  "/about/products/web-app/community-tier/📸 Frame side photo upload-6e3": {
     "__comp": "17896441",
-    "content": "3e36a34d"
+    "content": "ad671c65"
   },
-  "/about/products/web-app/pro-tier-ideas/🪝 Webhooks integration-49f": {
+  "/about/products/web-app/community-tier/🔐 API token management-cb0": {
     "__comp": "17896441",
-    "content": "aa19581c"
+    "content": "17f82b32"
   },
-  "/about/products/web-app/pro-tier-ideas/🪲 Hive beetle detection-18c": {
+  "/about/products/web-app/community-tier/🖮 keyboard shortcuts support-0e7": {
     "__comp": "17896441",
-    "content": "3edacc91"
+    "content": "484cf829"
   },
-  "/about/products/web-app/pro-tier-ideas/🫶🏻 Multiple colony unification-e43": {
+  "/about/products/web-app/community-tier/🖼️ Frame side management-f71": {
     "__comp": "17896441",
-    "content": "aa4b870f"
+    "content": "43521869"
   },
-  "/about/products/web-app/pro-tier-ideas/🛰️ SkyFi integration-f63": {
+  "/about/products/web-app/community-tier/🧑‍🚀 User editing-0c4": {
     "__comp": "17896441",
-    "content": "b21f9e4c"
+    "content": "87710c8c"
+  },
+  "/about/products/web-app/community-tier/🧑‍🚀 User email verification and change-d8f": {
+    "__comp": "17896441",
+    "content": "5e8d3106"
+  },
+  "/about/products/web-app/community-tier/🧑‍🚀 User login-fa8": {
+    "__comp": "17896441",
+    "content": "2467913a"
+  },
+  "/about/products/web-app/community-tier/🧑‍🚀 User password change-3a3": {
+    "__comp": "17896441",
+    "content": "18af1eaa"
+  },
+  "/about/products/web-app/community-tier/🧑‍🚀 User registration + password restoration-fd6": {
+    "__comp": "17896441",
+    "content": "44225bb6"
+  },
+  "/about/products/web-app/community-tier/🙅 User account deletion-d51": {
+    "__comp": "17896441",
+    "content": "fd268966"
+  },
+  "/about/products/web-app/essential-tier/☀️ Solar radiance as weather datasource-0b0": {
+    "__comp": "17896441",
+    "content": "b460fea1"
+  },
+  "/about/products/web-app/essential-tier/♻️ QR-code printing & scanning-447": {
+    "__comp": "17896441",
+    "content": "cdafa365"
+  },
+  "/about/products/web-app/essential-tier/♻️ Share of beehive inspection public URL-369": {
+    "__comp": "17896441",
+    "content": "a6a130e1"
+  },
+  "/about/products/web-app/essential-tier/✏️ Drawing on canvas-16a": {
+    "__comp": "17896441",
+    "content": "0975cdb4"
+  },
+  "/about/products/web-app/essential-tier/🌪️ Weather alerts-a5a": {
+    "__comp": "17896441",
+    "content": "5861bb85"
+  },
+  "/about/products/web-app/essential-tier/🌻 Flower blooming map-f4e": {
+    "__comp": "17896441",
+    "content": "e5c2ee3b"
+  },
+  "/about/products/web-app/essential-tier/🍭 Feeding management-a28": {
+    "__comp": "17896441",
+    "content": "0c106c2a"
+  },
+  "/about/products/web-app/essential-tier/🐝 Drone brood detection-b2e": {
+    "__comp": "17896441",
+    "content": "bbea1fde"
+  },
+  "/about/products/web-app/essential-tier/🐝 Frame analysis - chilled brood-fad": {
+    "__comp": "17896441",
+    "content": "204d5ac4"
+  },
+  "/about/products/web-app/essential-tier/🐝 Laying workers cell detection-88a": {
+    "__comp": "17896441",
+    "content": "ac8450aa"
+  },
+  "/about/products/web-app/essential-tier/📡 Offline mode-5dd": {
+    "__comp": "17896441",
+    "content": "3db2e90e"
+  },
+  "/about/products/web-app/essential-tier/📦 Manual inspections - Bulk file upload-07a": {
+    "__comp": "17896441",
+    "content": "b5379f3a"
+  },
+  "/about/products/web-app/essential-tier/🔎 Inspection management-a2d": {
+    "__comp": "17896441",
+    "content": "d9758818"
+  },
+  "/about/products/web-app/essential-tier/🔔  Alerts-bcb": {
+    "__comp": "17896441",
+    "content": "ffc61664"
+  },
+  "/about/products/web-app/essential-tier/🔔 Drone detection-478": {
+    "__comp": "17896441",
+    "content": "8bb091d4"
+  },
+  "/about/products/web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection-3d8": {
+    "__comp": "17896441",
+    "content": "3aec858c"
+  },
+  "/about/products/web-app/essential-tier/🔔 Frame analysis - starvation detection and alert-c5e": {
+    "__comp": "17896441",
+    "content": "6af68fa8"
+  },
+  "/about/products/web-app/essential-tier/🤖 Beekeeping advice with LLM-51b": {
+    "__comp": "17896441",
+    "content": "ca9ed3e7"
+  },
+  "/about/products/web-app/essential-tier/🦀 Varroa infestation management-210": {
+    "__comp": "17896441",
+    "content": "9c8e12bc"
+  },
+  "/about/products/web-app/essential-tier/🦀 Varroa mite detection-7e4": {
+    "__comp": "17896441",
+    "content": "65608011"
+  },
+  "/about/products/web-app/essential-tier/🛰️ Apiary satellite view-a8b": {
+    "__comp": "17896441",
+    "content": "9257cec9"
+  },
+  "/about/products/web-app/pro-tier/↔️ Create colony split-23a": {
+    "__comp": "17896441",
+    "content": "97a67a95"
+  },
+  "/about/products/web-app/pro-tier/♻️ Hive ownership transfer-f43": {
+    "__comp": "17896441",
+    "content": "44d67810"
+  },
+  "/about/products/web-app/pro-tier/⚖️ Colony comparison-d5d": {
+    "__comp": "17896441",
+    "content": "b07d1bd9"
+  },
+  "/about/products/web-app/pro-tier/🌎 Map view-907": {
+    "__comp": "17896441",
+    "content": "80cd0049"
+  },
+  "/about/products/web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun-a46": {
+    "__comp": "17896441",
+    "content": "36bd95fb"
+  },
+  "/about/products/web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation-7b7": {
+    "__comp": "17896441",
+    "content": "2a283556"
+  },
+  "/about/products/web-app/pro-tier/🎮 Device management-b2d": {
+    "__comp": "17896441",
+    "content": "7649dfb0"
+  },
+  "/about/products/web-app/pro-tier/🐜 Ant detection-2cf": {
+    "__comp": "17896441",
+    "content": "898fed2b"
+  },
+  "/about/products/web-app/pro-tier/🐝 Analytics - demography and simulation-08e": {
+    "__comp": "17896441",
+    "content": "5a584cbc"
+  },
+  "/about/products/web-app/pro-tier/🐝 Bee age classification-9c9": {
+    "__comp": "17896441",
+    "content": "536f0fdc"
+  },
+  "/about/products/web-app/pro-tier/🐝 Bee pose - morphometric model-3b8": {
+    "__comp": "17896441",
+    "content": "bcedd81e"
+  },
+  "/about/products/web-app/pro-tier/🐝 Bee race classification-44d": {
+    "__comp": "17896441",
+    "content": "865b6989"
+  },
+  "/about/products/web-app/pro-tier/🐝 Wax moth detection-8be": {
+    "__comp": "17896441",
+    "content": "a114f016"
+  },
+  "/about/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support-505": {
+    "__comp": "17896441",
+    "content": "514d4e09"
+  },
+  "/about/products/web-app/pro-tier/📅 Calendar view-fc1": {
+    "__comp": "17896441",
+    "content": "dd4fc1fd"
+  },
+  "/about/products/web-app/pro-tier/📅 Google-calendar integration-060": {
+    "__comp": "17896441",
+    "content": "6804b8b4"
+  },
+  "/about/products/web-app/pro-tier/📅 Varroa Treatment diary-3e3": {
+    "__comp": "17896441",
+    "content": "a9eeb99b"
+  },
+  "/about/products/web-app/pro-tier/📦 Harvest hive frames and sections-0f6": {
+    "__comp": "17896441",
+    "content": "64937194"
+  },
+  "/about/products/web-app/pro-tier/📦 Inventory management - warehouse view-f7e": {
+    "__comp": "17896441",
+    "content": "80eab189"
+  },
+  "/about/products/web-app/pro-tier/🤖 Talk to bee colony with AI-fde": {
+    "__comp": "17896441",
+    "content": "da5d9cc2"
+  },
+  "/about/products/web-app/pro-tier/🪝 Webhooks integration-957": {
+    "__comp": "17896441",
+    "content": "ec404566"
+  },
+  "/about/products/web-app/pro-tier/🪲 Hive beetle detection-3a3": {
+    "__comp": "17896441",
+    "content": "9e3ac3a4"
+  },
+  "/about/products/web-app/pro-tier/🫶🏻 Multiple colony unification-82e": {
+    "__comp": "17896441",
+    "content": "eff8dc68"
+  },
+  "/about/products/web-app/pro-tier/🛰️ SkyFi integration-7c3": {
+    "__comp": "17896441",
+    "content": "7016b907"
   },
   "/about/purpose/-f43": {
     "__comp": "17896441",
@@ -863,17 +1087,17 @@
     "__comp": "17896441",
     "content": "09c86d52"
   },
-  "/docs-5f2": {
+  "/docs-8bf": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-8f5": {
+  "/docs-3d3": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-8e5": {
+  "/docs-415": {
     "__comp": "a94703ab"
   },
   "/docs/Docs-758": {
@@ -928,13 +1152,9 @@
     "__comp": "17896441",
     "content": "ca89279f"
   },
-  "/docs/iot/components/Battery 18650-254": {
+  "/docs/iot/components/Battery 18650 with shield-83b": {
     "__comp": "17896441",
-    "content": "c1e1dcad"
-  },
-  "/docs/iot/components/Battery shield-754": {
-    "__comp": "17896441",
-    "content": "7907cd7b"
+    "content": "c6a3baeb"
   },
   "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module-4e1": {
     "__comp": "17896441",
@@ -976,9 +1196,9 @@
     "__comp": "17896441",
     "content": "561b0b28"
   },
-  "/docs/Robotic Beehive/-be3": {
+  "/docs/Robotic Beehive/-d02": {
     "__comp": "17896441",
-    "content": "053f1f22"
+    "content": "fd5e0502"
   },
   "/docs/Robotic Beehive/4 axis gantry-f8d": {
     "__comp": "17896441",

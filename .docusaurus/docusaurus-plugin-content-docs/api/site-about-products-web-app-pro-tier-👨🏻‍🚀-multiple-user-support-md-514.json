@@ -1,0 +1,23 @@
+{
+  "id": "products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+  "title": "👨🏻‍🚀 Multiple user support",
+  "description": "",
+  "source": "@site/about/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support.md",
+  "sourceDirName": "products/web-app/pro-tier",
+  "slug": "/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+  "permalink": "/about/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Wax moth detection",
+    "permalink": "/about/products/web-app/pro-tier/🐝 Wax moth detection"
+  },
+  "next": {
+    "title": "📅 Calendar view",
+    "permalink": "/about/products/web-app/pro-tier/📅 Calendar view"
+  }
+}

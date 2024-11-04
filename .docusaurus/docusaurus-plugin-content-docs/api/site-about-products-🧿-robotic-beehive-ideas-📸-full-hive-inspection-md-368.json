@@ -1,0 +1,23 @@
+{
+  "id": "products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
+  "title": "📸 Full hive inspection",
+  "description": "The idea is to do batch scan of beehive frames",
+  "source": "@site/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection.md",
+  "sourceDirName": "products/🧿 Robotic Beehive/ideas",
+  "slug": "/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
+  "permalink": "/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Bee specialization classification",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification"
+  },
+  "next": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning"
+  }
+}
