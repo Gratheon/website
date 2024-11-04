@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/ideas/🚁 Ventilation control",
+  "title": "🚁 Ventilation control",
+  "description": "Problem",
+  "source": "@site/about/products/robotic-beehive/ideas/🚁 Ventilation control.md",
+  "sourceDirName": "products/robotic-beehive/ideas",
+  "slug": "/products/robotic-beehive/ideas/🚁 Ventilation control",
+  "permalink": "/about/products/robotic-beehive/ideas/🚁 Ventilation control",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔥 Hive heating",
+    "permalink": "/about/products/robotic-beehive/ideas/🔥 Hive heating"
+  },
+  "next": {
+    "title": "🛑 Close mechanised hive entrance in case of robbing behaviour",
+    "permalink": "/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour"
+  }
+}

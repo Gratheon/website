@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/features/Close mechanised hive entrance in case of robbing behaviour",
+  "title": "Close mechanised hive entrance in case of robbing behaviour",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/features/Close mechanised hive entrance in case of robbing behaviour.md",
+  "sourceDirName": "products/robotic-beehive/features",
+  "slug": "/products/robotic-beehive/features/Close mechanised hive entrance in case of robbing behaviour",
+  "permalink": "/about/products/robotic-beehive/features/Close mechanised hive entrance in case of robbing behaviour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/robotic-beehive/"
+  },
+  "next": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/robotic-beehive/features/📸 Real-time frame scanning"
+  }
+}

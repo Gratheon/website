@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🧿 Robotic Beehive",
-    "permalink": "/about/products/🧿 Robotic Beehive"
+    "title": "🧪 Automatic acid treatment against varroa",
+    "permalink": "/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa"
   },
   "next": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
   }
 }

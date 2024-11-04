@@ -10,11 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "⚖️ Pricing",
-    "permalink": "/about/products/prices"
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app"
   },
   "next": {
     "title": "👁️‍🗨️ Entrance Observer",

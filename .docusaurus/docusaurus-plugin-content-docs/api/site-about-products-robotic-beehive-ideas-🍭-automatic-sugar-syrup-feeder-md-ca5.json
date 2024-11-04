@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+  "title": "🍭 Automatic sugar syrup feeder",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder.md",
+  "sourceDirName": "products/robotic-beehive/ideas",
+  "slug": "/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+  "permalink": "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/robotic-beehive/"
+  },
+  "next": {
+    "title": "🎙️ 6-channel audio monitoring",
+    "permalink": "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring"
+  }
+}

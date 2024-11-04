@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/features/🧪 Automatic acid treatment against varroa",
+  "title": "🧪 Automatic acid treatment against varroa",
+  "description": "Current approaches",
+  "source": "@site/about/products/robotic-beehive/features/🧪 Automatic acid treatment against varroa.md",
+  "sourceDirName": "products/robotic-beehive/features",
+  "slug": "/products/robotic-beehive/features/🧪 Automatic acid treatment against varroa",
+  "permalink": "/about/products/robotic-beehive/features/🧪 Automatic acid treatment against varroa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦾Robotic frame isolation & extraction",
+    "permalink": "/about/products/robotic-beehive/features/🦾Robotic frame isolation & extraction"
+  },
+  "next": {
+    "title": "🪬 Robotic Apiary",
+    "permalink": "/about/products/🪬 Robotic Apiary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/features/Close mechanised hive entrance in case of hornet attack",
+  "title": "Close mechanised hive entrance in case of hornet attack",
+  "description": "The idea here is that a beehive entrance can be automated to open and close either remotely or due to other features:",
+  "source": "@site/about/products/robotic-beehive/features/Close mechanised hive entrance in case of hornet attack.md",
+  "sourceDirName": "products/robotic-beehive/features",
+  "slug": "/products/robotic-beehive/features/Close mechanised hive entrance in case of hornet attack",
+  "permalink": "/about/products/robotic-beehive/features/Close mechanised hive entrance in case of hornet attack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/robotic-beehive/"
+  },
+  "next": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/robotic-beehive/features/📸 Real-time frame scanning"
+  }
+}

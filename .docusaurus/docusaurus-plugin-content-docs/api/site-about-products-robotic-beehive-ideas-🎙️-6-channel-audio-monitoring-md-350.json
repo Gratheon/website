@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+  "title": "🎙️ 6-channel audio monitoring",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring.md",
+  "sourceDirName": "products/robotic-beehive/ideas",
+  "slug": "/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+  "permalink": "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍭 Automatic sugar syrup feeder",
+    "permalink": "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder"
+  },
+  "next": {
+    "title": "🎮 Client-side app with UI in manual override mode",
+    "permalink": "/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode"
+  }
+}

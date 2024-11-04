@@ -615,11 +615,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🧿 Robotic Beehive",
-              "path": "/about/products/🧿 Robotic Beehive",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/🪬 Robotic Apiary",
               "path": "/about/products/🪬 Robotic Apiary",
               "sidebar": "tutorialSidebar"
@@ -632,6 +627,111 @@
             {
               "id": "products/prices",
               "path": "/about/products/prices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+              "path": "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+              "path": "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode",
+              "path": "/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX",
+              "path": "/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🐝 Bee nursing video analysis",
+              "path": "/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🐝 Bee specialization classification",
+              "path": "/about/products/robotic-beehive/ideas/🐝 Bee specialization classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/📸 Full hive inspection",
+              "path": "/about/products/robotic-beehive/ideas/📸 Full hive inspection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/📸 Real-time frame scanning",
+              "path": "/about/products/robotic-beehive/ideas/📸 Real-time frame scanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+              "path": "/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🔌 Energy autonomy",
+              "path": "/about/products/robotic-beehive/ideas/🔌 Energy autonomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🔥 Hive heating",
+              "path": "/about/products/robotic-beehive/ideas/🔥 Hive heating",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting",
+              "path": "/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+              "path": "/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🦾 Robotic insertion of new frames",
+              "path": "/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction",
+              "path": "/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa",
+              "path": "/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🚁 Ventilation control",
+              "path": "/about/products/robotic-beehive/ideas/🚁 Ventilation control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
+              "path": "/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
+              "path": "/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "path": "/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/robotic-beehive/index",
+              "path": "/about/products/robotic-beehive/",
               "sidebar": "tutorialSidebar"
             },
             {

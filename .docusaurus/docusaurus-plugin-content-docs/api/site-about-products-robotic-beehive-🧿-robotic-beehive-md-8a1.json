@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/🧿 Robotic Beehive",
+  "title": "🧿 Robotic Beehive",
+  "description": "status: proof-of-concept, 5% complete",
+  "source": "@site/about/products/robotic-beehive/🧿 Robotic Beehive.md",
+  "sourceDirName": "products/robotic-beehive",
+  "slug": "/products/robotic-beehive/🧿 Robotic Beehive",
+  "permalink": "/about/products/robotic-beehive/🧿 Robotic Beehive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors"
+  }
+}

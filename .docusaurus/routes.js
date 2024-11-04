@@ -159,15 +159,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '75e'),
+    component: ComponentCreator('/about', '316'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '740'),
+        component: ComponentCreator('/about', '858'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '62e'),
+            component: ComponentCreator('/about', '138'),
             routes: [
               {
                 path: '/about/',
@@ -668,12 +668,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive', '625'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/🪬 Robotic Apiary',
                 component: ComponentCreator('/about/products/🪬 Robotic Apiary', 'a32'),
                 exact: true,
@@ -682,6 +676,132 @@ export default [
               {
                 path: '/about/products/prices',
                 component: ComponentCreator('/about/products/prices', '748'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/',
+                component: ComponentCreator('/about/products/robotic-beehive/', '2ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder', '2ac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring', '4bc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode', '8f6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX', '83d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis', '924'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🐝 Bee specialization classification',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🐝 Bee specialization classification', '614'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/📸 Full hive inspection',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/📸 Full hive inspection', '768'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/📸 Real-time frame scanning',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/📸 Real-time frame scanning', 'a3f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees', '17b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🔌 Energy autonomy',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🔌 Energy autonomy', 'dd9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🔥 Hive heating',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🔥 Hive heating', '42c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting', 'a84'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering', 'f63'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames', '4cc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction', '600'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa', '83b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🚁 Ventilation control',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🚁 Ventilation control', '6ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour', '598'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack', 'a3c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind',
+                component: ComponentCreator('/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind', '3ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

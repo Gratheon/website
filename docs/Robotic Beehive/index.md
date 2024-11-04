@@ -12,3 +12,11 @@ When designing a robotic beehive, we are considering different solutions:
 - [Move to side + raise up](https://www.notion.so/Move-to-side-raise-up-3e05773feeb04c81933414f69b6af737?pvs=21)
 - [Move down XY](https://www.notion.so/Move-down-XY-9aac9c341d74498bac5f1c3bc00b4a20?pvs=21)
 - [Expand internally - scissors style](https://www.notion.so/Expand-internally-scissors-style-c7653ca98bb04abcacee7f707109b39f?pvs=21)
+
+## Main code repo
+- [https://github.com/Gratheon/hardware-robotic-beehive](https://github.com/Gratheon/hardware-robotic-beehive)
+
+## Schematic overview
+...
+
+[https://excalidraw.com/#json=rQMKVE0rgF-pux2zTyB_S,LQlTn5W0gDaznvv2JDouhA](https://excalidraw.com/#json=rQMKVE0rgF-pux2zTyB_S,LQlTn5W0gDaznvv2JDouhA)

@@ -353,17 +353,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-75e": {
+  "/about-316": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-740": {
+  "/about-858": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-62e": {
+  "/about-138": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -698,10 +698,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-📱-web-appc-1-d-fa7"
   },
-  "/about/products/🧿 Robotic Beehive-625": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-🧿-robotic-beehive-1-df-e91"
-  },
   "/about/products/🪬 Robotic Apiary-a32": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-🪬-robotic-apiary-94-b-884"
@@ -709,6 +705,90 @@
   "/about/products/prices-748": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-prices-44-b-d17"
+  },
+  "/about/products/robotic-beehive/-2ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-f-45-749"
+  },
+  "/about/products/robotic-beehive/ideas/🍭 Automatic sugar syrup feeder-2ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🍭-automatic-sugar-syrup-feederca-5-83c"
+  },
+  "/about/products/robotic-beehive/ideas/🎙️ 6-channel audio monitoring-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎙️-6-channel-audio-monitoring-350-cd3"
+  },
+  "/about/products/robotic-beehive/ideas/🎮 Client-side app with UI in manual override mode-8f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎮-client-side-app-with-ui-in-manual-override-mode-41-c-083"
+  },
+  "/about/products/robotic-beehive/ideas/🎮 Connecting robot to web-app UX-83d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎮-connecting-robot-to-web-app-ux-38-a-e12"
+  },
+  "/about/products/robotic-beehive/ideas/🐝 Bee nursing video analysis-924": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🐝-bee-nursing-video-analysis-527-1f4"
+  },
+  "/about/products/robotic-beehive/ideas/🐝 Bee specialization classification-614": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🐝-bee-specialization-classification-5-f-0-7de"
+  },
+  "/about/products/robotic-beehive/ideas/📸 Full hive inspection-768": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-📸-full-hive-inspection-77-f-1dc"
+  },
+  "/about/products/robotic-beehive/ideas/📸 Real-time frame scanning-a3f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-📸-real-time-frame-scanning-000-fe6"
+  },
+  "/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees-17b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔊-audio-interface-to-talk-to-beesd-28-6fd"
+  },
+  "/about/products/robotic-beehive/ideas/🔌 Energy autonomy-dd9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔌-energy-autonomy-386-fd5"
+  },
+  "/about/products/robotic-beehive/ideas/🔥 Hive heating-42c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔥-hive-heatingd-97-537"
+  },
+  "/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting-a84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-moveable-hive-bottom-with-varroa-countingfb-0-c56"
+  },
+  "/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering-f63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-frame-reordering-9-d-5-aea"
+  },
+  "/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames-4cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-insertion-of-new-frames-232-122"
+  },
+  "/about/products/robotic-beehive/ideas/🦾Robotic frame isolation & extraction-600": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-frame-isolation-extractionad-7-eca"
+  },
+  "/about/products/robotic-beehive/ideas/🧪 Automatic acid treatment against varroa-83b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🧪-automatic-acid-treatment-against-varroa-4-fc-e1f"
+  },
+  "/about/products/robotic-beehive/ideas/🚁 Ventilation control-6ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🚁-ventilation-controle-55-cc8"
+  },
+  "/about/products/robotic-beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour-598": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-close-mechanised-hive-entrance-in-case-of-robbing-behaviourfca-130"
+  },
+  "/about/products/robotic-beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack-a3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-close-mechanized-hive-entrance-in-case-of-hornet-attack-407-f21"
+  },
+  "/about/products/robotic-beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind-3ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-mechanically-reduce-hive-entrance-in-case-of-high-wind-629-428"
   },
   "/about/purpose/-f43": {
     "__comp": "__comp---theme-doc-item-178-a40",

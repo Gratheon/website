@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+  "title": "🔊 Audio-interface to talk to bees",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees.md",
+  "sourceDirName": "products/robotic-beehive/ideas",
+  "slug": "/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+  "permalink": "/about/products/robotic-beehive/ideas/🔊 Audio-interface to talk to bees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/robotic-beehive/ideas/📸 Real-time frame scanning"
+  },
+  "next": {
+    "title": "🔌 Energy autonomy",
+    "permalink": "/about/products/robotic-beehive/ideas/🔌 Energy autonomy"
+  }
+}

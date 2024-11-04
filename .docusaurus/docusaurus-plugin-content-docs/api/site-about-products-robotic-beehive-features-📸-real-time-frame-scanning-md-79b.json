@@ -1,0 +1,25 @@
+{
+  "id": "products/robotic-beehive/features/📸 Real-time frame scanning",
+  "title": "📸 Real-time frame scanning",
+  "description": "Precondition",
+  "source": "@site/about/products/robotic-beehive/features/📸 Real-time frame scanning.md",
+  "sourceDirName": "products/robotic-beehive/features",
+  "slug": "/products/robotic-beehive/features/📸 Real-time frame scanning",
+  "permalink": "/about/products/robotic-beehive/features/📸 Real-time frame scanning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "idea"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📸 Full hive inspection",
+    "permalink": "/about/products/robotic-beehive/features/📸 Full hive inspection"
+  },
+  "next": {
+    "title": "🔊 Audio-interface (to talk with bees)",
+    "permalink": "/about/products/robotic-beehive/features/🔊 Audio-interface (to talk with bees)"
+  }
+}

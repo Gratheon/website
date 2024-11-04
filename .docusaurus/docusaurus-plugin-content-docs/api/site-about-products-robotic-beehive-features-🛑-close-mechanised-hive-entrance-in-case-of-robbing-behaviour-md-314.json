@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/features/🛑 Close mechanised hive entrance in case of robbing behaviour",
+  "title": "🛑 Close mechanised hive entrance in case of robbing behaviour",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/features/🛑 Close mechanised hive entrance in case of robbing behaviour.md",
+  "sourceDirName": "products/robotic-beehive/features",
+  "slug": "/products/robotic-beehive/features/🛑 Close mechanised hive entrance in case of robbing behaviour",
+  "permalink": "/about/products/robotic-beehive/features/🛑 Close mechanised hive entrance in case of robbing behaviour",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚁 Ventilation control",
+    "permalink": "/about/products/robotic-beehive/features/🚁 Ventilation control"
+  },
+  "next": {
+    "title": "🛑 Close mechanized hive entrance in case of hornet attack",
+    "permalink": "/about/products/robotic-beehive/features/🛑 Close mechanized hive entrance in case of hornet attack"
+  }
+}

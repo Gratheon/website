@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+  "title": "🦾 Robotic frame reordering",
+  "description": "",
+  "source": "@site/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering.md",
+  "sourceDirName": "products/robotic-beehive/ideas",
+  "slug": "/products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+  "permalink": "/about/products/robotic-beehive/ideas/🦾 Robotic frame reordering",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦾 Moveable hive bottom with varroa counting",
+    "permalink": "/about/products/robotic-beehive/ideas/🦾 Moveable hive bottom with varroa counting"
+  },
+  "next": {
+    "title": "🦾 Robotic insertion of new frames",
+    "permalink": "/about/products/robotic-beehive/ideas/🦾 Robotic insertion of new frames"
+  }
+}

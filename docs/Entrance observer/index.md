@@ -3,6 +3,8 @@ title: 👁️‍🗨️ Entrance observer
 sidebar_position: 4
 hide_table_of_contents: true
 ---
+## Main code repo
+- [https://github.com/Gratheon/beehive-entrance-video-processor](https://github.com/Gratheon/beehive-entrance-video-processor)
 
 ## Choosing processing architecture
 

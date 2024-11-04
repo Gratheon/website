@@ -1,0 +1,23 @@
+{
+  "id": "products/R/🧿 Robotic Beehive",
+  "title": "🧿 Robotic Beehive",
+  "description": "status: proof-of-concept, 5% complete",
+  "source": "@site/about/products/R/🧿 Robotic Beehive.md",
+  "sourceDirName": "products/R",
+  "slug": "/products/R/🧿 Robotic Beehive",
+  "permalink": "/about/products/R/🧿 Robotic Beehive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app"
+  },
+  "next": {
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
+  }
+}
