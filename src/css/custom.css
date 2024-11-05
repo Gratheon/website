@@ -49,6 +49,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+aside > nav {
+    display: block;
+}
+
 :root {
     /* * {
         font-family: "Open Sans", serif;
@@ -60,10 +64,6 @@
 
     h1, h2, h3, h4, h5, h6 {
         font-family: "PT Serif Caption", serif;
-    }
-
-    nav{
-        display: block;
     }
 
     .navbar__logo{
