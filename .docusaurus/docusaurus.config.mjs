@@ -40,6 +40,10 @@ export default {
     [
       "classic",
       {
+        "gtag": {
+          "trackingID": "GTM-KH4KC9",
+          "anonymizeIP": true
+        },
         "docs": {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/"
@@ -424,6 +428,13 @@ export default {
         }
       ]
     },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
+    },
     "docs": {
       "versionPersistence": "localStorage",
       "sidebar": {
@@ -435,13 +446,6 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
-    },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
     }
   },
   "plugins": [

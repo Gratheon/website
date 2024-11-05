@@ -35,9 +35,16 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
   
   presets: [
+
     [
       'classic',
       {
+
+        gtag: {
+          trackingID: 'GTM-KH4KC9',
+          anonymizeIP: true,
+        },
+
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
