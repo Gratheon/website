@@ -36,9 +36,6 @@ export default {
   "themes": [
     "@docusaurus/theme-mermaid"
   ],
-  "clientModules": [
-    "/Users/artjom/mind-v3/gratheon.com/_clarity.ts"
-  ],
   "presets": [
     [
       "classic",
@@ -488,6 +485,7 @@ export default {
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
+  "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false
 };
