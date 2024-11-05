@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro ideas/🎮 Device management",
+  "title": "🎮 Device management",
+  "description": "To ease connecting web-app to Entrance Observer, Beehive IoT sensors, Robotic Beehive and other third-party ([Beep.nl weight telemetry integration](https://www.notion.so/Beep-nl-weight-telemetry-integration-a72ed2ce25004a3c853bb41fa08abc48?pvs=21)) we need a separate view for managing devices.",
+  "source": "@site/about/products/📱Web-app/pro ideas/🎮 Device management.md",
+  "sourceDirName": "products/📱Web-app/pro ideas",
+  "slug": "/products/📱Web-app/pro ideas/🎮 Device management",
+  "permalink": "/about/products/📱Web-app/pro ideas/🎮 Device management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Pollination optimization with hive placement recommendation",
+    "permalink": "/about/products/📱Web-app/pro ideas/🌻 Pollination optimization with hive placement recommendation"
+  },
+  "next": {
+    "title": "🐜 Ant detection",
+    "permalink": "/about/products/📱Web-app/pro ideas/🐜 Ant detection"
+  }
+}

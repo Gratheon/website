@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential tier/🔔 Drone detection",
+  "title": "🔔 Drone detection",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/essential tier/🔔 Drone detection.md",
+  "sourceDirName": "products/📱Web-app/essential tier",
+  "slug": "/products/📱Web-app/essential tier/🔔 Drone detection",
+  "permalink": "/about/products/📱Web-app/essential tier/🔔 Drone detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛰️ Apiary satellite view",
+    "permalink": "/about/products/📱Web-app/essential tier/ideas 💡/🛰️ Apiary satellite view"
+  },
+  "next": {
+    "title": "🔔 Frame analysis - spotty brood pattern detection",
+    "permalink": "/about/products/📱Web-app/essential tier/🔔 Frame analysis - spotty brood pattern detection"
+  }
+}

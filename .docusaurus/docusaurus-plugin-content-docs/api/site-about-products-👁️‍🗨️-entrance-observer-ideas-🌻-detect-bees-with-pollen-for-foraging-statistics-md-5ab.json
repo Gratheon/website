@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "title": "🌻 Detect bees with pollen for foraging statistics",
+  "description": "We want to allow users to see bee foraging behaviour over time.",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/ideas",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ Share video stream",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream"
+  },
+  "next": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming from phone"
+  }
+}

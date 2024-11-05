@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API",
+  "title": "🎥 Video streaming via API",
+  "description": "We want to integrate hardware that cannot run GPU inferencing efficiently, but has sufficient network bandwidth to capture and upload/stream video to the cloud",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/ideas",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming from phone"
+  },
+  "next": {
+    "title": "🎮 Client-side app with UI",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI"
+  }
+}

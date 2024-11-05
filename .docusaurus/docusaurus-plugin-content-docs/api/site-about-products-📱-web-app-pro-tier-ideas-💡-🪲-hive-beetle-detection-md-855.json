@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection",
+  "title": "🪲 Hive beetle detection",
+  "description": "- bees can't really attack hive beetles",
+  "source": "@site/about/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection.md",
+  "sourceDirName": "products/📱Web-app/pro tier/ideas 💡",
+  "slug": "/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection",
+  "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪝 Webhooks integration",
+    "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/🪝 Webhooks integration"
+  },
+  "next": {
+    "title": "🫶🏻 Multiple colony unification",
+    "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification"
+  }
+}

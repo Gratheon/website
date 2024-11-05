@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential ideas/🔔 Frame analysis - starvation detection and alert",
+  "title": "🔔 Frame analysis - starvation detection and alert",
+  "description": "- little capped honey or nectar in the hive",
+  "source": "@site/about/products/📱Web-app/essential ideas/🔔 Frame analysis - starvation detection and alert.md",
+  "sourceDirName": "products/📱Web-app/essential ideas",
+  "slug": "/products/📱Web-app/essential ideas/🔔 Frame analysis - starvation detection and alert",
+  "permalink": "/about/products/📱Web-app/essential ideas/🔔 Frame analysis - starvation detection and alert",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔 Frame analysis - spotty brood pattern detection",
+    "permalink": "/about/products/📱Web-app/essential ideas/🔔 Frame analysis - spotty brood pattern detection"
+  },
+  "next": {
+    "title": "🛰️ Apiary satellite view",
+    "permalink": "/about/products/📱Web-app/essential ideas/🛰️ Apiary satellite view"
+  }
+}

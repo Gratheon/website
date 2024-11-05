@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro ideas/♻️ Hive ownership transfer",
+  "title": "♻️ Hive ownership transfer",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/pro ideas/♻️ Hive ownership transfer.md",
+  "sourceDirName": "products/📱Web-app/pro ideas",
+  "slug": "/products/📱Web-app/pro ideas/♻️ Hive ownership transfer",
+  "permalink": "/about/products/📱Web-app/pro ideas/♻️ Hive ownership transfer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "↔️ Create colony split",
+    "permalink": "/about/products/📱Web-app/pro ideas/↔️ Create colony split"
+  },
+  "next": {
+    "title": "⚖️ Colony comparison",
+    "permalink": "/about/products/📱Web-app/pro ideas/⚖️ Colony comparison"
+  }
+}

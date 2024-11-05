@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential tier/🦀 Varroa infestation management",
+  "title": "🦀 Varroa infestation management",
+  "description": "This is a parent feature of",
+  "source": "@site/about/products/📱Web-app/essential tier/🦀 Varroa infestation management.md",
+  "sourceDirName": "products/📱Web-app/essential tier",
+  "slug": "/products/📱Web-app/essential tier/🦀 Varroa infestation management",
+  "permalink": "/about/products/📱Web-app/essential tier/🦀 Varroa infestation management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔 Frame analysis - starvation detection and alert",
+    "permalink": "/about/products/📱Web-app/essential tier/🔔 Frame analysis - starvation detection and alert"
+  },
+  "next": {
+    "title": "🦀 Varroa mite detection",
+    "permalink": "/about/products/📱Web-app/essential tier/🦀 Varroa mite detection"
+  }
+}

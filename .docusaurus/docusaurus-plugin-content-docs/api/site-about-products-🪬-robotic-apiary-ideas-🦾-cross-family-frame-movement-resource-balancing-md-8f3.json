@@ -1,0 +1,23 @@
+{
+  "id": "products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing",
+  "title": "🦾 Cross-family frame movement resource balancing",
+  "description": "",
+  "source": "@site/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing.md",
+  "sourceDirName": "products/🪬 Robotic Apiary/ideas",
+  "slug": "/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing",
+  "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Varroa mite detection with infra-red camera",
+    "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera"
+  },
+  "next": {
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
+  }
+}

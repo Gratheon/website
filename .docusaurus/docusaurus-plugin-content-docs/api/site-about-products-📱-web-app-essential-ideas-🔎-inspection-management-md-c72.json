@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential ideas/🔎 Inspection management",
+  "title": "🔎 Inspection management",
+  "description": "Creating inspection",
+  "source": "@site/about/products/📱Web-app/essential ideas/🔎 Inspection management.md",
+  "sourceDirName": "products/📱Web-app/essential ideas",
+  "slug": "/products/📱Web-app/essential ideas/🔎 Inspection management",
+  "permalink": "/about/products/📱Web-app/essential ideas/🔎 Inspection management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Manual inspections - Bulk file upload",
+    "permalink": "/about/products/📱Web-app/essential ideas/📦 Manual inspections - Bulk file upload"
+  },
+  "next": {
+    "title": "🔔  Alerts",
+    "permalink": "/about/products/📱Web-app/essential ideas/🔔  Alerts"
+  }
+}

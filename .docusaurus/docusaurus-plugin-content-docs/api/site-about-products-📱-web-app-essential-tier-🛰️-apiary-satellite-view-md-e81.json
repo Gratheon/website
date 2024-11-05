@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential tier/🛰️ Apiary satellite view",
+  "title": "🛰️ Apiary satellite view",
+  "description": "See also Pollination optimization with hive placement recommendation",
+  "source": "@site/about/products/📱Web-app/essential tier/🛰️ Apiary satellite view.md",
+  "sourceDirName": "products/📱Web-app/essential tier",
+  "slug": "/products/📱Web-app/essential tier/🛰️ Apiary satellite view",
+  "permalink": "/about/products/📱Web-app/essential tier/🛰️ Apiary satellite view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔 Frame analysis - starvation detection and alert",
+    "permalink": "/about/products/📱Web-app/essential tier/🔔 Frame analysis - starvation detection and alert"
+  },
+  "next": {
+    "title": "🦀 Varroa infestation management",
+    "permalink": "/about/products/📱Web-app/essential tier/🦀 Varroa infestation management"
+  }
+}

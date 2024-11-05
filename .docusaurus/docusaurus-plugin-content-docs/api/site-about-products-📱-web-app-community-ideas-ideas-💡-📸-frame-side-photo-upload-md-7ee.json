@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community ideas/ideas 💡/📸 Frame side photo upload",
+  "title": "📸 Frame side photo upload",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/community ideas/ideas 💡/📸 Frame side photo upload.md",
+  "sourceDirName": "products/📱Web-app/community ideas/ideas 💡",
+  "slug": "/products/📱Web-app/community ideas/ideas 💡/📸 Frame side photo upload",
+  "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/📸 Frame side photo upload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📍 Show close-by beekeepers from government registry",
+    "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/📍 Show close-by beekeepers from government registry"
+  },
+  "next": {
+    "title": "🔐 API token management",
+    "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/🔐 API token management"
+  }
+}

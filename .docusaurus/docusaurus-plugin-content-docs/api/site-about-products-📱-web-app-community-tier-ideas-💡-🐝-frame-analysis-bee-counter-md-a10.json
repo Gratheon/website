@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community tier/ideas 💡/🐝 Frame analysis - bee counter",
+  "title": "🐝 Frame analysis - bee counter",
+  "description": "User story",
+  "source": "@site/about/products/📱Web-app/community tier/ideas 💡/🐝 Frame analysis - bee counter.md",
+  "sourceDirName": "products/📱Web-app/community tier/ideas 💡",
+  "slug": "/products/📱Web-app/community tier/ideas 💡/🐝 Frame analysis - bee counter",
+  "permalink": "/about/products/📱Web-app/community tier/ideas 💡/🐝 Frame analysis - bee counter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎒 Product onboarding videos & UI",
+    "permalink": "/about/products/📱Web-app/community tier/ideas 💡/🎒 Product onboarding videos & UI"
+  },
+  "next": {
+    "title": "🐝 Frame side queen cup detection",
+    "permalink": "/about/products/📱Web-app/community tier/ideas 💡/🐝 Frame side queen cup detection"
+  }
+}

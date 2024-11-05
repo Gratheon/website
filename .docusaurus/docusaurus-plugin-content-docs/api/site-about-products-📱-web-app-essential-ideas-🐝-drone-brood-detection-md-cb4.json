@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential ideas/🐝 Drone brood detection",
+  "title": "🐝 Drone brood detection",
+  "description": "Why",
+  "source": "@site/about/products/📱Web-app/essential ideas/🐝 Drone brood detection.md",
+  "sourceDirName": "products/📱Web-app/essential ideas",
+  "slug": "/products/📱Web-app/essential ideas/🐝 Drone brood detection",
+  "permalink": "/about/products/📱Web-app/essential ideas/🐝 Drone brood detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍭 Feeding management",
+    "permalink": "/about/products/📱Web-app/essential ideas/🍭 Feeding management"
+  },
+  "next": {
+    "title": "🐝 Frame analysis - chilled brood",
+    "permalink": "/about/products/📱Web-app/essential ideas/🐝 Frame analysis - chilled brood"
+  }
+}

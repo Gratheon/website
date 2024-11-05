@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential tier/ideas 💡/♻️ Share of beehive inspection public URL",
+  "title": "♻️ Share of beehive inspection public URL",
+  "description": "Similar to Apiary position sharing, we want to have more social / growth loop like features that will allow collaboration between beekeepers.",
+  "source": "@site/about/products/📱Web-app/essential tier/ideas 💡/♻️ Share of beehive inspection public URL.md",
+  "sourceDirName": "products/📱Web-app/essential tier/ideas 💡",
+  "slug": "/products/📱Web-app/essential tier/ideas 💡/♻️ Share of beehive inspection public URL",
+  "permalink": "/about/products/📱Web-app/essential tier/ideas 💡/♻️ Share of beehive inspection public URL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ QR-code printing & scanning",
+    "permalink": "/about/products/📱Web-app/essential tier/ideas 💡/♻️ QR-code printing & scanning"
+  },
+  "next": {
+    "title": "🌪️ Weather alerts",
+    "permalink": "/about/products/📱Web-app/essential tier/ideas 💡/🌪️ Weather alerts"
+  }
+}

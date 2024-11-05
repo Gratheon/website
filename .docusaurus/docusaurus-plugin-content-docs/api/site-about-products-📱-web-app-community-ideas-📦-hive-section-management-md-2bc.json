@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community ideas/📦 Hive section management",
+  "title": "📦 Hive section management",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/community ideas/📦 Hive section management.md",
+  "sourceDirName": "products/📱Web-app/community ideas",
+  "slug": "/products/📱Web-app/community ideas/📦 Hive section management",
+  "permalink": "/about/products/📱Web-app/community ideas/📦 Hive section management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Hive management",
+    "permalink": "/about/products/📱Web-app/community ideas/📦 Hive management"
+  },
+  "next": {
+    "title": "📱 mobile app",
+    "permalink": "/about/products/📱Web-app/community ideas/📱 mobile app"
+  }
+}

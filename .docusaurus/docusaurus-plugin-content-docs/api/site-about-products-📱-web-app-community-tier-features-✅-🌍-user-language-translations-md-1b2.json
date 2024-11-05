@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community tier/features ✅/🌍 user language + translations",
+  "title": "🌍 user language + translations",
+  "description": "User story",
+  "source": "@site/about/products/📱Web-app/community tier/features ✅/🌍 user language + translations.md",
+  "sourceDirName": "products/📱Web-app/community tier/features ✅",
+  "slug": "/products/📱Web-app/community tier/features ✅/🌍 user language + translations",
+  "permalink": "/about/products/📱Web-app/community tier/features ✅/🌍 user language + translations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱Web-app",
+    "permalink": "/about/products/📱Web-app/"
+  },
+  "next": {
+    "title": "🌪️ weather graph",
+    "permalink": "/about/products/📱Web-app/community tier/features ✅/🌪️ weather graph"
+  }
+}

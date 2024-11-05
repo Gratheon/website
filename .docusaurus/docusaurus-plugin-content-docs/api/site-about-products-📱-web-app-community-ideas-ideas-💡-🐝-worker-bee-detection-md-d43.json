@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community ideas/ideas 💡/🐝 Worker bee detection",
+  "title": "🐝 Worker bee detection",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/community ideas/ideas 💡/🐝 Worker bee detection.md",
+  "sourceDirName": "products/📱Web-app/community ideas/ideas 💡",
+  "slug": "/products/📱Web-app/community ideas/ideas 💡/🐝 Worker bee detection",
+  "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/🐝 Worker bee detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Frame side queen cup detection",
+    "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/🐝 Frame side queen cup detection"
+  },
+  "next": {
+    "title": "👑 Queen detection",
+    "permalink": "/about/products/📱Web-app/community ideas/ideas 💡/👑 Queen detection"
+  }
+}

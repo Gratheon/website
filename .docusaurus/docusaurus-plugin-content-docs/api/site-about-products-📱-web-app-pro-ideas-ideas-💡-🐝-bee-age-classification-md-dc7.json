@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro ideas/ideas 💡/🐝 Bee age classification",
+  "title": "🐝 Bee age classification",
+  "description": "like with human societies, we need to evaluate demographical column of the colony",
+  "source": "@site/about/products/📱Web-app/pro ideas/ideas 💡/🐝 Bee age classification.md",
+  "sourceDirName": "products/📱Web-app/pro ideas/ideas 💡",
+  "slug": "/products/📱Web-app/pro ideas/ideas 💡/🐝 Bee age classification",
+  "permalink": "/about/products/📱Web-app/pro ideas/ideas 💡/🐝 Bee age classification",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Analytics - demography and simulation",
+    "permalink": "/about/products/📱Web-app/pro ideas/ideas 💡/🐝 Analytics - demography and simulation"
+  },
+  "next": {
+    "title": "🐝 Bee pose - morphometric model",
+    "permalink": "/about/products/📱Web-app/pro ideas/ideas 💡/🐝 Bee pose - morphometric model"
+  }
+}

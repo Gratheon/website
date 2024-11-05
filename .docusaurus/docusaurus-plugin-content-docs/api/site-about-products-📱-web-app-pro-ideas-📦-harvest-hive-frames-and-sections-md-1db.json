@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro ideas/📦 Harvest hive frames and sections",
+  "title": "📦 Harvest hive frames and sections",
+  "description": "Why",
+  "source": "@site/about/products/📱Web-app/pro ideas/📦 Harvest hive frames and sections.md",
+  "sourceDirName": "products/📱Web-app/pro ideas",
+  "slug": "/products/📱Web-app/pro ideas/📦 Harvest hive frames and sections",
+  "permalink": "/about/products/📱Web-app/pro ideas/📦 Harvest hive frames and sections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛰️ SkyFi integration",
+    "permalink": "/about/products/📱Web-app/pro ideas/ideas 💡/🛰️ SkyFi integration"
+  },
+  "next": {
+    "title": "📦 Inventory management - warehouse view",
+    "permalink": "/about/products/📱Web-app/pro ideas/📦 Inventory management - warehouse view"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro ideas/🤖 Talk to bee colony with AI",
+  "title": "🤖 Talk to bee colony with AI",
+  "description": "with RAG",
+  "source": "@site/about/products/📱Web-app/pro ideas/🤖 Talk to bee colony with AI.md",
+  "sourceDirName": "products/📱Web-app/pro ideas",
+  "slug": "/products/📱Web-app/pro ideas/🤖 Talk to bee colony with AI",
+  "permalink": "/about/products/📱Web-app/pro ideas/🤖 Talk to bee colony with AI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Inventory management - warehouse view",
+    "permalink": "/about/products/📱Web-app/pro ideas/📦 Inventory management - warehouse view"
+  },
+  "next": {
+    "title": "🪝 Webhooks integration",
+    "permalink": "/about/products/📱Web-app/pro ideas/🪝 Webhooks integration"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera",
+  "title": "🦀 Varroa mite detection with infra-red camera",
+  "description": "An idea coming from this research paper:",
+  "source": "@site/about/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera.md",
+  "sourceDirName": "products/🪬 Robotic Apiary/ideas",
+  "slug": "/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera",
+  "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Moving robot between hives",
+    "permalink": "/about/products/🪬 Robotic Apiary/ideas/🤖 Moving robot between hives"
+  },
+  "next": {
+    "title": "🦾 Cross-family frame movement resource balancing",
+    "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing"
+  }
+}

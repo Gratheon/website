@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro tier/ideas 💡/📅 Calendar view",
+  "title": "📅 Calendar view",
+  "description": "Calendar view (of events, treatments, alerts)",
+  "source": "@site/about/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view.md",
+  "sourceDirName": "products/📱Web-app/pro tier/ideas 💡",
+  "slug": "/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view",
+  "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👨🏻‍🚀 Multiple user support",
+    "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support"
+  },
+  "next": {
+    "title": "📅 Google-calendar integration",
+    "permalink": "/about/products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration"
+  }
+}

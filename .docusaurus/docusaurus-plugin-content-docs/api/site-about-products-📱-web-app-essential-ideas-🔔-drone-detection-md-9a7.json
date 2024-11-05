@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential ideas/🔔 Drone detection",
+  "title": "🔔 Drone detection",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/essential ideas/🔔 Drone detection.md",
+  "sourceDirName": "products/📱Web-app/essential ideas",
+  "slug": "/products/📱Web-app/essential ideas/🔔 Drone detection",
+  "permalink": "/about/products/📱Web-app/essential ideas/🔔 Drone detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔  Alerts",
+    "permalink": "/about/products/📱Web-app/essential ideas/🔔  Alerts"
+  },
+  "next": {
+    "title": "🔔 Frame analysis - spotty brood pattern detection",
+    "permalink": "/about/products/📱Web-app/essential ideas/🔔 Frame analysis - spotty brood pattern detection"
+  }
+}
