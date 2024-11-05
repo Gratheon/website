@@ -17,7 +17,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
   --ifm-code-font-size: 95%;
-  --ifm-font-size-base: 110%;
+  --ifm-font-size-base: 100%;
   --ifm-heading-line-height: 0.9;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
@@ -28,6 +28,8 @@
   --ifm-footer-padding-vertical: 0;
   --ifm-h1-font-size: 2rem;
 
+  --ifm-table-head-background: #ffd900;
+  --ifm-table-border-color: #0016ffb3;
 }
 
 .markdown h1:first-child {
@@ -279,7 +281,6 @@ aside > nav {
   table td,
   table th {
       padding: 3px 10px;
-      border: 1px solid gray;
   }
 
   /*
