@@ -1,0 +1,23 @@
+{
+  "id": "products/🧿 Robotic Beehive/features/🦾 Moveable hive bottom with varroa counting",
+  "title": "🦾 Moveable hive bottom with varroa counting",
+  "description": "The idea here is to have hive bottom painted white and have it extracted into the hive robotic area such that we could take a photo, upload it to the web-app and count detected varroa mites to help measuring Varroa infestation management",
+  "source": "@site/about/products/🧿 Robotic Beehive/features/🦾 Moveable hive bottom with varroa counting.md",
+  "sourceDirName": "products/🧿 Robotic Beehive/features",
+  "slug": "/products/🧿 Robotic Beehive/features/🦾 Moveable hive bottom with varroa counting",
+  "permalink": "/about/products/🧿 Robotic Beehive/features/🦾 Moveable hive bottom with varroa counting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛑 Mechanically reduce hive entrance in case of high wind",
+    "permalink": "/about/products/🧿 Robotic Beehive/features/🛑 Mechanically reduce hive entrance in case of high wind"
+  },
+  "next": {
+    "title": "🦾 Robotic frame reordering",
+    "permalink": "/about/products/🧿 Robotic Beehive/features/🦾 Robotic frame reordering"
+  }
+}

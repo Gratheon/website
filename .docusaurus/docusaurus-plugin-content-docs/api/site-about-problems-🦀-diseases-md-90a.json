@@ -1,0 +1,26 @@
+{
+  "id": "problems/🦀 Diseases",
+  "title": "🦀 Diseases",
+  "description": "- AFB / EFB/ sacbrood / chalkbrood",
+  "source": "@site/about/problems/🦀 Diseases.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🦀 Diseases",
+  "permalink": "/about/problems/🦀 Diseases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "external influence",
+    "priority": 60
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤢 Pesticide poisoning",
+    "permalink": "/about/problems/🤢 Pesticide poisoning"
+  },
+  "next": {
+    "title": "🦀 Infestations",
+    "permalink": "/about/problems/🦀 Infestations"
+  }
+}

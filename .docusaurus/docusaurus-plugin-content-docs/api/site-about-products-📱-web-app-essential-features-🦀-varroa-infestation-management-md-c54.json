@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/essential features/🦀 Varroa infestation management",
+  "title": "🦀 Varroa infestation management",
+  "description": "This is a parent feature of",
+  "source": "@site/about/products/📱Web-app/essential features/🦀 Varroa infestation management.md",
+  "sourceDirName": "products/📱Web-app/essential features",
+  "slug": "/products/📱Web-app/essential features/🦀 Varroa infestation management",
+  "permalink": "/about/products/📱Web-app/essential features/🦀 Varroa infestation management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Beekeeping advice with LLM",
+    "permalink": "/about/products/📱Web-app/essential features/🤖 Beekeeping advice with LLM"
+  },
+  "next": {
+    "title": "🦀 Varroa mite detection",
+    "permalink": "/about/products/📱Web-app/essential features/🦀 Varroa mite detection"
+  }
+}

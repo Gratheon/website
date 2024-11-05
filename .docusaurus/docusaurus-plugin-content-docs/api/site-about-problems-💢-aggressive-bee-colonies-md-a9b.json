@@ -1,0 +1,26 @@
+{
+  "id": "problems/💢 Aggressive bee colonies",
+  "title": "💢 Aggressive bee colonies",
+  "description": "Hard to inspect, can get stings through the suit",
+  "source": "@site/about/problems/💢 Aggressive bee colonies.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/💢 Aggressive bee colonies",
+  "permalink": "/about/problems/💢 Aggressive bee colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "beekeeping practices",
+    "priority": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💀 Intrusive inspections",
+    "permalink": "/about/problems/💀 Intrusive inspections"
+  },
+  "next": {
+    "title": "💢 Hornet attacks",
+    "permalink": "/about/problems/💢 Hornet attacks"
+  }
+}

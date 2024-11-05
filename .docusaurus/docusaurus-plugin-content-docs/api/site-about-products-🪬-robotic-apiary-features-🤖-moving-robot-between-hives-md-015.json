@@ -1,0 +1,23 @@
+{
+  "id": "products/🪬 Robotic Apiary/features/🤖 Moving robot between hives",
+  "title": "🤖 Moving robot between hives",
+  "description": "Idea that [Natalia Kinash](https://www.notion.so/Natalia-Kinash-6f77baebfee945acbe6221b0776ac498?pvs=21) and myself had. If we have a robotic hive and its fully autonomous, we could place it on wheels and have it move from one location to another a-la starship delivery bots.",
+  "source": "@site/about/products/🪬 Robotic Apiary/features/🤖 Moving robot between hives.md",
+  "sourceDirName": "products/🪬 Robotic Apiary/features",
+  "slug": "/products/🪬 Robotic Apiary/features/🤖 Moving robot between hives",
+  "permalink": "/about/products/🪬 Robotic Apiary/features/🤖 Moving robot between hives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚛 Robot moving hives between fields",
+    "permalink": "/about/products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields"
+  },
+  "next": {
+    "title": "🦀 Varroa mite detection with infra-red camera",
+    "permalink": "/about/products/🪬 Robotic Apiary/features/🦀 Varroa mite detection with infra-red camera"
+  }
+}

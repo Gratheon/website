@@ -1,0 +1,23 @@
+{
+  "id": "problems/🌻 Monocultural agriculture",
+  "title": "🌻 Monocultural agriculture",
+  "description": "- Reduces food source diversity",
+  "source": "@site/about/problems/🌻 Monocultural agriculture.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🌻 Monocultural agriculture",
+  "permalink": "/about/problems/🌻 Monocultural agriculture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌲 Distant locations",
+    "permalink": "/about/problems/🌲 Distant locations"
+  },
+  "next": {
+    "title": "🍯 Low honey yields",
+    "permalink": "/about/problems/🍯 Low honey yields"
+  }
+}

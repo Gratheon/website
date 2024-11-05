@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community features/🖼️ Frame side management",
+  "title": "🖼️ Frame side management",
+  "description": "Upload & detection",
+  "source": "@site/about/products/📱Web-app/community features/🖼️ Frame side management.md",
+  "sourceDirName": "products/📱Web-app/community features",
+  "slug": "/products/📱Web-app/community features/🖼️ Frame side management",
+  "permalink": "/about/products/📱Web-app/community features/🖼️ Frame side management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🖮 keyboard shortcuts support",
+    "permalink": "/about/products/📱Web-app/community features/🖮 keyboard shortcuts support"
+  },
+  "next": {
+    "title": "🙅 User account deletion",
+    "permalink": "/about/products/📱Web-app/community features/🙅 User account deletion"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community features/♻️ Quick frame analysis demo on frontpage",
+  "title": "♻️ Quick frame analysis demo on frontpage",
+  "description": "For ♻️Growth loops to speed-up registration, increase traction, we could have some inferencing on frontpage. User uploads frame image, receives some basic stats - bee counts.",
+  "source": "@site/about/products/📱Web-app/community features/♻️ Quick frame analysis demo on frontpage.md",
+  "sourceDirName": "products/📱Web-app/community features",
+  "slug": "/products/📱Web-app/community features/♻️ Quick frame analysis demo on frontpage",
+  "permalink": "/about/products/📱Web-app/community features/♻️ Quick frame analysis demo on frontpage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ Public beehive view",
+    "permalink": "/about/products/📱Web-app/community features/♻️ Public beehive view"
+  },
+  "next": {
+    "title": "🌍 user language + translations",
+    "permalink": "/about/products/📱Web-app/community features/🌍 user language + translations"
+  }
+}

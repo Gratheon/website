@@ -1,0 +1,6 @@
+- occurs during dearth
+- can come from wasps/hornets
+- weak colonies can be in danger
+- major source of disease or pest transmission
+- death of defending bees
+- frenzied activity (use sound, use

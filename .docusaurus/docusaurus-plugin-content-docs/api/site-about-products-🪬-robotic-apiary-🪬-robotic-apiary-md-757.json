@@ -1,0 +1,26 @@
+{
+  "id": "products/🪬 Robotic Apiary/🪬 Robotic Apiary",
+  "title": "🪬 Robotic Apiary",
+  "description": "status: idea",
+  "source": "@site/about/products/🪬 Robotic Apiary/🪬 Robotic Apiary.md",
+  "sourceDirName": "products/🪬 Robotic Apiary",
+  "slug": "/products/🪬 Robotic Apiary/",
+  "permalink": "/about/products/🪬 Robotic Apiary/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧪 Automatic acid treatment against varroa",
+    "permalink": "/about/products/🧿 Robotic Beehive/features/🧪 Automatic acid treatment against varroa"
+  },
+  "next": {
+    "title": "🚛 Robot moving hives between fields",
+    "permalink": "/about/products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields"
+  }
+}

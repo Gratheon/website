@@ -1,0 +1,26 @@
+{
+  "id": "problems/💪🏻 Physical labor",
+  "title": "💪🏻 Physical labor",
+  "description": "Lifting hive sections with honey, especially being in a suit while its hot outside",
+  "source": "@site/about/problems/💪🏻 Physical labor.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/💪🏻 Physical labor",
+  "permalink": "/about/problems/💪🏻 Physical labor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 80,
+    "class": "beekeeping practices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💢 Robbing state",
+    "permalink": "/about/problems/💢 Robbing state"
+  },
+  "next": {
+    "title": "💪🏻 Unscalable work",
+    "permalink": "/about/problems/💪🏻 Unscalable work"
+  }
+}

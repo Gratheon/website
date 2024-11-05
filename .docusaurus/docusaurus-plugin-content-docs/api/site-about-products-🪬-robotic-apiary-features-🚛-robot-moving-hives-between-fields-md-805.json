@@ -1,0 +1,23 @@
+{
+  "id": "products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields",
+  "title": "🚛 Robot moving hives between fields",
+  "description": "The problem here is that say you have 3 fields with a monocultural crop. If you place hives near it, the crops bloom ends and now your bees can’t gather anything. So you want to solve monocultural crop problems with mobile apiaries. But we don’t want to use human labour of loading and unloading hives.",
+  "source": "@site/about/products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields.md",
+  "sourceDirName": "products/🪬 Robotic Apiary/features",
+  "slug": "/products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields",
+  "permalink": "/about/products/🪬 Robotic Apiary/features/🚛 Robot moving hives between fields",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪬 Robotic Apiary",
+    "permalink": "/about/products/🪬 Robotic Apiary/"
+  },
+  "next": {
+    "title": "🤖 Moving robot between hives",
+    "permalink": "/about/products/🪬 Robotic Apiary/features/🤖 Moving robot between hives"
+  }
+}

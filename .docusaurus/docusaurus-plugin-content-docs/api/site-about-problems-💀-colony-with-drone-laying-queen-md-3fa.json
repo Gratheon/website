@@ -1,0 +1,26 @@
+{
+  "id": "problems/💀 Colony with drone-laying queen",
+  "title": "💀 Colony with drone-laying queen",
+  "description": "",
+  "source": "@site/about/problems/💀 Colony with drone-laying queen.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/💀 Colony with drone-laying queen",
+  "permalink": "/about/problems/💀 Colony with drone-laying queen",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 60,
+    "class": "internal state"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💀 Alcohol washing killing bees",
+    "permalink": "/about/problems/💀 Alcohol washing killing bees"
+  },
+  "next": {
+    "title": "💀 Colony without a queen",
+    "permalink": "/about/problems/💀 Colony without a queen"
+  }
+}

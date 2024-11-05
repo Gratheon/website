@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro features/🐜 Ant detection",
+  "title": "🐜 Ant detection",
+  "description": "Colony can fully leave the hive in case of (argentine) ant infestation, so this is an important task",
+  "source": "@site/about/products/📱Web-app/pro features/🐜 Ant detection.md",
+  "sourceDirName": "products/📱Web-app/pro features",
+  "slug": "/products/📱Web-app/pro features/🐜 Ant detection",
+  "permalink": "/about/products/📱Web-app/pro features/🐜 Ant detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎮 Device management",
+    "permalink": "/about/products/📱Web-app/pro features/🎮 Device management"
+  },
+  "next": {
+    "title": "🐝 Analytics - demography and simulation",
+    "permalink": "/about/products/📱Web-app/pro features/🐝 Analytics - demography and simulation"
+  }
+}

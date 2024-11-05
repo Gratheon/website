@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/features/🦀 Varroa mite new infestation detection from video",
+  "title": "🦀 Varroa mite new infestation detection from video",
+  "description": "This is an extension of varroa mite detection that is done from frame photos.",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/features/🦀 Varroa mite new infestation detection from video.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/features",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/features/🦀 Varroa mite new infestation detection from video",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/🦀 Varroa mite new infestation detection from video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤢 Detect pesticide exposure",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/🤢 Detect pesticide exposure"
+  },
+  "next": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/🧿 Robotic Beehive/"
+  }
+}

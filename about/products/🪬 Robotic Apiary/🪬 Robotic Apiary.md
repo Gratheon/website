@@ -8,8 +8,8 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ### Target audience
 
-- [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
-- [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md)
+- [👨🏻‍🚒 Industrial beekeepers](../../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
+- [🧑🏻‍🌾 Farmers](../../clients/🧑🏻‍🌾%20Farmers.md)
 
 ## Challenges / Requirements
 
@@ -22,7 +22,7 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 We’ll use an improvement over [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21) but have it **movable between hives**. Design is not set yet and its up for the team to decide on the architecture
 
-![](../img/18e526470a518ddea9ae6e8c8154434f.What-is-an-apiary-1024x675.webp)
+![](../../img/18e526470a518ddea9ae6e8c8154434f.What-is-an-apiary-1024x675.webp)
 
 Apiary - beehives traditionally are positioned in a line Source - [https://beeswiki.com/what-is-an-apiary/](https://beeswiki.com/what-is-an-apiary/)
 

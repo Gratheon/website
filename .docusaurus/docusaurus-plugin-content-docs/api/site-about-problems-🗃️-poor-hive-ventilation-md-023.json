@@ -1,0 +1,23 @@
+{
+  "id": "problems/🗃️ Poor hive ventilation",
+  "title": "🗃️ Poor hive ventilation",
+  "description": "Some beehives have poor ventilation. Bees during winter die because of this ❄️ Overwintering collapse",
+  "source": "@site/about/problems/🗃️ Poor hive ventilation.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🗃️ Poor hive ventilation",
+  "permalink": "/about/problems/🗃️ Poor hive ventilation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗃️ Flimsy beehives",
+    "permalink": "/about/problems/🗃️ Flimsy beehives"
+  },
+  "next": {
+    "title": "🗃️ Ugly beehives",
+    "permalink": "/about/problems/🗃️ Ugly beehives"
+  }
+}

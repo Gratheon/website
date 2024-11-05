@@ -1,0 +1,23 @@
+{
+  "id": "problems/🗃️ Flimsy beehives",
+  "title": "🗃️ Flimsy beehives",
+  "description": "Weather can have detrimental effect on the colony survival.",
+  "source": "@site/about/problems/🗃️ Flimsy beehives.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🗃️ Flimsy beehives",
+  "permalink": "/about/problems/🗃️ Flimsy beehives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Warehouse organization",
+    "permalink": "/about/problems/📦 Warehouse organization"
+  },
+  "next": {
+    "title": "🗃️ Poor hive ventilation",
+    "permalink": "/about/problems/🗃️ Poor hive ventilation"
+  }
+}

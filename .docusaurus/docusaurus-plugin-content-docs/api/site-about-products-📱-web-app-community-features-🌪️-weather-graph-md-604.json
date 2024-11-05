@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community features/🌪️ weather graph",
+  "title": "🌪️ weather graph",
+  "description": "User story",
+  "source": "@site/about/products/📱Web-app/community features/🌪️ weather graph.md",
+  "sourceDirName": "products/📱Web-app/community features",
+  "slug": "/products/📱Web-app/community features/🌪️ weather graph",
+  "permalink": "/about/products/📱Web-app/community features/🌪️ weather graph",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌍 user language + translations",
+    "permalink": "/about/products/📱Web-app/community features/🌍 user language + translations"
+  },
+  "next": {
+    "title": "🌻 list of local plants",
+    "permalink": "/about/products/📱Web-app/community features/🌻 list of local plants"
+  }
+}

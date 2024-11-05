@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors/IoT features/🔗 Smart home integration over zigbee",
+  "title": "🔗 Smart home integration over zigbee",
+  "description": "Give user an ability to see and operate a robot without Gratheon app, using",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors/IoT features/🔗 Smart home integration over zigbee.md",
+  "sourceDirName": "products/🌡️ Beehive IoT sensors/IoT features",
+  "slug": "/products/🌡️ Beehive IoT sensors/IoT features/🔗 Smart home integration over zigbee",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors/IoT features/🔗 Smart home integration over zigbee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔 Timeseries Anomaly detection",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/IoT features/🔔 Timeseries Anomaly detection"
+  },
+  "next": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/"
+  }
+}

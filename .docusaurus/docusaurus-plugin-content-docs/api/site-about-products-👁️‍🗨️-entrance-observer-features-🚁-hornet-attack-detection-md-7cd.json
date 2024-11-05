@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/features/🚁 Hornet attack detection",
+  "title": "🚁 Hornet attack detection",
+  "description": "Background",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/features/🚁 Hornet attack detection.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/features",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/features/🚁 Hornet attack detection",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/🚁 Hornet attack detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🖥️ Remote desktop",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/🖥️ Remote desktop"
+  },
+  "next": {
+    "title": "🤢 Detect pesticide exposure",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/🤢 Detect pesticide exposure"
+  }
+}

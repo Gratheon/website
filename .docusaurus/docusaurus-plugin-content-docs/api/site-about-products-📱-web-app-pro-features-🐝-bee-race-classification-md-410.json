@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro features/🐝 Bee race classification",
+  "title": "🐝 Bee race classification",
+  "description": "Problem",
+  "source": "@site/about/products/📱Web-app/pro features/🐝 Bee race classification.md",
+  "sourceDirName": "products/📱Web-app/pro features",
+  "slug": "/products/📱Web-app/pro features/🐝 Bee race classification",
+  "permalink": "/about/products/📱Web-app/pro features/🐝 Bee race classification",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Bee pose - morphometric model",
+    "permalink": "/about/products/📱Web-app/pro features/🐝 Bee pose - morphometric model"
+  },
+  "next": {
+    "title": "🐝 Wax moth detection",
+    "permalink": "/about/products/📱Web-app/pro features/🐝 Wax moth detection"
+  }
+}

@@ -41,28 +41,8 @@ Main flow is to:
 <!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/🧿 Robotic Beehive/", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/about/products/🧿 Robotic Beehive/ideas" WHERE file.name != "index" -->
 <!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/🧿 Robotic Beehive/", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/about/products/🧿 Robotic Beehive/ideas" WHERE file.name != "index" -->
 
-| title                                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [📸 Real-time frame scanning](ideas/📸%20Real-time%20frame%20scanning.md)                                                                                   |
-| [🛑 Close mechanized hive entrance in case of hornet attack](ideas/🛑%20Close%20mechanized%20hive%20entrance%20in%20case%20of%20hornet%20attack.md)         |
-| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
-| [🛑 Mechanically reduce hive entrance in case of high wind](ideas/🛑%20Mechanically%20reduce%20hive%20entrance%20in%20case%20of%20high%20wind.md)           |
-| [🦾 Robotic frame reordering](ideas/🦾%20Robotic%20frame%20reordering.md)                                                                                   |
-| [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
-| [🦾 Moveable hive bottom with varroa counting](ideas/🦾%20Moveable%20hive%20bottom%20with%20varroa%20counting.md)                                           |
-| [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
-| [🎙️ 6-channel audio monitoring](ideas/🎙️%206-channel%20audio%20monitoring.md)                                                                             |
-| [🚁 Ventilation control](ideas/🚁%20Ventilation%20control.md)                                                                                               |
-| [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |
-| [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
-| [🧪 Automatic acid treatment against varroa](ideas/🧪%20Automatic%20acid%20treatment%20against%20varroa.md)                                                 |
-| [🍭 Automatic sugar syrup feeder](ideas/🍭%20Automatic%20sugar%20syrup%20feeder.md)                                                                         |
-| [📸 Full hive inspection](ideas/📸%20Full%20hive%20inspection.md)                                                                                           |
-| [🦾 Robotic insertion of new frames](ideas/🦾%20Robotic%20insertion%20of%20new%20frames.md)                                                                 |
-| [🦾Robotic frame isolation & extraction](ideas/🦾Robotic%20frame%20isolation%20&%20extraction.md)                                                           |
-| [🎮 Client-side app with UI in manual override mode](ideas/🎮%20Client-side%20app%20with%20UI%20in%20manual%20override%20mode.md)                           |
-| [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
-| [🔌 Energy autonomy](ideas/🔌%20Energy%20autonomy.md)                                                                                                       |
+| title |
+| ----- |
 <!-- SerializedQuery END -->
 
 ## Non-functional requirements

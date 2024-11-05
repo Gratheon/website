@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors/IoT features/📈 Telemetry API",
+  "title": "📈 Telemetry API",
+  "description": "Why this is needed",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors/IoT features/📈 Telemetry API.md",
+  "sourceDirName": "products/🌡️ Beehive IoT sensors/IoT features",
+  "slug": "/products/🌡️ Beehive IoT sensors/IoT features/📈 Telemetry API",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors/IoT features/📈 Telemetry API",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 MQTT integration with nodered",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/IoT features/📈 MQTT integration with nodered"
+  },
+  "next": {
+    "title": "📡 Connectivity over LoRa",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/IoT features/📡 Connectivity over LoRa"
+  }
+}

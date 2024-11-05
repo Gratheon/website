@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/features/📈 Count bees coming in",
+  "title": "📈 Count bees coming in",
+  "description": "",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/features/📈 Count bees coming in.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/features",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/features/📈 Count bees coming in",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/features/📈 Count bees coming in",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/"
+  },
+  "next": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/🧿 Robotic Beehive/"
+  }
+}
