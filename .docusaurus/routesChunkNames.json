@@ -377,17 +377,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-a12": {
+  "/about-09d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-28f": {
+  "/about-7a7": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-ac8": {
+  "/about-9fe": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -710,9 +710,69 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-548-6ee"
   },
-  "/about/products/🌡️ Beehive IoT sensors-d57": {
+  "/about/products/🌡️ Beehive IoT sensors/-361": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-🌡️-beehive-io-t-sensors-702-b90"
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-024-3f2"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring-608": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-⚖️-weight-monitoringf-23-902"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure-d97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🌩️-measure-atmospheric-pressuredd-7-a28"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer-96d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🌪️-wind-speed-measurement-anemometer-418-40c"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX-1b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🎮-connecting-sensors-to-web-app-u-xb-1-d-6db"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection-413": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🐻-tampering-detection-1-f-7-d3f"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring-7dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-💧-humidity-monitoring-021-5a3"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring-e8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-💨-co-2-monitoringc-65-503"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution-28c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-💨-measure-pm-2-pollutiona-97-0fa"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana-cfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-📈-analytics-with-grafana-9-f-2-df9"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration-53b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-📈-beep-nl-weight-telemetry-integration-934-21d"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered-4ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-📈-mqtt-integration-with-nodered-250-3ad"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API-447": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-📈-telemetry-api-6-e-6-3f9"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa-4d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-📡-connectivity-over-lo-rad-86-cc9"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection-3a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🔔-timeseries-anomaly-detection-6-f-8-69c"
+  },
+  "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee-2dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🌡️-beehive-io-t-sensors-ideas-🔗-smart-home-integration-over-zigbeecbe-45f"
   },
   "/about/products/👁️‍🗨️ Entrance Observer-88f": {
     "__comp": "__comp---theme-doc-item-178-a40",

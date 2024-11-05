@@ -595,8 +595,83 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🌡️ Beehive IoT sensors",
-              "path": "/about/products/🌡️ Beehive IoT sensors",
+              "id": "products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors",
+              "path": "/about/products/🌡️ Beehive IoT sensors/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
               "sidebar": "tutorialSidebar"
             },
             {

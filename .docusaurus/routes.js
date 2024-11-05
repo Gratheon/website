@@ -169,15 +169,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'a12'),
+    component: ComponentCreator('/about', '09d'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '28f'),
+        component: ComponentCreator('/about', '7a7'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'ac8'),
+            component: ComponentCreator('/about', '9fe'),
             routes: [
               {
                 path: '/about/',
@@ -660,8 +660,98 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🌡️ Beehive IoT sensors',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors', 'd57'),
+                path: '/about/products/🌡️ Beehive IoT sensors/',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/', '361'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring', '608'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure', 'd97'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer', '96d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX', '1b1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection', '413'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring', '7dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring', 'e8f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution', '28c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana', 'cfa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration', '53b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered', '4ed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API', '447'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa', '4d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection', '3a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee', '2dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

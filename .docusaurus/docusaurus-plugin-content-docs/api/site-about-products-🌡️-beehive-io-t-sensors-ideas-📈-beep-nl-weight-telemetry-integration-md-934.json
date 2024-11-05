@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration",
+  "title": "📈 Beep.nl weight telemetry integration",
+  "description": "Beep.nl weight telemetry integration",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration.md",
+  "sourceDirName": "products/🌡️ Beehive IoT sensors/ideas",
+  "slug": "/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Analytics with grafana",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana"
+  },
+  "next": {
+    "title": "📈 MQTT integration with nodered",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered"
+  }
+}

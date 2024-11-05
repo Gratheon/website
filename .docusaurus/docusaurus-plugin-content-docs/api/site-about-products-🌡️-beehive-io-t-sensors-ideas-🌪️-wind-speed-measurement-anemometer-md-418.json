@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+  "title": "🌪️ Wind speed measurement - Anemometer",
+  "description": "Measure speed of wind at individual hive to know wind speed affecting bees flying patterns, example - https://www.aliexpress.com/item/1005003040267066.html",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer.md",
+  "sourceDirName": "products/🌡️ Beehive IoT sensors/ideas",
+  "slug": "/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌩️ Measure atmospheric pressure",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure"
+  },
+  "next": {
+    "title": "🎮 Connecting sensors to web-app UX",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+  "title": "🔔 Timeseries Anomaly detection",
+  "description": "Why",
+  "source": "@site/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection.md",
+  "sourceDirName": "products/🌡️ Beehive IoT sensors/ideas",
+  "slug": "/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+  "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📡 Connectivity over LoRa",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa"
+  },
+  "next": {
+    "title": "🔗 Smart home integration over zigbee",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee"
+  }
+}

@@ -16,14 +16,14 @@ See which features are planned in which plan in [💡Ideas and Features](https:
 ## Professional plan calculation logic
 - **10** EUR per user per month
 - 5 EUR per beehive in web-app
-- 5 EUR per [🌡️ Beehive IoT sensors](🌡️%20Beehive%20IoT%20sensors.md)
+- 5 EUR per [🌡️ Beehive IoT sensors](🌡️%20Beehive%20IoT%20sensors/🌡️%20Beehive%20IoT%20sensors.md)
 - 20 EUR per  [👁️‍🗨️ Entrance Observer](👁️‍🗨️%20Entrance%20Observer.md)
 - 50 EUR per  [🧿 Robotic Beehive](🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)
 - 100 EUR per [🪬 Robotic Apiary](🪬%20Robotic%20Apiary.md)
   
 ## Prices for hardware products
 
-|                                          | [🌡️ Beehive IoT sensors](🌡️%20Beehive%20IoT%20sensors.md) | [👁️‍🗨️ Entrance Observer](👁️‍🗨️%20Entrance%20Observer.md) | [🧿 Robotic Beehive](🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) | [🪬 Robotic Apiary](🪬%20Robotic%20Apiary.md)        |
+|                                          | [🌡️ Beehive IoT sensors](🌡️%20Beehive%20IoT%20sensors/🌡️%20Beehive%20IoT%20sensors.md) | [👁️‍🗨️ Entrance Observer](👁️‍🗨️%20Entrance%20Observer.md) | [🧿 Robotic Beehive](🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) | [🪬 Robotic Apiary](🪬%20Robotic%20Apiary.md)        |
 | ---------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------- |
 | Purchase retail price  <br />(estimated) | 100 EUR                                                     | 600 EUR - 1 hive  <br />1200 EUR - 4 hives                    | ~ 3000 EUR                                                             | ~ 10 beehives (arranged in a line)  <br />~ 7000 EUR |
 | Rent  <br />(annual billing)             |                                                             | + 100 EUR / month                                             | + 150 EUR / month                                                      | + 250 EUR / month                                    |
