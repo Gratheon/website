@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 `status: proof-of-concept, 20% complete`
 
-To compliment [👁️‍🗨️ Entrance Observer](../👁️‍🗨️%20Entrance%20Observer/👁️‍🗨️%20Entrance%20Observer.md) and [🧿 Robotic Beehive](🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) , we need a way to send Telemetry API data to the [📱Web-app](📱Web-app/📱Web-app.md) from low-power IoT devices.
+To compliment [👁️‍🗨️ Entrance Observer](../👁️‍🗨️%20Entrance%20Observer/👁️‍🗨️%20Entrance%20Observer.md) and [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) , we need a way to send Telemetry API data to the [📱Web-app](../📱Web-app/📱Web-app.md) from low-power IoT devices.
 
 As there are lots of sensors that send read-only data, it does not make sense to bundle this logic with Robotic Beehive which should focus on controlling (moving) physical frames.
 
