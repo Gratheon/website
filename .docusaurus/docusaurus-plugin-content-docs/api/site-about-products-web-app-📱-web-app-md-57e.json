@@ -1,0 +1,27 @@
+{
+  "id": "products/web-app/📱Web-app",
+  "title": "📱Web-app",
+  "description": "status: minimum viable product, 60% complete",
+  "source": "@site/about/products/web-app/📱Web-app.md",
+  "sourceDirName": "products/web-app",
+  "slug": "/products/web-app/📱Web-app",
+  "permalink": "/about/products/web-app/📱Web-app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "📱Web-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
+  },
+  "next": {
+    "title": "♻️ Apiary position sharing",
+    "permalink": "/about/products/web-app/community-tier/♻️ Apiary position sharing"
+  }
+}

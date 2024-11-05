@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro-tier/🐝 Wax moth detection",
+  "title": "🐝 Wax moth detection",
+  "description": "Wax moths typically take over very weak colonies or stored bee frames. So this is a low-priority detection",
+  "source": "@site/about/products/📱Web-app/pro-tier/🐝 Wax moth detection.md",
+  "sourceDirName": "products/📱Web-app/pro-tier",
+  "slug": "/products/📱Web-app/pro-tier/🐝 Wax moth detection",
+  "permalink": "/about/products/📱Web-app/pro-tier/🐝 Wax moth detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Bee race classification",
+    "permalink": "/about/products/📱Web-app/pro-tier/🐝 Bee race classification"
+  },
+  "next": {
+    "title": "👨🏻‍🚀 Multiple user support",
+    "permalink": "/about/products/📱Web-app/pro-tier/👨🏻‍🚀 Multiple user support"
+  }
+}

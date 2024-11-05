@@ -335,13 +335,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Roles/Response templates/index",
-              "path": "/about/company/Roles/Response templates/",
+              "id": "company/Roles/Response templates/ML engineer role",
+              "path": "/about/company/Roles/Response templates/ML engineer role",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Roles/Response templates/ML engineer role",
-              "path": "/about/company/Roles/Response templates/ML engineer role",
+              "id": "company/Roles/Response templates/Response templates",
+              "path": "/about/company/Roles/Response templates/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -605,6 +605,381 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/📱Web-app/📱Web-app",
+              "path": "/about/products/📱Web-app/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/♻️ Apiary position sharing",
+              "path": "/about/products/📱Web-app/community-tier/♻️ Apiary position sharing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/♻️ Public beehive view",
+              "path": "/about/products/📱Web-app/community-tier/♻️ Public beehive view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
+              "path": "/about/products/📱Web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🌍 user language + translations",
+              "path": "/about/products/📱Web-app/community-tier/🌍 user language + translations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🌪️ weather graph",
+              "path": "/about/products/📱Web-app/community-tier/🌪️ weather graph",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🌻 list of local plants",
+              "path": "/about/products/📱Web-app/community-tier/🌻 list of local plants",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🎒 Product onboarding videos & UI",
+              "path": "/about/products/📱Web-app/community-tier/🎒 Product onboarding videos & UI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🐝 Frame analysis - bee counter",
+              "path": "/about/products/📱Web-app/community-tier/🐝 Frame analysis - bee counter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🐝 Frame side queen cup detection",
+              "path": "/about/products/📱Web-app/community-tier/🐝 Frame side queen cup detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management",
+              "path": "/about/products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🐝 Worker bee detection",
+              "path": "/about/products/📱Web-app/community-tier/🐝 Worker bee detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/👑 Queen detection",
+              "path": "/about/products/📱Web-app/community-tier/👑 Queen detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/👑 Queen management",
+              "path": "/about/products/📱Web-app/community-tier/👑 Queen management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/💶 Billing subscription",
+              "path": "/about/products/📱Web-app/community-tier/💶 Billing subscription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📍 Show close-by beekeepers from government registry",
+              "path": "/about/products/📱Web-app/community-tier/📍 Show close-by beekeepers from government registry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📦 Apiary management",
+              "path": "/about/products/📱Web-app/community-tier/📦 Apiary management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📦 Hive management",
+              "path": "/about/products/📱Web-app/community-tier/📦 Hive management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📦 Hive section management",
+              "path": "/about/products/📱Web-app/community-tier/📦 Hive section management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📱 mobile app",
+              "path": "/about/products/📱Web-app/community-tier/📱 mobile app",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/📸 Frame side photo upload",
+              "path": "/about/products/📱Web-app/community-tier/📸 Frame side photo upload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🔐 API token management",
+              "path": "/about/products/📱Web-app/community-tier/🔐 API token management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🖮 keyboard shortcuts support",
+              "path": "/about/products/📱Web-app/community-tier/🖮 keyboard shortcuts support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🖼️ Frame side management",
+              "path": "/about/products/📱Web-app/community-tier/🖼️ Frame side management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🧑‍🚀 User editing",
+              "path": "/about/products/📱Web-app/community-tier/🧑‍🚀 User editing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🧑‍🚀 User email verification and change",
+              "path": "/about/products/📱Web-app/community-tier/🧑‍🚀 User email verification and change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🧑‍🚀 User login",
+              "path": "/about/products/📱Web-app/community-tier/🧑‍🚀 User login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🧑‍🚀 User password change",
+              "path": "/about/products/📱Web-app/community-tier/🧑‍🚀 User password change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🧑‍🚀 User registration + password restoration",
+              "path": "/about/products/📱Web-app/community-tier/🧑‍🚀 User registration + password restoration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/community-tier/🙅 User account deletion",
+              "path": "/about/products/📱Web-app/community-tier/🙅 User account deletion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/☀️ Solar radiance as weather datasource",
+              "path": "/about/products/📱Web-app/essential-tier/☀️ Solar radiance as weather datasource",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/♻️ QR-code printing & scanning",
+              "path": "/about/products/📱Web-app/essential-tier/♻️ QR-code printing & scanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/♻️ Share of beehive inspection public URL",
+              "path": "/about/products/📱Web-app/essential-tier/♻️ Share of beehive inspection public URL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/✏️ Drawing on canvas",
+              "path": "/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🌪️ Weather alerts",
+              "path": "/about/products/📱Web-app/essential-tier/🌪️ Weather alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🌻 Flower blooming map",
+              "path": "/about/products/📱Web-app/essential-tier/🌻 Flower blooming map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🍭 Feeding management",
+              "path": "/about/products/📱Web-app/essential-tier/🍭 Feeding management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🐝 Drone brood detection",
+              "path": "/about/products/📱Web-app/essential-tier/🐝 Drone brood detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🐝 Frame analysis - chilled brood",
+              "path": "/about/products/📱Web-app/essential-tier/🐝 Frame analysis - chilled brood",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🐝 Laying workers cell detection",
+              "path": "/about/products/📱Web-app/essential-tier/🐝 Laying workers cell detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/📡 Offline mode",
+              "path": "/about/products/📱Web-app/essential-tier/📡 Offline mode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/📦 Manual inspections - Bulk file upload",
+              "path": "/about/products/📱Web-app/essential-tier/📦 Manual inspections - Bulk file upload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🔎 Inspection management",
+              "path": "/about/products/📱Web-app/essential-tier/🔎 Inspection management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🔔  Alerts",
+              "path": "/about/products/📱Web-app/essential-tier/🔔  Alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🔔 Drone detection",
+              "path": "/about/products/📱Web-app/essential-tier/🔔 Drone detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
+              "path": "/about/products/📱Web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
+              "path": "/about/products/📱Web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🤖 Beekeeping advice with LLM",
+              "path": "/about/products/📱Web-app/essential-tier/🤖 Beekeeping advice with LLM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🦀 Varroa infestation management",
+              "path": "/about/products/📱Web-app/essential-tier/🦀 Varroa infestation management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🦀 Varroa mite detection",
+              "path": "/about/products/📱Web-app/essential-tier/🦀 Varroa mite detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/essential-tier/🛰️ Apiary satellite view",
+              "path": "/about/products/📱Web-app/essential-tier/🛰️ Apiary satellite view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/↔️ Create colony split",
+              "path": "/about/products/📱Web-app/pro-tier/↔️ Create colony split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/♻️ Hive ownership transfer",
+              "path": "/about/products/📱Web-app/pro-tier/♻️ Hive ownership transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/⚖️ Colony comparison",
+              "path": "/about/products/📱Web-app/pro-tier/⚖️ Colony comparison",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🌎 Map view",
+              "path": "/about/products/📱Web-app/pro-tier/🌎 Map view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+              "path": "/about/products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
+              "path": "/about/products/📱Web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🎮 Device management",
+              "path": "/about/products/📱Web-app/pro-tier/🎮 Device management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐜 Ant detection",
+              "path": "/about/products/📱Web-app/pro-tier/🐜 Ant detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐝 Analytics - demography and simulation",
+              "path": "/about/products/📱Web-app/pro-tier/🐝 Analytics - demography and simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐝 Bee age classification",
+              "path": "/about/products/📱Web-app/pro-tier/🐝 Bee age classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐝 Bee pose - morphometric model",
+              "path": "/about/products/📱Web-app/pro-tier/🐝 Bee pose - morphometric model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐝 Bee race classification",
+              "path": "/about/products/📱Web-app/pro-tier/🐝 Bee race classification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🐝 Wax moth detection",
+              "path": "/about/products/📱Web-app/pro-tier/🐝 Wax moth detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+              "path": "/about/products/📱Web-app/pro-tier/👨🏻‍🚀 Multiple user support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/📅 Calendar view",
+              "path": "/about/products/📱Web-app/pro-tier/📅 Calendar view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/📅 Google-calendar integration",
+              "path": "/about/products/📱Web-app/pro-tier/📅 Google-calendar integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/📅 Varroa Treatment diary",
+              "path": "/about/products/📱Web-app/pro-tier/📅 Varroa Treatment diary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/📦 Harvest hive frames and sections",
+              "path": "/about/products/📱Web-app/pro-tier/📦 Harvest hive frames and sections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/📦 Inventory management - warehouse view",
+              "path": "/about/products/📱Web-app/pro-tier/📦 Inventory management - warehouse view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🤖 Talk to bee colony with AI",
+              "path": "/about/products/📱Web-app/pro-tier/🤖 Talk to bee colony with AI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🪝 Webhooks integration",
+              "path": "/about/products/📱Web-app/pro-tier/🪝 Webhooks integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🪲 Hive beetle detection",
+              "path": "/about/products/📱Web-app/pro-tier/🪲 Hive beetle detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🫶🏻 Multiple colony unification",
+              "path": "/about/products/📱Web-app/pro-tier/🫶🏻 Multiple colony unification",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/📱Web-app/pro-tier/🛰️ SkyFi integration",
+              "path": "/about/products/📱Web-app/pro-tier/🛰️ SkyFi integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/🧿 Robotic Beehive/🧿 Robotic Beehive",
               "path": "/about/products/🧿 Robotic Beehive/",
               "sidebar": "tutorialSidebar"
@@ -722,381 +1097,6 @@
             {
               "id": "products/prices",
               "path": "/about/products/prices",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/♻️ Apiary position sharing",
-              "path": "/about/products/web-app/community-tier/♻️ Apiary position sharing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/♻️ Public beehive view",
-              "path": "/about/products/web-app/community-tier/♻️ Public beehive view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
-              "path": "/about/products/web-app/community-tier/♻️ Quick frame analysis demo on frontpage",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🌍 user language + translations",
-              "path": "/about/products/web-app/community-tier/🌍 user language + translations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🌪️ weather graph",
-              "path": "/about/products/web-app/community-tier/🌪️ weather graph",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🌻 list of local plants",
-              "path": "/about/products/web-app/community-tier/🌻 list of local plants",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🎒 Product onboarding videos & UI",
-              "path": "/about/products/web-app/community-tier/🎒 Product onboarding videos & UI",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🐝 Frame analysis - bee counter",
-              "path": "/about/products/web-app/community-tier/🐝 Frame analysis - bee counter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🐝 Frame side queen cup detection",
-              "path": "/about/products/web-app/community-tier/🐝 Frame side queen cup detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🐝 Honeycomb cell detection & management",
-              "path": "/about/products/web-app/community-tier/🐝 Honeycomb cell detection & management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🐝 Worker bee detection",
-              "path": "/about/products/web-app/community-tier/🐝 Worker bee detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/👑 Queen detection",
-              "path": "/about/products/web-app/community-tier/👑 Queen detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/👑 Queen management",
-              "path": "/about/products/web-app/community-tier/👑 Queen management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/💶 Billing subscription",
-              "path": "/about/products/web-app/community-tier/💶 Billing subscription",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📍 Show close-by beekeepers from government registry",
-              "path": "/about/products/web-app/community-tier/📍 Show close-by beekeepers from government registry",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📦 Apiary management",
-              "path": "/about/products/web-app/community-tier/📦 Apiary management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📦 Hive management",
-              "path": "/about/products/web-app/community-tier/📦 Hive management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📦 Hive section management",
-              "path": "/about/products/web-app/community-tier/📦 Hive section management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📱 mobile app",
-              "path": "/about/products/web-app/community-tier/📱 mobile app",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/📸 Frame side photo upload",
-              "path": "/about/products/web-app/community-tier/📸 Frame side photo upload",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🔐 API token management",
-              "path": "/about/products/web-app/community-tier/🔐 API token management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🖮 keyboard shortcuts support",
-              "path": "/about/products/web-app/community-tier/🖮 keyboard shortcuts support",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🖼️ Frame side management",
-              "path": "/about/products/web-app/community-tier/🖼️ Frame side management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🧑‍🚀 User editing",
-              "path": "/about/products/web-app/community-tier/🧑‍🚀 User editing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🧑‍🚀 User email verification and change",
-              "path": "/about/products/web-app/community-tier/🧑‍🚀 User email verification and change",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🧑‍🚀 User login",
-              "path": "/about/products/web-app/community-tier/🧑‍🚀 User login",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🧑‍🚀 User password change",
-              "path": "/about/products/web-app/community-tier/🧑‍🚀 User password change",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🧑‍🚀 User registration + password restoration",
-              "path": "/about/products/web-app/community-tier/🧑‍🚀 User registration + password restoration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/community-tier/🙅 User account deletion",
-              "path": "/about/products/web-app/community-tier/🙅 User account deletion",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/☀️ Solar radiance as weather datasource",
-              "path": "/about/products/web-app/essential-tier/☀️ Solar radiance as weather datasource",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/♻️ QR-code printing & scanning",
-              "path": "/about/products/web-app/essential-tier/♻️ QR-code printing & scanning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/♻️ Share of beehive inspection public URL",
-              "path": "/about/products/web-app/essential-tier/♻️ Share of beehive inspection public URL",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/✏️ Drawing on canvas",
-              "path": "/about/products/web-app/essential-tier/✏️ Drawing on canvas",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🌪️ Weather alerts",
-              "path": "/about/products/web-app/essential-tier/🌪️ Weather alerts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🌻 Flower blooming map",
-              "path": "/about/products/web-app/essential-tier/🌻 Flower blooming map",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🍭 Feeding management",
-              "path": "/about/products/web-app/essential-tier/🍭 Feeding management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🐝 Drone brood detection",
-              "path": "/about/products/web-app/essential-tier/🐝 Drone brood detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🐝 Frame analysis - chilled brood",
-              "path": "/about/products/web-app/essential-tier/🐝 Frame analysis - chilled brood",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🐝 Laying workers cell detection",
-              "path": "/about/products/web-app/essential-tier/🐝 Laying workers cell detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/📡 Offline mode",
-              "path": "/about/products/web-app/essential-tier/📡 Offline mode",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/📦 Manual inspections - Bulk file upload",
-              "path": "/about/products/web-app/essential-tier/📦 Manual inspections - Bulk file upload",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🔎 Inspection management",
-              "path": "/about/products/web-app/essential-tier/🔎 Inspection management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🔔  Alerts",
-              "path": "/about/products/web-app/essential-tier/🔔  Alerts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🔔 Drone detection",
-              "path": "/about/products/web-app/essential-tier/🔔 Drone detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
-              "path": "/about/products/web-app/essential-tier/🔔 Frame analysis - spotty brood pattern detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
-              "path": "/about/products/web-app/essential-tier/🔔 Frame analysis - starvation detection and alert",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🤖 Beekeeping advice with LLM",
-              "path": "/about/products/web-app/essential-tier/🤖 Beekeeping advice with LLM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🦀 Varroa infestation management",
-              "path": "/about/products/web-app/essential-tier/🦀 Varroa infestation management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🦀 Varroa mite detection",
-              "path": "/about/products/web-app/essential-tier/🦀 Varroa mite detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/essential-tier/🛰️ Apiary satellite view",
-              "path": "/about/products/web-app/essential-tier/🛰️ Apiary satellite view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/index",
-              "path": "/about/products/web-app/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/↔️ Create colony split",
-              "path": "/about/products/web-app/pro-tier/↔️ Create colony split",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/♻️ Hive ownership transfer",
-              "path": "/about/products/web-app/pro-tier/♻️ Hive ownership transfer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/⚖️ Colony comparison",
-              "path": "/about/products/web-app/pro-tier/⚖️ Colony comparison",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🌎 Map view",
-              "path": "/about/products/web-app/pro-tier/🌎 Map view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
-              "path": "/about/products/web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
-              "path": "/about/products/web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🎮 Device management",
-              "path": "/about/products/web-app/pro-tier/🎮 Device management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐜 Ant detection",
-              "path": "/about/products/web-app/pro-tier/🐜 Ant detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐝 Analytics - demography and simulation",
-              "path": "/about/products/web-app/pro-tier/🐝 Analytics - demography and simulation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐝 Bee age classification",
-              "path": "/about/products/web-app/pro-tier/🐝 Bee age classification",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐝 Bee pose - morphometric model",
-              "path": "/about/products/web-app/pro-tier/🐝 Bee pose - morphometric model",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐝 Bee race classification",
-              "path": "/about/products/web-app/pro-tier/🐝 Bee race classification",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🐝 Wax moth detection",
-              "path": "/about/products/web-app/pro-tier/🐝 Wax moth detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
-              "path": "/about/products/web-app/pro-tier/👨🏻‍🚀 Multiple user support",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/📅 Calendar view",
-              "path": "/about/products/web-app/pro-tier/📅 Calendar view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/📅 Google-calendar integration",
-              "path": "/about/products/web-app/pro-tier/📅 Google-calendar integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/📅 Varroa Treatment diary",
-              "path": "/about/products/web-app/pro-tier/📅 Varroa Treatment diary",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/📦 Harvest hive frames and sections",
-              "path": "/about/products/web-app/pro-tier/📦 Harvest hive frames and sections",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/📦 Inventory management - warehouse view",
-              "path": "/about/products/web-app/pro-tier/📦 Inventory management - warehouse view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🤖 Talk to bee colony with AI",
-              "path": "/about/products/web-app/pro-tier/🤖 Talk to bee colony with AI",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🪝 Webhooks integration",
-              "path": "/about/products/web-app/pro-tier/🪝 Webhooks integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🪲 Hive beetle detection",
-              "path": "/about/products/web-app/pro-tier/🪲 Hive beetle detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🫶🏻 Multiple colony unification",
-              "path": "/about/products/web-app/pro-tier/🫶🏻 Multiple colony unification",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web-app/pro-tier/🛰️ SkyFi integration",
-              "path": "/about/products/web-app/pro-tier/🛰️ SkyFi integration",
               "sidebar": "tutorialSidebar"
             },
             {

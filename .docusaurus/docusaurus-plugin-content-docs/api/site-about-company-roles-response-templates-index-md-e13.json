@@ -1,6 +1,6 @@
 {
   "id": "company/Roles/Response templates/index",
-  "title": "index",
+  "title": "Response templates",
   "description": "If you’re reading this and thinking “what, a template? generic answers?”, then yes.",
   "source": "@site/about/company/Roles/Response templates/index.md",
   "sourceDirName": "company/Roles/Response templates",
@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Response templates"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ML engineer 🧠",

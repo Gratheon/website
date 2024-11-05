@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+  "title": "🌞 Apiary top-down view of  relative to the sun",
+  "description": "Very related to Apiary satellite view, here we care about beehive placement relative to the sun and shade",
+  "source": "@site/about/products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun.md",
+  "sourceDirName": "products/📱Web-app/pro-tier",
+  "slug": "/products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+  "permalink": "/about/products/📱Web-app/pro-tier/🌞 Apiary top-down view of  relative to the sun",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌎 Map view",
+    "permalink": "/about/products/📱Web-app/pro-tier/🌎 Map view"
+  },
+  "next": {
+    "title": "🌻 Pollination optimization with hive placement recommendation",
+    "permalink": "/about/products/📱Web-app/pro-tier/🌻 Pollination optimization with hive placement recommendation"
+  }
+}
