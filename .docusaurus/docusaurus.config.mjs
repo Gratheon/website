@@ -36,6 +36,9 @@ export default {
   "themes": [
     "@docusaurus/theme-mermaid"
   ],
+  "clientModules": [
+    "/Users/artjom/mind-v3/gratheon.com/_clarity.ts"
+  ],
   "presets": [
     [
       "classic",
@@ -428,13 +431,6 @@ export default {
         }
       ]
     },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
-    },
     "docs": {
       "versionPersistence": "localStorage",
       "sidebar": {
@@ -446,6 +442,13 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
+    },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
     }
   },
   "plugins": [
@@ -485,7 +488,6 @@ export default {
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
-  "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false
 };

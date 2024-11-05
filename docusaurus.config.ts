@@ -33,7 +33,11 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-  
+
+  clientModules: [
+    require.resolve('./_clarity.ts'),
+  ],
+
   presets: [
 
     [
