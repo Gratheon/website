@@ -27,7 +27,7 @@ Recomendation on logo usage
 
 
 
-![](../../src/img/logo-v7w.png)
+![](img/logo-png-high-res.png)
 (PNG version, with white outline)
 
 ## Brand meanings and association matrix
