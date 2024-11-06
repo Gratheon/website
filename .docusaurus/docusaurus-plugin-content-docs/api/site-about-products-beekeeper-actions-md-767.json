@@ -1,0 +1,23 @@
+{
+  "id": "products/Beekeeper actions",
+  "title": "Beekeeper actions",
+  "description": "To better understand beekeeping in practice, here we list what decisions and actions a beekeeper can do to solve some of the problems.",
+  "source": "@site/about/products/Beekeeper actions.md",
+  "sourceDirName": "products",
+  "slug": "/products/Beekeeper actions",
+  "permalink": "/about/products/Beekeeper actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦾 Cross-family frame movement resource balancing",
+    "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing"
+  },
+  "next": {
+    "title": "⚖️ Pricing",
+    "permalink": "/about/products/prices"
+  }
+}

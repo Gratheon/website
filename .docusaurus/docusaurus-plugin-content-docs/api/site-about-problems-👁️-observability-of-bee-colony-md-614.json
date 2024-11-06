@@ -1,7 +1,7 @@
 {
   "id": "problems/👁️ Observability of bee colony",
   "title": "👁️ Observability of bee colony",
-  "description": "Hard to make decisions without up-to-date and correct information about the colony development. Decisions can be about splitting the hive, treating against varroa mites, closing the hive entrance for defence, adding a new queen, adding or removing frames with brood or honey/polle",
+  "description": "Probably the biggest problem for the beekeeper is that it is hard to make decisions without up-to-date and correct information about the colony development.  See 🧑‍🚀 Actions beekeepers make",
   "source": "@site/about/problems/👁️ Observability of bee colony.md",
   "sourceDirName": "problems",
   "slug": "/problems/👁️ Observability of bee colony",
@@ -22,7 +22,7 @@
     "permalink": "/about/problems/"
   },
   "next": {
-    "title": "🌻 Insufficient pollination",
-    "permalink": "/about/problems/🌻 Insufficient pollination"
+    "title": "🌻 Precise pollination",
+    "permalink": "/about/problems/🌻 Precise pollination"
   }
 }

@@ -450,23 +450,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "problems/🌻 Insufficient pollination",
-              "path": "/about/problems/🌻 Insufficient pollination",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "problems/🌻 Monocultural agriculture",
               "path": "/about/problems/🌻 Monocultural agriculture",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "problems/🍯 Low honey yields",
-              "path": "/about/problems/🍯 Low honey yields",
+              "id": "problems/🌻 Precise pollination",
+              "path": "/about/problems/🌻 Precise pollination",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "problems/🍽️ Colony starvation",
-              "path": "/about/problems/🍽️ Colony starvation",
+              "id": "problems/🍽️ Bee colony starvation",
+              "path": "/about/problems/🍽️ Bee colony starvation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1130,13 +1125,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification",
-              "path": "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification",
+              "id": "products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
+              "path": "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration",
               "path": "/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧑‍🚀 Actions beekeepers make",
+              "path": "/about/products/🧑‍🚀 Actions beekeepers make",
               "sidebar": "tutorialSidebar"
             },
             {

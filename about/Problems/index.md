@@ -9,9 +9,9 @@ sidebar_position: 2
 
 > 💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
 
-Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [🌻 Insufficient pollination](🌻%20Insufficient%20pollination.md) and increase yields  
+Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [🌻 Precise pollination](🌻%20Precise%20pollination.md) and increase yields  
    
-But traditional beekeeping requires [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md), because bees can experience [🍽️ Colony starvation](🍽️%20Colony%20starvation.md) , [💀 Colony without a queen](💀%20Colony%20without%20a%20queen.md), [🧶 Swarming](🧶%20Swarming.md), [🦀 Infestations](🦀%20Infestations.md) and [🦀 Diseases](🦀%20Diseases.md) which weaken the colony and cause [❄️ Overwintering collapse](❄️%20Overwintering%20collapse.md).  
+But traditional beekeeping requires [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md), because bees can experience [🍽️ Bee colony starvation](🍽️%20Bee%20colony%20starvation.md) , [💀 Colony without a queen](💀%20Colony%20without%20a%20queen.md), [🧶 Swarming](🧶%20Swarming.md), [🦀 Infestations](🦀%20Infestations.md) and [🦀 Diseases](🦀%20Diseases.md) which weaken the colony and cause [❄️ Overwintering collapse](❄️%20Overwintering%20collapse.md).  
 
 Observability is typically solved with a [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). Dressed in a protective suit, in the summer heat, every week, you need to lift 20 kg beehive sections designed 150 years ago and notice small details while you are getting stung by defending bees, [💀 Intrusive inspections](💀%20Intrusive%20inspections.md). 
 

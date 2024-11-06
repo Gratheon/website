@@ -377,17 +377,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-b93": {
+  "/about-a1e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-809": {
+  "/about-d51": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-373": {
+  "/about-a18": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -594,21 +594,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problems-🌲-distant-locations-6-ec-9a9"
   },
-  "/about/problems/🌻 Insufficient pollination-b13": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🌻-insufficient-pollination-485-480"
-  },
   "/about/problems/🌻 Monocultural agriculture-2ba": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-problems-🌻-monocultural-agriculturee-5-e-4d8"
   },
-  "/about/problems/🍯 Low honey yields-532": {
+  "/about/problems/🌻 Precise pollination-798": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🍯-low-honey-yieldse-7-e-6c9"
+    "content": "content---about-problems-🌻-precise-pollinationf-47-698"
   },
-  "/about/problems/🍽️ Colony starvation-6ba": {
+  "/about/problems/🍽️ Bee colony starvation-5ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-problems-🍽️-colony-starvation-078-021"
+    "content": "content---about-problems-🍽️-bee-colony-starvation-690-7df"
   },
   "/about/problems/🎒 Challenging to become a new beekeeper-dea": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1138,13 +1134,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detection-855-563"
   },
-  "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification-9ee": {
+  "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies-e70": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🫶🏻-multiple-colony-unificationaaf-3f1"
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🫶🏻-join-multiple-coloniesa-1-b-968"
   },
   "/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration-da3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integration-615-401"
+  },
+  "/about/products/🧑‍🚀 Actions beekeepers make-94e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🧑‍🚀-actions-beekeepers-make-570-8af"
   },
   "/about/products/🧿 Robotic Beehive/-e8c": {
     "__comp": "__comp---theme-doc-item-178-a40",

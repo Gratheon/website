@@ -1,7 +1,7 @@
 {
   "id": "problems/❄️ Overwintering collapse",
   "title": "❄️ Overwintering collapse",
-  "description": "Bees can die over the winter if they are too weak as they cannot warm themselves and its brood",
+  "description": "Bees can die over the winter if they are too weak as they cannot warm themselves and its brood.",
   "source": "@site/about/problems/❄️ Overwintering collapse.md",
   "sourceDirName": "problems",
   "slug": "/problems/❄️ Overwintering collapse",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌻 Insufficient pollination",
-    "permalink": "/about/problems/🌻 Insufficient pollination"
+    "title": "🌻 Precise pollination",
+    "permalink": "/about/problems/🌻 Precise pollination"
   },
   "next": {
-    "title": "🌲 Distant locations",
-    "permalink": "/about/problems/🌲 Distant locations"
+    "title": "💪🏻 Physical labor",
+    "permalink": "/about/problems/💪🏻 Physical labor"
   }
 }

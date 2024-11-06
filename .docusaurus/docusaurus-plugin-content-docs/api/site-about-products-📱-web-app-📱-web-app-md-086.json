@@ -10,15 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1,
+    "sidebar_position": 2,
     "title": "📱Web-app"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🍯 Products",
-    "permalink": "/about/products/"
+    "title": "🧑‍🚀 Actions beekeepers make",
+    "permalink": "/about/products/🧑‍🚀 Actions beekeepers make"
   },
   "next": {
     "title": "🌍 user language + translations",

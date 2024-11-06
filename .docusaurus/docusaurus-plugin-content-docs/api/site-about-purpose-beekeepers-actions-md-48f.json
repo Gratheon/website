@@ -1,0 +1,23 @@
+{
+  "id": "purpose/beekeepers actions",
+  "title": "beekeepers actions",
+  "description": "",
+  "source": "@site/about/purpose/beekeepers actions.md",
+  "sourceDirName": "purpose",
+  "slug": "/purpose/beekeepers actions",
+  "permalink": "/about/purpose/beekeepers actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethics ☯️",
+    "permalink": "/about/purpose/Ethics"
+  },
+  "next": {
+    "title": "🌨️ Problems",
+    "permalink": "/about/problems/"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "id": "problems/💪🏻 Physical labor",
   "title": "💪🏻 Physical labor",
-  "description": "Lifting hive sections with honey, especially being in a suit while its hot outside",
+  "description": "A single healthy colony over the season can collect 40-80 kg of honey.",
   "source": "@site/about/problems/💪🏻 Physical labor.md",
   "sourceDirName": "problems",
   "slug": "/problems/💪🏻 Physical labor",
@@ -10,17 +10,19 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
+  "sidebarPosition": 4,
   "frontMatter": {
     "priority": 80,
-    "class": "beekeeping practices"
+    "class": "beekeeping practices",
+    "sidebar_position": 4
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "💢 Robbing state",
-    "permalink": "/about/problems/💢 Robbing state"
+    "title": "❄️ Overwintering collapse",
+    "permalink": "/about/problems/❄️ Overwintering collapse"
   },
   "next": {
-    "title": "💪🏻 Unscalable work",
-    "permalink": "/about/problems/💪🏻 Unscalable work"
+    "title": "🌲 Distant locations",
+    "permalink": "/about/problems/🌲 Distant locations"
   }
 }

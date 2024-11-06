@@ -2,9 +2,10 @@
 class: anthropological dangers
 sidebar_position: 2
 ---
-Food security - 735.1M undernourished people worldwide according to [FAO](https://www.fao.org/faostat/en/#data/FS) in 2022
+A global issue is food security, efficiency of growing crops and precise pollination as a solution.
+Worldwide, 735.1 million people were 🍽️ undernourished, according to [FAO](https://www.fao.org/faostat/en/#data/FS) in 2022
 
-## Farmers do not have bees as pollinators and get low yields.
+## Farmers do not have bees as pollinators and get low yields
 
 > We found a rapidly increasing demand for honeybee pollination but a decreasing pollination service capacity of honeybee colonies. Globally, the demand for honeybee pollination rose approximately 2.3 times higher than the stocked number of honeybee colonies in 2019, growing 1.78% annually, almost 2 times faster than honeybee colonies (0.95%). (…) Our study shows that managed [pollinators](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/pollinator) are far too insufficient to adequately supply the agricultural pollination demand worldwide. This emphasises the importance of ongoing calls for protecting pollinators and the integrated management of honeybees and wild pollinator assemblages for a sustainable food-secure future world
 

@@ -169,15 +169,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'b93'),
+    component: ComponentCreator('/about', 'a1e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '809'),
+        component: ComponentCreator('/about', 'd51'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '373'),
+            component: ComponentCreator('/about', 'a18'),
             routes: [
               {
                 path: '/about/',
@@ -486,26 +486,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/problems/🌻 Insufficient pollination',
-                component: ComponentCreator('/about/problems/🌻 Insufficient pollination', 'b13'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/problems/🌻 Monocultural agriculture',
                 component: ComponentCreator('/about/problems/🌻 Monocultural agriculture', '2ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/problems/🍯 Low honey yields',
-                component: ComponentCreator('/about/problems/🍯 Low honey yields', '532'),
+                path: '/about/problems/🌻 Precise pollination',
+                component: ComponentCreator('/about/problems/🌻 Precise pollination', '798'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/problems/🍽️ Colony starvation',
-                component: ComponentCreator('/about/problems/🍽️ Colony starvation', '6ba'),
+                path: '/about/problems/🍽️ Bee colony starvation',
+                component: ComponentCreator('/about/problems/🍽️ Bee colony starvation', '5ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1302,14 +1296,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Multiple colony unification', '9ee'),
+                path: '/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies',
+                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies', 'e70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration',
                 component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration', 'da3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🧑‍🚀 Actions beekeepers make',
+                component: ComponentCreator('/about/products/🧑‍🚀 Actions beekeepers make', '94e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

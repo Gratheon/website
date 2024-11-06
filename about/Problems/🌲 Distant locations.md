@@ -1,7 +1,6 @@
 ---
 priority: 70
 ---
-
 If your apiaries are far away (forest, rural area), you need to drive for inspections.
 
 This is loss of time, fuel, money and adds various risks.
