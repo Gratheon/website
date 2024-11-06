@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/💢 Robbing state",
+  "title": "💢 Robbing state",
+  "description": "",
+  "source": "@site/about/🌨️ Problems/💢 Robbing state.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/💢 Robbing state",
+  "permalink": "/about/🌨️ Problems/💢 Robbing state",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💢 Hornet attacks",
+    "permalink": "/about/🌨️ Problems/💢 Hornet attacks"
+  },
+  "next": {
+    "title": "💪🏻 Unscalable work",
+    "permalink": "/about/🌨️ Problems/💪🏻 Unscalable work"
+  }
+}

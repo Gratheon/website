@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/🎒 Challenging to become a new beekeeper",
+  "title": "🎒 Challenging to become a new beekeeper",
+  "description": "Beekeeping is a vast knowledge area that is hard to gain at the beginning without proper education, keep up to date of.",
+  "source": "@site/about/🌨️ Problems/🎒 Challenging to become a new beekeeper.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/🎒 Challenging to become a new beekeeper",
+  "permalink": "/about/🌨️ Problems/🎒 Challenging to become a new beekeeper",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍽️ Bee colony starvation",
+    "permalink": "/about/🌨️ Problems/🍽️ Bee colony starvation"
+  },
+  "next": {
+    "title": "🏘️ Bees attacking neighbours",
+    "permalink": "/about/🌨️ Problems/🏘️ Bees attacking neighbours"
+  }
+}

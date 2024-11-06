@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/🗃️ Ugly beehives",
+  "title": "🗃️ Ugly beehives",
+  "description": "- Bricks on roof against the wind",
+  "source": "@site/about/🌨️ Problems/🗃️ Ugly beehives.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/🗃️ Ugly beehives",
+  "permalink": "/about/🌨️ Problems/🗃️ Ugly beehives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗃️ Poor hive ventilation",
+    "permalink": "/about/🌨️ Problems/🗃️ Poor hive ventilation"
+  },
+  "next": {
+    "title": "🤢 Pesticide poisoning",
+    "permalink": "/about/🌨️ Problems/🤢 Pesticide poisoning"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "🌨️ Problems/💀 Intrusive inspections",
+  "title": "💀 Intrusive inspections",
+  "description": "- Squashing of bees when hive sections and frames are moved and placed on top of each other",
+  "source": "@site/about/🌨️ Problems/💀 Intrusive inspections.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/💀 Intrusive inspections",
+  "permalink": "/about/🌨️ Problems/💀 Intrusive inspections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "unethical treatment",
+    "priority": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💀 Colony without a queen",
+    "permalink": "/about/🌨️ Problems/💀 Colony without a queen"
+  },
+  "next": {
+    "title": "💢 Aggressive bee colonies",
+    "permalink": "/about/🌨️ Problems/💢 Aggressive bee colonies"
+  }
+}

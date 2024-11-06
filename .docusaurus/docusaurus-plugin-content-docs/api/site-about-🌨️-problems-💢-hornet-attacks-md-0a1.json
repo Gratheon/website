@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/💢 Hornet attacks",
+  "title": "💢 Hornet attacks",
+  "description": "Hornets (Vespa) can wipe out beehive colony",
+  "source": "@site/about/🌨️ Problems/💢 Hornet attacks.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/💢 Hornet attacks",
+  "permalink": "/about/🌨️ Problems/💢 Hornet attacks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💢 Aggressive bee colonies",
+    "permalink": "/about/🌨️ Problems/💢 Aggressive bee colonies"
+  },
+  "next": {
+    "title": "💢 Robbing state",
+    "permalink": "/about/🌨️ Problems/💢 Robbing state"
+  }
+}
