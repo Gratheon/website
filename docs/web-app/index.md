@@ -60,27 +60,6 @@ flowchart LR
 
 ```
 
-
-### Video processing, playback and analytics
-
-```mermaid
-flowchart LR
-	web-app("<a href='https://github.com/Gratheon/web-app'>web-app</a>\n:8080") --"fetch video streams"--> graphql-router("<a href='https://github.com/Gratheon/graphql-router'>graphql-router</a>") --"list video stream URLs"--> gate-video-stream -- "get data for playback" --> mysql
-
-	web-app --"record & upload \n 10s webcam video"--> gate-video-stream("<a href='https://github.com/Gratheon/gate-video-stream'>gate-video-stream</a>\n:8900") --"inference video"--> models-gate-tracker("<a href='https://github.com/Gratheon/models-gate-tracker'>models-gate-tracker</a>")
-
-	gate-video-stream --"store video re-training with 1 month TTL"--> aws-s3
-	gate-video-stream --"store results long-term" --> mysql
-
-	beehive-entrance-video-processor("<a href='https://github.com/Gratheon/beehive-entrance-video-processor'>beehive-entrance-video-processor</a>") --"record & upload 10s video chunks\nsend edge-computed telemetry"--> gate-video-stream
-
-	beehive-entrance-video-processor -."send detected bees \n timeseries counts".-> telemetry-api("<a href='https://github.com/Gratheon/telemetry-api'>telemetry-api</a>")
-
-	web-app --"include analytics page"--> grafana("<a href='https://github.com/Gratheon/grafana'>grafana</a>\n:9000") --"read bee traffic over time"--> influxdb("influxdb:5300")
-```
-
-
-
 ## Local development setup
 
 - Start by checking out [https://github.com/gratheon/web-app](https://github.com/gratheon/web-app). Its just a react single-page app and does not need a docker image but you can see API dependencies it will require. Checkout its [README.md](http://README.md) “development” section to run it. You should be able to get to the login page, but since it doesn’t have a backend yet, you won’t be able to login

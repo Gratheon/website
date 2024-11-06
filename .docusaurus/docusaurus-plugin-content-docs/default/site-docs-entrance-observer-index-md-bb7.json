@@ -1,7 +1,7 @@
 {
   "id": "Entrance observer/index",
   "title": "👁️‍🗨️ Entrance observer",
-  "description": "Main code repo",
+  "description": "Main client service is beehive-entrance-video-processor, it needs to run on the edge device to capture and send data to web-app. Our main priority is inference on the edge device, but we also want to have hybrid inference with cloud support.",
   "source": "@site/docs/Entrance observer/index.md",
   "sourceDirName": "Entrance observer",
   "slug": "/Entrance observer/",

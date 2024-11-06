@@ -3,8 +3,6 @@ title: 🌡️ Beehive IoT sensors
 sidebar_position: 3
 hide_table_of_contents: true
 ---
-
-## Main code repos
 - [https://github.com/gratheon/telemetry-api](https://github.com/gratheon/telemetry-api) - server side
 - [https://github.com/Gratheon/hardware-beehive-sensors](https://github.com/Gratheon/hardware-beehive-sensors) - sensors repo on client side
 
