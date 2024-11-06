@@ -19,18 +19,46 @@ As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscala
 
 #### Problems and goals
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/Problems" WHERE file.name != "index" SORT priority desc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/Problems" WHERE file.name != "index" SORT priority desc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/problems" WHERE file.name != "index" SORT priority desc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/problems" WHERE file.name != "index" SORT priority desc -->
 
-| issue | class | priority |
-| ----- | ----- | -------- |
+| issue                                                                                                              | class                   | priority |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------- |
+| [👁️ Observability of bee colony](about/problems/👁️%20Observability%20of%20bee%20colony.md)                       | beekeeping practices    | 100      |
+| [💪🏻 Unscalable work](about/problems/💪🏻%20Unscalable%20work.md)                                                 | beekeeping practices    | 90       |
+| [❄️ Overwintering collapse](about/problems/❄️%20Overwintering%20collapse.md)                                       | \-                      | 80       |
+| [💪🏻 Physical labor](about/problems/💪🏻%20Physical%20labor.md)                                                   | beekeeping practices    | 80       |
+| [🦀 Infestations](about/problems/🦀%20Infestations.md)                                                             | external influence      | 80       |
+| [🌲 Distant locations](about/problems/🌲%20Distant%20locations.md)                                                 | \-                      | 70       |
+| [🧶 Swarming](about/problems/🧶%20Swarming.md)                                                                     | beekeeping practices    | 70       |
+| [💀 Colony with drone-laying queen](about/problems/💀%20Colony%20with%20drone-laying%20queen.md)                   | internal state          | 60       |
+| [🦀 Diseases](about/problems/🦀%20Diseases.md)                                                                     | external influence      | 60       |
+| [🍽️ Bee colony starvation](about/problems/🍽️%20Bee%20colony%20starvation.md)                                     | internal state          | 60       |
+| [🏘️ Multiple apiaries](about/problems/🏘️%20Multiple%20apiaries.md)                                               | beekeeping practices    | 50       |
+| [💀 Alcohol washing killing bees](about/problems/💀%20Alcohol%20washing%20killing%20bees.md)                       | unethical treatment     | 50       |
+| [💀 Intrusive inspections](about/problems/💀%20Intrusive%20inspections.md)                                         | unethical treatment     | 50       |
+| [💢 Aggressive bee colonies](about/problems/💢%20Aggressive%20bee%20colonies.md)                                   | beekeeping practices    | 50       |
+| [🌻 Monocultural agriculture](about/problems/🌻%20Monocultural%20agriculture.md)                                   | \-                      | \-       |
+| [🏘️ Bees attacking neighbours](about/problems/🏘️%20Bees%20attacking%20neighbours.md)                             | \-                      | \-       |
+| [🎒 Challenging to become a new beekeeper](about/problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) | \-                      | \-       |
+| [🐭 Mice killing a colony](about/problems/🐭%20Mice%20killing%20a%20colony.md)                                     | \-                      | \-       |
+| [🐻 Bears destroying hives & colonies](about/problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)           | \-                      | \-       |
+| [👁️ Time-consuming inspections](about/problems/👁️%20Time-consuming%20inspections.md)                             | \-                      | \-       |
+| [💀 Colony without a queen](about/problems/💀%20Colony%20without%20a%20queen.md)                                   | internal state          | \-       |
+| [💢 Hornet attacks](about/problems/💢%20Hornet%20attacks.md)                                                       | \-                      | \-       |
+| [💢 Robbing state](about/problems/💢%20Robbing%20state.md)                                                         | \-                      | \-       |
+| [📦 Warehouse organization](about/problems/📦%20Warehouse%20organization.md)                                       | \-                      | \-       |
+| [🗃️ Flimsy beehives](about/problems/🗃️%20Flimsy%20beehives.md)                                                   | \-                      | \-       |
+| [🗃️ Poor hive ventilation](about/problems/🗃️%20Poor%20hive%20ventilation.md)                                     | \-                      | \-       |
+| [🗃️ Ugly beehives](about/problems/🗃️%20Ugly%20beehives.md)                                                       | \-                      | \-       |
+| [🤢 Pesticide poisoning](about/problems/🤢%20Pesticide%20poisoning.md)                                             | \-                      | \-       |
+| [🌻 Precise pollination](about/problems/🌻%20Precise%20pollination.md)                                             | anthropological dangers | \-       |
 <!-- SerializedQuery END -->
 
 
+![](../img/problems-sage.png)
 
-[![](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Untitled.png)](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Untitled.png)
-
-Survey by BeeSage, source - [https://beesage.co/en/blog/what-is-the-hardest-thing-about-beekeeping](https://beesage.co/en/blog/what-is-the-hardest-thing-about-beekeeping)
+Survey by BeeSage, [source](https://beesage.co/en/blog/what-is-the-hardest-thing-about-beekeeping)
 
 ## On “saving the bees”
 
