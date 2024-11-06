@@ -26,9 +26,9 @@ President Alar Karis harvesting honey from the Kadriorg Palace beehives. ([Photo
 
 ### Clients / Target audience
 
-- [👨🏻 Potential new beekeepers](../../clients/👨🏻%20Potential%20new%20beekeepers.md) ← as a shiny and safe beehive that can also teach them beekeeping
-- [👩🏼‍🏫 Urban beekeepers](../../clients/👩🏼‍🏫%20Urban%20beekeepers.md) ← as a way to research how bees are behaving and avoid disturbing neighbours
-- [👩🏻 Tech scale-up companies](../../clients/👩🏻%20Tech%20scale-up%20companies.md) ← for office roof as a brand building hardware and a in-house honey perk
+- [👨🏻 Potential new beekeepers](../clients/👨🏻%20Potential%20new%20beekeepers.md) ← as a shiny and safe beehive that can also teach them beekeeping
+- [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md) ← as a way to research how bees are behaving and avoid disturbing neighbours
+- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md) ← for office roof as a brand building hardware and a in-house honey perk
 
 ## How
 

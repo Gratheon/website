@@ -1,6 +1,10 @@
 ---
 sidebar_position: 10
 ---
+<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
+![](img/press-kit.jpg)
+</div></div>
+
 
 Materials for press media coverage.
 See [Symbolism](purpose/Symbolism.md) for referencing logo
@@ -32,3 +36,15 @@ Personal apiary, photo by Artjom Kurapov
 App user interface (in english)
 
 # Team
+
+![](img/399275275_750135310479095_4769808596453906481_n.jpg)
+
+![](img/387850462_890757472584931_9024092767459998811_n.jpg)
+
+![](img/400156560_750134867145806_4539301401019862199_n.jpg)
+
+![](img/400175763_750137117145581_2512030399661623454_n.jpg)
+
+![](img/IMG_20210823_194454.jpg)
+
+![](img/1698920622990-1.jpg)

@@ -2,6 +2,10 @@
 title: "Overview"
 sidebar_position: 0
 ---
+<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
+![](img/about.webp)
+</div></div>
+
 Gratheon is a garage-phase bootstrapping startup with big dreams. See [📑 deck](deck.pdf) for quick overview. 
 
 We highly encourage to join [volunteering](company/Volunteers/index.md) program and contribute to open source, especially if you are a beekeeper.

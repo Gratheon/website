@@ -1,0 +1,27 @@
+{
+  "id": "products/clients/index",
+  "title": "Target clients",
+  "description": "- 👨🏻‍🚒 Industrial beekeepers",
+  "source": "@site/about/products/clients/index.md",
+  "sourceDirName": "products/clients",
+  "slug": "/products/clients/",
+  "permalink": "/about/products/clients/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "Target clients"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦾 Cross-family frame movement resource balancing",
+    "permalink": "/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing"
+  },
+  "next": {
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/products/clients/👨🏻 Potential new beekeepers"
+  }
+}

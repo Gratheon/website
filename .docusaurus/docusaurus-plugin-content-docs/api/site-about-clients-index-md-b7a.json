@@ -1,7 +1,7 @@
 {
   "id": "clients/index",
   "title": "Target clients",
-  "description": "",
+  "description": "- 👨🏻‍🚒 Industrial beekeepers",
   "source": "@site/about/clients/index.md",
   "sourceDirName": "clients",
   "slug": "/clients/",

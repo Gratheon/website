@@ -8,9 +8,9 @@ sidebar_position: 4
 One device is watches for up to 4 beehive entrances. Over time, we can try building a more affordable version that uses worse cameras, less GPU and less energy
 ## Target audience
 
-- [👨🏻‍🚀 Backyard beekeepers](../../clients/👨🏻‍🚀%20Backyard%20beekeepers.md)
-- [👨🏻‍💻 Tech-savvy engineers](../../clients/👨🏻‍💻%20Tech-savvy%20engineers.md)
-- [👩🏻 Tech scale-up companies](../../clients/👩🏻%20Tech%20scale-up%20companies.md)
+- [👨🏻‍🚀 Backyard beekeepers](../clients/👨🏻‍🚀%20Backyard%20beekeepers.md)
+- [👨🏻‍💻 Tech-savvy engineers](../clients/👨🏻‍💻%20Tech-savvy%20engineers.md)
+- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md)
 
 
 [Prototype Design](https://www.notion.so/Prototype-Design-8fc6ea808b95434da228c48b6d195f12?pvs=21)

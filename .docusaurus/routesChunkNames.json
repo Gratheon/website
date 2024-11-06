@@ -377,17 +377,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-b7c": {
+  "/about-5e8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-df9": {
+  "/about-79c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-79d": {
+  "/about-a23": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -514,37 +514,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🧶-swarming-52-d-7f1"
   },
-  "/about/clients/-f24": {
+  "/about/📢 Press kit-bbe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-b-7-a-be6"
-  },
-  "/about/clients/👨🏻 Potential new beekeepers-ac7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👨🏻-potential-new-beekeepers-349-5cd"
-  },
-  "/about/clients/👨🏻‍💻 Tech-savvy engineers-300": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👨🏻‍💻-tech-savvy-engineers-148-86f"
-  },
-  "/about/clients/👨🏻‍🚀 Backyard beekeepers-129": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👨🏻‍🚀-backyard-beekeepers-960-ccb"
-  },
-  "/about/clients/👨🏻‍🚒 Industrial beekeepers-83b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👨🏻‍🚒-industrial-beekeepers-31-e-e95"
-  },
-  "/about/clients/👩🏻 Tech scale-up companies-4b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👩🏻-tech-scale-up-companiescf-4-21b"
-  },
-  "/about/clients/👩🏼‍🏫 Urban beekeepers-970": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-👩🏼‍🏫-urban-beekeepersda-2-5d5"
-  },
-  "/about/clients/🧑🏻‍🌾 Farmers-aad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-clients-🧑🏻‍🌾-farmers-6-eb-851"
+    "content": "content---about-📢-press-kit-935-2fd"
   },
   "/about/company/-4f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -697,10 +669,6 @@
   "/about/company/Volunteers/Reinis Indans-109": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-volunteers-reinis-indans-509-049"
-  },
-  "/about/Press kit-4d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-press-kit-621-539"
   },
   "/about/products/-5dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1249,6 +1217,38 @@
   "/about/products/🪬 Robotic Apiary/ideas/🚛 Robot moving hives between fields-1e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-🪬-robotic-apiary-ideas-🚛-robot-moving-hives-between-fieldsf-8-a-876"
+  },
+  "/about/products/clients/-420": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-859-d7c"
+  },
+  "/about/products/clients/👨🏻 Potential new beekeepers-953": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻-potential-new-beekeeperse-6-f-c3e"
+  },
+  "/about/products/clients/👨🏻‍💻 Tech-savvy engineers-62f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍💻-tech-savvy-engineers-764-158"
+  },
+  "/about/products/clients/👨🏻‍🚀 Backyard beekeepers-0df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍🚀-backyard-beekeepers-74-d-b1f"
+  },
+  "/about/products/clients/👨🏻‍🚒 Industrial beekeepers-7f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍🚒-industrial-beekeepersa-21-b87"
+  },
+  "/about/products/clients/👩🏻 Tech scale-up companies-556": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👩🏻-tech-scale-up-companiesf-7-f-4c6"
+  },
+  "/about/products/clients/👩🏼‍🏫 Urban beekeepers-423": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👩🏼‍🏫-urban-beekeepers-85-f-fd3"
+  },
+  "/about/products/clients/🧑🏻‍🌾 Farmers-6c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-🧑🏻‍🌾-farmers-9-e-8-cd9"
   },
   "/about/products/prices-748": {
     "__comp": "__comp---theme-doc-item-178-a40",

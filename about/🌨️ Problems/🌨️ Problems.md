@@ -15,7 +15,7 @@ But traditional beekeeping requires [👁️ Observability of bee colony](👁�
 
 Observability is typically solved with a [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). Dressed in a protective suit, in the summer heat, every week, you need to lift 20 kg beehive sections designed 150 years ago and notice small details while you are getting stung by defending bees, [💀 Intrusive inspections](💀%20Intrusive%20inspections.md). 
 
-As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md). [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) have [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](🌲%20Distant%20locations.md) that are hard to reach. Existing solutions do not adequately solve these issues
+As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md). [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) have [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](🌲%20Distant%20locations.md) that are hard to reach. Existing solutions do not adequately solve these issues
 
 #### Problems and goals
 

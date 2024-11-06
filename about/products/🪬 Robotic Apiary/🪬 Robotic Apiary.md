@@ -8,8 +8,8 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ### Target audience
 
-- [👨🏻‍🚒 Industrial beekeepers](../../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
-- [🧑🏻‍🌾 Farmers](../../clients/🧑🏻‍🌾%20Farmers.md)
+- [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
+- [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md)
 
 ## Challenges / Requirements
 
