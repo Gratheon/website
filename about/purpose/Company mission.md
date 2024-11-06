@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+hide_table_of_contents: true
 ---
 
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-30%" }}>
@@ -15,8 +16,9 @@ Our mission is balancing humanity development with nature to achieve sustainable
 [Culture and values](../company/Culture%20and%20values%20🫀/index.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/GibiNy4d4gc" title="Carmen Twillie, Lebo M. - The Lion King - Circle Of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/GibiNy4d4gc?modestbranding=1&autohide=1&showinfo=0" title="Carmen Twillie, Lebo M. - The Lion King - Circle Of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/XAi3VTSdTxU" title="Michael Jackson - Earth Song (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/ejorQVy3m8E" title="Midnight Oil - Beds Are Burning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9RV3CDwPGNs?t=795" title="Baraka" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

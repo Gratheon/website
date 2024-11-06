@@ -12,7 +12,8 @@
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
-    "sidebar_position": 0
+    "sidebar_position": 0,
+    "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",
   "previous": {
