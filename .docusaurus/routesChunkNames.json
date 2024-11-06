@@ -377,17 +377,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-5e8": {
+  "/about-ac5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-79c": {
+  "/about-d02": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-a23": {
+  "/about-27e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -742,6 +742,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-👁️‍🗨️-entrance-observer-cae-b53"
   },
+  "/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming from phone-a0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-👁️‍🗨️-entrance-observer-features-🎥-video-streaming-from-phone-24-e-9f3"
+  },
+  "/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming via API-f05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-👁️‍🗨️-entrance-observer-features-🎥-video-streaming-via-api-892-5a7"
+  },
+  "/about/products/👁️‍🗨️ Entrance Observer/features/📺 Video streaming playback-e31": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-👁️‍🗨️-entrance-observer-features-📺-video-streaming-playback-274-28e"
+  },
   "/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream-571": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-♻️-share-video-stream-28-a-715"
@@ -749,14 +761,6 @@
   "/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics-a67": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-🌻-detect-bees-with-pollen-for-foraging-statistics-5-ab-75c"
-  },
-  "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming from phone-f8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-🎥-video-streaming-from-phonedd-6-11c"
-  },
-  "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API-a0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-🎥-video-streaming-via-ap-ib-49-048"
   },
   "/about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI-167": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -781,10 +785,6 @@
   "/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge-36f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-📈-count-bees-coming-in-and-out-on-the-edgeede-c88"
-  },
-  "/about/products/👁️‍🗨️ Entrance Observer/ideas/📺 Video streaming playback-706": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-📺-video-streaming-playback-932-f5b"
   },
   "/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter-c2e": {
     "__comp": "__comp---theme-doc-item-178-a40",

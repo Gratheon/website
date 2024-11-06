@@ -169,15 +169,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '5e8'),
+    component: ComponentCreator('/about', 'ac5'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '79c'),
+        component: ComponentCreator('/about', 'd02'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'a23'),
+            component: ComponentCreator('/about', '27e'),
             routes: [
               {
                 path: '/about/',
@@ -708,6 +708,24 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming from phone',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming from phone', 'a0b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming via API',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming via API', 'f05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/features/📺 Video streaming playback',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/📺 Video streaming playback', 'e31'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream',
                 component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream', '571'),
                 exact: true,
@@ -716,18 +734,6 @@ export default [
               {
                 path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics',
                 component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics', 'a67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming from phone',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming from phone', 'f8a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🎥 Video streaming via API', 'a0f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -764,12 +770,6 @@ export default [
               {
                 path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge',
                 component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge', '36f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/📺 Video streaming playback',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/📺 Video streaming playback', '706'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
