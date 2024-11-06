@@ -17,3 +17,6 @@ We highly encourage to join [volunteering](company/Volunteers/index.md) program 
 - 🚀 Pre-Seed / MVP phase
 - 🌍 Web-app live - [100+ registered users](https://www.notion.so/KPIs-and-Business-metrics-a0707c4260194f36b7f86dfd28964edf?pvs=21)
 - 📱 Android app live 10+ installs
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Swm6fDi-cPE" title="About Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
