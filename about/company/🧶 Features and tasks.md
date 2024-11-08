@@ -13,8 +13,6 @@ You can add new idea by creating [a new file via github](https://github.com/Grat
 ### Feature lifecycle
 We separate ideas and features by product and by tier to have better separation of which repository and device it its tied to the most. Separation by tier is tied to the complexity of the task and how much does it cost to maintain infrastructure.
 
-See for example - [community tier features](../products/📱Web-app/community%20tier/features%20✅/), [essential tier features](../products/📱Web-app/essential%20tier/features%20✅/).
-
 Feature has multiple tasks associated with it.
 
 ## Tasks
