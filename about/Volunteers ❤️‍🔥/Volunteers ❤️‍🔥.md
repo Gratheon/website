@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Volunteering means you work for free, because you’re **motivated** by other things:
 
-- You want to learn and become a beekeeper, believing in [Company mission](../../purpose/Company%20mission.md), trying to help [👨🏻‍🚀 Backyard beekeepers](../../products/clients/👨🏻‍🚀%20Backyard%20beekeepers.md) and the 🐝 bees
+- You want to learn and become a beekeeper, believing in [Company mission](../purpose/Company%20mission.md), trying to help [👨🏻‍🚀 Backyard beekeepers](../products/clients/👨🏻‍🚀%20Backyard%20beekeepers.md) and the 🐝 bees
 - Gaining open-source proof of experience you can use at applying to other jobs & positions 
   (ex. you are a student and you want to show contribution with CAD model or typescript code)
 - Learning something new in the area that you are not yet familiar with 
@@ -16,9 +16,9 @@ Volunteering means you work for free, because you’re **motivated** by other th
   (ex. as Robotics engineer streaming lessons on twitch & youtube)
 
 ## How
-Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](../Culture%20and%20values%20🫀/Adapt%20to%20change%20🏕️.md)
+Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](../company/Culture%20and%20values%20🫀/Adapt%20to%20change%20🏕️.md)
 
-As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](../Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md) 
+As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](../company/Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md) 
 
 ## What to do
 
@@ -35,7 +35,7 @@ You can contribute by following these steps:
 
 ### Contributions
 
-Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](../Culture%20and%20values%20🫀/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
+Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](../company/Culture%20and%20values%20🫀/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
 
 _Asking_ for information is not a contribution
 
@@ -57,8 +57,8 @@ A strong contribution is:
 - QA testing session conducted that found various bugs and issues with suggestions how to mitigate them. Results were a mix of google-docs, excel and chat messages reporting specific issues. Use `#product-feedback` discord channel to report issues. Use one message per issue to have separate threads.
 - Annotations for training Machine Learning models
 
-![](../../img/Screenshot_2024-07-05_at_00.51.10.png)
-![](../../img/Screenshot_2024-07-05_at_14.40.14.png)
+![](../img/Screenshot_2024-07-05_at_00.51.10.png)
+![](../img/Screenshot_2024-07-05_at_14.40.14.png)
 
 
 ## Communication

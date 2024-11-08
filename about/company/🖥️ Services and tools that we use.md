@@ -1,9 +1,9 @@
 ## General
 - Communication - Discord
 ## Product
-- Task management - [Clickup](https://sharing.clickup.com/9012474052/b/h/6-901205584063-2/1e4eca11616a9eb)
 - Product analytics - Google Tag, Google Analytics, Microsoft Clarity, Amplitude
-- Documentation - Github, Obsidian, [Notion](https://gratheon.notion.site/Gratheon-fdac3638d55542ddb073ae90537cd5b5?pvs=74)
+- Documentation - [Github](https://github.com/gratheon/website), Obsidian, [Notion](https://gratheon.notion.site/Gratheon-fdac3638d55542ddb073ae90537cd5b5?pvs=74)
+- Task management - [Github](https://github.com/orgs/Gratheon/projects/5/views/2)
 
 ## Engineering
 - Code hosting - Github
