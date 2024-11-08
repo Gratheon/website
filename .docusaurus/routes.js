@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '616'),
     exact: true
@@ -134,25 +169,19 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '11a'),
+    component: ComponentCreator('/about', '486'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '94b'),
+        component: ComponentCreator('/about', 'cee'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8a6'),
+            component: ComponentCreator('/about', '518'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '498'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/☑️ tasks/',
-                component: ComponentCreator('/about/☑️ tasks/', '304'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -349,14 +378,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🖥️ Services and tools that we use',
-                component: ComponentCreator('/about/company/🖥️ Services and tools that we use', 'f03'),
+                path: '/about/company/☑️ Features and tasks',
+                component: ComponentCreator('/about/company/☑️ Features and tasks', '3c1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🧶 Features and tasks',
-                component: ComponentCreator('/about/company/🧶 Features and tasks', '014'),
+                path: '/about/company/🖥️ Services and tools that we use',
+                component: ComponentCreator('/about/company/🖥️ Services and tools that we use', 'f03'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -463,6 +492,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Roles/Product manager 🦉',
+                component: ComponentCreator('/about/company/Roles/Product manager 🦉', '8ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/Roles/Response templates/',
                 component: ComponentCreator('/about/company/Roles/Response templates/', '0f6'),
                 exact: true,
@@ -531,54 +566,6 @@ export default [
               {
                 path: '/about/company/Team/Artjom Kurapov',
                 component: ComponentCreator('/about/company/Team/Artjom Kurapov', '28e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/', '8fe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Ahmed Daoudi',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Ahmed Daoudi', 'a10'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Aleksei Boris',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Aleksei Boris', 'f8e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov', 'cbb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel', '266'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Natalia Kinash',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Natalia Kinash', 'a94'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Olena Stoliarova',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Olena Stoliarova', 'a20'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Volunteers ❤️‍🔥/Reinis Indans',
-                component: ComponentCreator('/about/company/Volunteers ❤️‍🔥/Reinis Indans', 'a6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1491,6 +1478,54 @@ export default [
               {
                 path: '/about/purpose/Symbolism',
                 component: ComponentCreator('/about/purpose/Symbolism', 'cbc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/', '7c1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Ahmed Daoudi',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Ahmed Daoudi', '319'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Aleksei Boris',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Aleksei Boris', '064'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Kurban Ramazanov',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Kurban Ramazanov', '8cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel', '104'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Natalia Kinash',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Natalia Kinash', '299'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Olena Stoliarova',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Olena Stoliarova', 'db1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/Volunteers ❤️‍🔥/Reinis Indans',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Reinis Indans', '4e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

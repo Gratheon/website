@@ -135,6 +135,18 @@ export default {
           "position": "left"
         },
         {
+          "aria-label": "Discord Invite",
+          "className": "navbar--discord-link",
+          "href": "https://discord.gg/PcbP4uedWj",
+          "position": "right"
+        },
+        {
+          "href": "https://github.com/gratheon/web-app",
+          "position": "right",
+          "className": "header--github-link",
+          "aria-label": "GitHub repository"
+        },
+        {
           "href": "https://app.gratheon.com/account/authenticate/",
           "label": "Log in",
           "position": "right"
@@ -200,19 +212,6 @@ export default {
             {
               "label": "Youtube",
               "href": "https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ"
-            }
-          ],
-          "title": null
-        },
-        {
-          "items": [
-            {
-              "label": "Discord",
-              "to": "https://discord.gg/PcbP4uedWj"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/gratheon"
             }
           ],
           "title": null

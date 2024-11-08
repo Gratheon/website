@@ -245,11 +245,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "☑️ tasks/☑️ tasks",
-              "path": "/about/☑️ tasks/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "🌨️ Problems/❄️ Overwintering collapse",
               "path": "/about/🌨️ Problems/❄️ Overwintering collapse",
               "sidebar": "tutorialSidebar"
@@ -405,13 +400,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🖥️ Services and tools that we use",
-              "path": "/about/company/🖥️ Services and tools that we use",
+              "id": "company/☑️ Features and tasks",
+              "path": "/about/company/☑️ Features and tasks",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🧶 Features and tasks",
-              "path": "/about/company/🧶 Features and tasks",
+              "id": "company/🖥️ Services and tools that we use",
+              "path": "/about/company/🖥️ Services and tools that we use",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -500,6 +495,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Roles/Product manager 🦉",
+              "path": "/about/company/Roles/Product manager 🦉",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Roles/Response templates/Beekeeper",
               "path": "/about/company/Roles/Response templates/Beekeeper",
               "sidebar": "tutorialSidebar"
@@ -562,49 +562,6 @@
             {
               "id": "company/Team/index",
               "path": "/about/company/Team/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Ahmed Daoudi",
-              "path": "/about/company/Volunteers ❤️‍🔥/Ahmed Daoudi",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Aleksei Boris",
-              "path": "/about/company/Volunteers ❤️‍🔥/Aleksei Boris",
-              "unlisted": true,
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Kurban Ramazanov",
-              "path": "/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
-              "path": "/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Natalia Kinash",
-              "path": "/about/company/Volunteers ❤️‍🔥/Natalia Kinash",
-              "unlisted": true,
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Olena Stoliarova",
-              "path": "/about/company/Volunteers ❤️‍🔥/Olena Stoliarova",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Reinis Indans",
-              "path": "/about/company/Volunteers ❤️‍🔥/Reinis Indans",
-              "unlisted": true,
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Volunteers ❤️‍🔥/Volunteers ❤️‍🔥",
-              "path": "/about/company/Volunteers ❤️‍🔥/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1371,6 +1328,46 @@
               "id": "purpose/Symbolism",
               "path": "/about/purpose/Symbolism",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Ahmed Daoudi",
+              "path": "/about/Volunteers ❤️‍🔥/Ahmed Daoudi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Aleksei Boris",
+              "path": "/about/Volunteers ❤️‍🔥/Aleksei Boris",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Kurban Ramazanov",
+              "path": "/about/Volunteers ❤️‍🔥/Kurban Ramazanov",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
+              "path": "/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Natalia Kinash",
+              "path": "/about/Volunteers ❤️‍🔥/Natalia Kinash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Olena Stoliarova",
+              "path": "/about/Volunteers ❤️‍🔥/Olena Stoliarova",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Reinis Indans",
+              "path": "/about/Volunteers ❤️‍🔥/Reinis Indans",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Volunteers ❤️‍🔥/Volunteers ❤️‍🔥",
+              "path": "/about/Volunteers ❤️‍🔥/",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -1552,15 +1549,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

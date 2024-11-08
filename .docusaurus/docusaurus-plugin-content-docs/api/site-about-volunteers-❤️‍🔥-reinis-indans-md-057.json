@@ -1,0 +1,25 @@
+{
+  "id": "Volunteers ❤️‍🔥/Reinis Indans",
+  "title": "Reinis Indans",
+  "description": "https://www.linkedin.com/in/reinis-indans/",
+  "source": "@site/about/Volunteers ❤️‍🔥/Reinis Indans.md",
+  "sourceDirName": "Volunteers ❤️‍🔥",
+  "slug": "/Volunteers ❤️‍🔥/Reinis Indans",
+  "permalink": "/about/Volunteers ❤️‍🔥/Reinis Indans",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Olena Stoliarova",
+    "permalink": "/about/Volunteers ❤️‍🔥/Olena Stoliarova"
+  },
+  "next": {
+    "title": "📢 Press kit",
+    "permalink": "/about/📢 Press kit"
+  }
+}

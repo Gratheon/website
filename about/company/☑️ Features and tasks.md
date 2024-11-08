@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 We think of product development as a hierarchy of abstractions:
 ## Use cases
 These are main customer journeys that may involve multiple features.

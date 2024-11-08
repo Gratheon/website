@@ -1,0 +1,25 @@
+{
+  "id": "Volunteers ❤️‍🔥/Aleksei Boris",
+  "title": "Aleksei Boris",
+  "description": "https://www.linkedin.com/in/alekseiboris/",
+  "source": "@site/about/Volunteers ❤️‍🔥/Aleksei Boris.md",
+  "sourceDirName": "Volunteers ❤️‍🔥",
+  "slug": "/Volunteers ❤️‍🔥/Aleksei Boris",
+  "permalink": "/about/Volunteers ❤️‍🔥/Aleksei Boris",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ahmed Daoudi",
+    "permalink": "/about/Volunteers ❤️‍🔥/Ahmed Daoudi"
+  },
+  "next": {
+    "title": "Kurban Ramazanov",
+    "permalink": "/about/Volunteers ❤️‍🔥/Kurban Ramazanov"
+  }
+}

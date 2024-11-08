@@ -1,0 +1,23 @@
+{
+  "id": "company/Roles/Product manager 🦉",
+  "title": "Product manager 🦉",
+  "description": "",
+  "source": "@site/about/company/Roles/Product manager 🦉.md",
+  "sourceDirName": "company/Roles",
+  "slug": "/company/Roles/Product manager 🦉",
+  "permalink": "/about/company/Roles/Product manager 🦉",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML engineer 🧠",
+    "permalink": "/about/company/Roles/ML engineer 🧠"
+  },
+  "next": {
+    "title": "Robotics engineer 🦾",
+    "permalink": "/about/company/Roles/Robotics engineer 🦾"
+  }
+}
