@@ -1,0 +1,24 @@
+{
+  "id": "Entrance observer/components/SD card for Jetson Nano",
+  "title": "SD card for Jetson Nano",
+  "description": "URL//www.amazon.com/dp/B09X7CRKRZ?ref=ppxyo2ovdtbproduct_details&th=1",
+  "source": "@site/docs/Entrance observer/components/SD card for Jetson Nano.md",
+  "sourceDirName": "Entrance observer/components",
+  "slug": "/Entrance observer/components/SD card for Jetson Nano",
+  "permalink": "/docs/Entrance observer/components/SD card for Jetson Nano",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/Entrance observer/components/SD card for Jetson Nano.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Nano",
+    "permalink": "/docs/Entrance observer/components/Jetson Nano"
+  },
+  "next": {
+    "title": "WiFi module for Jetson Nano",
+    "permalink": "/docs/Entrance observer/components/WiFi module for Jetson Nano"
+  }
+}

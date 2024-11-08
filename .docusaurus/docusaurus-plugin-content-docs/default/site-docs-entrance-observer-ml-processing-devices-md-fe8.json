@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Jetson Orin Nano setup",
-    "permalink": "/docs/Entrance observer/Jetson Orin Nano setup"
+    "title": "Datasets",
+    "permalink": "/docs/Entrance observer/Datasets"
   },
   "next": {
     "title": "Which model to use for vision",

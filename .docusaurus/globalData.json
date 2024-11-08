@@ -16,6 +16,36 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Entrance observer/components/Camera - Mokose 4k",
+              "path": "/docs/Entrance observer/components/Camera - Mokose 4k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Entrance observer/components/Camera mount",
+              "path": "/docs/Entrance observer/components/Camera mount",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Entrance observer/components/Jetson Nano",
+              "path": "/docs/Entrance observer/components/Jetson Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Entrance observer/components/Jetson Nano case",
+              "path": "/docs/Entrance observer/components/Jetson Nano case",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Entrance observer/components/SD card for Jetson Nano",
+              "path": "/docs/Entrance observer/components/SD card for Jetson Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Entrance observer/components/WiFi module for Jetson Nano",
+              "path": "/docs/Entrance observer/components/WiFi module for Jetson Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Entrance observer/Datasets",
               "path": "/docs/Entrance observer/Datasets",
               "sidebar": "tutorialSidebar"
@@ -28,11 +58,6 @@
             {
               "id": "Entrance observer/Jetson Nano setup",
               "path": "/docs/Entrance observer/Jetson Nano setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Entrance observer/Jetson Orin Nano setup",
-              "path": "/docs/Entrance observer/Jetson Orin Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -141,6 +166,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Robotic Beehive/components/Camera - Mokose 4k",
+              "path": "/docs/Robotic Beehive/components/Camera - Mokose 4k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/components/index",
+              "path": "/docs/Robotic Beehive/components/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/components/NVMe M2 SSD for Jetson Orin",
+              "path": "/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Robotic Beehive/Design",
               "path": "/docs/Robotic Beehive/Design",
               "sidebar": "tutorialSidebar"
@@ -148,6 +188,11 @@
             {
               "id": "Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
               "path": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Robotic Beehive/Jetson Orin Nano setup",
+              "path": "/docs/Robotic Beehive/Jetson Orin Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {

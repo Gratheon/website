@@ -1513,15 +1513,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8bf'),
+    component: ComponentCreator('/docs', '76c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3d3'),
+        component: ComponentCreator('/docs', '8d9'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '415'),
+            component: ComponentCreator('/docs', '0ac'),
             routes: [
               {
                 path: '/docs/Docs',
@@ -1536,6 +1536,42 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Entrance observer/components/Camera - Mokose 4k',
+                component: ComponentCreator('/docs/Entrance observer/components/Camera - Mokose 4k', '7c7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Entrance observer/components/Camera mount',
+                component: ComponentCreator('/docs/Entrance observer/components/Camera mount', 'db8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Entrance observer/components/Jetson Nano',
+                component: ComponentCreator('/docs/Entrance observer/components/Jetson Nano', '6d4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Entrance observer/components/Jetson Nano case',
+                component: ComponentCreator('/docs/Entrance observer/components/Jetson Nano case', 'dc4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Entrance observer/components/SD card for Jetson Nano',
+                component: ComponentCreator('/docs/Entrance observer/components/SD card for Jetson Nano', '9b6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Entrance observer/components/WiFi module for Jetson Nano',
+                component: ComponentCreator('/docs/Entrance observer/components/WiFi module for Jetson Nano', '321'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Entrance observer/Datasets',
                 component: ComponentCreator('/docs/Entrance observer/Datasets', 'b2d'),
                 exact: true,
@@ -1544,12 +1580,6 @@ export default [
               {
                 path: '/docs/Entrance observer/Jetson Nano setup',
                 component: ComponentCreator('/docs/Entrance observer/Jetson Nano setup', 'd33'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Entrance observer/Jetson Orin Nano setup',
-                component: ComponentCreator('/docs/Entrance observer/Jetson Orin Nano setup', '94c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1686,6 +1716,24 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Robotic Beehive/components/',
+                component: ComponentCreator('/docs/Robotic Beehive/components/', 'ea3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/components/Camera - Mokose 4k',
+                component: ComponentCreator('/docs/Robotic Beehive/components/Camera - Mokose 4k', '09b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin',
+                component: ComponentCreator('/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin', 'e66'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Robotic Beehive/Design',
                 component: ComponentCreator('/docs/Robotic Beehive/Design', 'a28'),
                 exact: true,
@@ -1694,6 +1742,12 @@ export default [
               {
                 path: '/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info',
                 component: ComponentCreator('/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info', 'cb7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Robotic Beehive/Jetson Orin Nano setup',
+                component: ComponentCreator('/docs/Robotic Beehive/Jetson Orin Nano setup', 'b1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

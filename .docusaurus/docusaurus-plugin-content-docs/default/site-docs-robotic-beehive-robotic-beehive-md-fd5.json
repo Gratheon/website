@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Which model to use for vision",
-    "permalink": "/docs/Entrance observer/Which model to use for vision"
+    "title": "WiFi module for Jetson Nano",
+    "permalink": "/docs/Entrance observer/components/WiFi module for Jetson Nano"
   },
   "next": {
     "title": "4 axis gantry",

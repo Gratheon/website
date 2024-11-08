@@ -1274,17 +1274,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-symbolism-09-c-a3b"
   },
-  "/docs-8bf": {
+  "/docs-76c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-3d3": {
+  "/docs-8d9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-415": {
+  "/docs-0ac": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
@@ -1295,6 +1295,30 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-entrance-observer-bb-7-0d4"
   },
+  "/docs/Entrance observer/components/Camera - Mokose 4k-7c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-camera-mokose-4-kc-1-c-599"
+  },
+  "/docs/Entrance observer/components/Camera mount-db8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-camera-mountb-8-a-ed4"
+  },
+  "/docs/Entrance observer/components/Jetson Nano-6d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-nano-918-d8f"
+  },
+  "/docs/Entrance observer/components/Jetson Nano case-dc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-nano-case-5-c-5-816"
+  },
+  "/docs/Entrance observer/components/SD card for Jetson Nano-9b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-sd-card-for-jetson-nanod-2-a-f92"
+  },
+  "/docs/Entrance observer/components/WiFi module for Jetson Nano-321": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-wi-fi-module-for-jetson-nano-241-d65"
+  },
   "/docs/Entrance observer/Datasets-b2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-entrance-observer-datasets-643-a89"
@@ -1302,10 +1326,6 @@
   "/docs/Entrance observer/Jetson Nano setup-d33": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-entrance-observer-jetson-nano-setupb-84-fd0"
-  },
-  "/docs/Entrance observer/Jetson Orin Nano setup-94c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-jetson-orin-nano-setupbf-2-6b6"
   },
   "/docs/Entrance observer/ML processing devices-ef5": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1395,6 +1415,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-cad-modelling-🫖-847-6eb"
   },
+  "/docs/Robotic Beehive/components/-ea3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-364-22b"
+  },
+  "/docs/Robotic Beehive/components/Camera - Mokose 4k-09b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-camera-mokose-4-kc-5-c-925"
+  },
+  "/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin-e66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-nv-me-m-2-ssd-for-jetson-orine-85-3ef"
+  },
   "/docs/Robotic Beehive/Design-a28": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-design-3-a-5-3c3"
@@ -1402,6 +1434,10 @@
   "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info-cb7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infofab-52d"
+  },
+  "/docs/Robotic Beehive/Jetson Orin Nano setup-b1a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-jetson-orin-nano-setup-7-d-0-acc"
   },
   "/docs/Robotic Beehive/Robot Vendors-6f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
