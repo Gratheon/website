@@ -25,13 +25,12 @@ As we are in volunteer mode, its expected that people are contributing with diff
 You can contribute by following these steps:
 
 1. [**Join our discord**](https://discord.gg/PcbP4uedWj)
-2. Pick a feature [Ideas and Features](https://www.notion.so/Ideas-and-Features-ca76f493a1454e14b7dfbae7bd292a2e?pvs=21) if you want to work on a large, full-stack part of the product. A feature requires product thinking and multiple expertises - UX, Frontend, Backend, DB, ML. Its a [**T**eam effort](https://www.notion.so/Team-effort-946788035d7f4462b4228eee8a4ca7ca?pvs=21)
-    - In large companies features are maintained by product managers
-3. Alternatively, pick a task from [Tasks](https://www.notion.so/Tasks-67cbebc3a13c4fb3b8ac3396b4d03af4?pvs=21) if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
-    - In large companies tasks are managed by a team in JIRA. We don’t use JIRA currently. We tried github issues but those add extra friction.
-4. Ask for more information in discord to get attention and document more information for the feature as part of [Features (prioritized and incomplete)](https://www.notion.so/Features-prioritized-and-incomplete-0ccc5a51879941eb8b6f220c261be046?pvs=21)
-5. Follow [Engineering onboarding](/docs/web-app/)  if you need to change code and run services locally
-6. Think ahead how your contribution will look like. We use different software [Internal tools & cloud services](https://www.notion.so/Internal-tools-cloud-services-2f74cf6da2854e03986c6de7bda3551a?pvs=21) to host results
+2. Read about [☑️ Features and tasks](../☑️%20Features%20and%20tasks.md)
+3. Pick a feature if you want to work on a large, full-stack part of the product. In large companies features are maintained by product managers
+4. Alternatively, pick a task from task list 🐙 https://github.com/orgs/Gratheon/projects/5 if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
+5. Ask for more information in discord to get attention and document more information for the feature
+6. Follow [Engineering onboarding](/docs/web-app/)  if you need to change code and run services locally
+7. Think how your contribution will look like. Usually its a code pull-request to a specific repository
 
 ### Contributions
 

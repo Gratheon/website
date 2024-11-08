@@ -1,13 +1,18 @@
 We think of product development as a hierarchy of abstractions:
 ## Use cases
 These are main customer journeys that may involve multiple features.
-Usually tied to [🧑‍🚀 Actions beekeepers make](products/🧑‍🚀%20Actions%20beekeepers%20make.md)
+You can also think of it as a memorable session where customer actively uses a product.
+For example, adding a beehive, modelling it, uploading first inspection photos to receive aggregate statistics. Use case results in an [🧑‍🚀 Actions beekeepers make](products/🧑‍🚀%20Actions%20beekeepers%20make.md).
 ### Adding new idea 💡
 You can add new idea of a feature by creating [a new file via github](https://github.com/Gratheon/website/tree/main/about/products/%F0%9F%93%B1Web-app/pro%20tier/ideas%20%F0%9F%92%A1) and describing it in markdown format. This pull request will be reviewed, same as code.
 ## Features and Ideas
-Feature is function that customer value in a product.
-Features offer a solution to one of the  [🌨️ Problems](🌨️%20Problems/🌨️%20Problems.md)
-Features is something we can promote in advertisments
+Feature is a large function that customer find valuable in a product. 
+We describe features on this website under every product.
+Features offer a solution to one of the  [🌨️ Problems](🌨️%20Problems/🌨️%20Problems.md).
+Features is something we can promote on front page or record a video about.
+Features are usually tracked by [Product manager 🦉](company/Roles/Product%20manager%20🦉.md) role
+A feature requires product thinking and multiple expertises - UX, Frontend, Backend, DB, ML. 
+Its a [Team effort 🐝](company/Culture%20and%20values%20🫀/Team%20effort%20🐝.md)
 ### Feature lifecycle
 We separate ideas and features _by product_ and _by billing tier_ to have better separation of which repository and device it its tied to the most. Separation by tier is tied to the complexity of the task and how much does it cost to maintain _infrastructure_.
 ## Tasks
