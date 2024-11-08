@@ -28,8 +28,9 @@
   --ifm-footer-padding-vertical: 0;
   --ifm-h1-font-size: 2rem;
 
-  --ifm-table-head-background: #ffd900;
-  --ifm-table-border-color: #0016ffb3;
+  --ifm-table-head-background: #00a400;
+  --ifm-table-border-color: #0000001a;
+  --ifm-table-head-color: white;
 }
 
 .markdown h1:first-child {
