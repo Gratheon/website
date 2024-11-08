@@ -8,7 +8,7 @@ sidebar_position: 0
 
 Gratheon is a garage-phase bootstrapping startup with big dreams. See [📑 deck](deck.pdf) for quick overview. 
 
-We highly encourage to join [volunteering](company/Volunteers/index.md) program and contribute to open source, especially if you are a beekeeper.
+We highly encourage to join [volunteering](company/Volunteers%20❤️‍🔥/Volunteers%20❤️‍🔥.md) program and contribute to open source, especially if you are a beekeeper.
 
 ## Some numbers
 
@@ -23,4 +23,4 @@ We highly encourage to join [volunteering](company/Volunteers/index.md) program 
 - 📱 Android app live 10+ installs
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Swm6fDi-cPE" title="About Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/lcJt2vBEJew" title="About Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

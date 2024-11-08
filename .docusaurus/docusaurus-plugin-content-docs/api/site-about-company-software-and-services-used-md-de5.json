@@ -1,0 +1,23 @@
+{
+  "id": "company/Software and services used",
+  "title": "Software and services used",
+  "description": "- Task management - Clickup",
+  "source": "@site/about/company/Software and services used.md",
+  "sourceDirName": "company",
+  "slug": "/company/Software and services used",
+  "permalink": "/about/company/Software and services used",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX designer 🔲",
+    "permalink": "/about/company/Roles/UX designer 🔲"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  }
+}

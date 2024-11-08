@@ -1,0 +1,25 @@
+{
+  "id": "company/Volunteers ❤️‍🔥/Natalia Kinash",
+  "title": "Natalia Kinash",
+  "description": "https://www.linkedin.com/in/nataliia-kinash/",
+  "source": "@site/about/company/Volunteers ❤️‍🔥/Natalia Kinash.md",
+  "sourceDirName": "company/Volunteers ❤️‍🔥",
+  "slug": "/company/Volunteers ❤️‍🔥/Natalia Kinash",
+  "permalink": "/about/company/Volunteers ❤️‍🔥/Natalia Kinash",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muhammad Zain Shakeel",
+    "permalink": "/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel"
+  },
+  "next": {
+    "title": "Olena Stoliarova",
+    "permalink": "/about/company/Volunteers ❤️‍🔥/Olena Stoliarova"
+  }
+}

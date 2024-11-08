@@ -245,6 +245,11 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "☑️ tasks/☑️ tasks",
+              "path": "/about/☑️ tasks/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "🌨️ Problems/❄️ Overwintering collapse",
               "path": "/about/🌨️ Problems/❄️ Overwintering collapse",
               "sidebar": "tutorialSidebar"
@@ -400,6 +405,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/🖥️ Services and tools that we use",
+              "path": "/about/company/🖥️ Services and tools that we use",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/🧶 Features and tasks",
+              "path": "/about/company/🧶 Features and tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Culture and values 🫀/Adapt to change 🏕️",
               "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
@@ -550,43 +565,43 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Ahmed Daoudi",
-              "path": "/about/company/Volunteers/Ahmed Daoudi",
+              "id": "company/Volunteers ❤️‍🔥/Ahmed Daoudi",
+              "path": "/about/company/Volunteers ❤️‍🔥/Ahmed Daoudi",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Aleksei Boris",
-              "path": "/about/company/Volunteers/Aleksei Boris",
+              "id": "company/Volunteers ❤️‍🔥/Aleksei Boris",
+              "path": "/about/company/Volunteers ❤️‍🔥/Aleksei Boris",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/index",
-              "path": "/about/company/Volunteers/",
+              "id": "company/Volunteers ❤️‍🔥/Kurban Ramazanov",
+              "path": "/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Kurban Ramazanov",
-              "path": "/about/company/Volunteers/Kurban Ramazanov",
+              "id": "company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
+              "path": "/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Muhammad Zain Shakeel",
-              "path": "/about/company/Volunteers/Muhammad Zain Shakeel",
+              "id": "company/Volunteers ❤️‍🔥/Natalia Kinash",
+              "path": "/about/company/Volunteers ❤️‍🔥/Natalia Kinash",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Natalia Kinash",
-              "path": "/about/company/Volunteers/Natalia Kinash",
+              "id": "company/Volunteers ❤️‍🔥/Olena Stoliarova",
+              "path": "/about/company/Volunteers ❤️‍🔥/Olena Stoliarova",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Olena Stoliarova",
-              "path": "/about/company/Volunteers/Olena Stoliarova",
+              "id": "company/Volunteers ❤️‍🔥/Reinis Indans",
+              "path": "/about/company/Volunteers ❤️‍🔥/Reinis Indans",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Volunteers/Reinis Indans",
-              "path": "/about/company/Volunteers/Reinis Indans",
+              "id": "company/Volunteers ❤️‍🔥/Volunteers ❤️‍🔥",
+              "path": "/about/company/Volunteers ❤️‍🔥/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -602,6 +617,11 @@
             {
               "id": "products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
               "path": "/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -770,88 +790,88 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🌍 user language + translations",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🌍 user language + translations",
+              "id": "products/📱Web-app/community tier/🌍 user language + translations",
+              "path": "/about/products/📱Web-app/community tier/🌍 user language + translations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🌪️ weather graph",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🌪️ weather graph",
+              "id": "products/📱Web-app/community tier/🌪️ weather graph",
+              "path": "/about/products/📱Web-app/community tier/🌪️ weather graph",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🌻 list of local plants",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🌻 list of local plants",
+              "id": "products/📱Web-app/community tier/🌻 list of local plants",
+              "path": "/about/products/📱Web-app/community tier/🌻 list of local plants",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🐝 Honeycomb cell detection & management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🐝 Honeycomb cell detection & management",
+              "id": "products/📱Web-app/community tier/🐝 Honeycomb cell detection & management",
+              "path": "/about/products/📱Web-app/community tier/🐝 Honeycomb cell detection & management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🐝 Worker bee detection",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🐝 Worker bee detection",
+              "id": "products/📱Web-app/community tier/🐝 Worker bee detection",
+              "path": "/about/products/📱Web-app/community tier/🐝 Worker bee detection",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/💶 Billing subscription",
-              "path": "/about/products/📱Web-app/community tier/features ✅/💶 Billing subscription",
+              "id": "products/📱Web-app/community tier/💶 Billing subscription",
+              "path": "/about/products/📱Web-app/community tier/💶 Billing subscription",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/📦 Apiary management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/📦 Apiary management",
+              "id": "products/📱Web-app/community tier/📦 Apiary management",
+              "path": "/about/products/📱Web-app/community tier/📦 Apiary management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/📦 Hive management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/📦 Hive management",
+              "id": "products/📱Web-app/community tier/📦 Hive management",
+              "path": "/about/products/📱Web-app/community tier/📦 Hive management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/📦 Hive section management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/📦 Hive section management",
+              "id": "products/📱Web-app/community tier/📦 Hive section management",
+              "path": "/about/products/📱Web-app/community tier/📦 Hive section management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/📱 mobile app",
-              "path": "/about/products/📱Web-app/community tier/features ✅/📱 mobile app",
+              "id": "products/📱Web-app/community tier/📱 mobile app",
+              "path": "/about/products/📱Web-app/community tier/📱 mobile app",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/📸 Frame side photo upload",
-              "path": "/about/products/📱Web-app/community tier/features ✅/📸 Frame side photo upload",
+              "id": "products/📱Web-app/community tier/📸 Frame side photo upload",
+              "path": "/about/products/📱Web-app/community tier/📸 Frame side photo upload",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🔐 API token management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🔐 API token management",
+              "id": "products/📱Web-app/community tier/🔐 API token management",
+              "path": "/about/products/📱Web-app/community tier/🔐 API token management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🖼️ Frame side management",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🖼️ Frame side management",
+              "id": "products/📱Web-app/community tier/🖼️ Frame side management",
+              "path": "/about/products/📱Web-app/community tier/🖼️ Frame side management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🧑‍🚀 User editing",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🧑‍🚀 User editing",
+              "id": "products/📱Web-app/community tier/🧑‍🚀 User editing",
+              "path": "/about/products/📱Web-app/community tier/🧑‍🚀 User editing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🧑‍🚀 User login",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🧑‍🚀 User login",
+              "id": "products/📱Web-app/community tier/🧑‍🚀 User login",
+              "path": "/about/products/📱Web-app/community tier/🧑‍🚀 User login",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🧑‍🚀 User registration",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🧑‍🚀 User registration",
+              "id": "products/📱Web-app/community tier/🧑‍🚀 User registration",
+              "path": "/about/products/📱Web-app/community tier/🧑‍🚀 User registration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community tier/features ✅/🙅 User account deletion",
-              "path": "/about/products/📱Web-app/community tier/features ✅/🙅 User account deletion",
+              "id": "products/📱Web-app/community tier/🙅 User account deletion",
+              "path": "/about/products/📱Web-app/community tier/🙅 User account deletion",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -915,23 +935,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/essential tier/features ✅/✏️ Drawing on canvas",
-              "path": "/about/products/📱Web-app/essential tier/features ✅/✏️ Drawing on canvas",
+              "id": "products/📱Web-app/essential tier/✏️ Drawing on canvas",
+              "path": "/about/products/📱Web-app/essential tier/✏️ Drawing on canvas",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/essential tier/features ✅/🍭 Feeding management",
-              "path": "/about/products/📱Web-app/essential tier/features ✅/🍭 Feeding management",
+              "id": "products/📱Web-app/essential tier/🍭 Feeding management",
+              "path": "/about/products/📱Web-app/essential tier/🍭 Feeding management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/essential tier/features ✅/🔎 Inspection management",
-              "path": "/about/products/📱Web-app/essential tier/features ✅/🔎 Inspection management",
+              "id": "products/📱Web-app/essential tier/🔎 Inspection management",
+              "path": "/about/products/📱Web-app/essential tier/🔎 Inspection management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/essential tier/features ✅/🤖 Beekeeping advice with LLM",
-              "path": "/about/products/📱Web-app/essential tier/features ✅/🤖 Beekeeping advice with LLM",
+              "id": "products/📱Web-app/essential tier/🤖 Beekeeping advice with LLM",
+              "path": "/about/products/📱Web-app/essential tier/🤖 Beekeeping advice with LLM",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1020,6 +1040,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/📱Web-app/pro tier/📅 Varroa Treatment diary",
+              "path": "/about/products/📱Web-app/pro tier/📅 Varroa Treatment diary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split",
               "path": "/about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split",
               "sidebar": "tutorialSidebar"
@@ -1097,11 +1122,6 @@
             {
               "id": "products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration",
               "path": "/about/products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/📱Web-app/pro tier/ideas 💡/📅 Varroa Treatment diary",
-              "path": "/about/products/📱Web-app/pro tier/ideas 💡/📅 Varroa Treatment diary",
               "sidebar": "tutorialSidebar"
             },
             {

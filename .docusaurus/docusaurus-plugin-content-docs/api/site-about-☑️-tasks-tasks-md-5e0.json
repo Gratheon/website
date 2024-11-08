@@ -1,0 +1,19 @@
+{
+  "id": "☑️ tasks/tasks",
+  "title": "tasks",
+  "description": "",
+  "source": "@site/about/☑️ tasks/tasks.md",
+  "sourceDirName": "☑️ tasks",
+  "slug": "/☑️ tasks/tasks",
+  "permalink": "/about/☑️ tasks/tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📢 Press kit",
+    "permalink": "/about/📢 Press kit"
+  }
+}

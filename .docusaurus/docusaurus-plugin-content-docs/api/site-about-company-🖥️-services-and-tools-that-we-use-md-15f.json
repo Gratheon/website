@@ -1,0 +1,23 @@
+{
+  "id": "company/🖥️ Services and tools that we use",
+  "title": "🖥️ Services and tools that we use",
+  "description": "General",
+  "source": "@site/about/company/🖥️ Services and tools that we use.md",
+  "sourceDirName": "company",
+  "slug": "/company/🖥️ Services and tools that we use",
+  "permalink": "/about/company/🖥️ Services and tools that we use",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  },
+  "next": {
+    "title": "🧶 Features and tasks",
+    "permalink": "/about/company/🧶 Features and tasks"
+  }
+}

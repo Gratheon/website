@@ -1,0 +1,23 @@
+{
+  "id": "company/Volunteers ❤️‍🔥/Kurban Ramazanov",
+  "title": "Kurban Ramazanov",
+  "description": "https://www.linkedin.com/in/kurban-ramazanov-2b50b026b/",
+  "source": "@site/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov.md",
+  "sourceDirName": "company/Volunteers ❤️‍🔥",
+  "slug": "/company/Volunteers ❤️‍🔥/Kurban Ramazanov",
+  "permalink": "/about/company/Volunteers ❤️‍🔥/Kurban Ramazanov",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aleksei Boris",
+    "permalink": "/about/company/Volunteers ❤️‍🔥/Aleksei Boris"
+  },
+  "next": {
+    "title": "Muhammad Zain Shakeel",
+    "permalink": "/about/company/Volunteers ❤️‍🔥/Muhammad Zain Shakeel"
+  }
+}

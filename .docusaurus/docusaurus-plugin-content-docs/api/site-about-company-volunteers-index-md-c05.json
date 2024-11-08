@@ -1,6 +1,6 @@
 {
   "id": "company/Volunteers/index",
-  "title": "Volunteering ❤️‍🔥",
+  "title": "Volunteers ❤️‍🔥",
   "description": "Why to volunteer",
   "source": "@site/about/company/Volunteers/index.md",
   "sourceDirName": "company/Volunteers",
@@ -12,7 +12,7 @@
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "title": "Volunteering ❤️‍🔥",
+    "title": "Volunteers ❤️‍🔥",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",

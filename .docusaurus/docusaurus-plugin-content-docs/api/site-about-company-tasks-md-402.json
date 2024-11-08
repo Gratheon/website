@@ -1,0 +1,23 @@
+{
+  "id": "company/Tasks",
+  "title": "Tasks",
+  "description": "W",
+  "source": "@site/about/company/Tasks.md",
+  "sourceDirName": "company",
+  "slug": "/company/Tasks",
+  "permalink": "/about/company/Tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX designer 🔲",
+    "permalink": "/about/company/Roles/UX designer 🔲"
+  },
+  "next": {
+    "title": "Equity & fundraising program plan 🦚",
+    "permalink": "/about/company/equity"
+  }
+}

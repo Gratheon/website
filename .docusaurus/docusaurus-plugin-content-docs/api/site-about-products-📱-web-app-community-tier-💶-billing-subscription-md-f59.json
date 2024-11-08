@@ -1,0 +1,23 @@
+{
+  "id": "products/📱Web-app/community tier/💶 Billing subscription",
+  "title": "💶 Billing subscription",
+  "description": "",
+  "source": "@site/about/products/📱Web-app/community tier/💶 Billing subscription.md",
+  "sourceDirName": "products/📱Web-app/community tier",
+  "slug": "/products/📱Web-app/community tier/💶 Billing subscription",
+  "permalink": "/about/products/📱Web-app/community tier/💶 Billing subscription",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Worker bee detection",
+    "permalink": "/about/products/📱Web-app/community tier/🐝 Worker bee detection"
+  },
+  "next": {
+    "title": "📦 Apiary management",
+    "permalink": "/about/products/📱Web-app/community tier/📦 Apiary management"
+  }
+}

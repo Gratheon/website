@@ -1,7 +1,7 @@
 {
   "id": "company/Team/Artjom Kurapov",
   "title": "Artjom Kurapov",
-  "description": "- Founder, Fullstack engineer, beekeeper",
+  "description": "- Role:",
   "source": "@site/about/company/Team/Artjom Kurapov.md",
   "sourceDirName": "company/Team",
   "slug": "/company/Team/Artjom Kurapov",
@@ -17,7 +17,7 @@
     "permalink": "/about/company/Team/Aleksei Prokopov"
   },
   "next": {
-    "title": "Volunteering ❤️‍🔥",
-    "permalink": "/about/company/Volunteers/"
+    "title": "Volunteers ❤️‍🔥",
+    "permalink": "/about/company/Volunteers ❤️‍🔥/"
   }
 }
