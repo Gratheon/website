@@ -81,6 +81,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "iot/Choice of procesor chip",
+              "path": "/docs/iot/Choice of procesor chip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "iot/components/Air Quality Sensor",
               "path": "/docs/iot/components/Air Quality Sensor",
               "sidebar": "tutorialSidebar"
@@ -148,11 +153,6 @@
             {
               "id": "iot/components/Weight sensor",
               "path": "/docs/iot/components/Weight sensor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/ESP32 setup",
-              "path": "/docs/iot/ESP32 setup",
               "sidebar": "tutorialSidebar"
             },
             {

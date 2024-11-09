@@ -1537,15 +1537,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '86d'),
+    component: ComponentCreator('/docs', 'b99'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '073'),
+        component: ComponentCreator('/docs', 'd2b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5e5'),
+            component: ComponentCreator('/docs', 'dbe'),
             routes: [
               {
                 path: '/docs/Docs',
@@ -1638,6 +1638,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/iot/Choice of procesor chip',
+                component: ComponentCreator('/docs/iot/Choice of procesor chip', '676'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/iot/components/',
                 component: ComponentCreator('/docs/iot/components/', '798'),
                 exact: true,
@@ -1718,12 +1724,6 @@ export default [
               {
                 path: '/docs/iot/components/Weight sensor',
                 component: ComponentCreator('/docs/iot/components/Weight sensor', 'dcc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/ESP32 setup',
-                component: ComponentCreator('/docs/iot/ESP32 setup', '8e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

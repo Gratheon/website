@@ -1290,17 +1290,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-reinis-indans-057-a48"
   },
-  "/docs-86d": {
+  "/docs-b99": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-073": {
+  "/docs-d2b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-5e5": {
+  "/docs-dbe": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
@@ -1363,6 +1363,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-3-d-model-2-c-7-d6f"
   },
+  "/docs/iot/Choice of procesor chip-676": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-choice-of-procesor-chip-8-fb-bd2"
+  },
   "/docs/iot/components/-798": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-5-e-2-3da"
@@ -1418,10 +1422,6 @@
   "/docs/iot/components/Weight sensor-dcc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-weight-sensorce-3-513"
-  },
-  "/docs/iot/ESP32 setup-8e7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-esp-32-setup-561-e54"
   },
   "/docs/Robotic Beehive/-d02": {
     "__comp": "__comp---theme-doc-item-178-a40",

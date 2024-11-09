@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ESP32 setup",
-    "permalink": "/docs/iot/ESP32 setup"
+    "title": "Choice of procesor chip",
+    "permalink": "/docs/iot/Choice of procesor chip"
   },
   "next": {
     "title": "Air Quality Sensor",
