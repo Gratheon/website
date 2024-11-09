@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
-    "permalink": "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module"
+    "title": "Temperature - Humidity sensors - DS18B20",
+    "permalink": "/docs/iot/components/DS18B20"
   },
   "next": {
     "title": "Microphone Amplifier Stable",

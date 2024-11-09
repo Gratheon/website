@@ -1537,15 +1537,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '76c'),
+    component: ComponentCreator('/docs', '86d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '8d9'),
+        component: ComponentCreator('/docs', '073'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0ac'),
+            component: ComponentCreator('/docs', '5e5'),
             routes: [
               {
                 path: '/docs/Docs',
@@ -1632,6 +1632,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/iot/3d model',
+                component: ComponentCreator('/docs/iot/3d model', '384'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/iot/components/',
                 component: ComponentCreator('/docs/iot/components/', '798'),
                 exact: true,
@@ -1674,6 +1680,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/iot/components/DS18B20',
+                component: ComponentCreator('/docs/iot/components/DS18B20', '40f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/iot/components/ESP32',
                 component: ComponentCreator('/docs/iot/components/ESP32', 'e9e'),
                 exact: true,
@@ -1700,12 +1712,6 @@ export default [
               {
                 path: '/docs/iot/components/Temperature - Humidity sensor alternative',
                 component: ComponentCreator('/docs/iot/components/Temperature - Humidity sensor alternative', '551'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/Temperature - Humidity sensors - DS18B20',
-                component: ComponentCreator('/docs/iot/components/Temperature - Humidity sensors - DS18B20', '16d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

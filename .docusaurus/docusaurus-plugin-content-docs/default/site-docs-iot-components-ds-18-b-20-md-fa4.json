@@ -1,0 +1,26 @@
+{
+  "id": "iot/components/DS18B20",
+  "title": "Temperature - Humidity sensors - DS18B20",
+  "description": "https://www.aliexpress.com/item/1005006431677780.html",
+  "source": "@site/docs/iot/components/DS18B20.md",
+  "sourceDirName": "iot/components",
+  "slug": "/iot/components/DS18B20",
+  "permalink": "/docs/iot/components/DS18B20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/iot/components/DS18B20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Temperature - Humidity sensors - DS18B20"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+    "permalink": "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module"
+  },
+  "next": {
+    "title": "ESP32",
+    "permalink": "/docs/iot/components/ESP32"
+  }
+}

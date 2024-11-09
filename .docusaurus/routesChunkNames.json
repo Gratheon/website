@@ -1290,17 +1290,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-reinis-indans-057-a48"
   },
-  "/docs-76c": {
+  "/docs-86d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-8d9": {
+  "/docs-073": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-0ac": {
+  "/docs-5e5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Docs-758": {
@@ -1359,6 +1359,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-bb-8-2b3"
   },
+  "/docs/iot/3d model-384": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-3-d-model-2-c-7-d6f"
+  },
   "/docs/iot/components/-798": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-5-e-2-3da"
@@ -1387,6 +1391,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-co-2-sensor-ens-160-b-93-fd4"
   },
+  "/docs/iot/components/DS18B20-40f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iot-components-ds-18-b-20-fa-4-399"
+  },
   "/docs/iot/components/ESP32-e9e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-esp-327-c-0-2da"
@@ -1406,10 +1414,6 @@
   "/docs/iot/components/Temperature - Humidity sensor alternative-551": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-iot-components-temperature-humidity-sensor-alternatived-51-954"
-  },
-  "/docs/iot/components/Temperature - Humidity sensors - DS18B20-16d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-temperature-humidity-sensors-ds-18-b-20384-d04"
   },
   "/docs/iot/components/Weight sensor-dcc": {
     "__comp": "__comp---theme-doc-item-178-a40",

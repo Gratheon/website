@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "iot/3d model",
+              "path": "/docs/iot/3d model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "iot/components/Air Quality Sensor",
               "path": "/docs/iot/components/Air Quality Sensor",
               "sidebar": "tutorialSidebar"
@@ -106,6 +111,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "iot/components/DS18B20",
+              "path": "/docs/iot/components/DS18B20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "iot/components/ESP32",
               "path": "/docs/iot/components/ESP32",
               "sidebar": "tutorialSidebar"
@@ -133,11 +143,6 @@
             {
               "id": "iot/components/Temperature - Humidity sensor alternative",
               "path": "/docs/iot/components/Temperature - Humidity sensor alternative",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Temperature - Humidity sensors - DS18B20",
-              "path": "/docs/iot/components/Temperature - Humidity sensors - DS18B20",
               "sidebar": "tutorialSidebar"
             },
             {

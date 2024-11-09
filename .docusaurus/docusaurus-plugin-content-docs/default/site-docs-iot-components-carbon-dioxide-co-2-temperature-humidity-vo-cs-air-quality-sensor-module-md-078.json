@@ -18,7 +18,7 @@
     "permalink": "/docs/iot/components/CO2 sensor - ENS160"
   },
   "next": {
-    "title": "ESP32",
-    "permalink": "/docs/iot/components/ESP32"
+    "title": "Temperature - Humidity sensors - DS18B20",
+    "permalink": "/docs/iot/components/DS18B20"
   }
 }

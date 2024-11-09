@@ -1,4 +1,4 @@
-- download Arduino IDE
+- download [Arduino IDE](https://www.arduino.cc/en/software)
 - under preferences, set this URL as extra sources [https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 - Make sure to change Arduino IDE upload speed to 115200 under Tools
 
