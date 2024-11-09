@@ -7,19 +7,11 @@
   "slug": "/Volunteers ❤️‍🔥/Natalia Kinash",
   "permalink": "/about/Volunteers ❤️‍🔥/Natalia Kinash",
   "draft": false,
-  "unlisted": false,
+  "unlisted": true,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Muhammad Zain Shakeel",
-    "permalink": "/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel"
-  },
-  "next": {
-    "title": "Olena Stoliarova",
-    "permalink": "/about/Volunteers ❤️‍🔥/Olena Stoliarova"
-  }
+  "sidebar": "tutorialSidebar"
 }
