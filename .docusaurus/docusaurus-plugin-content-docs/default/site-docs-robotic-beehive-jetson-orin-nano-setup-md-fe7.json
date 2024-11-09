@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/Jetson Orin Nano setup",
+  "title": "Jetson Orin Nano setup",
+  "description": "Compared to Jetson Nano it also has",
+  "source": "@site/docs/robotic-beehive/Jetson Orin Nano setup.md",
+  "sourceDirName": "robotic-beehive",
+  "slug": "/robotic-beehive/Jetson Orin Nano setup",
+  "permalink": "/docs/robotic-beehive/Jetson Orin Nano setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/Jetson Orin Nano setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+    "permalink": "/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info"
+  },
+  "next": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/robotic-beehive/Robot Vendors"
+  }
+}

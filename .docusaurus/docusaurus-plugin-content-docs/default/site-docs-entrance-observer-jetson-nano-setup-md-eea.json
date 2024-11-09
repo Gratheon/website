@@ -1,0 +1,27 @@
+{
+  "id": "entrance_observer/Jetson Nano setup",
+  "title": "Jetson Nano setup",
+  "description": "Installation",
+  "source": "@site/docs/entrance_observer/Jetson Nano setup.md",
+  "sourceDirName": "entrance_observer",
+  "slug": "/entrance_observer/Jetson Nano setup",
+  "permalink": "/docs/entrance_observer/Jetson Nano setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance_observer/Jetson Nano setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👁️‍🗨️ Entrance observer",
+    "permalink": "/docs/entrance_observer/"
+  },
+  "next": {
+    "title": "Remote Desktop connection setup 🖥️",
+    "permalink": "/docs/entrance_observer/Remote Desktop connection setup"
+  }
+}

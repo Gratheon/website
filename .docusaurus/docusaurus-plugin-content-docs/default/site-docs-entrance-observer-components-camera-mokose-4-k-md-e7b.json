@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components/Camera - Mokose 4k",
+  "title": "Camera - Mokose 4k",
+  "description": "URL//www.amazon.com/dp/B0814VFG12?ref=ppxyo2ovdtbproduct_details&th=1",
+  "source": "@site/docs/entrance-observer/components/Camera - Mokose 4k.md",
+  "sourceDirName": "entrance-observer/components",
+  "slug": "/entrance-observer/components/Camera - Mokose 4k",
+  "permalink": "/docs/entrance-observer/components/Camera - Mokose 4k",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components/Camera - Mokose 4k.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Which model to use for vision",
+    "permalink": "/docs/entrance-observer/Which model to use for vision"
+  },
+  "next": {
+    "title": "Camera mount",
+    "permalink": "/docs/entrance-observer/components/Camera mount"
+  }
+}

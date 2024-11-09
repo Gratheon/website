@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/components/Weight sensor",
+  "title": "Weight sensor",
+  "description": "Weight sensor (HX711) 20kg * 4",
+  "source": "@site/docs/beehive-sensors/components/Weight sensor.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/Weight sensor",
+  "permalink": "/docs/beehive-sensors/components/Weight sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/Weight sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Temperature - Humidity sensor alternative",
+    "permalink": "/docs/beehive-sensors/components/Temperature - Humidity sensor alternative"
+  },
+  "next": {
+    "title": "👁️‍🗨️ Entrance observer",
+    "permalink": "/docs/entrance-observer/"
+  }
+}

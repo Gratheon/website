@@ -1290,178 +1290,178 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-reinis-indans-057-a48"
   },
-  "/docs-b99": {
+  "/docs-a2a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-d2b": {
+  "/docs-63c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-dbe": {
+  "/docs-bac": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/beehive-sensors/-4d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-549-9a7"
+  },
+  "/docs/beehive-sensors/3d model-c9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-3-d-model-82-a-61d"
+  },
+  "/docs/beehive-sensors/Choice of procesor chip-390": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-choice-of-procesor-chipcb-3-821"
+  },
+  "/docs/beehive-sensors/components/-831": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-085-485"
+  },
+  "/docs/beehive-sensors/components/Air Quality Sensor-d7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-air-quality-sensor-5-b-4-ec1"
+  },
+  "/docs/beehive-sensors/components/Barometric pressure sensor-73d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-barometric-pressure-sensor-010-990"
+  },
+  "/docs/beehive-sensors/components/Barometric sensor - BMP180-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-barometric-sensor-bmp-1801-c-1-3e4"
+  },
+  "/docs/beehive-sensors/components/Battery 18650 with shield-b8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-battery-18650-with-shield-642-1de"
+  },
+  "/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module-c7f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-carbon-dioxide-co-2-temperature-humidity-vo-cs-air-quality-sensor-module-5-c-9-0d4"
+  },
+  "/docs/beehive-sensors/components/CO2 sensor - ENS160-f9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-co-2-sensor-ens-160763-b51"
+  },
+  "/docs/beehive-sensors/components/DS18B20-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-ds-18-b-209-e-9-ff6"
+  },
+  "/docs/beehive-sensors/components/ESP32-715": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-esp-32-c-67-4ff"
+  },
+  "/docs/beehive-sensors/components/Microphone Amplifier Stable-af9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-microphone-amplifier-stablee-72-5db"
+  },
+  "/docs/beehive-sensors/components/PM2 dust sensor-86a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-pm-2-dust-sensor-9-ba-d6a"
+  },
+  "/docs/beehive-sensors/components/Tampering - Vibration sensor-27e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-tampering-vibration-sensor-6-d-1-847"
+  },
+  "/docs/beehive-sensors/components/Temperature - Humidity sensor alternative-0a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-temperature-humidity-sensor-alternativec-5-f-93f"
+  },
+  "/docs/beehive-sensors/components/Weight sensor-348": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-weight-sensor-3-a-2-d89"
   },
   "/docs/Docs-758": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-docsa-0-a-6c1"
   },
-  "/docs/Entrance observer/-62a": {
+  "/docs/entrance-observer/-efa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-bb-7-0d4"
+    "content": "content---docs-entrance-observer-388-8b1"
   },
-  "/docs/Entrance observer/components/Camera - Mokose 4k-7c7": {
+  "/docs/entrance-observer/components/Camera - Mokose 4k-d8e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-camera-mokose-4-kc-1-c-599"
+    "content": "content---docs-entrance-observer-components-camera-mokose-4-ke-7-b-a75"
   },
-  "/docs/Entrance observer/components/Camera mount-db8": {
+  "/docs/entrance-observer/components/Camera mount-6a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-camera-mountb-8-a-ed4"
+    "content": "content---docs-entrance-observer-components-camera-mounta-9-c-f9b"
   },
-  "/docs/Entrance observer/components/Jetson Nano-6d4": {
+  "/docs/entrance-observer/components/Jetson Nano-2d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-jetson-nano-918-d8f"
+    "content": "content---docs-entrance-observer-components-jetson-nano-83-f-919"
   },
-  "/docs/Entrance observer/components/Jetson Nano case-dc4": {
+  "/docs/entrance-observer/components/Jetson Nano case-322": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-jetson-nano-case-5-c-5-816"
+    "content": "content---docs-entrance-observer-components-jetson-nano-case-317-002"
   },
-  "/docs/Entrance observer/components/SD card for Jetson Nano-9b6": {
+  "/docs/entrance-observer/components/SD card for Jetson Nano-e44": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-sd-card-for-jetson-nanod-2-a-f92"
+    "content": "content---docs-entrance-observer-components-sd-card-for-jetson-nanocab-e97"
   },
-  "/docs/Entrance observer/components/WiFi module for Jetson Nano-321": {
+  "/docs/entrance-observer/components/WiFi module for Jetson Nano-491": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-components-wi-fi-module-for-jetson-nano-241-d65"
+    "content": "content---docs-entrance-observer-components-wi-fi-module-for-jetson-nano-53-e-557"
   },
-  "/docs/Entrance observer/Datasets-b2d": {
+  "/docs/entrance-observer/Datasets-aff": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-datasets-643-a89"
+    "content": "content---docs-entrance-observer-datasets-45-b-c85"
   },
-  "/docs/Entrance observer/Jetson Nano setup-d33": {
+  "/docs/entrance-observer/Jetson Nano setup-ab4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-jetson-nano-setupb-84-fd0"
+    "content": "content---docs-entrance-observer-jetson-nano-setupf-62-2c9"
   },
-  "/docs/Entrance observer/ML processing devices-ef5": {
+  "/docs/entrance-observer/ML processing devices-e9d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-ml-processing-devicesfe-8-e23"
+    "content": "content---docs-entrance-observer-ml-processing-devicesb-7-a-1d8"
   },
-  "/docs/Entrance observer/Remote Desktop connection setup-cb8": {
+  "/docs/entrance-observer/Remote Desktop connection setup-d07": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-remote-desktop-connection-setup-08-b-80e"
+    "content": "content---docs-entrance-observer-remote-desktop-connection-setupd-16-23d"
   },
-  "/docs/Entrance observer/Which model to use for vision-df2": {
+  "/docs/entrance-observer/Which model to use for vision-a4a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-which-model-to-use-for-vision-858-cb1"
+    "content": "content---docs-entrance-observer-which-model-to-use-for-vision-154-35d"
   },
-  "/docs/iot/-bea": {
+  "/docs/robotic-beehive/-73b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-bb-8-2b3"
+    "content": "content---docs-robotic-beehive-93-c-1da"
   },
-  "/docs/iot/3d model-384": {
+  "/docs/robotic-beehive/4 axis gantry-0f3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-3-d-model-2-c-7-d6f"
+    "content": "content---docs-robotic-beehive-4-axis-gantryc-72-144"
   },
-  "/docs/iot/Choice of procesor chip-676": {
+  "/docs/robotic-beehive/CAD modelling 🫖-3f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-choice-of-procesor-chip-8-fb-bd2"
+    "content": "content---docs-robotic-beehive-cad-modelling-🫖-3-cd-80b"
   },
-  "/docs/iot/components/-798": {
+  "/docs/robotic-beehive/components/-f3d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-5-e-2-3da"
+    "content": "content---docs-robotic-beehive-components-4-e-9-202"
   },
-  "/docs/iot/components/Air Quality Sensor-74e": {
+  "/docs/robotic-beehive/components/Camera - Mokose 4k-c1d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-air-quality-sensor-131-b06"
+    "content": "content---docs-robotic-beehive-components-camera-mokose-4-k-764-850"
   },
-  "/docs/iot/components/Barometric pressure sensor-3a3": {
+  "/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin-d5e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-barometric-pressure-sensor-57-e-21b"
+    "content": "content---docs-robotic-beehive-components-nv-me-m-2-ssd-for-jetson-orin-880-cce"
   },
-  "/docs/iot/components/Barometric sensor - BMP180-b3a": {
+  "/docs/robotic-beehive/Design-cad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-barometric-sensor-bmp-180-ca-8-4d0"
+    "content": "content---docs-robotic-beehive-design-31-b-e3d"
   },
-  "/docs/iot/components/Battery 18650 with shield-83b": {
+  "/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info-f25": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-battery-18650-with-shieldc-6-a-dee"
+    "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infob-62-70f"
   },
-  "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module-4e1": {
+  "/docs/robotic-beehive/Jetson Orin Nano setup-971": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-carbon-dioxide-co-2-temperature-humidity-vo-cs-air-quality-sensor-module-078-5d4"
+    "content": "content---docs-robotic-beehive-jetson-orin-nano-setupfe-7-290"
   },
-  "/docs/iot/components/CO2 sensor - ENS160-dcd": {
+  "/docs/robotic-beehive/Robot Vendors-8d6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-co-2-sensor-ens-160-b-93-fd4"
-  },
-  "/docs/iot/components/DS18B20-40f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-ds-18-b-20-fa-4-399"
-  },
-  "/docs/iot/components/ESP32-e9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-esp-327-c-0-2da"
-  },
-  "/docs/iot/components/Microphone Amplifier Stable-65f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-microphone-amplifier-stable-752-b23"
-  },
-  "/docs/iot/components/PM2 dust sensor-31f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-pm-2-dust-sensor-9-c-7-7b9"
-  },
-  "/docs/iot/components/Tampering - Vibration sensor-9c1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-tampering-vibration-sensor-87-d-5de"
-  },
-  "/docs/iot/components/Temperature - Humidity sensor alternative-551": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-temperature-humidity-sensor-alternatived-51-954"
-  },
-  "/docs/iot/components/Weight sensor-dcc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-iot-components-weight-sensorce-3-513"
-  },
-  "/docs/Robotic Beehive/-d02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-fd-5-bdb"
-  },
-  "/docs/Robotic Beehive/4 axis gantry-f8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-4-axis-gantry-37-f-b69"
-  },
-  "/docs/Robotic Beehive/CAD modelling 🫖-0f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-cad-modelling-🫖-847-6eb"
-  },
-  "/docs/Robotic Beehive/components/-ea3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-components-364-22b"
-  },
-  "/docs/Robotic Beehive/components/Camera - Mokose 4k-09b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-components-camera-mokose-4-kc-5-c-925"
-  },
-  "/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin-e66": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-components-nv-me-m-2-ssd-for-jetson-orine-85-3ef"
-  },
-  "/docs/Robotic Beehive/Design-a28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-design-3-a-5-3c3"
-  },
-  "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info-cb7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infofab-52d"
-  },
-  "/docs/Robotic Beehive/Jetson Orin Nano setup-b1a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-jetson-orin-nano-setup-7-d-0-acc"
-  },
-  "/docs/Robotic Beehive/Robot Vendors-6f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-robotic-beehive-robot-vendors-985-226"
+    "content": "content---docs-robotic-beehive-robot-vendors-06-a-40d"
   },
   "/docs/web-app/-d1a": {
     "__comp": "__comp---theme-doc-item-178-a40",

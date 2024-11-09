@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components/Camera mount",
+  "title": "Camera mount",
+  "description": "URL: Mokose mount",
+  "source": "@site/docs/entrance-observer/components/Camera mount.md",
+  "sourceDirName": "entrance-observer/components",
+  "slug": "/entrance-observer/components/Camera mount",
+  "permalink": "/docs/entrance-observer/components/Camera mount",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components/Camera mount.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Camera - Mokose 4k",
+    "permalink": "/docs/entrance-observer/components/Camera - Mokose 4k"
+  },
+  "next": {
+    "title": "Jetson Nano case",
+    "permalink": "/docs/entrance-observer/components/Jetson Nano case"
+  }
+}

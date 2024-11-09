@@ -1,0 +1,26 @@
+{
+  "id": "beehive-sensors/components/index",
+  "title": "Bill of materials",
+  "description": "| title |",
+  "source": "@site/docs/beehive-sensors/components/index.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/",
+  "permalink": "/docs/beehive-sensors/components/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bill of materials"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Choice of procesor chip",
+    "permalink": "/docs/beehive-sensors/Choice of procesor chip"
+  },
+  "next": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/beehive-sensors/components/Air Quality Sensor"
+  }
+}

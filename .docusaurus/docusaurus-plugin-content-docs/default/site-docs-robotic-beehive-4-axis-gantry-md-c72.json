@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/4 axis gantry",
+  "title": "4 axis gantry",
+  "description": "This is a list of brainstormed ideas on how to move frames to take photos to automate inspections:",
+  "source": "@site/docs/robotic-beehive/4 axis gantry.md",
+  "sourceDirName": "robotic-beehive",
+  "slug": "/robotic-beehive/4 axis gantry",
+  "permalink": "/docs/robotic-beehive/4 axis gantry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/4 axis gantry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧿 Robotic beehive",
+    "permalink": "/docs/robotic-beehive/"
+  },
+  "next": {
+    "title": "CAD modelling 🫖",
+    "permalink": "/docs/robotic-beehive/CAD modelling 🫖"
+  }
+}

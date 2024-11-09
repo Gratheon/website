@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/components/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/robotic-beehive/components/index.md",
+  "sourceDirName": "robotic-beehive/components",
+  "slug": "/robotic-beehive/components/",
+  "permalink": "/docs/robotic-beehive/components/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/components/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robot Vendors",
+    "permalink": "/docs/robotic-beehive/Robot Vendors"
+  },
+  "next": {
+    "title": "Camera - Mokose 4k",
+    "permalink": "/docs/robotic-beehive/components/Camera - Mokose 4k"
+  }
+}

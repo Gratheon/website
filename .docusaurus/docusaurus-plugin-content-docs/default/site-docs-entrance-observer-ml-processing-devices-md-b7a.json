@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/ML processing devices",
+  "title": "ML processing devices",
+  "description": "| Vendor               | Device                                                    | Price    |",
+  "source": "@site/docs/entrance-observer/ML processing devices.md",
+  "sourceDirName": "entrance-observer",
+  "slug": "/entrance-observer/ML processing devices",
+  "permalink": "/docs/entrance-observer/ML processing devices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/ML processing devices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datasets",
+    "permalink": "/docs/entrance-observer/Datasets"
+  },
+  "next": {
+    "title": "Which model to use for vision",
+    "permalink": "/docs/entrance-observer/Which model to use for vision"
+  }
+}

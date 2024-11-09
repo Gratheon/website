@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/components/PM2 dust sensor",
+  "title": "PM2 dust sensor",
+  "description": "- DSM501A",
+  "source": "@site/docs/beehive-sensors/components/PM2 dust sensor.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/PM2 dust sensor",
+  "permalink": "/docs/beehive-sensors/components/PM2 dust sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/PM2 dust sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microphone Amplifier Stable",
+    "permalink": "/docs/beehive-sensors/components/Microphone Amplifier Stable"
+  },
+  "next": {
+    "title": "Tampering - Vibration sensor",
+    "permalink": "/docs/beehive-sensors/components/Tampering - Vibration sensor"
+  }
+}

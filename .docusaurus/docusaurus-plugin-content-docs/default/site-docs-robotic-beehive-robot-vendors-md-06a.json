@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/Robot Vendors",
+  "title": "Robot Vendors",
+  "description": "List of potential vendors for robot (parts)",
+  "source": "@site/docs/robotic-beehive/Robot Vendors.md",
+  "sourceDirName": "robotic-beehive",
+  "slug": "/robotic-beehive/Robot Vendors",
+  "permalink": "/docs/robotic-beehive/Robot Vendors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/Robot Vendors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Orin Nano setup",
+    "permalink": "/docs/robotic-beehive/Jetson Orin Nano setup"
+  },
+  "next": {
+    "title": "index",
+    "permalink": "/docs/robotic-beehive/components/"
+  }
+}

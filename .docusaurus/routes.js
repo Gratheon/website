@@ -1537,16 +1537,118 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b99'),
+    component: ComponentCreator('/docs', 'a2a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd2b'),
+        component: ComponentCreator('/docs', '63c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'dbe'),
+            component: ComponentCreator('/docs', 'bac'),
             routes: [
+              {
+                path: '/docs/beehive-sensors/',
+                component: ComponentCreator('/docs/beehive-sensors/', '4d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/3d model',
+                component: ComponentCreator('/docs/beehive-sensors/3d model', 'c9b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/Choice of procesor chip',
+                component: ComponentCreator('/docs/beehive-sensors/Choice of procesor chip', '390'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/',
+                component: ComponentCreator('/docs/beehive-sensors/components/', '831'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Air Quality Sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/Air Quality Sensor', 'd7b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Barometric pressure sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/Barometric pressure sensor', '73d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Barometric sensor - BMP180',
+                component: ComponentCreator('/docs/beehive-sensors/components/Barometric sensor - BMP180', '7f2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Battery 18650 with shield',
+                component: ComponentCreator('/docs/beehive-sensors/components/Battery 18650 with shield', 'b8e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module',
+                component: ComponentCreator('/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module', 'c7f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/CO2 sensor - ENS160',
+                component: ComponentCreator('/docs/beehive-sensors/components/CO2 sensor - ENS160', 'f9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/DS18B20',
+                component: ComponentCreator('/docs/beehive-sensors/components/DS18B20', 'f0b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/ESP32',
+                component: ComponentCreator('/docs/beehive-sensors/components/ESP32', '715'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Microphone Amplifier Stable',
+                component: ComponentCreator('/docs/beehive-sensors/components/Microphone Amplifier Stable', 'af9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/PM2 dust sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/PM2 dust sensor', '86a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Tampering - Vibration sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/Tampering - Vibration sensor', '27e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Temperature - Humidity sensor alternative',
+                component: ComponentCreator('/docs/beehive-sensors/components/Temperature - Humidity sensor alternative', '0a4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/Weight sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/Weight sensor', '348'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/Docs',
                 component: ComponentCreator('/docs/Docs', '758'),
@@ -1554,236 +1656,134 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/',
-                component: ComponentCreator('/docs/Entrance observer/', '62a'),
+                path: '/docs/entrance-observer/',
+                component: ComponentCreator('/docs/entrance-observer/', 'efa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/Camera - Mokose 4k',
-                component: ComponentCreator('/docs/Entrance observer/components/Camera - Mokose 4k', '7c7'),
+                path: '/docs/entrance-observer/components/Camera - Mokose 4k',
+                component: ComponentCreator('/docs/entrance-observer/components/Camera - Mokose 4k', 'd8e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/Camera mount',
-                component: ComponentCreator('/docs/Entrance observer/components/Camera mount', 'db8'),
+                path: '/docs/entrance-observer/components/Camera mount',
+                component: ComponentCreator('/docs/entrance-observer/components/Camera mount', '6a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/Jetson Nano',
-                component: ComponentCreator('/docs/Entrance observer/components/Jetson Nano', '6d4'),
+                path: '/docs/entrance-observer/components/Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components/Jetson Nano', '2d1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/Jetson Nano case',
-                component: ComponentCreator('/docs/Entrance observer/components/Jetson Nano case', 'dc4'),
+                path: '/docs/entrance-observer/components/Jetson Nano case',
+                component: ComponentCreator('/docs/entrance-observer/components/Jetson Nano case', '322'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/SD card for Jetson Nano',
-                component: ComponentCreator('/docs/Entrance observer/components/SD card for Jetson Nano', '9b6'),
+                path: '/docs/entrance-observer/components/SD card for Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components/SD card for Jetson Nano', 'e44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/components/WiFi module for Jetson Nano',
-                component: ComponentCreator('/docs/Entrance observer/components/WiFi module for Jetson Nano', '321'),
+                path: '/docs/entrance-observer/components/WiFi module for Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components/WiFi module for Jetson Nano', '491'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/Datasets',
-                component: ComponentCreator('/docs/Entrance observer/Datasets', 'b2d'),
+                path: '/docs/entrance-observer/Datasets',
+                component: ComponentCreator('/docs/entrance-observer/Datasets', 'aff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/Jetson Nano setup',
-                component: ComponentCreator('/docs/Entrance observer/Jetson Nano setup', 'd33'),
+                path: '/docs/entrance-observer/Jetson Nano setup',
+                component: ComponentCreator('/docs/entrance-observer/Jetson Nano setup', 'ab4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/ML processing devices',
-                component: ComponentCreator('/docs/Entrance observer/ML processing devices', 'ef5'),
+                path: '/docs/entrance-observer/ML processing devices',
+                component: ComponentCreator('/docs/entrance-observer/ML processing devices', 'e9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/Remote Desktop connection setup',
-                component: ComponentCreator('/docs/Entrance observer/Remote Desktop connection setup', 'cb8'),
+                path: '/docs/entrance-observer/Remote Desktop connection setup',
+                component: ComponentCreator('/docs/entrance-observer/Remote Desktop connection setup', 'd07'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Entrance observer/Which model to use for vision',
-                component: ComponentCreator('/docs/Entrance observer/Which model to use for vision', 'df2'),
+                path: '/docs/entrance-observer/Which model to use for vision',
+                component: ComponentCreator('/docs/entrance-observer/Which model to use for vision', 'a4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/',
-                component: ComponentCreator('/docs/iot/', 'bea'),
+                path: '/docs/robotic-beehive/',
+                component: ComponentCreator('/docs/robotic-beehive/', '73b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/3d model',
-                component: ComponentCreator('/docs/iot/3d model', '384'),
+                path: '/docs/robotic-beehive/4 axis gantry',
+                component: ComponentCreator('/docs/robotic-beehive/4 axis gantry', '0f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/Choice of procesor chip',
-                component: ComponentCreator('/docs/iot/Choice of procesor chip', '676'),
+                path: '/docs/robotic-beehive/CAD modelling 🫖',
+                component: ComponentCreator('/docs/robotic-beehive/CAD modelling 🫖', '3f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/',
-                component: ComponentCreator('/docs/iot/components/', '798'),
+                path: '/docs/robotic-beehive/components/',
+                component: ComponentCreator('/docs/robotic-beehive/components/', 'f3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/Air Quality Sensor',
-                component: ComponentCreator('/docs/iot/components/Air Quality Sensor', '74e'),
+                path: '/docs/robotic-beehive/components/Camera - Mokose 4k',
+                component: ComponentCreator('/docs/robotic-beehive/components/Camera - Mokose 4k', 'c1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/Barometric pressure sensor',
-                component: ComponentCreator('/docs/iot/components/Barometric pressure sensor', '3a3'),
+                path: '/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin',
+                component: ComponentCreator('/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin', 'd5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/Barometric sensor - BMP180',
-                component: ComponentCreator('/docs/iot/components/Barometric sensor - BMP180', 'b3a'),
+                path: '/docs/robotic-beehive/Design',
+                component: ComponentCreator('/docs/robotic-beehive/Design', 'cad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/Battery 18650 with shield',
-                component: ComponentCreator('/docs/iot/components/Battery 18650 with shield', '83b'),
+                path: '/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info',
+                component: ComponentCreator('/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info', 'f25'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module',
-                component: ComponentCreator('/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module', '4e1'),
+                path: '/docs/robotic-beehive/Jetson Orin Nano setup',
+                component: ComponentCreator('/docs/robotic-beehive/Jetson Orin Nano setup', '971'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/iot/components/CO2 sensor - ENS160',
-                component: ComponentCreator('/docs/iot/components/CO2 sensor - ENS160', 'dcd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/DS18B20',
-                component: ComponentCreator('/docs/iot/components/DS18B20', '40f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/ESP32',
-                component: ComponentCreator('/docs/iot/components/ESP32', 'e9e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/Microphone Amplifier Stable',
-                component: ComponentCreator('/docs/iot/components/Microphone Amplifier Stable', '65f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/PM2 dust sensor',
-                component: ComponentCreator('/docs/iot/components/PM2 dust sensor', '31f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/Tampering - Vibration sensor',
-                component: ComponentCreator('/docs/iot/components/Tampering - Vibration sensor', '9c1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/Temperature - Humidity sensor alternative',
-                component: ComponentCreator('/docs/iot/components/Temperature - Humidity sensor alternative', '551'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/iot/components/Weight sensor',
-                component: ComponentCreator('/docs/iot/components/Weight sensor', 'dcc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/',
-                component: ComponentCreator('/docs/Robotic Beehive/', 'd02'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/4 axis gantry',
-                component: ComponentCreator('/docs/Robotic Beehive/4 axis gantry', 'f8d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/CAD modelling 🫖',
-                component: ComponentCreator('/docs/Robotic Beehive/CAD modelling 🫖', '0f9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/components/',
-                component: ComponentCreator('/docs/Robotic Beehive/components/', 'ea3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/components/Camera - Mokose 4k',
-                component: ComponentCreator('/docs/Robotic Beehive/components/Camera - Mokose 4k', '09b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin',
-                component: ComponentCreator('/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin', 'e66'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/Design',
-                component: ComponentCreator('/docs/Robotic Beehive/Design', 'a28'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info',
-                component: ComponentCreator('/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info', 'cb7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/Jetson Orin Nano setup',
-                component: ComponentCreator('/docs/Robotic Beehive/Jetson Orin Nano setup', 'b1a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Robotic Beehive/Robot Vendors',
-                component: ComponentCreator('/docs/Robotic Beehive/Robot Vendors', '6f4'),
+                path: '/docs/robotic-beehive/Robot Vendors',
+                component: ComponentCreator('/docs/robotic-beehive/Robot Vendors', '8d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

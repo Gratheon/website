@@ -11,203 +11,203 @@
           "mainDocId": "Docs",
           "docs": [
             {
+              "id": "beehive-sensors/3d model",
+              "path": "/docs/beehive-sensors/3d model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/beehive-sensors",
+              "path": "/docs/beehive-sensors/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/Choice of procesor chip",
+              "path": "/docs/beehive-sensors/Choice of procesor chip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Air Quality Sensor",
+              "path": "/docs/beehive-sensors/components/Air Quality Sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Barometric pressure sensor",
+              "path": "/docs/beehive-sensors/components/Barometric pressure sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Barometric sensor - BMP180",
+              "path": "/docs/beehive-sensors/components/Barometric sensor - BMP180",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Battery 18650 with shield",
+              "path": "/docs/beehive-sensors/components/Battery 18650 with shield",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+              "path": "/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/CO2 sensor - ENS160",
+              "path": "/docs/beehive-sensors/components/CO2 sensor - ENS160",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/DS18B20",
+              "path": "/docs/beehive-sensors/components/DS18B20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/ESP32",
+              "path": "/docs/beehive-sensors/components/ESP32",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/index",
+              "path": "/docs/beehive-sensors/components/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Microphone Amplifier Stable",
+              "path": "/docs/beehive-sensors/components/Microphone Amplifier Stable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/PM2 dust sensor",
+              "path": "/docs/beehive-sensors/components/PM2 dust sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Tampering - Vibration sensor",
+              "path": "/docs/beehive-sensors/components/Tampering - Vibration sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Temperature - Humidity sensor alternative",
+              "path": "/docs/beehive-sensors/components/Temperature - Humidity sensor alternative",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beehive-sensors/components/Weight sensor",
+              "path": "/docs/beehive-sensors/components/Weight sensor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Docs",
               "path": "/docs/Docs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/Camera - Mokose 4k",
-              "path": "/docs/Entrance observer/components/Camera - Mokose 4k",
+              "id": "entrance-observer/components/Camera - Mokose 4k",
+              "path": "/docs/entrance-observer/components/Camera - Mokose 4k",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/Camera mount",
-              "path": "/docs/Entrance observer/components/Camera mount",
+              "id": "entrance-observer/components/Camera mount",
+              "path": "/docs/entrance-observer/components/Camera mount",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/Jetson Nano",
-              "path": "/docs/Entrance observer/components/Jetson Nano",
+              "id": "entrance-observer/components/Jetson Nano",
+              "path": "/docs/entrance-observer/components/Jetson Nano",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/Jetson Nano case",
-              "path": "/docs/Entrance observer/components/Jetson Nano case",
+              "id": "entrance-observer/components/Jetson Nano case",
+              "path": "/docs/entrance-observer/components/Jetson Nano case",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/SD card for Jetson Nano",
-              "path": "/docs/Entrance observer/components/SD card for Jetson Nano",
+              "id": "entrance-observer/components/SD card for Jetson Nano",
+              "path": "/docs/entrance-observer/components/SD card for Jetson Nano",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/components/WiFi module for Jetson Nano",
-              "path": "/docs/Entrance observer/components/WiFi module for Jetson Nano",
+              "id": "entrance-observer/components/WiFi module for Jetson Nano",
+              "path": "/docs/entrance-observer/components/WiFi module for Jetson Nano",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/Datasets",
-              "path": "/docs/Entrance observer/Datasets",
+              "id": "entrance-observer/Datasets",
+              "path": "/docs/entrance-observer/Datasets",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/index",
-              "path": "/docs/Entrance observer/",
+              "id": "entrance-observer/entrance-observer",
+              "path": "/docs/entrance-observer/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/Jetson Nano setup",
-              "path": "/docs/Entrance observer/Jetson Nano setup",
+              "id": "entrance-observer/Jetson Nano setup",
+              "path": "/docs/entrance-observer/Jetson Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/ML processing devices",
-              "path": "/docs/Entrance observer/ML processing devices",
+              "id": "entrance-observer/ML processing devices",
+              "path": "/docs/entrance-observer/ML processing devices",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/Remote Desktop connection setup",
-              "path": "/docs/Entrance observer/Remote Desktop connection setup",
+              "id": "entrance-observer/Remote Desktop connection setup",
+              "path": "/docs/entrance-observer/Remote Desktop connection setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Entrance observer/Which model to use for vision",
-              "path": "/docs/Entrance observer/Which model to use for vision",
+              "id": "entrance-observer/Which model to use for vision",
+              "path": "/docs/entrance-observer/Which model to use for vision",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/3d model",
-              "path": "/docs/iot/3d model",
+              "id": "robotic-beehive/4 axis gantry",
+              "path": "/docs/robotic-beehive/4 axis gantry",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/Choice of procesor chip",
-              "path": "/docs/iot/Choice of procesor chip",
+              "id": "robotic-beehive/CAD modelling 🫖",
+              "path": "/docs/robotic-beehive/CAD modelling 🫖",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Air Quality Sensor",
-              "path": "/docs/iot/components/Air Quality Sensor",
+              "id": "robotic-beehive/components/Camera - Mokose 4k",
+              "path": "/docs/robotic-beehive/components/Camera - Mokose 4k",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Barometric pressure sensor",
-              "path": "/docs/iot/components/Barometric pressure sensor",
+              "id": "robotic-beehive/components/index",
+              "path": "/docs/robotic-beehive/components/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Barometric sensor - BMP180",
-              "path": "/docs/iot/components/Barometric sensor - BMP180",
+              "id": "robotic-beehive/components/NVMe M2 SSD for Jetson Orin",
+              "path": "/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Battery 18650 with shield",
-              "path": "/docs/iot/components/Battery 18650 with shield",
+              "id": "robotic-beehive/Design",
+              "path": "/docs/robotic-beehive/Design",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
-              "path": "/docs/iot/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+              "id": "robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+              "path": "/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/CO2 sensor - ENS160",
-              "path": "/docs/iot/components/CO2 sensor - ENS160",
+              "id": "robotic-beehive/Jetson Orin Nano setup",
+              "path": "/docs/robotic-beehive/Jetson Orin Nano setup",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/DS18B20",
-              "path": "/docs/iot/components/DS18B20",
+              "id": "robotic-beehive/Robot Vendors",
+              "path": "/docs/robotic-beehive/Robot Vendors",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "iot/components/ESP32",
-              "path": "/docs/iot/components/ESP32",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/index",
-              "path": "/docs/iot/components/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Microphone Amplifier Stable",
-              "path": "/docs/iot/components/Microphone Amplifier Stable",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/PM2 dust sensor",
-              "path": "/docs/iot/components/PM2 dust sensor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Tampering - Vibration sensor",
-              "path": "/docs/iot/components/Tampering - Vibration sensor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Temperature - Humidity sensor alternative",
-              "path": "/docs/iot/components/Temperature - Humidity sensor alternative",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/components/Weight sensor",
-              "path": "/docs/iot/components/Weight sensor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "iot/index",
-              "path": "/docs/iot/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/4 axis gantry",
-              "path": "/docs/Robotic Beehive/4 axis gantry",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/CAD modelling 🫖",
-              "path": "/docs/Robotic Beehive/CAD modelling 🫖",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/components/Camera - Mokose 4k",
-              "path": "/docs/Robotic Beehive/components/Camera - Mokose 4k",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/components/index",
-              "path": "/docs/Robotic Beehive/components/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/components/NVMe M2 SSD for Jetson Orin",
-              "path": "/docs/Robotic Beehive/components/NVMe M2 SSD for Jetson Orin",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/Design",
-              "path": "/docs/Robotic Beehive/Design",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
-              "path": "/docs/Robotic Beehive/FUYU 3-axis gantry + AMC-4030 controller info",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/Jetson Orin Nano setup",
-              "path": "/docs/Robotic Beehive/Jetson Orin Nano setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/Robot Vendors",
-              "path": "/docs/Robotic Beehive/Robot Vendors",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Robotic Beehive/Robotic beehive",
-              "path": "/docs/Robotic Beehive/",
+              "id": "robotic-beehive/robotic-beehive",
+              "path": "/docs/robotic-beehive/",
               "sidebar": "tutorialSidebar"
             },
             {

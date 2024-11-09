@@ -1,0 +1,29 @@
+{
+  "id": "entrance-observer/entrance-observer",
+  "title": "👁️‍🗨️ Entrance observer",
+  "description": "Main client service is beehive-entrance-video-processor, it needs to run on the edge device to capture and send data to web-app. Our main priority is inference on the edge device, but we also want to have hybrid inference with cloud support.",
+  "source": "@site/docs/entrance-observer/entrance-observer.md",
+  "sourceDirName": "entrance-observer",
+  "slug": "/entrance-observer/",
+  "permalink": "/docs/entrance-observer/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/entrance-observer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "👁️‍🗨️ Entrance observer",
+    "sidebar_position": 4,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Weight sensor",
+    "permalink": "/docs/beehive-sensors/components/Weight sensor"
+  },
+  "next": {
+    "title": "Jetson Nano setup",
+    "permalink": "/docs/entrance-observer/Jetson Nano setup"
+  }
+}

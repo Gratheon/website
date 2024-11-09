@@ -1,0 +1,24 @@
+{
+  "id": "robotic_beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+  "description": "Pros",
+  "source": "@site/docs/robotic_beehive/FUYU 3-axis gantry + AMC-4030 controller info.md",
+  "sourceDirName": "robotic_beehive",
+  "slug": "/robotic_beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "permalink": "/docs/robotic_beehive/FUYU 3-axis gantry + AMC-4030 controller info",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic_beehive/FUYU 3-axis gantry + AMC-4030 controller info.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design",
+    "permalink": "/docs/robotic_beehive/Design"
+  },
+  "next": {
+    "title": "Jetson Orin Nano setup",
+    "permalink": "/docs/robotic_beehive/Jetson Orin Nano setup"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/Design",
+  "title": "Design",
+  "description": "status: idea",
+  "source": "@site/docs/robotic-beehive/Design.md",
+  "sourceDirName": "robotic-beehive",
+  "slug": "/robotic-beehive/Design",
+  "permalink": "/docs/robotic-beehive/Design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/Design.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CAD modelling 🫖",
+    "permalink": "/docs/robotic-beehive/CAD modelling 🫖"
+  },
+  "next": {
+    "title": "FUYU 3-axis gantry + AMC-4030 controller info",
+    "permalink": "/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info"
+  }
+}

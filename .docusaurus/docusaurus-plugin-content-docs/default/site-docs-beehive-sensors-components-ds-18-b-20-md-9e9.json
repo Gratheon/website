@@ -1,0 +1,26 @@
+{
+  "id": "beehive-sensors/components/DS18B20",
+  "title": "Temperature - Humidity sensors - DS18B20",
+  "description": "https://www.aliexpress.com/item/1005006431677780.html",
+  "source": "@site/docs/beehive-sensors/components/DS18B20.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/DS18B20",
+  "permalink": "/docs/beehive-sensors/components/DS18B20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/DS18B20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Temperature - Humidity sensors - DS18B20"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+    "permalink": "/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module"
+  },
+  "next": {
+    "title": "ESP32",
+    "permalink": "/docs/beehive-sensors/components/ESP32"
+  }
+}

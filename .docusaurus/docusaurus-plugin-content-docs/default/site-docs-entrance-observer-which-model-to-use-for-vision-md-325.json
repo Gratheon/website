@@ -1,0 +1,24 @@
+{
+  "id": "entrance_observer/Which model to use for vision",
+  "title": "Which model to use for vision",
+  "description": "- YoloV5 ← current",
+  "source": "@site/docs/entrance_observer/Which model to use for vision.md",
+  "sourceDirName": "entrance_observer",
+  "slug": "/entrance_observer/Which model to use for vision",
+  "permalink": "/docs/entrance_observer/Which model to use for vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance_observer/Which model to use for vision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML processing devices",
+    "permalink": "/docs/entrance_observer/ML processing devices"
+  },
+  "next": {
+    "title": "Camera - Mokose 4k",
+    "permalink": "/docs/entrance_observer/components/Camera - Mokose 4k"
+  }
+}

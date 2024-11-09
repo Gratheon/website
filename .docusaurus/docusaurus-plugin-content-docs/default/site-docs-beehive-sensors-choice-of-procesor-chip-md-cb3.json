@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/Choice of procesor chip",
+  "title": "Choice of procesor chip",
+  "description": "| Name             |                                                        | Frequency | Networking     | Chip           | RAM   |",
+  "source": "@site/docs/beehive-sensors/Choice of procesor chip.md",
+  "sourceDirName": "beehive-sensors",
+  "slug": "/beehive-sensors/Choice of procesor chip",
+  "permalink": "/docs/beehive-sensors/Choice of procesor chip",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/Choice of procesor chip.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3d model",
+    "permalink": "/docs/beehive-sensors/3d model"
+  },
+  "next": {
+    "title": "Bill of materials",
+    "permalink": "/docs/beehive-sensors/components/"
+  }
+}

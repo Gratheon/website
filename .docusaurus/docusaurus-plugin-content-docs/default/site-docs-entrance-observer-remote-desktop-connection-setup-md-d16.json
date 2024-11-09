@@ -1,0 +1,28 @@
+{
+  "id": "entrance-observer/Remote Desktop connection setup",
+  "title": "Remote Desktop connection setup 🖥️",
+  "description": "Remote desktop with VNC",
+  "source": "@site/docs/entrance-observer/Remote Desktop connection setup.md",
+  "sourceDirName": "entrance-observer",
+  "slug": "/entrance-observer/Remote Desktop connection setup",
+  "permalink": "/docs/entrance-observer/Remote Desktop connection setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/Remote Desktop connection setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Remote Desktop connection setup 🖥️"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Nano setup",
+    "permalink": "/docs/entrance-observer/Jetson Nano setup"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/docs/entrance-observer/Datasets"
+  }
+}

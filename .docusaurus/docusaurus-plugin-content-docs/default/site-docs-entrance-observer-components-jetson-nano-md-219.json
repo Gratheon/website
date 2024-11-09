@@ -1,0 +1,24 @@
+{
+  "id": "entrance_observer/components/Jetson Nano",
+  "title": "Jetson Nano",
+  "description": "- price: 230 EUR",
+  "source": "@site/docs/entrance_observer/components/Jetson Nano.md",
+  "sourceDirName": "entrance_observer/components",
+  "slug": "/entrance_observer/components/Jetson Nano",
+  "permalink": "/docs/entrance_observer/components/Jetson Nano",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance_observer/components/Jetson Nano.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetson Nano case",
+    "permalink": "/docs/entrance_observer/components/Jetson Nano case"
+  },
+  "next": {
+    "title": "SD card for Jetson Nano",
+    "permalink": "/docs/entrance_observer/components/SD card for Jetson Nano"
+  }
+}

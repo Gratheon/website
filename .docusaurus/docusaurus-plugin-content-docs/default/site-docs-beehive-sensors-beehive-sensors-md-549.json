@@ -1,0 +1,29 @@
+{
+  "id": "beehive-sensors/beehive-sensors",
+  "title": "🌡️ Beehive IoT sensors",
+  "description": "Architecture",
+  "source": "@site/docs/beehive-sensors/beehive-sensors.md",
+  "sourceDirName": "beehive-sensors",
+  "slug": "/beehive-sensors/",
+  "permalink": "/docs/beehive-sensors/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/beehive-sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "🌡️ Beehive IoT sensors",
+    "sidebar_position": 3,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/web-app/UX - UI wireframes"
+  },
+  "next": {
+    "title": "3d model",
+    "permalink": "/docs/beehive-sensors/3d model"
+  }
+}

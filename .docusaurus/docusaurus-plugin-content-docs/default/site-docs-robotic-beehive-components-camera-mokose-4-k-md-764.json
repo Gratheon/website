@@ -1,0 +1,24 @@
+{
+  "id": "robotic-beehive/components/Camera - Mokose 4k",
+  "title": "Camera - Mokose 4k",
+  "description": "URL//www.amazon.com/dp/B0814VFG12?ref=ppxyo2ovdtbproduct_details&th=1",
+  "source": "@site/docs/robotic-beehive/components/Camera - Mokose 4k.md",
+  "sourceDirName": "robotic-beehive/components",
+  "slug": "/robotic-beehive/components/Camera - Mokose 4k",
+  "permalink": "/docs/robotic-beehive/components/Camera - Mokose 4k",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/robotic-beehive/components/Camera - Mokose 4k.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "index",
+    "permalink": "/docs/robotic-beehive/components/"
+  },
+  "next": {
+    "title": "NVMe M2 SSD for Jetson Orin",
+    "permalink": "/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin"
+  }
+}
