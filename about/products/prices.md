@@ -11,8 +11,6 @@ hide_table_of_contents: true
 | low-priority frame detections                                                                                                  | high-priority frame detections                                                                                          | Entrance video monitoring                                                                     |
 
 
-See which features are planned in which plan in [💡Ideas and Features](https://gratheon.com/Products%2058e0ca42932f483aa6654f96baccb97a/Ideas%20and%20Features%20ca76f493a1454e14b7dfbae7bd292a2e.html).  
-
 ## Professional plan calculation logic
 - **10** EUR per user per month
 - 5 EUR per beehive in web-app

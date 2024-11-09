@@ -1,0 +1,21 @@
+{
+  "id": "approximation.pdf",
+  "title": "Approximation of functions determining colony activity using neural networks. Master thesis",
+  "description": "- PDF",
+  "source": "@site/research/2023-approximation.pdf.md",
+  "sourceDirName": ".",
+  "slug": "/approximation.pdf",
+  "permalink": "/research/approximation.pdf",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2023,
+  "frontMatter": {
+    "title": "Approximation of functions determining colony activity using neural networks. Master thesis",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ],
+    "year": "2023"
+  }
+}

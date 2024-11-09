@@ -3,6 +3,11 @@ title: "Accuracy vs. Energy: An Assessment of Bee Object Inference inVideos from
 orgs:
   - 🇺🇸 Utah State University
 year: "2023"
+hide_table_of_contents: true
 ---
-- [PDF](pdfs/Accuracy%20vs.%20Energy_%20An%20Assessment%20of%20Bee%20Object%20Inference%20in%20Vid.pdf)
-![](pdfs/Accuracy%20vs.%20Energy_%20An%20Assessment%20of%20Bee%20Object%20Inference%20in%20Vid.pdf)
+- [PDF](pdfs/2023-yolov4.pdf)
+
+
+<object data={require('./pdfs/2023-yolov4.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
+![](pdfs/2023-yolov4.pdf)

@@ -3,8 +3,11 @@ year: "2024"
 orgs:
   - 🇨🇿 Brno University of Technology
   - 🇫🇮 LUT University
+hide_table_of_contents: true
 ---
 
-[PDF](pdfs/Varroa%20destructor%20detection%20on%20honey%20bees%20using%20hyperspectral%20imagery.pdf)
+[PDF](pdfs/2024-varroa-destructor.pdf)
 
-![](pdfs/Varroa%20destructor%20detection%20on%20honey%20bees%20using%20hyperspectral%20imagery.pdf)
+<object data={require('./pdfs/2024-varroa-destructor.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
+![](pdfs/2024-varroa-destructor.pdf)

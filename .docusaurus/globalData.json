@@ -1434,8 +1434,8 @@
               "path": "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
             },
             {
-              "id": "Approximation of functions determining colony activity using neural networks - master thesis",
-              "path": "/research/Approximation of functions determining colony activity using neural networks - master thesis"
+              "id": "Approximation of functions",
+              "path": "/research/Approximation of functions"
             },
             {
               "id": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
@@ -1444,10 +1444,6 @@
             {
               "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
               "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
-            },
-            {
-              "id": "BeeNet An End-To-End Deep Network For Bee Surveillance",
-              "path": "/research/BeeNet An End-To-End Deep Network For Bee Surveillance"
             },
             {
               "id": "BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",

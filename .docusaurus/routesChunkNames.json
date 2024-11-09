@@ -1471,17 +1471,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-ux-ui-wireframes-256-93e"
   },
-  "/research-25c": {
+  "/research-ad2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-054": {
+  "/research-2da": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-6bf": {
+  "/research-445": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -1528,9 +1528,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-ambient-electromagnetic-radiation-as-a-predictor-of-honey-bee-traffic-4-d-2-2d8"
   },
-  "/research/Approximation of functions determining colony activity using neural networks - master thesis-99d": {
+  "/research/Approximation of functions-af6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-approximation-of-functions-determining-colony-activity-using-neural-networks-master-thesis-91-c-f9d"
+    "content": "content---research-approximation-of-functions-342-596"
   },
   "/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring-668": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1539,10 +1539,6 @@
   "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance-9c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillanceeab-c77"
-  },
-  "/research/BeeNet An End-To-End Deep Network For Bee Surveillance-853": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-bee-net-an-end-to-end-deep-network-for-bee-surveillance-40-e-711"
   },
   "/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos-954": {
     "__comp": "__comp---theme-doc-item-178-a40",

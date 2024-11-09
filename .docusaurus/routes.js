@@ -1807,15 +1807,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '25c'),
+    component: ComponentCreator('/research', 'ad2'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '054'),
+        component: ComponentCreator('/research', '2da'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '6bf'),
+            component: ComponentCreator('/research', '445'),
             routes: [
               {
                 path: '/research/',
@@ -1873,8 +1873,8 @@ export default [
                 exact: true
               },
               {
-                path: '/research/Approximation of functions determining colony activity using neural networks - master thesis',
-                component: ComponentCreator('/research/Approximation of functions determining colony activity using neural networks - master thesis', '99d'),
+                path: '/research/Approximation of functions',
+                component: ComponentCreator('/research/Approximation of functions', 'af6'),
                 exact: true
               },
               {
@@ -1885,11 +1885,6 @@ export default [
               {
                 path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
                 component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
-                exact: true
-              },
-              {
-                path: '/research/BeeNet An End-To-End Deep Network For Bee Surveillance',
-                component: ComponentCreator('/research/BeeNet An End-To-End Deep Network For Bee Surveillance', '853'),
                 exact: true
               },
               {

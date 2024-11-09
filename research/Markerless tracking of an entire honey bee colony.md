@@ -2,8 +2,11 @@
 year: "2021"
 orgs:
   - 🇯🇵 Okinawa Institute of Science and Technology Graduate University
+hide_table_of_contents: true
 ---
 
-[PDF](pdfs/Markerless%20tracking%20of%20an%20entire%20honey%20bee%20colony.pdf)
+[PDF](pdfs/2021-markerless.pdf)
 
-![](pdfs/Markerless%20tracking%20of%20an%20entire%20honey%20bee%20colony.pdf)
+<object data={require('./pdfs/2021-markerless.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
+![](pdfs/2021-markerless.pdf)

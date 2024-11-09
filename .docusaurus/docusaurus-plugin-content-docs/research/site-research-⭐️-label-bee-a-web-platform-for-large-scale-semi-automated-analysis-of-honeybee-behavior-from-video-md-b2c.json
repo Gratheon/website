@@ -15,6 +15,7 @@
     "orgs": [
       "🇵🇷 University of Puerto Rico"
     ],
-    "year": "2019"
+    "year": "2019",
+    "hide_table_of_contents": true
   }
 }
