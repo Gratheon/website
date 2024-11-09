@@ -7,11 +7,19 @@
   "slug": "/Volunteers ❤️‍🔥/Reinis Indans",
   "permalink": "/about/Volunteers ❤️‍🔥/Reinis Indans",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Olena Stoliarova",
+    "permalink": "/about/Volunteers ❤️‍🔥/Olena Stoliarova"
+  },
+  "next": {
+    "title": "📢 Press kit",
+    "permalink": "/about/📢 Press kit"
+  }
 }

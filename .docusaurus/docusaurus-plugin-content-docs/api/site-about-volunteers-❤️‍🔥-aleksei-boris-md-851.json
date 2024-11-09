@@ -7,11 +7,19 @@
   "slug": "/Volunteers ❤️‍🔥/Aleksei Boris",
   "permalink": "/about/Volunteers ❤️‍🔥/Aleksei Boris",
   "draft": false,
-  "unlisted": true,
+  "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
     "unlisted": true
   },
-  "sidebar": "tutorialSidebar"
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ahmed Daoudi",
+    "permalink": "/about/Volunteers ❤️‍🔥/Ahmed Daoudi"
+  },
+  "next": {
+    "title": "Kurban Ramazanov",
+    "permalink": "/about/Volunteers ❤️‍🔥/Kurban Ramazanov"
+  }
 }

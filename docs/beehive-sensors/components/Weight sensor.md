@@ -1,3 +1,8 @@
+---
+price: "4"
+---
+
+
 Weight sensor (HX711) 20kg * 4
 https://www.aliexpress.com/item/1005006827930173.html
 [https://www.amazon.de/-/en/gp/product/B079FQNJJH/](https://www.amazon.de/-/en/gp/product/B079FQNJJH/)

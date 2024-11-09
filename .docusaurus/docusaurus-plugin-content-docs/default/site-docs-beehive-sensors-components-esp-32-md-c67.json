@@ -11,7 +11,9 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/ESP32.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "price": "3.14"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Temperature - Humidity sensors - DS18B20",

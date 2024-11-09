@@ -11,7 +11,9 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/Weight sensor.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "price": "4"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Temperature - Humidity sensor alternative",

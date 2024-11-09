@@ -11,7 +11,9 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/Choice of procesor chip.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "hide_table_of_contents": true
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "3d model",

@@ -82,10 +82,7 @@ aside > nav {
   }
 
   main a {
-      /* color: rgb(0, 76, 255); */
-      color: rgb(0, 45, 207);
-      /* border-bottom: 1px solid rgb(0, 45, 207); */
-      /* text-decoration: none; */
+      color: #0248FF;
   }
 
 
@@ -102,6 +99,10 @@ aside > nav {
   table td,
   table th {
       padding: 3px 10px;
+  }
+
+  main table th a {
+      color: rgb(255, 255, 255) !important;
   }
 
   /*

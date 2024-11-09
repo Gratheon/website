@@ -1,3 +1,8 @@
+---
+price: "3.14"
+---
+
+
 ESP32 Development Board WiFi+Bluetooth module Ultra-Low Power Consumption Dual Core NodeMCU-32S ESP32-WROOM-32D 32U 30Pin Board
 
 https://www.aliexpress.com/item/1005006422498371.html?spm=a2g0o.order_list.order_list_main.65.768b1802ichOiR

@@ -1,7 +1,7 @@
 {
   "id": "beehive-sensors/components/index",
   "title": "Bill of materials",
-  "description": "| title |",
+  "description": "| title                                                                                                                                                                                                  | price |",
   "source": "@site/docs/beehive-sensors/components/index.md",
   "sourceDirName": "beehive-sensors/components",
   "slug": "/beehive-sensors/components/",
