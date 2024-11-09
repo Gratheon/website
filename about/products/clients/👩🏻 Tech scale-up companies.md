@@ -4,3 +4,8 @@
 
 ![](../../img/mesilased-1.jpg)
 LHV apiary [https://www.lhv.ee/en/news/2020/33](https://www.lhv.ee/en/news/2020/33)
+
+
+
+![](../../img/IMG_20220809_110937.jpg)
+Beehives on top of Pipedrive office in Prague

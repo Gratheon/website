@@ -1,7 +1,7 @@
 {
   "id": "products/prices",
   "title": "⚖️ Pricing",
-  "description": "| Community                                                                                                                  | Essential                                                                                                           | Professional                                                                              |",
+  "description": "Our base application can be used by itself to manage apiary data. Storing data, running servers and maintaining them is not free, so we offer a subscription model with these billing tiers:",
   "source": "@site/about/products/prices.md",
   "sourceDirName": "products",
   "slug": "/products/prices",
@@ -10,17 +10,19 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
+    "sidebar_position": 1,
     "title": "⚖️ Pricing",
     "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🧑🏻‍🌾 Farmers",
-    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
+    "title": "🍯 Products",
+    "permalink": "/about/products/"
   },
   "next": {
-    "title": "👔 Company",
-    "permalink": "/about/company/"
+    "title": "🧑‍🚀 Actions beekeepers make",
+    "permalink": "/about/products/🧑‍🚀 Actions beekeepers make"
   }
 }
