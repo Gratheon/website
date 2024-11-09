@@ -33,11 +33,6 @@
   --ifm-table-head-color: white;
 }
 
-:root img[src$=".pdf"] {
-    display: none;
-}
-  
-
 .markdown h1:first-child {
     --ifm-h1-font-size: 2rem !important;
 }
@@ -348,6 +343,9 @@ aside > nav {
   }
 }
 
+* img[src$=".pdf"] {
+    display: none;
+}
 
 #__docusaurus > footer a,
 #__docusaurus > footer a:visited {
