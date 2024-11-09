@@ -33,7 +33,7 @@
   --ifm-table-head-color: white;
 }
 
-img[src$=".pdf"] {
+:root img[src$=".pdf"] {
     display: none;
 }
   
