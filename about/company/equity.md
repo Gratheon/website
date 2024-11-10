@@ -1,5 +1,5 @@
 ---
-title: Equity & fundraising program plan 🦚
+title: 🦚 Equity & fundraising plan
 ---
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-20%" }}>
 ![](../img/pie.jpg)
@@ -7,7 +7,7 @@ title: Equity & fundraising program plan 🦚
 
 💡 This page is summarizing the rough **plan** of the equity program for the employees, founders, investors and advisors.
 
-Equity is a mechanism of motivation and compensation at early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. Making everyone owning the company is part of our company values - [**T**eam effort](https://www.notion.so/Team-effort-946788035d7f4462b4228eee8a4ca7ca?pvs=21) and [**G**ather value](https://www.notion.so/Gather-value-77aab01281814dec94ccddf330619a23?pvs=21).
+Equity is a mechanism of motivation and compensation at early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. Making everyone owning the company is part of our company values - [Team effort 🐝](Culture%20and%20values%20🫀/Team%20effort%20🐝.md) and [Gather value 🍯](Culture%20and%20values%20🫀/Gather%20value%20🍯.md)
 
 - If you leave, you lose options. Company can print more shares, mostly for new investors.
     

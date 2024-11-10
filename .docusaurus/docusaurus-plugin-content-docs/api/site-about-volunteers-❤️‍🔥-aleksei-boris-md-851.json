@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Aleksei Boris",
   "title": "Aleksei Boris",
-  "description": "https://www.linkedin.com/in/alekseiboris/",
+  "description": "Participated in 2 hackathons and helped with pitching",
   "source": "@site/about/Volunteers ❤️‍🔥/Aleksei Boris.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Aleksei Boris",
@@ -11,12 +11,14 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "unlisted": true
+    "unlisted": true,
+    "linkedin": "https://www.linkedin.com/in/alekseiboris/",
+    "description": "Participated in 2 hackathons and helped with pitching"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ahmed Daoudi",
-    "permalink": "/about/Volunteers ❤️‍🔥/Ahmed Daoudi"
+    "title": "Volunteers ❤️‍🔥",
+    "permalink": "/about/Volunteers ❤️‍🔥/"
   },
   "next": {
     "title": "Kurban Ramazanov",

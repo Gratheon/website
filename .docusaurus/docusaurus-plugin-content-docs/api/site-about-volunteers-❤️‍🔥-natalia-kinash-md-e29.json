@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Natalia Kinash",
   "title": "Natalia Kinash",
-  "description": "https://www.linkedin.com/in/nataliia-kinash/",
+  "description": "Natalia participated in the hackathon where she helped Reinis Indans with satellite imagery processing",
   "source": "@site/about/Volunteers ❤️‍🔥/Natalia Kinash.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Natalia Kinash",
@@ -11,7 +11,9 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "unlisted": true
+    "unlisted": true,
+    "linkedin": "https://www.linkedin.com/in/nataliia-kinash/",
+    "description": "Natalia participated in the hackathon where she helped Reinis Indans with satellite imagery processing"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

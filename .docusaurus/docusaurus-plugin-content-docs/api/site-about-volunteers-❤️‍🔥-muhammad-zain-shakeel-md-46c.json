@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
   "title": "Muhammad Zain Shakeel",
-  "description": "https://www.linkedin.com/in/zains96/",
+  "description": "Zain helped with 3D model of the robotic beehive",
   "source": "@site/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Muhammad Zain Shakeel",
@@ -10,7 +10,11 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "unlisted": true,
+    "linkedin": "https://www.linkedin.com/in/zains96/",
+    "description": "Zain helped with 3D model of the robotic beehive"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Kurban Ramazanov",

@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Reinis Indans",
   "title": "Reinis Indans",
-  "description": "https://www.linkedin.com/in/reinis-indans/",
+  "description": "Participated in a hackathon where he did most of the heavy work on data collection and model training for satellite pollination sub-project - satellite-pollination-map microservice",
   "source": "@site/about/Volunteers ❤️‍🔥/Reinis Indans.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Reinis Indans",
@@ -11,7 +11,9 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "unlisted": true
+    "unlisted": true,
+    "linkedin": "https://www.linkedin.com/in/reinis-indans/",
+    "description": "Participated in a hackathon where he did most of the heavy work on data collection and model training for satellite pollination sub-project - satellite-pollination-map microservice"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

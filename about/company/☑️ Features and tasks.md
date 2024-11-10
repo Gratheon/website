@@ -19,7 +19,7 @@ Its a [Team effort 🐝](company/Culture%20and%20values%20🫀/Team%20effort%20�
 ### Feature lifecycle
 We separate ideas and features _by product_ and _by billing tier_ to have better separation of which repository and device it its tied to the most. Separation by tier is tied to the complexity of the task and how much does it cost to maintain _infrastructure_.
 ## Tasks
-Feature is implemented as tasks by individual contributors and [Volunteers ❤️‍🔥](Volunteers%20❤️‍🔥/Volunteers%20❤️‍🔥.md)
+Feature is implemented as tasks by individual contributors and [Volunteers ❤️‍🔥](../Volunteers%20❤️‍🔥.md)
 We manage tasks in github project 🐙 https://github.com/orgs/Gratheon/projects/5
 That way we link description with actual code without leaving the environment.
 Usually, you create a task for a specific repository, like [web-app](https://github.com/gratheon/web-app) so you can link it to an issue.

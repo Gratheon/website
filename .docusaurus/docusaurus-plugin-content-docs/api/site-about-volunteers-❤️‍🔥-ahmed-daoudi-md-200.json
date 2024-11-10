@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Ahmed Daoudi",
   "title": "Ahmed Daoudi",
-  "description": "https://www.linkedin.com/in/ahmed-daoudi-aa693a230/",
+  "description": "Helped with telemetry-api, building initial service version in express/nodejs",
   "source": "@site/about/Volunteers ❤️‍🔥/Ahmed Daoudi.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Ahmed Daoudi",
@@ -10,7 +10,11 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "unlisted": true,
+    "linkedin": "https://www.linkedin.com/in/ahmed-daoudi-aa693a230/",
+    "description": "Helped with telemetry-api, building initial service version in express/nodejs"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Volunteers ❤️‍🔥",

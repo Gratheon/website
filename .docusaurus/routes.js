@@ -169,15 +169,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'e27'),
+    component: ComponentCreator('/about', '3c1'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '3c3'),
+        component: ComponentCreator('/about', 'e07'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e83'),
+            component: ComponentCreator('/about', '891'),
             routes: [
               {
                 path: '/about/',
@@ -1482,50 +1482,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/Volunteers ❤️‍🔥/',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/', '7c1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Ahmed Daoudi',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Ahmed Daoudi', '319'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Aleksei Boris',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Aleksei Boris', '064'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Kurban Ramazanov',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Kurban Ramazanov', '8cd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Muhammad Zain Shakeel', '104'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Natalia Kinash',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Natalia Kinash', '299'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Olena Stoliarova',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Olena Stoliarova', 'db1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥/Reinis Indans',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥/Reinis Indans', '4e8'),
+                path: '/about/Volunteers ❤️‍🔥',
+                component: ComponentCreator('/about/Volunteers ❤️‍🔥', '18c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

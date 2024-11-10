@@ -1,7 +1,7 @@
 {
   "id": "Volunteers ❤️‍🔥/Olena Stoliarova",
   "title": "Olena Stoliarova",
-  "description": "https://www.linkedin.com/in/olena-stoliarova/",
+  "description": "participated in a hackathon, helping with pitching",
   "source": "@site/about/Volunteers ❤️‍🔥/Olena Stoliarova.md",
   "sourceDirName": "Volunteers ❤️‍🔥",
   "slug": "/Volunteers ❤️‍🔥/Olena Stoliarova",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "linkedin": "https://www.linkedin.com/in/olena-stoliarova/",
+    "description": "participated in a hackathon, helping with pitching",
+    "unlisted": true
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Natalia Kinash",
     "permalink": "/about/Volunteers ❤️‍🔥/Natalia Kinash"
   },
   "next": {
-    "title": "Reinis Indans",
-    "permalink": "/about/Volunteers ❤️‍🔥/Reinis Indans"
+    "title": "📢 Press kit",
+    "permalink": "/about/📢 Press kit"
   }
 }

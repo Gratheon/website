@@ -1,6 +1,6 @@
 {
   "id": "company/equity",
-  "title": "Equity & fundraising program plan 🦚",
+  "title": "🦚 Equity & fundraising plan",
   "description": "💡 This page is summarizing the rough plan of the equity program for the employees, founders, investors and advisors.",
   "source": "@site/about/company/equity.md",
   "sourceDirName": "company",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Equity & fundraising program plan 🦚"
+    "title": "🦚 Equity & fundraising plan"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
