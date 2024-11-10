@@ -1,0 +1,25 @@
+{
+  "id": "products/📱Web-app/essential-tier/✏️ Drawing on canvas",
+  "title": "✏️ Drawing on canvas",
+  "description": "User story",
+  "source": "@site/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas.md",
+  "sourceDirName": "products/📱Web-app/essential-tier",
+  "slug": "/products/📱Web-app/essential-tier/✏️ Drawing on canvas",
+  "permalink": "/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Varroa mite detection",
+    "permalink": "/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa mite detection"
+  },
+  "next": {
+    "title": "🍭 Feeding management",
+    "permalink": "/about/products/📱Web-app/essential-tier/🍭 Feeding management"
+  }
+}

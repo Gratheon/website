@@ -4,7 +4,7 @@ title: ⚖️ Pricing
 hide_table_of_contents: true
 
 ---
-# Base prices for [📱web-app](web-app/index.md)
+# Base prices for [📱web-app](📱Web-app/📱Web-app.md)
 Our base application can be used by itself to manage apiary data. Storing data, running servers and maintaining them is not free, so we offer a subscription model with these billing tiers: 
 
 | **Community**                                                                                           | **Essential**                                                                           | **Professional**                                                                              |
@@ -24,41 +24,41 @@ If you buy a device, you are not vendor-locked and we do not force you to pay fo
 
 ###  Community features
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature FROM "gratheon.com/about/products/web-app/community-tier"  WHERE status="complete" AND file.name != "index" -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature FROM "gratheon.com/about/products/web-app/community-tier"  WHERE status="complete" AND file.name != "index" -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature FROM "gratheon.com/about/products/📱Web-app/community-tier"  WHERE status="complete" AND file.name != "index" -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature FROM "gratheon.com/about/products/📱Web-app/community-tier"  WHERE status="complete" AND file.name != "index" -->
 
-| Feature                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [🌪️ weather graph](web-app/community-tier/🌪️%20weather%20graph.md)                                                     |
-| [🌻 list of local plants](web-app/community-tier/🌻%20list%20of%20local%20plants.md)                                     |
-| [🐝 Honeycomb cell detection & management](web-app/community-tier/🐝%20Honeycomb%20cell%20detection%20&%20management.md) |
-| [🐝 Worker bee detection](web-app/community-tier/🐝%20Worker%20bee%20detection.md)                                       |
-| [💶 Billing subscription](web-app/community-tier/💶%20Billing%20subscription.md)                                         |
-| [📦 Apiary management](web-app/community-tier/📦%20Apiary%20management.md)                                               |
-| [📦 Hive management](web-app/community-tier/📦%20Hive%20management.md)                                                   |
-| [📦 Hive section management](web-app/community-tier/📦%20Hive%20section%20management.md)                                 |
-| [📱 mobile app](web-app/community-tier/📱%20mobile%20app.md)                                                             |
-| [📸 Frame side photo upload](web-app/community-tier/📸%20Frame%20side%20photo%20upload.md)                               |
-| [🔐 API token management](web-app/community-tier/🔐%20API%20token%20management.md)                                       |
-| [🖼️ Frame side management](web-app/community-tier/🖼️%20Frame%20side%20management.md)                                   |
-| [🙅 User account deletion](web-app/community-tier/🙅%20User%20account%20deletion.md)                                     |
-| [🧑‍🚀 User editing](web-app/community-tier/🧑‍🚀%20User%20editing.md)                                                   |
-| [🧑‍🚀 User login](web-app/community-tier/🧑‍🚀%20User%20login.md)                                                       |
-| [🧑‍🚀 User registration](web-app/community-tier/🧑‍🚀%20User%20registration.md)                                         |
-| [🌍 Localization](web-app/community-tier/🌍%20Localization.md)                                                           |
+| Feature                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------- |
+| [🌪️ weather graph](📱Web-app/community-tier/🌪️%20weather%20graph.md)                                                     |
+| [🌻 list of local plants](📱Web-app/community-tier/🌻%20list%20of%20local%20plants.md)                                     |
+| [🐝 Honeycomb cell detection & management](📱Web-app/community-tier/🐝%20Honeycomb%20cell%20detection%20&%20management.md) |
+| [🐝 Worker bee detection](📱Web-app/community-tier/🐝%20Worker%20bee%20detection.md)                                       |
+| [💶 Billing subscription](📱Web-app/community-tier/💶%20Billing%20subscription.md)                                         |
+| [📦 Apiary management](📱Web-app/community-tier/📦%20Apiary%20management.md)                                               |
+| [📦 Hive management](📱Web-app/community-tier/📦%20Hive%20management.md)                                                   |
+| [📦 Hive section management](📱Web-app/community-tier/📦%20Hive%20section%20management.md)                                 |
+| [📱 mobile app](📱Web-app/community-tier/📱%20mobile%20app.md)                                                             |
+| [📸 Frame side photo upload](📱Web-app/community-tier/📸%20Frame%20side%20photo%20upload.md)                               |
+| [🔐 API token management](📱Web-app/community-tier/🔐%20API%20token%20management.md)                                       |
+| [🖼️ Frame side management](📱Web-app/community-tier/🖼️%20Frame%20side%20management.md)                                   |
+| [🙅 User account deletion](📱Web-app/community-tier/🙅%20User%20account%20deletion.md)                                     |
+| [🧑‍🚀 User editing](📱Web-app/community-tier/🧑‍🚀%20User%20editing.md)                                                   |
+| [🧑‍🚀 User login](📱Web-app/community-tier/🧑‍🚀%20User%20login.md)                                                       |
+| [🧑‍🚀 User registration](📱Web-app/community-tier/🧑‍🚀%20User%20registration.md)                                         |
+| [🌍 Localization](📱Web-app/community-tier/🌍%20Localization.md)                                                           |
 <!-- SerializedQuery END -->
 
 
 ###  Essential features
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature  FROM "gratheon.com/about/products/web-app/essential-tier" WHERE  status="complete" AND file.name != "index" -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature  FROM "gratheon.com/about/products/web-app/essential-tier" WHERE  status="complete" AND file.name != "index" -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature  FROM "gratheon.com/about/products/📱Web-app/essential-tier" WHERE  status="complete" AND file.name != "index" -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/", ""), " ", "%20") + ")", "") as Feature  FROM "gratheon.com/about/products/📱Web-app/essential-tier" WHERE  status="complete" AND file.name != "index" -->
 
-| Feature                                                                                          |
-| ------------------------------------------------------------------------------------------------ |
-| [✏️ Drawing on canvas](web-app/essential-tier/✏️%20Drawing%20on%20canvas.md)                     |
-| [🍭 Feeding management](web-app/essential-tier/🍭%20Feeding%20management.md)                     |
-| [🔎 Inspection management](web-app/essential-tier/🔎%20Inspection%20management.md)               |
-| [🤖 Beekeeping advice with LLM](web-app/essential-tier/🤖%20Beekeeping%20advice%20with%20LLM.md) |
+| Feature                                                                                            |
+| -------------------------------------------------------------------------------------------------- |
+| [✏️ Drawing on canvas](📱Web-app/essential-tier/✏️%20Drawing%20on%20canvas.md)                     |
+| [🍭 Feeding management](📱Web-app/essential-tier/🍭%20Feeding%20management.md)                     |
+| [🔎 Inspection management](📱Web-app/essential-tier/🔎%20Inspection%20management.md)               |
+| [🤖 Beekeeping advice with LLM](📱Web-app/essential-tier/🤖%20Beekeeping%20advice%20with%20LLM.md) |
 <!-- SerializedQuery END -->
 

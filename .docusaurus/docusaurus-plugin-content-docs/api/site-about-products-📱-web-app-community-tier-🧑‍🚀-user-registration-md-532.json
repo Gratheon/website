@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "status": "complete"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🧑‍🚀 User login",
@@ -18,6 +20,6 @@
   },
   "next": {
     "title": "☀️ Solar radiance as weather datasource",
-    "permalink": "/about/products/📱Web-app/essential tier/ideas 💡/☀️ Solar radiance as weather datasource"
+    "permalink": "/about/products/📱Web-app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource"
   }
 }

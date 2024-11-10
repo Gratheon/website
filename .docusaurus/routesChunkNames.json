@@ -377,17 +377,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-0c9": {
+  "/about-e27": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-a15": {
+  "/about-3c3": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-eb3": {
+  "/about-e83": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -530,9 +530,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-🖥️-services-and-tools-that-we-use-15-f-a68"
   },
-  "/about/company/Culture and values 🫀/-169": {
+  "/about/company/Culture and values 🫀/-a91": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-company-culture-and-values-🫀-7-b-6-349"
+    "content": "content---about-company-culture-and-values-🫀-f-72-682"
   },
   "/about/company/Culture and values 🫀/Adapt to change 🏕️-46a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -794,6 +794,306 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-👁️‍🗨️-entrance-observer-ideas-🚁-hornet-attack-detectiond-64-41b"
   },
+  "/about/products/📱Web-app/-3fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-086-37e"
+  },
+  "/about/products/📱Web-app/community-tier/🌍 Localization-9bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🌍-localization-40-a-0f2"
+  },
+  "/about/products/📱Web-app/community-tier/🌪️ weather graph-a33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🌪️-weather-graphff-6-347"
+  },
+  "/about/products/📱Web-app/community-tier/🌻 list of local plants-75d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🌻-list-of-local-plantse-0-f-1d6"
+  },
+  "/about/products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management-25f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🐝-honeycomb-cell-detection-management-033-009"
+  },
+  "/about/products/📱Web-app/community-tier/🐝 Worker bee detection-4c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🐝-worker-bee-detectiond-35-cc0"
+  },
+  "/about/products/📱Web-app/community-tier/💶 Billing subscription-4a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-💶-billing-subscription-065-fcb"
+  },
+  "/about/products/📱Web-app/community-tier/📦 Apiary management-726": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-📦-apiary-managemente-7-b-0b5"
+  },
+  "/about/products/📱Web-app/community-tier/📦 Hive management-215": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-📦-hive-management-1-e-7-a0e"
+  },
+  "/about/products/📱Web-app/community-tier/📦 Hive section management-21e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-📦-hive-section-managementa-31-ea7"
+  },
+  "/about/products/📱Web-app/community-tier/📱 mobile app-266": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-📱-mobile-app-7-fc-f57"
+  },
+  "/about/products/📱Web-app/community-tier/📸 Frame side photo upload-719": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-📸-frame-side-photo-upload-464-e98"
+  },
+  "/about/products/📱Web-app/community-tier/🔐 API token management-adf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🔐-api-token-management-6-d-2-533"
+  },
+  "/about/products/📱Web-app/community-tier/🖼️ Frame side management-e46": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🖼️-frame-side-management-918-75f"
+  },
+  "/about/products/📱Web-app/community-tier/🧑‍🚀 User editing-862": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🧑‍🚀-user-editing-31-a-05b"
+  },
+  "/about/products/📱Web-app/community-tier/🧑‍🚀 User login-3bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🧑‍🚀-user-loginc-93-714"
+  },
+  "/about/products/📱Web-app/community-tier/🧑‍🚀 User registration-bf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🧑‍🚀-user-registration-532-558"
+  },
+  "/about/products/📱Web-app/community-tier/🙅 User account deletion-c67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-🙅-user-account-deletion-178-7f4"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/♻️ Apiary position sharing-3c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-♻️-apiary-position-sharinge-91-057"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/♻️ Public beehive view-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-♻️-public-beehive-viewc-7-a-c89"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/♻️ Quick frame analysis demo on frontpage-cef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-♻️-quick-frame-analysis-demo-on-frontpage-4-e-9-1df"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🎒 Product onboarding videos & UI-b3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🎒-product-onboarding-videos-ui-5-b-2-ffa"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame analysis - bee counter-531": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🐝-frame-analysis-bee-counterc-4-f-f77"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame side queen cup detection-b2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🐝-frame-side-queen-cup-detection-30-f-79b"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen detection-49d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-👑-queen-detectionebe-162"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen management-fde": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-👑-queen-managementfeb-d64"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry-6f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-📍-show-close-by-beekeepers-from-government-registry-348-41d"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🖮 keyboard shortcuts support-c55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🖮-keyboard-shortcuts-support-4-e-7-566"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User email verification and change-e39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🧑‍🚀-user-email-verification-and-change-001-df4"
+  },
+  "/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User password change-545": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-community-tier-ideas-💡-🧑‍🚀-user-password-change-599-d3d"
+  },
+  "/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas-ebe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-✏️-drawing-on-canvas-4-df-e96"
+  },
+  "/about/products/📱Web-app/essential-tier/🍭 Feeding management-f4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-🍭-feeding-managemente-17-394"
+  },
+  "/about/products/📱Web-app/essential-tier/🔎 Inspection management-266": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-🔎-inspection-management-091-205"
+  },
+  "/about/products/📱Web-app/essential-tier/🤖 Beekeeping advice with LLM-e20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-🤖-beekeeping-advice-with-llm-09-a-efb"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource-eb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-☀️-solar-radiance-as-weather-datasourced-24-d6d"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/♻️ QR-code printing & scanning-442": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-♻️-qr-code-printing-scanning-155-884"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL-89c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-♻️-share-of-beehive-inspection-public-url-1-b-3-687"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🌪️ Weather alerts-00b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🌪️-weather-alerts-766-b55"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🌻 Flower blooming map-a96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🌻-flower-blooming-map-0-ae-987"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Drone brood detection-d94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🐝-drone-brood-detectiondc-4-fb3"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood-c47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🐝-frame-analysis-chilled-broodb-7-e-d63"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Laying workers cell detection-515": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🐝-laying-workers-cell-detection-9-b-7-56d"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/📡 Offline mode-848": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-📡-offline-mode-183-18b"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload-c8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-📦-manual-inspections-bulk-file-upload-87-b-8ac"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🔔  Alerts-3f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🔔-alerts-19-e-701"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Drone detection-9ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🔔-drone-detection-08-c-5c6"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-cbf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🔔-frame-analysis-spotty-brood-pattern-detection-535-88e"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-16c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🔔-frame-analysis-starvation-detection-and-alert-65-b-005"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa infestation management-15c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🦀-varroa-infestation-management-4-ff-e4c"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa mite detection-e65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🦀-varroa-mite-detection-90-e-a4e"
+  },
+  "/about/products/📱Web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-essential-tier-ideas-💡-🛰️-apiary-satellite-view-117-af7"
+  },
+  "/about/products/📱Web-app/pro tier/📅 Varroa Treatment diary-356": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-📅-varroa-treatment-diary-112-958"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split-db1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-↔️-create-colony-splitddb-9c3"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/♻️ Hive ownership transfer-245": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-♻️-hive-ownership-transfer-6-b-1-2a6"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison-49c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-⚖️-colony-comparison-33-c-7d3"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🌎 Map view-30b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🌎-map-viewc-24-590"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun-16a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🌞-apiary-top-down-view-of-relative-to-the-sun-934-fe6"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation-a5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🌻-pollination-optimization-with-hive-placement-recommendation-2-a-3-247"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🎮 Device management-e0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🎮-device-managementd-3-b-c09"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐜 Ant detection-8f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐜-ant-detectione-64-4ea"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐝 Analytics - demography and simulation-79f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐝-analytics-demography-and-simulation-62-b-6f4"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee age classification-709": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐝-bee-age-classificationd-58-38c"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee pose - morphometric model-cfe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐝-bee-pose-morphometric-model-5-c-9-5d2"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee race classification-38f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐝-bee-race-classificationcd-2-fa2"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🐝 Wax moth detection-f6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🐝-wax-moth-detection-416-dbd"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support-466": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-👨🏻‍🚀-multiple-user-supportf-01-c26"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view-7ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-📅-calendar-viewc-79-7af"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration-c83": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-📅-google-calendar-integration-28-a-34f"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/📦 Harvest hive frames and sections-74e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-📦-harvest-hive-frames-and-sections-4-ca-e88"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/📦 Inventory management - warehouse view-99c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-📦-inventory-management-warehouse-viewa-25-cc6"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🤖 Talk to bee colony with AI-491": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🤖-talk-to-bee-colony-with-ai-692-73b"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🪝 Webhooks integration-83c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🪝-webhooks-integrationb-71-b4c"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection-7f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detection-855-563"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies-e70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🫶🏻-join-multiple-coloniesa-1-b-968"
+  },
+  "/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration-da3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-📱-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integration-615-401"
+  },
   "/about/products/🧑‍🚀 Actions beekeepers make-94e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-🧑‍🚀-actions-beekeepers-make-570-8af"
@@ -938,306 +1238,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-prices-44-b-d17"
   },
-  "/about/products/web-app/-bf4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-c-2-a-58a"
-  },
-  "/about/products/web-app/community-tier/🌍 Localization-9de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🌍-localization-4-cf-bee"
-  },
-  "/about/products/web-app/community-tier/🌪️ weather graph-f31": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🌪️-weather-grapheca-cad"
-  },
-  "/about/products/web-app/community-tier/🌻 list of local plants-d8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🌻-list-of-local-plants-0-e-8-fe7"
-  },
-  "/about/products/web-app/community-tier/🐝 Honeycomb cell detection & management-78a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🐝-honeycomb-cell-detection-management-3-c-5-2dc"
-  },
-  "/about/products/web-app/community-tier/🐝 Worker bee detection-e63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🐝-worker-bee-detection-85-a-2f3"
-  },
-  "/about/products/web-app/community-tier/💶 Billing subscription-074": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-💶-billing-subscription-99-a-930"
-  },
-  "/about/products/web-app/community-tier/📦 Apiary management-a2e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-📦-apiary-management-9-a-9-cca"
-  },
-  "/about/products/web-app/community-tier/📦 Hive management-837": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-📦-hive-management-8-cc-444"
-  },
-  "/about/products/web-app/community-tier/📦 Hive section management-b0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-📦-hive-section-management-5-f-0-e24"
-  },
-  "/about/products/web-app/community-tier/📱 mobile app-28e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-📱-mobile-appeb-6-b15"
-  },
-  "/about/products/web-app/community-tier/📸 Frame side photo upload-6e3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-📸-frame-side-photo-uploadad-6-eed"
-  },
-  "/about/products/web-app/community-tier/🔐 API token management-cb0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🔐-api-token-management-17-f-c71"
-  },
-  "/about/products/web-app/community-tier/🖼️ Frame side management-f71": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🖼️-frame-side-management-435-78b"
-  },
-  "/about/products/web-app/community-tier/🧑‍🚀 User editing-0c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🧑‍🚀-user-editing-877-347"
-  },
-  "/about/products/web-app/community-tier/🧑‍🚀 User login-fa8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🧑‍🚀-user-login-246-6f0"
-  },
-  "/about/products/web-app/community-tier/🧑‍🚀 User registration-51a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🧑‍🚀-user-registrationa-66-1e7"
-  },
-  "/about/products/web-app/community-tier/🙅 User account deletion-d51": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-🙅-user-account-deletionfd-2-72d"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/♻️ Apiary position sharing-8d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-♻️-apiary-position-sharinga-3-f-788"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/♻️ Public beehive view-9d4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-♻️-public-beehive-viewd-32-316"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/♻️ Quick frame analysis demo on frontpage-80a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-♻️-quick-frame-analysis-demo-on-frontpage-0-fe-129"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🎒 Product onboarding videos & UI-2af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🎒-product-onboarding-videos-ui-35-d-774"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🐝 Frame analysis - bee counter-703": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🐝-frame-analysis-bee-counterf-27-436"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🐝 Frame side queen cup detection-af9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🐝-frame-side-queen-cup-detectiona-2-c-ac4"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/👑 Queen detection-e69": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-👑-queen-detectiona-45-cf1"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/👑 Queen management-b91": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-👑-queen-management-809-fab"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry-95b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-📍-show-close-by-beekeepers-from-government-registry-04-a-731"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🖮 keyboard shortcuts support-687": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🖮-keyboard-shortcuts-support-0-f-4-e9b"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🧑‍🚀 User email verification and change-83d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🧑‍🚀-user-email-verification-and-change-637-14c"
-  },
-  "/about/products/web-app/community-tier/ideas 💡/🧑‍🚀 User password change-f42": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🧑‍🚀-user-password-change-36-f-1e2"
-  },
-  "/about/products/web-app/essential-tier/✏️ Drawing on canvas-16a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-✏️-drawing-on-canvas-097-1ef"
-  },
-  "/about/products/web-app/essential-tier/🍭 Feeding management-a28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-🍭-feeding-management-0-c-1-9a9"
-  },
-  "/about/products/web-app/essential-tier/🔎 Inspection management-a2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-🔎-inspection-managementd-97-913"
-  },
-  "/about/products/web-app/essential-tier/🤖 Beekeeping advice with LLM-51b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-🤖-beekeeping-advice-with-ll-mca-9-419"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource-eb5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-☀️-solar-radiance-as-weather-datasourcedd-5-bff"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/♻️ QR-code printing & scanning-b2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-♻️-qr-code-printing-scanningdf-6-450"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL-224": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-♻️-share-of-beehive-inspection-public-url-506-578"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🌪️ Weather alerts-3ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🌪️-weather-alertsb-99-b3f"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🌻 Flower blooming map-635": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🌻-flower-blooming-map-816-3a0"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🐝 Drone brood detection-07b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🐝-drone-brood-detection-099-424"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood-4a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🐝-frame-analysis-chilled-broode-3-a-e92"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🐝 Laying workers cell detection-803": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🐝-laying-workers-cell-detection-37-a-183"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/📡 Offline mode-11e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-📡-offline-modecbd-774"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload-01a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-📦-manual-inspections-bulk-file-uploadc-6-d-e33"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🔔  Alerts-9cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🔔-alerts-905-814"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🔔 Drone detection-c18": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🔔-drone-detection-1-bb-363"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-cdb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🔔-frame-analysis-spotty-brood-pattern-detection-859-d14"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-4ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🔔-frame-analysis-starvation-detection-and-alertb-61-b1d"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🦀 Varroa infestation management-6ce": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🦀-varroa-infestation-management-3-de-780"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🦀 Varroa mite detection-5ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🦀-varroa-mite-detectionf-19-9ca"
-  },
-  "/about/products/web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view-4c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-🛰️-apiary-satellite-viewf-1-b-7e2"
-  },
-  "/about/products/web-app/pro tier/📅 Varroa Treatment diary-60d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-📅-varroa-treatment-diary-708-436"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/↔️ Create colony split-af8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-↔️-create-colony-splitd-7-a-41c"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/♻️ Hive ownership transfer-625": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-♻️-hive-ownership-transfer-14-d-103"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/⚖️ Colony comparison-987": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-⚖️-colony-comparison-6-ae-194"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🌎 Map view-e0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌎-map-view-533-798"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun-9c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌞-apiary-top-down-view-of-relative-to-the-sunc-60-739"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation-342": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌻-pollination-optimization-with-hive-placement-recommendation-712-f33"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🎮 Device management-7aa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🎮-device-managementd-20-c1c"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐜 Ant detection-e15": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐜-ant-detection-2-cf-543"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐝 Analytics - demography and simulation-3f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-analytics-demography-and-simulation-4-dd-440"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐝 Bee age classification-28e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-bee-age-classificationf-06-106"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐝 Bee pose - morphometric model-325": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-bee-pose-morphometric-modelf-11-908"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐝 Bee race classification-8a2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-bee-race-classification-096-f84"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🐝 Wax moth detection-bbf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-wax-moth-detectionfe-2-32e"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support-f76": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-👨🏻‍🚀-multiple-user-supporta-39-f1b"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/📅 Calendar view-378": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-📅-calendar-view-0-a-5-0b2"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/📅 Google-calendar integration-cf2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-📅-google-calendar-integration-867-a85"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/📦 Harvest hive frames and sections-b79": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-📦-harvest-hive-frames-and-sectionsbfc-202"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/📦 Inventory management - warehouse view-04c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-📦-inventory-management-warehouse-view-961-a26"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🤖 Talk to bee colony with AI-904": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🤖-talk-to-bee-colony-with-ai-9-e-1-a83"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🪝 Webhooks integration-c65": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🪝-webhooks-integration-6-bb-b1a"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🪲 Hive beetle detection-eeb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detection-5-a-5-747"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies-94c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🫶🏻-join-multiple-coloniescab-3cc"
-  },
-  "/about/products/web-app/pro tier/ideas 💡/🛰️ SkyFi integration-e30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integration-64-a-fd2"
-  },
   "/about/purpose/-f43": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-purpose-e-26-cd9"
@@ -1290,17 +1290,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-reinis-indans-057-a48"
   },
-  "/docs-a2a": {
+  "/docs-d0e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-63c": {
+  "/docs-0ae": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-bac": {
+  "/docs-e25": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/beehive-sensors/-4d7": {
@@ -1322,6 +1322,10 @@
   "/docs/beehive-sensors/components/Air Quality Sensor-d7b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-beehive-sensors-components-air-quality-sensor-5-b-4-ec1"
+  },
+  "/docs/beehive-sensors/components/Aluminium profile 20x20x500mm-60c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-aluminium-profile-20-x-20-x-500-mm-150-68d"
   },
   "/docs/beehive-sensors/components/Barometric pressure sensor-73d": {
     "__comp": "__comp---theme-doc-item-178-a40",

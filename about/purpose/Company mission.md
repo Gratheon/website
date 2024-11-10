@@ -13,7 +13,7 @@ As humanity expands its technological horizons, building new types of spaceships
 
 Our mission is balancing human progress with the preservation of nature, aiming for sustainable development and the regeneration of Earth's ecosystems. By doing so, we aspire to maximize human happiness, awareness, responsibilities and efficiency.
 
-[Culture and values](../company/Culture%20and%20values%20🫀/index.md) and [Symbolism](Symbolism.md) are reflecting this mission
+[Culture and values](../company/Culture%20and%20values%20🫀/Culture%20and%20values%20🫀.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GibiNy4d4gc?modestbranding=1&autohide=1&showinfo=0" title="Carmen Twillie, Lebo M. - The Lion King - Circle Of Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

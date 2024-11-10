@@ -1,0 +1,26 @@
+{
+  "id": "beehive-sensors/components/Aluminium profile 20x20x500mm",
+  "title": "Aluminium profile 20x20x500mm",
+  "description": "URL//www.amazon.de/-/en/Aluminium-Profile-European-Standard-Engraving/dp/B0CNT93P13",
+  "source": "@site/docs/beehive-sensors/components/Aluminium profile 20x20x500mm.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/Aluminium profile 20x20x500mm",
+  "permalink": "/docs/beehive-sensors/components/Aluminium profile 20x20x500mm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/Aluminium profile 20x20x500mm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "price": "60"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/beehive-sensors/components/Air Quality Sensor"
+  },
+  "next": {
+    "title": "Barometric pressure sensor",
+    "permalink": "/docs/beehive-sensors/components/Barometric pressure sensor"
+  }
+}

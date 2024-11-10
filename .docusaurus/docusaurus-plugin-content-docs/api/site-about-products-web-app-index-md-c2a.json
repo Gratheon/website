@@ -4,8 +4,8 @@
   "description": "status: minimum viable product, 60% complete",
   "source": "@site/about/products/web-app/index.md",
   "sourceDirName": "products/web-app",
-  "slug": "/products/web-app/",
-  "permalink": "/about/products/web-app/",
+  "slug": "/products/web-app/web-app",
+  "permalink": "/about/products/web-app/web-app",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -13,7 +13,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "title": "📱Web-app"
+    "title": "📱Web-app",
+    "slug": "web-app"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "status": "complete"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📦 Hive section management",
