@@ -30,7 +30,11 @@ flowchart LR
 
 - download [Arduino IDE](https://www.arduino.cc/en/software)
 - under preferences, set this URL as extra sources [https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
-- Make sure to change Arduino IDE upload speed to 115200 under Tools
+- ESP32 chips come in different flavours. If you got same component as described in the bill of materials - [ESP32](components/ESP32.md), then connect it over USB to your machine
+- Choose `ESP32-WROOM-DA Module` from device list
+![](img/Screenshot%202024-11-11%20at%2001.33.06.png)
+
+- Make sure to change Arduino IDE upload speed to 115200 baud under Tools so that your device can receive data when you upload it
 
 ![](img/Screenshot%202024-07-22%20at%2003.42.43.png)
 
@@ -38,10 +42,11 @@ flowchart LR
 ![](img/Screenshot%202024-11-10%20at%2015.19.14.png)
 - Install [Adafruit HX711 library](https://github.com/adafruit/Adafruit_HX711) in Arduino IDE
 ![](img/Screenshot%202024-11-10%20at%2015.19.48.png)
-- Use Arduino IDE to compile and upload the code to ESP32
-- Power on ESP32
-- Connect to the ESP32 WIFI network (gratheon), use password `gratheon`
-- Open browser and navigate to `http://192.168.4.1`
+- Upload code to the device using a button `->`. You should see something like:
+  ![](img/Screenshot%202024-11-11%20at%2001.37.37.png)
+- Click on the reset button (`FN`) on the chip
+- Connect to the ESP32 WIFI access point `gratheon`, use password `gratheon`
+- Open browser and navigate to wifi access point default gateway - [http://192.168.4.1](http://192.168.4.1)
 - Enter your WIFI credentials
 - Set target URL `https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN`
     - replace `HIVE_ID` with your hive ID. You can take that you can take from URL, ex `https://app.gratheon.com/apiaries/7/hives/54`; here ID is `54`
