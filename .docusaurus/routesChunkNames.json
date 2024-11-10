@@ -1290,17 +1290,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-reinis-indans-057-a48"
   },
-  "/docs-d0e": {
+  "/docs-aae": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0ae": {
+  "/docs-139": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e25": {
+  "/docs-843": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/beehive-sensors/-4d7": {
@@ -1470,6 +1470,22 @@
   "/docs/web-app/-d1a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-f-30-003"
+  },
+  "/docs/web-app/🥞 DB schemas/gate-video-stream-049": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-gate-video-streamfba-f74"
+  },
+  "/docs/web-app/🥞 DB schemas/image-splitter-584": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-image-splittercbd-83c"
+  },
+  "/docs/web-app/🥞 DB schemas/swarm-api-c03": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-swarm-api-4-e-1-924"
+  },
+  "/docs/web-app/🥞 DB schemas/user-cycle-9e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-user-cycle-88-c-a11"
   },
   "/docs/web-app/Tech stack, conventions, environments-670": {
     "__comp": "__comp---theme-doc-item-178-a40",

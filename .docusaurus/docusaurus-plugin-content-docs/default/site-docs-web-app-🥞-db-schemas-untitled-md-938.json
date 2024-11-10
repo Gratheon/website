@@ -1,0 +1,24 @@
+{
+  "id": "web-app/🥞 DB schemas/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/web-app/🥞 DB schemas/Untitled.md",
+  "sourceDirName": "web-app/🥞 DB schemas",
+  "slug": "/web-app/🥞 DB schemas/Untitled",
+  "permalink": "/docs/web-app/🥞 DB schemas/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/🥞 DB schemas/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/web-app/UX - UI wireframes"
+  },
+  "next": {
+    "title": "image-splitter",
+    "permalink": "/docs/web-app/🥞 DB schemas/image-splitter"
+  }
+}

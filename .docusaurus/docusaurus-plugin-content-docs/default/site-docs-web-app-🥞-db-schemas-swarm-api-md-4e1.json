@@ -1,0 +1,26 @@
+{
+  "id": "web-app/🥞 DB schemas/swarm-api",
+  "title": "swarm-api",
+  "description": "swarm-api deals with simple storage of main app entities.",
+  "source": "@site/docs/web-app/🥞 DB schemas/swarm-api.md",
+  "sourceDirName": "web-app/🥞 DB schemas",
+  "slug": "/web-app/🥞 DB schemas/swarm-api",
+  "permalink": "/docs/web-app/🥞 DB schemas/swarm-api",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/🥞 DB schemas/swarm-api.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "image-splitter",
+    "permalink": "/docs/web-app/🥞 DB schemas/image-splitter"
+  },
+  "next": {
+    "title": "user-cycle",
+    "permalink": "/docs/web-app/🥞 DB schemas/user-cycle"
+  }
+}

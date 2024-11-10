@@ -1,0 +1,26 @@
+{
+  "id": "web-app/🥞 DB schemas/user-cycle",
+  "title": "user-cycle",
+  "description": "user-cycle service deals with user information, API credentials, billing and translations",
+  "source": "@site/docs/web-app/🥞 DB schemas/user-cycle.md",
+  "sourceDirName": "web-app/🥞 DB schemas",
+  "slug": "/web-app/🥞 DB schemas/user-cycle",
+  "permalink": "/docs/web-app/🥞 DB schemas/user-cycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/🥞 DB schemas/user-cycle.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "swarm-api",
+    "permalink": "/docs/web-app/🥞 DB schemas/swarm-api"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/beehive-sensors/"
+  }
+}

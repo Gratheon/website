@@ -1,0 +1,24 @@
+{
+  "id": "web-app/db-schemas/user-cycle service",
+  "title": "user-cycle service",
+  "description": "",
+  "source": "@site/docs/web-app/db-schemas/user-cycle service.md",
+  "sourceDirName": "web-app/db-schemas",
+  "slug": "/web-app/db-schemas/user-cycle service",
+  "permalink": "/docs/web-app/db-schemas/user-cycle service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/db-schemas/user-cycle service.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "swarm-api",
+    "permalink": "/docs/web-app/db-schemas/swarm-api"
+  },
+  "next": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/beehive-sensors/"
+  }
+}

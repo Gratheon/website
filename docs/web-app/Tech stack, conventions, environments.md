@@ -6,8 +6,7 @@ To have consistent experience across code repos and due to limitations of teams,
     - React / TSX for frontend
     - NodeJS (for low-load BE services)
 - Go (for high-load BE services)
-    - Rust - for embedded devices that need high efficiency and memory reliability
-        - C++ - for embedded devices, if go & rust are too hard, don’t have good system support etc.
+	- C/C++ - for embedded devices
 - Python
     - for ML and data-science models. Ex. using
     - for early prototypes of a service where ease/speed of integration is important, can be copy-pasted. Ex. video-processing with opencv

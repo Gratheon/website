@@ -216,6 +216,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/🥞 DB schemas/gate-video-stream",
+              "path": "/docs/web-app/🥞 DB schemas/gate-video-stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/image-splitter",
+              "path": "/docs/web-app/🥞 DB schemas/image-splitter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/swarm-api",
+              "path": "/docs/web-app/🥞 DB schemas/swarm-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/user-cycle",
+              "path": "/docs/web-app/🥞 DB schemas/user-cycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/index",
               "path": "/docs/web-app/",
               "sidebar": "tutorialSidebar"

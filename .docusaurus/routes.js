@@ -1537,15 +1537,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd0e'),
+    component: ComponentCreator('/docs', 'aae'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '0ae'),
+        component: ComponentCreator('/docs', '139'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e25'),
+            component: ComponentCreator('/docs', '843'),
             routes: [
               {
                 path: '/docs/beehive-sensors/',
@@ -1796,6 +1796,30 @@ export default [
               {
                 path: '/docs/web-app/',
                 component: ComponentCreator('/docs/web-app/', 'd1a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/gate-video-stream',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/gate-video-stream', '049'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/image-splitter',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/image-splitter', '584'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/swarm-api',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/swarm-api', 'c03'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/user-cycle',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/user-cycle', '9e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

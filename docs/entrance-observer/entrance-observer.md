@@ -15,9 +15,9 @@ flowchart LR
 	gate-video-stream --"store video re-training with 1 month TTL"--> aws-s3
 	gate-video-stream --"store results long-term" --> mysql
 
-	beehive-entrance-video-processor("<a href='https://github.com/Gratheon/beehive-entrance-video-processor'>beehive-entrance-video-processor</a>") --"record & upload 10s video chunks\nsend edge-computed telemetry"--> gate-video-stream
+	entrance-observer("<a href='https://github.com/Gratheon/entrance-observer'>entrance-observer</a>") --"record & upload 10s video chunks\nsend edge-computed telemetry"--> gate-video-stream
 
-	beehive-entrance-video-processor -."send detected bees \n timeseries counts".-> telemetry-api("<a href='https://github.com/Gratheon/telemetry-api'>telemetry-api</a>")
+	entrance-observer -."send detected bees \n timeseries counts".-> telemetry-api("<a href='https://github.com/Gratheon/telemetry-api'>telemetry-api</a>")
 
 	web-app --"include analytics page"--> grafana("<a href='https://github.com/Gratheon/grafana'>grafana</a>\n:9000") --"read bee traffic over time"--> influxdb("influxdb:5300")
 ```
