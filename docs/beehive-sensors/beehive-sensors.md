@@ -42,7 +42,7 @@ flowchart LR
 - Open browser and navigate to `http://192.168.4.1`
 - Enter your WIFI credentials
 - Set target URL `https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN`
-    - replace `HIVE_ID` with your hive ID. You can take that you can take from URL, ex `https://app.gratheon.com/apiaries/7/hives/54` <-- ID is `54`
+    - replace `HIVE_ID` with your hive ID. You can take that you can take from URL, ex `https://app.gratheon.com/apiaries/7/hives/54`; here ID is `54`
     - replace `API_TOKEN` with generate token from account settings at [https://app.gratheon.com/account](https://app.gratheon.com/account)
 - Click `Save` button. Your ESP32 will restart and connect to your WIFI network and start sending data to the telemetry API service
 
