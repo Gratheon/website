@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Privacy Policy
 
-**[Last updated](https://github.com/Gratheon/website/commits/main/src/pages/privacy.md) October 29, 2024**  
+**[Last updated](https://github.com/Gratheon/website/commits/main/src/pages/privacy.md) November 10, 2024**  
 
 Thank you for choosing to be part of our community at **Gratheon OÜ** ("company", "we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at pilot@gratheon.com.
 
@@ -139,7 +139,10 @@ We may use cookies and similar tracking technologies (like web beacons and pixel
 
 **_In Short:_** _You can delete or update your account from [account page](https://app.gratheon.com/account) or by contacting us._
 
-We provide functionality to delete your account information, it is available at https://app.gratheon.com/account. Note that this operation is not reversible. We will not be able to restore your account after deletion. We will also not be able to verify that you had any account with us.
+We provide functionality to delete your account information, it is available at https://app.gratheon.com/account. The view should looks something like this image: 
+
+![](Screenshot%202024-11-10%20at%2020.32.31.png)
+All of your data will be removed. Note that this operation is not reversible. We will not be able to restore your account after deletion. We will also not be able to verify that you had any account with us. 
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please contact: pilot@gratheon.com. We will respond to your request within 30 days.
 
