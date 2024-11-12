@@ -1,0 +1,17 @@
+{
+  "id": "Competition/beescanning",
+  "title": "beescanning",
+  "description": "",
+  "source": "@site/research/Competition/beescanning.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/beescanning",
+  "permalink": "/research/Competition/beescanning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.beescanning.com/",
+    "products": "📱Web-app"
+  }
+}

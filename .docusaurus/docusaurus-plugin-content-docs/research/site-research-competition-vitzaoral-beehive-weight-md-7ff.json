@@ -1,0 +1,17 @@
+{
+  "id": "Competition/vitzaoral beehive_weight",
+  "title": "vitzaoral beehive_weight",
+  "description": "",
+  "source": "@site/research/Competition/vitzaoral beehive_weight.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/vitzaoral beehive_weight",
+  "permalink": "/research/Competition/vitzaoral beehive_weight",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://github.com/vitzaoral/beehive_weight",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

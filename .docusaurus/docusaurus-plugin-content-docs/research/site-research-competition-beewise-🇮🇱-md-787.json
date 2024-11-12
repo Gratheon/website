@@ -1,0 +1,19 @@
+{
+  "id": "Competition/Beewise 🇮🇱",
+  "title": "Beewise 🇮🇱",
+  "description": "Industrial level robotic beehives with image processing. Rent model",
+  "source": "@site/research/Competition/Beewise 🇮🇱.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Beewise 🇮🇱",
+  "permalink": "/research/Competition/Beewise 🇮🇱",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Industrial level robotic beehives with image processing. Rent model",
+    "url": "https://beewise.ag/",
+    "products": "🪬 Robotic Apiary",
+    "priority": 1
+  }
+}

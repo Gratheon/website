@@ -1,0 +1,17 @@
+{
+  "id": "Competition/AgriPulse",
+  "title": "AgriPulse",
+  "description": "",
+  "source": "@site/research/Competition/AgriPulse.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/AgriPulse",
+  "permalink": "/research/Competition/AgriPulse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://apipulse.ru/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

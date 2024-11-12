@@ -1,0 +1,17 @@
+{
+  "id": "Competition/AgriSound",
+  "title": "AgriSound",
+  "description": "",
+  "source": "@site/research/Competition/AgriSound.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/AgriSound",
+  "permalink": "/research/Competition/AgriSound",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://agrisound.io/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

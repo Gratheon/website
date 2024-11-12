@@ -1,0 +1,17 @@
+{
+  "id": "Competition/Beemate",
+  "title": "Beemate",
+  "description": "",
+  "source": "@site/research/Competition/Beemate.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Beemate",
+  "permalink": "/research/Competition/Beemate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beemate.buzz/",
+    "products": "👁️‍🗨️ Entrance Observer"
+  }
+}

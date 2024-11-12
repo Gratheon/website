@@ -1467,17 +1467,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-ux-ui-wireframes-256-93e"
   },
-  "/research-ad2": {
+  "/research-e22": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-2da": {
+  "/research-7a4": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-445": {
+  "/research-10b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -1544,6 +1544,186 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-biodiversity-conservation-and-current-threats-to-european-honeybeese-9-f-9db"
   },
+  "/research/Competition/-418": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-f-9-c-d29"
+  },
+  "/research/Competition/🇨🇦 Nectar-eb5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇨🇦-nectarea-8-9b2"
+  },
+  "/research/Competition/🇩🇪 ApicAI-1a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇩🇪-apic-a-ieb-8-738"
+  },
+  "/research/Competition/🇮🇱 Beewise-60e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇮🇱-beewise-829-d2b"
+  },
+  "/research/Competition/AgriPulse-174": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-agri-pulseab-2-692"
+  },
+  "/research/Competition/AgriSound-b13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-agri-sound-007-f9b"
+  },
+  "/research/Competition/ApiaryBook-43a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-apiary-booka-2-f-986"
+  },
+  "/research/Competition/ApiManager-791": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-api-manager-934-39c"
+  },
+  "/research/Competition/ApiZoom-97e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-api-zoom-0-df-11b"
+  },
+  "/research/Competition/BeeHero-081": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-hero-773-676"
+  },
+  "/research/Competition/BeeHiveMonitoring-0c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-hive-monitoring-3-d-9-35b"
+  },
+  "/research/Competition/BeehiveMonitoringUSA-b8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beehive-monitoring-usa-0-cd-e09"
+  },
+  "/research/Competition/BeeLab-097": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-labaa-6-ea7"
+  },
+  "/research/Competition/BeeLogger-760": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-logger-44-c-522"
+  },
+  "/research/Competition/Beemate-55d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beemate-023-cba"
+  },
+  "/research/Competition/BeeOrganizer-af7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-organizer-107-45a"
+  },
+  "/research/Competition/Beep-bd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beepb-3-d-903"
+  },
+  "/research/Competition/BeePlus Beekeeping-713": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-plus-beekeeping-6-e-8-59b"
+  },
+  "/research/Competition/BeePot-428": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-pot-9-c-4-81b"
+  },
+  "/research/Competition/BeeSage-c17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-sage-277-465"
+  },
+  "/research/Competition/beescanning-9e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beescanningd-12-949"
+  },
+  "/research/Competition/Beetight 2-620": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beetight-2006-a9a"
+  },
+  "/research/Competition/BeeZee-88d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-zeec-3-e-f6b"
+  },
+  "/research/Competition/Best Bees-5d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-best-beesa-75-203"
+  },
+  "/research/Competition/Broodminder-aea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-broodminder-3-fd-241"
+  },
+  "/research/Competition/BuzzBox-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-buzz-box-816-72f"
+  },
+  "/research/Competition/DanNduati IoT-beehive-monitoring-system-62a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-dan-nduati-io-t-beehive-monitoring-system-612-597"
+  },
+  "/research/Competition/Gobuzzr-6df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-gobuzzr-20-f-553"
+  },
+  "/research/Competition/Hackuarium beemos-769": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hackuarium-beemose-87-232"
+  },
+  "/research/Competition/HiveBloom-2e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-bloomcb-6-130"
+  },
+  "/research/Competition/HiveMind-826": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-mindd-4-c-137"
+  },
+  "/research/Competition/HivePulse-609": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-pulsee-6-c-7e0"
+  },
+  "/research/Competition/hivetracks-65b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hivetracks-476-5e9"
+  },
+  "/research/Competition/HoneyInstruments-ccd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-honey-instruments-7-d-0-65a"
+  },
+  "/research/Competition/i-bee-b6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-i-bee-19-a-3e4"
+  },
+  "/research/Competition/InspectNext-189": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-inspect-next-0-d-2-9c0"
+  },
+  "/research/Competition/IntelligentHives-e74": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-intelligent-hivesfee-3d9"
+  },
+  "/research/Competition/io-bee-9ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-io-beec-29-00e"
+  },
+  "/research/Competition/Mjrovai Bee-Counting-152": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-mjrovai-bee-counting-601-0c2"
+  },
+  "/research/Competition/OSBeehives-335": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-os-beehives-21-f-51e"
+  },
+  "/research/Competition/Prohiver-7e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-prohiver-879-a5b"
+  },
+  "/research/Competition/Purple Hive-27b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-purple-hive-59-c-da6"
+  },
+  "/research/Competition/RoboRoyale-492": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-robo-royale-338-901"
+  },
+  "/research/Competition/Solutionbee-438": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-solutionbeee-06-c13"
+  },
+  "/research/Competition/vitzaoral beehive_weight-04d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-vitzaoral-beehive-weight-7-ff-48c"
+  },
   "/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period-4a4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-evaluation-of-the-honey-bee-colonies-weight-gain-during-theintensive-foraging-period-9-fc-f81"
@@ -1596,6 +1776,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-raspberry-pi-bee-health-monitoring-device-3-e-6-20c"
   },
+  "/research/Reception and learning of electric fields in bees-0a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-reception-and-learning-of-electric-fields-in-beesf-44-516"
+  },
   "/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network-42f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-recognition-of-pollen-bearing-bees-from-video-using-convolutional-neural-network-237-052"
@@ -1623,6 +1807,10 @@
   "/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques-933": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-visual-diagnosis-of-the-varroa-destructor-parasitic-mite-in-honeybees-using-object-detector-techniques-594-ccd"
+  },
+  "/research/wifi-exposure-c9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-wifi-exposureec-7-64e"
   },
   "/-dec": {
     "__comp": "__comp---site-pages-index-tsx-4-fd-71b",

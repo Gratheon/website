@@ -1,0 +1,17 @@
+{
+  "id": "Competition/io-bee",
+  "title": "io-bee",
+  "description": "",
+  "source": "@site/research/Competition/io-bee.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/io-bee",
+  "permalink": "/research/Competition/io-bee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://io-bee.eu/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

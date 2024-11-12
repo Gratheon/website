@@ -1,0 +1,17 @@
+{
+  "id": "Competition/DanNduati IoT-beehive-monitoring-system",
+  "title": "DanNduati IoT-beehive-monitoring-system",
+  "description": "",
+  "source": "@site/research/Competition/DanNduati IoT-beehive-monitoring-system.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/DanNduati IoT-beehive-monitoring-system",
+  "permalink": "/research/Competition/DanNduati IoT-beehive-monitoring-system",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://github.com/DanNduati/IoT-beehive-monitoring-system",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

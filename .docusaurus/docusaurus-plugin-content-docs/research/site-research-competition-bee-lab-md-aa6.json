@@ -1,0 +1,17 @@
+{
+  "id": "Competition/BeeLab",
+  "title": "BeeLab",
+  "description": "",
+  "source": "@site/research/Competition/BeeLab.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/BeeLab",
+  "permalink": "/research/Competition/BeeLab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "BeeLab.se",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

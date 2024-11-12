@@ -1,0 +1,17 @@
+{
+  "id": "Competition/BeeHiveMonitoring",
+  "title": "BeeHiveMonitoring",
+  "description": "",
+  "source": "@site/research/Competition/BeeHiveMonitoring.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/BeeHiveMonitoring",
+  "permalink": "/research/Competition/BeeHiveMonitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beehivemonitoring.com/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

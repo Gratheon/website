@@ -1,0 +1,17 @@
+{
+  "id": "Competition/Best Bees",
+  "title": "Best Bees",
+  "description": "",
+  "source": "@site/research/Competition/Best Bees.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Best Bees",
+  "permalink": "/research/Competition/Best Bees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://bestbees.com/smarthive-lp/",
+    "products": "👁️‍🗨️ Entrance Observer"
+  }
+}

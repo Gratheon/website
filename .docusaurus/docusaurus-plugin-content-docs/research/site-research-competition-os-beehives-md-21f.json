@@ -1,0 +1,16 @@
+{
+  "id": "Competition/OSBeehives",
+  "title": "OSBeehives",
+  "description": "",
+  "source": "@site/research/Competition/OSBeehives.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/OSBeehives",
+  "permalink": "/research/Competition/OSBeehives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  }
+}

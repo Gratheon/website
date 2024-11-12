@@ -1,0 +1,17 @@
+{
+  "id": "Competition/Broodminder",
+  "title": "Broodminder",
+  "description": "",
+  "source": "@site/research/Competition/Broodminder.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Broodminder",
+  "permalink": "/research/Competition/Broodminder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "broodminder.com",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

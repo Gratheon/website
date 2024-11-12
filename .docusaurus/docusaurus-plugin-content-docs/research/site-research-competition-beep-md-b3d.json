@@ -1,0 +1,17 @@
+{
+  "id": "Competition/Beep",
+  "title": "Beep",
+  "description": "",
+  "source": "@site/research/Competition/Beep.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Beep",
+  "permalink": "/research/Competition/Beep",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beep.nl/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

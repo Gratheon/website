@@ -1,0 +1,16 @@
+{
+  "id": "Competition/HiveBloom",
+  "title": "HiveBloom",
+  "description": "",
+  "source": "@site/research/Competition/HiveBloom.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/HiveBloom",
+  "permalink": "/research/Competition/HiveBloom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  }
+}

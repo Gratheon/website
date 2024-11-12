@@ -1,0 +1,17 @@
+{
+  "id": "Competition/ApiaryBook",
+  "title": "ApiaryBook",
+  "description": "",
+  "source": "@site/research/Competition/ApiaryBook.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/ApiaryBook",
+  "permalink": "/research/Competition/ApiaryBook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "apiarybook.com",
+    "products": "📱Web-app"
+  }
+}

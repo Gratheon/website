@@ -1,0 +1,17 @@
+{
+  "id": "Competition/BeeSage",
+  "title": "BeeSage",
+  "description": "",
+  "source": "@site/research/Competition/BeeSage.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/BeeSage",
+  "permalink": "/research/Competition/BeeSage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beesage.co/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

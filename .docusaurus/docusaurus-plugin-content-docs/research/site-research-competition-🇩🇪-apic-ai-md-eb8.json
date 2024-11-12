@@ -1,0 +1,17 @@
+{
+  "id": "Competition/🇩🇪 ApicAI",
+  "title": "🇩🇪 ApicAI",
+  "description": "",
+  "source": "@site/research/Competition/🇩🇪 ApicAI.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/🇩🇪 ApicAI",
+  "permalink": "/research/Competition/🇩🇪 ApicAI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://apic.ai/",
+    "products": "👁️‍🗨️ Entrance Observer"
+  }
+}

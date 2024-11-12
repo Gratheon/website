@@ -1,0 +1,17 @@
+{
+  "id": "Competition/ApiZoom",
+  "title": "ApiZoom",
+  "description": "",
+  "source": "@site/research/Competition/ApiZoom.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/ApiZoom",
+  "permalink": "/research/Competition/ApiZoom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.apizoom.app/",
+    "products": "📱Web-app"
+  }
+}

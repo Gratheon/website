@@ -1,0 +1,16 @@
+{
+  "id": "Competition/BeeOrganizer",
+  "title": "BeeOrganizer",
+  "description": "",
+  "source": "@site/research/Competition/BeeOrganizer.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/BeeOrganizer",
+  "permalink": "/research/Competition/BeeOrganizer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  }
+}

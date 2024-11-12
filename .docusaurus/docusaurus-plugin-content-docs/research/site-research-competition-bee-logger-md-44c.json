@@ -1,0 +1,17 @@
+{
+  "id": "Competition/BeeLogger",
+  "title": "BeeLogger",
+  "description": "",
+  "source": "@site/research/Competition/BeeLogger.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/BeeLogger",
+  "permalink": "/research/Competition/BeeLogger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://github.com/boortel/Bee-Health-Monitor/tree/main",
+    "products": "👁️‍🗨️ Entrance Observer"
+  }
+}

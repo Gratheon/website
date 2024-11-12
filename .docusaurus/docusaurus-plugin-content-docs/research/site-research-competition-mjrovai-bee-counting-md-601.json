@@ -1,0 +1,17 @@
+{
+  "id": "Competition/Mjrovai Bee-Counting",
+  "title": "Mjrovai Bee-Counting",
+  "description": "https://www.hackster.io/518000/buzztech-machine-learning-at-the-edge-07c951",
+  "source": "@site/research/Competition/Mjrovai Bee-Counting.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Mjrovai Bee-Counting",
+  "permalink": "/research/Competition/Mjrovai Bee-Counting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://github.com/Mjrovai/Bee-Counting/",
+    "products": "👁️‍🗨️ Entrance Observer"
+  }
+}

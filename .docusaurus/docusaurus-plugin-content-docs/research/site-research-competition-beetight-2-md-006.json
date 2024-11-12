@@ -1,0 +1,16 @@
+{
+  "id": "Competition/Beetight 2",
+  "title": "Beetight 2",
+  "description": "",
+  "source": "@site/research/Competition/Beetight 2.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Beetight 2",
+  "permalink": "/research/Competition/Beetight 2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  }
+}

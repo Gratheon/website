@@ -1801,15 +1801,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'ad2'),
+    component: ComponentCreator('/research', 'e22'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '2da'),
+        component: ComponentCreator('/research', '7a4'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '445'),
+            component: ComponentCreator('/research', '10b'),
             routes: [
               {
                 path: '/research/',
@@ -1892,6 +1892,231 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Competition/',
+                component: ComponentCreator('/research/Competition/', '418'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/🇨🇦 Nectar',
+                component: ComponentCreator('/research/Competition/🇨🇦 Nectar', 'eb5'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/🇩🇪 ApicAI',
+                component: ComponentCreator('/research/Competition/🇩🇪 ApicAI', '1a2'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/🇮🇱 Beewise',
+                component: ComponentCreator('/research/Competition/🇮🇱 Beewise', '60e'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/AgriPulse',
+                component: ComponentCreator('/research/Competition/AgriPulse', '174'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/AgriSound',
+                component: ComponentCreator('/research/Competition/AgriSound', 'b13'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/ApiaryBook',
+                component: ComponentCreator('/research/Competition/ApiaryBook', '43a'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/ApiManager',
+                component: ComponentCreator('/research/Competition/ApiManager', '791'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/ApiZoom',
+                component: ComponentCreator('/research/Competition/ApiZoom', '97e'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeHero',
+                component: ComponentCreator('/research/Competition/BeeHero', '081'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeHiveMonitoring',
+                component: ComponentCreator('/research/Competition/BeeHiveMonitoring', '0c2'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeehiveMonitoringUSA',
+                component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', 'b8a'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeLab',
+                component: ComponentCreator('/research/Competition/BeeLab', '097'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeLogger',
+                component: ComponentCreator('/research/Competition/BeeLogger', '760'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Beemate',
+                component: ComponentCreator('/research/Competition/Beemate', '55d'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeOrganizer',
+                component: ComponentCreator('/research/Competition/BeeOrganizer', 'af7'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Beep',
+                component: ComponentCreator('/research/Competition/Beep', 'bd7'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeePlus Beekeeping',
+                component: ComponentCreator('/research/Competition/BeePlus Beekeeping', '713'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeePot',
+                component: ComponentCreator('/research/Competition/BeePot', '428'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeSage',
+                component: ComponentCreator('/research/Competition/BeeSage', 'c17'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/beescanning',
+                component: ComponentCreator('/research/Competition/beescanning', '9e1'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Beetight 2',
+                component: ComponentCreator('/research/Competition/Beetight 2', '620'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BeeZee',
+                component: ComponentCreator('/research/Competition/BeeZee', '88d'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Best Bees',
+                component: ComponentCreator('/research/Competition/Best Bees', '5d2'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Broodminder',
+                component: ComponentCreator('/research/Competition/Broodminder', 'aea'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/BuzzBox',
+                component: ComponentCreator('/research/Competition/BuzzBox', '1e3'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/DanNduati IoT-beehive-monitoring-system',
+                component: ComponentCreator('/research/Competition/DanNduati IoT-beehive-monitoring-system', '62a'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Gobuzzr',
+                component: ComponentCreator('/research/Competition/Gobuzzr', '6df'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Hackuarium beemos',
+                component: ComponentCreator('/research/Competition/Hackuarium beemos', '769'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HiveBloom',
+                component: ComponentCreator('/research/Competition/HiveBloom', '2e6'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HiveMind',
+                component: ComponentCreator('/research/Competition/HiveMind', '826'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HivePulse',
+                component: ComponentCreator('/research/Competition/HivePulse', '609'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/hivetracks',
+                component: ComponentCreator('/research/Competition/hivetracks', '65b'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HoneyInstruments',
+                component: ComponentCreator('/research/Competition/HoneyInstruments', 'ccd'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/i-bee',
+                component: ComponentCreator('/research/Competition/i-bee', 'b6c'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/InspectNext',
+                component: ComponentCreator('/research/Competition/InspectNext', '189'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/IntelligentHives',
+                component: ComponentCreator('/research/Competition/IntelligentHives', 'e74'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/io-bee',
+                component: ComponentCreator('/research/Competition/io-bee', '9ca'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Mjrovai Bee-Counting',
+                component: ComponentCreator('/research/Competition/Mjrovai Bee-Counting', '152'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/OSBeehives',
+                component: ComponentCreator('/research/Competition/OSBeehives', '335'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Prohiver',
+                component: ComponentCreator('/research/Competition/Prohiver', '7e7'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Purple Hive',
+                component: ComponentCreator('/research/Competition/Purple Hive', '27b'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/RoboRoyale',
+                component: ComponentCreator('/research/Competition/RoboRoyale', '492'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Solutionbee',
+                component: ComponentCreator('/research/Competition/Solutionbee', '438'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/vitzaoral beehive_weight',
+                component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', '04d'),
+                exact: true
+              },
+              {
                 path: '/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
                 component: ComponentCreator('/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period', '4a4'),
                 exact: true
@@ -1957,6 +2182,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Reception and learning of electric fields in bees',
+                component: ComponentCreator('/research/Reception and learning of electric fields in bees', '0a8'),
+                exact: true
+              },
+              {
                 path: '/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
                 component: ComponentCreator('/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', '42f'),
                 exact: true
@@ -1989,6 +2219,11 @@ export default [
               {
                 path: '/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques',
                 component: ComponentCreator('/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques', '933'),
+                exact: true
+              },
+              {
+                path: '/research/wifi-exposure',
+                component: ComponentCreator('/research/wifi-exposure', 'c9a'),
                 exact: true
               }
             ]

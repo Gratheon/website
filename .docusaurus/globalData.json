@@ -1449,6 +1449,186 @@
               "path": "/research/Biodiversity conservation and current threats to European honeybees"
             },
             {
+              "id": "Competition/🇨🇦 Nectar",
+              "path": "/research/Competition/🇨🇦 Nectar"
+            },
+            {
+              "id": "Competition/🇩🇪 ApicAI",
+              "path": "/research/Competition/🇩🇪 ApicAI"
+            },
+            {
+              "id": "Competition/🇮🇱 Beewise",
+              "path": "/research/Competition/🇮🇱 Beewise"
+            },
+            {
+              "id": "Competition/AgriPulse",
+              "path": "/research/Competition/AgriPulse"
+            },
+            {
+              "id": "Competition/AgriSound",
+              "path": "/research/Competition/AgriSound"
+            },
+            {
+              "id": "Competition/ApiaryBook",
+              "path": "/research/Competition/ApiaryBook"
+            },
+            {
+              "id": "Competition/ApiManager",
+              "path": "/research/Competition/ApiManager"
+            },
+            {
+              "id": "Competition/ApiZoom",
+              "path": "/research/Competition/ApiZoom"
+            },
+            {
+              "id": "Competition/BeeHero",
+              "path": "/research/Competition/BeeHero"
+            },
+            {
+              "id": "Competition/BeeHiveMonitoring",
+              "path": "/research/Competition/BeeHiveMonitoring"
+            },
+            {
+              "id": "Competition/BeehiveMonitoringUSA",
+              "path": "/research/Competition/BeehiveMonitoringUSA"
+            },
+            {
+              "id": "Competition/BeeLab",
+              "path": "/research/Competition/BeeLab"
+            },
+            {
+              "id": "Competition/BeeLogger",
+              "path": "/research/Competition/BeeLogger"
+            },
+            {
+              "id": "Competition/Beemate",
+              "path": "/research/Competition/Beemate"
+            },
+            {
+              "id": "Competition/BeeOrganizer",
+              "path": "/research/Competition/BeeOrganizer"
+            },
+            {
+              "id": "Competition/Beep",
+              "path": "/research/Competition/Beep"
+            },
+            {
+              "id": "Competition/BeePlus Beekeeping",
+              "path": "/research/Competition/BeePlus Beekeeping"
+            },
+            {
+              "id": "Competition/BeePot",
+              "path": "/research/Competition/BeePot"
+            },
+            {
+              "id": "Competition/BeeSage",
+              "path": "/research/Competition/BeeSage"
+            },
+            {
+              "id": "Competition/beescanning",
+              "path": "/research/Competition/beescanning"
+            },
+            {
+              "id": "Competition/Beetight 2",
+              "path": "/research/Competition/Beetight 2"
+            },
+            {
+              "id": "Competition/BeeZee",
+              "path": "/research/Competition/BeeZee"
+            },
+            {
+              "id": "Competition/Best Bees",
+              "path": "/research/Competition/Best Bees"
+            },
+            {
+              "id": "Competition/Broodminder",
+              "path": "/research/Competition/Broodminder"
+            },
+            {
+              "id": "Competition/BuzzBox",
+              "path": "/research/Competition/BuzzBox"
+            },
+            {
+              "id": "Competition/Competition",
+              "path": "/research/Competition/"
+            },
+            {
+              "id": "Competition/DanNduati IoT-beehive-monitoring-system",
+              "path": "/research/Competition/DanNduati IoT-beehive-monitoring-system"
+            },
+            {
+              "id": "Competition/Gobuzzr",
+              "path": "/research/Competition/Gobuzzr"
+            },
+            {
+              "id": "Competition/Hackuarium beemos",
+              "path": "/research/Competition/Hackuarium beemos"
+            },
+            {
+              "id": "Competition/HiveBloom",
+              "path": "/research/Competition/HiveBloom"
+            },
+            {
+              "id": "Competition/HiveMind",
+              "path": "/research/Competition/HiveMind"
+            },
+            {
+              "id": "Competition/HivePulse",
+              "path": "/research/Competition/HivePulse"
+            },
+            {
+              "id": "Competition/hivetracks",
+              "path": "/research/Competition/hivetracks"
+            },
+            {
+              "id": "Competition/HoneyInstruments",
+              "path": "/research/Competition/HoneyInstruments"
+            },
+            {
+              "id": "Competition/i-bee",
+              "path": "/research/Competition/i-bee"
+            },
+            {
+              "id": "Competition/InspectNext",
+              "path": "/research/Competition/InspectNext"
+            },
+            {
+              "id": "Competition/IntelligentHives",
+              "path": "/research/Competition/IntelligentHives"
+            },
+            {
+              "id": "Competition/io-bee",
+              "path": "/research/Competition/io-bee"
+            },
+            {
+              "id": "Competition/Mjrovai Bee-Counting",
+              "path": "/research/Competition/Mjrovai Bee-Counting"
+            },
+            {
+              "id": "Competition/OSBeehives",
+              "path": "/research/Competition/OSBeehives"
+            },
+            {
+              "id": "Competition/Prohiver",
+              "path": "/research/Competition/Prohiver"
+            },
+            {
+              "id": "Competition/Purple Hive",
+              "path": "/research/Competition/Purple Hive"
+            },
+            {
+              "id": "Competition/RoboRoyale",
+              "path": "/research/Competition/RoboRoyale"
+            },
+            {
+              "id": "Competition/Solutionbee",
+              "path": "/research/Competition/Solutionbee"
+            },
+            {
+              "id": "Competition/vitzaoral beehive_weight",
+              "path": "/research/Competition/vitzaoral beehive_weight"
+            },
+            {
               "id": "Evaluation of the honey bee colonies weight gain during theintensive foraging period",
               "path": "/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
             },
@@ -1505,6 +1685,10 @@
               "path": "/research/Raspberry Pi Bee Health Monitoring Device"
             },
             {
+              "id": "Reception and learning of electric fields in bees",
+              "path": "/research/Reception and learning of electric fields in bees"
+            },
+            {
               "id": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
               "path": "/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
             },
@@ -1531,6 +1715,10 @@
             {
               "id": "Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques",
               "path": "/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques"
+            },
+            {
+              "id": "wifi-exposure",
+              "path": "/research/wifi-exposure"
             }
           ],
           "draftIds": [],
