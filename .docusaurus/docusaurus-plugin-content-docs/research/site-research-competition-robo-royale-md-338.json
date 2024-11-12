@@ -1,7 +1,7 @@
 {
   "id": "Competition/RoboRoyale",
   "title": "RoboRoyale",
-  "description": "",
+  "description": "Research project that monitors the queen and associated bees using a robot",
   "source": "@site/research/Competition/RoboRoyale.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/RoboRoyale",
@@ -12,6 +12,7 @@
   "version": "current",
   "frontMatter": {
     "url": "https://roboroyale.eu/",
-    "products": "🧿 Robotic Beehive"
+    "products": "🧿 Robotic Beehive",
+    "description": "Research project that monitors the queen and associated bees using a robot"
   }
 }
