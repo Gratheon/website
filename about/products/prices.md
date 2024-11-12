@@ -29,6 +29,7 @@ If you buy a device, you are not vendor-locked and we do not force you to pay fo
 
 | Feature                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- |
+| [🌍 Localization](📱Web-app/community-tier/🌍%20Localization.md)                                                           |
 | [🌪️ weather graph](📱Web-app/community-tier/🌪️%20weather%20graph.md)                                                     |
 | [🌻 list of local plants](📱Web-app/community-tier/🌻%20list%20of%20local%20plants.md)                                     |
 | [🐝 Honeycomb cell detection & management](📱Web-app/community-tier/🐝%20Honeycomb%20cell%20detection%20&%20management.md) |
@@ -43,9 +44,8 @@ If you buy a device, you are not vendor-locked and we do not force you to pay fo
 | [🖼️ Frame side management](📱Web-app/community-tier/🖼️%20Frame%20side%20management.md)                                   |
 | [🙅 User account deletion](📱Web-app/community-tier/🙅%20User%20account%20deletion.md)                                     |
 | [🧑‍🚀 User editing](📱Web-app/community-tier/🧑‍🚀%20User%20editing.md)                                                   |
-| [🧑‍🚀 User login](📱Web-app/community-tier/🧑‍🚀%20User%20login.md)                                                       |
 | [🧑‍🚀 User registration](📱Web-app/community-tier/🧑‍🚀%20User%20registration.md)                                         |
-| [🌍 Localization](📱Web-app/community-tier/🌍%20Localization.md)                                                           |
+| [🧑‍🚀 User login](📱Web-app/community-tier/🧑‍🚀%20User%20login.md)                                                       |
 <!-- SerializedQuery END -->
 
 
@@ -57,8 +57,8 @@ If you buy a device, you are not vendor-locked and we do not force you to pay fo
 | Feature                                                                                            |
 | -------------------------------------------------------------------------------------------------- |
 | [✏️ Drawing on canvas](📱Web-app/essential-tier/✏️%20Drawing%20on%20canvas.md)                     |
-| [🍭 Feeding management](📱Web-app/essential-tier/🍭%20Feeding%20management.md)                     |
 | [🔎 Inspection management](📱Web-app/essential-tier/🔎%20Inspection%20management.md)               |
+| [🍭 Feeding management](📱Web-app/essential-tier/🍭%20Feeding%20management.md)                     |
 | [🤖 Beekeeping advice with LLM](📱Web-app/essential-tier/🤖%20Beekeeping%20advice%20with%20LLM.md) |
 <!-- SerializedQuery END -->
 

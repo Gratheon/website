@@ -31,19 +31,20 @@ As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscala
 | [🦀 Infestations](about/🌨️%20Problems/🦀%20Infestations.md)                                                             | external influence      | 80       |
 | [🌲 Distant locations](about/🌨️%20Problems/🌲%20Distant%20locations.md)                                                 | \-                      | 70       |
 | [🧶 Swarming](about/🌨️%20Problems/🧶%20Swarming.md)                                                                     | beekeeping practices    | 70       |
-| [💀 Colony with drone-laying queen](about/🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)                   | internal state          | 60       |
-| [🦀 Diseases](about/🌨️%20Problems/🦀%20Diseases.md)                                                                     | external influence      | 60       |
 | [🍽️ Bee colony starvation](about/🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md)                                     | internal state          | 60       |
+| [🦀 Diseases](about/🌨️%20Problems/🦀%20Diseases.md)                                                                     | external influence      | 60       |
+| [💀 Colony with drone-laying queen](about/🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)                   | internal state          | 60       |
 | [🏘️ Multiple apiaries](about/🌨️%20Problems/🏘️%20Multiple%20apiaries.md)                                               | beekeeping practices    | 50       |
 | [💀 Alcohol washing killing bees](about/🌨️%20Problems/💀%20Alcohol%20washing%20killing%20bees.md)                       | unethical treatment     | 50       |
 | [💀 Intrusive inspections](about/🌨️%20Problems/💀%20Intrusive%20inspections.md)                                         | unethical treatment     | 50       |
 | [💢 Aggressive bee colonies](about/🌨️%20Problems/💢%20Aggressive%20bee%20colonies.md)                                   | beekeeping practices    | 50       |
+| [🌨️ Problems](about/🌨️%20Problems/🌨️%20Problems.md)                                                                   | \-                      | \-       |
 | [🌻 Monocultural agriculture](about/🌨️%20Problems/🌻%20Monocultural%20agriculture.md)                                   | \-                      | \-       |
-| [🏘️ Bees attacking neighbours](about/🌨️%20Problems/🏘️%20Bees%20attacking%20neighbours.md)                             | \-                      | \-       |
+| [🌻 Precise pollination](about/🌨️%20Problems/🌻%20Precise%20pollination.md)                                             | anthropological dangers | \-       |
 | [🎒 Challenging to become a new beekeeper](about/🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) | \-                      | \-       |
+| [🏘️ Bees attacking neighbours](about/🌨️%20Problems/🏘️%20Bees%20attacking%20neighbours.md)                             | \-                      | \-       |
 | [🐭 Mice killing a colony](about/🌨️%20Problems/🐭%20Mice%20killing%20a%20colony.md)                                     | \-                      | \-       |
 | [🐻 Bears destroying hives & colonies](about/🌨️%20Problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)           | \-                      | \-       |
-| [👁️ Time-consuming inspections](about/🌨️%20Problems/👁️%20Time-consuming%20inspections.md)                             | \-                      | \-       |
 | [💀 Colony without a queen](about/🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)                                   | internal state          | \-       |
 | [💢 Hornet attacks](about/🌨️%20Problems/💢%20Hornet%20attacks.md)                                                       | \-                      | \-       |
 | [💢 Robbing state](about/🌨️%20Problems/💢%20Robbing%20state.md)                                                         | \-                      | \-       |
@@ -52,8 +53,7 @@ As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscala
 | [🗃️ Poor hive ventilation](about/🌨️%20Problems/🗃️%20Poor%20hive%20ventilation.md)                                     | \-                      | \-       |
 | [🗃️ Ugly beehives](about/🌨️%20Problems/🗃️%20Ugly%20beehives.md)                                                       | \-                      | \-       |
 | [🤢 Pesticide poisoning](about/🌨️%20Problems/🤢%20Pesticide%20poisoning.md)                                             | \-                      | \-       |
-| [🌻 Precise pollination](about/🌨️%20Problems/🌻%20Precise%20pollination.md)                                             | anthropological dangers | \-       |
-| [🌨️ Problems](about/🌨️%20Problems/🌨️%20Problems.md)                                                                   | \-                      | \-       |
+| [👁️ Time-consuming inspections](about/🌨️%20Problems/👁️%20Time-consuming%20inspections.md)                             | \-                      | \-       |
 <!-- SerializedQuery END -->
 
 
