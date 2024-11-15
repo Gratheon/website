@@ -3,7 +3,7 @@ services:
   website-search:
     image: node:20-alpine
     command:
-      node proxy-search.js
+      node /app/proxy-search.js
     tty: true
     ports:
       - 5700:5700
