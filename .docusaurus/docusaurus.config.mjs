@@ -135,6 +135,10 @@ export default {
           "position": "left"
         },
         {
+          "type": "search",
+          "position": "right"
+        },
+        {
           "aria-label": "Discord Invite",
           "className": "navbar--discord-link",
           "href": "https://discord.gg/PcbP4uedWj",

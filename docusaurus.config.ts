@@ -131,6 +131,11 @@ const config: Config = {
 
         {href: '/about/products/prices', label: 'Pricing', position: 'left'},
         
+        {
+          type: 'search',
+          'position': 'right',
+        },
+
 				{
 					'aria-label': 'Discord Invite',
 					'className': 'navbar--discord-link',
