@@ -9,7 +9,7 @@ fastify.register(require('@fastify/cors'), {
 
 
 // Fastify route for POST /search
-fastify.post('/', async (request, reply) => {
+fastify.post('/search', async (request, reply) => {
   try {
     const raw = JSON.stringify({
       "user_app_id": {
