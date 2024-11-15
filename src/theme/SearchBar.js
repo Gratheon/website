@@ -20,7 +20,7 @@ export default function SearchBarWrapper(props) {
   function search(e) {
     if (e.target.value.length <3) return
   
-    fetch('http://gratheon.com/search', {
+    fetch('https://gratheon.com/search', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
