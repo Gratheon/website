@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be99f8222742ac9e",
+        "id": "78c98be0176c0126",
         "type": "tabs",
         "children": [
           {
-            "id": "f6df18511be68571",
+            "id": "9f4d89a5f9f5741e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "research/img/FVSwEOTXsAAd82W.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FVSwEOTXsAAd82W"
-            }
-          },
-          {
-            "id": "2c4c7964cff55f46",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "research/img/FVSwEOTXsAAd82W.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FVSwEOTXsAAd82W"
-            }
-          },
-          {
-            "id": "df255aacc8d98cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/Competition/🇮🇱 Beewise.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🇮🇱 Beewise"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,26 +161,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df255aacc8d98cd8",
+  "active": "9f4d89a5f9f5741e",
   "lastOpenFiles": [
+    "research/img/FVSwEOTXsAAd82W.jpg",
+    "research/Competition/img/Screenshot 2024-04-23 at 23.15.15.png",
+    "research/Competition/🇺🇸 Best Bees.md",
+    "research/Competition/img/best-bees-2.png",
+    "research/Competition/img/best-bees-1.png",
+    "research/Competition/🇩🇪 ApicAI.md",
+    "research/Competition/img/Screenshot 2023-10-11 at 12.27.13.png",
+    "research/Competition/img/Screenshot 2023-10-25 at 01.01.44.png",
+    "research/Competition/img/Screenshot 2024-04-23 at 23.08.41.png",
+    "research/Competition/img/Screenshot 2024-04-23 at 23.09.18.png",
+    "research/Competition/img/Screenshot 2024-04-23 at 23.09.50.png",
+    "research/Competition/🇮🇱 Beewise.md",
     "research/Competition/🇪🇺 RoboRoyale.md",
     "research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md",
-    "research/img/FVSwEOTXsAAd82W.jpg",
     "src/FAQ.md",
     "research/img/F0rH3YmWYAE4OsC.jpg",
-    "research/img/FTOxAhxXEAAAtBB.jpg",
-    "research/img/FcyC-tQX0Aca1ut.jpg",
-    "research/img/FrXARCXWwAQ4FWM.jpg",
-    "research/img/Fr0l_YyXwAAxSvQ.jpg",
-    "research/img/F06mdn5WIAMsRuI.jpg",
-    "research/img/FUuJZuqX0AAJ9k0.jpg",
-    "research/img/F4zzEZ6XQAAIux8.jpg",
     "about/Volunteers ❤️‍🔥.md",
     "docs/📱 Web-app/📱 Web-app.md",
     "docs/Docs.md",
     "src/about/about/Brand meaning.md",
     "src/about/company/values/Radiate truth 🌞.md",
-    "src/img/hoodie.png",
     "src/about/company/values/Gather value 🍯.md",
     "src/about/company/Culture and values.md",
     "src/about/company/values",
@@ -225,10 +199,6 @@
     "src/about/Engineering/Cloud Infrastructure.md",
     "src/about/Engineering/Robotics.md",
     "src/about/Engineering/CAD modelling.md",
-    "src/about/Engineering/UX - UI wireframes.md",
-    "src/about/Engineering/Design.md",
-    "src/about/Engineering/Tech stack, conventions, environments.md",
-    "src/about/Engineering/Engineering onboarding.md",
     "src/about/Engineering",
     "src/img",
     "src/about/careers",

@@ -25,7 +25,7 @@ This is a list of great apps, devices, code repos and products that we look at f
 
 | title                                             | url                                                     | description |
 | ------------------------------------------------- | ------------------------------------------------------- | ----------- |
-| [Best Bees](Best%20Bees.md)                       | https://bestbees.com/smarthive-lp/                      | \-          |
+| [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)                       | https://bestbees.com/smarthive-lp/                      | \-          |
 | [Beemate](Beemate.md)                             | https://beemate.buzz/                                   | \-          |
 | [Purple Hive](Purple%20Hive.md)                   | https://www.vimanatech.com.au/about                     | \-          |
 | [BeeLogger](BeeLogger.md)                         | https://github.com/boortel/Bee-Health-Monitor/tree/main | \-          |
