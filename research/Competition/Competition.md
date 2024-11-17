@@ -15,7 +15,7 @@ This is a list of great apps, devices, code repos and products that we look at f
 
 | title                       | url                    | description                                                                |
 | --------------------------- | ---------------------- | -------------------------------------------------------------------------- |
-| [RoboRoyale](RoboRoyale.md) | https://roboroyale.eu/ | Research project that monitors the queen and associated bees using a robot |
+| [🇪🇺 RoboRoyale](🇪🇺%20RoboRoyale.md) | https://roboroyale.eu/ | Research project that monitors the queen and associated bees using a robot |
 <!-- SerializedQuery END -->
 
 ## 👁️‍🗨️ Entrance Observer
