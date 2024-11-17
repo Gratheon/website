@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf582287f60d268e",
+        "id": "be99f8222742ac9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb5e2ae55e45e37",
+            "id": "f6df18511be68571",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bb5e2ae55e45e37",
+  "active": "f6df18511be68571",
   "lastOpenFiles": [
+    "about/Volunteers ❤️‍🔥.md",
     "docs/📱 Web-app/📱 Web-app.md",
     "docs/Docs.md",
     "src/FAQ.md",
@@ -202,7 +203,6 @@
     "src/about/Engineering",
     "src/about/company/levels.png",
     "src/about/about/index.md",
-    "src/about/about/Company mission.md",
     "src/img",
     "src/about/careers",
     "src/about/pexels-nicky-18365421.jpg",

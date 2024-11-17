@@ -29,7 +29,7 @@ You can contribute by following these steps:
 3. Pick a feature if you want to work on a large, full-stack part of the product. In large companies features are maintained by product managers
 4. Alternatively, pick a task from task list 🐙 https://github.com/orgs/Gratheon/projects/5 if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
 5. Ask for more information in discord to get attention and document more information for the feature
-6. Follow [docs as engineering onboarding](/docs/)  if you need to change code and run services locally
+6. Follow docs on web-app if you need to change code and run services locally
 7. Think how your contribution will look like. Usually its a code pull-request to a specific repository
 
 ### Contributions
