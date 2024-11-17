@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80299ab8882e7f1e",
+        "id": "cf582287f60d268e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7df4ff4220509d6",
+            "id": "9bb5e2ae55e45e37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/📱 Web-app/📱 Web-app.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "📱 Web-app"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "9bb5e2ae55e45e37",
   "lastOpenFiles": [
+    "docs/📱 Web-app/📱 Web-app.md",
     "docs/Docs.md",
     "src/FAQ.md",
     "src/about/about/Brand meaning.md",
@@ -203,7 +200,6 @@
     "src/about/about/index.md",
     "src/about/about/Company mission.md",
     "src/img",
-    "src/about/company/Volunteering.md",
     "src/about/careers",
     "src/about/pexels-nicky-18365421.jpg",
     "img",
