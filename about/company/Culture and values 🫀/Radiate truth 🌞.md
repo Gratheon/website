@@ -11,3 +11,4 @@ Do not be gloomy
 - Our discord chat is public
 - Our meetings on youtube are public
 - Our datasets are public
+- We do not separate company data into secret, confidential, internal, restricted etc. All data is considered public
