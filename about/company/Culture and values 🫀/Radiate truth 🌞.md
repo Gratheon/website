@@ -8,8 +8,8 @@ Do not lie
 Do not be gloomy
 ## Examples
 - Our code is open source
+- Our datasets are public
 - Our internal communication is public
 	- Discord chats
-	- Our meetings on youtube are public
-- Our datasets are public
+	- Youtube meetings
 - We do not separate company data into `secret`, `confidential`, `internal`, `restricted` levels. All data is considered public
