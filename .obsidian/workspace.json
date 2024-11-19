@@ -11,10 +11,14 @@
             "id": "f7256c126cb20651",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/company/Culture and values 🫀/Radiate truth 🌞.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Radiate truth 🌞"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ra",
+                "query": "radiate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,11 +162,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8dd2de626a6cb91",
+  "active": "f7256c126cb20651",
   "lastOpenFiles": [
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
