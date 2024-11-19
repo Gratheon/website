@@ -1,5 +1,9 @@
-- Meetup - https://www.meetup.com/openuk/events/301997990/?eventOrigin=home_page_upcoming_events$all
-- Jenny Molloy
+Meetup - https://www.meetup.com/openuk/events/301997990/?eventOrigin=home_page_upcoming_events$all
+
+
+### [Gerrit Niezen](https://gerritniezen.com/)
+https://gerritniezen.com/openuk-slides
+### Jenny Molloy
 - https://forum.openhardware.science/
 - https://www.openplant.org/openmta/
 - wetware
