@@ -1,0 +1,1 @@
+![](img/Screenshot%202024-11-19%20at%2015.34.57.png)![](img/Screenshot%202024-11-19%20at%2016.30.39.png)![](img/Screenshot%202024-11-19%20at%2016.44.08.png)![](img/Screenshot%202024-11-19%20at%2016.45.41.png)![](img/Screenshot%202024-11-19%20at%2016.52.41.png)![](img/Screenshot%202024-11-19%20at%2016.56.59.png)
