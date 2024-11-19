@@ -9,8 +9,6 @@ title: 🌻 Purpose
 
 # What we do
 
-Automating beekeeping 🐝 with AI vision and robots 🤖
-
 We help 🧑🏻‍🚀 beekeepers with 🐝 AI observability and 🤖 robotic automation. 
 We provide [products](../products/index.md) so that beekeepers become more **efficient** and their colonies stay **healthy**.
 

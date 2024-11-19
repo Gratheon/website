@@ -10,7 +10,10 @@ https://gerritniezen.com/openuk-slides
 	- DNA
 	- tests
 
-![](img/Screenshot%202024-11-19%20at%2021.02.03.png)![](img/Screenshot%202024-11-19%20at%2021.02.15.png)![](img/Screenshot%202024-11-19%20at%2021.03.15.png)
+![](img/Screenshot%202024-11-19%20at%2021.02.03.png)
+<!-- truncate -->
+
+![](img/Screenshot%202024-11-19%20at%2021.02.15.png)![](img/Screenshot%202024-11-19%20at%2021.03.15.png)
 
 ![](img/Screenshot%202024-11-19%20at%2021.04.23.png)
 

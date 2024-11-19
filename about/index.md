@@ -6,7 +6,9 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon is a garage-phase bootstrapping startup with big dreams. See [📑 deck](deck.pdf) for quick overview. 
+Gratheon is a startup company. 
+We are automating beekeeping 🐝 with AI vision and robots 🤖 
+(see [🌻 Purpose](🌻%20Purpose/🌻%20Purpose.md) or  [📑 deck](deck.pdf) for quick overview)
 
 We highly encourage to join [volunteering](Volunteers%20❤️‍🔥.md) program and contribute to open source, especially if you are a beekeeper.
 
