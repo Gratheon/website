@@ -8,7 +8,8 @@ sidebar_position: 0
 
 Gratheon is a startup company (see  [📑 deck.pdf](deck.pdf) )
 We are automating beekeeping 🐝 with AI vision and robots 🤖
-Area wise - 💁🏻 B2B + B2C SaaS / Deeptech / Agrotech / Robotics
+
+💁🏻 B2B + B2C SaaS / Deeptech / Agrotech / Robotics
 
 ## Some numbers
 
