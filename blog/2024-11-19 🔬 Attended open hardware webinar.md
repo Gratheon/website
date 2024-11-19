@@ -1,5 +1,7 @@
+- Meetup - https://www.meetup.com/openuk/events/301997990/?eventOrigin=home_page_upcoming_events$all
 - Jenny Molloy
 - https://forum.openhardware.science/
+- https://www.openplant.org/openmta/
 - wetware
 	- DNA
 	- tests
@@ -28,8 +30,8 @@
 
 DNA polymerase is hard to get.
 - unstable
-- shipped cold, in ice
-- 
-
-Limited manufacturing
-![](img/Screenshot%202024-11-19%20at%2021.11.01.png)
+- shipped cold, in dry ice
+- logistics is hard
+- 2 days in europe, 4 weeks in Africa
+- Limited manufacturing
+![](img/Screenshot%202024-11-19%20at%2021.11.01.png)![](img/Screenshot%202024-11-19%20at%2021.15.40.png)![](img/Screenshot%202024-11-19%20at%2021.16.10.png)![](img/Screenshot%202024-11-19%20at%2021.17.07.png)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Open hardware webinar.md",
+                "file": "blog/2024-11-19 Attended Practical startup strategy webinar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open hardware webinar"
+              "title": "2024-11-19 Attended Practical startup strategy webinar"
             }
           }
         ]
@@ -167,22 +167,23 @@
   },
   "active": "45ff716a19a5168c",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2024-11-19 at 15.34.57.png",
+    "blog/2024-11-19 🔬 Attended open hardware webinar.md",
+    "blog/2024-11-19 Attended Practical startup strategy webinar.md",
+    "blog/img/Screenshot 2024-11-19 at 21.17.07.png",
+    "blog/img/Screenshot 2024-11-19 at 21.16.10.png",
+    "blog/img/Screenshot 2024-11-19 at 21.15.40.png",
     "blog/img/Screenshot 2024-11-19 at 21.11.01.png",
     "blog/img/Screenshot 2024-11-19 at 21.09.32.png",
     "blog/img/Screenshot 2024-11-19 at 21.05.10.png",
     "blog/img/Screenshot 2024-11-19 at 21.04.23.png",
     "blog/img/Screenshot 2024-11-19 at 21.03.15.png",
     "blog/img/Screenshot 2024-11-19 at 21.02.03.png",
-    "blog/Open hardware webinar.md",
     "about/company/Culture and values 🫀/Radiate truth 🌞.md",
     "about/company/Culture and values 🫀/Gather value 🍯.md",
     "about/company/Culture and values 🫀/Adapt to change 🏕️.md",
     "research/Competition/🇦🇺 Purple Hive.md",
     "research/Competition/img/Screenshot 2024-04-23 at 23.01.53.png",
-    "research/Competition/img/Screenshot 2024-04-23 at 21.15.01.png",
-    "research/Competition/img/Screenshot 2024-04-23 at 22.55.44.png",
-    "research/Competition/img/Screenshot 2024-04-23 at 21.14.34.png",
-    "research/Competition/img/Screenshot 2024-04-23 at 21.14.20.png",
     "research/Competition/🇦🇺 Beemate.md",
     "research/Competition/🇺🇸 Best Bees.md",
     "research/Competition/🇩🇪 ApicAI.md",
@@ -203,7 +204,6 @@
     "src/about/about/Naming etymology.md",
     "src/about/about/Logo.md",
     "src/about/careers/Careers.md",
-    "docs/Jetson Nano setup.md",
     "src/about/Engineering",
     "src/img",
     "src/about/careers",
