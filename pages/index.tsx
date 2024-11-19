@@ -37,7 +37,7 @@ function HomepageHeader() {
                 <div>Beehive inspection platform</div>
 
                 <p style={{ background: 'black', textAlign: 'center' }}>
-                  Organize apiary data to save your strength, time and bees
+                  Data analytics to save bees, time and strength
                 </p>
               </div>
             </div>
