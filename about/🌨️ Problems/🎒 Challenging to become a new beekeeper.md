@@ -1,21 +1,7 @@
 
-Beekeeping is a vast knowledge area that is hard to gain at the beginning without proper education, keep up to date of.
+Beekeeping is an age-old craft that plays a critical role in pollination and food production. Yet, for aspiring beekeepers, the journey to start their first hive can be daunting. The steep learning curve, upfront costs for equipment, and lack of access to hands-on guidance often discourage newcomers. Mismanaging a hive can lead to issues like colony collapse, diseases, or aggressive behavior, further intimidating beginners. With bees facing global threats such as habitat loss and pesticides, it’s essential to make beekeeping more accessible to support pollinator populations.
 
-If beekeeping is a hobby and a seasonal activity, this knowledge can be forgotten over time.
-
-So as a solution we need ways to assist beekeepers. Community, knowledge base, advises, reviews etc.
-
-
-For a regular person, that wants to become a beekeeper, its challenging to get started. He needs
-
-- education
-- practice
-- tooling
-- hive construction
-- time & effort
-- community to keep learning
-
-Beekeepers can have common workshops, but its hard to observe small details of particular colony with all of the buzzing, wearing a suit:
+At Gratheon, we’re reimagining beekeeping to lower the barriers for beginners. Our innovative solutions, including a web app with interactive tutorials, IoT sensors for hive health monitoring, and an AI vision system to analyze hive entrances, provide real-time insights that simplify the process. Additionally, our robotic beehive automates essential tasks like temperature regulation and pest control, empowering novice beekeepers to start with confidence. By combining technology with education, Gratheon aims to nurture a new generation of beekeepers, fostering sustainable practices and contributing to the global pollination ecosystem.
 
 ![](../img/GN9QBxKXIAA4tfF.jpg)
 

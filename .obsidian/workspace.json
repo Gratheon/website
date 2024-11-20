@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/🌲 Distant locations.md",
+                "file": "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲 Distant locations"
+              "title": "🐻 Bears destroying hives & colonies"
             }
           }
         ]
@@ -167,10 +167,17 @@
   },
   "active": "2a6839fb5c3eb811",
   "lastOpenFiles": [
+    "about/🌨️ Problems/🏘️ Multiple apiaries.md",
+    "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
+    "about/🌨️ Problems/🎒 Challenging to become a new beekeeper.md",
+    "about/🌨️ Problems/🍽️ Bee colony starvation.md",
+    "about/🌨️ Problems/🍯 Counterfeit honey.md",
+    "about/🌨️ Problems/🌻 Precise pollination.md",
+    "about/🌨️ Problems/🌲 Distant locations.md",
+    "about/🌨️ Problems/🌻 Monocultural agriculture.md",
     "about/🌨️ Problems/🌨️ Problems.md",
     "about/🌨️ Problems/❄️ Overwintering collapse.md",
     "research/index.md",
-    "about/🌨️ Problems/🍯 Counterfeit honey.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
     "blog/img/Screenshot 2024-11-19 at 19.24.01.png",
     "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
@@ -196,13 +203,6 @@
     "research/Competition/🇩🇪 ApicAI.md",
     "research/Competition/🇮🇱 Beewise.md",
     "research/Competition/🇪🇺 RoboRoyale.md",
-    "research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md",
-    "src/FAQ.md",
-    "docs/📱 Web-app/📱 Web-app.md",
-    "docs/Docs.md",
-    "src/about/about/Brand meaning.md",
-    "src/about/company/values/Radiate truth 🌞.md",
-    "src/about/company/values/Gather value 🍯.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",
