@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off"
             }
           }
         ]
@@ -161,21 +161,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "694df4214c027edd",
   "lastOpenFiles": [
-    "about/Volunteers ❤️‍🔥.md",
-    "about/index.md",
-    "about/company/Culture and values 🫀/Radiate truth 🌞.md",
+    "blog/img/Screenshot 2024-11-19 at 19.24.01.png",
+    "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
+    "about/index.md",
+    "about/Volunteers ❤️‍🔥.md",
+    "about/company/Culture and values 🫀/Radiate truth 🌞.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
     "blog/img/Screenshot 2024-11-19 at 19.37.37.png",
     "blog/img/Screenshot 2024-11-19 at 22.38.26.png",
     "blog/img/Screenshot 2024-11-19 at 22.36.53.png",
     "about/🌻 Purpose/🌻 Purpose.md",
-    "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
     "blog/img/Screenshot 2024-11-19 at 21.02.15.png",
     "blog/img/Screenshot 2024-11-19 at 18.56.49.png",
     "blog/img/Screenshot 2024-11-19 at 18.51.39.png",
