@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/🦀 Diseases.md",
+                "file": "about/🌻 Purpose/Company mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦀 Diseases"
+              "title": "Company mission"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radiate",
+                "query": "mission",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,17 +167,23 @@
   },
   "active": "2a6839fb5c3eb811",
   "lastOpenFiles": [
+    "about/🌨️ Problems/👁️ Observability of bee colony.md",
+    "about/🌨️ Problems/👁️ Time-consuming inspections.md",
+    "about/🌨️ Problems/💀 Alcohol washing killing bees.md",
+    "about/🌨️ Problems/💀 Colony with drone-laying queen.md",
+    "about/🌨️ Problems/💀 Colony without a queen.md",
+    "about/🌨️ Problems/💀 Intrusive inspections.md",
+    "about/🌨️ Problems/💢 Aggressive bee colonies.md",
+    "about/🌨️ Problems/💢 Hornet attacks.md",
+    "about/🌨️ Problems/💢 Robbing state.md",
+    "about/🌨️ Problems/💪🏻 Unscalable work.md",
+    "about/🌨️ Problems/💪🏻 Physical labor.md",
+    "about/🌨️ Problems/🗃️ Flimsy beehives.md",
+    "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
+    "about/🌨️ Problems/🗃️ Ugly beehives.md",
+    "about/🌨️ Problems/🦀 Diseases.md",
     "about/🌨️ Problems/🦀 Infestations.md",
     "about/🌨️ Problems/🧶 Swarming.md",
-    "about/🌨️ Problems/💢 Robbing state.md",
-    "about/🌨️ Problems/💢 Hornet attacks.md",
-    "about/🌨️ Problems/💢 Aggressive bee colonies.md",
-    "about/🌨️ Problems/💀 Intrusive inspections.md",
-    "about/🌨️ Problems/💀 Colony without a queen.md",
-    "about/🌨️ Problems/💀 Colony with drone-laying queen.md",
-    "about/🌨️ Problems/💀 Alcohol washing killing bees.md",
-    "about/🌨️ Problems/👁️ Time-consuming inspections.md",
-    "about/🌨️ Problems/👁️ Observability of bee colony.md",
     "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
     "about/🌨️ Problems/🏘️ Multiple apiaries.md",
     "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
@@ -187,13 +193,7 @@
     "about/🌨️ Problems/🌻 Precise pollination.md",
     "about/🌨️ Problems/🌲 Distant locations.md",
     "about/🌨️ Problems/🌻 Monocultural agriculture.md",
-    "about/🌨️ Problems/🌨️ Problems.md",
-    "about/🌨️ Problems/❄️ Overwintering collapse.md",
-    "research/index.md",
-    "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
     "blog/img/Screenshot 2024-11-19 at 19.24.01.png",
-    "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
-    "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/img/Screenshot 2024-11-19 at 19.37.37.png",
     "blog/img/Screenshot 2024-11-19 at 22.38.26.png",
     "blog/img/Screenshot 2024-11-19 at 22.36.53.png",
