@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
+                "file": "about/🌨️ Problems/💀 Colony without a queen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐻 Bears destroying hives & colonies"
+              "title": "💀 Colony without a queen"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "2a6839fb5c3eb811",
   "lastOpenFiles": [
+    "about/🌨️ Problems/💀 Colony with drone-laying queen.md",
+    "about/🌨️ Problems/💀 Alcohol washing killing bees.md",
+    "about/🌨️ Problems/👁️ Time-consuming inspections.md",
+    "about/🌨️ Problems/👁️ Observability of bee colony.md",
+    "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
     "about/🌨️ Problems/🏘️ Multiple apiaries.md",
     "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
     "about/🌨️ Problems/🎒 Challenging to become a new beekeeper.md",
@@ -198,11 +203,6 @@
     "about/company/Culture and values 🫀/Gather value 🍯.md",
     "about/company/Culture and values 🫀/Adapt to change 🏕️.md",
     "research/Competition/🇦🇺 Purple Hive.md",
-    "research/Competition/🇦🇺 Beemate.md",
-    "research/Competition/🇺🇸 Best Bees.md",
-    "research/Competition/🇩🇪 ApicAI.md",
-    "research/Competition/🇮🇱 Beewise.md",
-    "research/Competition/🇪🇺 RoboRoyale.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",

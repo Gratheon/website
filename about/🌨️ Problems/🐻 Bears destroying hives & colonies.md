@@ -1,9 +1,6 @@
-Bears attack colonies and they cannot recover after that.
+One of the significant challenges faced by beekeepers, especially in regions inhabited by bears, is the destruction of hives by these powerful animals. Bears are naturally drawn to beehives due to their insatiable appetite for honey and protein-rich bee larvae. Unfortunately, this hunger often leads to devastating consequences for apiaries, with entire hives being ripped apart in mere minutes. Beyond the immediate destruction, bear attacks can wipe out months of beekeepers' hard work, disrupt pollination efforts, and threaten the health of local ecosystems reliant on bees. For small-scale beekeepers, such incidents can be financially crippling, making this a pressing issue that demands innovative solutions.
 
-Potential solutions
-
-- make construction of the hive much more sturdy
-- have a bear AI detection + sound alarm to scare the bear
+At Gratheon, we are addressing this challenge with a blend of modern technology and ecological mindfulness. Our IoT-enabled hive sensors and AI vision hive entrance devices can detect unusual hive activity, such as vibrations or sudden movement, and alert beekeepers in real-time to potential threats. Additionally, our robotic beehive designs incorporate sturdy materials and deterrent mechanisms to reduce the likelihood of bear damage. By combining proactive monitoring and robust hive architecture, we aim to protect bee colonies and empower beekeepers to focus on nurturing their hives without constant fear of wildlife interference.
 
 
 ![](../img/396936600_1790463728047842_2700506079401733521_n.jpg)
