@@ -6,24 +6,7 @@ hide_table_of_contents: true
 Colors represent main wavelengths that 🐝 bees can see, company values and other associations:
 ![](../../src/img/Pasted%20image%2020241028105230.png)
 
-## Logo
-Recomendation on logo usage
-- Use white background whenever possible
-- Use wide version only if there is company name stated
-- You can use sunflower emoji 🌻 as stylized alternative in chat conversations
-
-![](../../src/img/logo_v7.png)
-
-![](../../src/img/logo_v7.png)
-
-![](../../src/img/logo_v7w.svg)
-
-(wide version, SVG version with white outline)
-
-
-
 ![](img/logo-png-high-res.png)
-(PNG version, with white outline)
 
 ## Brand meanings and association matrix
 
@@ -52,6 +35,24 @@ Other meanings are more abstract, are tied to bees, spirituality and [Culture an
 | [Ethical heart 🌳](../company/Culture%20and%20values%20🫀/Ethical%20heart%20🌳.md)     | H                      | heart, hive, grass, table, cup, grail, tree roots, earth, woman, plants, compassion, anahata, घण्टा                              | Trinity                                             |
 | [Radiate truth 🌞](../company/Culture%20and%20values%20🫀/Radiate%20truth%20🌞.md)     | O                      | rising sun, lion, circle of life, hope, warmth, fire, will, enlightenment, idea, spirituality, glory, conception,  manipura, oud | Christ, love                                        |
 | [Humbly kind 🧸](../company/Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md)         | U                      | Union, spirit, signal, music, transport, medium, transparency, open source, trust                                                | Divine Light, Epiphany, Ascension, Baptism, Wedding |
+
+## Logos
+Recomendation on logo usage
+- Use white background whenever possible
+- Use wide version only if there is company name stated
+- You can use sunflower emoji 🌻 as stylized alternative in chat conversations
+
+
+![](img/logo-png-high-res.png)
+(PNG version, with white outline)
+
+![](../../src/img/logo_v7w.svg)
+
+(wide version, SVG version with white outline)
+
+
+![](../../src/img/logo_v7.png)
+![](../../src/img/logo_v7.png)
 
 ## Email template
 ![](../img/Screenshot%202024-05-20%20at%2017.24.44.png)

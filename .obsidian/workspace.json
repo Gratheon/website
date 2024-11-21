@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae873b87a8ad7387",
+        "id": "c8c98a1a73ff76c2",
         "type": "tabs",
         "children": [
           {
-            "id": "414cb963436ad0af",
+            "id": "90aee818c23db249",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "414cb963436ad0af",
+  "active": "90aee818c23db249",
   "lastOpenFiles": [
+    "about/🌻 Purpose/Symbolism.md",
+    "about/🌻 Purpose/Naming.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/index.md",
@@ -186,8 +188,6 @@
     "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
     "about/🌨️ Problems/🏘️ Multiple apiaries.md",
     "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
-    "about/🌨️ Problems/🎒 Challenging to become a new beekeeper.md",
-    "about/🌨️ Problems/🍽️ Bee colony starvation.md",
     "blog/img/Screenshot 2024-11-19 at 19.24.01.png",
     "blog/img/Screenshot 2024-11-19 at 19.37.37.png",
     "blog/img/Screenshot 2024-11-19 at 22.38.26.png",
