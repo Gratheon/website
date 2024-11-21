@@ -16,4 +16,4 @@ Our mission is balancing human progress with the preservation of nature, aiming 
 [Culture and values](../company/Culture%20and%20values%20🫀/Culture%20and%20values%20🫀.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
 
-<iframe src="https://open.spotify.com/embed/playlist/3hpFjVkATz2rW5cuXaUXeV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/3hpFjVkATz2rW5cuXaUXeV?utm_source=generator" width="100%" height="560" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
