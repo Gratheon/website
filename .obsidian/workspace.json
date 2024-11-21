@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "904a78f8b42af2c1",
+        "id": "ae873b87a8ad7387",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4d2457a7cccacd",
+            "id": "414cb963436ad0af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/🌻 Purpose/Company mission.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Company mission"
+              "title": "New tab"
             }
           }
         ]
@@ -161,13 +157,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b4d2457a7cccacd",
+  "active": "414cb963436ad0af",
   "lastOpenFiles": [
-    "about/🌻 Purpose/🌻 Purpose.md",
     "about/🌻 Purpose/Company mission.md",
+    "about/🌻 Purpose/🌻 Purpose.md",
     "about/index.md",
     "about/🌻 Purpose/Ethics.md",
     "about/🌨️ Problems/👁️ Observability of bee colony.md",
