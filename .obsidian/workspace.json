@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
+                "file": "blog/PurposeTech webinar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-19 🎒 Attended Practical startup strategy webinar"
+              "title": "PurposeTech webinar"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "90aee818c23db249",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2024-11-22 at 17.06.11.png",
+    "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
+    "blog/PurposeTech webinar.md",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
@@ -191,8 +194,6 @@
     "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
     "about/🌨️ Problems/🗃️ Ugly beehives.md",
     "about/🌨️ Problems/🦀 Diseases.md",
-    "about/🌨️ Problems/🦀 Infestations.md",
-    "about/🌨️ Problems/🧶 Swarming.md",
     "blog/img/Screenshot 2024-11-19 at 19.24.01.png",
     "blog/img/Screenshot 2024-11-19 at 19.37.37.png",
     "blog/img/Screenshot 2024-11-19 at 22.38.26.png",
@@ -211,7 +212,6 @@
     "src/about/research",
     "src/about/products",
     "src/about/company",
-    "src/about/about",
-    "src/about"
+    "src/about/about"
   ]
 }
