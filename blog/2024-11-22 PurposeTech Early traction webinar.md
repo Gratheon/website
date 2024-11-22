@@ -55,3 +55,5 @@
 
 
 ![](img/Screenshot%202024-11-22%20at%2017.46.54.png)![](img/Screenshot%202024-11-22%20at%2017.48.20.png)
+
+10x killer feature in the future
