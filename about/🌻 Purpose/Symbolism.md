@@ -36,6 +36,10 @@ Other meanings are more abstract, are tied to bees, spirituality and [Culture an
 | [Radiate truth 🌞](../company/Culture%20and%20values%20🫀/Radiate%20truth%20🌞.md)     | O                      | rising sun, lion, circle of life, hope, warmth, fire, will, enlightenment, idea, spirituality, glory, conception,  manipura, oud | Christ, love                                        |
 | [Humbly kind 🧸](../company/Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md)         | U                      | Union, spirit, signal, music, transport, medium, transparency, open source, trust                                                | Divine Light, Epiphany, Ascension, Baptism, Wedding |
 
+
+## Music theme
+
+![](img/Gratheon%20theme.mp3)
 ## Logos
 Recomendation on logo usage
 - Use white background whenever possible
