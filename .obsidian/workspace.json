@@ -167,6 +167,9 @@
   },
   "active": "90aee818c23db249",
   "lastOpenFiles": [
+    "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
+    "about/🌻 Purpose/Symbolism.md",
+    "research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
     "about/🌻 Purpose/img/Gratheon theme.mp3",
     "blog/2024-11-22 PurposeTech Early traction webinar.md",
     "blog/img/Screenshot 2024-11-22 at 17.48.20.png",
@@ -183,7 +186,6 @@
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
-    "about/🌻 Purpose/Symbolism.md",
     "about/🌻 Purpose/Naming.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
@@ -203,7 +205,6 @@
     "about/🌨️ Problems/🗃️ Flimsy beehives.md",
     "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
     "about/🌨️ Problems/🗃️ Ugly beehives.md",
-    "about/🌨️ Problems/🦀 Diseases.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",
@@ -211,7 +212,6 @@
     "img",
     "src/about/research",
     "src/about/products",
-    "src/about/company",
-    "src/about/about"
+    "src/about/company"
   ]
 }
