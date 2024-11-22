@@ -26,3 +26,16 @@
 - willingness to pay
 
 ![](img/Screenshot%202024-11-22%20at%2017.25.21.png)
+
+
+## Pre-seed traction types
+- Customer Interest
+	- Letter of intent
+	- newsletter to measure engagement
+- Marketing efficiency
+	- virality
+	- conversion
+- Product engagement
+	- installs
+	- signups
+	- retention
