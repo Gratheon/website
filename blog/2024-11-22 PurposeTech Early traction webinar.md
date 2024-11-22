@@ -35,7 +35,23 @@
 - Marketing efficiency
 	- virality
 	- conversion
-- Product engagement
+- Product engagement (if you have it)
 	- installs
 	- signups
 	- retention
+- Initial revenues (if you can)
+	- pilots
+	- subscription (stripe?)
+- Commitment from other investors
+	- professional investors in the field (ex. DeepTech) - this reduces the risk
+
+
+## Pre-seed traction: context
+- resources invested so far
+	- input and output needs to be seen
+- scalability (vs market size)
+- references of the potential customers
+- learnings. what we did & where we failed & what we're doing now
+
+
+![](img/Screenshot%202024-11-22%20at%2017.46.54.png)![](img/Screenshot%202024-11-22%20at%2017.48.20.png)
