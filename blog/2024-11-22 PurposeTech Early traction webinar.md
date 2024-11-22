@@ -17,3 +17,12 @@
 ![](img/Screenshot%202024-11-22%20at%2017.14.47.png)
 
 ![](img/Screenshot%202024-11-22%20at%2017.16.48.png)
+
+
+## Go to market strategy
+- paid vs unpaid
+- events & scalability
+- channels
+- willingness to pay
+
+![](img/Screenshot%202024-11-22%20at%2017.25.21.png)
