@@ -39,9 +39,9 @@ Other meanings are more abstract, are tied to bees, spirituality and [Culture an
 
 ## Music theme
 
-<object data={require('./img/Gratheon%20theme.mp3').default} type="audio/mp3" width="100%" height="50"></object>
+<object data={require('./img/gratheon-theme.mp3').default} type="audio/mp3" width="100%" height="50"></object>
 
-![](img/Gratheon%20theme.mp3)
+![](img/gratheon-theme.mp3)
 
 ## Logos
 Recomendation on logo usage
