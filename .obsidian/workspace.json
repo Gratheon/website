@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c98a1a73ff76c2",
+        "id": "bb043d31c63a0a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "90aee818c23db249",
+            "id": "c9b47f0481482f8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/🌻 Purpose/Symbolism.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Symbolism"
+              "title": "New tab"
             }
           }
         ]
@@ -161,14 +157,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90aee818c23db249",
+  "active": "c9b47f0481482f8a",
   "lastOpenFiles": [
-    "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "about/🌻 Purpose/Symbolism.md",
+    "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
     "about/🌻 Purpose/img/Gratheon theme.mp3",
     "blog/2024-11-22 PurposeTech Early traction webinar.md",
