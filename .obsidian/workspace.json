@@ -11,10 +11,14 @@
             "id": "c9b47f0481482f8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/🌻 Purpose/🌻 Purpose.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🌻 Purpose"
             }
           }
         ]
@@ -157,11 +161,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c9b47f0481482f8a",
   "lastOpenFiles": [
+    "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/Symbolism.md",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
@@ -182,7 +188,6 @@
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
     "about/🌻 Purpose/Naming.md",
-    "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/index.md",
     "about/🌻 Purpose/Ethics.md",
