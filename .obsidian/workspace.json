@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "docs/Docs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Docs"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "about/index.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "blog/2024-11-22 PurposeTech Early traction webinar.md",
@@ -175,7 +176,6 @@
     "blog/img/Screenshot 2024-11-28 at 17.39.31.png",
     "blog/img/Screenshot 2024-11-28 at 17.16.02.png",
     "blog/img/Screenshot 2024-11-28 at 17.32.40.png",
-    "about/index.md",
     "about/🌻 Purpose/Symbolism.md",
     "Untitled.md",
     "about/🌻 Purpose/🌻 Purpose.md",
@@ -210,7 +210,6 @@
     "src/img",
     "src/about/careers",
     "img",
-    "src/about/research",
-    "src/about/products"
+    "src/about/research"
   ]
 }
