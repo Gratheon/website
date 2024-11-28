@@ -57,3 +57,16 @@
 ![](img/Screenshot%202024-11-22%20at%2017.46.54.png)![](img/Screenshot%202024-11-22%20at%2017.48.20.png)
 
 10x killer feature in the future
+
+
+![](img/Screenshot%202024-11-28%20at%2017.32.40.png)
+
+![](img/Screenshot%202024-11-28%20at%2017.16.02.png)
+
+![](img/Screenshot%202024-11-28%20at%2017.39.31.png)
+
+![](img/Screenshot%202024-11-28%20at%2017.49.14.png)
+
+![](img/Screenshot%202024-11-28%20at%2018.00.02.png)
+
+![](img/Screenshot%202024-11-28%20at%2018.09.54.png)

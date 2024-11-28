@@ -11,10 +11,14 @@
             "id": "21bdeeda3ba8b928",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog/2024-11-22 PurposeTech Early traction webinar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-22 PurposeTech Early traction webinar"
             }
           }
         ]
@@ -163,6 +167,12 @@
   },
   "active": "21bdeeda3ba8b928",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2024-11-28 at 18.09.54.png",
+    "blog/img/Screenshot 2024-11-28 at 18.00.02.png",
+    "blog/img/Screenshot 2024-11-28 at 17.49.14.png",
+    "blog/img/Screenshot 2024-11-28 at 17.39.31.png",
+    "blog/img/Screenshot 2024-11-28 at 17.16.02.png",
+    "blog/img/Screenshot 2024-11-28 at 17.32.40.png",
     "about/deck.pdf",
     "about/index.md",
     "about/🌻 Purpose/Symbolism.md",
@@ -178,11 +188,6 @@
     "blog/img/Screenshot 2024-11-22 at 17.25.21.png",
     "blog/img/Screenshot 2024-11-22 at 17.16.48.png",
     "blog/img/Screenshot 2024-11-22 at 17.16.21.png",
-    "blog/img/Screenshot 2024-11-22 at 17.14.47.png",
-    "blog/img/Screenshot 2024-11-22 at 17.14.42.png",
-    "blog/img/Screenshot 2024-11-22 at 17.14.38.png",
-    "blog/img/Screenshot 2024-11-22 at 17.14.33.png",
-    "blog/img/Screenshot 2024-11-22 at 17.14.25.png",
     "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
