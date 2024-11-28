@@ -1,6 +1,9 @@
-![](img/Screenshot%202024-11-22%20at%2017.14.17.png)
+
 ![](img/Screenshot%202024-11-22%20at%2017.14.25.png)
 
+<!--truncate-->
+
+![](img/Screenshot%202024-11-22%20at%2017.14.17.png)
 
 
 
