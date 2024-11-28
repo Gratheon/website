@@ -10,7 +10,7 @@ Gratheon is a startup company (see  [📑 deck.pdf](deck.pdf) )
 We help beekeepers to keep 🐝 colonies healthy using data analytics platform.
 IoT devices, AI vision and robots 🤖 automate data collection.
 
-💁🏻 B2B + B2C SaaS / Deeptech / Agrotech / Robotics
+💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
 
 ## Some numbers
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb11812480ab001a",
+        "id": "b78e1c4fd6a77a24",
         "type": "tabs",
         "children": [
           {
-            "id": "21bdeeda3ba8b928",
+            "id": "3df269d731370acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-11-22 PurposeTech Early traction webinar.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-22 PurposeTech Early traction webinar"
+              "title": "index"
             }
           }
         ]
@@ -161,19 +161,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21bdeeda3ba8b928",
+  "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "about/deck.pdf",
+    "src/img/deck.pdf",
+    "blog/2024-11-22 PurposeTech Early traction webinar.md",
     "blog/img/Screenshot 2024-11-28 at 18.09.54.png",
     "blog/img/Screenshot 2024-11-28 at 18.00.02.png",
     "blog/img/Screenshot 2024-11-28 at 17.49.14.png",
     "blog/img/Screenshot 2024-11-28 at 17.39.31.png",
     "blog/img/Screenshot 2024-11-28 at 17.16.02.png",
     "blog/img/Screenshot 2024-11-28 at 17.32.40.png",
-    "about/deck.pdf",
     "about/index.md",
     "about/🌻 Purpose/Symbolism.md",
     "Untitled.md",
@@ -182,12 +183,10 @@
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
     "about/🌻 Purpose/img/gratheon-theme.mp3",
-    "blog/2024-11-22 PurposeTech Early traction webinar.md",
     "blog/img/Screenshot 2024-11-22 at 17.48.20.png",
     "blog/img/Screenshot 2024-11-22 at 17.46.54.png",
     "blog/img/Screenshot 2024-11-22 at 17.25.21.png",
     "blog/img/Screenshot 2024-11-22 at 17.16.48.png",
-    "blog/img/Screenshot 2024-11-22 at 17.16.21.png",
     "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
