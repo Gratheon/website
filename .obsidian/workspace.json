@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9dcdb42be9f63b",
+        "id": "fb11812480ab001a",
         "type": "tabs",
         "children": [
           {
-            "id": "5cab0acbc45c8b07",
+            "id": "21bdeeda3ba8b928",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,11 +157,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "21bdeeda3ba8b928",
   "lastOpenFiles": [
+    "about/deck.pdf",
+    "about/index.md",
     "about/🌻 Purpose/Symbolism.md",
     "Untitled.md",
     "about/🌻 Purpose/🌻 Purpose.md",
@@ -185,7 +188,6 @@
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
     "blog/2024-11-19 🛠️ Attending Garage48 hackaton Andmetorm kick-off.md",
     "about/🌻 Purpose/Naming.md",
-    "about/index.md",
     "about/🌻 Purpose/Ethics.md",
     "about/🌨️ Problems/👁️ Observability of bee colony.md",
     "about/🌨️ Problems/👁️ Time-consuming inspections.md",
@@ -199,14 +201,12 @@
     "about/🌨️ Problems/💪🏻 Unscalable work.md",
     "about/🌨️ Problems/💪🏻 Physical labor.md",
     "about/🌨️ Problems/🗃️ Flimsy beehives.md",
-    "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",
     "src/about/careers",
     "img",
     "src/about/research",
-    "src/about/products",
-    "src/about/company"
+    "src/about/products"
   ]
 }
