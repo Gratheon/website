@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/💢 Hornet attacks.md",
+                "file": "about/🌨️ Problems/🗃️ Storm wind collapsing beehives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💢 Hornet attacks"
+              "title": "🗃️ Storm wind collapsing beehives"
             }
           }
         ]
@@ -167,7 +167,8 @@
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
-    "about/🌨️ Problems/🗃️ Wind collapsing beehives.md",
+    "about/🌨️ Problems/💢 Hornet attacks.md",
+    "about/🌨️ Problems/🗃️ Storm wind collapsing beehives.md",
     "about/🌨️ Problems/img/Pasted image 20241129141028.png",
     "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
     "about/🌨️ Problems/❄️ Overwintering collapse.md",
@@ -206,7 +207,6 @@
     "about/🌨️ Problems/💀 Alcohol washing killing bees.md",
     "about/🌨️ Problems/💀 Colony with drone-laying queen.md",
     "about/🌨️ Problems/💀 Colony without a queen.md",
-    "about/🌨️ Problems/💀 Intrusive inspections.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",
