@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/Company mission.md",
+                "file": "about/🌨️ Problems/💢 Hornet attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Company mission"
+              "title": "💢 Hornet attacks"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "about/🌨️ Problems/🗃️ Wind collapsing beehives.md",
+    "about/🌨️ Problems/img/Pasted image 20241129141028.png",
+    "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
+    "about/🌨️ Problems/❄️ Overwintering collapse.md",
+    "about/🌻 Purpose/Company mission.md",
     "about/company/equity.md",
     "about/company/Merchandise.md",
     "about/company/index.md",
@@ -184,14 +189,12 @@
     "blog/img/Screenshot 2024-11-28 at 17.32.40.png",
     "about/🌻 Purpose/Symbolism.md",
     "Untitled.md",
-    "about/🌻 Purpose/Company mission.md",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
     "about/🌻 Purpose/img/gratheon-theme.mp3",
     "blog/img/Screenshot 2024-11-22 at 17.48.20.png",
     "blog/img/Screenshot 2024-11-22 at 17.46.54.png",
     "blog/img/Screenshot 2024-11-22 at 17.25.21.png",
-    "blog/img/Screenshot 2024-11-22 at 17.16.48.png",
     "blog/2024-11-19 🎒 Attended Practical startup strategy webinar.md",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "blog/2024-11-19 🔬 Attended open hardware webinar.md",
@@ -204,9 +207,6 @@
     "about/🌨️ Problems/💀 Colony with drone-laying queen.md",
     "about/🌨️ Problems/💀 Colony without a queen.md",
     "about/🌨️ Problems/💀 Intrusive inspections.md",
-    "about/🌨️ Problems/💢 Aggressive bee colonies.md",
-    "about/🌨️ Problems/💢 Hornet attacks.md",
-    "about/🌨️ Problems/💢 Robbing state.md",
     "src/about/company/values",
     "src/about/Engineering",
     "src/img",

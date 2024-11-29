@@ -5,3 +5,5 @@ For beekeepers, detecting hornet attacks early is critical, but traditional meth
 ![](../img/Screenshot%202024-06-14%20at%2017.10.39.png)
 
 Possible solution - [https://grabcad.com/library/hornet-muzzle-trap-for-hives-1](https://grabcad.com/library/hornet-muzzle-trap-for-hives-1)![](../img/Screenshot%202024-06-14%20at%2017.10.16.png)
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/uCTVawrGCLI" title="Липкая защита: защита медоносных пчел от гигантских шершней" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

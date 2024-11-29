@@ -49,7 +49,7 @@ As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscala
 | [💢 Hornet attacks](about/🌨️%20Problems/💢%20Hornet%20attacks.md)                                                       | \-                      | \-       |
 | [💢 Robbing state](about/🌨️%20Problems/💢%20Robbing%20state.md)                                                         | \-                      | \-       |
 | [📦 Warehouse organization](about/🌨️%20Problems/📦%20Warehouse%20organization.md)                                       | \-                      | \-       |
-| [🗃️ Flimsy beehives](about/🌨️%20Problems/🗃️%20Flimsy%20beehives.md)                                                   | \-                      | \-       |
+| [🗃️ Wind collapsing beehives](🗃️%20Wind%20collapsing%20beehives.md)                                                   | \-                      | \-       |
 | [🗃️ Poor hive ventilation](about/🌨️%20Problems/🗃️%20Poor%20hive%20ventilation.md)                                     | \-                      | \-       |
 | [🗃️ Ugly beehives](about/🌨️%20Problems/🗃️%20Ugly%20beehives.md)                                                       | \-                      | \-       |
 | [🤢 Pesticide poisoning](about/🌨️%20Problems/🤢%20Pesticide%20poisoning.md)                                             | \-                      | \-       |
