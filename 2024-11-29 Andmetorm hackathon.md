@@ -1,3 +1,30 @@
 
-- 
-- Taimar Ala, Keskonnaagentuur direktor
+
+- Liis Paemurru - moderator (change management)
+- Keskonnaagentuur
+	- Taimar Ala (direktor)
+	- Svetlana Pudova
+	- Aivo Lanno
+	- Sofia Paes
+- Garage 48 - organizers
+	- Merit Vislapu
+	- Mari Hanikat
+	- Laura
+- Mentors & expertise
+	- Ilja Livenson - IT
+	- Jaanus - products & data visualization
+	- Romet - FE dev
+	- Andreas - design
+	- Jana - hydrologia
+	- Heleri - env estimation
+	- Peeter Kuusik - data contents
+	- Erki - data sourcing, transforming
+	- Sander Ahi - data analytics
+	- Ivar - weather models
+	- Martin - data visualization
+	- Liis Lille
+	- Anastassia Petrova - data analytics
+	- Aivo Lanno - UX
+	- Kaire Sirel
+	- Timo 
+	- ...
