@@ -10,7 +10,7 @@
 	- Merit Vislapu
 	- Mari Hanikat
 	- Laura
-- Mentors & expertise
+- Mentors & expertise (sorry if I got names wrong)
 	- Ilja Livenson - IT
 	- Jaanus - products & data visualization
 	- Romet - FE dev
@@ -26,5 +26,10 @@
 	- Anastassia Petrova - data analytics
 	- Aivo Lanno - UX
 	- Kaire Sirel
-	- Timo 
+	- Timo Torp
+	- Kaisa Viira
+	- Markus Saar - data analytics
+	- Jaanus Ant - AI data
+	- Rain - garbage data
+	- Kadri
 	- ...
