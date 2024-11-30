@@ -86,6 +86,8 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 ## Saturday progress
 - We had to re-write API handling, because it was returning 
   day -> data instead of data -> time
+  
+  https://github.com/Gratheon/weather/blob/main/app/resolvers.js#L19
 
 - We decided to show both the react app prototype that will have full vision of what we intend to do, as well as mention
 
