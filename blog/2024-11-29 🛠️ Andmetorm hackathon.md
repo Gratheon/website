@@ -95,6 +95,6 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 
 - later we found another API https://ilmmicroservice.envir.ee/api_doc/#api-Forecasts-GetV1ForecastsModelforecastbylocation that could be used for weather data 
 - We were practicing the pitch scenario and decided to show both the react app prototype to show off what is the vision as well as show that we did integrate real 
-	- user receives an SMS alert on the phone
-	- opens apiary view
-		- 
+	- user receives an SMS alert on the phone (we configured twilio API to send SMS to all of the mentors/judges)
+	- opens apiary view, sees there is an alert about high temperature (heat wave coming) or a high wind
+	- 
