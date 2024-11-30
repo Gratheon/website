@@ -91,3 +91,10 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 
  
 ![](img/Screenshot%202024-11-30%20at%2011.27.14.png)
+
+
+- later we found another API https://ilmmicroservice.envir.ee/api_doc/#api-Forecasts-GetV1ForecastsModelforecastbylocation that could be used for weather data 
+- We were practicing the pitch scenario and decided to show both the react app prototype to show off what is the vision as well as show that we did integrate real 
+	- user receives an SMS alert on the phone
+	- opens apiary view
+		- 
