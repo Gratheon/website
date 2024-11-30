@@ -96,11 +96,14 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 
 
 - later we found another API https://ilmmicroservice.envir.ee/api_doc/#api-Forecasts-GetV1ForecastsModelforecastbylocation that could be used for weather data 
-- We were practicing the pitch scenario and decided to show both the react app prototype to show off what is the vision as well as show that we did integrate real 
-	- user receives an SMS alert on the phone (we configured twilio API to send SMS to all of the mentors/judges)
-	- opens apiary view, sees there is an alert about high temperature (heat wave coming) or a high wind
+- We were practicing the pitch scenario and decided to show both the react app prototype to show off what is the vision as well as show that we did integrate real API into existing Gratheon web-app and weather microservice
 - We considered questions on marketing and sales
 	- we target semi-professional beekeepers that want to
 - We've updated the UI prototype to have better highlighting of the danger zones
-  
-	![](img/Screenshot%202024-11-30%20at%2014.15.00.png)
+- For the pitch, we configured twilio API to send SMS to all of the mentors/judges to effectively share our demo
+
+## Use case
+	- Gratheon web-app user (beekeeper) receives an SMS alert on the phone 
+	- opens apiary view, sees there is an alert about high temperature (heat wave coming) or a high wind
+
+![](img/Screenshot%202024-11-30%20at%2014.15.00.png)
