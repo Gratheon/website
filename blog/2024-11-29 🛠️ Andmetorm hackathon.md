@@ -1,6 +1,6 @@
 We're participating in the "Data storm" hackathon, which main goal is to use open government data of Estonia related to environment, weather, hydrology, alerts etc.
 
-Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md), [[Alert]]
+Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md) and  [🌪️ Weather alerts](../about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts.md) as a solution
 ## Team
 - [Artjom Kurapov](../about/company/Team/Artjom%20Kurapov.md)
 - Alonso Solis
@@ -50,6 +50,9 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 
 ![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)
 
+## Data sources
+- https://keskkonnaportaal.ee/et/avaandmed/kliimaandmestik
+
 ## Challenges
 - [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd)
 	-  is too granular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
@@ -73,4 +76,6 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 	- regions are forecasted only for 1 day ahead, the rest is considered the same for all regions
 	- it does not always have wind speed property, even though text description has one
 
-- Climate data time series API shows past data, but not future forecast. We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
+- Climate data time series API shows past data, but not future forecast. 
+  https://keskkonnaandmed.envir.ee/f_kliima_tund?aasta=eq.2024&kuu=eq.11&paev=lt.30 seems the best to retrieve past data per 
+	- We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
