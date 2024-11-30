@@ -10,12 +10,11 @@ We are excited to participate in the **"Data Storm" hackathon**, which focuses o
 - Adrian Ala
 - [Roop Runjan Khan](https://www.linkedin.com/in/roop-ranjan-khan-234a9014b/)
 
-## Judges
-+ Jaanus Jagomägi
-+ Marko Tiirik
-+ Anne-Liisi Mändmets
-+ Sofia Paes
-+ Aivo Lanno
+![](img/20241130_174232.jpg)
+
+![](img/20241130_155912.jpg)
+
+
 ## First pitch slides
 
 <object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>
@@ -24,7 +23,7 @@ We are excited to participate in the **"Data Storm" hackathon**, which focuses o
 
 
 <!--truncate-->
-
+![](img/20241129_153633.jpg)
 ## Event information
 
 https://garage48.org/events/andmetorm
@@ -49,6 +48,12 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 		- [Andreas Roosson](https://www.linkedin.com/in/andreas-roosson-72057756/)
 
 
+## Judges
++ Jaanus Jagomägi
++ Marko Tiirik
++ Anne-Liisi Mändmets
++ Sofia Paes
++ Aivo Lanno
 ## Data sources
 - https://keskkonnaportaal.ee/et/avaandmed/kliimaandmestik
 
@@ -130,3 +135,8 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 Idea is to not only collect weather data when user opens the view or not only to predict  data in advance, but also collect past weather information for specific apiary location.
 
 This is needed so that beekeeper or AI model could correlate weather effects affecting the bees. For example, if there was 2 weeks of daily rain, then bees may be grounded and lose resources (pollen, nectar) which will be seen on hive weight graph too
+
+
+## Result
+We competed with 15 other teams and we did not win.
+Teams presented various solutions, winners suggested solutions with ESG and general data analysis that judges likely found to best fit wh Keskkonnaagentuur
