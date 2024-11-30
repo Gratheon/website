@@ -1,5 +1,6 @@
 We're participating in the "Data storm" hackathon, which main goal is to use open government data of Estonia related to environment, weather, hydrology, alerts etc.
 
+Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md), [[Alert]]
 ## Team
 - [Artjom Kurapov](../about/company/Team/Artjom%20Kurapov.md)
 - Alonso Solis
@@ -51,7 +52,7 @@ We're participating in the "Data storm" hackathon, which main goal is to use ope
 
 ## Challenges
 - [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd)
-	-  is too grandular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
+	-  is too granular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
 	- is encoded in binary format ([WMO BUFR](https://library.wmo.int/records/item/35625-manual-on-codes-volume-i-2-international-codes) v4) and its not clear which library (in nodejs preferably) can be used to decode this
 		- https://github.com/NOAA-EMC/NCEPLIBS-bufr?tab=readme-ov-file uses fortran
 		- https://confluence.ecmwf.int/display/BUFR/BUFRDC+Home uses fortran and C
@@ -60,13 +61,16 @@ We're participating in the "Data storm" hackathon, which main goal is to use ope
 	- some files are huge (1GB), for example NEMO model .zip data archives that include .nc files
 	- is short lived
 
- So in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all archives, 
+ So in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example
+ 
 ![](img/Screenshot%202024-11-30%20at%2002.59.08.png)
 
 
-- (Old) [API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia has some issues
+- (Old) [API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia sort of works, but it has some issues
 	- granularity is too broad - it is split into day and night, instead of hourly
 	- its forecasts only 4 days
 	- its not tied to key regions, not coordinates
 	- regions are forecasted only for 1 day ahead, the rest is considered the same for all regions
 	- it does not always have wind speed property, even though text description has one
+
+- Climate data time series API shows past data, but not future forecast. We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
