@@ -1,7 +1,15 @@
+We're participating in the "Data storm" hackathon, which main goal is to use open government data of Estonia related to environment, weather, hydrology, alerts etc.
 
+## Team
+- [Artjom Kurapov](../about/company/Team/Artjom%20Kurapov.md)
+- Alonso Solis
+- Adrian Ala
+- [[Roop Runjan Khan]]
+
+## Event info
 
 - Liis Paemurru - moderator (change management)
-- Keskonnaagentuur
+- Keskonnaagentuur - main beneficiary providing the API
 	- Taimar Ala (direktor)
 	- Svetlana Pudova
 	- Aivo Lanno
@@ -33,3 +41,5 @@
 	- Rain - garbage data
 	- Kadri
 	- ...
+
+![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)

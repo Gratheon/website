@@ -79,6 +79,8 @@ If you stick around for a long while and do the hard work today, you get a promi
 
 | title                                                                       | description                                                                                                                                                                          |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Adrian Ala                                                                  | participated in andmetorm hackathon                                                                                                                                                  |
+| [Roop Runjan Khan](https://www.linkedin.com/in/roop-ranjan-khan-234a9014b/) | participated in andmetorm hackathon                                                                                                                                                  |
 | [Arina Turgeneva](https://www.linkedin.com/in/arina-turgeneva-07041a310/)   | Helped with web-app testing                                                                                                                                                          |
 | [Kurban Ramazanov](https://www.linkedin.com/in/kurban-ramazanov-2b50b026b/) | Helped with UI/UX, designing prototypes to imporove web-app experience                                                                                                               |
 | [Maria Lutsiv](https://www.linkedin.com/in/marija-lutsiv-751bb7139/)        | helped with web-app testing                                                                                                                                                          |
@@ -90,7 +92,7 @@ If you stick around for a long while and do the hard work today, you get a promi
 | [Natalia Kinash](https://www.linkedin.com/in/nataliia-kinash/)              | Participated in the hackathon where she helped Reinis Indans with satellite imagery processing                                                                                       |
 | [Reinis Indans](https://www.linkedin.com/in/reinis-indans/)                 | Participated in a hackathon where he did most of the heavy work on data collection and model training for satellite pollination sub-project - satellite-pollination-map microservice |
 | [Aleksei Boris](https://www.linkedin.com/in/alekseiboris/)                  | Participated in 2 hackathons and helped with pitching                                                                                                                                |
-| [Olena Stoliarova](https://www.linkedin.com/in/olena-stoliarova/)           | participated in a hackathon, helping with pitching                                                                                                                                   |
+| [Olena Stoliarova](https://www.linkedin.com/in/olena-stoliarova/)           | participated in a Climathon hackathon, helping with pitching                                                                                                                         |
 
 
 Thank you all!
