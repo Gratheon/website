@@ -6,6 +6,13 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](/about/🌨️%2
 - Alonso Solis
 - Adrian Ala
 - Roop Runjan Khan
+
+Judges
++ Jaanus Jagomägi
++ Marko Tiirik
++ Anne-Liisi Mändmets
++ Sofia Paes
++ Aivo Lanno
 ## Pitching slides
 
 <object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>
