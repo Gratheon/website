@@ -69,7 +69,7 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 	- We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
 
 
-## First day progress (friday)
+## Friday progress
 
 - Ad-hoc prototype of the feature:
   ![](img/Screenshot%202024-11-30%20at%2003.25.22.png)
@@ -80,5 +80,11 @@ https://www.linkedin.com/events/7257354689556430849/comments/
   
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
 
-- API wise I registered new weatherEstonia graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON
+- API wise I registered new `weatherEstonia` graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
   ![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
+
+## Saturday progress
+- We had to re-write API handling, because it was returning 
+  day -> data instead of data -> time
+
+- We decided to show both the react app prototype that will have full vision of what we intend to do, as well as mention
