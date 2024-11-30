@@ -79,5 +79,6 @@ https://www.linkedin.com/events/7257354689556430849/comments/
   https://github.com/alonsosolisg/bee-app
   
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
-- API wise I registered new weatherEstonia graphql query type
+
+- API wise I registered new weatherEstonia graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON
   ![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
