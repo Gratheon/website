@@ -8,9 +8,9 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 - Roop Runjan Khan
 ## Pitching slides
 
-<object data={require('./img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf').default} type="application/pdf" width="100%" height="400"></object>
+<object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>
 
-![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)
+![](img/andmetorm.pdf)
 
 
 <!--truncate-->
@@ -29,31 +29,13 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - Garage 48 - organizers
 	- Merit Vislapu
 	- Mari Hanikat
-	- Laura
-- Mentors & expertise (sorry if I got names wrong)
-	- Ilja Livenson - IT
-	- Jaanus - products & data visualization
-	- Romet - FE dev
-	- Andreas - design
-	- Jana - hydrologia
-	- Heleri - env estimation
-	- Peeter Kuusik - data contents
-	- Erki - data sourcing, transforming
-	- Sander Ahi - data analytics
-	- Ivar - weather models
-	- Martin - data visualization
-	- Liis Lille
-	- Anastassia Petrova - data analytics
-	- Aivo Lanno - UX
-	- Kaire Sirel
-	- Timo Torp
-	- Kaisa Viira
-	- Markus Saar - data analytics
-	- Jaanus Ant - AI data
-	- Rain - garbage data
-	- Kadri
-	- ...
-
+- Our Mentors & expertise (sorry if I got names wrong)
+	- API choice
+		- Miina Krabbi
+		- Meila Kivisild 
+	- Design:
+		- [Jaanus Jagomägi](https://www.linkedin.com/in/jagomagi/overlay/about-this-profile/)
+		- [Andreas Roosson](https://www.linkedin.com/in/andreas-roosson-72057756/)
 
 
 ## Data sources
