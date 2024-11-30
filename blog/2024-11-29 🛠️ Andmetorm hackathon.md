@@ -108,16 +108,15 @@ https://www.linkedin.com/events/7257354689556430849/comments/
   
   https://github.com/Gratheon/weather/blob/main/app/resolvers.js#L19
 
-- We decided to show both the react app prototype that will have full vision of what we intend to do, as well as mention
+- We decided to show both the react app prototype that will have full vision of what we intend to do, as well as mention that we have production ready service using real API
 
  
 ![](img/Screenshot%202024-11-30%20at%2011.27.14.png)
 
 
-- later we found another API https://ilmmicroservice.envir.ee/api_doc/#api-Forecasts-GetV1ForecastsModelforecastbylocation that could be used for weather data 
+- later we found another API https://ilmmicroservice.envir.ee/api_doc/#api-Forecasts-GetV1ForecastsModelforecastbylocation that could be used for weather data. Although further discussion with mentors proved that this is somewhat private API that may change and using XML is best for now
 - We were practicing the pitch scenario and decided to show both the react app prototype to show off what is the vision as well as show that we did integrate real API into existing Gratheon web-app and weather microservice
-- We considered questions on marketing and sales
-	- we target semi-professional beekeepers that want to
+- We considered questions on marketing and sales (like that we target semi-professional beekeepers)
 - We've updated the UI prototype to have better highlighting of the danger zones
 - For the pitch, we configured twilio API to send SMS to all of the mentors/judges to effectively share our demo
 
