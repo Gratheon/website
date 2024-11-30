@@ -91,4 +91,5 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
   https://github.com/alonsosolisg/bee-app
   
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
-- API 
+- API wise I registered new weatherEstonia graphql query type
+  ![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
