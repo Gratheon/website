@@ -92,7 +92,7 @@ https://www.linkedin.com/events/7257354689556430849/comments/
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
 
 - API wise I registered new `weatherEstonia` graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
-  ![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
+  ![](img/Screenshot%202024-11-30%20at%2017.30.58.png)![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
 
 ## Saturday progress
 - We had to re-write API handling, because it was returning 
@@ -114,7 +114,11 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - For the pitch, we configured twilio API to send SMS to all of the mentors/judges to effectively share our demo
 
 ## Use case
-	- Gratheon web-app user (beekeeper) receives an SMS alert on the phone 
-	- opens apiary view, sees there is an alert about high temperature (heat wave coming) or a high wind
+- Gratheon web-app monitors beekeepers apiaries and dangerous weather that can affect bees
+- When there is a storm or a heatwave approaching the apiary, web-app generates an alert
+- If user has entered the phone in the user profile and allowed us to contact him over the phone, we send an SMS
+- User (beekeeper) receives an SMS alert on the phone with a URL to relevant apiary
+- User opens apiary view, sees there is an alert details about high temperature (heat wave coming) or a high wind, when exactly it is expected and how dangerous it is
+- User reads an advice of what he needs to do, for example
 
 ![](img/Screenshot%202024-11-30%20at%2014.15.00.png)
