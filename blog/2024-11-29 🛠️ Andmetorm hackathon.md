@@ -89,6 +89,5 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 
 - We decided to show both the react app prototype that will have full vision of what we intend to do, as well as mention
 
-- 2
  
 ![](img/Screenshot%202024-11-30%20at%2011.27.14.png)
