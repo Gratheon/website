@@ -41,8 +41,8 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 ## Data sources
 - https://keskkonnaportaal.ee/et/avaandmed/kliimaandmestik
 
-## Challenges
-- [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd)
+## Challenges and feedback for Keskkonnaagentuur
+- [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd) API
 	-  is too granular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
 	- is encoded in binary format ([WMO BUFR](https://library.wmo.int/records/item/35625-manual-on-codes-volume-i-2-international-codes) v4) and its not clear which library (in nodejs preferably) can be used to decode this
 		- https://github.com/NOAA-EMC/NCEPLIBS-bufr?tab=readme-ov-file uses fortran
@@ -50,9 +50,11 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 		- https://codes.ecmwf.int/bufr/validator can be used to parse the data
 		- https://trollbufr.readthedocs.io/index.html could be a solution (python)
 	- some files are huge (1GB), for example NEMO model .zip data archives that include .nc files
-	- is short lived
-
- So in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example
+	- is short lived, so in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example. And to keep data up to date we would need to do this over and over in a loop, which would add too much load on Keskkonnaagentuur servers
+		- a suggestion would be to use a better API that would allow filtering or subscriptions
+			- for example, given REST API of lat-long coordinates, download buff file of specific meteostation
+			- alternatively, create web-sockets channel that is lightweight and streams data in real time
+			- alternatively, create webhooks that kekkonna agentuur would trigger and deliver the 
  
 ![](img/Screenshot%202024-11-30%20at%2002.59.08.png)
 
