@@ -3,9 +3,9 @@ We're participating in the "Data storm" hackathon, which main goal is to use ope
 Our hackathon focus is [🗃️ Storm wind collapsing beehives](/about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives) and  [🌪️ Weather alerts](/about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts) as a solution
 ## Team
 - Artjom Kurapov
-- Alonso Solis
+- [Alonso Solis](https://www.linkedin.com/in/alonso-solis-a5b88020a/)
 - Adrian Ala
-- Roop Runjan Khan
+- [Roop Runjan Khan](https://www.linkedin.com/in/roop-ranjan-khan-234a9014b/)
 
 Judges
 + Jaanus Jagomägi
