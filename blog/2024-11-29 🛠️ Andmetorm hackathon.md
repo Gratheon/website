@@ -1,19 +1,22 @@
-We're participating in the "Data storm" hackathon, which main goal is to use open government data of Estonia related to environment, weather, hydrology, alerts etc.
+We are excited to participate in the **"Data Storm" hackathon**, which focuses on utilizing open government data from Estonia, particularly in areas such as environment, weather, hydrology, and alerts. Our project addresses challenges related to **storm winds collapsing beehives** and proposes a solution in the form of **weather alerts**.
 
-Our hackathon focus is [🗃️ Storm wind collapsing beehives](/about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives) and  [🌪️ Weather alerts](/about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts) as a solution
-## Team
+### Our focus areas
+
++  [🗃️ Storm wind collapsing beehives](/about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives) 
++ [🌪️ Weather alerts](/about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts)
+## Team members
 - Artjom Kurapov
 - [Alonso Solis](https://www.linkedin.com/in/alonso-solis-a5b88020a/)
 - Adrian Ala
 - [Roop Runjan Khan](https://www.linkedin.com/in/roop-ranjan-khan-234a9014b/)
 
-Judges
+## Judges
 + Jaanus Jagomägi
 + Marko Tiirik
 + Anne-Liisi Mändmets
 + Sofia Paes
 + Aivo Lanno
-## Pitching slides
+## First pitch slides
 
 <object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>
 
@@ -22,21 +25,22 @@ Judges
 
 <!--truncate-->
 
-## Event info
+## Event information
 
 https://garage48.org/events/andmetorm
 https://www.linkedin.com/events/7257354689556430849/comments/
 
-- Liis Paemurru - moderator (change management)
-- Keskonnaagentuur - main beneficiary providing the API
+## Key Participants
+- Moderators - Liis Paemurru
+- Main Beneficiary (API Provider): **Keskkonnaagentuur**
 	- Taimar Ala (direktor)
 	- Svetlana Pudova
 	- Aivo Lanno
 	- Sofia Paes
-- Garage 48 - organizers
+- Organizers: Garage 48
 	- Merit Vislapu
 	- Mari Hanikat
-- Our Mentors & expertise (sorry if I got names wrong)
+- Our Mentors & expertise
 	- API choice
 		- Miina Krabbi
 		- Meila Kivisild 
@@ -48,27 +52,23 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 ## Data sources
 - https://keskkonnaportaal.ee/et/avaandmed/kliimaandmestik
 
-## Challenges and feedback for Keskkonnaagentuur
-- [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd) API
-	-  is too granular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
-	- is encoded in binary format ([WMO BUFR](https://library.wmo.int/records/item/35625-manual-on-codes-volume-i-2-international-codes) v4) and its not clear which library (in nodejs preferably) can be used to decode this
-		- https://github.com/NOAA-EMC/NCEPLIBS-bufr?tab=readme-ov-file uses fortran
-		- https://confluence.ecmwf.int/display/BUFR/BUFRDC+Home uses fortran and C
-		- https://codes.ecmwf.int/bufr/validator can be used to parse the data
-		- https://trollbufr.readthedocs.io/index.html could be a solution (python)
-	- some files are huge (1GB), for example NEMO model .zip data archives that include .nc files
-	- UI-UX for file listing is confusing - in order to download individual file, you need to click on a small icon (instead of having a button or a download link)
-![](img/Screenshot%202024-11-30%20at%2017.00.33.png)
-	- is short lived, so in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example. And to keep data up to date we would need to do this over and over in a loop, which would add too much load on Keskkonnaagentuur servers
-		- a suggestion would be to use a better API that would allow filtering or subscriptions
-			- for example, given REST API of lat-long coordinates, download buff file of specific meteostation
-			- alternatively, create web-sockets channel that is lightweight and streams data in real time
-			- alternatively, create webhooks that kekkonna agentuur would trigger and deliver the event data
- 
+## Challenges and Feedback for Keskkonnaagentuur
+
+### Issues with [Detailed weather prediction API](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd)
+
+- **Granularity**: No easy way to locate relevant files for given X/Y coordinates (of an apiary).
+- **Binary Format**: Data is encoded in [WMO BUFR](https://library.wmo.int/records/item/35625-manual-on-codes-volume-i-2-international-codes) v4, requiring complex libraries for decoding.
+    - Potential solutions include:
+        - [NOAA EMC BUFR](https://github.com/NOAA-EMC/NCEPLIBS-bufr)
+        - [TrollBUFR](https://trollbufr.readthedocs.io/index.html) (Python)
 ![](img/Screenshot%202024-11-30%20at%2002.59.08.png)
+- **File Size**: Some files (e.g., NEMO model archives) are 1GB or larger.
+- **UI/UX**: Downloading individual files requires clicking on small icons, which could be improved with clearer buttons or links.
+![](img/Screenshot%202024-11-30%20at%2017.00.33.png)
+- Short live data: In order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example. And to keep data up to date we would need to do this over and over in a loop, which would add too much load on Keskkonnaagentuur servers
 
 
-- (Old) [API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia sort of works, but it has some issues
+- (Old) [API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia works, but it has some issues too
 	- granularity is too broad - it is split into day and night, instead of hourly
 	- its forecasts only 4 days
 	- its not tied to key regions, not coordinates
@@ -78,20 +78,21 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - Climate data time series API shows past data, but not future forecast. 
   https://keskkonnaandmed.envir.ee/f_kliima_tund?aasta=eq.2024&kuu=eq.11&paev=lt.30 seems the best to retrieve past data per meteo station
 	- We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
+### Suggestions
 
+- Implement REST APIs of weather prediction with filtering capabilities based on coordinates.
+- Enable lightweight real-time data streams via web sockets or webhooks.
+ 
+## Progress Updates
+### Friday
 
-## Friday progress
-
-- Ad-hoc prototype of the feature:
+- Developed an ad-hoc feature prototype.
+- Created a **React app** prototype by Alonso:
+    - [Live Demo](https://bee-app-zeta.vercel.app/)
+    - [GitHub Repository](https://github.com/alonsosolisg/bee-app)
+- Registered new graphAPI wise I registered new `weatherEstonia` graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
   ![](img/Screenshot%202024-11-30%20at%2003.25.22.png)
-
-- React app prototype by Alonso
-  https://bee-app-zeta.vercel.app/
-  https://github.com/alonsosolisg/bee-app
-  
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
-
-- API wise I registered new `weatherEstonia` graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
   ![](img/Screenshot%202024-11-30%20at%2017.30.58.png)![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
 
 ## Saturday progress
