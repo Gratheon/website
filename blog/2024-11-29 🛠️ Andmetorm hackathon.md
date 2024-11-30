@@ -14,7 +14,8 @@ We are excited to participate in the **"Data Storm" hackathon**, which focuses o
 
 ![](img/20241130_155912.jpg)
 
-
+Participants and mentors collective foto by Tiit Tamme / Garage 48:
+![](img/1732994146453.jpg)
 ## First pitch slides
 
 <object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>

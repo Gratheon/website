@@ -161,11 +161,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "blog/img/1732994146453.jpg",
     "blog/img/20241130_174232.jpg",
     "blog/img/20241130_155912.jpg",
     "blog/img/20241129_153633.jpg",
@@ -186,7 +188,6 @@
     "blog/img/Screenshot 2024-11-30 at 03.50.42.png",
     "blog/img/Screenshot 2024-11-30 at 03.25.22.png",
     "blog/img/Screenshot 2024-11-30 at 03.23.05.png",
-    "blog/img/Screenshot 2024-11-30 at 02.59.08.png",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "about/Volunteers ❤️‍🔥.md",
     "Roop Runjan Khan.md",
