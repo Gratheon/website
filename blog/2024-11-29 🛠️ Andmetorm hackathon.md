@@ -50,6 +50,13 @@ We're participating in the "Data storm" hackathon, which main goal is to use ope
 ![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)
 
 ## Challenges
-- Weather API is hard to consume
-	- [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd) is too grandular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
-	- Detailed weather prediction data is encoded in unknown binary format (BUFR?) and its not clear which library (in nodejs preferably)
+- [Detailed weather prediction data](https://avaandmed.keskkonnaportaal.ee/dhs/Active/documentList.aspx?ViewId=3b1f9939-7395-4710-968e-ed27eb8316fd)
+	-  is too grandular. There is no easy way to find out which file should be downloaded, given X/Y coordinates of an apiary
+	- is encoded in binary format ([WMO BUFR](https://library.wmo.int/records/item/35625-manual-on-codes-volume-i-2-international-codes) v4) and its not clear which library (in nodejs preferably) can be used to decode this
+		- https://github.com/NOAA-EMC/NCEPLIBS-bufr?tab=readme-ov-file uses fortran
+		- https://codes.ecmwf.int/bufr/validator can be used to parse the data
+	- is short lived. So we would need to 
+	- some files are huge (1GB), for example NEMO model .zip data archives that include .nc files
+- [Simple API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia has some issues
+	- its only 4 days
+	- its not tied to k
