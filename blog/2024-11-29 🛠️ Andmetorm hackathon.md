@@ -1,8 +1,8 @@
 We're participating in the "Data storm" hackathon, which main goal is to use open government data of Estonia related to environment, weather, hydrology, alerts etc.
 
-Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md) and  [🌪️ Weather alerts](../about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts.md) as a solution
+Our hackathon focus is [🗃️ Storm wind collapsing beehives](/about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives) and  [🌪️ Weather alerts](/about/products/📱Web-app/essential-tier/ideas%20💡/🌪️%20Weather%20alerts) as a solution
 ## Team
-- [Artjom Kurapov](../about/company/Team/Artjom%20Kurapov.md)
+- Artjom Kurapov
 - Alonso Solis
 - Adrian Ala
 - Roop Runjan Khan
