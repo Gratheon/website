@@ -1,7 +1,7 @@
 {
   "id": "🌨️ Problems/🗃️ Ugly beehives",
   "title": "🗃️ Ugly beehives",
-  "description": "- Bricks on roof against the wind",
+  "description": "Many beekeepers face is the physical deterioration of their hives. Traditional wooden beehives often suffer from rotting or weakening, particularly in harsh weather conditions. The materials used to construct these hives—such as wood, bricks, and even old tires as stands—can be prone to damage and decay over time. Beekeepers may use bricks on the roof to prevent wind damage, but this makeshift solution can lead to added weight and unnecessary stress on the hive structure. Additionally, the use of asbestos roofing in older hives presents both health and environmental concerns, as it is harmful to both the bees and the beekeeper when deteriorated.",
   "source": "@site/about/🌨️ Problems/🗃️ Ugly beehives.md",
   "sourceDirName": "🌨️ Problems",
   "slug": "/🌨️ Problems/🗃️ Ugly beehives",
@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🗃️ Poor hive ventilation",
-    "permalink": "/about/🌨️ Problems/🗃️ Poor hive ventilation"
+    "title": "🗃️ Storm wind collapsing beehives",
+    "permalink": "/about/🌨️ Problems/🗃️ Storm wind collapsing beehives"
   },
   "next": {
     "title": "🤢 Pesticide poisoning",

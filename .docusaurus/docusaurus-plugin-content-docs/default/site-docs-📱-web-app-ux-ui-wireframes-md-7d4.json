@@ -1,0 +1,24 @@
+{
+  "id": "📱 Web-app/UX - UI wireframes",
+  "title": "UX - UI wireframes",
+  "description": "- We use Penpot for wireframes instead of figma because, its free",
+  "source": "@site/docs/📱 Web-app/UX - UI wireframes.md",
+  "sourceDirName": "📱 Web-app",
+  "slug": "/📱 Web-app/UX - UI wireframes",
+  "permalink": "/docs/📱 Web-app/UX - UI wireframes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/📱 Web-app/UX - UI wireframes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/docs/📱 Web-app/Tech stack, conventions, environments"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/📱 Web-app/🥞 DB schemas/gate-video-stream"
+  }
+}

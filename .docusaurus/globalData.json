@@ -11,6 +11,41 @@
           "mainDocId": "Docs",
           "docs": [
             {
+              "id": "📱 Web-app/📱 Web-app",
+              "path": "/docs/📱 Web-app/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/🥞 DB schemas/gate-video-stream",
+              "path": "/docs/📱 Web-app/🥞 DB schemas/gate-video-stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/🥞 DB schemas/image-splitter",
+              "path": "/docs/📱 Web-app/🥞 DB schemas/image-splitter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/🥞 DB schemas/swarm-api",
+              "path": "/docs/📱 Web-app/🥞 DB schemas/swarm-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/🥞 DB schemas/user-cycle",
+              "path": "/docs/📱 Web-app/🥞 DB schemas/user-cycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/Tech stack, conventions, environments",
+              "path": "/docs/📱 Web-app/Tech stack, conventions, environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/UX - UI wireframes",
+              "path": "/docs/📱 Web-app/UX - UI wireframes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "beehive-sensors/3d model",
               "path": "/docs/beehive-sensors/3d model",
               "sidebar": "tutorialSidebar"
@@ -214,41 +249,6 @@
               "id": "robotic-beehive/robotic-beehive",
               "path": "/docs/robotic-beehive/",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/🥞 DB schemas/gate-video-stream",
-              "path": "/docs/web-app/🥞 DB schemas/gate-video-stream",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/🥞 DB schemas/image-splitter",
-              "path": "/docs/web-app/🥞 DB schemas/image-splitter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/🥞 DB schemas/swarm-api",
-              "path": "/docs/web-app/🥞 DB schemas/swarm-api",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/🥞 DB schemas/user-cycle",
-              "path": "/docs/web-app/🥞 DB schemas/user-cycle",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/index",
-              "path": "/docs/web-app/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/Tech stack, conventions, environments",
-              "path": "/docs/web-app/Tech stack, conventions, environments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "web-app/UX - UI wireframes",
-              "path": "/docs/web-app/UX - UI wireframes",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -297,6 +297,11 @@
             {
               "id": "🌨️ Problems/🌻 Precise pollination",
               "path": "/about/🌨️ Problems/🌻 Precise pollination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌨️ Problems/🍯 Counterfeit honey",
+              "path": "/about/🌨️ Problems/🍯 Counterfeit honey",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -390,13 +395,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "🌨️ Problems/🗃️ Flimsy beehives",
-              "path": "/about/🌨️ Problems/🗃️ Flimsy beehives",
+              "id": "🌨️ Problems/🗃️ Poor hive ventilation",
+              "path": "/about/🌨️ Problems/🗃️ Poor hive ventilation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "🌨️ Problems/🗃️ Poor hive ventilation",
-              "path": "/about/🌨️ Problems/🗃️ Poor hive ventilation",
+              "id": "🌨️ Problems/🗃️ Storm wind collapsing beehives",
+              "path": "/about/🌨️ Problems/🗃️ Storm wind collapsing beehives",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -422,6 +427,31 @@
             {
               "id": "🌨️ Problems/🧶 Swarming",
               "path": "/about/🌨️ Problems/🧶 Swarming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌻 Purpose/🌻 Purpose",
+              "path": "/about/🌻 Purpose/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌻 Purpose/Company mission",
+              "path": "/about/🌻 Purpose/Company mission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌻 Purpose/Ethics",
+              "path": "/about/🌻 Purpose/Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌻 Purpose/Naming",
+              "path": "/about/🌻 Purpose/Naming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "🌻 Purpose/Symbolism",
+              "path": "/about/🌻 Purpose/Symbolism",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1295,8 +1325,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/clients/👨🏻‍🚀 Backyard beekeepers",
-              "path": "/about/products/clients/👨🏻‍🚀 Backyard beekeepers",
+              "id": "products/clients/👨🏻‍🚀 Semi-professional beekeepers",
+              "path": "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1320,6 +1350,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/clients/🧑‍🚀 Hobby beekeepers",
+              "path": "/about/products/clients/🧑‍🚀 Hobby beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/clients/index",
               "path": "/about/products/clients/",
               "sidebar": "tutorialSidebar"
@@ -1332,31 +1367,6 @@
             {
               "id": "products/prices",
               "path": "/about/products/prices",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "purpose/Company mission",
-              "path": "/about/purpose/Company mission",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "purpose/Ethics",
-              "path": "/about/purpose/Ethics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "purpose/index",
-              "path": "/about/purpose/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "purpose/Naming",
-              "path": "/about/purpose/Naming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "purpose/Symbolism",
-              "path": "/about/purpose/Symbolism",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1449,6 +1459,14 @@
               "path": "/research/Biodiversity conservation and current threats to European honeybees"
             },
             {
+              "id": "Competition/🇦🇺 Beemate",
+              "path": "/research/Competition/🇦🇺 Beemate"
+            },
+            {
+              "id": "Competition/🇦🇺 Purple Hive",
+              "path": "/research/Competition/🇦🇺 Purple Hive"
+            },
+            {
               "id": "Competition/🇨🇦 Nectar",
               "path": "/research/Competition/🇨🇦 Nectar"
             },
@@ -1457,8 +1475,16 @@
               "path": "/research/Competition/🇩🇪 ApicAI"
             },
             {
+              "id": "Competition/🇪🇺 RoboRoyale",
+              "path": "/research/Competition/🇪🇺 RoboRoyale"
+            },
+            {
               "id": "Competition/🇮🇱 Beewise",
               "path": "/research/Competition/🇮🇱 Beewise"
+            },
+            {
+              "id": "Competition/🇺🇸 Best Bees",
+              "path": "/research/Competition/🇺🇸 Best Bees"
             },
             {
               "id": "Competition/AgriPulse",
@@ -1501,10 +1527,6 @@
               "path": "/research/Competition/BeeLogger"
             },
             {
-              "id": "Competition/Beemate",
-              "path": "/research/Competition/Beemate"
-            },
-            {
               "id": "Competition/BeeOrganizer",
               "path": "/research/Competition/BeeOrganizer"
             },
@@ -1535,10 +1557,6 @@
             {
               "id": "Competition/BeeZee",
               "path": "/research/Competition/BeeZee"
-            },
-            {
-              "id": "Competition/Best Bees",
-              "path": "/research/Competition/Best Bees"
             },
             {
               "id": "Competition/Broodminder",
@@ -1611,14 +1629,6 @@
             {
               "id": "Competition/Prohiver",
               "path": "/research/Competition/Prohiver"
-            },
-            {
-              "id": "Competition/Purple Hive",
-              "path": "/research/Competition/Purple Hive"
-            },
-            {
-              "id": "Competition/RoboRoyale",
-              "path": "/research/Competition/RoboRoyale"
             },
             {
               "id": "Competition/Solutionbee",

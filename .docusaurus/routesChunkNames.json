@@ -42,13 +42,28 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-616": {
+  "/blog-e0c": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---bloge-12-7e0"
+      },
+      {
+        "content": "content---blogac-4-3b8"
+      },
+      {
+        "content": "content---blogb-7-e-644"
+      },
+      {
+        "content": "content---blog-433-afa"
+      },
+      {
+        "content": "content---bloge-15-038"
+      },
       {
         "content": "content---blog-776-f29"
       },
@@ -93,21 +108,6 @@
       },
       {
         "content": "content---blog-7-cb-7f0"
-      },
-      {
-        "content": "content---blog-743-7fa"
-      },
-      {
-        "content": "content---blog-92-d-c2d"
-      },
-      {
-        "content": "content---blog-40-b-e3c"
-      },
-      {
-        "content": "content---blog-97-d-9f4"
-      },
-      {
-        "content": "content---blog-83-e-52b"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -343,6 +343,61 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2024-11-04-🎒-jamk-workshop-🇫🇮-113-625"
   },
+  "/blog/2024/11/19/ 🎒 Attended Practical startup strategy webinar-f7b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🎒-attended-practical-startup-strategy-webinar-3-e-4-19f"
+  },
+  "/blog/2024/11/19/ 🔬 Attended open hardware webinar-fe5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🔬-attended-open-hardware-webinar-88-d-6e2"
+  },
+  "/blog/2024/11/19/ 🛠️ Attending Garage48 hackaton Andmetorm kick-off-ac5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🛠️-attending-garage-48-hackaton-andmetorm-kick-off-3-ee-95e"
+  },
+  "/blog/2024/11/22/ 🎒 PurposeTech Early traction webinar-e2e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-22-🎒-purpose-tech-early-traction-webinar-2-d-1-461"
+  },
+  "/blog/2024/11/29/ 🛠️ Andmetorm hackathon-06b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-29-🛠️-andmetorm-hackathond-45-fa6"
+  },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
@@ -350,13 +405,28 @@
     },
     "__props": "__props---blog-archivef-81-229"
   },
-  "/blog/page/2-4ab": {
+  "/blog/page/2-963": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-page-2743-e9b"
+      },
+      {
+        "content": "content---blog-page-292-d-a84"
+      },
+      {
+        "content": "content---blog-page-240-b-077"
+      },
+      {
+        "content": "content---blog-page-297-d-440"
+      },
+      {
+        "content": "content---blog-page-283-e-c7c"
+      },
       {
         "content": "content---blog-page-277-c-0e4"
       }
@@ -377,17 +447,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-3c1": {
+  "/about-1e8": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-e07": {
+  "/about-9c5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-891": {
+  "/about-e8e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -413,6 +483,10 @@
   "/about/🌨️ Problems/🌻 Precise pollination-985": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🌻-precise-pollinatione-51-ca6"
+  },
+  "/about/🌨️ Problems/🍯 Counterfeit honey-aa1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-🍯-counterfeit-honey-3-dc-84b"
   },
   "/about/🌨️ Problems/🍽️ Bee colony starvation-3c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -486,13 +560,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-📦-warehouse-organizationc-74-9b2"
   },
-  "/about/🌨️ Problems/🗃️ Flimsy beehives-823": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🗃️-flimsy-beehives-7-cc-ed8"
-  },
   "/about/🌨️ Problems/🗃️ Poor hive ventilation-81c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🗃️-poor-hive-ventilation-10-a-45c"
+  },
+  "/about/🌨️ Problems/🗃️ Storm wind collapsing beehives-b86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-🗃️-storm-wind-collapsing-beehives-008-09b"
   },
   "/about/🌨️ Problems/🗃️ Ugly beehives-baf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -513,6 +587,26 @@
   "/about/🌨️ Problems/🧶 Swarming-770": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🧶-swarming-52-d-7f1"
+  },
+  "/about/🌻 Purpose/-bac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌻-purpose-de-2-365"
+  },
+  "/about/🌻 Purpose/Company mission-7ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌻-purpose-company-missione-35-8fc"
+  },
+  "/about/🌻 Purpose/Ethics-76c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌻-purpose-ethicsedc-deb"
+  },
+  "/about/🌻 Purpose/Naming-6a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌻-purpose-naming-754-7c9"
+  },
+  "/about/🌻 Purpose/Symbolism-040": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌻-purpose-symbolismf-75-211"
   },
   "/about/📢 Press kit-bbe": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1214,9 +1308,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-clients-👨🏻‍💻-tech-savvy-engineers-764-158"
   },
-  "/about/products/clients/👨🏻‍🚀 Backyard beekeepers-0df": {
+  "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers-252": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-clients-👨🏻‍🚀-backyard-beekeepers-74-d-b1f"
+    "content": "content---about-products-clients-👨🏻‍🚀-semi-professional-beekeepers-462-cb1"
   },
   "/about/products/clients/👨🏻‍🚒 Industrial beekeepers-7f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1234,46 +1328,58 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-clients-🧑🏻‍🌾-farmers-9-e-8-cd9"
   },
+  "/about/products/clients/🧑‍🚀 Hobby beekeepers-c8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-🧑‍🚀-hobby-beekeepersaa-6-d7b"
+  },
   "/about/products/prices-748": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-prices-44-b-d17"
-  },
-  "/about/purpose/-f43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-e-26-cd9"
-  },
-  "/about/purpose/Company mission-e87": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-company-mission-334-5f0"
-  },
-  "/about/purpose/Ethics-56c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-ethics-646-6c8"
-  },
-  "/about/purpose/Naming-844": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-namingc-7-d-a96"
-  },
-  "/about/purpose/Symbolism-cbc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-purpose-symbolism-09-c-a3b"
   },
   "/about/Volunteers ❤️‍🔥-18c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteers-❤️‍🔥-95-f-0aa"
   },
-  "/docs-aae": {
+  "/docs-b93": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-139": {
+  "/docs-363": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-843": {
+  "/docs-ba2": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/📱 Web-app/-4b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-ad-0-156"
+  },
+  "/docs/📱 Web-app/🥞 DB schemas/gate-video-stream-2ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-🥞-db-schemas-gate-video-stream-0-a-8-3d3"
+  },
+  "/docs/📱 Web-app/🥞 DB schemas/image-splitter-2c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-🥞-db-schemas-image-splitterb-73-407"
+  },
+  "/docs/📱 Web-app/🥞 DB schemas/swarm-api-663": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-🥞-db-schemas-swarm-apia-47-f5f"
+  },
+  "/docs/📱 Web-app/🥞 DB schemas/user-cycle-afc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-🥞-db-schemas-user-cycle-355-1e2"
+  },
+  "/docs/📱 Web-app/Tech stack, conventions, environments-cbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-tech-stack-conventions-environments-442-028"
+  },
+  "/docs/📱 Web-app/UX - UI wireframes-7cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-📱-web-app-ux-ui-wireframes-7-d-4-468"
   },
   "/docs/beehive-sensors/-4d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1439,45 +1545,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-robot-vendors-06-a-40d"
   },
-  "/docs/web-app/-d1a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-f-30-003"
-  },
-  "/docs/web-app/🥞 DB schemas/gate-video-stream-049": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-🥞-db-schemas-gate-video-streamfba-f74"
-  },
-  "/docs/web-app/🥞 DB schemas/image-splitter-584": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-🥞-db-schemas-image-splittercbd-83c"
-  },
-  "/docs/web-app/🥞 DB schemas/swarm-api-c03": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-🥞-db-schemas-swarm-api-4-e-1-924"
-  },
-  "/docs/web-app/🥞 DB schemas/user-cycle-9e7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-🥞-db-schemas-user-cycle-88-c-a11"
-  },
-  "/docs/web-app/Tech stack, conventions, environments-670": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-tech-stack-conventions-environments-6-f-9-d84"
-  },
-  "/docs/web-app/UX - UI wireframes-772": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-ux-ui-wireframes-256-93e"
-  },
-  "/research-e22": {
+  "/research-50f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-7a4": {
+  "/research-f89": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-10b": {
+  "/research-485": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -1548,6 +1626,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-f-9-c-d29"
   },
+  "/research/Competition/🇦🇺 Beemate-218": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇦🇺-beemate-652-34e"
+  },
+  "/research/Competition/🇦🇺 Purple Hive-075": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇦🇺-purple-hivea-22-4c1"
+  },
   "/research/Competition/🇨🇦 Nectar-eb5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-🇨🇦-nectarea-8-9b2"
@@ -1556,9 +1642,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-🇩🇪-apic-a-ieb-8-738"
   },
+  "/research/Competition/🇪🇺 RoboRoyale-c8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇪🇺-robo-royale-88-a-56e"
+  },
   "/research/Competition/🇮🇱 Beewise-60e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-🇮🇱-beewise-829-d2b"
+  },
+  "/research/Competition/🇺🇸 Best Bees-edb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇺🇸-best-bees-8-f-0-6f0"
   },
   "/research/Competition/AgriPulse-174": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1600,10 +1694,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-bee-logger-44-c-522"
   },
-  "/research/Competition/Beemate-55d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-competition-beemate-023-cba"
-  },
   "/research/Competition/BeeOrganizer-af7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-bee-organizer-107-45a"
@@ -1635,10 +1725,6 @@
   "/research/Competition/BeeZee-88d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-bee-zeec-3-e-f6b"
-  },
-  "/research/Competition/Best Bees-5d2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-competition-best-beesa-75-203"
   },
   "/research/Competition/Broodminder-aea": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1707,14 +1793,6 @@
   "/research/Competition/Prohiver-7e7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-prohiver-879-a5b"
-  },
-  "/research/Competition/Purple Hive-27b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-competition-purple-hive-59-c-da6"
-  },
-  "/research/Competition/RoboRoyale-492": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---research-competition-robo-royale-338-901"
   },
   "/research/Competition/Solutionbee-438": {
     "__comp": "__comp---theme-doc-item-178-a40",

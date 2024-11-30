@@ -1,0 +1,27 @@
+{
+  "id": "🌻 Purpose/🌻 Purpose",
+  "title": "🌻 Purpose",
+  "description": "We help 🧑🏻‍🚀 beekeepers with 🐝 AI observability and 🤖 robotic automation.",
+  "source": "@site/about/🌻 Purpose/🌻 Purpose.md",
+  "sourceDirName": "🌻 Purpose",
+  "slug": "/🌻 Purpose/",
+  "permalink": "/about/🌻 Purpose/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🌻 Purpose"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/about/"
+  },
+  "next": {
+    "title": "Company mission",
+    "permalink": "/about/🌻 Purpose/Company mission"
+  }
+}

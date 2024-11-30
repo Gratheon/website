@@ -1,0 +1,26 @@
+{
+  "id": "🌻 Purpose/Naming",
+  "title": "Naming",
+  "description": "Company name has multiple meanings on different layers, so there is no definitive answer",
+  "source": "@site/about/🌻 Purpose/Naming.md",
+  "sourceDirName": "🌻 Purpose",
+  "slug": "/🌻 Purpose/Naming",
+  "permalink": "/about/🌻 Purpose/Naming",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Symbolism",
+    "permalink": "/about/🌻 Purpose/Symbolism"
+  },
+  "next": {
+    "title": "Ethics ☯️",
+    "permalink": "/about/🌻 Purpose/Ethics"
+  }
+}

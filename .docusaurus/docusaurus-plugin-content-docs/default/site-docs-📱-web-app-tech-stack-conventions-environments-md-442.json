@@ -1,0 +1,24 @@
+{
+  "id": "📱 Web-app/Tech stack, conventions, environments",
+  "title": "Tech stack, conventions, environments",
+  "description": "Languages",
+  "source": "@site/docs/📱 Web-app/Tech stack, conventions, environments.md",
+  "sourceDirName": "📱 Web-app",
+  "slug": "/📱 Web-app/Tech stack, conventions, environments",
+  "permalink": "/docs/📱 Web-app/Tech stack, conventions, environments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/📱 Web-app/Tech stack, conventions, environments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱 Web-app",
+    "permalink": "/docs/📱 Web-app/"
+  },
+  "next": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/📱 Web-app/UX - UI wireframes"
+  }
+}

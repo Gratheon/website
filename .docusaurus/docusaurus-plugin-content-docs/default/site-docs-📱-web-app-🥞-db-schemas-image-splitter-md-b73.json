@@ -1,0 +1,26 @@
+{
+  "id": "📱 Web-app/🥞 DB schemas/image-splitter",
+  "title": "image-splitter",
+  "description": "image",
+  "source": "@site/docs/📱 Web-app/🥞 DB schemas/image-splitter.md",
+  "sourceDirName": "📱 Web-app/🥞 DB schemas",
+  "slug": "/📱 Web-app/🥞 DB schemas/image-splitter",
+  "permalink": "/docs/📱 Web-app/🥞 DB schemas/image-splitter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/📱 Web-app/🥞 DB schemas/image-splitter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/📱 Web-app/🥞 DB schemas/gate-video-stream"
+  },
+  "next": {
+    "title": "swarm-api",
+    "permalink": "/docs/📱 Web-app/🥞 DB schemas/swarm-api"
+  }
+}

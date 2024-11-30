@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '616'),
+    component: ComponentCreator('/blog', 'e0c'),
     exact: true
   },
   {
@@ -148,13 +148,38 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/11/19/ 🎒 Attended Practical startup strategy webinar',
+    component: ComponentCreator('/blog/2024/11/19/ 🎒 Attended Practical startup strategy webinar', 'f7b'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/11/19/ 🔬 Attended open hardware webinar',
+    component: ComponentCreator('/blog/2024/11/19/ 🔬 Attended open hardware webinar', 'fe5'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/11/19/ 🛠️ Attending Garage48 hackaton Andmetorm kick-off',
+    component: ComponentCreator('/blog/2024/11/19/ 🛠️ Attending Garage48 hackaton Andmetorm kick-off', 'ac5'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/11/22/ 🎒 PurposeTech Early traction webinar',
+    component: ComponentCreator('/blog/2024/11/22/ 🎒 PurposeTech Early traction webinar', 'e2e'),
+    exact: true
+  },
+  {
+    path: '/blog/2024/11/29/ 🛠️ Andmetorm hackathon',
+    component: ComponentCreator('/blog/2024/11/29/ 🛠️ Andmetorm hackathon', '06b'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '4ab'),
+    component: ComponentCreator('/blog/page/2', '963'),
     exact: true
   },
   {
@@ -169,15 +194,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '3c1'),
+    component: ComponentCreator('/about', '1e8'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e07'),
+        component: ComponentCreator('/about', '9c5'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '891'),
+            component: ComponentCreator('/about', 'e8e'),
             routes: [
               {
                 path: '/about/',
@@ -212,6 +237,12 @@ export default [
               {
                 path: '/about/🌨️ Problems/🌻 Precise pollination',
                 component: ComponentCreator('/about/🌨️ Problems/🌻 Precise pollination', '985'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/🍯 Counterfeit honey',
+                component: ComponentCreator('/about/🌨️ Problems/🍯 Counterfeit honey', 'aa1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -324,14 +355,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/🗃️ Flimsy beehives',
-                component: ComponentCreator('/about/🌨️ Problems/🗃️ Flimsy beehives', '823'),
+                path: '/about/🌨️ Problems/🗃️ Poor hive ventilation',
+                component: ComponentCreator('/about/🌨️ Problems/🗃️ Poor hive ventilation', '81c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/🗃️ Poor hive ventilation',
-                component: ComponentCreator('/about/🌨️ Problems/🗃️ Poor hive ventilation', '81c'),
+                path: '/about/🌨️ Problems/🗃️ Storm wind collapsing beehives',
+                component: ComponentCreator('/about/🌨️ Problems/🗃️ Storm wind collapsing beehives', 'b86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -362,6 +393,36 @@ export default [
               {
                 path: '/about/🌨️ Problems/🧶 Swarming',
                 component: ComponentCreator('/about/🌨️ Problems/🧶 Swarming', '770'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌻 Purpose/',
+                component: ComponentCreator('/about/🌻 Purpose/', 'bac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌻 Purpose/Company mission',
+                component: ComponentCreator('/about/🌻 Purpose/Company mission', '7ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌻 Purpose/Ethics',
+                component: ComponentCreator('/about/🌻 Purpose/Ethics', '76c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌻 Purpose/Naming',
+                component: ComponentCreator('/about/🌻 Purpose/Naming', '6a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌻 Purpose/Symbolism',
+                component: ComponentCreator('/about/🌻 Purpose/Symbolism', '040'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1416,8 +1477,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/clients/👨🏻‍🚀 Backyard beekeepers',
-                component: ComponentCreator('/about/products/clients/👨🏻‍🚀 Backyard beekeepers', '0df'),
+                path: '/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers',
+                component: ComponentCreator('/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers', '252'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1446,38 +1507,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/clients/🧑‍🚀 Hobby beekeepers',
+                component: ComponentCreator('/about/products/clients/🧑‍🚀 Hobby beekeepers', 'c8a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/prices',
                 component: ComponentCreator('/about/products/prices', '748'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/purpose/',
-                component: ComponentCreator('/about/purpose/', 'f43'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/purpose/Company mission',
-                component: ComponentCreator('/about/purpose/Company mission', 'e87'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/purpose/Ethics',
-                component: ComponentCreator('/about/purpose/Ethics', '56c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/purpose/Naming',
-                component: ComponentCreator('/about/purpose/Naming', '844'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/purpose/Symbolism',
-                component: ComponentCreator('/about/purpose/Symbolism', 'cbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1495,16 +1532,58 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'aae'),
+    component: ComponentCreator('/docs', 'b93'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '139'),
+        component: ComponentCreator('/docs', '363'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '843'),
+            component: ComponentCreator('/docs', 'ba2'),
             routes: [
+              {
+                path: '/docs/📱 Web-app/',
+                component: ComponentCreator('/docs/📱 Web-app/', '4b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/🥞 DB schemas/gate-video-stream',
+                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/gate-video-stream', '2ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/🥞 DB schemas/image-splitter',
+                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/image-splitter', '2c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/🥞 DB schemas/swarm-api',
+                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/swarm-api', '663'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/🥞 DB schemas/user-cycle',
+                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/user-cycle', 'afc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/Tech stack, conventions, environments',
+                component: ComponentCreator('/docs/📱 Web-app/Tech stack, conventions, environments', 'cbc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/📱 Web-app/UX - UI wireframes',
+                component: ComponentCreator('/docs/📱 Web-app/UX - UI wireframes', '7cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/beehive-sensors/',
                 component: ComponentCreator('/docs/beehive-sensors/', '4d7'),
@@ -1750,48 +1829,6 @@ export default [
                 component: ComponentCreator('/docs/robotic-beehive/Robot Vendors', '8d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/',
-                component: ComponentCreator('/docs/web-app/', 'd1a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/🥞 DB schemas/gate-video-stream',
-                component: ComponentCreator('/docs/web-app/🥞 DB schemas/gate-video-stream', '049'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/🥞 DB schemas/image-splitter',
-                component: ComponentCreator('/docs/web-app/🥞 DB schemas/image-splitter', '584'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/🥞 DB schemas/swarm-api',
-                component: ComponentCreator('/docs/web-app/🥞 DB schemas/swarm-api', 'c03'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/🥞 DB schemas/user-cycle',
-                component: ComponentCreator('/docs/web-app/🥞 DB schemas/user-cycle', '9e7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/Tech stack, conventions, environments',
-                component: ComponentCreator('/docs/web-app/Tech stack, conventions, environments', '670'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/web-app/UX - UI wireframes',
-                component: ComponentCreator('/docs/web-app/UX - UI wireframes', '772'),
-                exact: true,
-                sidebar: "tutorialSidebar"
               }
             ]
           }
@@ -1801,15 +1838,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'e22'),
+    component: ComponentCreator('/research', '50f'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '7a4'),
+        component: ComponentCreator('/research', 'f89'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '10b'),
+            component: ComponentCreator('/research', '485'),
             routes: [
               {
                 path: '/research/',
@@ -1897,6 +1934,16 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Competition/🇦🇺 Beemate',
+                component: ComponentCreator('/research/Competition/🇦🇺 Beemate', '218'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/🇦🇺 Purple Hive',
+                component: ComponentCreator('/research/Competition/🇦🇺 Purple Hive', '075'),
+                exact: true
+              },
+              {
                 path: '/research/Competition/🇨🇦 Nectar',
                 component: ComponentCreator('/research/Competition/🇨🇦 Nectar', 'eb5'),
                 exact: true
@@ -1907,8 +1954,18 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Competition/🇪🇺 RoboRoyale',
+                component: ComponentCreator('/research/Competition/🇪🇺 RoboRoyale', 'c8c'),
+                exact: true
+              },
+              {
                 path: '/research/Competition/🇮🇱 Beewise',
                 component: ComponentCreator('/research/Competition/🇮🇱 Beewise', '60e'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/🇺🇸 Best Bees',
+                component: ComponentCreator('/research/Competition/🇺🇸 Best Bees', 'edb'),
                 exact: true
               },
               {
@@ -1962,11 +2019,6 @@ export default [
                 exact: true
               },
               {
-                path: '/research/Competition/Beemate',
-                component: ComponentCreator('/research/Competition/Beemate', '55d'),
-                exact: true
-              },
-              {
                 path: '/research/Competition/BeeOrganizer',
                 component: ComponentCreator('/research/Competition/BeeOrganizer', 'af7'),
                 exact: true
@@ -2004,11 +2056,6 @@ export default [
               {
                 path: '/research/Competition/BeeZee',
                 component: ComponentCreator('/research/Competition/BeeZee', '88d'),
-                exact: true
-              },
-              {
-                path: '/research/Competition/Best Bees',
-                component: ComponentCreator('/research/Competition/Best Bees', '5d2'),
                 exact: true
               },
               {
@@ -2094,16 +2141,6 @@ export default [
               {
                 path: '/research/Competition/Prohiver',
                 component: ComponentCreator('/research/Competition/Prohiver', '7e7'),
-                exact: true
-              },
-              {
-                path: '/research/Competition/Purple Hive',
-                component: ComponentCreator('/research/Competition/Purple Hive', '27b'),
-                exact: true
-              },
-              {
-                path: '/research/Competition/RoboRoyale',
-                component: ComponentCreator('/research/Competition/RoboRoyale', '492'),
                 exact: true
               },
               {

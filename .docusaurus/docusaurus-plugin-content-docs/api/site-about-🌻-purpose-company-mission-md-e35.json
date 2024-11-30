@@ -1,0 +1,27 @@
+{
+  "id": "🌻 Purpose/Company mission",
+  "title": "Company mission",
+  "description": "As humanity expands its technological horizons, building new types of spaceships and dreaming of distant planets,  we continue to grapple with wars, climate change, social inequality, and malnutrition. In these challenging times, we turn our attention to a small insect - the key to plant life reproduction. Caring after the bees 🐝 can teach us compassion and love.",
+  "source": "@site/about/🌻 Purpose/Company mission.md",
+  "sourceDirName": "🌻 Purpose",
+  "slug": "/🌻 Purpose/Company mission",
+  "permalink": "/about/🌻 Purpose/Company mission",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Purpose",
+    "permalink": "/about/🌻 Purpose/"
+  },
+  "next": {
+    "title": "Symbolism",
+    "permalink": "/about/🌻 Purpose/Symbolism"
+  }
+}

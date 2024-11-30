@@ -1,7 +1,7 @@
 {
   "id": "🌨️ Problems/🍽️ Bee colony starvation",
   "title": "🍽️ Bee colony starvation",
-  "description": "",
+  "description": "One of the most pressing challenges beekeepers face is bee colony starvation, a condition where bees lack access to sufficient food resources to sustain their population. This often results from a combination of environmental and agricultural factors. Seasonal changes, such as harsh winters or late springs, can limit the availability of flowering plants that provide nectar and pollen. Additionally, monoculture farming practices create vast areas with limited biodiversity, leaving bees without access to diverse and continuous food sources. When bees cannot find adequate nutrition, their weakened colonies become more vulnerable to disease, pests like Varroa mites, and other stressors that can lead to collapse.",
   "source": "@site/about/🌨️ Problems/🍽️ Bee colony starvation.md",
   "sourceDirName": "🌨️ Problems",
   "slug": "/🌨️ Problems/🍽️ Bee colony starvation",
@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌻 Monocultural agriculture",
-    "permalink": "/about/🌨️ Problems/🌻 Monocultural agriculture"
+    "title": "🍯 Counterfeit honey",
+    "permalink": "/about/🌨️ Problems/🍯 Counterfeit honey"
   },
   "next": {
     "title": "🎒 Challenging to become a new beekeeper",

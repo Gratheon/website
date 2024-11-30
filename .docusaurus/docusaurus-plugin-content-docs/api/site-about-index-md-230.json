@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Gratheon is a garage-phase bootstrapping startup with big dreams. See 📑 deck for quick overview.",
+  "description": "Gratheon is a startup company (see  📑 deck.pdf )",
   "source": "@site/about/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "🌻 Purpose",
-    "permalink": "/about/purpose/"
+    "permalink": "/about/🌻 Purpose/"
   }
 }

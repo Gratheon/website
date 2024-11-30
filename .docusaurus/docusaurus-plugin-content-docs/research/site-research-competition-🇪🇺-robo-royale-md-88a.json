@@ -1,0 +1,18 @@
+{
+  "id": "Competition/🇪🇺 RoboRoyale",
+  "title": "🇪🇺 RoboRoyale",
+  "description": "Research project that monitors the queen and associated bees using a robot",
+  "source": "@site/research/Competition/🇪🇺 RoboRoyale.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/🇪🇺 RoboRoyale",
+  "permalink": "/research/Competition/🇪🇺 RoboRoyale",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://roboroyale.eu/",
+    "products": "🧿 Robotic Beehive",
+    "description": "Research project that monitors the queen and associated bees using a robot"
+  }
+}
