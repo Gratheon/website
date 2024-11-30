@@ -77,5 +77,18 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 	- it does not always have wind speed property, even though text description has one
 
 - Climate data time series API shows past data, but not future forecast. 
-  https://keskkonnaandmed.envir.ee/f_kliima_tund?aasta=eq.2024&kuu=eq.11&paev=lt.30 seems the best to retrieve past data per 
+  https://keskkonnaandmed.envir.ee/f_kliima_tund?aasta=eq.2024&kuu=eq.11&paev=lt.30 seems the best to retrieve past data per meteo station
 	- We can still use it to  correlate weather affecting beehives post-factum though. But our focus in hackathon is to prevent beehive collapse due to storms by alarming a beekeeper.
+
+
+## First day progress (friday)
+
+- Ad-hoc prototype of the feature:
+  ![](img/Screenshot%202024-11-30%20at%2003.25.22.png)
+
+- React app prototype by Alonso
+  https://bee-app-zeta.vercel.app/
+  https://github.com/alonsosolisg/bee-app
+  
+  ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
+- API 
