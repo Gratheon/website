@@ -6,8 +6,19 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 - Alonso Solis
 - Adrian Ala
 - Roop Runjan Khan
+## Pitching slides
+
+<object data={require('./img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf').default} type="application/pdf" width="100%" height="400"></object>
+
+![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)
+
+
+<!--truncate-->
 
 ## Event info
+
+https://garage48.org/events/andmetorm
+https://www.linkedin.com/events/7257354689556430849/comments/
 
 - Liis Paemurru - moderator (change management)
 - Keskonnaagentuur - main beneficiary providing the API
@@ -44,11 +55,6 @@ Our hackathon focus is [🗃️ Storm wind collapsing beehives](../about/🌨️
 	- ...
 
 
-## Pitching slides
-
-<object data={require('./img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf').default} type="application/pdf" width="100%" height="400"></object>
-
-![](img/Gratheon%20Pitch%20at%20Andmetorm%20hackathon.pdf)
 
 ## Data sources
 - https://keskkonnaportaal.ee/et/avaandmed/kliimaandmestik

@@ -63,7 +63,11 @@ flowchart LR
 
 ## Development setup
 
-Start by checking out [https://github.com/gratheon/web-app](https://github.com/gratheon/web-app). Its just a react single-page app and does not need a docker image but you can see API dependencies it will require. Running pure `just start` will allow you to use production backend for frontend development, so you should be able to login with existing credentials. This is most useful in case you need to make cosmetic or FE-only changes that do not alter or introduce any API schema modification.
+Start by checking out [https://github.com/gratheon/web-app](https://github.com/gratheon/web-app). Its just a react single-page app and does not need a docker image but you can see API dependencies it will require. 
+
+Running pure `just start` will allow you to use production backend for frontend development, so you should be able to login with **existing credentials**. Make sure to use email/password for that, as Google login does not work on localhost.
+
+This is most useful in case you need to make cosmetic or FE-only changes that do not alter or introduce any API schema modification.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/T4b2uxrf8U4" title="Making easy web-app changes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
