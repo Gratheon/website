@@ -138,6 +138,6 @@ This is needed so that beekeeper or AI model could correlate weather effects aff
 
 
 ## Result
-We competed with 15 other teams and we did not win. Teams presented various solutions, winners suggested solutions with ESG and general data analysis that judges likely found to best fit what Keskkonnaagentuur needed.
+We competed with 15 other teams and we did not win. Teams presented various solutions, winners suggested solutions with ESG and general data analysis that judges likely found to best fit judgement criterias and what Keskkonnaagentuur needed.
 
 We had hands-on work on SMS alerting channels, weather APIs and more attractive UI for charts that will not go to waste. We shared the awareness of the product and did some networking.
