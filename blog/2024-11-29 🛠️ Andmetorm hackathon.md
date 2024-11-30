@@ -77,7 +77,7 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - (Old) [API forecast](https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng) for Estonia works, but it has some issues too
 	- granularity is too broad - it is split into day and night, instead of hourly
 	- its forecasts only 4 days
-	- its not tied to key regions, not coordinates
+	- its tied to key regions, not coordinates
 	- regions are forecasted only for 1 day ahead, the rest is considered the same for all regions
 	- it does not always have wind speed property, even though text description has one
 
