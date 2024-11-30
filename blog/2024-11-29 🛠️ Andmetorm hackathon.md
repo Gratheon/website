@@ -90,14 +90,15 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - Created a **React app** prototype by Alonso:
     - [Live Demo](https://bee-app-zeta.vercel.app/)
     - [GitHub Repository](https://github.com/alonsosolisg/bee-app)
-- Registered new graphAPI wise I registered new `weatherEstonia` graphql query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
+- Registered new internal graphql API  `weatherEstonia` query type and we used https://www.ilmateenistus.ee/ilma_andmed/xml/forecast.php?lang=eng XML data, which was converted to JSON. 
+	- We had to find closes meteostation given lat/long coordinates, which was tricky
   ![](img/Screenshot%202024-11-30%20at%2003.25.22.png)
   ![](img/Screenshot%202024-11-30%20at%2003.23.05.png)
   ![](img/Screenshot%202024-11-30%20at%2017.30.58.png)![](img/Screenshot%202024-11-30%20at%2003.50.42.png)
 
 ## Saturday progress
-- We had to re-write API handling, because it was returning 
-  day -> data instead of data -> time
+- We had to re-write API handling, because data nesting was
+  `day -> data` instead of `data -> time` which we needed for charts in UI to plot the data
   
   https://github.com/Gratheon/weather/blob/main/app/resolvers.js#L19
 
