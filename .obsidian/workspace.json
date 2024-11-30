@@ -161,11 +161,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2024-11-30 at 17.00.33.png",
     "about/products/clients/🧑‍🚀 Hobby beekeepers.md",
     "about/products/clients/🧑🏻‍🌾 Farmers.md",
     "about/products/clients/👩🏻 Tech scale-up companies.md",
@@ -200,7 +202,6 @@
     "about/company/index.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "docs/Docs.md",
-    "about/index.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "blog/img/Screenshot 2024-11-28 at 18.09.54.png",
