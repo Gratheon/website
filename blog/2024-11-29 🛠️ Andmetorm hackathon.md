@@ -113,12 +113,18 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 - We've updated the UI prototype to have better highlighting of the danger zones
 - For the pitch, we configured twilio API to send SMS to all of the mentors/judges to effectively share our demo
 
-## Use case
+## Alert use case
 - Gratheon web-app monitors beekeepers apiaries and dangerous weather that can affect bees
 - When there is a storm or a heatwave approaching the apiary, web-app generates an alert
 - If user has entered the phone in the user profile and allowed us to contact him over the phone, we send an SMS
 - User (beekeeper) receives an SMS alert on the phone with a URL to relevant apiary
 - User opens apiary view, sees there is an alert details about high temperature (heat wave coming) or a high wind, when exactly it is expected and how dangerous it is
-- User reads an advice of what he needs to do, for example
+- User reads an advice of what he needs to do, for example in case of storm - limit hive entrance, tie together hive with a rope
 
 ![](img/Screenshot%202024-11-30%20at%2014.15.00.png)
+
+## Data correlation use-case
+
+Idea is to not only collect weather data when user opens the view or not only to predict  data in advance, but also collect past weather information for specific apiary location.
+
+This is needed so that beekeeper or AI model could correlate weather effects affecting the bees. For example, if there was 2 weeks of daily rain, then bees may be grounded and lose resources (pollen, nectar) which will be seen on hive weight graph too
