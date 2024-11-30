@@ -50,11 +50,12 @@ https://www.linkedin.com/events/7257354689556430849/comments/
 		- https://codes.ecmwf.int/bufr/validator can be used to parse the data
 		- https://trollbufr.readthedocs.io/index.html could be a solution (python)
 	- some files are huge (1GB), for example NEMO model .zip data archives that include .nc files
+	- UI-UX for file listing is confusing - in order to download individual file, you need to click on a small icon (instead of having a button or a download link)
 	- is short lived, so in order to have detailed data about closest meteostation, we would need to do a lot of work by crawling the site, downloading all files, parsing them to extract windSpeed for example. And to keep data up to date we would need to do this over and over in a loop, which would add too much load on Keskkonnaagentuur servers
 		- a suggestion would be to use a better API that would allow filtering or subscriptions
 			- for example, given REST API of lat-long coordinates, download buff file of specific meteostation
 			- alternatively, create web-sockets channel that is lightweight and streams data in real time
-			- alternatively, create webhooks that kekkonna agentuur would trigger and deliver the 
+			- alternatively, create webhooks that kekkonna agentuur would trigger and deliver the event data
  
 ![](img/Screenshot%202024-11-30%20at%2002.59.08.png)
 
