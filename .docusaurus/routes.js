@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'e0c'),
+    component: ComponentCreator('/blog', 'be9'),
     exact: true
   },
   {
@@ -173,13 +173,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program',
+    component: ComponentCreator('/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program', 'a20'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '963'),
+    component: ComponentCreator('/blog/page/2', '0fa'),
     exact: true
   },
   {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
+                "file": "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-29 🛠️ Andmetorm hackathon"
+              "title": "2024-11-30 Gratheon joins NVIDIA Inception Program"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "3df269d731370acc",
   "lastOpenFiles": [
+    "blog/img/nvidia-inception-program-badge-rgb-for-screen.png",
+    "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
+    "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "justfile",
     "blog/img/1732994146453.jpg",
     "blog/img/20241130_174232.jpg",
@@ -181,7 +184,6 @@
     "about/products/clients/👨🏻‍🚀 Semi-professional beekeepers.md",
     "about/products/clients/👩🏼‍🏫 Urban beekeepers.md",
     "about/products/clients/👨🏻 Potential new beekeepers.md",
-    "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "blog/img/Screenshot 2024-11-30 at 14.15.00.png",
     "blog/img/Screenshot 2024-11-30 at 11.27.14.png",
     "docs/📱 Web-app/📱 Web-app.md",
@@ -204,14 +206,12 @@
     "about/company/Merchandise.md",
     "about/company/index.md",
     "about/🌻 Purpose/🌻 Purpose.md",
-    "docs/Docs.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "about/🌻 Purpose/img/gratheon-theme.mp3",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "src/about/company/values",
     "src/about/Engineering",
-    "src/img",
-    "src/about/careers"
+    "src/img"
   ]
 }
