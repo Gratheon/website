@@ -9,6 +9,11 @@ According to Program Terms and Conditions, we may benefit from:
 - NVIDIA facilitating introductions to third parties such as Investors/VCs
 - brand exposure opportunities
 ![](img/nvidia-inception-program-badge-rgb-for-screen.png)
+Relevant links:
+- www.nvidia.com/dli
+- developer.nvidia.com
+- news.developer.nvidia.com
+- blogs.nvidia.com/ai-podcast
 
 
 ![](img/Screenshot%202024-12-01%20at%2022.51.52.png)
