@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6028d3c8eba08e0",
+        "id": "21d0ae6c92ec932f",
         "type": "tabs",
         "children": [
           {
-            "id": "16f3f48d78836200",
+            "id": "511a04068c2dc042",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,10 +157,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16f3f48d78836200",
+  "active": "511a04068c2dc042",
   "lastOpenFiles": [
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/img/Screenshot 2024-12-01 at 22.51.52.png",
