@@ -11,10 +11,14 @@
             "id": "511a04068c2dc042",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "Untitled.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/img/Screenshot 2024-12-01 at 22.51.52.png",
     "blog/img/nvidia-inception-program-badge-rgb-for-screen.png",
