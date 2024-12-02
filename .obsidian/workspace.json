@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/🌻 Purpose/🌻 Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🌻 Purpose"
             }
           }
         ]
@@ -167,12 +167,13 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "about/🌻 Purpose/Company mission.md",
+    "about/🌻 Purpose/🌻 Purpose.md",
+    "about/index.md",
     "about/company/index.md",
     "about/company/🖥️ Services and tools that we use.md",
     "about/🌻 Purpose/Naming.md",
     "about/🌻 Purpose/Ethics.md",
-    "about/🌻 Purpose/Company mission.md",
-    "about/index.md",
     "about/company/Market analysis.md",
     "about/company/img/Screenshot 2024-12-02 at 19.39.51.png",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
@@ -208,7 +209,6 @@
     "blog/2024-05-05 🛠️ Participated in Prototron.ee fund.md",
     "img",
     "about/🌨️ Problems/🗃️ Storm wind collapsing beehives.md",
-    "about/🌨️ Problems/💢 Hornet attacks.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "about/🌻 Purpose/img/gratheon-theme.mp3",

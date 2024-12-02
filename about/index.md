@@ -10,7 +10,7 @@ Gratheon saves 🐝 bees of semi-professional beekeepers by providing observabil
 
 IoT devices, AI vision and robots 🤖 are on the rise at a time when we need efficient pollination of crops for food security as by 2050 we can expect a 10 billion population
 
-
+We are experienced engineers, coming from Pipedrive, Clarifai, Fits.me, Coop
 
 - [📑 deck.pdf](deck.pdf)
 - 💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics

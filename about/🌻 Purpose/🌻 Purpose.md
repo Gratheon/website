@@ -24,12 +24,12 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 
 ### Elevator pitch
 
-📢 I’m a software engineer and 5 years ago I became a beekeeper to improve pollination of my garden and get higher yields. To me, bees are also a cute pet
+📢 When I worked at Pipedrive as  and 5 years ago I became a beekeeper to improve pollination of my garden and get higher yields. To me, bees are also a cute pet
 
 
 > Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [Insufficient pollination](https://www.notion.so/Insufficient-pollination-93d31ab6309443f9bbe0a50f4b560188?pvs=21) and increase yields
 
-But traditional beekeeping requires [👁️ Observability of bee colony](../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md), because bees can experience  [🍽️ Bee colony starvation](../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md), [💀 Colony without a queen](../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md), [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md), [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md)   and [🦀 Diseases](../🌨️%20Problems/🦀%20Diseases.md) which weaken the colony and cause [❄️ Overwintering collapse](../🌨️%20Problems/❄️%20Overwintering%20collapse.md) .
+But traditional beekeeping requires [👁️ Observability of bee colony](../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md), because bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md), [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md)  or [🍽️ Bee colony starvation](../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md)
 
 Observability is typically solved with a [💪🏻 Physical labor](../🌨️%20Problems/💪🏻%20Physical%20labor.md)  and [👁️ Time-consuming inspections](../🌨️%20Problems/👁️%20Time-consuming%20inspections.md). Dressed in a protective suit, in the summer heat, every week, you need to lift 20 kg beehive sections designed 150 years ago and notice small details while you are getting stung by defending bees, [💀 Intrusive inspections](../🌨️%20Problems/💀%20Intrusive%20inspections.md)
 
