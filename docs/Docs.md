@@ -5,4 +5,4 @@ This section describes more technical guides that can help you setup own devices
 
 If you are technical enough and find this useful, feel free to improve these guides in github or even add new ones. If you are not that technical, maybe buy ready devices and kits (once we have those available)
 
-We document everything also for ourselves, following [Radiate truth 🌞](/about/company/Culture%20and%20values%20🫀/Radiate%20truth%20🌞) and [Observable mind 🧿](/about/company/Culture%20and%20values%20🫀/Observable%20mind%20🧿) values
+We document everything also for ourselves, following [Radiate truth 🌞](../about/company/🫀%20Culture%20and%20values/Radiate%20truth%20🌞.md) and [Observable mind 🧿](../about/company/🫀%20Culture%20and%20values/Observable%20mind%20🧿.md) values

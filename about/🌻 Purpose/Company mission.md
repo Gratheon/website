@@ -13,7 +13,7 @@ As humanity expands its technological horizons, building new types of spaceships
 
 Our mission is balancing human progress with the preservation of nature, aiming for sustainable development and the regeneration of Earth's ecosystems. By doing so, we aspire to maximize human happiness, awareness, responsibilities and efficiency.
 
-[Culture and values](../company/Culture%20and%20values%20🫀/Culture%20and%20values%20🫀.md) and [Symbolism](Symbolism.md) are reflecting this mission
+[Culture and values](../company/🫀%20Culture%20and%20values/Culture%20and%20values%20🫀.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
 
 <iframe src="https://open.spotify.com/embed/playlist/3hpFjVkATz2rW5cuXaUXeV?utm_source=generator" width="100%" height="560" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

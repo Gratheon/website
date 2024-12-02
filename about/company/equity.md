@@ -7,7 +7,7 @@ title: 🦚 Equity & fundraising plan
 
 💡 This page is summarizing the rough **plan** of the equity program for the employees, founders, investors and advisors.
 
-Equity is a mechanism of motivation and compensation at early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. Making everyone owning the company is part of our company values - [Team effort 🐝](Culture%20and%20values%20🫀/Team%20effort%20🐝.md) and [Gather value 🍯](Culture%20and%20values%20🫀/Gather%20value%20🍯.md)
+Equity is a mechanism of motivation and compensation at early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. Making everyone owning the company is part of our company values - [Team effort 🐝](🫀%20Culture%20and%20values/Team%20effort%20🐝.md) and [Gather value 🍯](🫀%20Culture%20and%20values/Gather%20value%20🍯.md)
 
 - If you leave, you lose options. Company can print more shares, mostly for new investors.
     
@@ -75,7 +75,7 @@ The negative side is that it is not possible to balance in advance amount of emp
 
 At each step of funding round, some equity is given away to the investors in return for raised capital. New investor gets new shares, nothing happens to previously given away shares, thus ownership % is diluted but valuation of the company increases.
 
-![](levels.png)
+![](img/levels.png)
 
 Vesting in different companies, source - **Levels.fyi**
 

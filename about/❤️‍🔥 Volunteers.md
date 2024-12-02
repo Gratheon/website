@@ -16,16 +16,16 @@ Volunteering means you work for free, because you’re **motivated** by other th
   (ex. as Robotics engineer streaming lessons on twitch & youtube)
 
 ## How
-Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](company/Culture%20and%20values%20🫀/Adapt%20to%20change%20🏕️.md)
+Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](company/🫀%20Culture%20and%20values/Adapt%20to%20change%20🏕️.md)
 
-As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](company/Culture%20and%20values%20🫀/Humbly%20kind%20🧸.md) 
+As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](company/🫀%20Culture%20and%20values/Humbly%20kind%20🧸.md) 
 
 ## What to do
 
 You can contribute by following these steps:
 
 1. [**Join our discord**](https://discord.gg/PcbP4uedWj)
-2. Read about [☑️ Features and tasks](company/☑️%20Features%20and%20tasks.md)
+2. Read about [☑️ Features and tasks](products/☑️%20Features%20and%20tasks.md)
 3. Pick a feature if you want to work on a large, full-stack part of the product. In large companies features are maintained by product managers
 4. Alternatively, pick a task from task list 🐙 https://github.com/orgs/Gratheon/projects/5 if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
 5. Ask for more information in discord to get attention and document more information for the feature
@@ -34,7 +34,7 @@ You can contribute by following these steps:
 
 ### Contributions
 
-Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](company/Culture%20and%20values%20🫀/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
+Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](company/🫀%20Culture%20and%20values/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
 
 _Asking_ for information is not a contribution
 

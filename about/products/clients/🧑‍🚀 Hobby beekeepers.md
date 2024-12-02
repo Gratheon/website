@@ -1,7 +1,9 @@
-House owner (B2C, not a legal entity)
+Owns a house outside of the city
+- has less than 10 beehives
+- 
 - upper middle class
 - 40+ years old
-- Typically has less than 15 beehives
+- 
 
 Motivations:
 - love for the bees as a pet

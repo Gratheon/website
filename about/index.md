@@ -21,7 +21,7 @@ Gratheon develops open source, modular, [🧿 Robotic Beehive](products/🧿%20R
 - 🌍 Web-app live - [100+ registered users](https://www.notion.so/KPIs-and-Business-metrics-a0707c4260194f36b7f86dfd28964edf?pvs=21)
 - 📱 Android app live 10+ installs
 - 🤲🏻 1 paying customer (obviously [Artjom Kurapov](company/Team/Artjom%20Kurapov.md))
-- 🫀 12+ [volunteering contributors](Volunteers%20❤️‍🔥.md)
+- 🫀 12+ [volunteering contributors](❤️‍🔥%20Volunteers.md)
 - 🚀 Bootstrapping, pre-seed phase
 - 🪽 looking for angel investments for IoT field testing
 
