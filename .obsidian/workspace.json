@@ -11,14 +11,10 @@
             "id": "511a04068c2dc042",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vidrik sync.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vidrik sync"
+              "title": "New tab"
             }
           }
         ]
@@ -165,7 +161,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "511a04068c2dc042",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "Vidrik sync.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
