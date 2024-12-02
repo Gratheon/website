@@ -10,7 +10,7 @@
 	- Automation Day in Tampere
 	- NDPI
 	- Мартин Сарканс
-	- 
+	- PSA
 - докторской
 	- Alar Kaasik
 - пчеловоды
