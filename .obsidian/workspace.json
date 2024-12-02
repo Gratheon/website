@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/🌻 Purpose/🌻 Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🌻 Purpose"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "about/index.md",
     "about/company/index.md",
     "about/company/Market analysis.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/🌻 Purpose/Company mission.md",
-    "about/index.md",
     "about/company/🖥️ Services and tools that we use.md",
     "about/🌻 Purpose/Naming.md",
     "about/🌻 Purpose/Ethics.md",
