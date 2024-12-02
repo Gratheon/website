@@ -46,7 +46,8 @@ We see that on average per colony, we have ~23kg per year
 ![](img/Screenshot%202024-12-02%20at%2019.32.44.png)
 (source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
 
-<object data={require('./pdfs/fcomp-03-769338.pdf').default} type="application/pdf" width="100%" height="800"></object>
+<object data={require('./img/uuring-2016-mesindussektor-2015.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
 ![Eesti mesindussektori struktuur](img/uuring-2016-mesindussektor-2015.pdf)
 
 
@@ -57,10 +58,15 @@ We see that on average per colony, we have ~23kg per year
 - 94 Million hives in 2020 - statista
 - 101 M colonies in 2021 - FAO ([source](https://www.notion.so/Marketing-Statistics-06c02962e8294bb98756a75155ce7a6b?pvs=21))
 
+### Number of bees
 ![](img/Pasted%20image%2020241202185912.png)
 ![](img/Pasted%20image%2020241202185925.png)
 [https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en](https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en)
 
+### Amount of beekeepers in EU countries
+![](img/Screenshot%202024-12-02%20at%2019.39.51.png)
+(source - https://www.europarl.europa.eu/RegData/etudes/ATAG/2017/608786/EPRS_ATA%282017%29608786_EN.pdf )
+### Amount of beehives in EU countries
 
 ![](img/Pasted%20image%2020241202185703.png)
 [https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/edn-20230519-1](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/edn-20230519-1)
@@ -72,6 +78,7 @@ Source - [https://agriculture.ec.europa.eu/system/files/2022-04/market-presentat
 
 ![](img/Pasted%20image%2020241202185743.png)
 
+<object data={require('./img/market-presentation-honey_autumn2024_en.pdf').default} type="application/pdf" width="100%" height="800"></object>
 ![](img/market-presentation-honey_autumn2024_en.pdf)
 
 ## Worldwide honey exports & imports
