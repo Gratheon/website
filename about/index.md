@@ -6,12 +6,12 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon saves 🐝 bees of semi-professional beekeepers using new type of beehive., so that they could efficiently track and inspect bees.
+Gratheon develops open source, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
 
 [📑 deck.pdf](deck.pdf)
 💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
 
-## Some numbers
+## Numbers and Metrics
 
 - 🐣 Founded legally in 2012 (for web-development)
 - 💡 [Idea formulated in 2020](https://www.youtube.com/watch?v=gM3AJEAhmXc)
