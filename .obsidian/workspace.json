@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/Market analysis.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market analysis"
+              "title": "index"
             }
           }
         ]
@@ -167,9 +167,15 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "about/company/index.md",
+    "about/company/🖥️ Services and tools that we use.md",
+    "about/🌻 Purpose/Naming.md",
+    "about/🌻 Purpose/Ethics.md",
+    "about/🌻 Purpose/Company mission.md",
+    "about/index.md",
+    "about/company/Market analysis.md",
     "about/company/img/Screenshot 2024-12-02 at 19.39.51.png",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "about/company/Market analysis.md",
     "about/company/img/market-presentation-honey_autumn2024_en.pdf",
     "about/company/img/uuring-2016-mesindussektor-2015.pdf",
     "about/company/img/Screenshot 2024-12-02 at 19.32.44.png",
@@ -181,7 +187,6 @@
     "about/company/img/Screenshot 2024-12-02 at 19.09.02.png",
     "about/company/img/Screenshot 2024-12-02 at 19.05.27.png",
     "about/company/img/Pasted image 20241202185949.png",
-    "about/company/img/Pasted image 20241202185925.png",
     "about/company/img",
     "Vidrik sync.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
@@ -204,11 +209,6 @@
     "img",
     "about/🌨️ Problems/🗃️ Storm wind collapsing beehives.md",
     "about/🌨️ Problems/💢 Hornet attacks.md",
-    "about/🌨️ Problems/🗃️ Poor hive ventilation.md",
-    "about/🌨️ Problems/❄️ Overwintering collapse.md",
-    "about/🌻 Purpose/Company mission.md",
-    "about/company/equity.md",
-    "about/company/Merchandise.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "about/🌻 Purpose/img/gratheon-theme.mp3",

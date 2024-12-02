@@ -6,11 +6,12 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon is a startup company (see  [📑 deck.pdf](deck.pdf) )
-We help beekeepers to keep 🐝 colonies healthy using data analytics platform.
-IoT devices, AI vision and robots 🤖 automate data collection.
+Gratheon saves 🐝 bees from dying over the winter of semi-professional beekeepers by providing observability and data analytics.
 
-💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
+We develop and provide software as a service web-app along with optional IoT devices, AI vision and robots 🤖 that automate data collection.
+
+- [📑 deck.pdf](deck.pdf)
+- 💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
 
 ## Some numbers
 
