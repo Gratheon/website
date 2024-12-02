@@ -13,10 +13,6 @@ We help 🧑🏻‍🚀 beekeepers with 🐝 AI observability and 🤖 robotic
 We provide [products](../products/index.md) so that beekeepers become more **efficient** and their colonies stay **healthy**.
 
 We help 🧑🏻‍🚀 beekeepers to model and organize their apiary 🐝 using our web-app. We develop and integrate IoT devices with camera and AI vision to report vital colony metrics and alert beekeepers in case of danger. Our long-term vision is a [**Robotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21)
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/gM3AJEAhmXc" title="Call to action for automated beekeeping with Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## For investors 💶
 Gratheon is a data analytics app and hardware devices that help beekeepers do less manual labour and keeps bees healthy
 

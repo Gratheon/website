@@ -1,14 +1,12 @@
 ---
-title: "Overview"
+title: Overview
 sidebar_position: 0
 ---
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
 ![](img/about.webp)
 </div></div>
 
-Gratheon saves 🐝 bees of semi-professional beekeepers by providing observability and data analytics, so that they could efficiently track and inspect bees.
-
-IoT devices, AI vision and robots 🤖 are on the rise at a time when we need efficient pollination of crops for food security as by 2050 we can expect a 10 billion population
+Gratheon saves 🐝 bees of semi-professional beekeepers using new type of beehive., so that they could efficiently track and inspect bees.
 
 [📑 deck.pdf](deck.pdf)
 💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
