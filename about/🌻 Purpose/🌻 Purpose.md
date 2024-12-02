@@ -23,11 +23,13 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 ![](img/artjom-exhausted.png)
 
 ### Elevator pitch
-
+honey. beekeeping is hard.
 📢 5 years ago I became a beekeeper to improve pollination of my garden and get more apples. To me, bees are also a cute pet like a cat
 
-Soon enough I understood that bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md), [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md)  or [🍽️ Bee colony starvation](../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md) and I need to inspect bees on a weekly basis, otherwise I would lose 300 euros for a single colony. I had to lift 20 kg beehive sections and notice small details while you are getting stung by defending bees and accidentally squishing bees. This is not scalable if I would have tens or hundreds of beehives.
+Soon enough I understood that bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md) and [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md) and I need to inspect bees on a weekly basis, otherwise they die over the winter and I would lose 300 euros for a single colony.
 
-💡 Our solution is a SaaS [📱Web-app](../products/📱Web-app/📱Web-app.md), IoT devices, AI vision and a robotic beehive that helps [👨🏻‍🚀 Semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) and empower them selling their services to farmers. We are talking to researchers to 
+I had to lift 20 kg beehive sections and notice small details while you are getting stung by defending bees and accidentally squishing bees. This is not scalable if I would have tens or hundreds of beehives.
+
+💡 Our solution is a SaaS [📱Web-app](../products/📱Web-app/📱Web-app.md), IoT devices, AI vision camera and a robotic beehive that helps [👨🏻‍🚀 Semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) and empower them selling their services to farmers. We are talking to researchers to 
 
 We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising 30k angel or 1M pre-seed investments.
