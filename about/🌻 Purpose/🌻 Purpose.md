@@ -7,7 +7,9 @@ title: 🌻 Purpose
 ![](img/pexels-nicky-18365421.jpg)
 </div></div>
 
-# What we do
+# Breaking down what we do
+
+Gratheon develops open source, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
 
 We help 🧑🏻‍🚀 beekeepers with 🐝 AI observability and 🤖 robotic automation. 
 We provide [products](../products/index.md) so that beekeepers become more **efficient** and their colonies stay **healthy**.
