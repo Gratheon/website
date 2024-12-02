@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b78e1c4fd6a77a24",
+        "id": "f6028d3c8eba08e0",
         "type": "tabs",
         "children": [
           {
-            "id": "3df269d731370acc",
+            "id": "16f3f48d78836200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-11-30 Gratheon joins NVIDIA Inception Program"
+              "title": "New tab"
             }
           }
         ]
@@ -161,16 +157,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3df269d731370acc",
+  "active": "16f3f48d78836200",
   "lastOpenFiles": [
+    "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/img/Screenshot 2024-12-01 at 22.51.52.png",
     "blog/img/nvidia-inception-program-badge-rgb-for-screen.png",
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
-    "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "justfile",
     "blog/img/1732994146453.jpg",
     "blog/img/20241130_174232.jpg",
@@ -189,7 +184,6 @@
     "blog/img/Screenshot 2024-11-30 at 11.27.14.png",
     "docs/📱 Web-app/📱 Web-app.md",
     "blog/img/andmetorm.pdf",
-    "blog/img/Screenshot 2024-11-30 at 03.50.42.png",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "about/Volunteers ❤️‍🔥.md",
     "Roop Runjan Khan.md",
