@@ -23,12 +23,12 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 ![](img/artjom-exhausted.png)
 
 ### Elevator pitch
-📢 Do you love honey? 5 years ago I became a beekeeper to improve pollination of my garden and get more apples
+📢 Do you love honey? 5 years ago I became a beekeeper to improve pollination of my garden and get more apples.
 
 Soon enough I understood that bees can [🧶 Swarm](../🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](../🌨️%20Problems/🦀%20Infestations.md). 
 Beekeeper needs to lift heavy beehives every week to inspect and treat bees, otherwise bees get weak and die over the winter. 
 
-Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time. This allows to save time, travel time and scale precise pollination, giving 40% more crop yields to farmers.
+Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time automatically. This allows to save time, travel to the field and scale precise pollination, giving 40% more crop yields to farmers.
 
 We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising either 30k angel to keep bootstrapping or 1M pre-seed investments for 2 years of runway. 
-Join us to help 2 million of beekeepers.
+Join us to help 2 million beekeepers.
