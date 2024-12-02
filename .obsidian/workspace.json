@@ -11,10 +11,14 @@
             "id": "511a04068c2dc042",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/company/Market analysis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Market analysis"
             }
           }
         ]
@@ -161,9 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "about/company/img/435594174_374693525573274_5528567103060715528_n.webp",
+    "about/company/img/Pasted image 20241202184428.png",
+    "about/company/img",
     "Vidrik sync.md",
+    "about/company/Market analysis.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/img/Screenshot 2024-12-01 at 22.51.52.png",
     "blog/img/nvidia-inception-program-badge-rgb-for-screen.png",
@@ -183,7 +191,6 @@
     "about/products/clients/👩🏼‍🏫 Urban beekeepers.md",
     "about/products/clients/👨🏻 Potential new beekeepers.md",
     "blog/img/Screenshot 2024-11-30 at 14.15.00.png",
-    "blog/img/Screenshot 2024-11-30 at 11.27.14.png",
     "docs/📱 Web-app/📱 Web-app.md",
     "blog/img/andmetorm.pdf",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
@@ -200,14 +207,11 @@
     "about/🌻 Purpose/Company mission.md",
     "about/company/equity.md",
     "about/company/Merchandise.md",
-    "about/company/index.md",
-    "about/🌻 Purpose/🌻 Purpose.md",
     "about/deck.pdf",
     "src/img/deck.pdf",
     "about/🌻 Purpose/img/gratheon-theme.mp3",
     "blog/img/Practical Strategy - Kaarna 2024.pdf",
     "src/about/company/values",
-    "src/about/Engineering",
-    "src/img"
+    "src/about/Engineering"
   ]
 }
