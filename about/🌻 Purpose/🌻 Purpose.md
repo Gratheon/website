@@ -27,6 +27,6 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 
 Soon enough I understood that bees can [🧶 Swarm](../🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](../🌨️%20Problems/🦀%20Infestations.md) and I need to inspect and lift heavy beehives every week, otherwise they could die over the winter. 
 
-I decided to build a new type of beehive that senses bees and delivers information to [👨🏻‍🚀 Semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md). 
+Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 Semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time. This allows to save time, travel time and scale precise pollination, giving 40% more crop yields to farmers.
 
 We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising 30k angel or 1M pre-seed investments. Join us to help 
