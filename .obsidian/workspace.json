@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vidrik.md",
+                "file": "Vidrik sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vidrik"
+              "title": "Vidrik sync"
             }
           }
         ]
@@ -167,7 +167,7 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
-    "Vidrik.md",
+    "Vidrik sync.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/img/Screenshot 2024-12-01 at 22.51.52.png",
     "blog/img/nvidia-inception-program-badge-rgb-for-screen.png",
