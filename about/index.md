@@ -6,7 +6,7 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon saves 🐝 bees from dying over the winter of semi-professional beekeepers by providing observability and data analytics.
+Gratheon saves 🐝 bees of semi-professional beekeepers by providing observability and data analytics, so that they could remotely track and inspect bees.
 
 We develop and provide software as a service web-app along with optional IoT devices, AI vision and robots 🤖 that automate data collection.
 
