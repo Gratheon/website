@@ -23,8 +23,7 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 ![](img/artjom-exhausted.png)
 
 ### Elevator pitch
-honey. beekeeping is hard.
-📢 5 years ago I became a beekeeper to improve pollination of my garden and get more apples. To me, bees are also a cute pet like a cat
+📢 Do you love honey? 5 years ago I became a beekeeper to improve pollination of my garden and get more apples. To me, bees are also a cute pet like a cat
 
 Soon enough I understood that bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md) and [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md) and I need to inspect bees on a weekly basis, otherwise they die over the winter and I would lose 300 euros for a single colony.
 
