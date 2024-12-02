@@ -1,14 +1,10 @@
 Owns a house outside of the city
 - has less than 10 beehives
-- 
-- upper middle class
-- 40+ years old
-- 
+- struggles with equipment, managing bee swarms
+- lack sufficient knowledge about bees
+- minor honey production for the family
+- has a garage or own workshop where he stores the equipment
 
 Motivations:
 - love for the bees as a pet
-- minor honey production
-- gardening
-- possibly learning tech
 - Follows DYI approach
-- possibly garage or own workshop

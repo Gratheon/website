@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/clients/🧑‍🚀 Hobby beekeepers.md",
+                "file": "blog/2024-12-02 Participated in Startup Pitch Practice webinar by Founder Institute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧑‍🚀 Hobby beekeepers"
+              "title": "2024-12-02 Participated in Startup Pitch Practice webinar by Founder Institute"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "511a04068c2dc042",
   "lastOpenFiles": [
+    "about/🌨️ Problems/🎒 Challenging to become a new beekeeper.md",
+    "blog/2024-12-02 Participated in Startup Pitch Practice webinar by Founder Institute.md",
+    "about/products/clients/👨🏻 Potential new beekeepers.md",
+    "about/products/clients/🧑🏻‍🌾 Farmers.md",
+    "about/products/clients/🧑‍🚀 Hobby beekeepers.md",
     "about/company/📊 Market analysis.md",
     "about/company/Why open source.md",
     "about/company/Team/Merchandise.md",
@@ -202,10 +207,6 @@
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "justfile",
-    "about/products/clients/🧑‍🚀 Hobby beekeepers.md",
-    "about/products/clients/🧑🏻‍🌾 Farmers.md",
-    "about/products/clients/👩🏻 Tech scale-up companies.md",
-    "about/products/clients/👨🏻‍🚒 Industrial beekeepers.md",
     "blog/img/andmetorm.pdf",
     "img",
     "about/deck.pdf",

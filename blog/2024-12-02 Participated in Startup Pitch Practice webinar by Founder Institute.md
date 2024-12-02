@@ -1,0 +1,1 @@
+We took part in [Founder Institute](https://fi.co/) online 1 min pitch practicing and getting feedback from the mentors. [Regine Harr]
