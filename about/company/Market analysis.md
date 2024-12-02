@@ -1,5 +1,4 @@
-### Size of market
-### Estonia
+## Estonia
 
 As we are Estonia-based, may be useful to track this data too to be able to extrapolate it on the world
 
@@ -10,7 +9,7 @@ As we are Estonia-based, may be useful to track this data too to be able to extr
 - thus 0.4 % of population, or ~ every 250th person is a beekeeper
 - So almost any grown-up has someone related to beekeeping.
 
-### Amount of bee colonies
+### Amount of bee colonies over the years
 ![](img/Screenshot%202024-12-02%20at%2019.27.07.png)
 ( source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
 ### Amount of beekeepers over the years
@@ -38,6 +37,20 @@ Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesi
 ### Geographic distribution 
 ![](img/Pasted%20image%2020241202184428.png)
 
+### Honey production and cost
+We see that on average per colony, we have ~23kg per year
+![](img/Screenshot%202024-12-02%20at%2019.29.31.png)
+( source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
+
+
+![](img/Screenshot%202024-12-02%20at%2019.32.44.png)
+(source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
+
+<object data={require('./pdfs/fcomp-03-769338.pdf').default} type="application/pdf" width="100%" height="800"></object>
+![Eesti mesindussektori struktuur](img/uuring-2016-mesindussektor-2015.pdf)
+
+
+
 
 ## Europe and the world markets
 - The total number of beekeepers in Europe was estimated at 620 000 ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827320/))
@@ -59,6 +72,7 @@ Source - [https://agriculture.ec.europa.eu/system/files/2022-04/market-presentat
 
 ![](img/Pasted%20image%2020241202185743.png)
 
+![](img/market-presentation-honey_autumn2024_en.pdf)
 
 ## Worldwide honey exports & imports
 
@@ -82,3 +96,6 @@ Colony loss. BeeInformed [https://beeinformed.org/2022/07/27/united-states-honey
 ### Bee races
 Which races are owned by beekeepers in Estonia
 ![](img/Screenshot%202024-12-02%20at%2019.13.10.png)Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf
+
+
+
