@@ -24,36 +24,10 @@ Gratheon is a data analytics app and hardware devices that help beekeepers do le
 
 ### Elevator pitch
 
-📢 When I worked at Pipedrive as  and 5 years ago I became a beekeeper to improve pollination of my garden and get higher yields. To me, bees are also a cute pet
+📢 5 years ago I worked at Pipedrive as a software engineer, I became a beekeeper to improve pollination of my garden and get more apples. To me, bees are also a cute pet like a cat
 
+Soon enough I understood that bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md), [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md)  or [🍽️ Bee colony starvation](../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md) and I need to inspect bees on a weekly basis, otherwise I would lose 300 euros for a single colony. I had to lift 20 kg beehive sections and notice small details while you are getting stung by defending bees and accidentally squishing bees. This is not scalable if I would have tens or hundreds of beehives.
 
-> Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [Insufficient pollination](https://www.notion.so/Insufficient-pollination-93d31ab6309443f9bbe0a50f4b560188?pvs=21) and increase yields
+💡 Our solution is a SaaS [📱Web-app](../products/📱Web-app/📱Web-app.md), IoT devices, AI vision and a robots that should help [👨🏻‍🚀 Semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) and empower them selling their services to farmers. Saving bees improves pollination efficiency, farmers get more crops, beekeepers get more money, which funds us.
 
-But traditional beekeeping requires [👁️ Observability of bee colony](../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md), because bees can experience [🧶 Swarming](../🌨️%20Problems/🧶%20Swarming.md), [🦀 Infestations](../🌨️%20Problems/🦀%20Infestations.md)  or [🍽️ Bee colony starvation](../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md)
-
-Observability is typically solved with a [💪🏻 Physical labor](../🌨️%20Problems/💪🏻%20Physical%20labor.md)  and [👁️ Time-consuming inspections](../🌨️%20Problems/👁️%20Time-consuming%20inspections.md). Dressed in a protective suit, in the summer heat, every week, you need to lift 20 kg beehive sections designed 150 years ago and notice small details while you are getting stung by defending bees, [💀 Intrusive inspections](../🌨️%20Problems/💀%20Intrusive%20inspections.md)
-
-As your apiary grows, this becomes [💪🏻 Unscalable work](../🌨️%20Problems/💪🏻%20Unscalable%20work.md). [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) have [🏘️ Multiple apiaries](../🌨️%20Problems/🏘️%20Multiple%20apiaries.md)  at [🌲 Distant locations](../🌨️%20Problems/🌲%20Distant%20locations.md) that are hard to reach. Existing solutions do not adequately solve these issues
-  
-## Solution
-
-💡 Our solution is a beekeeping [📱Web-app](../products/📱Web-app/📱Web-app.md) software as a service working in conjunction with fully autonomous multi-hive [🧿 Robotic Beehive](../products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)  that can remotely inspect and manipulate beehives.
-
-Our primary customers at first phases of platform development are [🧑‍🚀 Hobby beekeepers](../products/clients/🧑‍🚀%20Hobby%20beekeepers.md) and [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) that need data analytics with [🌡️ Beehive IoT sensors](../products/🌡️%20Beehive%20IoT%20sensors/🌡️%20Beehive%20IoT%20sensors.md) and [👁️‍🗨️ Entrance Observer](../products/👁️‍🗨️%20Entrance%20Observer/👁️‍🗨️%20Entrance%20Observer.md) to partially solve  observability of beehives and have decide on [🧑‍🚀 actions beekeepers need to make](../products/🧑‍🚀%20Actions%20beekeepers%20make.md) further
-
-Our secondary customers once we have [🧿 Robotic Beehive](../products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) prototype, would be [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) and [🧑🏻‍🌾 Farmers](../products/clients/🧑🏻‍🌾%20Farmers.md), they have pain in managing large volumes of beehives to automate their work with robots. They need large data analysis and automation to reduce manual labour. 
-
-Saving bees improves pollination efficiency, farmers get more crops, beekeepers get more money, which funds us.
-
-Join us to improve life of 100 million bee colonies worldwide.
-
-
-### Dealum.com investors example
-- Problem: Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
-- Solution: A beekeeping web-app working in conjunction with fully autonomous multi-hive robotic apiary that can remotely inspect and manipulate beehives
-- Market: Beekeepers (~2M), Industrial beekeepers, farmers
-
-
-## For Hiring new engineers
-
-Gratheon is a technology company based in Tallinn, Estonia that focuses on helping beekeepers organise and automate their apiaries. We develop web application that integrates with IoT devices to provide real-time metrics for beekeeping operations. Our use of machine learning allows us to identify and alert beekeepers of potential dangers. As part of our long-term vision, we aim to automate this process with robots. Our code is open source and processes are transparent.
+We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising angel or pre-seed investments.
