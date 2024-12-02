@@ -6,9 +6,11 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon saves 🐝 bees of semi-professional beekeepers by providing observability and data analytics, so that they could remotely track and inspect bees.
+Gratheon saves 🐝 bees of semi-professional beekeepers by providing observability and data analytics, so that they could efficiently track and inspect bees.
 
-We develop and provide software as a service web-app along with optional IoT devices, AI vision and robots 🤖 that automate data collection.
+IoT devices, AI vision and robots 🤖 are on the rise at a time when we need efficient pollination of crops for food security as by 2050 we can expect a 10 billion population
+
+
 
 - [📑 deck.pdf](deck.pdf)
 - 💁🏻 B2B2B + B2B, SaaS / Deeptech / Agrotech / Robotics
