@@ -167,9 +167,10 @@
   },
   "active": "d102d614e7b8ed3f",
   "lastOpenFiles": [
+    "static/deck.pdf",
+    "about/index.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "about/deck.pdf",
-    "static/deck.pdf",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -210,7 +211,6 @@
     "about/company/Team/index.md",
     "about/company/Team/Artjom Kurapov.md",
     "about/❤️‍🔥 Volunteers.md",
-    "about/🌻 Purpose/Company mission.md",
-    "about/🌻 Purpose/🌻 Purpose.md"
+    "about/🌻 Purpose/Company mission.md"
   ]
 }
