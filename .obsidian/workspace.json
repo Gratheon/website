@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-12-03 🎒 Attended.md",
+                "file": "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-03 🎒 Attended"
+              "title": "2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children"
             }
           }
         ]
@@ -167,8 +167,19 @@
   },
   "active": "d102d614e7b8ed3f",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2024-12-03 at 14.16.38.png",
+    "blog/img/Screenshot 2024-12-03 at 14.15.48.png",
+    "blog/img/Screenshot 2024-12-03 at 14.15.14.png",
+    "blog/img/Screenshot 2024-12-03 at 14.15.02.png",
+    "blog/img/Screenshot 2024-12-03 at 14.14.51.png",
+    "blog/img/Screenshot 2024-12-03 at 14.14.23.png",
+    "blog/img/Screenshot 2024-12-03 at 14.13.59.png",
+    "blog/img/Screenshot 2024-12-03 at 14.13.49.png",
+    "blog/img/Screenshot 2024-12-03 at 14.13.43.png",
+    "blog/img/Screenshot 2024-12-03 at 14.13.38.png",
+    "blog/img/Screenshot 2024-12-03 at 13.53.32.png",
     "about/products/☑️ Features and tasks.md",
-    "blog/2024-12-03 🎒 Attended.md",
+    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -179,16 +190,6 @@
     "build/index.html",
     "build/research/Reception and learning of electric fields in bees/index.html",
     "build/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network/index.html",
-    "build/img/varroa.webp",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/temp.webp",
-    "build/img/tallinn.png",
-    "build/img/sensors.webp",
-    "build/img/robot.jpeg",
-    "build/img/queens.webp",
-    "build/img/playback.webp",
     "docs/Docs.md",
     "about/company/🤲 Why open source.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
@@ -211,7 +212,6 @@
     "about/❤️‍🔥 Volunteers.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
-    "about/index.md",
-    "about/products/🧑‍🚀 Actions beekeepers make.md"
+    "about/index.md"
   ]
 }
