@@ -1,4 +1,11 @@
+Led by Reet Allik and Lauri Vilibert, this webinar explains how robotics is being taught in local Estonian schools from the first grades and higher.
+https://www.facebook.com/events/1226346678472001
 
+In short, schools use Lego Spike Prime. More advanced [VEX](https://www.vexrobotics.com/) modules were recommended too.
+
+![](img/Screenshot%202024-12-03%20at%2014.12.29.png)
+
+<!--truncate-->
 
 ![](img/462923167_867975252122464_1367117548670066460_n.jpg)
 ![](img/Screenshot%202024-12-03%20at%2013.32.11.png)
@@ -13,7 +20,7 @@
 
 
 
-![](img/Screenshot%202024-12-03%20at%2014.12.29.png)
+
 
 ![](img/Screenshot%202024-12-03%20at%2014.12.50.png)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children.md",
+                "file": "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children"
+              "title": "2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools"
             }
           }
         ]
@@ -161,8 +161,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d102d614e7b8ed3f",
@@ -179,7 +178,7 @@
     "blog/img/Screenshot 2024-12-03 at 14.13.38.png",
     "blog/img/Screenshot 2024-12-03 at 13.53.32.png",
     "about/products/☑️ Features and tasks.md",
-    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for children.md",
+    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
