@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a387fe382b1b1574",
+        "id": "9830d4c8015960f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d102d614e7b8ed3f",
+            "id": "0a8944cf698e4fcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/deck.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "deck"
             }
           }
         ]
@@ -165,8 +163,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d102d614e7b8ed3f",
+  "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "static/deck.pdf",
     "static/deck.pdf",
     "about/index.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
@@ -178,7 +177,6 @@
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
     "build/sitemap.xml",
-    "build/index.html",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",

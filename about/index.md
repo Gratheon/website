@@ -8,7 +8,7 @@ sidebar_position: 0
 
 Gratheon develops open source, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
 
-- [📑 deck](/deck.pdf)
+- [📑 deck.pdf](../static/deck.pdf) or [google docs](https://docs.google.com/presentation/d/e/2PACX-1vRAO6JHPczQ2u8Z8ph3g7oa2UPk_0gzV-BpPC30R0AFjAL-1Bqqhrum59NEHlI7lCSbyurKZiu8-JuO/pub?start=false&loop=false&delayms=3000)
 - 💁🏻 B2B (beekeepers) + B2B2B (beekeepers reselling services to farmers)
 - SaaS / Deeptech / Agrotech / Robotics
 
