@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/☑️ Features and tasks.md",
+                "file": "blog/2024-12-03 🎒 Attended.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "☑️ Features and tasks"
+              "title": "2024-12-03 🎒 Attended"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "d102d614e7b8ed3f",
   "lastOpenFiles": [
+    "about/products/☑️ Features and tasks.md",
+    "blog/2024-12-03 🎒 Attended.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -177,7 +179,6 @@
     "build/index.html",
     "build/research/Reception and learning of electric fields in bees/index.html",
     "build/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network/index.html",
-    "build/research/The prediction of swarming in honeybee colonies using vibrational spectra/index.html",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -189,7 +190,6 @@
     "build/img/queens.webp",
     "build/img/playback.webp",
     "docs/Docs.md",
-    "about/products/☑️ Features and tasks.md",
     "about/company/🤲 Why open source.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
