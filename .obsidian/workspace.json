@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools"
+              "title": "index"
             }
           }
         ]
@@ -161,11 +161,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d102d614e7b8ed3f",
   "lastOpenFiles": [
+    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
+    "about/deck.pdf",
+    "static/deck.pdf",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -174,9 +178,6 @@
     "build/blog/atom.xsl",
     "build/sitemap.xml",
     "build/index.html",
-    "build/research/Competition/🇺🇸 Best Bees/index.html",
-    "build/research/Competition/🇮🇱 Beewise/index.html",
-    "build/research/Competition/🇪🇺 RoboRoyale/index.html",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -188,7 +189,6 @@
     "build/img/robot.jpeg",
     "build/img/playback.webp",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "about/products/☑️ Features and tasks.md",
     "docs/Docs.md",
     "about/company/🤲 Why open source.md",
