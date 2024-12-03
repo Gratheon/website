@@ -1,3 +1,8 @@
+---
+image: "{require('./img/Screenshot%202024-12-03%20at%2014.12.29.png').default}"
+---
+
+
 Led by Reet Allik and Lauri Vilibert, this webinar explains how robotics is being taught in local Estonian schools from the first grades and higher.
 https://www.facebook.com/events/1226346678472001
 

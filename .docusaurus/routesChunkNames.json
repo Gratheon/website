@@ -1,11 +1,14 @@
 {
-  "/blog-328": {
+  "/blog-37b": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "32af1b4b"
+      },
       {
         "content": "c9a8ecd6"
       },
@@ -62,9 +65,6 @@
       },
       {
         "content": "979803ea"
-      },
-      {
-        "content": "00815042"
       }
     ],
     "__props": "c15d9823"
@@ -377,6 +377,17 @@
     "sidebar": "814f3328",
     "content": "0d3879fc"
   },
+  "/blog/2024/12/03/ 🎒 Attended \"Robotics is easy\" local webinar for schools-283": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "a804c1f2"
+  },
   "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
@@ -384,13 +395,16 @@
     },
     "__props": "f81c1134"
   },
-  "/blog/page/2-675": {
+  "/blog/page/2-021": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "00815042"
+      },
       {
         "content": "f4d87a25"
       },

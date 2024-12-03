@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '328'),
+    component: ComponentCreator('/blog', '37b'),
     exact: true
   },
   {
@@ -148,13 +148,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/12/03/ 🎒 Attended "Robotics is easy" local webinar for schools',
+    component: ComponentCreator('/blog/2024/12/03/ 🎒 Attended "Robotics is easy" local webinar for schools', '283'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '675'),
+    component: ComponentCreator('/blog/page/2', '021'),
     exact: true
   },
   {
