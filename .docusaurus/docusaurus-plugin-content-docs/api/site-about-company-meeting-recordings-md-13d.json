@@ -1,6 +1,6 @@
 {
   "id": "company/Meeting recordings",
-  "title": "Meeting recordings 🎥",
+  "title": "🎥 Meeting recordings",
   "description": "Following Radiate truth 🌞 values, we are transparent in internal communications, which is important in modern asynchroneous world. Thats why we record important meetings.",
   "source": "@site/about/company/Meeting recordings.md",
   "sourceDirName": "company",
@@ -11,15 +11,15 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Meeting recordings 🎥"
+    "title": "🎥 Meeting recordings"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "☑️ Features and tasks",
-    "permalink": "/about/company/☑️ Features and tasks"
+    "title": "UX designer 🔲",
+    "permalink": "/about/company/Team/Roles/UX designer 🔲"
   },
   "next": {
-    "title": "Merchandise",
-    "permalink": "/about/company/Merchandise"
+    "title": "🦚 Equity & fundraising plan",
+    "permalink": "/about/company/equity"
   }
 }

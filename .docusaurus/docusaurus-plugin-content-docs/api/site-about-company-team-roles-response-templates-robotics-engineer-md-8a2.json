@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Response templates/Robotics engineer",
+  "title": "Robotics engineer",
+  "description": "In estonia",
+  "source": "@site/about/company/Team/Roles/Response templates/Robotics engineer.md",
+  "sourceDirName": "company/Team/Roles/Response templates",
+  "slug": "/company/Team/Roles/Response templates/Robotics engineer",
+  "permalink": "/about/company/Team/Roles/Response templates/Robotics engineer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ML engineer role",
+    "permalink": "/about/company/Team/Roles/Response templates/ML engineer role"
+  },
+  "next": {
+    "title": "UX designer",
+    "permalink": "/about/company/Team/Roles/Response templates/UX designer"
+  }
+}

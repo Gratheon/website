@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Fullstack engineer 📱",
+  "title": "Fullstack engineer 📱",
+  "description": "Role Description",
+  "source": "@site/about/company/Team/Roles/Fullstack engineer 📱.md",
+  "sourceDirName": "company/Team/Roles",
+  "slug": "/company/Team/Roles/Fullstack engineer 📱",
+  "permalink": "/about/company/Team/Roles/Fullstack engineer 📱",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beekeeper & Community manager 🐝",
+    "permalink": "/about/company/Team/Roles/Beekeeper & Community manager 🐝"
+  },
+  "next": {
+    "title": "Fullstack engineer",
+    "permalink": "/about/company/Team/Roles/Fullstack engineer"
+  }
+}

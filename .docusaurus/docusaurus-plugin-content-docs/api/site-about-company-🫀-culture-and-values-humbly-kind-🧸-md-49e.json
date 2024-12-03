@@ -1,0 +1,26 @@
+{
+  "id": "company/🫀 Culture and values/Humbly kind 🧸",
+  "title": "Humbly kind 🧸",
+  "description": "Be empathetic, support, teach. Everyone makes mistakes. Accepting flaws with kindness leads to unity and trust.",
+  "source": "@site/about/company/🫀 Culture and values/Humbly kind 🧸.md",
+  "sourceDirName": "company/🫀 Culture and values",
+  "slug": "/company/🫀 Culture and values/Humbly kind 🧸",
+  "permalink": "/about/company/🫀 Culture and values/Humbly kind 🧸",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Team effort 🐝",
+    "permalink": "/about/company/🫀 Culture and values/Team effort 🐝"
+  },
+  "next": {
+    "title": "Ethical heart 🌳",
+    "permalink": "/about/company/🫀 Culture and values/Ethical heart 🌳"
+  }
+}

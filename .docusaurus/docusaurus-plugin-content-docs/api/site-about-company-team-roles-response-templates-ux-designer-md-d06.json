@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Response templates/UX designer",
+  "title": "UX designer",
+  "description": "In russian",
+  "source": "@site/about/company/Team/Roles/Response templates/UX designer.md",
+  "sourceDirName": "company/Team/Roles/Response templates",
+  "slug": "/company/Team/Roles/Response templates/UX designer",
+  "permalink": "/about/company/Team/Roles/Response templates/UX designer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robotics engineer",
+    "permalink": "/about/company/Team/Roles/Response templates/Robotics engineer"
+  },
+  "next": {
+    "title": "Beekeeper & Community manager 🐝",
+    "permalink": "/about/company/Team/Roles/Beekeeper & Community manager 🐝"
+  }
+}

@@ -13,9 +13,8 @@ Feature is a large function that customer find valuable in a product.
 We describe features on this website under every product.
 Features offer a solution to one of the  [🌨️ Problems](🌨️%20Problems/🌨️%20Problems.md).
 Features is something we can promote on front page or record a video about.
-Features are usually tracked by [Product manager 🦉](Team/Roles/Product%20manager%20🦉.md) role
 A feature requires product thinking and multiple expertises - UX, Frontend, Backend, DB, ML. 
-Its a [Team effort 🐝](🫀%20Culture%20and%20values/Team%20effort%20🐝.md)
+
 ### Feature lifecycle
 We separate ideas and features _by product_ and _by billing tier_ to have better separation of which repository and device it its tied to the most. Separation by tier is tied to the complexity of the task and how much does it cost to maintain _infrastructure_.
 ## Tasks

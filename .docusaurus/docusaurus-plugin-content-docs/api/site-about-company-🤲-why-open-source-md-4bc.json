@@ -1,0 +1,23 @@
+{
+  "id": "company/🤲 Why open source",
+  "title": "🤲 Why open source",
+  "description": "Many investors and mentors are surprised to see us open source. This page clarifies reasoning behind such decision.",
+  "source": "@site/about/company/🤲 Why open source.md",
+  "sourceDirName": "company",
+  "slug": "/company/🤲 Why open source",
+  "permalink": "/about/company/🤲 Why open source",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🖥️ Services and tools that we use",
+    "permalink": "/about/company/🖥️ Services and tools that we use"
+  },
+  "next": {
+    "title": "Culture and values 🫀",
+    "permalink": "/about/company/🫀 Culture and values/Culture and values 🫀"
+  }
+}

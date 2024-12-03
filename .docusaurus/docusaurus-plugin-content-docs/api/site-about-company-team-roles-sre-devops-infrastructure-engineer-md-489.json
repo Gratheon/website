@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/SRE - Devops - Infrastructure engineer",
+  "title": "SRE - Devops - Infrastructure engineer",
+  "description": "Responsibilities",
+  "source": "@site/about/company/Team/Roles/SRE - Devops - Infrastructure engineer.md",
+  "sourceDirName": "company/Team/Roles",
+  "slug": "/company/Team/Roles/SRE - Devops - Infrastructure engineer",
+  "permalink": "/about/company/Team/Roles/SRE - Devops - Infrastructure engineer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Robotics engineer 🦾",
+    "permalink": "/about/company/Team/Roles/Robotics engineer 🦾"
+  },
+  "next": {
+    "title": "UX designer 🔲",
+    "permalink": "/about/company/Team/Roles/UX designer 🔲"
+  }
+}

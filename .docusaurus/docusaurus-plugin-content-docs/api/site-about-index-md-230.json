@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Gratheon is a startup company (see  📑 deck.pdf )",
+  "description": "Gratheon develops open source, modular, 🧿 Robotic Beehive as a data service for 👨🏻‍🚀 Semi-professional beekeepers to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.",
   "source": "@site/about/index.md",
   "sourceDirName": ".",
   "slug": "/",

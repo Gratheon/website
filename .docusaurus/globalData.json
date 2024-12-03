@@ -275,6 +275,11 @@
           "mainDocId": "index",
           "docs": [
             {
+              "id": "❤️‍🔥 Volunteers",
+              "path": "/about/❤️‍🔥 Volunteers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "🌨️ Problems/❄️ Overwintering collapse",
               "path": "/about/🌨️ Problems/❄️ Overwintering collapse",
               "sidebar": "tutorialSidebar"
@@ -460,8 +465,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/☑️ Features and tasks",
-              "path": "/about/company/☑️ Features and tasks",
+              "id": "company/🏇 Go to market strategy",
+              "path": "/about/company/🏇 Go to market strategy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/📊 Market analysis",
+              "path": "/about/company/📊 Market analysis",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -470,48 +480,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Adapt to change 🏕️",
-              "path": "/about/company/Culture and values 🫀/Adapt to change 🏕️",
+              "id": "company/🤲 Why open source",
+              "path": "/about/company/🤲 Why open source",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Culture and values 🫀",
-              "path": "/about/company/Culture and values 🫀/",
+              "id": "company/🫀 Culture and values/Adapt to change 🏕️",
+              "path": "/about/company/🫀 Culture and values/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Ethical heart 🌳",
-              "path": "/about/company/Culture and values 🫀/Ethical heart 🌳",
+              "id": "company/🫀 Culture and values/Culture and values 🫀",
+              "path": "/about/company/🫀 Culture and values/Culture and values 🫀",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Gather value 🍯",
-              "path": "/about/company/Culture and values 🫀/Gather value 🍯",
+              "id": "company/🫀 Culture and values/Ethical heart 🌳",
+              "path": "/about/company/🫀 Culture and values/Ethical heart 🌳",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Humbly kind 🧸",
-              "path": "/about/company/Culture and values 🫀/Humbly kind 🧸",
+              "id": "company/🫀 Culture and values/Gather value 🍯",
+              "path": "/about/company/🫀 Culture and values/Gather value 🍯",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/New horizons 🏔️",
-              "path": "/about/company/Culture and values 🫀/New horizons 🏔️",
+              "id": "company/🫀 Culture and values/Humbly kind 🧸",
+              "path": "/about/company/🫀 Culture and values/Humbly kind 🧸",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Observable mind 🧿",
-              "path": "/about/company/Culture and values 🫀/Observable mind 🧿",
+              "id": "company/🫀 Culture and values/New horizons 🏔️",
+              "path": "/about/company/🫀 Culture and values/New horizons 🏔️",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Radiate truth 🌞",
-              "path": "/about/company/Culture and values 🫀/Radiate truth 🌞",
+              "id": "company/🫀 Culture and values/Observable mind 🧿",
+              "path": "/about/company/🫀 Culture and values/Observable mind 🧿",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Culture and values 🫀/Team effort 🐝",
-              "path": "/about/company/Culture and values 🫀/Team effort 🐝",
+              "id": "company/🫀 Culture and values/Radiate truth 🌞",
+              "path": "/about/company/🫀 Culture and values/Radiate truth 🌞",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/🫀 Culture and values/Team effort 🐝",
+              "path": "/about/company/🫀 Culture and values/Team effort 🐝",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -530,86 +545,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Merchandise",
-              "path": "/about/company/Merchandise",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Beekeeper & Community manager 🐝",
-              "path": "/about/company/Roles/Beekeeper & Community manager 🐝",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Fullstack engineer",
-              "path": "/about/company/Roles/Fullstack engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Fullstack engineer 📱",
-              "path": "/about/company/Roles/Fullstack engineer 📱",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/ML engineer 🧠",
-              "path": "/about/company/Roles/ML engineer 🧠",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Product manager 🦉",
-              "path": "/about/company/Roles/Product manager 🦉",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/Beekeeper",
-              "path": "/about/company/Roles/Response templates/Beekeeper",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/Fullstack engineer",
-              "path": "/about/company/Roles/Response templates/Fullstack engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/ML engineer role",
-              "path": "/about/company/Roles/Response templates/ML engineer role",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/Response templates",
-              "path": "/about/company/Roles/Response templates/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/Robotics engineer",
-              "path": "/about/company/Roles/Response templates/Robotics engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Response templates/UX designer",
-              "path": "/about/company/Roles/Response templates/UX designer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Robotics engineer 🦾",
-              "path": "/about/company/Roles/Robotics engineer 🦾",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/Roles",
-              "path": "/about/company/Roles/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/SRE - Devops - Infrastructure engineer",
-              "path": "/about/company/Roles/SRE - Devops - Infrastructure engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Roles/UX designer 🔲",
-              "path": "/about/company/Roles/UX designer 🔲",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Team/Aleksei Prokopov",
               "path": "/about/company/Team/Aleksei Prokopov",
               "sidebar": "tutorialSidebar"
@@ -625,8 +560,93 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Team/Merchandise",
+              "path": "/about/company/Team/Merchandise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Beekeeper & Community manager 🐝",
+              "path": "/about/company/Team/Roles/Beekeeper & Community manager 🐝",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Fullstack engineer",
+              "path": "/about/company/Team/Roles/Fullstack engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Fullstack engineer 📱",
+              "path": "/about/company/Team/Roles/Fullstack engineer 📱",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/ML engineer 🧠",
+              "path": "/about/company/Team/Roles/ML engineer 🧠",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Product manager 🦉",
+              "path": "/about/company/Team/Roles/Product manager 🦉",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/Beekeeper",
+              "path": "/about/company/Team/Roles/Response templates/Beekeeper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/Fullstack engineer",
+              "path": "/about/company/Team/Roles/Response templates/Fullstack engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/ML engineer role",
+              "path": "/about/company/Team/Roles/Response templates/ML engineer role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/Response templates",
+              "path": "/about/company/Team/Roles/Response templates/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/Robotics engineer",
+              "path": "/about/company/Team/Roles/Response templates/Robotics engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Response templates/UX designer",
+              "path": "/about/company/Team/Roles/Response templates/UX designer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Robotics engineer 🦾",
+              "path": "/about/company/Team/Roles/Robotics engineer 🦾",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Roles",
+              "path": "/about/company/Team/Roles/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/SRE - Devops - Infrastructure engineer",
+              "path": "/about/company/Team/Roles/SRE - Devops - Infrastructure engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/UX designer 🔲",
+              "path": "/about/company/Team/Roles/UX designer 🔲",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/☑️ Features and tasks",
+              "path": "/about/products/☑️ Features and tasks",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1368,11 +1388,6 @@
               "id": "products/prices",
               "path": "/about/products/prices",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Volunteers ❤️‍🔥",
-              "path": "/about/Volunteers ❤️‍🔥",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -1738,6 +1753,15 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "GTM-KH4KC9"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
     }
   }
 }

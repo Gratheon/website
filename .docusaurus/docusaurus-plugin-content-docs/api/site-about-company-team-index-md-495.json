@@ -1,6 +1,6 @@
 {
   "id": "company/Team/index",
-  "title": "Team ⚽️",
+  "title": "⚽️ Team",
   "description": "- Artjom Kurapov",
   "source": "@site/about/company/Team/index.md",
   "sourceDirName": "company/Team",
@@ -12,13 +12,13 @@
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
-    "title": "Team ⚽️",
+    "title": "⚽️ Team",
     "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "New horizons 🏔️",
-    "permalink": "/about/company/Culture and values 🫀/New horizons 🏔️"
+    "title": "👔 Company",
+    "permalink": "/about/company/"
   },
   "next": {
     "title": "Aleksei Prokopov",

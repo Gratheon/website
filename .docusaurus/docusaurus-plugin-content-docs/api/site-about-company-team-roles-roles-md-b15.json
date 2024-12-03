@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Roles",
+  "title": "Roles",
+  "description": "Here we list roles that are needed for company operation",
+  "source": "@site/about/company/Team/Roles/Roles.md",
+  "sourceDirName": "company/Team/Roles",
+  "slug": "/company/Team/Roles/",
+  "permalink": "/about/company/Team/Roles/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Merchandise",
+    "permalink": "/about/company/Team/Merchandise"
+  },
+  "next": {
+    "title": "Response templates",
+    "permalink": "/about/company/Team/Roles/Response templates/"
+  }
+}

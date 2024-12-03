@@ -3,43 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
-    component: ComponentCreator('/blog', 'be9'),
+    component: ComponentCreator('/blog', '328'),
     exact: true
   },
   {
@@ -178,13 +143,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2024/12/02/ 📢 Participated in Startup Pitch Practice webinar by Founder Institute',
+    component: ComponentCreator('/blog/2024/12/02/ 📢 Participated in Startup Pitch Practice webinar by Founder Institute', '2f5'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '0fa'),
+    component: ComponentCreator('/blog/page/2', '675'),
     exact: true
   },
   {
@@ -199,19 +169,25 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '1e8'),
+    component: ComponentCreator('/about', '855'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '9c5'),
+        component: ComponentCreator('/about', '4d1'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e8e'),
+            component: ComponentCreator('/about', '0bf'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '498'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/❤️‍🔥 Volunteers',
+                component: ComponentCreator('/about/❤️‍🔥 Volunteers', '7bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -444,8 +420,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/☑️ Features and tasks',
-                component: ComponentCreator('/about/company/☑️ Features and tasks', '3c1'),
+                path: '/about/company/🏇 Go to market strategy',
+                component: ComponentCreator('/about/company/🏇 Go to market strategy', '9d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/📊 Market analysis',
+                component: ComponentCreator('/about/company/📊 Market analysis', 'b6a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -456,56 +438,62 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/',
-                component: ComponentCreator('/about/company/Culture and values 🫀/', 'a91'),
+                path: '/about/company/🤲 Why open source',
+                component: ComponentCreator('/about/company/🤲 Why open source', 'c91'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Adapt to change 🏕️',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Adapt to change 🏕️', '46a'),
+                path: '/about/company/🫀 Culture and values/Adapt to change 🏕️',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Adapt to change 🏕️', '293'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Ethical heart 🌳',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Ethical heart 🌳', '5bb'),
+                path: '/about/company/🫀 Culture and values/Culture and values 🫀',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Culture and values 🫀', '54d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Gather value 🍯',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Gather value 🍯', 'd7f'),
+                path: '/about/company/🫀 Culture and values/Ethical heart 🌳',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Ethical heart 🌳', '0a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Humbly kind 🧸',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Humbly kind 🧸', '5d3'),
+                path: '/about/company/🫀 Culture and values/Gather value 🍯',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Gather value 🍯', '999'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/New horizons 🏔️',
-                component: ComponentCreator('/about/company/Culture and values 🫀/New horizons 🏔️', '99b'),
+                path: '/about/company/🫀 Culture and values/Humbly kind 🧸',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Humbly kind 🧸', '806'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Observable mind 🧿',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Observable mind 🧿', 'f5c'),
+                path: '/about/company/🫀 Culture and values/New horizons 🏔️',
+                component: ComponentCreator('/about/company/🫀 Culture and values/New horizons 🏔️', '5b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Radiate truth 🌞',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Radiate truth 🌞', '22e'),
+                path: '/about/company/🫀 Culture and values/Observable mind 🧿',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Observable mind 🧿', 'f64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Culture and values 🫀/Team effort 🐝',
-                component: ComponentCreator('/about/company/Culture and values 🫀/Team effort 🐝', '658'),
+                path: '/about/company/🫀 Culture and values/Radiate truth 🌞',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Radiate truth 🌞', '615'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/🫀 Culture and values/Team effort 🐝',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Team effort 🐝', 'bf9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -518,102 +506,6 @@ export default [
               {
                 path: '/about/company/Meeting recordings',
                 component: ComponentCreator('/about/company/Meeting recordings', 'c91'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Merchandise',
-                component: ComponentCreator('/about/company/Merchandise', '4e8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/',
-                component: ComponentCreator('/about/company/Roles/', '27f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Beekeeper & Community manager 🐝',
-                component: ComponentCreator('/about/company/Roles/Beekeeper & Community manager 🐝', '017'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Fullstack engineer',
-                component: ComponentCreator('/about/company/Roles/Fullstack engineer', '4d8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Fullstack engineer 📱',
-                component: ComponentCreator('/about/company/Roles/Fullstack engineer 📱', 'f3a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/ML engineer 🧠',
-                component: ComponentCreator('/about/company/Roles/ML engineer 🧠', 'b18'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Product manager 🦉',
-                component: ComponentCreator('/about/company/Roles/Product manager 🦉', '8ef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/',
-                component: ComponentCreator('/about/company/Roles/Response templates/', '0f6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/Beekeeper',
-                component: ComponentCreator('/about/company/Roles/Response templates/Beekeeper', 'b6e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/Fullstack engineer',
-                component: ComponentCreator('/about/company/Roles/Response templates/Fullstack engineer', '391'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/ML engineer role',
-                component: ComponentCreator('/about/company/Roles/Response templates/ML engineer role', 'f3b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/Robotics engineer',
-                component: ComponentCreator('/about/company/Roles/Response templates/Robotics engineer', 'af1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Response templates/UX designer',
-                component: ComponentCreator('/about/company/Roles/Response templates/UX designer', '05f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/Robotics engineer 🦾',
-                component: ComponentCreator('/about/company/Roles/Robotics engineer 🦾', '980'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/SRE - Devops - Infrastructure engineer',
-                component: ComponentCreator('/about/company/Roles/SRE - Devops - Infrastructure engineer', 'f52'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Roles/UX designer 🔲',
-                component: ComponentCreator('/about/company/Roles/UX designer 🔲', '480'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -636,8 +528,110 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Team/Merchandise',
+                component: ComponentCreator('/about/company/Team/Merchandise', '858'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/',
+                component: ComponentCreator('/about/company/Team/Roles/', '686'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Beekeeper & Community manager 🐝',
+                component: ComponentCreator('/about/company/Team/Roles/Beekeeper & Community manager 🐝', '9cf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Fullstack engineer',
+                component: ComponentCreator('/about/company/Team/Roles/Fullstack engineer', '3b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Fullstack engineer 📱',
+                component: ComponentCreator('/about/company/Team/Roles/Fullstack engineer 📱', '63e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/ML engineer 🧠',
+                component: ComponentCreator('/about/company/Team/Roles/ML engineer 🧠', '189'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Product manager 🦉',
+                component: ComponentCreator('/about/company/Team/Roles/Product manager 🦉', '666'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/', 'ec1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/Beekeeper',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/Beekeeper', 'a57'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/Fullstack engineer',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/Fullstack engineer', '7e1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/ML engineer role',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/ML engineer role', '92a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/Robotics engineer',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/Robotics engineer', '235'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Response templates/UX designer',
+                component: ComponentCreator('/about/company/Team/Roles/Response templates/UX designer', '1df'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/Robotics engineer 🦾',
+                component: ComponentCreator('/about/company/Team/Roles/Robotics engineer 🦾', 'f01'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/SRE - Devops - Infrastructure engineer',
+                component: ComponentCreator('/about/company/Team/Roles/SRE - Devops - Infrastructure engineer', '3e7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/Roles/UX designer 🔲',
+                component: ComponentCreator('/about/company/Team/Roles/UX designer 🔲', 'dfe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/',
                 component: ComponentCreator('/about/products/', '5dc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/☑️ Features and tasks',
+                component: ComponentCreator('/about/products/☑️ Features and tasks', 'ffd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1520,12 +1514,6 @@ export default [
               {
                 path: '/about/products/prices',
                 component: ComponentCreator('/about/products/prices', '748'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/Volunteers ❤️‍🔥',
-                component: ComponentCreator('/about/Volunteers ❤️‍🔥', '18c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

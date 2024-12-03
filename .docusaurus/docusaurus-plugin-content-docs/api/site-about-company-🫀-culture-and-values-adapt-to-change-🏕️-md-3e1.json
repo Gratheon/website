@@ -1,0 +1,26 @@
+{
+  "id": "company/🫀 Culture and values/Adapt to change 🏕️",
+  "title": "Adapt to change 🏕️",
+  "description": "Be bold, get things done, take responsibility. Get hands dirty, take small steps, be prepared, survive, speed, autonomy, freedom",
+  "source": "@site/about/company/🫀 Culture and values/Adapt to change 🏕️.md",
+  "sourceDirName": "company/🫀 Culture and values",
+  "slug": "/company/🫀 Culture and values/Adapt to change 🏕️",
+  "permalink": "/about/company/🫀 Culture and values/Adapt to change 🏕️",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Radiate truth 🌞",
+    "permalink": "/about/company/🫀 Culture and values/Radiate truth 🌞"
+  },
+  "next": {
+    "title": "Team effort 🐝",
+    "permalink": "/about/company/🫀 Culture and values/Team effort 🐝"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Robotics engineer 🦾",
+  "title": "Robotics engineer 🦾",
+  "description": "Role Description",
+  "source": "@site/about/company/Team/Roles/Robotics engineer 🦾.md",
+  "sourceDirName": "company/Team/Roles",
+  "slug": "/company/Team/Roles/Robotics engineer 🦾",
+  "permalink": "/about/company/Team/Roles/Robotics engineer 🦾",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product manager 🦉",
+    "permalink": "/about/company/Team/Roles/Product manager 🦉"
+  },
+  "next": {
+    "title": "SRE - Devops - Infrastructure engineer",
+    "permalink": "/about/company/Team/Roles/SRE - Devops - Infrastructure engineer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/UX designer 🔲",
+  "title": "UX designer 🔲",
+  "description": "Role Description",
+  "source": "@site/about/company/Team/Roles/UX designer 🔲.md",
+  "sourceDirName": "company/Team/Roles",
+  "slug": "/company/Team/Roles/UX designer 🔲",
+  "permalink": "/about/company/Team/Roles/UX designer 🔲",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SRE - Devops - Infrastructure engineer",
+    "permalink": "/about/company/Team/Roles/SRE - Devops - Infrastructure engineer"
+  },
+  "next": {
+    "title": "🎥 Meeting recordings",
+    "permalink": "/about/company/Meeting recordings"
+  }
+}

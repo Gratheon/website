@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Merchandise",
+  "title": "Merchandise",
+  "description": "status: idea",
+  "source": "@site/about/company/Team/Merchandise.md",
+  "sourceDirName": "company/Team",
+  "slug": "/company/Team/Merchandise",
+  "permalink": "/about/company/Team/Merchandise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artjom Kurapov",
+    "permalink": "/about/company/Team/Artjom Kurapov"
+  },
+  "next": {
+    "title": "Roles",
+    "permalink": "/about/company/Team/Roles/"
+  }
+}
