@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Competition/Competition.md",
+                "file": "research/Competition/beeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Competition"
+              "title": "beeing"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,6 +167,16 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
+    "research/Competition/img/Pasted image 20241204141206.png",
+    "research/Competition/img/Pasted image 20241204141137.png",
+    "research/Competition/img/Pasted image 20241204141124.png",
+    "research/Competition/3bee.md",
+    "research/Competition/beeing.md",
+    "research/Competition/img/Pasted image 20241204140904.png",
+    "research/Competition/img/Pasted image 20241204140854.png",
+    "research/Competition/🇺🇸 Best Bees.md",
+    "research/Competition/Competition.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
@@ -191,11 +200,6 @@
     "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection.md",
-    "about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Robbing behaviour alert based on bee counter.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter.md",
-    "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge.md",
-    "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
     "about/deck.pdf",
@@ -207,11 +211,6 @@
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/temp.webp",
-    "build/img/tallinn.png",
-    "build/img/sensors.webp",
-    "build/img/queens.webp",
-    "build/img/robot.jpeg",
-    "build/img/playback.webp"
+    "build/img/temp.webp"
   ]
 }
