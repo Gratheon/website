@@ -73,7 +73,7 @@ If you are a contributor, we try to highlight this (in a list below)
 - in discord you will get a 🟡 yellow name if you _contributed_ some code to common namespace
 - on request, we can also add acknowledgement to linkedin
 
-If you stick around for a long while and do the hard work today, you get a promise to get compensated in the future based on [equity plan](company/🦚%20Equity%20&%20fundraising%20plan.md) if we succeed, as it is in company interest to keep the talent
+If you stick around for a long while and do the hard work today, you get a promise to get compensated in the future based on [equity plan](company/🍰%20Equity%20&%20fundraising%20plan.md) if we succeed, as it is in company interest to keep the talent
 
 ## Contributors
 
