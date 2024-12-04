@@ -15,23 +15,23 @@ This is an approximate expected distribution of shares over time.
 
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
-| Who                                  | angel phase ⛳                                   | pre-seed                                                    | seed               | series A                 |
-| ------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------------------------ |
-| Founder                              | 60% (600 000)                                   | 54.3%                                                       | 41%                | 34%                      |
-| Team option pool                     | 38% (380 000)                                   | 34.3%                                                       |                    | 26%                      |
-| Share dilution for investors         | 2% (2 000)                                      | +20% (200k shares)                                          | +20% (240k shares) | +20% <br>(288 k shares)  |
-| Advisors<br>(~0.1-1% per person)     | 5% (50 000)                                     |                                                             |                    |                          |
-| Shares total                         | 1 000 000                                       | 1 200 000                                                   | 1 440  000         | 1 728 000                |
-| Capital to raise in convertible loan | 40k                                             | 1M                                                          | 1.4M               | 10M                      |
-| Post-money valuation                 | 2M                                              | 7M                                                          | 14M                | 50M                      |
-| Fundraising goal                     | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market   | scale business in Europe |
-| Share value                          | 0.04                                            | 6                                                           | 11.5               | 34                       |
-| Join time risk coefficient           | 10                                              | 5                                                           | 1.5                | 1                        |
+| Who                                           | angel phase ⛳                                   | pre-seed                                                    | seed               | series A                 |
+| --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------------------------ |
+| Founder                                       | 60% (60 M shares)                               | 54.3%                                                       | 41%                | 34%                      |
+| Team option pool                              | 38% (38 M)                                      | 34.3%                                                       |                    | 26%                      |
+| Share dilution for investors                  | 2% (2 M)                                        | +20% (20 M shares)                                          | +20% (24 M shares) | +20% <br>(28.8 M shares) |
+| Advisors<br>(~0.1-1% per person)              | 5% (5 M)                                        |                                                             |                    |                          |
+| Shares total                                  | 100 M                                           | 120 M                                                       | 144 M              | 172.8 M                  |
+| Capital to raise in convertible loan (in EUR) | 40k                                             | 1M                                                          | 1.4M               | 10M                      |
+| Post-money valuation                          | 2M                                              | 7M                                                          | 14M                | 50M                      |
+| Fundraising goal                              | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market   | scale business in Europe |
+| Share value                                   | 0.04                                            | 6                                                           | 11.5               | 34                       |
+| Join time risk coefficient                    | 10                                              | 5                                                           | 1.5                | 1                        |
 
 
 ## Clarifications
 
-- If you leave, you lose options. Company can print more shares, mostly for new investors.
+- If you leave the company, you lose options. Company can print more shares, mostly for new investors.
     
 - Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
     
