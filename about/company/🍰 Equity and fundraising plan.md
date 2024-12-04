@@ -31,7 +31,7 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 
 ## Clarifications
 
-- If you leave the company[](), you lose options. Company can print more shares, mostly for new investors.
+- If you leave the company, you lose options. Company can print more shares, mostly for new investors.
     
 - Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
     
