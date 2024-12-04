@@ -17,8 +17,9 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Who                                           | angel phase 🪽                                         | pre-seed 🫛                                                      | seed 🌱                                                                | series A 🌳                                 |
 | --------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------- |
 | Founder                                       | 50% (50 M shares)                                      | 41.6%                                                            | 34%                                                                    | 28%                                         |
+| Co-founder                                    | 10% (10 M shares)                                      |                                                                  |                                                                        |                                             |
 | Team option pool                              | 45% (45 M)                                             | 37.5%                                                            | 31%                                                                    | 26%                                         |
-| Investors                                     | 2% (2 M)                                               | +20% (20 M shares)                                               | +20% (24 M shares)                                                     | +20% <br />(28.8 M shares)                  |
+| Investors                                     | 2% (2 M)<br><br>(if skipped, joins team option pool)   | +20% (20 M shares)                                               | +20% (24 M shares)                                                     | +20% <br />(28.8 M shares)                  |
 | Advisors<br />(~0.1-1% per person)            | 3% (3 M)                                               |                                                                  |                                                                        |                                             |
 | Shares total                                  | 100 M                                                  | 120 M                                                            | 144 M                                                                  | 172.8 M                                     |
 | Capital to raise in convertible loan (in EUR) | 40k                                                    | 1M                                                               | 3M                                                                     | 10M                                         |
@@ -26,22 +27,22 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Fundraising goal                              | Bootstrap, develop prototype until investors are ready | Develop IoT<br>Enter the market<br><br>Develop Entrance Observer | Enter the market with Entrance Observer<br><br>Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
 | Share value                                   | 0.04                                                   | 6                                                                | 11.5                                                                   | 34                                          |
 | Join time risk coefficient                    | 10                                                     | 5                                                                | 1.5                                                                    | 1                                           |
-### Team option pool distribution 
+### Team option pool distribution and hiring plan
 
-| Hiring stage | Role                         | Shares     | Percentage of total shares |
-| ------------ | ---------------------------- | ---------- | -------------------------- |
-| pre-seed 🫛  | **Full-stack Engineer**      | 2,500,000  | 2.50%                      |
-| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      |
-| pre-seed 🫛  | **Community Manager**        | 1,000,000  | 1.00%                      |
-| seed 🌱      | **CTO**                      | 5,000,000  | 5.00%                      |
-| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      |
-| seed 🌱      | Data Scientist (AI/ML)       | 1,000,000  | 1%                         |
-| seed 🌱      | CMO                          | 2,000,000  | 2.00%                      |
-| series A 🌳  | **CPO**                      | 2,500,000  | 2.50%                      |
-| series A 🌳  | **Lead Software Engineer**   | 1,500,000  | 1.50%                      |
-| series A 🌳  | COO                          | 3,000,000  | 3.00%                      |
-| series A 🌳  | Head of Sales                | 1,500,000  | 1.50%                      |
-|              | **Remaining in Option Pool** | 22,500,000 | 22.50%                     |
+| Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                         |
+| ------------ | ---------------------------- | ---------- | -------------------------- | ---------------------------- |
+| pre-seed 🫛  | **Full-stack Engineer**      | 2,500,000  | 2.50%                      | Develop web-app              |
+| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      | Develop timeseries analytics |
+| seed 🌱      | CMO                          | 2,000,000  | 2.00%                      | Reach out to customers       |
+| seed 🌱      | **CTO**                      | 5,000,000  | 5.00%                      |                              |
+| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      |                              |
+| seed 🌱      | Data Scientist (AI/ML)       | 1,000,000  | 1%                         |                              |
+| series A 🌳  | **CPO**                      | 2,500,000  | 2.50%                      |                              |
+| series A 🌳  | **Robotics Engineer**        | 1,500,000  | 1.50%                      |                              |
+| series A 🌳  | **Community Manager**        | 1,000,000  | 1.00%                      |                              |
+| series A 🌳  | COO                          | 3,000,000  | 3.00%                      |                              |
+| series A 🌳  | Head of Sales                | 1,500,000  | 1.50%                      |                              |
+|              | **Remaining in Option Pool** | 12,500,000 | 12.50%                     |                              |
 
 
 ## Gratheon-specific clarifications
