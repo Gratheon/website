@@ -12,13 +12,12 @@ Making everyone owning the company is part of our company values - [Team effort 
 ## CAP table
 
 This is an approximate expected distribution of shares over time.
-
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
 | Who                                            | angel phase ⛳                                   | pre-seed                                                    | seed               | series A                   |
 | ---------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------- | ------------------ | -------------------------- |
-| Founder                                        | 55% (55 M shares)                               | 54.3%                                                       | 41%                | 34%                        |
-| Team option pool                               | 40% (40 M)                                      | 34.3%                                                       |                    | 26%                        |
+| Founder                                        | 50% (50 M shares)                               | 50.8%                                                       | 41%                | 34%                        |
+| Team option pool                               | 45% (45 M)                                      | 29%                                                         |                    | 26%                        |
 | Share dilution for investors                   | 2% (2 M)                                        | +20% (20 M shares)                                          | +20% (24 M shares) | +20% <br />(28.8 M shares) |
 | Advisors option pool<br />(~0.1-1% per person) | 3% (3 M)                                        |                                                             |                    |                            |
 | Shares total                                   | 100 M                                           | 120 M                                                       | 144 M              | 172.8 M                    |
@@ -31,6 +30,8 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 
 ## Clarifications
 
+- Note that equity distribution is an investment stake in the company, but it does not give voting (board control) rights in the same proportions. This is done intentionally so that team  and investment pools could be bigger while leaving control in expert hands that may be interested in balancing salary and equity.
+  
 - If you leave the company, you lose options. Company can print more shares, mostly for new investors.
     
 - Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
