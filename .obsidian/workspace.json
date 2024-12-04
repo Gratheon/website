@@ -11,10 +11,14 @@
             "id": "a2772df4a53f4a0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/company/🍰 Equity and fundraising plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🍰 Equity and fundraising plan"
             }
           }
         ]
@@ -163,7 +167,7 @@
   },
   "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
-    "about/company/🍰 Equity & fundraising plan.md",
+    "about/company/🍰 Equity and fundraising plan.md",
     "about/company/🏇 Go to market strategy.md",
     "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
     "2024-12-04.md",
