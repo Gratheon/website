@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
+                "file": "about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "👁️‍🗨️ Entrance Observer"
+              "title": "🌡️ Internal Temperature monitoring"
             }
           }
         ]
@@ -165,8 +165,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop.md",
@@ -179,7 +180,6 @@
     "about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Detect swarming from entrance video.md",
     "about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI.md",
     "about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
-    "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/index.md",
     "about/products/🧑‍🚀 Actions beekeepers make.md",
