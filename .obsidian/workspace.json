@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/🌻 Purpose.md",
+                "file": "about/company/🦚 Equity & fundraising plan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "🌻 Purpose"
+              "title": "🦚 Equity & fundraising plan"
             }
           }
         ]
@@ -167,8 +167,19 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
-    "static/deck.pdf",
+    "about/company/Processes/Meeting recordings.md",
+    "about/company/Processes/🖥️ Services and tools that we use.md",
+    "about/company/🤲 Why open source.md",
+    "about/company/🦚 Equity & fundraising plan.md",
+    "about/company/Processes",
+    "about/company/Processes/☑️ Features and tasks.md",
+    "about/company/🏇 Go to market strategy.md",
+    "about/company/📊 Market analysis.md",
+    "about/company/🫀 Culture and values/🫀 Culture and values.md",
+    "about/index.md",
+    "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
+    "static/deck.pdf",
     "research/Competition/beeing.md",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
@@ -179,7 +190,6 @@
     "research/Competition/img/Pasted image 20241204140854.png",
     "research/Competition/🇺🇸 Best Bees.md",
     "research/Competition/Competition.md",
-    "about/🌻 Purpose/Company mission.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
     "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
     "about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis.md",
@@ -192,14 +202,6 @@
     "about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode.md",
     "about/products/index.md",
     "about/products/🧿 Robotic Beehive/todo",
-    "about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer.md",
-    "about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring.md",
-    "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
-    "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
-    "about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
     "about/deck.pdf",

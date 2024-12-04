@@ -12,7 +12,7 @@ Colors represent main wavelengths that 🐝 bees can see, company values and oth
 
 💡 Logo can be interpreted in many ways, same as [Naming](Naming.md). 
 Some are actual technological blueprint of our products. 
-Other meanings are more abstract, are tied to bees, spirituality and [Culture and values 🫀](../company/🫀%20Culture%20and%20values/Culture%20and%20values%20🫀.md)
+Other meanings are more abstract, are tied to bees, spirituality and [🫀 Culture and values](../company/🫀%20Culture%20and%20values/🫀%20Culture%20and%20values.md)
 
 ## Company and product meanings
 
