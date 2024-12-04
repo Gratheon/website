@@ -27,26 +27,18 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Share value                                    | 0.04                                            | 6                                                           | 11.5               | 34                         |
 | Join time risk coefficient                     | 10                                              | 5                                                           | 1.5                | 1                          |
 
-## Clarifications
-  
-- If you leave the company, you lose options. Company can print more shares, mostly for new investors.
+## Gratheon-specific clarifications
     
 - Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
     
-- Options are given out (vested) in portions over (typically) 5 years
-    
-- Options differ from shares. They grant the right to purchase shares at a predetermined, often low, price. Typically, these are converted to cash during exit events such as acquisitions or public offerings.
-    
-- Equity is a trust-based mechanism. The company strongly values employees as co-owners, fostering alignment between individual and company success.
+- Options are given out (vested) in equal monthly portions over 4 years with 1 year cliff
   
-- At each step of funding round, some equity is given away to the investors in return for raised capital. New investor gets new shares, nothing happens to previously given away shares, thus ownership % is diluted but valuation of the company increases.
-
 - Note that equity distribution is an investment opportunity stake in the company, but it does not give voting (board control) rights in the same proportions. This is done intentionally so that 
 	- team and investment pools could be larger
 	- keep control in founder hands until board is sufficiently large enough
 	- team could choose balance between salary and equity
     
-## Terminilogy clarification
+## Terminology clarification
 
 - **Equity**: Broadly refers to ownership in the company.
 - **Shares**: Units of ownership that represent a portion of equity.
@@ -67,6 +59,8 @@ When a startup decides to offer equity, it essentially divides ownership of the 
 For employees, receiving equity means they are being given a certain number of shares in the company. This can either be done directly or through an equity compensation plan, such as a stock option plan. Under such a plan, employees are given the option to purchase a set number of shares at a fixed price, usually lower than market value. This becomes more valuable as the company's value increases.
 
 However, equity also comes with risks. If the startup fails, the value of the equity could become worthless. Furthermore, there may be restrictions on when and how equity can be sold, which means employees may not be able to realize the value of their equity immediately. Therefore, while equity can have great rewards, it is important for recipients to understand the potential risks and limitations.
+
+- If you leave the company, you lose options. Company can print more shares, mostly for new investors
 
 
 ## ⛲ Team option pool calculation
