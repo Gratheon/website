@@ -29,20 +29,20 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Join time risk coefficient                    | 10                                                     | 5                                                                | 1.5                                                                    | 1                                           |
 ### Team option pool distribution and hiring plan
 
-| Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                         |
-| ------------ | ---------------------------- | ---------- | -------------------------- | ---------------------------- |
-| pre-seed 🫛  | **Full-stack Engineer**      | 2,500,000  | 2.50%                      | Develop web-app              |
-| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      | Develop timeseries analytics |
-| seed 🌱      | CMO                          | 2,000,000  | 2.00%                      | Reach out to customers       |
-| seed 🌱      | **CTO**                      | 5,000,000  | 5.00%                      |                              |
-| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      |                              |
-| seed 🌱      | Data Scientist (AI/ML)       | 1,000,000  | 1%                         |                              |
-| series A 🌳  | **CPO**                      | 2,500,000  | 2.50%                      |                              |
-| series A 🌳  | **Robotics Engineer**        | 1,500,000  | 1.50%                      |                              |
-| series A 🌳  | **Community Manager**        | 1,000,000  | 1.00%                      |                              |
-| series A 🌳  | COO                          | 3,000,000  | 3.00%                      |                              |
-| series A 🌳  | Head of Sales                | 1,500,000  | 1.50%                      |                              |
-|              | **Remaining in Option Pool** | 12,500,000 | 12.50%                     |                              |
+| Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                                    |
+| ------------ | ---------------------------- | ---------- | -------------------------- | --------------------------------------- |
+| pre-seed 🫛  | **Full-stack Engineer**      | 2,500,000  | 2.50%                      | Web-app, general engineering            |
+| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      | Timeseries analytics, vision processing |
+| seed 🌱      | CMO                          | 2,000,000  | 2.00%                      | Marketing campaigns, building community |
+| seed 🌱      | **CTO**                      | 5,000,000  | 5.00%                      | General engineering, team work          |
+| seed 🌱      | Infrastructure / SRE         | 1,000,000  | 1%                         | Scaling and supporting microservices    |
+| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      | Develop robotic beehive                 |
+| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      | Develop robotic beehive                 |
+| series A 🌳  | **CPO**                      | 2,500,000  | 2.50%                      |                                         |
+| series A 🌳  | **Community Manager**        | 1,000,000  | 1.00%                      |                                         |
+| series A 🌳  | Head of Support              | 2,000,000  | 2.00%                      |                                         |
+| series A 🌳  | Head of Sales                | 1,500,000  | 1.50%                      |                                         |
+|              | **Remaining in Option Pool** | 13,500,000 | 13.50%                     |                                         |
 
 
 ## Gratheon-specific clarifications
