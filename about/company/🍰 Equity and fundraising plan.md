@@ -27,7 +27,22 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Share value                                   | 0.04                                            | 6                                                           | 11.5               | 34                         |
 | Join time risk coefficient                    | 10                                              | 5                                                           | 1.5                | 1                          |
 ### Team option pool
-- 
+We estimate company to have at its peak a total of 100 employees
+
+| Hiring stage | Role                         | Shares     | Percentage of total shares |
+| ------------ | ---------------------------- | ---------- | -------------------------- |
+| pre-seed     | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      |
+|              | **CTO**                      | 5,000,000  | 5.00%                      |
+|              | **CPO**                      | 2,500,000  | 2.50%                      |
+|              | **Lead Software Engineer**   | 1,500,000  | 1.50%                      |
+|              | **Robotics Engineer**        | 1,500,000  | 1.50%                      |
+|              | **IoT Specialist**           | 1,500,000  | 1.50%                      |
+|              | **Community Manager**        | 1,000,000  | 1.00%                      |
+|              | **Pre-Seed Investors**       | 5,000,000  | 5.00%                      |
+|              | CMO                          | 2,000,000  | 2.00%                      |
+|              | COO                          | 3,000,000  | 3.00%                      |
+|              | Head of Sales                | 1,500,000  | 1.50%                      |
+|              | **Remaining in Option Pool** | 24,500,000 | 24.50%                     |
 
 
 ## Gratheon-specific clarifications
