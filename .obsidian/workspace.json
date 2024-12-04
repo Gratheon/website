@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring.md",
+                "file": "about/products/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌡️ Internal Temperature monitoring"
+              "title": "index"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection.md",
+    "about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring.md",
+    "about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX.md",
+    "about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer.md",
+    "about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring.md",
     "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection.md",
@@ -207,11 +212,6 @@
     "build/img/robot.jpeg",
     "build/img/playback.webp",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "docs/Docs.md",
-    "about/company/🤲 Why open source.md",
-    "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
-    "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
-    "blog/2024-02-29 📢 Pitched at Founders Live.md",
-    "blog/2024-11-22 🎒 PurposeTech Early traction webinar.md"
+    "docs/Docs.md"
   ]
 }
