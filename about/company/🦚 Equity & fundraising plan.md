@@ -31,30 +31,25 @@ Equity is a mechanism of motivation and compensation at early company stages whe
     However, equity also comes with risks. If the startup fails, the value of the equity could become worthless. Furthermore, there may be restrictions on when and how equity can be sold, which means employees may not be able to realize the value of their equity immediately. Therefore, while equity can have great rewards, it is important for recipients to understand the potential risks and limitations.
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/5oO3k5ghKT8" title="STARTUP EQUITY - Who Gets What and Why? How does it work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ## Aggregated CAP table, an example
 
 Approximate expected distribution of shares over time.
 
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time.
 
-|Who|angel phase ⛳|pre-seed|seed|series A|
-|---|---|---|---|---|
-|Founder|60% (600 000)|54.3%||41%|
-|Team option pool|38% (380 000)|34.3%||26%|
-|Investors|2% (2 000)|+20% (200 000)|+10% (110 000)|+20% (242 000)|
-|Advisors|||||
-|(~0.1-1% per person)|5% (50 000)||||
-|Capital to raise in convertible loan|40k||||
-|in convertible notes|1M||||
-|1.4M|10M||||
-|Fundraising goal|for software and hardware prototype development|development runway for the prototype to be production-ready|enter the market|scale business in Europe|
-|Shares total|1 000 000|1 200000|1 210 000|1 452 000|
-|Post-money valuation|2M|7M|14M|50M|
-|Share value|0.04|6|11.5|34|
-|Join time risk coefficient|10|5|1.5|1|
+| Who                                  | angel phase ⛳                                   | pre-seed                                                    | seed             | series A                 |
+| ------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------- | ---------------- | ------------------------ |
+| Founder                              | 60% (600 000)                                   | 54.3%                                                       |                  | 41%                      |
+| Team option pool                     | 38% (380 000)                                   | 34.3%                                                       |                  | 26%                      |
+| Investors                            | 2% (2 000)                                      | +20% (200 000)                                              | +10% (110 000)   | +20% (242 000)           |
+| Advisors                             |                                                 |                                                             |                  |                          |
+| (~0.1-1% per person)                 | 5% (50 000)                                     |                                                             |                  |                          |
+| Capital to raise in convertible loan | 40k                                             | 1.4M                                                        | 10M              |                          |
+| Fundraising goal                     | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market | scale business in Europe |
+| Shares total                         | 1 000 000                                       | 1 200000                                                    | 1 210 000        | 1 452 000                |
+| Post-money valuation                 | 2M                                              | 7M                                                          | 14M              | 50M                      |
+| Share value                          | 0.04                                            | 6                                                           | 11.5             | 34                       |
+| Join time risk coefficient           | 10                                              | 5                                                           | 1.5              | 1                        |
 
 ## ⛲ Team option pool calculation
 
@@ -83,3 +78,7 @@ Vesting in different companies, source - **Levels.fyi**
 - [koos.io](http://koos.io)
 - [saltox.co](http://saltox.co)
 - carta
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/5oO3k5ghKT8" title="STARTUP EQUITY - Who Gets What and Why? How does it work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
