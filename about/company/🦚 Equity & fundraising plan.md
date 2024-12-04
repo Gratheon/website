@@ -35,21 +35,21 @@ Equity is a mechanism of motivation and compensation at early company stages whe
 
 Approximate expected distribution of shares over time.
 
-For team option pool and founders, we will have 1 year cliff, 4 years of vesting time.
+For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
-| Who                                  | angel phase ⛳                                   | pre-seed                                                    | seed             | series A                 |
-| ------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------- | ---------------- | ------------------------ |
-| Founder                              | 60% (600 000)                                   | 54.3%                                                       |                  | 41%                      |
-| Team option pool                     | 38% (380 000)                                   | 34.3%                                                       |                  | 26%                      |
-| Investors                            | 2% (2 000)                                      | +20% (200 000)                                              | +10% (110 000)   | +20% (242 000)           |
-| Advisors                             |                                                 |                                                             |                  |                          |
-| (~0.1-1% per person)                 | 5% (50 000)                                     |                                                             |                  |                          |
-| Capital to raise in convertible loan | 40k                                             | 1.4M                                                        | 10M              |                          |
-| Fundraising goal                     | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market | scale business in Europe |
-| Shares total                         | 1 000 000                                       | 1 200000                                                    | 1 210 000        | 1 452 000                |
-| Post-money valuation                 | 2M                                              | 7M                                                          | 14M              | 50M                      |
-| Share value                          | 0.04                                            | 6                                                           | 11.5             | 34                       |
-| Join time risk coefficient           | 10                                              | 5                                                           | 1.5              | 1                        |
+| Who                                  | angel phase ⛳                                   | pre-seed                                                    | seed               | series A                 |
+| ------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------------------------ |
+| Founder                              | 60% (600 000)                                   | 54.3%                                                       | 41%                | 34%                      |
+| Team option pool                     | 38% (380 000)                                   | 34.3%                                                       |                    | 26%                      |
+| Investors                            | 2% (2 000)                                      | +20% (200k shares)                                          | +20% (240k shares) | +20% <br>(288 k shares)  |
+| Advisors                             |                                                 |                                                             |                    |                          |
+| (~0.1-1% per person)                 | 5% (50 000)                                     |                                                             |                    |                          |
+| Capital to raise in convertible loan | 40k                                             | 1M                                                          | 1.4M               | 10M                      |
+| Fundraising goal                     | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market   | scale business in Europe |
+| Shares total                         | 1 000 000                                       | 1 200 000                                                   | 1 440  000         | 1 728 000                |
+| Post-money valuation                 | 2M                                              | 7M                                                          | 14M                | 50M                      |
+| Share value                          | 0.04                                            | 6                                                           | 11.5               | 34                       |
+| Join time risk coefficient           | 10                                              | 5                                                           | 1.5                | 1                        |
 
 ## ⛲ Team option pool calculation
 
