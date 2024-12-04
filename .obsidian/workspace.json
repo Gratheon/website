@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/🦚 Equity & fundraising plan.md",
+                "file": "about/company/Processes/🎥 Meeting recordings.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🦚 Equity & fundraising plan"
+              "title": "🎥 Meeting recordings"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
-    "about/company/Processes/Meeting recordings.md",
+    "about/company/🦚 Equity & fundraising plan.md",
+    "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/🤲 Why open source.md",
-    "about/company/🦚 Equity & fundraising plan.md",
     "about/company/Processes",
     "about/company/Processes/☑️ Features and tasks.md",
     "about/company/🏇 Go to market strategy.md",
