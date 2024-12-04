@@ -11,12 +11,14 @@
             "id": "0a8944cf698e4fcf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "static/deck.pdf"
+                "file": "about/products/👁️‍🗨️ Entrance Observer/👁️‍🗨️ Entrance Observer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "deck"
+              "icon": "lucide-file",
+              "title": "👁️‍🗨️ Entrance Observer"
             }
           }
         ]
@@ -165,6 +167,11 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "about/products/index.md",
+    "about/products/🧑‍🚀 Actions beekeepers make.md",
+    "about/company/☑️ Features and tasks.md",
+    "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
+    "about/products/🌡️ Beehive IoT sensors/p1 todo",
     "static/deck.pdf",
     "static/deck.pdf",
     "about/index.md",
@@ -176,7 +183,6 @@
     "build/blog/rss.css",
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
-    "build/sitemap.xml",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -188,7 +194,6 @@
     "build/img/robot.jpeg",
     "build/img/playback.webp",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "about/products/☑️ Features and tasks.md",
     "docs/Docs.md",
     "about/company/🤲 Why open source.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
@@ -207,8 +212,6 @@
     "about/company/index.md",
     "about/company/🖥️ Services and tools that we use.md",
     "about/company/Team/index.md",
-    "about/company/Team/Artjom Kurapov.md",
-    "about/❤️‍🔥 Volunteers.md",
-    "about/🌻 Purpose/Company mission.md"
+    "about/company/Team/Artjom Kurapov.md"
   ]
 }

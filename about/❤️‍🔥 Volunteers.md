@@ -25,7 +25,7 @@ As we are in volunteer mode, its expected that people are contributing with diff
 You can contribute by following these steps:
 
 1. [**Join our discord**](https://discord.gg/PcbP4uedWj)
-2. Read about [☑️ Features and tasks](products/☑️%20Features%20and%20tasks.md)
+2. Read about [☑️ Features and tasks](company/☑️%20Features%20and%20tasks.md)
 3. Pick a feature if you want to work on a large, full-stack part of the product. In large companies features are maintained by product managers
 4. Alternatively, pick a task from task list 🐙 https://github.com/orgs/Gratheon/projects/5 if you want to work on internal, infrastructural task or a feature improvement. Tasks are more specialized.
 5. Ask for more information in discord to get attention and document more information for the feature
