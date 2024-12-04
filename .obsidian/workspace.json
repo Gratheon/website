@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e84b72a386239247",
+        "id": "f17b84927bdddbb6",
         "type": "tabs",
         "children": [
           {
-            "id": "ada9af2a4e864c3c",
+            "id": "a2772df4a53f4a0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🌪️ Weather alerts"
+              "title": "New tab"
             }
           }
         ]
@@ -161,22 +157,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ada9af2a4e864c3c",
+  "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
-    "2024-12-04.md",
+    "about/company/🍰 Equity & fundraising plan.md",
+    "about/company/🏇 Go to market strategy.md",
     "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
+    "2024-12-04.md",
     "about/products/📱Web-app/community-tier/img/Screenshot 2024-12-02 at 03.34.33.png",
     "about/products/📱Web-app/community-tier/img",
-    "about/company/🍰 Equity & fundraising plan.md",
     "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/🤲 Why open source.md",
     "about/company/Processes",
     "about/company/Processes/☑️ Features and tasks.md",
-    "about/company/🏇 Go to market strategy.md",
     "about/company/📊 Market analysis.md",
     "about/company/🫀 Culture and values/🫀 Culture and values.md",
     "about/index.md",
