@@ -9,7 +9,7 @@ Equity is a mechanism of motivation and compensation at startups with early comp
 
 Making everyone owning the company is part of our company values - [Team effort 🐝](🫀%20Culture%20and%20values/Team%20effort%20🐝.md) and [Gather value 🍯](🫀%20Culture%20and%20values/Gather%20value%20🍯.md)
 
-## CAP table
+## Ownership (CAP table)
 
 This is an approximate expected distribution of shares over time.
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
@@ -27,11 +27,7 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Share value                                    | 0.04                                            | 6                                                           | 11.5               | 34                         |
 | Join time risk coefficient                     | 10                                              | 5                                                           | 1.5                | 1                          |
 
-
 ## Clarifications
-
-- Note that equity distribution is an investment stake in the company, but it does not give voting (board control) rights in the same proportions. This is done intentionally so that 
-	- team  and investment pools could be bigger while leaving control in expert hands that may be interested in balancing salary and equity.
   
 - If you leave the company, you lose options. Company can print more shares, mostly for new investors.
     
@@ -39,12 +35,27 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
     
 - Options are given out (vested) in portions over (typically) 5 years
     
-- Options are not shares. Its a right to buy shares at fixed (low) price. Typically at exit events they are converted to cash.
+- Options differ from shares. They grant the right to purchase shares at a predetermined, often low, price. Typically, these are converted to cash during exit events such as acquisitions or public offerings.
     
-- Equity is thus very much trust-based. Company is interested in its employees owning the company.
+- Equity is a trust-based mechanism. The company strongly values employees as co-owners, fostering alignment between individual and company success.
   
 - At each step of funding round, some equity is given away to the investors in return for raised capital. New investor gets new shares, nothing happens to previously given away shares, thus ownership % is diluted but valuation of the company increases.
+
+- Note that equity distribution is an investment opportunity stake in the company, but it does not give voting (board control) rights in the same proportions. This is done intentionally so that 
+	- team and investment pools could be larger
+	- keep control in founder hands until board is sufficiently large enough
+	- team could choose balance between salary and equity
     
+## Terminilogy clarification
+
+- **Equity**: Broadly refers to ownership in the company.
+- **Shares**: Units of ownership that represent a portion of equity.
+- **Options**: A contract that allows someone to buy shares at a predetermined price in the future.
+- **Option Pool**: A reserved portion of shares set aside for distribution to employees or other stakeholders via options.
+- **Cliff**: A minimum period before any equity (like stock options) becomes accessible to the employee. For example, with a 1-year cliff, employees must stay for at least one year to start receiving any equity.
+- **Vesting**: The process by which an employee earns equity over time, usually on a fixed schedule (e.g., 25% per year for four years).
+- **Convertible Loan**: A type of financing where investors lend money to the company, which can later be converted into equity (shares) under specific conditions, often at a discount or with other perks
+
 ## What is equity
 
 Equity in a startup or a small business can be an attractive form of compensation for employees and partners, as it offers a share in the potential future success of the company. Equity represents ownership in the company, and it can take several forms. Common types include stock options, restricted stock, and performance shares, each with its unique characteristics and tax implications.
