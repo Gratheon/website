@@ -14,30 +14,29 @@ Making everyone owning the company is part of our company values - [Team effort 
 This is an approximate expected distribution of shares over time.
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
-| Who                                           | angel phase 🪽                                  | pre-seed 🫛                                                 | seed 🌱            | series A 🌳                |
-| --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------- | ------------------ | -------------------------- |
-| Founder                                       | 50% (50 M shares)                               | 41.6%                                                       | 34%                | 28%                        |
-| Team option pool                              | 45% (45 M)                                      | 37.5%                                                       | 31%                | 26%                        |
-| Investors                                     | 2% (2 M)                                        | +20% (20 M shares)                                          | +20% (24 M shares) | +20% <br />(28.8 M shares) |
-| Advisors<br />(~0.1-1% per person)            | 3% (3 M)                                        |                                                             |                    |                            |
-| Shares total                                  | 100 M                                           | 120 M                                                       | 144 M              | 172.8 M                    |
-| Capital to raise in convertible loan (in EUR) | 40k                                             | 1M                                                          | 1.4M               | 10M                        |
-| Post-money valuation                          | 2M                                              | 7M                                                          | 14M                | 50M                        |
-| Fundraising goal                              | for software and hardware prototype development | development runway for the prototype to be production-ready | enter the market   | scale business in Europe   |
-| Share value                                   | 0.04                                            | 6                                                           | 11.5               | 34                         |
-| Join time risk coefficient                    | 10                                              | 5                                                           | 1.5                | 1                          |
+| Who                                           | angel phase 🪽                                  | pre-seed 🫛                                                      | seed 🌱                                                                | series A 🌳                                 |
+| --------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------- |
+| Founder                                       | 50% (50 M shares)                               | 41.6%                                                            | 34%                                                                    | 28%                                         |
+| Team option pool                              | 45% (45 M)                                      | 37.5%                                                            | 31%                                                                    | 26%                                         |
+| Investors                                     | 2% (2 M)                                        | +20% (20 M shares)                                               | +20% (24 M shares)                                                     | +20% <br />(28.8 M shares)                  |
+| Advisors<br />(~0.1-1% per person)            | 3% (3 M)                                        |                                                                  |                                                                        |                                             |
+| Shares total                                  | 100 M                                           | 120 M                                                            | 144 M                                                                  | 172.8 M                                     |
+| Capital to raise in convertible loan (in EUR) | 40k                                             | 1M                                                               | 3M                                                                     | 10M                                         |
+| Post-money valuation                          | 2M                                              | 7M                                                               | 15M                                                                    | 50M                                         |
+| Fundraising goal                              | for software and hardware prototype development | Develop IoT<br>Enter the market<br><br>Develop Entrance Observer | Enter the market with Entrance Observer<br><br>Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
+| Share value                                   | 0.04                                            | 6                                                                | 11.5                                                                   | 34                                          |
+| Join time risk coefficient                    | 10                                              | 5                                                                | 1.5                                                                    | 1                                           |
 ### Team option pool
-We estimate company to have at its peak a total of 100 employees
 
 | Hiring stage | Role                         | Shares     | Percentage of total shares |
 | ------------ | ---------------------------- | ---------- | -------------------------- |
+| pre-seed     | **IoT Specialist**           | 1,500,000  | 1.50%                      |
 | pre-seed     | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      |
+| pre-seed     | **Community Manager**        | 1,000,000  | 1.00%                      |
 |              | **CTO**                      | 5,000,000  | 5.00%                      |
 |              | **CPO**                      | 2,500,000  | 2.50%                      |
 |              | **Lead Software Engineer**   | 1,500,000  | 1.50%                      |
 |              | **Robotics Engineer**        | 1,500,000  | 1.50%                      |
-|              | **IoT Specialist**           | 1,500,000  | 1.50%                      |
-|              | **Community Manager**        | 1,000,000  | 1.00%                      |
 |              | **Pre-Seed Investors**       | 5,000,000  | 5.00%                      |
 |              | CMO                          | 2,000,000  | 2.00%                      |
 |              | COO                          | 3,000,000  | 3.00%                      |
