@@ -16,10 +16,9 @@ Gratheon develops an open source, modular, [🧿 Robotic Beehive](products/🧿%
 - **scalable precise pollination** means that using our service, beekeepers can manage more bee colonies and they can be placed at the right location farmers and bees would benefit the most to cover crop field most efficiently
 
 ### Elevator pitch for the investors 💶
-📢 Do you love honey? 5 years ago I became a beekeeper to improve pollination of my garden and get more apples.
+📢 Do you like honey, how about apples? 5 years ago I became a beekeeper to get both by improving pollination of my garden and taking care of the cutest bees.
 
-Soon enough I understood that bees can [🧶 Swarm](../🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](../🌨️%20Problems/🦀%20Infestations.md). 
-Beekeeper needs to lift heavy beehives every week to inspect and treat bees, otherwise bees get weak and die over the winter. 
+Soon enough I understood that bees can [🧶 Swarm](../🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](../🌨️%20Problems/🦀%20Infestations.md). To manage that, I had to lift heavy beehives every week to inspect and treat bees, otherwise they would get weak and die over the winter. And I did lose lots of fami
 
 Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time automatically. This allows to save time, travel to the field and scale precise pollination, giving 40% more crop yields to farmers.
 

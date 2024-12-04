@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Competition/beeing.md",
+                "file": "about/🌻 Purpose/🌻 Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beeing"
+              "title": "🌻 Purpose"
             }
           }
         ]
@@ -167,12 +167,12 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "research/Competition/beeing.md",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
     "research/Competition/img/Pasted image 20241204141137.png",
     "research/Competition/img/Pasted image 20241204141124.png",
     "research/Competition/3bee.md",
-    "research/Competition/beeing.md",
     "research/Competition/img/Pasted image 20241204140904.png",
     "research/Competition/img/Pasted image 20241204140854.png",
     "research/Competition/🇺🇸 Best Bees.md",
@@ -210,7 +210,6 @@
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/temp.webp"
+    "build/img/undraw_docusaurus_mountain.svg"
   ]
 }
