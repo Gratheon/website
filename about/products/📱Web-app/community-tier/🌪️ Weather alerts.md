@@ -1,6 +1,8 @@
 ---
 status: complete
 ---
+## Problem
+- [🗃️ Storm wind collapsing beehives](../../../🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
 
 ## User story
 
@@ -11,7 +13,6 @@ status: complete
     - wind
     - humidity
     - rain percentage
+- If there is a storm or heatwave reported by weather forecast, then user receives an alert (SMS or other configured channels)
 
-## Future / related
-
-[Weather alerts](https://www.notion.so/Weather-alerts-a930050b479e4b6cacfdae2fed669146?pvs=21)
+![](img/Screenshot%202024-12-02%20at%2003.34.33.png)

@@ -30,7 +30,7 @@ If you buy a device, you are not vendor-locked and we do not force you to pay fo
 | Feature                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------- |
 | [🌍 Localization](📱Web-app/community-tier/🌍%20Localization.md)                                                           |
-| [🌪️ weather graph](📱Web-app/community-tier/🌪️%20weather%20graph.md)                                                     |
+| [🌪️ Weather alerts](📱Web-app/community-tier/🌪️%20Weather%20alerts.md)                                                     |
 | [🌻 list of local plants](📱Web-app/community-tier/🌻%20list%20of%20local%20plants.md)                                     |
 | [🐝 Honeycomb cell detection & management](📱Web-app/community-tier/🐝%20Honeycomb%20cell%20detection%20&%20management.md) |
 | [🐝 Worker bee detection](📱Web-app/community-tier/🐝%20Worker%20bee%20detection.md)                                       |
