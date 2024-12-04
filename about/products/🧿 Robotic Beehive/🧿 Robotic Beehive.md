@@ -49,8 +49,8 @@ Main flow is to:
 | [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
 | [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
 | [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
-| [📸 Full hive inspection](ideas/📸%20Full%20hive%20inspection.md)                                                                                           |
-| [📸 Real-time frame scanning](ideas/📸%20Real-time%20frame%20scanning.md)                                                                                   |
+| [📸 Full hive inspection](todo/📸%20Full%20hive%20inspection.md)                                                                                           |
+| [📸 Real-time frame scanning](todo/📸%20Real-time%20frame%20scanning.md)                                                                                   |
 | [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
 | [🔌 Energy autonomy](ideas/🔌%20Energy%20autonomy.md)                                                                                                       |
 | [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |

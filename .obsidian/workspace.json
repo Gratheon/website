@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/index.md",
+                "file": "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🎙️ 6-channel audio monitoring"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 567.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -167,6 +167,18 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "static/deck.pdf",
+    "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
+    "about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis.md",
+    "about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX.md",
+    "about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees.md",
+    "about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour.md",
+    "about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack.md",
+    "about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind.md",
+    "about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder.md",
+    "about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode.md",
+    "about/products/index.md",
+    "about/products/🧿 Robotic Beehive/todo",
     "about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection.md",
     "about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring.md",
     "about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX.md",
@@ -182,25 +194,13 @@
     "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud.md",
     "about/products/👁️‍🗨️ Entrance Observer/ideas/👑 Detect queen mating from entrance video.md",
     "about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Guard detection.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Detect swarming from entrance video.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
-    "about/products/index.md",
-    "about/products/🧑‍🚀 Actions beekeepers make.md",
-    "about/company/☑️ Features and tasks.md",
-    "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
     "about/products/🌡️ Beehive IoT sensors/todo",
-    "static/deck.pdf",
-    "static/deck.pdf",
-    "about/index.md",
-    "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "about/deck.pdf",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
     "build/blog/rss.css",
-    "build/blog/rss.xsl",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -210,8 +210,6 @@
     "build/img/sensors.webp",
     "build/img/queens.webp",
     "build/img/robot.jpeg",
-    "build/img/playback.webp",
-    "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "docs/Docs.md"
+    "build/img/playback.webp"
   ]
 }
