@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/🌻 Purpose.md",
+                "file": "about/🌻 Purpose/Company mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌻 Purpose"
+              "title": "Company mission"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "0a8944cf698e4fcf",
   "lastOpenFiles": [
+    "about/🌻 Purpose/🌻 Purpose.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
     "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
     "static/deck.pdf",
@@ -194,7 +195,6 @@
     "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud.md",
     "about/products/👁️‍🗨️ Entrance Observer/ideas/👑 Detect queen mating from entrance video.md",
-    "about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Guard detection.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
     "about/deck.pdf",
