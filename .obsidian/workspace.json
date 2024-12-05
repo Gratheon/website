@@ -15,7 +15,7 @@
               "state": {
                 "file": "about/company/🍰 Equity and fundraising plan.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "🍰 Equity and fundraising plan"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/about/about/Brand meaning.md",
+                "file": "about/company/🍰 Equity and fundraising plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brand meaning"
+              "title": "Backlinks for 🍰 Equity and fundraising plan"
             }
           },
           {
