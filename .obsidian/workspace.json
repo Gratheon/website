@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/🍰 Equity and fundraising plan.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍰 Equity and fundraising plan"
+              "title": "index"
             }
           }
         ]
@@ -161,29 +161,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
+    "about/company/🍰 Equity and fundraising plan.md",
+    "about/company/🤲 Why open source.md",
+    "about/❤️‍🔥 Volunteers.md",
+    "about/company/index.md",
+    "about/company/🏇 Go to market strategy.md",
+    "about/company/📊 Market analysis.md",
+    "about/🌻 Purpose/Naming.md",
+    "about/🌻 Purpose/🌻 Purpose.md",
+    "about/index.md",
+    "about/🌻 Purpose/Symbolism.md",
+    "about/🌻 Purpose/Ethics.md",
+    "about/🌻 Purpose/Company mission.md",
     "static/deck.pdf",
     "about/company/🫀 Culture and values/🫀 Culture and values.md",
-    "about/company/🍰 Equity and fundraising plan.md",
-    "about/company/🏇 Go to market strategy.md",
-    "about/❤️‍🔥 Volunteers.md",
-    "about/index.md",
-    "about/🌻 Purpose/🌻 Purpose.md",
     "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
     "2024-12-04.md",
     "about/products/📱Web-app/community-tier/img/Screenshot 2024-12-02 at 03.34.33.png",
     "about/products/📱Web-app/community-tier/img",
     "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
-    "about/company/🤲 Why open source.md",
     "about/company/Processes",
     "about/company/Processes/☑️ Features and tasks.md",
-    "about/company/📊 Market analysis.md",
-    "about/🌻 Purpose/Company mission.md",
     "research/Competition/beeing.md",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
@@ -198,9 +203,6 @@
     "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
     "about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis.md",
     "about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX.md",
-    "about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees.md",
-    "about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour.md",
-    "about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack.md",
     "about/products/🧿 Robotic Beehive/todo",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
