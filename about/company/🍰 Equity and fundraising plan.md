@@ -25,9 +25,9 @@ This is an approximate expected distribution of shares over time.
 	- every employee owns options
 	- amount of options depends on:
 		- role (responsibility)
-		- tenure (knowledge)
-		- 360 review (compassion)
-		- performance (action)
+		- impact (knowledge)
+		- peer review (compassion)
+		- performance (revenue generation)
 
 ![](img/Screenshot%202024-12-06%20at%2000.30.39.png)
 
