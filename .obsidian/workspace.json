@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "🍰 Equity and fundraising plan"
             }
-          },
-          {
-            "id": "a779c2cf9b15e7d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a779c2cf9b15e7d0",
+  "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
     "about/company/img/Screenshot 2024-12-05 at 20.18.08.png",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
