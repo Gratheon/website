@@ -3,7 +3,7 @@
 ![](../img/pie.jpg)
 </div></div>
 
-💡 This page is summarizing the rough **plan** of the equity program for the employees, founders, investors and advisors.
+💡 This page is summarizing the rough long-term **plan** of the equity program for the employees, founders, investors and advisors.
 
 Equity is a mechanism of motivation and compensation at startups with early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. 
 
