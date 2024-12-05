@@ -161,11 +161,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
+    "about/company/img/Screenshot 2024-12-06 at 00.30.39.png",
     "about/company/img/Screenshot 2024-12-05 at 23.29.18.png",
     "about/index.md",
     "about/🌨️ Problems/🦀 Infestations.md",
@@ -210,7 +212,6 @@
     "about/deck.pdf",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/blog/atom.css",
-    "build/img/varroa.webp"
+    "build/blog/atom.css"
   ]
 }

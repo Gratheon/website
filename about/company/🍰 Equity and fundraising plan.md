@@ -3,7 +3,7 @@
 ![](../img/pie.jpg)
 </div></div>
 
-💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors.
+💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [🫀 Culture and values](🫀%20Culture%20and%20values/🫀%20Culture%20and%20values.md) and reasoning
 
 Equity is a mechanism of motivation and compensation at startups with early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. 
 
@@ -13,22 +13,51 @@ Making everyone owning the company is part of our company values - [Team effort 
 
 This is an approximate expected distribution of shares over time.
 - For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
-  
-- Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
-    
-- Options are given out (vested) in equal monthly portions over 4 years with 1 year cliff
-  
+	- Options are given out (vested) in equal monthly portions
+	- Options are **virtual** and are not affecting the legal body of Gratheon OÜ registry as mentioned in [Legal training by Hedman](https://www.notion.so/Legal-training-by-Hedman-6144b4856a8a4ffbbe28f145d4b4470e?pvs=21), mostly because its hard to alter real shares in the registry.
+
 - Note that equity distribution is an investment opportunity stake in the company, but it does not give voting (board control) rights in the same proportions. This is done intentionally so that 
 	- team and investment pools could be larger
 	- keep control in founder hands until board is sufficiently large enough
 	- team could choose balance between salary and equity
-- Founder shares are Class A type, giving 10x voting rights to keep control of the company until it is public against excessive dilution while keeping monetary incentive for the team and investors
+- Founder shares are Class A type, giving 10x voting rights to keep **control** of the company until it is public against excessive dilution while keeping monetary incentive for the team and investors
+- As company matured, founders are moved to supportive roles and their shares are diluted in order to create team-centric culture where so team pool is expanded
+	- every employee owns options
+	- amount of options depends on:
+		- role (responsibility)
+		- tenure (knowledge)
+		- 360 review (compassion)
+		- performance (action)
+
+![](img/Screenshot%202024-12-06%20at%2000.30.39.png)
 
 
-| Fundraising goal                                            | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
-| ----------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
+|                                                             | angel phase 🪽                                         | pre-seed 🫛                                                            | seed 🌱                                                                    | series A 🌳                                 | series B 🌳  |
+| ----------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- | ------------ |
+| Founder shares (Class A, 10x voting rights) in millions     | 60                                                     | 60                                                                     | 60                                                                         | 60                                          | 60           |
+| Co-founder shares in millions                               | 15                                                     | 15                                                                     | 15                                                                         | 15                                          | 15           |
+| Team option pool (options, in millions)                     | 20                                                     | 20                                                                     | 25                                                                         | 50                                          | 90           |
+| Advisor shares                                              | 3                                                      | 3                                                                      | 4                                                                          | 5                                           | 6            |
+| Investor shares (Convertible Notes) in millions             | 2                                                      | 22                                                                     | 47                                                                         | 77                                          | 107          |
+| Shares total (in millions)                                  | 100                                                    | 120                                                                    | 151                                                                        | 207                                         | 278          |
+|                                                             |                                                        |                                                                        |                                                                            |                                             |              |
+| Founder Shares (%)                                          | 60                                                     | 50                                                                     | 39,73509934                                                                | 28,98550725                                 | 21,58273381  |
+| Co-Founder Shares (%)                                       | 15                                                     | 12,5                                                                   | 9,933774834                                                                | 7,246376812                                 | 5,395683453  |
+| Team option pool (%)                                        | 20                                                     | 16,66666667                                                            | 16,55629139                                                                | 24,15458937                                 | 32,37410072  |
+| Total Investor shares (Convertible Notes, %)                | 2                                                      | 18,33333333                                                            | 31,12582781                                                                | 37,19806763                                 | 38,48920863  |
+| Advisors shares (%)                                         | 3                                                      | 2,5                                                                    | 2,649006623                                                                | 2,415458937                                 | 2,158273381  |
+| Total percent                                               | 100                                                    | 100                                                                    | 100                                                                        | 100                                         | 100          |
+|                                                             |                                                        |                                                                        |                                                                            |                                             |              |
+| New investors shares (Convertible Notes) issued in millions | 0                                                      | 20                                                                     | 25                                                                         | 30                                          | 30           |
+| New Investors shares issued after dilution (%)              | 2                                                      | 16,66666667                                                            | 16,55629139                                                                | 14,49275362                                 | 10,79136691  |
+| Capital to raise (in millions of EUR)                       | 0,04                                                   | 1                                                                      | 5                                                                          | 15                                          | 40           |
+| Total capital raised (in millions of EUR)                   | 0,04                                                   | 1,04                                                                   | 6,04                                                                       | 21,04                                       | 61,04        |
+| Post-money valuation (in millions of EUR)                   | 2                                                      | 5,67                                                                   | 19,41                                                                      | 56,56                                       | 158,59       |
+| Sum of all shares % (for double-checking)                   | 100                                                    | 100                                                                    | 100                                                                        | 100                                         | 100          |
+| Share price (EUR, est)                                      | 0,0004                                                 | 0,008666666667                                                         | 0,04                                                                       | 0,1016425121                                | 0,2195683453 |
+| Fundraising goal                                            | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |              |
 
-![](img/Screenshot%202024-12-05%20at%2023.29.18.png)
+
 
 
 ### Team option pool distribution and hiring plan
