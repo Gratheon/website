@@ -32,7 +32,6 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 | Post-money valuation (in millions of EUR) | 2                                                      | 4,81                                                                   | 10,43                                                                      | 27,53                                       |
 | Fundraising goal                          | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
 
-
 ### Team option pool distribution and hiring plan
 
 | Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                                    |
@@ -101,9 +100,9 @@ The negative side is that it is not possible to balance in advance amount of emp
 
 
 ![](img/levels.png)
-
 Vesting in different companies, source - **Levels.fyi**
 
+![](img/Screenshot%202024-12-05%20at%2020.18.08.png)
 ## Software to consider
 
 - [koos.io](http://koos.io)

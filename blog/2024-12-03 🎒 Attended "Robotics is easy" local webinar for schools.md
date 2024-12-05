@@ -81,3 +81,9 @@ Here Lauri explains that his students worked on making battery swapping easy
 
 
 ![](img/Screenshot%202024-12-03%20at%2014.12.00.png)
+
+
+
+upd. found a recording!
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/hvacnkdtcvg" title="Digilõunad-veebikoolitussari „Robootika-see on imelihtne“ Reet Allik, Lauri Vilibert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
