@@ -3,7 +3,7 @@
 ![](../img/pie.jpg)
 </div></div>
 
-💡 This page is summarizing the rough long-term **plan** of the equity program for the employees, founders, investors and advisors.
+💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors.
 
 Equity is a mechanism of motivation and compensation at startups with early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. 
 
@@ -48,6 +48,8 @@ This is an approximate expected distribution of shares over time.
 | Sum of all shares % (for double-checking)                   | 100                                                    | 100                                                                    | 100                                                                        | 100                                         |
 | Share price (EUR, est)                                      | 0,0004                                                 | 0,00832                                                                | 0,03751552795                                                              | 0,0814213198                                |
 | Fundraising goal                                            | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
+
+![](img/Screenshot%202024-12-05%20at%2023.29.18.png)
 
 
 ### Team option pool distribution and hiring plan
