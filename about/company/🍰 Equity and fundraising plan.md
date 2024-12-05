@@ -21,7 +21,7 @@ This is an approximate expected distribution of shares over time.
 	- keep control in founder hands until board is sufficiently large enough
 	- team could choose balance between salary and equity
 - Founder shares are Class A type, giving 10x voting rights to keep **control** of the company until it is public against excessive dilution while keeping monetary incentive for the team and investors
-- As company matured, founders are moved to supportive roles and their shares are diluted in order to create team-centric culture where so team pool is expanded
+- As company matures, founders are moved to supportive roles and their shares are diluted in order to create team-centric culture where so team pool is expanded
 	- every employee owns options
 	- amount of options depends on:
 		- role (responsibility)
