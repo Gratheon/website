@@ -15,6 +15,3 @@ Gratheon develops an open source, modular, [🧿 Robotic Beehive](products/🧿%
 - **data service** means that we earn money from subscription service for managing hive data such as timeseries telemetry, image and video footage that is processed using AI models
 - **scalable precise pollination** means that using our service, beekeepers can manage more bee colonies and they can be placed at the right location farmers and bees would benefit the most to cover crop field most efficiently
 
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/lcJt2vBEJew" title="About Gratheon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
