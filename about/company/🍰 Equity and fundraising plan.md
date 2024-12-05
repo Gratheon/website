@@ -14,19 +14,24 @@ Making everyone owning the company is part of our company values - [Team effort 
 This is an approximate expected distribution of shares over time.
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
-| Who                                           | angel phase 🪽                                         | pre-seed 🫛                                                            | seed 🌱                                                                    | series A 🌳                                 |
-| --------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
-| Founder                                       | 50% (50 M shares)                                      | 41.6%                                                                  | 34%                                                                        | 28%                                         |
-| Co-founder                                    | 10% (10 M shares)                                      |                                                                        |                                                                            |                                             |
-| Team option pool                              | 35% (35 M)                                             | 37.5%                                                                  | 31%                                                                        | 26%                                         |
-| Investors                                     | 2% (2 M)<br />(if skipped, joins team option pool)     | +20% (20 M shares)                                                     | +20% (24 M shares)                                                         | +20% <br />(28.8 M shares)                  |
-| Advisors<br />(~0.1-1% per person)            | 3% (3 M)                                               |                                                                        |                                                                            |                                             |
-| Shares total                                  | 100 M                                                  | 120 M                                                                  | 144 M                                                                      | 172.8 M                                     |
-| Capital to raise in convertible loan (in EUR) | 40k                                                    | 1M                                                                     | 3M                                                                         | 10M                                         |
-| Post-money valuation                          | 2M                                                     | 7M                                                                     | 15M                                                                        | 50M                                         |
-| Fundraising goal                              | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
-| Share value                                   | 0.04                                                   | 6                                                                      | 11.5                                                                       | 34                                          |
-| Join time risk coefficient                    | 10                                                     | 5                                                                      | 1.5                                                                        | 1                                           |
+|                                               |                |             |         |             |
+| --------------------------------------------- | -------------- | ----------- | ------- | ----------- |
+|                                               | angel phase 🪽 | pre-seed 🫛 | seed 🌱 | series A 🌳 |
+| Founder (%)                                   | 50             | 41,67       | 34,73   | 28,94       |
+| Co-founder (%)                                | 10             | 8,33        | 6,94    | 5,78        |
+| Team option pool (%)                          | 35             | 29,17       | 24,31   | 20,25       |
+| New Investors shares issued (%)               | 2              | 16,67       | 16,67   | 16,67       |
+| Total Investor shares (%)                     | 2              | 18,67       | 32,56   | 44,13       |
+| Advisors shares (%)  <br />(~0.1-1% per person) | 3              |             |         |             |
+| Team option pool (shares in millions)         | 35             | 35          | 35      | 35          |
+| Shares total (in millions)                    | 100            | 120         | 144     | 172,8       |
+| Capital to raise (in millions of EUR)         | 0,04           | 1           | 3       | 10          |
+| Total capital raised (in millions of EUR)     | 0,04           | 1,04        | 4,04    | 14,04       |
+| Post-money valuation (in millions of EUR)     | 2              | 5,57        | 12,41   | 31,82       |
+
+| Fundraising goal | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
+| ---------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
+
 ### Team option pool distribution and hiring plan
 
 | Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                                    |

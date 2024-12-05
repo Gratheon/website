@@ -15,7 +15,7 @@
               "state": {
                 "file": "about/company/🍰 Equity and fundraising plan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "🍰 Equity and fundraising plan"
@@ -161,7 +161,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a2772df4a53f4a0e",
