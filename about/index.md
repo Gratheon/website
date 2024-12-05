@@ -18,9 +18,9 @@ Gratheon develops open source, modular, [🧿 Robotic Beehive](products/🧿%20R
 
 📢 Do you like honey, how about apples? 5 years ago I became a beekeeper to get both by improving pollination of my garden and taking care of the cutest bees.
 
-Soon enough I understood that bees can [🧶 Swarm](../🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](../🌨️%20Problems/🦀%20Infestations.md). To manage that, I had to lift heavy beehives every week to inspect and treat bees, otherwise they would get weak and die over the winter. Losing a colony is not just 300 euros of monetary loss, its also amotion, time and effort 
+Soon enough I understood that bees can [🧶 Swarm](./🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](./🌨️%20Problems/🦀%20Infestations.md). To manage that, I had to lift heavy beehives every week to inspect and treat bees, otherwise they would get weak and die over the winter. Losing a colony is not just 300 euros of monetary loss, its also amotion, time and effort 
 
-Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time automatically. This allows to save time, travel to the field and scale precise pollination, giving 40% more crop yields to farmers.
+Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](./products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time automatically. This allows to save time, travel to the field and scale precise pollination, giving 40% more crop yields to farmers.
 
 We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising either 30k angel to keep bootstrapping or 1M pre-seed investments for 2 years of runway. 
 Join us to help 2 million beekeepers.

@@ -167,8 +167,10 @@
   },
   "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
-    "about/img/artjom-exhausted.png",
+    "about/🌨️ Problems/🦀 Infestations.md",
     "about/index.md",
+    "about/🌨️ Problems/🧶 Swarming.md",
+    "about/img/artjom-exhausted.png",
     "about/company/🍰 Equity and fundraising plan.md",
     "about/company/img/Screenshot 2024-12-05 at 20.18.08.png",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
@@ -203,7 +205,6 @@
     "research/Competition/🇺🇸 Best Bees.md",
     "research/Competition/Competition.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
-    "about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring.md",
     "about/products/🧿 Robotic Beehive/todo",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
@@ -211,7 +212,6 @@
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
-    "build/img/varroa.webp",
-    "build/img/undraw_docusaurus_tree.svg"
+    "build/img/varroa.webp"
   ]
 }
