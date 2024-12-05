@@ -14,23 +14,23 @@ Making everyone owning the company is part of our company values - [Team effort 
 This is an approximate expected distribution of shares over time.
 For team option pool and founders, we will have 1 year cliff, 4 years of vesting time since official hiring and since first investments
 
-
-|                                           | angel phase 🪽                                         | pre-seed 🫛                                                            | seed 🌱                                                                    | series A 🌳                                 |
-| ----------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------- |
-| Founder (%)                               | 50                                                     | 40                                                                     | 31,25                                                                      | 25                                          |
-| Co-founder (%)                            | 10                                                     | 8                                                                      | 6,25                                                                       | 5                                           |
-| Team option pool (%)                      | 35                                                     | 28                                                                     | 21,875                                                                     | 17,5                                        |
-| Total Investor shares (%)                 | 2                                                      | 21,6                                                                   | 38,75                                                                      | 51                                          |
-| Advisors shares (%)                       | 3                                                      | 2,4                                                                    | 1,875                                                                      | 1,5                                         |
-| New investors shares issued in millions   | 0                                                      | 25                                                                     | 35                                                                         | 40                                          |
-| Shares total (in millions)                | 100                                                    | 125                                                                    | 160                                                                        | 200                                         |
-| Total investor shares in millions         | 2                                                      | 27                                                                     | 62                                                                         | 102                                         |
-| New Investors shares issued (%)           | 2                                                      | 20                                                                     | 21,875                                                                     | 20                                          |
-| Team option pool (shares in millions)     | 35                                                     | 35                                                                     | 35                                                                         | 35                                          |
-| Capital to raise (in millions of EUR)     | 0,04                                                   | 1                                                                      | 3                                                                          | 10                                          |
-| Total capital raised (in millions of EUR) | 0,04                                                   | 1,04                                                                   | 4,04                                                                       | 14,04                                       |
-| Post-money valuation (in millions of EUR) | 2                                                      | 4,81                                                                   | 10,43                                                                      | 27,53                                       |
+|                                               | angel phase 🪽 | pre-seed 🫛 | seed 🌱     | series A 🌳 |
+| --------------------------------------------- | -------------- | ----------- | ----------- | ----------- |
+| Founder (%)                                   | 66             | 57,89473684 | 50,38167939 | 40,99378882 |
+| Co-founder (%)                                | 10             | 8,771929825 | 7,633587786 | 6,211180124 |
+| Team option pool (%)                          | 20             | 17,54385965 | 15,26717557 | 12,42236025 |
+| Total Investor shares (%)                     | 2              | 14,03508772 | 25,19083969 | 39,13043478 |
+| Advisors shares (%) | 2              | 1,754385965 | 1,526717557 | 1,242236025 |
+| New investors shares issued in millions       | 0              | 14          | 17          | 30          |
+| Shares total (in millions)                    | 100            | 114         | 131         | 161         |
+| Total investor shares in millions             | 2              | 16          | 33          | 63          |
+| New Investors shares issued (%)               | 2              | 12,28070175 | 12,97709924 | 18,63354037 |
+| Team option pool (shares in millions)         | 35             | 35          | 35          | 35          |
+| Capital to raise (in millions of EUR)         | 0,04           | 1           | 3           | 10          |
+| Total capital raised (in millions of EUR)     | 0,04           | 1,04        | 4,04        | 14,04       |
+| Post-money valuation (in millions of EUR)     | 2              | 7,41        | 16,04       | 35,88       |
 | Fundraising goal                          | Bootstrap, develop prototype until investors are ready | Develop IoT<br />Enter the market<br /><br />Develop Entrance Observer | Enter the market with Entrance Observer<br /><br />Develop Robotic Beehive | Enter market with Robotic Beehive in Europe |
+
 
 ### Team option pool distribution and hiring plan
 

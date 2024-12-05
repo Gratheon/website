@@ -11,7 +11,7 @@ Inspections need to happen at daytime when its sunny, so that most of the worker
 Hive frames are glued together with propolis and need extra tools to separate them.
 In addition to inspections, [🧑‍🚀 Actions beekeepers make](../products/🧑‍🚀%20Actions%20beekeepers%20make.md) may also require physical work
 
-![](../🌻%20Purpose/img/artjom-exhausted.png)
+![](../img/artjom-exhausted.png)
 
 ![](../img/Screenshot%202024-06-14%20at%2017.25.01.png)
 

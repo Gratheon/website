@@ -25,7 +25,7 @@ Imagine a new type of modular robotic beehive that inspects the bees and [ðŸ‘¨ðŸ
 We are engineers from companies like Pipedrive, Clarifai, Fits.me and we are raising either 30k angel to keep bootstrapping or 1M pre-seed investments for 2 years of runway. 
 Join us to help 2 million beekeepers.
 
-![](img/artjom-exhausted.png)
+![](./img/artjom-exhausted.png)
 
 
 ## 5 min pitch
