@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/company/🍰 Equity and fundraising plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🍰 Equity and fundraising plan"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "a2772df4a53f4a0e",
   "lastOpenFiles": [
-    "about/🌨️ Problems/🦀 Infestations.md",
     "about/index.md",
+    "about/🌨️ Problems/🦀 Infestations.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "about/img/artjom-exhausted.png",
     "about/company/🍰 Equity and fundraising plan.md",
