@@ -36,18 +36,19 @@ For team option pool and founders, we will have 1 year cliff, 4 years of vesting
 
 | Hiring stage | Role                         | Shares     | Percentage of total shares | Goal                                    |
 | ------------ | ---------------------------- | ---------- | -------------------------- | --------------------------------------- |
-| pre-seed 🫛  | **Full-stack Engineer**      | 2,500,000  | 2.50%                      | Web-app, general engineering            |
-| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,500,000  | 1.50%                      | Timeseries analytics, vision processing |
-| seed 🌱      | CMO                          | 2,000,000  | 2.00%                      | Marketing campaigns, building community |
-| seed 🌱      | **CTO**                      | 5,000,000  | 5.00%                      | General engineering, team work          |
+| pre-seed 🫛  | **Full-stack Engineer**      | 1,000,000  | 1%                         | Web-app, general engineering            |
+| pre-seed 🫛  | **Data Scientist (AI/ML)**   | 1,000,000  | 1%                         | Timeseries analytics, vision processing |
+| seed 🌱      | **CTO**                      | 3,000,000  | 3%                         | General engineering, team work          |
+| seed 🌱      | CMO                          | 2,000,000  | 2%                         | Marketing campaigns, building community |
 | seed 🌱      | Infrastructure / SRE         | 1,000,000  | 1%                         | Scaling and supporting microservices    |
-| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      | Develop robotic beehive                 |
-| seed 🌱      | **Robotics Engineer**        | 1,500,000  | 1.50%                      | Develop robotic beehive                 |
-| series A 🌳  | **CPO**                      | 2,500,000  | 2.50%                      |                                         |
-| series A 🌳  | **Community Manager**        | 1,000,000  | 1.00%                      |                                         |
-| series A 🌳  | Head of Support              | 2,000,000  | 2.00%                      |                                         |
-| series A 🌳  | Head of Sales                | 1,500,000  | 1.50%                      |                                         |
-|              | **Remaining in Option Pool** | 13,500,000 | 13.50%                     |                                         |
+| seed 🌱      | **Robotics Engineer**        | 1,000,000  | 1%                         | Develop robotic beehive                 |
+| seed 🌱      | **Robotics Engineer**        | 1,000,000  | 1%                         | Develop robotic beehive                 |
+| series A 🌳  | **CPO**                      | 2,000,000  | 2%                         |                                         |
+| series A 🌳  | **Community Manager**        | 500,000    | 0.5%                       |                                         |
+| series A 🌳  | Head of Support              | 1,000,000  | 1%                         |                                         |
+| series A 🌳  | Head of Sales                | 1,000,000  | 1%                         |                                         |
+|              | **Remaining in Option Pool** | 10,500,000 | 10.50%                     |                                         |
+
 
 
 ## Gratheon-specific clarifications
