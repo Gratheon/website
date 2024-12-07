@@ -119,6 +119,8 @@ The negative side is that it is not possible to balance in advance amount of emp
 Vesting in different companies, source - **Levels.fyi**
 
 ![](img/Screenshot%202024-12-05%20at%2020.18.08.png)
+
+![](img/WhatsApp%20Image%202024-12-06%20at%2009.50.40.jpeg)
 ## Software to consider
 
 - [koos.io](http://koos.io)
