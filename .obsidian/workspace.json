@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/API/API.md",
+                "file": "docs/API.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,10 +165,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "ea4c41205fd655a4",
   "lastOpenFiles": [
+    "docs/Docs.md",
+    "docs/API.md",
     "docs/API/Authentication.md",
-    "docs/API/API.md",
     "docs/robotic-beehive/robotic-beehive.md",
     "docs/entrance-observer/entrance-observer.md",
     "docs/beehive-sensors/beehive-sensors.md",
@@ -201,7 +202,6 @@
     "about/products/📱Web-app/community-tier/img/Screenshot 2024-12-02 at 03.34.33.png",
     "about/products/📱Web-app/community-tier/img",
     "about/company/Processes/🎥 Meeting recordings.md",
-    "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/Processes",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
