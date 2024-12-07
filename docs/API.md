@@ -19,7 +19,7 @@ This API is most flexible, but it is also changing often and can introduce break
 
 <iframe src="https://graphql.gratheon.com/graphql" width="100%" height="700"></iframe>
 
-### Listing apiaries with API token
+### Listing apiaries
 
 Here is a CURL example that simply lists apiaries:
 
@@ -31,7 +31,11 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 ```
 
 
-## Telemetry REST API
+## REST APIs
+In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
+
+REST API should be more fixed in time compared 
+### Telemetry 
 
 ```
 https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
