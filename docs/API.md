@@ -17,7 +17,7 @@ We use federated GraphQL as main flexible way to query and modify web-app data. 
 
 This API is most flexible, but it is also changing often and can introduce breaking changes
 
-<iframe src="https://graphql.gratheon.com/graphql" width=100% height=700></iframe>
+<iframe src="https://graphql.gratheon.com/graphql" width="100%" height="700"></iframe>
 
 ### Listing apiaries with API token
 
