@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f17b84927bdddbb6",
+        "id": "60963cad5428bf80",
         "type": "tabs",
         "children": [
           {
-            "id": "a2772df4a53f4a0e",
+            "id": "8d740b6475c59245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/company/🍰 Equity and fundraising plan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🍰 Equity and fundraising plan"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2772df4a53f4a0e",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/API",
+    "about/company/🍰 Equity and fundraising plan.md",
     "about/company/img/WhatsApp Image 2024-12-06 at 09.50.40.jpeg",
     "about/company/img/Screenshot 2024-12-06 at 00.30.39.png",
     "about/company/img/Screenshot 2024-12-05 at 23.29.18.png",
@@ -174,7 +172,6 @@
     "about/🌨️ Problems/🦀 Infestations.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "about/img/artjom-exhausted.png",
-    "about/company/🍰 Equity and fundraising plan.md",
     "about/company/img/Screenshot 2024-12-05 at 20.18.08.png",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "about/🌻 Purpose/🌻 Purpose.md",
@@ -203,7 +200,6 @@
     "research/Competition/img/Pasted image 20241204141137.png",
     "research/Competition/img/Pasted image 20241204141124.png",
     "research/Competition/3bee.md",
-    "research/Competition/img/Pasted image 20241204140904.png",
     "research/Competition/🇺🇸 Best Bees.md",
     "research/Competition/Competition.md",
     "about/products/🧿 Robotic Beehive/todo",
