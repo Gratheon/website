@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60963cad5428bf80",
+        "id": "62aca48ed5780b32",
         "type": "tabs",
         "children": [
           {
-            "id": "8d740b6475c59245",
+            "id": "ea4c41205fd655a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/API/API.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "API"
             }
           }
         ]
@@ -163,6 +167,12 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/API/Authentication.md",
+    "docs/API/API.md",
+    "docs/robotic-beehive/robotic-beehive.md",
+    "docs/entrance-observer/entrance-observer.md",
+    "docs/beehive-sensors/beehive-sensors.md",
+    "docs/📱 Web-app/📱 Web-app.md",
     "docs/API",
     "about/company/🍰 Equity and fundraising plan.md",
     "about/company/img/WhatsApp Image 2024-12-06 at 09.50.40.jpeg",
@@ -193,21 +203,15 @@
     "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/Processes",
-    "about/company/Processes/☑️ Features and tasks.md",
-    "research/Competition/beeing.md",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
     "research/Competition/img/Pasted image 20241204141137.png",
     "research/Competition/img/Pasted image 20241204141124.png",
-    "research/Competition/3bee.md",
-    "research/Competition/🇺🇸 Best Bees.md",
-    "research/Competition/Competition.md",
     "about/products/🧿 Robotic Beehive/todo",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
     "about/deck.pdf",
     "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/atom.css"
+    "build/blog/rss.xml"
   ]
 }

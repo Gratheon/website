@@ -1,6 +1,6 @@
 ---
 title: 👁️‍🗨️ Entrance observer
-sidebar_position: 4
+sidebar_position: 5
 hide_table_of_contents: true
 ---
 Main client service is [beehive-entrance-video-processor](https://github.com/Gratheon/beehive-entrance-video-processor), it needs to run on the edge device to capture and send data to web-app. Our main priority is inference on the edge device, but we also want to have hybrid inference with cloud support.

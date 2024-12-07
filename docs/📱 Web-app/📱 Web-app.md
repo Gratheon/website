@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: 📱 Web-app
 ---
 > Goal of this document is to kickstart your development of the web-app as an engineer

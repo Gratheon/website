@@ -1,6 +1,6 @@
 ---
 title: 🧿 Robotic beehive
-sidebar_position: 5
+sidebar_position: 6
 ---
 `status:draft`
 
