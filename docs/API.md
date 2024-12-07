@@ -31,3 +31,8 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 ```
 
 
+## Telemetry REST API
+
+```
+https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
+```
