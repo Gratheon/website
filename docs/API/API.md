@@ -16,7 +16,7 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 --header 'Authorization: Bearer API_TOKEN_HERE'
 ```
 
-![](img/Screenshot%202024-12-08%20at%2001.01.08.png)
+![](./img/Screenshot%202024-12-08%20at%2001.01.08.png)
 
 
 ## REST APIs

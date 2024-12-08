@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/API/REST APIs.md",
+                "file": "docs/API/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REST APIs"
+              "title": "API"
+            }
+          },
+          {
+            "id": "c2c11c573add4c82",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/API/img/Screenshot 2024-12-08 at 01.01.08.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot 2024-12-08 at 01.01.08"
             }
           }
         ]
@@ -167,10 +179,11 @@
   },
   "active": "ea4c41205fd655a4",
   "lastOpenFiles": [
+    "docs/API/img/Screenshot 2024-12-08 at 01.01.08.png",
     "docs/API/API.md",
+    "docs/API/img",
     "docs/API/REST APIs.md",
     "docs/API/GraphQL API.md",
-    "docs/img/Screenshot 2024-12-08 at 01.01.08.png",
     "docs/img/Screenshot 2024-12-08 at 00.58.43.png",
     "docs/Docs.md",
     "docs/API/Authentication.md",
@@ -201,7 +214,6 @@
     "about/🌻 Purpose/Company mission.md",
     "static/deck.pdf",
     "about/company/🫀 Culture and values/🫀 Culture and values.md",
-    "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
     "about/products/📱Web-app/community-tier/img/Screenshot 2024-12-02 at 03.34.33.png",
     "about/products/📱Web-app/community-tier/img",
     "about/company/Processes",
@@ -211,7 +223,6 @@
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
     "about/deck.pdf",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml"
+    "build/blog/atom.xml"
   ]
 }
