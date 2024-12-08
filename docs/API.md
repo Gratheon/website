@@ -15,10 +15,6 @@ To access our API, you will need to generate API token in [user profile](https:
 ## GraphQL API
 We use federated GraphQL as main flexible way to query and modify web-app data. You can explore its schema directly at https://graphql.gratheon.com/graphql
 
-This API is most flexible, but it is also changing often and can introduce breaking changes
-
-<iframe src="https://graphql.gratheon.com/graphql" width="100%" height="700"></iframe>
-
 ### Listing apiaries
 
 Here is a CURL example that simply lists apiaries:
@@ -31,12 +27,20 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 ```
 
 
+This API is most flexible, but it is also changing often and can introduce breaking changes
+
+<iframe src="https://graphql.gratheon.com/graphql" width="100%" height="700"></iframe>
+
+
 ## REST APIs
 In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
 
-REST API should be more fixed in time compared 
+REST API should be more fixed in time compared to GraphQL
 ### Telemetry 
+[IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data
 
 ```
-https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
+POST https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
+
+{"fields":{ "temperature":31.25, "weight": 82.34 }}
 ```
