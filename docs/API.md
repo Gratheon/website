@@ -33,14 +33,17 @@ This API is most flexible, but it is also changing often and can introduce break
 
 
 ## REST APIs
-In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
+In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like efficiency, reliability, stability, traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
 
-REST API should be more fixed in time compared to GraphQL
+REST API should be more fixed in time compared to GraphQL, but these APIs are very limited in their use-cases
 ### Telemetry 
-[IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data
+[IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data.
 
 ```
 POST https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
 
-{"fields":{ "temperature":31.25, "weight": 82.34 }}
+{
+	"hive"
+	"fields":{ "temperature":31.25, "weight": 82.34 }
+}
 ```
