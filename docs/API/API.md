@@ -20,7 +20,7 @@ REST API should be more fixed in time compared to GraphQL, but these APIs are ve
 [IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data.
 
 ```
-POST https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
+POST https://telemetry.gratheon.com/metric?api_token=API_TOKEN
 
 {
 	"hive_id": 123,
