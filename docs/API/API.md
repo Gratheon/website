@@ -9,21 +9,24 @@ You can also see how exactly we process this data - check out our architecture, 
 ## Quickstart
 To access our API, you will need to generate API token in [user profile](https://app.gratheon.com/account). Tokens allow us to authenticate you and have ratelimiting. You must pass this token in `Authorization` http header and have `Bearer ` as prefix, for example:
 
+```bash
+curl --location 'https://graphql.gratheon.com/graphql' \
+--header 'Content-Type: application/json' \
+--data '{"query":"{ apiaries { id name } }"}' \
+--header 'Authorization: Bearer API_TOKEN_HERE'
+```
+
 ![](img/Screenshot%202024-12-08%20at%2001.01.08.png)
 
 
 ## REST APIs
-In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like efficiency, reliability, stability, traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
 
-REST API should be more fixed in time compared to GraphQL, but these APIs are very limited in their use-cases
-### Telemetry 
 [IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data.
 
-```
-POST https://telemetry.gratheon.com/metric?api_token=API_TOKEN
-
-{
-	"hive_id": 123,
-	"fields":{ "temperature":31.25, "weight": 82.34 }
-}
+```bash
+curl --location 'https://telemetry.gratheon.com/metric?api_token=API_TOKEN' \
+--data '{
+"hive_id": 123,
+"fields":{ "temperature":31.25, "weight": 82.34 }
+}'
 ```
