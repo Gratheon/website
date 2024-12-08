@@ -43,7 +43,7 @@ REST API should be more fixed in time compared to GraphQL, but these APIs are ve
 POST https://telemetry.gratheon.com/metric/HIVE_ID?api_token=API_TOKEN
 
 {
-	"hive"
+	"hive_id": 123,
 	"fields":{ "temperature":31.25, "weight": 82.34 }
 }
 ```
