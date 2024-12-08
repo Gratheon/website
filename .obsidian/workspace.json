@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "REST APIs"
             }
-          },
-          {
-            "id": "c2c11c573add4c82",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/API/img/Screenshot 2024-12-08 at 01.01.08.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-12-08 at 01.01.08"
-            }
           }
         ]
       }
@@ -179,10 +167,10 @@
   },
   "active": "ea4c41205fd655a4",
   "lastOpenFiles": [
-    "docs/API/API.md",
     "docs/API/img/Screenshot 2024-12-08 at 01.01.08.png",
-    "docs/API/img",
     "docs/API/REST APIs.md",
+    "docs/API/API.md",
+    "docs/API/img",
     "docs/API/GraphQL API.md",
     "docs/img/Screenshot 2024-12-08 at 00.58.43.png",
     "docs/Docs.md",
