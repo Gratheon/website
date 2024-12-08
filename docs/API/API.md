@@ -12,26 +12,6 @@ To access our API, you will need to generate API token in [user profile](https:
 ![](img/Screenshot%202024-12-08%20at%2001.01.08.png)
 
 
-## GraphQL API
-We use federated GraphQL as main flexible way to query and modify web-app data. You can explore its schema directly at https://graphql.gratheon.com/graphql
-
-### Listing apiaries
-
-Here is a CURL example that simply lists apiaries:
-
-```bash
-curl --location 'https://graphql.gratheon.com/graphql' \
---header 'Content-Type: application/json' \
---data '{"query":"{ apiaries { id name } }"}' \
---header 'Authorization: Bearer API_TOKEN_HERE'
-```
-
-
-This API is most flexible, but it is also changing often and can introduce breaking changes
-
-<iframe src="https://graphql.gratheon.com/graphql" width="100%" height="700"></iframe>
-
-
 ## REST APIs
 In addition to GraphQL API, we do have microservice-specific separate REST APIs for various reasons, like efficiency, reliability, stability, traditional approach, simplicity for the client, limitations on sending binary data through graphql-router.
 

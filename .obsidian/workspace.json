@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/API.md",
+                "file": "docs/API/API.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,12 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea4c41205fd655a4",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/API/GraphQL API.md",
+    "docs/API/API.md",
     "docs/img/Screenshot 2024-12-08 at 01.01.08.png",
     "docs/img/Screenshot 2024-12-08 at 00.58.43.png",
     "docs/Docs.md",
-    "docs/API.md",
     "docs/API/Authentication.md",
     "docs/robotic-beehive/robotic-beehive.md",
     "docs/entrance-observer/entrance-observer.md",
@@ -206,7 +207,6 @@
     "about/company/Processes",
     "research/Competition/img/Screenshot 2024-12-04 at 14.12.04.png",
     "research/Competition/img/Pasted image 20241204141206.png",
-    "research/Competition/img/Pasted image 20241204141137.png",
     "about/products/🧿 Robotic Beehive/todo",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
     "about/products/🌡️ Beehive IoT sensors/todo",
