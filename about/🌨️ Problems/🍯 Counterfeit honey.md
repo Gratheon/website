@@ -6,3 +6,14 @@ Gratheon is committed to tackling this issue head-on by empowering beekeepers wi
 We do not do certifications ourselves, but as a platform, we allow honey producers to reference real beehives used in honey production, increasing consumer trust
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FNIdSod1ANw" title="𝐒𝐡𝐨𝐜𝐤𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐲 𝐚𝐭 𝐏𝐚𝐫𝐢𝐬 𝐒𝐈𝐀𝐋: Counterfeit Honey from the factory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Potential solutions
+### Honey DNA analysis
+![](img/Screenshot%202024-12-10%20at%2023.35.05.png)
+
+![](img/Screenshot%202024-12-10%20at%2023.38.15.png)
+
+![](img/Screenshot%202024-12-10%20at%2023.38.24.png)
+
+![](img/Screenshot%202024-12-10%20at%2023.38.33.png)
