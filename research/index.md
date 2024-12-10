@@ -77,3 +77,5 @@ One-time yet very notable works were also in:
 
 ## Links
 - https://www.biorxiv.org/search/bee
+- https://www.medrxiv.org/search/bee
+- [arxiv](https://arxiv.org/search/?query=honey+bees&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
