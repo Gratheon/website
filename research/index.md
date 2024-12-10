@@ -73,3 +73,7 @@ One-time yet very notable works were also in:
 | [BeeAlarmed. Masters thesis](⭐️%20BeeAlarmed.%20Masters%20thesis.md)                                                                                                                                                                                                                                                                       | <ul><li>🇩🇪 South Westphalia University of Applied Sciences</li></ul>                                                                                                                      | \-   |
 | [Competition](Competition/Competition.md)                                                                                                                                                                                                                                                                                                  | \-                                                                                                                                                                                          | \-   |
 <!-- SerializedQuery END -->
+
+
+## Links
+- https://www.biorxiv.org/search/bee
