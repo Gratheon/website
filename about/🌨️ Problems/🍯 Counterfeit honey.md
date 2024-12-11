@@ -10,10 +10,12 @@ We do not do certifications ourselves, but as a platform, we allow honey produce
 
 ## Potential solutions
 ### Honey DNA analysis
+https://mda-test.com/
+
 ![](img/Screenshot%202024-12-10%20at%2023.35.05.png)
 
 ![](img/Screenshot%202024-12-10%20at%2023.38.15.png)
 
 ![](img/Screenshot%202024-12-10%20at%2023.38.24.png)
 
-![](img/Screenshot%202024-12-10%20at%2023.38.33.png)
+![](img/Screenshot%202024-12-10%20at%2023.38.33.png)![](img/Screenshot%202024-12-11%20at%2002.21.02.png)
