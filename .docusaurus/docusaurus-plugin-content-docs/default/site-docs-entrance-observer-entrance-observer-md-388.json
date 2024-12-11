@@ -11,10 +11,10 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/entrance-observer.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
+  "sidebarPosition": 5,
   "frontMatter": {
     "title": "👁️‍🗨️ Entrance observer",
-    "sidebar_position": 4,
+    "sidebar_position": 5,
     "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",

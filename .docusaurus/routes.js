@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '37b'),
     exact: true
@@ -174,15 +209,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '855'),
+    component: ComponentCreator('/about', '433'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '4d1'),
+        component: ComponentCreator('/about', '8e0'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '0bf'),
+            component: ComponentCreator('/about', 'dd6'),
             routes: [
               {
                 path: '/about/',
@@ -425,6 +460,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/🍰 Equity and fundraising plan',
+                component: ComponentCreator('/about/company/🍰 Equity and fundraising plan', 'ea0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/🏇 Go to market strategy',
                 component: ComponentCreator('/about/company/🏇 Go to market strategy', '9d8'),
                 exact: true,
@@ -437,26 +478,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🖥️ Services and tools that we use',
-                component: ComponentCreator('/about/company/🖥️ Services and tools that we use', 'f03'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/🤲 Why open source',
                 component: ComponentCreator('/about/company/🤲 Why open source', 'c91'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🫀 Culture and values/Adapt to change 🏕️',
-                component: ComponentCreator('/about/company/🫀 Culture and values/Adapt to change 🏕️', '293'),
+                path: '/about/company/🫀 Culture and values/',
+                component: ComponentCreator('/about/company/🫀 Culture and values/', '9eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🫀 Culture and values/Culture and values 🫀',
-                component: ComponentCreator('/about/company/🫀 Culture and values/Culture and values 🫀', '54d'),
+                path: '/about/company/🫀 Culture and values/Adapt to change 🏕️',
+                component: ComponentCreator('/about/company/🫀 Culture and values/Adapt to change 🏕️', '293'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -503,14 +538,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/equity',
-                component: ComponentCreator('/about/company/equity', 'b95'),
+                path: '/about/company/Processes/☑️ Features and tasks',
+                component: ComponentCreator('/about/company/Processes/☑️ Features and tasks', '6ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Meeting recordings',
-                component: ComponentCreator('/about/company/Meeting recordings', 'c91'),
+                path: '/about/company/Processes/🎥 Meeting recordings',
+                component: ComponentCreator('/about/company/Processes/🎥 Meeting recordings', 'fba'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/🖥️ Services and tools that we use',
+                component: ComponentCreator('/about/company/Processes/🖥️ Services and tools that we use', '537'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -635,26 +676,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/☑️ Features and tasks',
-                component: ComponentCreator('/about/products/☑️ Features and tasks', 'ffd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/🌡️ Beehive IoT sensors/',
                 component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/', '361'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring', '608'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring', '751'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -673,12 +696,6 @@ export default [
               {
                 path: '/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX',
                 component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX', '1b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection', '413'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -719,26 +736,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API', '447'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa',
                 component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa', '4d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection', '3a1'),
+                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee', '2dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee', '2dd'),
+                path: '/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring', '554'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring', '306'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection', '33a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API', 'a73'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection',
+                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection', '4f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -803,18 +838,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees - in the cloud',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees - in the cloud', '59d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge', '36f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter',
                 component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter', 'c2e'),
                 exact: true,
@@ -827,26 +850,38 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🖥️ Remote desktop',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🖥️ Remote desktop', 'aea'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure',
                 component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure', '6e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🦀 Varroa mite new infestation detection from video',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🦀 Varroa mite new infestation detection from video', '03f'),
+                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🚁 Hornet attack detection',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🚁 Hornet attack detection', '978'),
+                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge', '0fa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop', '830'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video', 'bfe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection',
+                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection', '414'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -863,8 +898,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/📱Web-app/community-tier/🌪️ weather graph',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🌪️ weather graph', 'a33'),
+                path: '/about/products/📱Web-app/community-tier/🌪️ Weather alerts',
+                component: ComponentCreator('/about/products/📱Web-app/community-tier/🌪️ Weather alerts', '8e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1349,18 +1384,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection', '705'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning', 'c1b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees',
                 component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees', 'aa3'),
                 exact: true,
@@ -1429,6 +1452,18 @@ export default [
               {
                 path: '/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind',
                 component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind', '3ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection',
+                component: ComponentCreator('/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection', 'd66'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning',
+                component: ComponentCreator('/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning', '892'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1530,15 +1565,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b93'),
+    component: ComponentCreator('/docs', 'bf2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '363'),
+        component: ComponentCreator('/docs', 'cd0'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ba2'),
+            component: ComponentCreator('/docs', '129'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1579,6 +1614,24 @@ export default [
               {
                 path: '/docs/📱 Web-app/UX - UI wireframes',
                 component: ComponentCreator('/docs/📱 Web-app/UX - UI wireframes', '7cb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/API/',
+                component: ComponentCreator('/docs/API/', 'a9c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/API/GraphQL API',
+                component: ComponentCreator('/docs/API/GraphQL API', 'ad8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/API/REST APIs',
+                component: ComponentCreator('/docs/API/REST APIs', '557'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1687,12 +1740,6 @@ export default [
               {
                 path: '/docs/beehive-sensors/components/Weight sensor',
                 component: ComponentCreator('/docs/beehive-sensors/components/Weight sensor', '348'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Docs',
-                component: ComponentCreator('/docs/Docs', '758'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1836,15 +1883,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '50f'),
+    component: ComponentCreator('/research', 'ac6'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'f89'),
+        component: ComponentCreator('/research', 'ac4'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '485'),
+            component: ComponentCreator('/research', '54f'),
             routes: [
               {
                 path: '/research/',
@@ -1967,6 +2014,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Competition/3bee',
+                component: ComponentCreator('/research/Competition/3bee', '837'),
+                exact: true
+              },
+              {
                 path: '/research/Competition/AgriPulse',
                 component: ComponentCreator('/research/Competition/AgriPulse', '174'),
                 exact: true
@@ -2004,6 +2056,11 @@ export default [
               {
                 path: '/research/Competition/BeehiveMonitoringUSA',
                 component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', 'b8a'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/beeing',
+                component: ComponentCreator('/research/Competition/beeing', '31d'),
                 exact: true
               },
               {
@@ -2159,6 +2216,11 @@ export default [
               {
                 path: '/research/Honey bees modify plantpollinator network structure',
                 component: ComponentCreator('/research/Honey bees modify plantpollinator network structure', '935'),
+                exact: true
+              },
+              {
+                path: '/research/Honey bulk DNA metagenomic analysis to identify honey biological',
+                component: ComponentCreator('/research/Honey bulk DNA metagenomic analysis to identify honey biological', '508'),
                 exact: true
               },
               {

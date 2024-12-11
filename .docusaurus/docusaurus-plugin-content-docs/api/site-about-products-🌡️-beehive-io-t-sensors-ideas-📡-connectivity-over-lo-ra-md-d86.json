@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📈 Telemetry API",
-    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API"
+    "title": "📈 MQTT integration with nodered",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered"
   },
   "next": {
-    "title": "🔔 Timeseries Anomaly detection",
-    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection"
+    "title": "🔗 Smart home integration over zigbee",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee"
   }
 }

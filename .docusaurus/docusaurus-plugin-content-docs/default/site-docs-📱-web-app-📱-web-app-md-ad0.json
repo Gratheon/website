@@ -11,15 +11,15 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/📱 Web-app/📱 Web-app.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1,
+    "sidebar_position": 2,
     "title": "📱 Web-app"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Docs",
-    "permalink": "/docs/Docs"
+    "title": "REST APIs",
+    "permalink": "/docs/API/REST APIs"
   },
   "next": {
     "title": "Tech stack, conventions, environments",

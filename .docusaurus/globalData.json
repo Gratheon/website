@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Docs",
+          "mainDocId": "API/API",
           "docs": [
             {
               "id": "📱 Web-app/📱 Web-app",
@@ -43,6 +43,21 @@
             {
               "id": "📱 Web-app/UX - UI wireframes",
               "path": "/docs/📱 Web-app/UX - UI wireframes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/API",
+              "path": "/docs/API/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/GraphQL API",
+              "path": "/docs/API/GraphQL API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/REST APIs",
+              "path": "/docs/API/REST APIs",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -133,11 +148,6 @@
             {
               "id": "beehive-sensors/components/Weight sensor",
               "path": "/docs/beehive-sensors/components/Weight sensor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Docs",
-              "path": "/docs/Docs",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -255,8 +265,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Docs",
-                "label": "Docs"
+                "path": "/docs/API/",
+                "label": "🔗 API"
               }
             }
           }
@@ -465,6 +475,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/🍰 Equity and fundraising plan",
+              "path": "/about/company/🍰 Equity and fundraising plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/🏇 Go to market strategy",
               "path": "/about/company/🏇 Go to market strategy",
               "sidebar": "tutorialSidebar"
@@ -475,23 +490,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🖥️ Services and tools that we use",
-              "path": "/about/company/🖥️ Services and tools that we use",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/🤲 Why open source",
               "path": "/about/company/🤲 Why open source",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🫀 Culture and values/Adapt to change 🏕️",
-              "path": "/about/company/🫀 Culture and values/Adapt to change 🏕️",
+              "id": "company/🫀 Culture and values/🫀 Culture and values",
+              "path": "/about/company/🫀 Culture and values/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🫀 Culture and values/Culture and values 🫀",
-              "path": "/about/company/🫀 Culture and values/Culture and values 🫀",
+              "id": "company/🫀 Culture and values/Adapt to change 🏕️",
+              "path": "/about/company/🫀 Culture and values/Adapt to change 🏕️",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -530,18 +540,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/equity",
-              "path": "/about/company/equity",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/index",
               "path": "/about/company/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Meeting recordings",
-              "path": "/about/company/Meeting recordings",
+              "id": "company/Processes/☑️ Features and tasks",
+              "path": "/about/company/Processes/☑️ Features and tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/🎥 Meeting recordings",
+              "path": "/about/company/Processes/🎥 Meeting recordings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/🖥️ Services and tools that we use",
+              "path": "/about/company/Processes/🖥️ Services and tools that we use",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -645,23 +660,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/☑️ Features and tasks",
-              "path": "/about/products/☑️ Features and tasks",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors",
               "path": "/about/products/🌡️ Beehive IoT sensors/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/⚖️ Weight monitoring",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🌡️ Temperature monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -677,11 +677,6 @@
             {
               "id": "products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX",
               "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🐻 Tampering detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -715,23 +710,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📈 Telemetry API",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa",
               "path": "/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection",
+              "id": "products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
+              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
-              "path": "/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee",
+              "id": "products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring",
+              "path": "/about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection",
+              "path": "/about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API",
+              "path": "/about/products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection",
+              "path": "/about/products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -785,16 +795,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees - in the cloud",
-              "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees - in the cloud",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge",
-              "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/📈 Count bees coming in and out - on the edge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
               "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
               "sidebar": "tutorialSidebar"
@@ -805,23 +805,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/👁️‍🗨️ Entrance Observer/ideas/🖥️ Remote desktop",
-              "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🖥️ Remote desktop",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure",
               "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/👁️‍🗨️ Entrance Observer/ideas/🦀 Varroa mite new infestation detection from video",
-              "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🦀 Varroa mite new infestation detection from video",
+              "id": "products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/👁️‍🗨️ Entrance Observer/ideas/🚁 Hornet attack detection",
-              "path": "/about/products/👁️‍🗨️ Entrance Observer/ideas/🚁 Hornet attack detection",
+              "id": "products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection",
+              "path": "/about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -835,8 +845,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/📱Web-app/community-tier/🌪️ weather graph",
-              "path": "/about/products/📱Web-app/community-tier/🌪️ weather graph",
+              "id": "products/📱Web-app/community-tier/🌪️ Weather alerts",
+              "path": "/about/products/📱Web-app/community-tier/🌪️ Weather alerts",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1240,16 +1250,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
-              "path": "/about/products/🧿 Robotic Beehive/ideas/📸 Full hive inspection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning",
-              "path": "/about/products/🧿 Robotic Beehive/ideas/📸 Real-time frame scanning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees",
               "path": "/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees",
               "sidebar": "tutorialSidebar"
@@ -1307,6 +1307,16 @@
             {
               "id": "products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
               "path": "/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/todo/📸 Full hive inspection",
+              "path": "/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning",
+              "path": "/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1502,6 +1512,10 @@
               "path": "/research/Competition/🇺🇸 Best Bees"
             },
             {
+              "id": "Competition/3bee",
+              "path": "/research/Competition/3bee"
+            },
+            {
               "id": "Competition/AgriPulse",
               "path": "/research/Competition/AgriPulse"
             },
@@ -1532,6 +1546,10 @@
             {
               "id": "Competition/BeehiveMonitoringUSA",
               "path": "/research/Competition/BeehiveMonitoringUSA"
+            },
+            {
+              "id": "Competition/beeing",
+              "path": "/research/Competition/beeing"
             },
             {
               "id": "Competition/BeeLab",
@@ -1662,6 +1680,10 @@
               "path": "/research/Honey bees modify plantpollinator network structure"
             },
             {
+              "id": "Honey bulk DNA metagenomic analysis to identify honey biological",
+              "path": "/research/Honey bulk DNA metagenomic analysis to identify honey biological"
+            },
+            {
               "id": "Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
               "path": "/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
             },
@@ -1753,15 +1775,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

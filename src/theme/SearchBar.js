@@ -20,6 +20,7 @@ export default function SearchBarWrapper(props) {
   function search(e) {
     if (e.target.value.length <3) return
   
+    // fetch('http://localhost:5000/search', {
     fetch('https://gratheon.com/search', {
       method: 'POST',
       headers: {
@@ -50,17 +51,19 @@ export default function SearchBarWrapper(props) {
       onSubmit={search}
       style={{padding:"7px 15px", border: "2px solid #CCC", borderRadius: 5}} />
 
-    {searchResults && searchResults.hits && searchResults.hits.length > 0 &&
+    {searchResults && searchResults.length > 0 &&
         <div style={{
             background: "white",
             color: "black",
             padding: 20,
-            position: "absolute"
+            position: "absolute",
+            border: "1px solid #CCC",
         }}>
-            {searchResults.hits.map((hit, index) => {
+            {searchResults.map((hit, index) => {
             return <div key={index} style={{padding:3}}><a
             style={{color: "blue", padding: 3}}
-            href={"/" + hit.input.data.metadata.url}>{hit.input.data.metadata.title}</a></div>
+            href={"/" + hit.url}>{hit.title}</a></div>
+
             })}
         </div>
     }

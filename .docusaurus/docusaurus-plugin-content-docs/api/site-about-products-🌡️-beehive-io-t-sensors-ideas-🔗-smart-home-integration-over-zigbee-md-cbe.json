@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🔔 Timeseries Anomaly detection",
-    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/🔔 Timeseries Anomaly detection"
+    "title": "📡 Connectivity over LoRa",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa"
   },
   "next": {
-    "title": "👁️‍🗨️ Entrance Observer",
-    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/"
+    "title": "⚖️ Weight monitoring",
+    "permalink": "/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring"
   }
 }

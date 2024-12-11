@@ -11,10 +11,10 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/beehive-sensors.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 4,
   "frontMatter": {
     "title": "🌡️ Beehive IoT sensors",
-    "sidebar_position": 3,
+    "sidebar_position": 4,
     "hide_table_of_contents": true
   },
   "sidebar": "tutorialSidebar",
