@@ -1,0 +1,16 @@
+{
+  "id": "Competition/beeing",
+  "title": "beeing",
+  "description": "- beehive for urban beekeeping",
+  "source": "@site/research/Competition/beeing.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/beeing",
+  "permalink": "/research/Competition/beeing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beeing.it/en/"
+  }
+}

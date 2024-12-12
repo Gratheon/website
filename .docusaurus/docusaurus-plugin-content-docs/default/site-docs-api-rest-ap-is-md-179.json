@@ -1,0 +1,28 @@
+{
+  "id": "API/REST APIs",
+  "title": "REST APIs",
+  "description": "We use REST APIs for very specific cases that are not suitable for GraphQL API",
+  "source": "@site/docs/API/REST APIs.md",
+  "sourceDirName": "API",
+  "slug": "/API/REST APIs",
+  "permalink": "/docs/API/REST APIs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/REST APIs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQL API",
+    "permalink": "/docs/API/GraphQL API"
+  },
+  "next": {
+    "title": "📱 Web-app",
+    "permalink": "/docs/📱 Web-app/"
+  }
+}

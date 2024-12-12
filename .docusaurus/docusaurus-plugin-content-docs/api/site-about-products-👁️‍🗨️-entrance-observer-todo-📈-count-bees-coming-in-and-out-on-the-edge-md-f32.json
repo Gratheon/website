@@ -1,0 +1,23 @@
+{
+  "id": "products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge",
+  "title": "📈 Count bees coming in and out - on the edge",
+  "description": "This task is one of the main features of the Entrance Observer product",
+  "source": "@site/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge.md",
+  "sourceDirName": "products/👁️‍🗨️ Entrance Observer/todo",
+  "slug": "/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge",
+  "permalink": "/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Count bees - in the cloud",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud"
+  },
+  "next": {
+    "title": "🖥️ Remote desktop",
+    "permalink": "/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop"
+  }
+}

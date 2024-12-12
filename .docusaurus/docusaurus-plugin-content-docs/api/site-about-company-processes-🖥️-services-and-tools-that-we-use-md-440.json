@@ -1,0 +1,23 @@
+{
+  "id": "company/Processes/🖥️ Services and tools that we use",
+  "title": "🖥️ Services and tools that we use",
+  "description": "General",
+  "source": "@site/about/company/Processes/🖥️ Services and tools that we use.md",
+  "sourceDirName": "company/Processes",
+  "slug": "/company/Processes/🖥️ Services and tools that we use",
+  "permalink": "/about/company/Processes/🖥️ Services and tools that we use",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎥 Meeting recordings",
+    "permalink": "/about/company/Processes/🎥 Meeting recordings"
+  },
+  "next": {
+    "title": "🍰 Equity and fundraising plan",
+    "permalink": "/about/company/🍰 Equity and fundraising plan"
+  }
+}

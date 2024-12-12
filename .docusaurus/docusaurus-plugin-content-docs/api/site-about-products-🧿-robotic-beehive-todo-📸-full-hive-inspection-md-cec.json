@@ -1,0 +1,23 @@
+{
+  "id": "products/🧿 Robotic Beehive/todo/📸 Full hive inspection",
+  "title": "📸 Full hive inspection",
+  "description": "The idea is to do batch scan of beehive frames",
+  "source": "@site/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection.md",
+  "sourceDirName": "products/🧿 Robotic Beehive/todo",
+  "slug": "/products/🧿 Robotic Beehive/todo/📸 Full hive inspection",
+  "permalink": "/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧪 Automatic acid treatment against varroa",
+    "permalink": "/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa"
+  },
+  "next": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning"
+  }
+}

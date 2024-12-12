@@ -1,0 +1,26 @@
+{
+  "id": "company/Processes/☑️ Features and tasks",
+  "title": "☑️ Features and tasks",
+  "description": "We think of product development as a hierarchy of abstractions:",
+  "source": "@site/about/company/Processes/☑️ Features and tasks.md",
+  "sourceDirName": "company/Processes",
+  "slug": "/company/Processes/☑️ Features and tasks",
+  "permalink": "/about/company/Processes/☑️ Features and tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX designer 🔲",
+    "permalink": "/about/company/Team/Roles/UX designer 🔲"
+  },
+  "next": {
+    "title": "🎥 Meeting recordings",
+    "permalink": "/about/company/Processes/🎥 Meeting recordings"
+  }
+}
