@@ -13,11 +13,10 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ## Challenges / Requirements
 
-- inspect multiple hives, same functionality as [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)
-- cost-effective - use one moveable module instead of
-- weather-proof hives
-- bee-safe hives
-- movement control across hives
+- inspect multiple (~10) hives, same functionality as [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)
+- cost-effective - use one moveable module
+- mobile trailer form - should be possible to move entire apiary with a car. The goal is to transport hives back to the base for winter time, but not rely on a huge container.
+
 
 # Vision
 
@@ -45,7 +44,7 @@ Apiary - beehives traditionally are positioned in a line Source - [https://beesw
 
 ## Moveable with a car
 
-
+Example of what beekeepers currently build themselves:
 ![](img/468428721_1783934302344168_5103667842374827413_n.jpg)
 
 ![](img/468456177_1783934262344172_6683024661505151342_n.jpg)source - https://www.facebook.com/groups/1565659347190712/posts/2000328063723836
