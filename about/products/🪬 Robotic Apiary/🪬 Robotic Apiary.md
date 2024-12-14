@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-`status: idea`
+`status: ideation`
 
 As a more cost-effective solution for large apiaries, we want to reuse [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21) functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
 
@@ -13,10 +13,11 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ## Challenges / Requirements
 
+- inspect multiple hives
+- cost-effective
 - weather-proof hives
 - bee-safe hives
 - movement control across hives
-- cost-efficient
 
 # Vision
 
@@ -37,7 +38,12 @@ Apiary - beehives traditionally are positioned in a line Source - [https://beesw
 
 ## Construction
 
-|      | Monolithic                                                                            | Distributed                                                                             |
-| ---- | ------------------ | ------------ |
-| Pros | - simple installation, maintenance, setup  <br />- good weather protection              | - can scale in amount of hives and in their height  <br />- cost effective  <br />- healthy |
-| Cons | - colonies can infect each other  <br />- higher cost  <br />- loss of existing inventory | - more complex integration, maintenance                                                 |
+|      | Monolithic                                                                                | Distributed                                                                                 |
+| ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Pros | - simple installation, maintenance, setup  <br />- good weather protection                | - can scale in amount of hives and in their height  <br />- cost effective  <br />- healthy |
+| Cons | - colonies can infect each other  <br />- higher cost  <br />- loss of existing inventory | - more complex integration, maintenance                                                     |
+
+## Moveable with a car
+![](img/468428721_1783934302344168_5103667842374827413_n.jpg)
+
+![](img/468456177_1783934262344172_6683024661505151342_n.jpg)source - https://www.facebook.com/groups/1565659347190712/posts/2000328063723836

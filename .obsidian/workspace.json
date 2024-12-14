@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/🍯 Counterfeit honey.md",
+                "file": "about/products/🪬 Robotic Apiary/🪬 Robotic Apiary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍯 Counterfeit honey"
+              "title": "🪬 Robotic Apiary"
             }
           }
         ]
@@ -167,6 +167,10 @@
   },
   "active": "ea4c41205fd655a4",
   "lastOpenFiles": [
+    "about/products/🪬 Robotic Apiary/img/468456177_1783934262344172_6683024661505151342_n.jpg",
+    "about/products/🪬 Robotic Apiary/img/468428721_1783934302344168_5103667842374827413_n.jpg",
+    "about/products/🪬 Robotic Apiary/img",
+    "about/🌨️ Problems/🍯 Counterfeit honey.md",
     "about/🌨️ Problems/img/Screenshot 2024-12-11 at 02.40.43.png",
     "about/🌨️ Problems/img/Screenshot 2024-12-11 at 02.38.12.png",
     "about/🌨️ Problems/img/Screenshot 2024-12-11 at 02.36.26.png",
@@ -183,11 +187,8 @@
     "research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams.md",
     "research/img/2024.07.31.605955.full.pdf",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "about/🌨️ Problems/🍯 Counterfeit honey.md",
     "about/🌨️ Problems/img/Screenshot 2024-12-10 at 23.38.33.png",
     "about/🌨️ Problems/img/Screenshot 2024-12-10 at 23.38.24.png",
-    "about/🌨️ Problems/img/Screenshot 2024-12-10 at 23.38.15.png",
-    "about/🌨️ Problems/img/Screenshot 2024-12-10 at 23.35.05.png",
     "docs/API/REST APIs.md",
     "docs/API/API.md",
     "docs/API/img",
@@ -211,7 +212,6 @@
     "about/company/Processes",
     "about/products/🧿 Robotic Beehive/todo",
     "about/products/👁️‍🗨️ Entrance Observer/todo",
-    "about/products/🌡️ Beehive IoT sensors/todo",
-    "about/deck.pdf"
+    "about/products/🌡️ Beehive IoT sensors/todo"
   ]
 }
