@@ -13,8 +13,8 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ## Challenges / Requirements
 
-- inspect multiple hives
-- cost-effective
+- inspect multiple hives, same functionality as [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)
+- cost-effective - use one moveable module instead of
 - weather-proof hives
 - bee-safe hives
 - movement control across hives
@@ -44,6 +44,8 @@ Apiary - beehives traditionally are positioned in a line Source - [https://beesw
 | Cons | - colonies can infect each other  <br />- higher cost  <br />- loss of existing inventory | - more complex integration, maintenance                                                     |
 
 ## Moveable with a car
+
+
 ![](img/468428721_1783934302344168_5103667842374827413_n.jpg)
 
 ![](img/468456177_1783934262344172_6683024661505151342_n.jpg)source - https://www.facebook.com/groups/1565659347190712/posts/2000328063723836
