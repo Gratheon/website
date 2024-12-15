@@ -13,7 +13,7 @@ hide_table_of_contents: true
 
 ```mermaid
 flowchart LR
-	beehive-sensors[<a href="https://github.com/Gratheon/beehive-sensors">beehive-sensors</a>] -."send aggregate (5sec)\n metric value".-> telemetry-api
+	beehive-sensors[<a href="https://github.com/Gratheon/beehive-sensors">beehive-sensors</a>] -."send metrics every 1 min".-> telemetry-api
 
 	telemetry-api --"update beehive entrance daily traffic counters"--> mysql[(<a href="https://github.com/Gratheon/mysql">mysql</a>)]
 	telemetry-api --"store bee traffic timeseries" --> influx[(<a href="https://github.com/Gratheon/grafana">influx</a>)]
