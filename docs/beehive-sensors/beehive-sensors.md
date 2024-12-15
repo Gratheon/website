@@ -16,8 +16,10 @@ flowchart LR
 	beehive-sensors[<a href="https://github.com/Gratheon/beehive-sensors">beehive-sensors</a>] -."send metrics every 1 min".-> telemetry-api
 
 	telemetry-api --"update beehive entrance daily traffic counters"--> mysql[(<a href="https://github.com/Gratheon/mysql">mysql</a>)]
-	telemetry-api --"store bee traffic timeseries" --> influx[(<a href="https://github.com/Gratheon/grafana">influx</a>)]
-	grafana[(<a href="https://github.com/Gratheon/grafana">grafana</a>)] --"fetch history"--> influx
+	
+	telemetry-api --"store bee traffic timeseries" --> influx[(influx-db v2)]
+	
+	grafana[(<a href="https://github.com/Gratheon/grafana">grafana</a>)] --"fetch temperature history for hive X"--> telemetry-api
 
 	telemetry-api --"verify API tokens for REST calls"--> user-cycle[<a href="https://github.com/Gratheon/user-cycle">user-cycle</a>]
 	web-app[<a href="https://github.com/Gratheon/web-app">web-app</a>] --"display advanced configureable graphs"--> grafana
