@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/beehive-sensors.md",
+                "file": "docs/API/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beehive-sensors"
+              "title": "API"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "ea4c41205fd655a4",
   "lastOpenFiles": [
-    "docs/📱 Web-app/📱 Web-app.md",
     "docs/API/REST APIs.md",
+    "docs/beehive-sensors/beehive-sensors.md",
+    "docs/📱 Web-app/📱 Web-app.md",
     "docs/API/API.md",
     "about/products/🪬 Robotic Apiary/🪬 Robotic Apiary.md",
     "about/products/🪬 Robotic Apiary/img/468456177_1783934262344172_6683024661505151342_n.jpg",
@@ -198,7 +199,6 @@
     "docs/API/Authentication.md",
     "docs/robotic-beehive/robotic-beehive.md",
     "docs/entrance-observer/entrance-observer.md",
-    "docs/beehive-sensors/beehive-sensors.md",
     "docs/API",
     "about/company/🍰 Equity and fundraising plan.md",
     "about/index.md",

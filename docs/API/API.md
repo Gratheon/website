@@ -24,9 +24,10 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 [IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data.
 
 ```bash
-curl --location 'https://telemetry.gratheon.com/metric?api_token=API_TOKEN' \
+curl --location 'https://telemetry.gratheon.com/metric' \
+--header 'Authorization: Bearer API_TOKEN_HERE'
 --data '{
 "hive_id": 123,
-"fields":{ "temperature":31.25, "weight": 82.34 }
+"fields":{ "temperature_celsius":31.25, "weight_kg": 82.34 }
 }'
 ```
