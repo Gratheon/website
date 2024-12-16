@@ -1,6 +1,6 @@
 require('dotenv').config();
 const fastify = require('fastify')({logger: true});
-const PORT = 5000;
+const PORT = 5700;
 
 // add CORS SUPPORT
 fastify.register(require('@fastify/cors'), {
