@@ -1,1 +1,1 @@
-Report results to [📈 Telemetry API](../todo/📈%20Telemetry%20API.md)
+Report results to [📈 Telemetry API](../features/📈%20Telemetry%20API.md)

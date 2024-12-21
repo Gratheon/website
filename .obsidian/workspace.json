@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62aca48ed5780b32",
+        "id": "0d742da8e28e2f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4c41205fd655a4",
+            "id": "f350a992dda5f65d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/beehive-sensors/beehive-sensors.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "beehive-sensors"
+              "title": "New tab"
             }
           }
         ]
@@ -161,14 +157,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea4c41205fd655a4",
+  "active": "f350a992dda5f65d",
   "lastOpenFiles": [
+    "about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring.md",
+    "about/products/🌡️ Beehive IoT sensors/features/📈 Telemetry API.md",
+    "about/products/🌡️ Beehive IoT sensors/features",
+    "docs/beehive-sensors/beehive-sensors.md",
     "docs/API/API.md",
     "docs/API/REST APIs.md",
-    "docs/beehive-sensors/beehive-sensors.md",
     "docs/📱 Web-app/📱 Web-app.md",
     "about/products/🪬 Robotic Apiary/🪬 Robotic Apiary.md",
     "about/products/🪬 Robotic Apiary/img/468456177_1783934262344172_6683024661505151342_n.jpg",
@@ -204,13 +204,10 @@
     "about/🌨️ Problems/🦀 Infestations.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
-    "about/🌻 Purpose/🌻 Purpose.md",
-    "about/company/🤲 Why open source.md",
     "static/deck.pdf",
     "about/products/📱Web-app/community-tier/img",
     "about/company/Processes",
     "about/products/🧿 Robotic Beehive/todo",
-    "about/products/👁️‍🗨️ Entrance Observer/todo",
-    "about/products/🌡️ Beehive IoT sensors/todo"
+    "about/products/👁️‍🗨️ Entrance Observer/todo"
   ]
 }
