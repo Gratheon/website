@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/🌻 Purpose/Company mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Company mission"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "f350a992dda5f65d",
   "lastOpenFiles": [
+    "about/index.md",
     "about/🌻 Purpose/Company mission.md",
     "about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring.md",
     "about/products/🌡️ Beehive IoT sensors/features/📈 Telemetry API.md",
@@ -205,7 +206,6 @@
     "docs/entrance-observer/entrance-observer.md",
     "docs/API",
     "about/company/🍰 Equity and fundraising plan.md",
-    "about/index.md",
     "about/🌨️ Problems/🦀 Infestations.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "static/deck.pdf",

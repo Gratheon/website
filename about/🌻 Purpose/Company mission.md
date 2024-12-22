@@ -15,5 +15,8 @@ Our mission is balancing human progress with the preservation of nature, aiming 
 
 [Culture and values](../company/🫀%20Culture%20and%20values/🫀%20Culture%20and%20values.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
+## Metrics
+- Reduction of [❄️ Overwintering collapse](../🌨️%20Problems/❄️%20Overwintering%20collapse.md) down from 40%
+- Increased [👁️ Observability of bee colony](../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)
 
 <iframe src="https://open.spotify.com/embed/playlist/3hpFjVkATz2rW5cuXaUXeV?utm_source=generator" width="100%" height="560" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
