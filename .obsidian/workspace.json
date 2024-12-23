@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/components/DS18B20.md",
+                "file": "docs/beehive-sensors/Installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DS18B20"
+              "title": "Installation"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "f350a992dda5f65d",
   "lastOpenFiles": [
-    "docs/beehive-sensors/components/HX711.md",
     "docs/beehive-sensors/components/DS18B20.md",
+    "docs/beehive-sensors/components/HX711.md",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
     "docs/beehive-sensors/beehive-sensors.md",
