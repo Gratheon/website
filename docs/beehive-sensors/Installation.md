@@ -28,10 +28,9 @@ sidebar_position: 1
 ### Configuring powered-on ESP32
 - Connect to the ESP32 WIFI access point `gratheon`, use password `gratheon`
 - Open browser and navigate to wifi access point default gateway - [http://192.168.4.1](http://192.168.4.1)
-- Enter your WIFI credentials. We recommend using
-- Keep target URL
-    - replace `HIVE_ID` with your hive ID. You can take that you can take from URL, ex `https://app.gratheon.com/apiaries/7/hives/54`; here ID is `54`
-    - replace `API_TOKEN` with generate token from account settings at [https://app.gratheon.com/account](https://app.gratheon.com/account)
+- Enter your wifi credentials of the modem you want to use
+- set `HIVE_ID` with your hive ID. You can take that you can take from URL, ex `https://app.gratheon.com/apiaries/7/hives/54`; here ID is `54`
+- set `API_TOKEN` with generate token from account settings at [https://app.gratheon.com/account](https://app.gratheon.com/account)
 - Click `Save` button. Your ESP32 will restart and connect to your WIFI network and start sending data to the telemetry API service
 
 ![](img/352610409-b4ed305f-7ddd-44ff-b200-e0d139734349.jpg)
