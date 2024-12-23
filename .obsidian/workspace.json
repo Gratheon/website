@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/Installation.md",
+                "file": "docs/beehive-sensors/components/DS18B20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "DS18B20"
             }
           }
         ]
@@ -167,12 +167,13 @@
   },
   "active": "f350a992dda5f65d",
   "lastOpenFiles": [
+    "docs/beehive-sensors/components/HX711.md",
+    "docs/beehive-sensors/components/DS18B20.md",
+    "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/components/index.md",
-    "docs/beehive-sensors/components/Weight sensor.md",
     "docs/beehive-sensors/components/ESP32.md",
-    "docs/beehive-sensors/components/DS18B20.md",
     "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
     "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
     "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
@@ -185,7 +186,6 @@
     "docs/beehive-sensors/components/todo/Aluminium profile 20x20x500mm.md",
     "docs/beehive-sensors/components/todo/Air Quality Sensor.md",
     "docs/beehive-sensors/components/todo",
-    "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/3d model.md",
     "about/🌻 Purpose/Company mission.md",
     "about/index.md",

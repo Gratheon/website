@@ -9,7 +9,6 @@ title: Bill of materials
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [Temperature - Humidity sensors - DS18B20](docs/beehive-sensors/components/DS18B20.md)                                                                                                                     | \-    |
 | [ESP32](docs/beehive-sensors/components/ESP32.md)                                                                                                                                                          | 3.14  |
-| [Weight sensor](docs/beehive-sensors/components/Weight%20sensor.md)                                                                                                                                        | 4     |
 | [Air Quality Sensor](docs/beehive-sensors/components/todo/Air%20Quality%20Sensor.md)                                                                                                                       | \-    |
 | [Aluminium profile 20x20x500mm](docs/beehive-sensors/components/todo/Aluminium%20profile%2020x20x500mm.md)                                                                                                 | 60    |
 | [Barometric pressure sensor](docs/beehive-sensors/components/todo/Barometric%20pressure%20sensor.md)                                                                                                       | \-    |
@@ -21,4 +20,5 @@ title: Bill of materials
 | [PM2 dust sensor](docs/beehive-sensors/components/todo/PM2%20dust%20sensor.md)                                                                                                                             | \-    |
 | [Tampering - Vibration sensor](docs/beehive-sensors/components/todo/Tampering%20-%20Vibration%20sensor.md)                                                                                                 | \-    |
 | [Temperature - Humidity sensor alternative](docs/beehive-sensors/components/todo/Temperature%20-%20Humidity%20sensor%20alternative.md)                                                                     | \-    |
+| [HX711](docs/beehive-sensors/components/HX711.md)                                                                                                                                                          | 4     |
 <!-- SerializedQuery END -->
