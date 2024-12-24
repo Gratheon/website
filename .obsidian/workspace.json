@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/Installation.md",
+                "file": "docs/beehive-sensors/components/HX711-flat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Installation"
+              "title": "HX711-flat"
             }
           }
         ]
@@ -167,10 +167,13 @@
   },
   "active": "f350a992dda5f65d",
   "lastOpenFiles": [
-    "docs/beehive-sensors/components/todo/Aluminium profile 20x20x500mm.md",
+    "docs/beehive-sensors/components/img/Pasted image 20241224020711.png",
+    "docs/beehive-sensors/components/img/Pasted image 20241224020701.png",
+    "docs/beehive-sensors/components/HX711-bar.md",
+    "docs/beehive-sensors/components/HX711-flat.md",
     "docs/beehive-sensors/Installation.md",
+    "docs/beehive-sensors/components/todo/Aluminium profile 20x20x500mm.md",
     "docs/beehive-sensors/components/DS18B20.md",
-    "docs/beehive-sensors/components/HX711.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/components/index.md",
@@ -193,8 +196,6 @@
     "about/products/🌡️ Beehive IoT sensors/features/📈 Telemetry API.md",
     "about/products/🌡️ Beehive IoT sensors/features",
     "docs/API/API.md",
-    "docs/API/REST APIs.md",
-    "docs/📱 Web-app/📱 Web-app.md",
     "about/products/🪬 Robotic Apiary/img/468456177_1783934262344172_6683024661505151342_n.jpg",
     "about/products/🪬 Robotic Apiary/img/468428721_1783934302344168_5103667842374827413_n.jpg",
     "about/products/🪬 Robotic Apiary/img",
@@ -206,7 +207,6 @@
     "about/🌨️ Problems/img/Screenshot 2024-12-11 at 02.16.52.png",
     "about/🌨️ Problems/img/Screenshot 2024-12-11 at 02.16.38.png",
     "research/img/2024.07.31.605955.full.pdf",
-    "about/🌨️ Problems/img/Screenshot 2024-12-10 at 23.38.33.png",
     "docs/API/img",
     "docs/API",
     "static/deck.pdf",
