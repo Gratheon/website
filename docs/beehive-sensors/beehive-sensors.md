@@ -29,4 +29,6 @@ flowchart LR
 
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/xPlN_Tk3VLQ" title="Introduction to ESP32 - Getting Started" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+![](img/352610409-b4ed305f-7ddd-44ff-b200-e0d139734349.jpg)
