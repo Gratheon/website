@@ -1,6 +1,6 @@
 ---
 url: https://www.hivegenie.com/our-product/
-products: 🌡️ Beehive IoT sensors
+products: 👁️‍🗨️ Entrance Observer
 ---
 
 
