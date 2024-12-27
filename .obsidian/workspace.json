@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Competition/3bee.md",
+                "file": "research/Competition/Competition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3bee"
+              "title": "Competition"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "62352b76cc22a1c8",
   "lastOpenFiles": [
+    "research/Competition/3bee.md",
     "research/Competition/img/hive-tech-v2.7df5c554.webp",
     "research/Competition/img/Pasted image 20241228012800.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
@@ -181,7 +182,6 @@
     "research/Competition/BeeHiveMonitoring.md",
     "research/Competition/img/app-grid.jpg",
     "research/Competition/img/mobile-notification.jpg",
-    "research/Competition/img/pollination.jpg",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
