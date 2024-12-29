@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Competition/Competition.md",
+                "file": "docs/beehive-sensors/components/Aluminium profile 20x20x500mm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Competition"
+              "title": "Aluminium profile 20x20x500mm"
             }
           }
         ]
@@ -161,13 +161,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "62352b76cc22a1c8",
   "lastOpenFiles": [
-    "research/Competition/HiveGenie.md",
+    "docs/beehive-sensors/components/img/Pasted image 20241229194804.png",
+    "docs/beehive-sensors/components/img/Pasted image 20241110015457.png",
+    "docs/beehive-sensors/components/Aluminium profile 20x20x500mm.md",
+    "docs/beehive-sensors/components/index.md",
     "research/Competition/Competition.md",
+    "research/Competition/HiveGenie.md",
     "research/Competition/3bee.md",
     "research/Competition/img/hive-tech-v2.7df5c554.webp",
     "research/Competition/img/Pasted image 20241228012800.png",
@@ -181,7 +186,6 @@
     "research/Competition/img/DSC_0148-scaled.jpg",
     "research/Competition/BeeHiveMonitoring.md",
     "research/Competition/img/app-grid.jpg",
-    "research/Competition/img/mobile-notification.jpg",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
@@ -190,9 +194,7 @@
     "docs/beehive-sensors/components/todo/img",
     "docs/beehive-sensors/components/HX711-flat.md",
     "docs/beehive-sensors/components/HX711-bar.md",
-    "docs/beehive-sensors/components/todo/Aluminium profile 20x20x500mm.md",
     "docs/beehive-sensors/components/DS18B20.md",
-    "docs/beehive-sensors/components/index.md",
     "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
     "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
     "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
@@ -203,7 +205,6 @@
     "docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
     "docs/beehive-sensors/components/todo/Air Quality Sensor.md",
     "docs/beehive-sensors/components/todo",
-    "docs/beehive-sensors/3d model.md",
     "about/products/🌡️ Beehive IoT sensors/features",
     "about/products/🪬 Robotic Apiary/img",
     "research/img/2024.07.31.605955.full.pdf",
