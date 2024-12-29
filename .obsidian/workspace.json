@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc084a434b6e9bfd",
+        "id": "ad9443c9377e36ea",
         "type": "tabs",
         "children": [
           {
-            "id": "62352b76cc22a1c8",
+            "id": "400147eef75738f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/beehive-sensors/components/screws.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "screws"
+              "title": "New tab"
             }
           }
         ]
@@ -161,15 +157,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62352b76cc22a1c8",
+  "active": "400147eef75738f6",
   "lastOpenFiles": [
+    "docs/beehive-sensors/components/screws.md",
     "docs/beehive-sensors/components/img/61NM8FYbhuL._SL1500_.jpg",
     "docs/entrance-observer/components/Jetson Nano.md",
-    "docs/beehive-sensors/components/screws.md",
     "docs/entrance-observer/components/Camera mount.md",
     "docs/entrance-observer/components/Camera lens.md",
     "docs/entrance-observer/components/img/Pasted image 20241229214746.png",
@@ -199,7 +194,6 @@
     "research/Competition/img/Pasted image 20241228012800.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.20.00.png",
     "research/Competition/ForSage.md",
-    "research/Competition/img/forsage-app-hub-detail.png",
     "research/Competition/BeeHiveMonitoring.md",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
