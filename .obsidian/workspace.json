@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/components/index.md",
+                "file": "docs/beehive-sensors/components/screws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "screws"
             }
           }
         ]
@@ -167,6 +167,18 @@
   },
   "active": "62352b76cc22a1c8",
   "lastOpenFiles": [
+    "docs/beehive-sensors/components/img/61NM8FYbhuL._SL1500_.jpg",
+    "docs/entrance-observer/components/Jetson Nano.md",
+    "docs/beehive-sensors/components/screws.md",
+    "docs/entrance-observer/components/Camera mount.md",
+    "docs/entrance-observer/components/Camera lens.md",
+    "docs/entrance-observer/components/img/Pasted image 20241229214746.png",
+    "docs/entrance-observer/components/img",
+    "docs/entrance-observer/components/WiFi module for Jetson Nano.md",
+    "docs/entrance-observer/components/SD card for Jetson Nano.md",
+    "docs/entrance-observer/components/Jetson Nano case.md",
+    "docs/entrance-observer/components/Camera - Mokose 4k.md",
+    "docs/beehive-sensors/components/index.md",
     "docs/beehive-sensors/components/ESP32.md",
     "docs/beehive-sensors/components/HX711-bar.md",
     "docs/beehive-sensors/components/HX711-flat.md",
@@ -175,7 +187,6 @@
     "docs/beehive-sensors/components/battery-shield.md",
     "docs/beehive-sensors/components/battery.md",
     "docs/beehive-sensors/components/DS18B20.md",
-    "docs/beehive-sensors/components/index.md",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.04.13.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.02.50.png",
@@ -189,20 +200,11 @@
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.20.00.png",
     "research/Competition/ForSage.md",
     "research/Competition/img/forsage-app-hub-detail.png",
-    "research/Competition/img/DSC_0066-scaled.jpg",
     "research/Competition/BeeHiveMonitoring.md",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
     "docs/beehive-sensors/components/todo/img",
-    "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
-    "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
-    "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
-    "docs/beehive-sensors/components/todo/Microphone Amplifier Stable.md",
-    "docs/beehive-sensors/components/todo/CO2 sensor - ENS160.md",
-    "docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
-    "docs/beehive-sensors/components/todo/Barometric sensor - BMP180.md",
-    "docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
     "docs/beehive-sensors/components/todo",
     "about/products/🌡️ Beehive IoT sensors/features",
     "about/products/🪬 Robotic Apiary/img",
@@ -210,7 +212,6 @@
     "docs/API/img",
     "docs/API",
     "static/deck.pdf",
-    "about/products/📱Web-app/community-tier/img",
-    "about/company/Processes"
+    "about/products/📱Web-app/community-tier/img"
   ]
 }
