@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/components/index.md",
+                "file": "docs/beehive-sensors/components/Battery-18650.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Battery-18650"
             }
           }
         ]
@@ -167,8 +167,13 @@
   },
   "active": "62352b76cc22a1c8",
   "lastOpenFiles": [
-    "docs/beehive-sensors/components/Aluminium profile 20x20x500mm.md",
     "docs/beehive-sensors/components/Aluminium Enclosure.md",
+    "docs/beehive-sensors/components/aluminium-profile.md",
+    "docs/beehive-sensors/components/Battery-18650.md",
+    "docs/beehive-sensors/components/DS18B20.md",
+    "docs/beehive-sensors/components/ESP32.md",
+    "docs/beehive-sensors/components/HX711-bar.md",
+    "docs/beehive-sensors/components/HX711-flat.md",
     "docs/beehive-sensors/components/index.md",
     "docs/beehive-sensors/components/img/Pasted image 20241229194804.png",
     "docs/beehive-sensors/components/img/Pasted image 20241110015457.png",
@@ -179,7 +184,6 @@
     "research/Competition/img/Pasted image 20241228012800.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.20.00.png",
-    "docs/beehive-sensors/components/Battery 18650 with shield.md",
     "research/Competition/ForSage.md",
     "research/Competition/img/forsage-app-hub-detail.png",
     "research/Competition/img/DSC_0066-scaled.jpg",
@@ -189,11 +193,7 @@
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
     "docs/beehive-sensors/Choice of procesor chip.md",
-    "docs/beehive-sensors/components/ESP32.md",
     "docs/beehive-sensors/components/todo/img",
-    "docs/beehive-sensors/components/HX711-flat.md",
-    "docs/beehive-sensors/components/HX711-bar.md",
-    "docs/beehive-sensors/components/DS18B20.md",
     "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
     "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
     "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
