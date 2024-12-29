@@ -1,7 +1,11 @@
 ---
 price: "4"
 title: Weight sensor HX711 (bar-type)
+items: "4"
 ---
+https://www.aliexpress.com/item/1005006827930173.html
+[https://www.amazon.de/-/en/gp/product/B079FQNJJH/](https://www.amazon.de/-/en/gp/product/B079FQNJJH/)
+![](../../img/612ornIvHHL._SL1000_.jpg)
 ### Wiring
 HX711 Load Cell Amplifier:
 
@@ -83,14 +87,11 @@ end
 ```
 
 
-Weight sensor (HX711) 20kg * 4
-https://www.aliexpress.com/item/1005006827930173.html
-[https://www.amazon.de/-/en/gp/product/B079FQNJJH/](https://www.amazon.de/-/en/gp/product/B079FQNJJH/)
 
 
 ![](../../img/HX711.png)
 
-![](../../img/612ornIvHHL._SL1000_.jpg)
+
 # Features
 
 Two selectable differential input channels

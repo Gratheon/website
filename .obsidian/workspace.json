@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/components/Battery-18650.md",
+                "file": "docs/beehive-sensors/components/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battery-18650"
+              "title": "index"
             }
           }
         ]
@@ -167,14 +167,18 @@
   },
   "active": "62352b76cc22a1c8",
   "lastOpenFiles": [
-    "docs/beehive-sensors/components/Aluminium Enclosure.md",
-    "docs/beehive-sensors/components/aluminium-profile.md",
-    "docs/beehive-sensors/components/Battery-18650.md",
-    "docs/beehive-sensors/components/DS18B20.md",
     "docs/beehive-sensors/components/ESP32.md",
     "docs/beehive-sensors/components/HX711-bar.md",
     "docs/beehive-sensors/components/HX711-flat.md",
+    "docs/beehive-sensors/components/case.md",
+    "docs/beehive-sensors/components/aluminium-profile.md",
+    "docs/beehive-sensors/components/battery-shield.md",
+    "docs/beehive-sensors/components/battery.md",
+    "docs/beehive-sensors/components/DS18B20.md",
     "docs/beehive-sensors/components/index.md",
+    "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.04.13.png",
+    "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
+    "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.02.50.png",
     "docs/beehive-sensors/components/img/Pasted image 20241229194804.png",
     "docs/beehive-sensors/components/img/Pasted image 20241110015457.png",
     "research/Competition/Competition.md",
@@ -182,13 +186,10 @@
     "research/Competition/3bee.md",
     "research/Competition/img/hive-tech-v2.7df5c554.webp",
     "research/Competition/img/Pasted image 20241228012800.png",
-    "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.20.00.png",
     "research/Competition/ForSage.md",
     "research/Competition/img/forsage-app-hub-detail.png",
     "research/Competition/img/DSC_0066-scaled.jpg",
-    "research/Competition/img/DSC_0224-scaled.jpg",
-    "research/Competition/img/DSC_0148-scaled.jpg",
     "research/Competition/BeeHiveMonitoring.md",
     "docs/beehive-sensors/Installation.md",
     "docs/beehive-sensors/beehive-sensors.md",
@@ -202,7 +203,6 @@
     "docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
     "docs/beehive-sensors/components/todo/Barometric sensor - BMP180.md",
     "docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
-    "docs/beehive-sensors/components/todo/Air Quality Sensor.md",
     "docs/beehive-sensors/components/todo",
     "about/products/🌡️ Beehive IoT sensors/features",
     "about/products/🪬 Robotic Apiary/img",
