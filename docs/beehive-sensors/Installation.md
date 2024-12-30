@@ -14,10 +14,7 @@ sidebar_position: 1
 ![](img/Screenshot%202024-07-22%20at%2003.42.43.png)
 
 - Install [DallasTemperature@3.9.0](https://github.com/milesburton/Arduino-Temperature-Control-Library) library in Arduino IDE (DallasTemperature@3.9.0
-![](img/Screenshot%202024-11-10%20at%2015.19.14.png)
-- Install [Adafruit HX711 library](https://github.com/adafruit/Adafruit_HX711) in Arduino IDE
-![](img/Screenshot%202024-11-10%20at%2015.19.48.png)
-
+- Install [HX711](https://github.com/RobTillaart/HX711) library (by RobTillaart) in Arduino IDE 
 
 ### Uploading firmware
 - Checkout our client firmware `git clone git@github.com:Gratheon/beehive-sensors.git`
