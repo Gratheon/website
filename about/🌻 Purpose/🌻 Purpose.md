@@ -9,8 +9,9 @@ title: 🌻 Purpose
 
 # What we do
 
-Gratheon develops an open source, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
+Gratheon develops an open, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
 
+- **open** means [open source](../company/🤲%20Why%20open%20source.md), open hardware and transparent
 - **modular** means that we have multiple devices at different price points that construct different information about bee colony
 - **data service** means that we earn money from subscription service for managing hive data such as timeseries telemetry, image and video footage that is processed using AI models
 - **scalable precise pollination** means that using our service, beekeepers can manage more bee colonies and they can be placed at the right location farmers and bees would benefit the most to cover crop field most efficiently
