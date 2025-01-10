@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/beehive-sensors/components/case.md",
+                "file": "docs/beehive-sensors/components/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "case"
+              "title": "index"
+            }
+          },
+          {
+            "id": "6e4ba805889ae2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temperature - Humidity sensor alternative"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docs/beehive-sensors/components/case.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,11 +208,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5ecf7beb17ab23f",
+  "active": "6e4ba805889ae2f4",
   "lastOpenFiles": [
-    "docs/beehive-sensors/components/img/Screenshot 2024-12-25 at 03.02.37.png",
-    "docs/beehive-sensors/components/case.md",
+    "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
+    "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
+    "docs/beehive-sensors/components/todo/Microphone Amplifier Stable.md",
+    "docs/beehive-sensors/components/todo/HX711-flat.md",
+    "docs/beehive-sensors/components/todo/CO2 sensor - ENS160.md",
+    "docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
+    "docs/beehive-sensors/components/todo/Barometric sensor - BMP180.md",
+    "docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
+    "docs/beehive-sensors/components/todo/Air Quality Sensor.md",
+    "docs/beehive-sensors/components/img/Pasted image 20241224020711.png",
     "docs/beehive-sensors/components/index.md",
+    "docs/beehive-sensors/components/case.md",
+    "docs/beehive-sensors/components/img/Screenshot 2024-12-25 at 03.02.37.png",
     "about/index.md",
     "about/📢 Press kit.md",
     "about/company/🤲 Why open source.md",
@@ -207,7 +231,6 @@
     "docs/beehive-sensors/components/aluminium-profile.md",
     "docs/beehive-sensors/components/battery.md",
     "docs/beehive-sensors/components/battery-shield.md",
-    "docs/beehive-sensors/components/todo/HX711-flat.md",
     "docs/beehive-sensors/components/HX711-bar.md",
     "docs/beehive-sensors/components/screws.md",
     "docs/beehive-sensors/Installation.md",
@@ -219,20 +242,11 @@
     "docs/beehive-sensors/components/img/61NM8FYbhuL._SL1500_.jpg",
     "docs/entrance-observer/components/Jetson Nano.md",
     "docs/entrance-observer/components/Camera mount.md",
-    "docs/entrance-observer/components/Camera lens.md",
     "docs/entrance-observer/components/img/Pasted image 20241229214746.png",
     "docs/entrance-observer/components/img",
-    "docs/entrance-observer/components/WiFi module for Jetson Nano.md",
-    "docs/entrance-observer/components/SD card for Jetson Nano.md",
-    "docs/entrance-observer/components/Jetson Nano case.md",
-    "docs/entrance-observer/components/Camera - Mokose 4k.md",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.04.13.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-11-04 at 22.19.03.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-29 at 21.02.50.png",
-    "docs/beehive-sensors/components/img/Pasted image 20241229194804.png",
-    "docs/beehive-sensors/components/img/Pasted image 20241110015457.png",
-    "research/Competition/Competition.md",
-    "research/Competition/HiveGenie.md",
     "docs/beehive-sensors/components/todo/img",
     "docs/beehive-sensors/components/todo",
     "about/products/🌡️ Beehive IoT sensors/features",
