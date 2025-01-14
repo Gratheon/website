@@ -34,10 +34,10 @@ function HomepageHeader() {
           <div style={{ zIndex: 2 }}>
             <div style={{ display: 'flex' }}>
               <div id={styles.splash_internal}>
-                <div>Beehive inspection platform</div>
+                <div>Modular Robotic Beehive</div>
 
                 <p style={{ background: 'black', textAlign: 'center' }}>
-                  Data analytics to save bees, time and strength
+                  With data analytics to save bees, time and strength
                 </p>
               </div>
             </div>
