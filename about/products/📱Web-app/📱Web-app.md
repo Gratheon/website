@@ -31,6 +31,9 @@ Such domain entities include:
 - Open a specific frame, click "upload frame photo"
 - Wait for backend to process
 - Receive AI-assisted data analytics about his apiary.
+### Sending weight telemetry from IoT sensors
+- Generate API token in Account settings
+- Power on IoT sensors device, follow Docs to connect it to WiFi
 
 ### Streaming entrance video
 - Setup entrance video camera to stream video
