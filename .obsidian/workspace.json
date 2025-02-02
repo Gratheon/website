@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison.md",
+                "file": "about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚖️ Colony comparison"
+              "title": "📸 Real-time frame scanning"
             }
           }
         ]
@@ -167,6 +167,10 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection.md",
+    "about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder.md",
+    "about/products/🧿 Robotic Beehive/ideas/🤖 Talk to bee colony with AI.md",
+    "about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison.md",
     "about/products/📱Web-app/pro tier/ideas 💡/♻️ Hive ownership transfer.md",
     "about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split.md",
     "about/products/📱Web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view.md",
@@ -189,10 +193,6 @@
     "about/products/📱Web-app/essential-tier/🔎 Inspection management.md",
     "about/products/📱Web-app/essential-tier/🍭 Feeding management.md",
     "about/products/📱Web-app/essential-tier/✏️ Drawing on canvas.md",
-    "about/products/📱Web-app/community-tier/🙅 User account deletion.md",
-    "about/products/📱Web-app/community-tier/🧑‍🚀 User registration.md",
-    "about/products/📱Web-app/community-tier/🧑‍🚀 User login.md",
-    "about/products/📱Web-app/community-tier/🧑‍🚀 User editing.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",
