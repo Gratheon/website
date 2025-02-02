@@ -1,1 +1,0 @@
-For [♻️Growth loops](https://www.notion.so/gratheon/Growth-loops-ee0adfb601b5474393fc412a7cc5837d?pvs=24) to speed-up registration, increase traction, we could have some inferencing on frontpage. User uploads frame image, receives some basic stats - bee counts.

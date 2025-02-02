@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/📱Web-app/📱Web-app.md",
+                "file": "about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User email verification and change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📱Web-app"
+              "title": "🧑‍🚀 User email verification and change"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 590.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -161,11 +161,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/products/📱Web-app/community-tier/ideas 💡/🖮 keyboard shortcuts support.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/👑 Queen management.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/👑 Queen detection.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame side queen cup detection.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame analysis - bee counter.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/🎒 Product onboarding videos & UI.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/♻️ Public beehive view.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/♻️ Quick frame analysis demo on frontpage.md",
+    "about/products/📱Web-app/community-tier/ideas 💡/♻️ Apiary position sharing.md",
+    "about/products/📱Web-app/📱Web-app.md",
     "about/❤️‍🔥 Volunteers.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/🌻 Purpose.md",
@@ -183,21 +195,10 @@
     "docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
     "docs/beehive-sensors/components/todo/Barometric sensor - BMP180.md",
     "docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
-    "docs/beehive-sensors/components/todo/CO2 sensor - ENS160.md",
-    "docs/beehive-sensors/components/todo/HX711-flat.md",
-    "docs/beehive-sensors/components/todo/Microphone Amplifier Stable.md",
-    "docs/beehive-sensors/components/todo/PM2 dust sensor.md",
-    "docs/beehive-sensors/components/todo/Tampering - Vibration sensor.md",
-    "docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative.md",
-    "blog/2025-01-13 🤝 Visited VIDRIK.md",
-    "docs/beehive-sensors/components/case.md",
     "blog/img/20250113_115946.webp",
     "blog/img/Screenshot 2025-01-13 at 08.31.11.png",
     "docs/beehive-sensors/components/img/Pasted image 20241224020711.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-25 at 03.02.37.png",
-    "about/index.md",
-    "about/📢 Press kit.md",
-    "about/company/🤲 Why open source.md",
     "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.48.png",
     "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.14.png",
     "docs/beehive-sensors/components/img/20241230_192826.jpg",
