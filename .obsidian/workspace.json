@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
+                "file": "about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦀 Varroa mite new infestation detection from video"
+              "title": "🌻 Detect bees with pollen for foraging statistics"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
-    "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge.md",
+    "about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video.md",
+    "about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge.md",
     "about/products/👁️‍🗨️ Entrance Observer/todo/🎮 Device management - Remote desktop.md",
     "about/products/📱Web-app/pro tier/ideas 💡/🎮 Device management.md",
     "about/products/📱Web-app/pro tier/📈 Count bees - in the cloud.md",
@@ -192,7 +193,6 @@
     "about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX.md",
     "about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning.md",
     "about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection.md",
-    "about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",
