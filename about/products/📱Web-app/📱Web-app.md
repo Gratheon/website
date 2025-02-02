@@ -24,6 +24,7 @@ Such domain entities include:
 ![](../../img/web-app.png)
 
 ## Main app use cases
+Use-cases is a group of features that when combined serve a great value for the customer
 
 ### Uploading photos to get colony overview stats
 - Create a beehive
@@ -31,7 +32,13 @@ Such domain entities include:
 - Open a specific frame, click "upload frame photo" with bees and comb cells on it
 - Wait for backend to process
 - Receive AI-assisted statistics about bee counts and cell distribution
-- Compare different hive 
+- Compare different hives to see which ones are more powerful with real data behind it
+
+### Track colony development over time
+- Follow steps for adding frame photos of the beehive after an inspection
+- Click on "Create inspection button" to create a snapshot of the hive in time
+- 
+
 ### Sending weight telemetry from IoT sensors
 - Generate API token in Account settings
 - Power on IoT sensors device, follow Docs to connect it to WiFi and send data
@@ -42,9 +49,6 @@ Such domain entities include:
 - Setup entrance video camera to stream video
 - Check that video stream is visible
 
-App itself is also multilingual
-
-![](../../img/app%20in%20russian.png)
 
 
 
