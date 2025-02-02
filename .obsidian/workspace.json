@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/📱Web-app/essential-tier/ideas 💡/📡 Offline mode.md",
+                "file": "about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📡 Offline mode"
+              "title": "⚖️ Colony comparison"
             }
           }
         ]
@@ -167,7 +167,19 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/products/📱Web-app/pro tier/ideas 💡/♻️ Hive ownership transfer.md",
+    "about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa infestation management.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🔔 Drone detection.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🔔  Alerts.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/🐝 Laying workers cell detection.md",
     "about/products/📱Web-app/essential-tier/ideas 💡/🐝 Drone brood detection.md",
+    "about/products/📱Web-app/community-tier/📱 mobile app.md",
+    "about/products/📱Web-app/essential-tier/ideas 💡/📡 Offline mode.md",
     "about/products/📱Web-app/essential-tier/ideas 💡/🌻 Flower blooming map.md",
     "about/products/📱Web-app/essential-tier/ideas 💡/🌪️ Weather alerts.md",
     "about/products/📱Web-app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL.md",
@@ -181,18 +193,6 @@
     "about/products/📱Web-app/community-tier/🧑‍🚀 User registration.md",
     "about/products/📱Web-app/community-tier/🧑‍🚀 User login.md",
     "about/products/📱Web-app/community-tier/🧑‍🚀 User editing.md",
-    "about/products/📱Web-app/community-tier/🖼️ Frame side management.md",
-    "about/products/📱Web-app/community-tier/🔐 API token management.md",
-    "about/products/📱Web-app/community-tier/📸 Frame side photo upload.md",
-    "about/products/📱Web-app/community-tier/📱 mobile app.md",
-    "about/products/📱Web-app/community-tier/📦 Hive section management.md",
-    "about/products/📱Web-app/community-tier/📦 Apiary management.md",
-    "about/products/📱Web-app/community-tier/💶 Billing subscription.md",
-    "about/products/📱Web-app/community-tier/🐝 Worker bee detection.md",
-    "about/products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management.md",
-    "about/products/📱Web-app/community-tier/🌻 list of local plants.md",
-    "about/products/📱Web-app/community-tier/🌪️ Weather alerts.md",
-    "about/products/📱Web-app/community-tier/🌍 Localization.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",
