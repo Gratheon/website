@@ -23,17 +23,20 @@ Such domain entities include:
 
 ![](../../img/web-app.png)
 
-## Use cases
+## Main app use cases
 
-### Uploading photos & getting detections
+### Uploading photos to get colony overview stats
 - Create a beehive
 - Open specific section, add frames
-- Open a specific frame, click "upload frame photo"
+- Open a specific frame, click "upload frame photo" with bees and comb cells on it
 - Wait for backend to process
-- Receive AI-assisted data analytics about his apiary.
+- Receive AI-assisted statistics about bee counts and cell distribution
+- Compare different hive 
 ### Sending weight telemetry from IoT sensors
 - Generate API token in Account settings
-- Power on IoT sensors device, follow Docs to connect it to WiFi
+- Power on IoT sensors device, follow Docs to connect it to WiFi and send data
+- Open target beehive, open Metrics tab and see graphs of weight/temperature
+- Open Analytics tab to see data more time-bound and correlate it with other data like weather
 
 ### Streaming entrance video
 - Setup entrance video camera to stream video
