@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/Company mission.md",
+                "file": "about/company/🫀 Culture and values/🫀 Culture and values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Company mission"
+              "title": "🫀 Culture and values"
             }
           }
         ]
@@ -167,7 +167,11 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/🌻 Purpose/Company mission.md",
     "about/🌻 Purpose/Ethics.md",
+    "about/🌻 Purpose/Naming.md",
+    "about/🌻 Purpose/🌻 Purpose.md",
+    "about/company/🫀 Culture and values/🫀 Culture and values.md",
     "docs/beehive-sensors/components/display.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
@@ -194,11 +198,7 @@
     "about/index.md",
     "about/📢 Press kit.md",
     "about/company/🤲 Why open source.md",
-    "about/🌻 Purpose/🌻 Purpose.md",
     "docs/beehive-sensors/components/aluminium-profile.md",
-    "docs/beehive-sensors/components/battery.md",
-    "docs/beehive-sensors/components/battery-shield.md",
-    "docs/beehive-sensors/components/HX711-bar.md",
     "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.48.png",
     "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.14.png",
     "docs/beehive-sensors/components/img/20241230_192826.jpg",
