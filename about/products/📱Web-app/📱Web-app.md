@@ -37,7 +37,8 @@ Use-cases is a group of features that when combined serve a great value for the 
 ### Track colony development over time
 - Follow steps for adding frame photos of the beehive after an inspection
 - Click on "Create inspection button" to create a snapshot of the hive in time
-- 
+- Check that new Inspection is added under Inspections tab
+	- Check how over time each inspection has own distribution of resources
 
 ### Sending weight telemetry from IoT sensors
 - Generate API token in Account settings
