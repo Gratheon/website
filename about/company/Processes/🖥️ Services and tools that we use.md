@@ -15,4 +15,4 @@
 - Error logs - Sentry
 - Performance tracing - Datadog
 - UI/UX prototyping - [PenPot](https://design.penpot.app/), an alternative to Figma
-- 3D model development - TinkerCad, FreeCAD
+- 3D model development - onshape.com, an alternative to Fusion360 and Tinkercad
