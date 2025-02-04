@@ -16,3 +16,6 @@ IoT sensors should be sold and thus operate separately from other products that 
 ![](../../img/Screenshot%202024-11-09%20at%2015.08.08.png)
 
 ![](../../img/20240726_000022.webp)
+![](img/20250119_131627.webp)
+
+![](img/0.jpg)
