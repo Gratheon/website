@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/📱Web-app/📱Web-app.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📱Web-app"
+              "title": "index"
             }
           }
         ]
@@ -167,8 +167,16 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
-    "about/products/prices.md",
+    "static/deck.pdf",
+    "about/index.md",
+    "about/company/Team/index.md",
+    "about/company/Team/Merchandise.md",
+    "about/company/Team/Vjatšeslav Kekšin.md",
+    "about/company/Team/img/photo-1704700285576.jpg",
+    "about/company/Team/Aleksei Prokopov.md",
+    "about/company/Team/Artjom Kurapov.md",
     "about/products/📱Web-app/📱Web-app.md",
+    "about/products/prices.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
     "about/products/🌡️ Beehive IoT sensors/img/0.jpg",
     "about/products/🌡️ Beehive IoT sensors/img/20250119_131627.webp",
@@ -189,13 +197,6 @@
     "about/products/📱Web-app/pro tier/🎥 Video streaming from phone.md",
     "about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection.md",
     "about/products/📱Web-app/essential-tier/🔔 Timeseries Anomaly detection.md",
-    "about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring.md",
-    "about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/🔗 Home-assistant integration.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered.md",
-    "about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",
@@ -203,15 +204,12 @@
     "docs/beehive-sensors/components/img/Pasted image 20241224020711.png",
     "docs/beehive-sensors/components/img/Screenshot 2024-12-25 at 03.02.37.png",
     "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.48.png",
-    "docs/beehive-sensors/img/Screenshot 2024-11-10 at 15.19.14.png",
     "docs/entrance-observer/components/img",
     "docs/beehive-sensors/components/todo/img",
     "docs/beehive-sensors/components/todo",
     "about/products/🌡️ Beehive IoT sensors/features",
     "about/products/🪬 Robotic Apiary/img",
     "research/img/2024.07.31.605955.full.pdf",
-    "docs/API/img",
-    "docs/API",
-    "static/deck.pdf"
+    "docs/API/img"
   ]
 }
