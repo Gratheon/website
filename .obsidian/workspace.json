@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/company/Team/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,16 +165,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68374b7d1d981e95",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "static/deck.pdf",
-    "about/index.md",
-    "about/company/Team/index.md",
-    "about/company/Team/Merchandise.md",
     "about/company/Team/Vjatšeslav Kekšin.md",
-    "about/company/Team/img/photo-1704700285576.jpg",
     "about/company/Team/Aleksei Prokopov.md",
     "about/company/Team/Artjom Kurapov.md",
+    "about/company/Team/index.md",
+    "about/index.md",
+    "static/deck.pdf",
+    "about/company/Team/Merchandise.md",
+    "about/company/Team/img/photo-1704700285576.jpg",
     "about/products/📱Web-app/📱Web-app.md",
     "about/products/prices.md",
     "about/products/🌡️ Beehive IoT sensors/🌡️ Beehive IoT sensors.md",
