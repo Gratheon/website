@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/Team/index.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,12 +165,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/company/Team/index.md",
     "about/company/Team/Vjatšeslav Kekšin.md",
     "about/company/Team/Aleksei Prokopov.md",
     "about/company/Team/Artjom Kurapov.md",
-    "about/company/Team/index.md",
     "about/index.md",
     "static/deck.pdf",
     "about/company/Team/Merchandise.md",
