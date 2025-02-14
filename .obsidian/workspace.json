@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/beehive_camera/beehive_camera.md",
+                "file": "about/products/web_app/community-tier/🌪️ Weather alerts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "beehive_camera"
+              "title": "🌪️ Weather alerts"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "weather alerts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,19 +165,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68374b7d1d981e95",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "build/blog/rss.xml",
+    "about/products/web_app/essential-tier/ideas 💡/🌪️ Weather alerts.md",
     "build/blog/atom.xml",
-    "build/blog/rss.css",
+    "build/blog/rss.xml",
     "build/blog/atom.css",
+    "build/blog/rss.css",
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
     "build/sitemap.xml",
     "build/index.html",
     "build/research/wifi-exposure/index.html",
     "build/research/wifi-exposure",
-    "build/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques/index.html",
     "build/img/varroa.webp",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -189,11 +188,11 @@
     "build/img/robot.jpeg",
     "build/img/queens.webp",
     "build/img/playback.webp",
+    "about/products/beehive_camera/beehive_camera.md",
     "docs/entrance-observer/Datasets.md",
     "about/products/👁️‍🗨️ Entrance Observer.md",
     "about/products/camera.md",
     "about/products/camera 1.md",
-    "about/products/beehive_camera/beehive_camera.md",
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "about/🌻 Purpose/Symbolism.md",
     "about/index.md",
