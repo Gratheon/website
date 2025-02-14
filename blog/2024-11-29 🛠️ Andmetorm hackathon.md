@@ -3,7 +3,7 @@ We are excited to participate in the **"Data Storm" hackathon**, which focuses o
 ### Our focus areas
 
 - [🗃️ Storm wind collapsing beehives](/about/🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives)
-- [🌪️ Weather alerts](/about/products/web_app/essential-tier/🌪️%20Weather%20alerts.md)
+- [📡 Weather alerts](/about/products/web_app/community-tier/🌪️%20Weather%20alerts)
 
 ## Team members
 
