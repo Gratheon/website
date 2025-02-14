@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/camera/camera.md",
+                "file": "docs/API/API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "camera"
+              "title": "API"
             }
           }
         ]
@@ -167,6 +167,9 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "docs/API/GraphQL API.md",
+    "docs/API/REST APIs.md",
+    "about/products/camera/camera.md",
     "about/products/robotic_beehive/robotic_beehive.md",
     "about/products/sensors/sensors.md",
     "about/products/robotic_apiary/robotic_apiary.md",
@@ -174,7 +177,6 @@
     "about/products/robotic_apiary/img/Screenshot 2025-02-14 at 18.27.24.png",
     "about/products/robotic_beehive/img/Screenshot 2025-02-14 at 18.27.11.png",
     "about/products/robotic_beehive/img",
-    "about/products/camera/camera.md",
     "about/products/camera/img/Screenshot 2025-02-14 at 18.27.00.png",
     "about/products/camera/img",
     "about/products/sensors/img/Screenshot 2025-02-14 at 18.26.53.png",
@@ -202,7 +204,6 @@
     "about/products/web_app/pro tier/ideas 💡/🎮 Device management.md",
     "about/products/web_app/pro tier/📈 Count bees - in the cloud.md",
     "about/products/camera/features/🎥 Video streaming via API.md",
-    "about/products/web_app/essential-tier/📺 Video streaming playback.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",
