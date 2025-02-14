@@ -4,8 +4,9 @@ sidebar_position: 5
 ---
 `status: gathering requirements`
 
-We are developing **a single-colony** robotic beehive, capable of automating inspections.
-Essentially, this device is going to use linear actuators to extract beehive frames from the nest, take photos of them in a safe way and add them to [web app](../web_app/web_app.md) where AI vision will detect bees, queen, cells etc and alert user in case of problems.
+We are developing a **single-colony** robotic beehive capable of automating inspections.
+
+This device will use linear actuators to safely extract beehive frames from the nest, capture photos, and upload them to the [web app](../web_app/web_app.md). AI vision will then analyze the images to detect bees, the queen, cells, and other key elements, alerting the user in case of any issues.
 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.11.png)

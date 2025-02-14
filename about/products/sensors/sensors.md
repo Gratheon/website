@@ -4,7 +4,7 @@ title: 🌡️ Beehive IoT sensors
 ---
 `status: prototype, 40% complete`
 
-🌡️ Beehive IoT sensors product essentially is smart scales that is equipped with additional sensors and communication chips that periodically measures hive state and send data to the [web app](../web_app/web_app.md). Such aggregated data can help beekeepers to keep track of the colony in the field with smallest budget.
+🌡️ Beehive IoT sensors are essentially smart scales equipped with additional sensors and communication chips. They periodically measure the hive's state and send data to a [web app](../web_app/web_app.md). This aggregated data helps beekeepers monitor their colonies in the field with minimal costs.
 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)

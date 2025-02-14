@@ -5,8 +5,7 @@ title: 📱Web-app
 
 `status: minimum viable product, 60% complete`
 
-Gratheon web-app main job is to provide data analytics about bees that beekeeper owns.
-Main use-case is to add most important entities to an app and then manipulate their state as a reflection of reality. 
+Gratheon web app is intended to help beekeepers manage apiary data, communicate with installed modular hive devices, analyze images and timeseries data to extract valuable statistics, provide this data analytics over time, generate and deliver alerts, forecast, provide AI suggestions to solve issues.
 
 ## Core domain entitites
 Such domain entities include:
