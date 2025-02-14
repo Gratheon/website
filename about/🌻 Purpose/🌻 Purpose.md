@@ -9,7 +9,7 @@ title: 🌻 Purpose
 
 # What we do
 
-Gratheon develops an open, modular, [🧿 Robotic Beehive](products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
+Gratheon develops an open, modular, [robotic_beehive](../products/robotic_beehive/robotic_beehive.md) as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
 
 - **open** means [open source](../company/🤲%20Why%20open%20source.md), open hardware and transparent
 - **modular** means that we have multiple devices at different price points that construct different information about bee colony

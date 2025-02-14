@@ -2,7 +2,7 @@
 Our main revenue stream is [📱Web-app](../products/📱Web-app/📱Web-app.md) SaaS data analytics services with flat or usage based pricing. For hardware, we want to keep prices relatively low, to have maximum adoption rate, promoting subscription model.
 
 ## Order of product development
- [🧿 Robotic Beehive](../products/🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) is the expensive to research and manufacture for the mass-market.
+ [robotic_beehive](../products/robotic_beehive/robotic_beehive.md) is the expensive to research and manufacture for the mass-market.
  
 To reduce risks, we develop simultaneously our base products:
 - [📱Web-app](../products/📱Web-app/📱Web-app.md)

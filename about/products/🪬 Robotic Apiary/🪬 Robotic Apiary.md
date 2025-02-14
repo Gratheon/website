@@ -13,7 +13,7 @@ As a more cost-effective solution for large apiaries, we want to reuse [R**oboti
 
 ## Challenges / Requirements
 
-- inspect multiple (~10) hives, same functionality as [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md)
+- inspect multiple (~10) hives, same functionality as [robotic_beehive](../robotic_beehive/robotic_beehive.md)
 - cost-effective - use one moveable module
 - mobile trailer form - should be possible to move entire apiary with a car. The goal is to transport hives back to the base for winter time, but not rely on a huge container.
 

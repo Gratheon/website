@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/products/robotic_beehive/robotic_beehive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "robotic_beehive"
             }
           }
         ]
@@ -161,16 +161,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/products/index.md",
+    "about/products/robotic_beehive/robotic_beehive.md",
+    "about/index.md",
     "about/company/Team/index.md",
     "about/company/Team/Vjatšeslav Kekšin.md",
     "about/company/Team/Aleksei Prokopov.md",
     "about/company/Team/Artjom Kurapov.md",
-    "about/index.md",
     "static/deck.pdf",
     "about/company/Team/Merchandise.md",
     "about/company/Team/img/photo-1704700285576.jpg",
@@ -195,7 +198,6 @@
     "about/products/📱Web-app/essential-tier/📺 Video streaming playback.md",
     "about/products/📱Web-app/pro tier/🎥 Video streaming from phone.md",
     "about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection.md",
-    "about/products/📱Web-app/essential-tier/🔔 Timeseries Anomaly detection.md",
     "docs/beehive-sensors/components/img/20250119_131627.webp",
     "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
     "blog/img/20250113_115946.webp",

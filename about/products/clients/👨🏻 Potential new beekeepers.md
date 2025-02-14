@@ -1,5 +1,5 @@
 - Someone like [🧑‍🚀 Hobby beekeepers](🧑‍🚀%20Hobby%20beekeepers.md) or [🧑🏻‍🌾 Farmers](🧑🏻‍🌾%20Farmers.md) who wants to take care of bees but is afraid and lacks information
 - Has hard time choosing the right first set of frames, beehive sections, bees, equipment
-- Main selling point would be a [🧿 Robotic Beehive](../🧿%20Robotic%20Beehive/🧿%20Robotic%20Beehive.md) that is the new shiny thing that
+- Main selling point would be a [robotic_beehive](../robotic_beehive/robotic_beehive.md) that is the new shiny thing that
     - Could educate - [🎒 Challenging to become a new beekeeper](../../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md)
     - Looks awesome - [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
