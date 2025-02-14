@@ -179,15 +179,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '9c3'),
+    component: ComponentCreator('/about', 'd5e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '809'),
+        component: ComponentCreator('/about', 'c1f'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '060'),
+            component: ComponentCreator('/about', '5e7'),
             routes: [
               {
                 path: '/about/',
@@ -1236,12 +1236,6 @@ export default [
               {
                 path: '/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL',
                 component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL', 'd5e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/essential-tier/ideas 💡/🌪️ Weather alerts',
-                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🌪️ Weather alerts', 'e19'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
