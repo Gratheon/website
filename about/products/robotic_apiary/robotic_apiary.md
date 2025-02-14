@@ -2,8 +2,7 @@
 sidebar_position: 6
 title: 🪬 Robotic Apiary
 ---
-
-`status: ideation`
+`status: gathering requirements`
 
 As a more cost-effective solution for large apiaries, we want to reuse [Robotic Beehive](../robotic_beehive/robotic_beehive.md)  functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
 

@@ -7,17 +7,20 @@ sidebar_position: 0
 </div></div>
 
 Gratheon develops open, modular robotic beehive as a service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
-
+### For the investors 💶
 - [📑 deck.pdf](../static/deck.pdf) or [google docs](https://docs.google.com/presentation/d/e/2PACX-1vRAO6JHPczQ2u8Z8ph3g7oa2UPk_0gzV-BpPC30R0AFjAL-1Bqqhrum59NEHlI7lCSbyurKZiu8-JuO/pub?start=false&loop=false&delayms=3000)
 - 💁🏻 B2B (beekeepers) + B2B2B (beekeepers reselling services to farmers)
 - SaaS / Deeptech / Agrotech / Robotics
-### Elevator pitch for the investors 💶
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/ikBgcNUSc9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-📢 Do you like honey or apples? 5 years ago I became a beekeeper to improve pollination of my garden and to take care of the super organisms of bees.
+📢 We are building a robotic beehive! 5 years ago I became a beekeeper to improve pollination of my garden and to take care of the super organisms of bees.
 
-Soon enough I understood that bees can [🧶 Swarm](./🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](./🌨️%20Problems/🦀%20Infestations.md). To manage that, I had to lift heavy beehives every week to inspect and treat bees, otherwise they would get weak and die over the winter. Losing a colony is not just 300 euros of monetary loss, its also a personal failure. 20% to 40 % of colonies die every year.
+Soon I understood that bees can [🧶 Swarm](./🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](./🌨️%20Problems/🦀%20Infestations.md). 
+I had to regularly lift heavy beehives sections to inspect and treat bees.
+Some colonies got weak and died over the winter. 
+Losing a colony is not just 300 euros of monetary loss, its also a personal failure. 
+On average 20% to 40 % of colonies die every year.
 
 Imagine a new type of modular robotic beehive that inspects the bees and [👨🏻‍🚀 semi-professional beekeepers](./products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) see colony development over time automatically. This allows to save time, travel to the field and scale precise pollination, giving 40% more crop yields to farmers.
 
