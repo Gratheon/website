@@ -18,7 +18,9 @@ Goal of this project is to solve these beekeeping problems:
 We are developing **a single-colony** robotic beehive, capable of automating inspections.
 
 
+<div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
+</div>
 
 ### Positioning and Target audience
 

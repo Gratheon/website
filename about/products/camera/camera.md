@@ -8,7 +8,9 @@ title: 👁️‍🗨️ Entrance Observer
 
 One device is watches for up to 4 beehive entrances. Over time, we can try building a more affordable version that uses worse cameras, less GPU and less energy
 
+<div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
+</div>
 
 ## Target audience
 

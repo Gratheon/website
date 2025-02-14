@@ -10,7 +10,9 @@ As there are lots of sensors that send read-only data, it does not make sense to
 
 IoT sensors should be sold and thus operate separately from other products that we offer.
 
+<div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
+</div>
 
 ## Target audience
 - [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
