@@ -10,7 +10,7 @@ Our products are in development and are a mix of software and hardware, complime
 
 1. [web_app](web_app/web_app.md)
 2. [sensors](sensors/sensors.md)
-3. [camera](camera/camera.md)
+3. [beehive_camera](beehive_camera/beehive_camera.md)
 4. [robotic_beehive](robotic_beehive/robotic_beehive.md)
 5. [robotic_apiary](robotic_apiary/robotic_apiary.md)
 
