@@ -1,10 +1,11 @@
 ---
 sidebar_position: 6
+title: 🪬 Robotic Apiary
 ---
 
 `status: ideation`
 
-As a more cost-effective solution for large apiaries, we want to reuse [R**obotic Beehive**](https://www.notion.so/Robotic-Beehive-fd9559a2950b44bc8291972299ced18e?pvs=21) functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
+As a more cost-effective solution for large apiaries, we want to reuse [Robotic Beehive](../robotic_beehive/robotic_beehive.md)  functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
 
 ### Target audience
 

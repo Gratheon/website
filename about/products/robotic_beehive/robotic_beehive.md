@@ -30,19 +30,31 @@ Single-colony robot will cost a lot (>2000 EUR) and thus it is not cost-efficien
 
 President Alar Karis harvesting honey from the Kadriorg Palace beehives. ([Photo: Office of the President](https://news.err.ee/1609070024/gallery-president-alar-karis-harvesting-honey-in-front-of-kadriorg-palace#lg=1&slide=1)) An example of potential complimentary brand
 
-## How
+## Features
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "about/products/robotic_beehive/", ""), " ", "%20") + ")", "") as title FROM "about/products/robotic_beehive/ideas" WHERE file.name != "index" -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "about/products/robotic_beehive/", ""), " ", "%20") + ")", "") as title FROM "about/products/robotic_beehive/ideas" WHERE file.name != "index" -->
 
-Main use case is to:
-- extract hive frame using [Robotics](https://www.notion.so/Robotics-1d7756ebf56e4a30ba652a128b583f82?pvs=21)
-- take photos from both sides
-- upload to the [Web-app](https://www.notion.so/Web-app-2937ed264e1d434a8664caa4bc40978e?pvs=21) where it will be processed for health status
-
-## Functional requirements / features
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/robotic_beehive/", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/about/products/robotic_beehive/ideas" WHERE file.name != "index" -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/about/products/robotic_beehive/", ""), " ", "%20") + ")", "") as title FROM "gratheon.com/about/products/robotic_beehive/ideas" WHERE file.name != "index" -->
-
-| title |
-| ----- |
+| title                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🍭 Automatic sugar syrup feeder](ideas/🍭%20Automatic%20sugar%20syrup%20feeder.md)                                                                         |
+| [🎙️ 6-channel audio monitoring](ideas/🎙️%206-channel%20audio%20monitoring.md)                                                                             |
+| [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
+| [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
+| [🎮 Client-side app with UI in manual override mode](ideas/🎮%20Client-side%20app%20with%20UI%20in%20manual%20override%20mode.md)                           |
+| [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
+| [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
+| [🔌 Energy autonomy](ideas/🔌%20Energy%20autonomy.md)                                                                                                       |
+| [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |
+| [🚁 Ventilation control](ideas/🚁%20Ventilation%20control.md)                                                                                               |
+| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
+| [🛑 Close mechanized hive entrance in case of hornet attack](ideas/🛑%20Close%20mechanized%20hive%20entrance%20in%20case%20of%20hornet%20attack.md)         |
+| [🛑 Mechanically reduce hive entrance in case of high wind](ideas/🛑%20Mechanically%20reduce%20hive%20entrance%20in%20case%20of%20high%20wind.md)           |
+| [🤖 Talk to bee colony with AI](ideas/🤖%20Talk%20to%20bee%20colony%20with%20AI.md)                                                                         |
+| [🦾 Moveable hive bottom with varroa counting](ideas/🦾%20Moveable%20hive%20bottom%20with%20varroa%20counting.md)                                           |
+| [🦾 Robotic frame reordering](ideas/🦾%20Robotic%20frame%20reordering.md)                                                                                   |
+| [🦾 Robotic insertion of new frames](ideas/🦾%20Robotic%20insertion%20of%20new%20frames.md)                                                                 |
+| [🧪 Automatic acid treatment against varroa](ideas/🧪%20Automatic%20acid%20treatment%20against%20varroa.md)                                                 |
+| [🦾Robotic frame isolation & extraction](ideas/🦾Robotic%20frame%20isolation%20&%20extraction.md)                                                           |
 <!-- SerializedQuery END -->
 
 ## Non-functional requirements

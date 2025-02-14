@@ -8,9 +8,9 @@ title: 🍯 Products
 
 Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day [🌨️ Problems](../🌨️%20Problems/🌨️%20Problems.md)
 
-1. [📱Web-app](📱Web-app/📱Web-app.md)
+1. [web_app](web_app/web_app.md)
 2. [🌡️ Beehive IoT sensors](🌡️%20Beehive%20IoT%20sensors/🌡️%20Beehive%20IoT%20sensors.md)
 3. [👁️‍🗨️ Entrance Observer](👁️‍🗨️%20Entrance%20Observer/👁️‍🗨️%20Entrance%20Observer.md)
 4. [robotic_beehive](robotic_beehive/robotic_beehive.md)
-5. [🪬 Robotic Apiary](🪬%20Robotic%20Apiary/🪬%20Robotic%20Apiary.md)
+5. [robotic_apiary](robotic_apiary/robotic_apiary.md)
 
