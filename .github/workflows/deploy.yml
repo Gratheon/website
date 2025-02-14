@@ -8,12 +8,14 @@ jobs:
   deploy:
     runs-on: self-hosted
     steps:
+      - name: reset
+        run: git reset --hard && rm -rf /www/website/.docusaurus
       - name: pull
         working-directory: /www/website/
         run: git reset --hard && git pull
       - name: build
         working-directory: /www/website/
-        run: rm -rf /www/website/.docusaurus/ && npm i && npm run build
+        run: npm i && npm run build
       - name: move
         working-directory: /www/website/
         run: rm -rf /www/website/public && mv /www/website/build /www/website/public
