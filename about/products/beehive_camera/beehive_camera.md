@@ -10,6 +10,15 @@ title: 👁️‍🗨️ Entrance Observer
 ![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
 </div>
 
+### Problem focus
+Out of all beekeeping issues, this product is helping with these:
+- [💢 Hornet attacks](../../🌨️%20Problems/💢%20Hornet%20attacks.md)
+- [💢 Robbing state](../../🌨️%20Problems/💢%20Robbing%20state.md)
+- [🦀 Infestations](../../🌨️%20Problems/🦀%20Infestations.md)
+- [🧶 Swarming](../../🌨️%20Problems/🧶%20Swarming.md)
+- [🦀 Diseases](../../🌨️%20Problems/🦀%20Diseases.md)
+- [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
+- [🤢 Pesticide poisoning](../../🌨️%20Problems/🤢%20Pesticide%20poisoning.md)
 ## Target audience
 
 - [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)

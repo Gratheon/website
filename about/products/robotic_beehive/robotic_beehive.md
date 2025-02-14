@@ -15,6 +15,20 @@ Goal of this project is to solve these beekeeping problems:
 ![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
 </div>
 
+
+### Problem focus
+Out of all beekeeping issues, this product is helping with these:
+- [👁️ Observability of bee colony](../../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)
+- [💀 Intrusive inspections](../../🌨️%20Problems/💀%20Intrusive%20inspections.md)
+- [💪🏻 Physical labor](../../🌨️%20Problems/💪🏻%20Physical%20labor.md)
+- [🦀 Infestations](../../🌨️%20Problems/🦀%20Infestations.md)
+- [💀 Alcohol washing killing bees](../../🌨️%20Problems/💀%20Alcohol%20washing%20killing%20bees.md)
+- [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
+- [💀 Colony with drone-laying queen](../../🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)
+- 
+- [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
+- 
+
 ### Target clients
 
 Single-colony robot will cost a lot (>2000 EUR) and thus it is not cost-efficient for large scales. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.

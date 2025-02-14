@@ -4,11 +4,7 @@ title: 🌡️ Beehive IoT sensors
 ---
 `status: prototype, 40% complete`
 
-🌡️ Beehive IoT sensors product essentsmart scales device that is equipped with additional sensors and communication chips that is capable of send Telemetry API data to the [web app](../web_app/web_app.md) from low-power IoT devices.
-
-As there are lots of sensors that send read-only data, it does not make sense to bundle this logic with Robotic Beehive which should focus on controlling (moving) physical frames.
-
-IoT sensors should be sold and thus operate separately from other products that we offer.
+🌡️ Beehive IoT sensors product essentially is smart scales that is equipped with additional sensors and communication chips that periodically measures hive state and send data to the [web app](../web_app/web_app.md). Such aggregated data can help beekeepers to keep track of the colony in the field with smallest budget.
 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
