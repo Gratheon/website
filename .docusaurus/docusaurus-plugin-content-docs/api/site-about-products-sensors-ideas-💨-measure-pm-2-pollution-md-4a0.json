@@ -1,0 +1,23 @@
+{
+  "id": "products/sensors/ideas/💨 Measure PM2 pollution",
+  "title": "💨 Measure PM2 pollution",
+  "description": "Report results to 📈 Telemetry API",
+  "source": "@site/about/products/sensors/ideas/💨 Measure PM2 pollution.md",
+  "sourceDirName": "products/sensors/ideas",
+  "slug": "/products/sensors/ideas/💨 Measure PM2 pollution",
+  "permalink": "/about/products/sensors/ideas/💨 Measure PM2 pollution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💨 CO2 monitoring",
+    "permalink": "/about/products/sensors/ideas/💨 CO2 monitoring"
+  },
+  "next": {
+    "title": "📡 Connectivity over LoRa",
+    "permalink": "/about/products/sensors/ideas/📡 Connectivity over LoRa"
+  }
+}

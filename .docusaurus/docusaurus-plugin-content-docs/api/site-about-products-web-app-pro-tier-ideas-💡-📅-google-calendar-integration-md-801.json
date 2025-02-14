@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/pro tier/ideas 💡/📅 Google-calendar integration",
+  "title": "📅 Google-calendar integration",
+  "description": "To help beekeepers do Varroa Treatment diary and plan their events without the need of using our app all the time, we should integrate popular google calendar to synchronize events",
+  "source": "@site/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration.md",
+  "sourceDirName": "products/web_app/pro tier/ideas 💡",
+  "slug": "/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration",
+  "permalink": "/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📅 Calendar view",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/📅 Calendar view"
+  },
+  "next": {
+    "title": "📦 Harvest hive frames and sections",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/📦 Harvest hive frames and sections"
+  }
+}

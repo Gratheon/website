@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
+  "title": "🫶🏻 Join multiple colonies",
+  "description": "Problem",
+  "source": "@site/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies.md",
+  "sourceDirName": "products/web_app/pro tier/ideas 💡",
+  "slug": "/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
+  "permalink": "/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪲 Hive beetle detection",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection"
+  },
+  "next": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/web_app/pro tier/🎥 Video streaming from phone"
+  }
+}

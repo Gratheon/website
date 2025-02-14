@@ -1,0 +1,27 @@
+{
+  "id": "beehive-sensors/Installation",
+  "title": "Installation",
+  "description": "Setting up Arduino IDE for firmware upload",
+  "source": "@site/docs/beehive-sensors/Installation.md",
+  "sourceDirName": "beehive-sensors",
+  "slug": "/beehive-sensors/Installation",
+  "permalink": "/docs/beehive-sensors/Installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/Installation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌡️ Beehive IoT sensors",
+    "permalink": "/docs/beehive-sensors/"
+  },
+  "next": {
+    "title": "3d model",
+    "permalink": "/docs/beehive-sensors/3d model"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "products/sensors/ideas/🔗 Home-assistant integration",
+  "title": "🔗 Home-assistant integration",
+  "description": "Give user an ability to see and operate a robot without Gratheon app, using",
+  "source": "@site/about/products/sensors/ideas/🔗 Home-assistant integration.md",
+  "sourceDirName": "products/sensors/ideas",
+  "slug": "/products/sensors/ideas/🔗 Home-assistant integration",
+  "permalink": "/about/products/sensors/ideas/🔗 Home-assistant integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📡 Connectivity over LoRa",
+    "permalink": "/about/products/sensors/ideas/📡 Connectivity over LoRa"
+  },
+  "next": {
+    "title": "⚖️ Weight monitoring",
+    "permalink": "/about/products/sensors/todo/⚖️ Weight monitoring"
+  }
+}

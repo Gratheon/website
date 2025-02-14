@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/community-tier/📦 Hive management",
+  "title": "📦 Hive management",
+  "description": "",
+  "source": "@site/about/products/web_app/community-tier/📦 Hive management.md",
+  "sourceDirName": "products/web_app/community-tier",
+  "slug": "/products/web_app/community-tier/📦 Hive management",
+  "permalink": "/about/products/web_app/community-tier/📦 Hive management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Apiary management",
+    "permalink": "/about/products/web_app/community-tier/📦 Apiary management"
+  },
+  "next": {
+    "title": "📦 Hive section management",
+    "permalink": "/about/products/web_app/community-tier/📦 Hive section management"
+  }
+}

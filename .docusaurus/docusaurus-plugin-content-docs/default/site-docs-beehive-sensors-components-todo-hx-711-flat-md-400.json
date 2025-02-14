@@ -1,0 +1,26 @@
+{
+  "id": "beehive-sensors/components/todo/HX711-flat",
+  "title": "Weight sensor HX711 (flat-type)",
+  "description": "https://www.aliexpress.com/item/1005007254273938.html",
+  "source": "@site/docs/beehive-sensors/components/todo/HX711-flat.md",
+  "sourceDirName": "beehive-sensors/components/todo",
+  "slug": "/beehive-sensors/components/todo/HX711-flat",
+  "permalink": "/docs/beehive-sensors/components/todo/HX711-flat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/todo/HX711-flat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Weight sensor HX711 (flat-type)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+    "permalink": "/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module"
+  },
+  "next": {
+    "title": "Microphone Amplifier Stable",
+    "permalink": "/docs/beehive-sensors/components/todo/Microphone Amplifier Stable"
+  }
+}

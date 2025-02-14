@@ -1,0 +1,23 @@
+{
+  "id": "products/beehive_camera/features/🎥 Video streaming via API",
+  "title": "🎥 Video streaming via API",
+  "description": "We want to integrate hardware that cannot run GPU inferencing efficiently, but has sufficient network bandwidth to capture and upload/stream video to the cloud",
+  "source": "@site/about/products/beehive_camera/features/🎥 Video streaming via API.md",
+  "sourceDirName": "products/beehive_camera/features",
+  "slug": "/products/beehive_camera/features/🎥 Video streaming via API",
+  "permalink": "/about/products/beehive_camera/features/🎥 Video streaming via API",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/beehive_camera/"
+  },
+  "next": {
+    "title": "🌻 Detect bees with pollen for foraging statistics",
+    "permalink": "/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics"
+  }
+}

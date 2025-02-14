@@ -1,0 +1,29 @@
+{
+  "id": "beehive-sensors/components/battery",
+  "title": "Battery (18650 type, Li-ion)",
+  "description": "LiitoKala (real capacity ~2400mAh)",
+  "source": "@site/docs/beehive-sensors/components/battery.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/battery",
+  "permalink": "/docs/beehive-sensors/components/battery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/battery.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Battery (18650 type, Li-ion)",
+    "items": "4",
+    "price": "9.42",
+    "shipping-price": "8.33"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Battery (18650 type, Li-ion) shield",
+    "permalink": "/docs/beehive-sensors/components/battery-shield"
+  },
+  "next": {
+    "title": "Aluminium Enclosure",
+    "permalink": "/docs/beehive-sensors/components/case"
+  }
+}

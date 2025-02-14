@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/community-tier/🧑‍🚀 User editing",
+  "title": "🧑‍🚀 User editing",
+  "description": "",
+  "source": "@site/about/products/web_app/community-tier/🧑‍🚀 User editing.md",
+  "sourceDirName": "products/web_app/community-tier",
+  "slug": "/products/web_app/community-tier/🧑‍🚀 User editing",
+  "permalink": "/about/products/web_app/community-tier/🧑‍🚀 User editing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🙅 User account deletion",
+    "permalink": "/about/products/web_app/community-tier/🙅 User account deletion"
+  },
+  "next": {
+    "title": "🧑‍🚀 User login",
+    "permalink": "/about/products/web_app/community-tier/🧑‍🚀 User login"
+  }
+}

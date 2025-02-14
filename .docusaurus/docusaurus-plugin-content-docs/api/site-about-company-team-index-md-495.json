@@ -1,7 +1,7 @@
 {
   "id": "company/Team/index",
   "title": "⚽️ Team",
-  "description": "- Artjom Kurapov",
+  "description": "Artjom Kurapov",
   "source": "@site/about/company/Team/index.md",
   "sourceDirName": "company/Team",
   "slug": "/company/Team/",
@@ -21,7 +21,7 @@
     "permalink": "/about/company/🫀 Culture and values/New horizons 🏔️"
   },
   "next": {
-    "title": "Aleksei Prokopov",
-    "permalink": "/about/company/Team/Aleksei Prokopov"
+    "title": "Merchandise",
+    "permalink": "/about/company/Team/Merchandise"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "title": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "description": "Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module (CS811 HDC1080)",
+  "source": "@site/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
+  "sourceDirName": "beehive-sensors/components/todo",
+  "slug": "/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "permalink": "/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CO2 sensor - ENS160",
+    "permalink": "/docs/beehive-sensors/components/todo/CO2 sensor - ENS160"
+  },
+  "next": {
+    "title": "Weight sensor HX711 (flat-type)",
+    "permalink": "/docs/beehive-sensors/components/todo/HX711-flat"
+  }
+}

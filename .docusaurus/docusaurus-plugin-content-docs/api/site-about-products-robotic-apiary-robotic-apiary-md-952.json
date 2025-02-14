@@ -1,0 +1,27 @@
+{
+  "id": "products/robotic_apiary/robotic_apiary",
+  "title": "🪬 Robotic Apiary",
+  "description": "status: gathering requirements",
+  "source": "@site/about/products/robotic_apiary/robotic_apiary.md",
+  "sourceDirName": "products/robotic_apiary",
+  "slug": "/products/robotic_apiary/",
+  "permalink": "/about/products/robotic_apiary/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "🪬 Robotic Apiary"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📸 Real-time frame scanning",
+    "permalink": "/about/products/robotic_beehive/todo/📸 Real-time frame scanning"
+  },
+  "next": {
+    "title": "🚛 Robot moving hives between fields",
+    "permalink": "/about/products/robotic_apiary/ideas/🚛 Robot moving hives between fields"
+  }
+}

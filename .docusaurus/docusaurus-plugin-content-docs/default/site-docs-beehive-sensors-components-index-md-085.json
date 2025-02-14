@@ -1,7 +1,7 @@
 {
   "id": "beehive-sensors/components/index",
   "title": "Bill of materials",
-  "description": "| title                                                                                                                                                                                                  | price |",
+  "description": "| title                                                                                                                                                                                                      | price | shipping-price | items |",
   "source": "@site/docs/beehive-sensors/components/index.md",
   "sourceDirName": "beehive-sensors/components",
   "slug": "/beehive-sensors/components/",
@@ -20,7 +20,7 @@
     "permalink": "/docs/beehive-sensors/Choice of procesor chip"
   },
   "next": {
-    "title": "Air Quality Sensor",
-    "permalink": "/docs/beehive-sensors/components/Air Quality Sensor"
+    "title": "Temperature sensor - DS18B20",
+    "permalink": "/docs/beehive-sensors/components/DS18B20"
   }
 }

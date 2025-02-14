@@ -1,0 +1,27 @@
+{
+  "id": "beehive-sensors/components/display",
+  "title": "Display - LCD1602",
+  "description": "https://www.aliexpress.com/item/1005006100081942.html",
+  "source": "@site/docs/beehive-sensors/components/display.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/display",
+  "permalink": "/docs/beehive-sensors/components/display",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/display.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Display - LCD1602",
+    "price": "2.64"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aluminium Enclosure",
+    "permalink": "/docs/beehive-sensors/components/case"
+  },
+  "next": {
+    "title": "Screws M4 x 25mm",
+    "permalink": "/docs/beehive-sensors/components/screws"
+  }
+}

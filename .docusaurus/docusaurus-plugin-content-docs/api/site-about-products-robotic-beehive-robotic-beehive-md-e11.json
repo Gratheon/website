@@ -1,0 +1,27 @@
+{
+  "id": "products/robotic_beehive/robotic_beehive",
+  "title": "🧿 Robotic Beehive",
+  "description": "status: gathering requirements",
+  "source": "@site/about/products/robotic_beehive/robotic_beehive.md",
+  "sourceDirName": "products/robotic_beehive",
+  "slug": "/products/robotic_beehive/",
+  "permalink": "/about/products/robotic_beehive/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "🧿 Robotic Beehive",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Varroa mite new infestation detection from video",
+    "permalink": "/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video"
+  },
+  "next": {
+    "title": "🍭 Automatic sugar syrup feeder",
+    "permalink": "/about/products/robotic_beehive/ideas/🍭 Automatic sugar syrup feeder"
+  }
+}

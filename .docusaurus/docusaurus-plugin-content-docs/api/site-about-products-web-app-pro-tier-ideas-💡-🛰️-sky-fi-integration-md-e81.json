@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration",
+  "title": "🛰️ SkyFi integration",
+  "description": "https://skyfi.com/",
+  "source": "@site/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration.md",
+  "sourceDirName": "products/web_app/pro tier/ideas 💡",
+  "slug": "/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration",
+  "permalink": "/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Inventory management - warehouse view",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/📦 Inventory management - warehouse view"
+  },
+  "next": {
+    "title": "🪝 Webhooks integration",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/🪝 Webhooks integration"
+  }
+}

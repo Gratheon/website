@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/components/todo/Air Quality Sensor",
+  "title": "Air Quality Sensor",
+  "description": "Air Quality Sensor (TZT MQ135 MQ-135 )",
+  "source": "@site/docs/beehive-sensors/components/todo/Air Quality Sensor.md",
+  "sourceDirName": "beehive-sensors/components/todo",
+  "slug": "/beehive-sensors/components/todo/Air Quality Sensor",
+  "permalink": "/docs/beehive-sensors/components/todo/Air Quality Sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/todo/Air Quality Sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Screws M4 x 25mm",
+    "permalink": "/docs/beehive-sensors/components/screws"
+  },
+  "next": {
+    "title": "Barometric pressure sensor",
+    "permalink": "/docs/beehive-sensors/components/todo/Barometric pressure sensor"
+  }
+}

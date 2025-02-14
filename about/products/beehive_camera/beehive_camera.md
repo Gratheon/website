@@ -19,7 +19,7 @@ title: 👁️‍🗨️ Entrance Observer
 ## Features
 ![](../../img/Screenshot%202024-05-21%20at%2014.49.54.png)
 
-Similar ideas from [🔬 Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](/research/Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey.md)
+Similar ideas from [🔬 Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](https://gratheon.com/research/Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey)
 
 ### History
 ![](../../img/436202645_10161734083722973_395574856169740131_n.jpg)

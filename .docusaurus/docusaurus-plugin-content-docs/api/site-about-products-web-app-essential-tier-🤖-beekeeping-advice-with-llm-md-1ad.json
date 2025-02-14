@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/essential-tier/🤖 Beekeeping advice with LLM",
+  "title": "🤖 Beekeeping advice with LLM",
+  "description": "We want AI to give assistance to a beekeeper based on overall status of the beehive, taking into account all available context",
+  "source": "@site/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM.md",
+  "sourceDirName": "products/web_app/essential-tier",
+  "slug": "/products/web_app/essential-tier/🤖 Beekeeping advice with LLM",
+  "permalink": "/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔 Timeseries Anomaly detection",
+    "permalink": "/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection"
+  },
+  "next": {
+    "title": "↔️ Create colony split",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split"
+  }
+}

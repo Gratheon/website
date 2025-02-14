@@ -3,43 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
-    component: ComponentCreator('/blog', '37b'),
+    component: ComponentCreator('/blog', 'a61'),
     exact: true
   },
   {
@@ -188,13 +153,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2025/01/13/ 🤝 Visited VIDRIK',
+    component: ComponentCreator('/blog/2025/01/13/ 🤝 Visited VIDRIK', 'fa9'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '021'),
+    component: ComponentCreator('/blog/page/2', 'faf'),
     exact: true
   },
   {
@@ -209,15 +179,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '433'),
+    component: ComponentCreator('/about', '9c3'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '8e0'),
+        component: ComponentCreator('/about', '809'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'dd6'),
+            component: ComponentCreator('/about', '060'),
             routes: [
               {
                 path: '/about/',
@@ -562,18 +532,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Team/Aleksei Prokopov',
-                component: ComponentCreator('/about/company/Team/Aleksei Prokopov', 'def'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Artjom Kurapov',
-                component: ComponentCreator('/about/company/Team/Artjom Kurapov', '28e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/Team/Merchandise',
                 component: ComponentCreator('/about/company/Team/Merchandise', '858'),
                 exact: true,
@@ -676,824 +634,92 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🌡️ Beehive IoT sensors/',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/', '361'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🌩️ Measure atmospheric pressure', 'd97'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🌪️ Wind speed measurement - Anemometer', '96d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🎮 Connecting sensors to web-app UX', '1b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💧 Humidity monitoring', '7dc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💨 CO2 monitoring', 'e8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/💨 Measure PM2 pollution', '28c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Analytics with grafana', 'cfa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 Beep.nl weight telemetry integration', '53b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📈 MQTT integration with nodered', '4ed'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/📡 Connectivity over LoRa', '4d2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/ideas/🔗 Smart home integration over zigbee', '2dd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/⚖️ Weight monitoring', '554'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🌡️ Internal Temperature monitoring', '306'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🐻 Tampering detection', '33a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/📈 Telemetry API', 'a73'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection',
-                component: ComponentCreator('/about/products/🌡️ Beehive IoT sensors/todo/🔔 Timeseries Anomaly detection', '4f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/', 'fb3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming from phone',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming from phone', 'a0b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming via API',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/🎥 Video streaming via API', 'f05'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/features/📺 Video streaming playback',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/features/📺 Video streaming playback', 'e31'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/♻️ Share video stream', '571'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🌻 Detect bees with pollen for foraging statistics', 'a67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🎮 Client-side app with UI', '167'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Detect swarming from entrance video',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Detect swarming from entrance video', '3d4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Guard detection',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🐝 Guard detection', 'f28'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/👑 Detect queen mating from entrance video',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/👑 Detect queen mating from entrance video', '964'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Daily loss of bees stats and alert based on counter', 'c2e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Robbing behaviour alert based on bee counter',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🔔 Robbing behaviour alert based on bee counter', '5d6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/ideas/🤢 Detect pesticide exposure', '6e9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees - in the cloud', '996'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/📈 Count bees coming in and out - on the edge', '0fa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🖥️ Remote desktop', '830'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🦀 Varroa mite new infestation detection from video', 'bfe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection',
-                component: ComponentCreator('/about/products/👁️‍🗨️ Entrance Observer/todo/🚁 Hornet attack detection', '414'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/',
-                component: ComponentCreator('/about/products/📱Web-app/', '3fa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🌍 Localization',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🌍 Localization', '9bd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🌪️ Weather alerts',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🌪️ Weather alerts', '8e7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🌻 list of local plants',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🌻 list of local plants', '75d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🐝 Honeycomb cell detection & management', '25f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🐝 Worker bee detection',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🐝 Worker bee detection', '4c7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/💶 Billing subscription',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/💶 Billing subscription', '4a4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/📦 Apiary management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/📦 Apiary management', '726'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/📦 Hive management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/📦 Hive management', '215'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/📦 Hive section management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/📦 Hive section management', '21e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/📱 mobile app',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/📱 mobile app', '266'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/📸 Frame side photo upload',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/📸 Frame side photo upload', '719'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🔐 API token management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🔐 API token management', 'adf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🖼️ Frame side management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🖼️ Frame side management', 'e46'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🧑‍🚀 User editing',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🧑‍🚀 User editing', '862'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🧑‍🚀 User login',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🧑‍🚀 User login', '3bd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🧑‍🚀 User registration',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🧑‍🚀 User registration', 'bf2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/🙅 User account deletion',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/🙅 User account deletion', 'c67'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/♻️ Apiary position sharing',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/♻️ Apiary position sharing', '3c5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/♻️ Public beehive view',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/♻️ Public beehive view', 'c89'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/♻️ Quick frame analysis demo on frontpage',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/♻️ Quick frame analysis demo on frontpage', 'cef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🎒 Product onboarding videos & UI',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🎒 Product onboarding videos & UI', 'b3a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame analysis - bee counter',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame analysis - bee counter', '531'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame side queen cup detection',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🐝 Frame side queen cup detection', 'b2f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen detection',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen detection', '49d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen management',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/👑 Queen management', 'fde'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry', '6f1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🖮 keyboard shortcuts support',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🖮 keyboard shortcuts support', 'c55'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User email verification and change',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User email verification and change', 'e39'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User password change',
-                component: ComponentCreator('/about/products/📱Web-app/community-tier/ideas 💡/🧑‍🚀 User password change', '545'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/✏️ Drawing on canvas', 'ebe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/🍭 Feeding management',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/🍭 Feeding management', 'f4c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/🔎 Inspection management',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/🔎 Inspection management', '266'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/🤖 Beekeeping advice with LLM',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/🤖 Beekeeping advice with LLM', 'e20'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource', 'eb9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/♻️ QR-code printing & scanning',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/♻️ QR-code printing & scanning', '442'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL', '89c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🌪️ Weather alerts',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🌪️ Weather alerts', '00b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🌻 Flower blooming map',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🌻 Flower blooming map', 'a96'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Drone brood detection',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Drone brood detection', 'd94'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood', 'c47'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Laying workers cell detection',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🐝 Laying workers cell detection', '515'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/📡 Offline mode',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/📡 Offline mode', '848'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload', 'c8e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🔔  Alerts',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🔔  Alerts', '3f5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Drone detection',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Drone detection', '9ef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection', 'cbf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert', '16c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa infestation management',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa infestation management', '15c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa mite detection',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🦀 Varroa mite detection', 'e65'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view',
-                component: ComponentCreator('/about/products/📱Web-app/essential-tier/ideas 💡/🛰️ Apiary satellite view', '182'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/📅 Varroa Treatment diary',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/📅 Varroa Treatment diary', '356'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/↔️ Create colony split', 'db1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/♻️ Hive ownership transfer',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/♻️ Hive ownership transfer', '245'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/⚖️ Colony comparison', '49c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🌎 Map view',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🌎 Map view', '30b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun', '16a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation', 'a5e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🎮 Device management',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🎮 Device management', 'e0a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐜 Ant detection',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐜 Ant detection', '8f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐝 Analytics - demography and simulation',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐝 Analytics - demography and simulation', '79f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee age classification',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee age classification', '709'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee pose - morphometric model',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee pose - morphometric model', 'cfe'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee race classification',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐝 Bee race classification', '38f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🐝 Wax moth detection',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🐝 Wax moth detection', 'f6c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support', '466'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/📅 Calendar view', '7ee'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/📅 Google-calendar integration', 'c83'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/📦 Harvest hive frames and sections',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/📦 Harvest hive frames and sections', '74e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/📦 Inventory management - warehouse view',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/📦 Inventory management - warehouse view', '99c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🤖 Talk to bee colony with AI',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🤖 Talk to bee colony with AI', '491'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🪝 Webhooks integration',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🪝 Webhooks integration', '83c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🪲 Hive beetle detection', '7f4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🫶🏻 Join multiple colonies', 'e70'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration',
-                component: ComponentCreator('/about/products/📱Web-app/pro tier/ideas 💡/🛰️ SkyFi integration', 'da3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/🧑‍🚀 Actions beekeepers make',
                 component: ComponentCreator('/about/products/🧑‍🚀 Actions beekeepers make', '94e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/', 'e8c'),
+                path: '/about/products/beehive_camera/',
+                component: ComponentCreator('/about/products/beehive_camera/', '47e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🍭 Automatic sugar syrup feeder', '6ae'),
+                path: '/about/products/beehive_camera/features/🎥 Video streaming via API',
+                component: ComponentCreator('/about/products/beehive_camera/features/🎥 Video streaming via API', '826'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🎙️ 6-channel audio monitoring', 'aa5'),
+                path: '/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics', 'c55'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🎮 Client-side app with UI in manual override mode', 'c01'),
+                path: '/about/products/beehive_camera/ideas/🎮 Client-side app with UI',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🎮 Client-side app with UI', '154'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🎮 Connecting robot to web-app UX', 'e7c'),
+                path: '/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video', 'aa1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🐝 Bee nursing video analysis', '4c9'),
+                path: '/about/products/beehive_camera/ideas/🐝 Guard detection',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🐝 Guard detection', '581'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🐝 Bee specialization classification', 'a2d'),
+                path: '/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video', '5df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🔊 Audio-interface to talk to bees', 'aa3'),
+                path: '/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter', '08c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🔌 Energy autonomy',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🔌 Energy autonomy', '144'),
+                path: '/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter', 'cfd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🔥 Hive heating',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🔥 Hive heating', '130'),
+                path: '/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure',
+                component: ComponentCreator('/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure', 'ce4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🦾 Moveable hive bottom with varroa counting', '64f'),
+                path: '/about/products/beehive_camera/todo/🎮 Device management - Remote desktop',
+                component: ComponentCreator('/about/products/beehive_camera/todo/🎮 Device management - Remote desktop', 'd5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic frame reordering',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic frame reordering', 'ab6'),
+                path: '/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge',
+                component: ComponentCreator('/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge', '5bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🦾 Robotic insertion of new frames', 'f43'),
+                path: '/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video',
+                component: ComponentCreator('/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video', 'dd2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🦾Robotic frame isolation & extraction', '7ca'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🧪 Automatic acid treatment against varroa', '7d3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🚁 Ventilation control',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🚁 Ventilation control', 'a27'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour', '6d1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack', '738'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind', '3ec'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/todo/📸 Full hive inspection', 'd66'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning',
-                component: ComponentCreator('/about/products/🧿 Robotic Beehive/todo/📸 Real-time frame scanning', '892'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🪬 Robotic Apiary/',
-                component: ComponentCreator('/about/products/🪬 Robotic Apiary/', '20c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🪬 Robotic Apiary/ideas/🤖 Moving robot between hives',
-                component: ComponentCreator('/about/products/🪬 Robotic Apiary/ideas/🤖 Moving robot between hives', 'eac'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera',
-                component: ComponentCreator('/about/products/🪬 Robotic Apiary/ideas/🦀 Varroa mite detection with infra-red camera', '039'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing',
-                component: ComponentCreator('/about/products/🪬 Robotic Apiary/ideas/🦾 Cross-family frame movement resource balancing', '570'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/🪬 Robotic Apiary/ideas/🚛 Robot moving hives between fields',
-                component: ComponentCreator('/about/products/🪬 Robotic Apiary/ideas/🚛 Robot moving hives between fields', '1e9'),
+                path: '/about/products/beehive_camera/todo/🚁 Hornet attack detection',
+                component: ComponentCreator('/about/products/beehive_camera/todo/🚁 Hornet attack detection', '7c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1556,6 +782,696 @@ export default [
                 component: ComponentCreator('/about/products/prices', '748'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_apiary/',
+                component: ComponentCreator('/about/products/robotic_apiary/', '3f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_apiary/ideas/🤖 Moving robot between hives',
+                component: ComponentCreator('/about/products/robotic_apiary/ideas/🤖 Moving robot between hives', 'f4a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_apiary/ideas/🦀 Varroa mite detection with infra-red camera',
+                component: ComponentCreator('/about/products/robotic_apiary/ideas/🦀 Varroa mite detection with infra-red camera', 'afe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_apiary/ideas/🦾 Cross-family frame movement resource balancing',
+                component: ComponentCreator('/about/products/robotic_apiary/ideas/🦾 Cross-family frame movement resource balancing', '2bb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_apiary/ideas/🚛 Robot moving hives between fields',
+                component: ComponentCreator('/about/products/robotic_apiary/ideas/🚛 Robot moving hives between fields', '4b9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/',
+                component: ComponentCreator('/about/products/robotic_beehive/', '196'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🍭 Automatic sugar syrup feeder',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🍭 Automatic sugar syrup feeder', 'b9f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🎙️ 6-channel audio monitoring',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🎙️ 6-channel audio monitoring', 'a3e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🎮 Client-side app with UI in manual override mode',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🎮 Client-side app with UI in manual override mode', '7a6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🎮 Connecting robot to web-app UX',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🎮 Connecting robot to web-app UX', '645'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🐝 Bee nursing video analysis',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🐝 Bee nursing video analysis', '587'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🐝 Bee specialization classification',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🐝 Bee specialization classification', 'e71'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🔊 Audio-interface to talk to bees',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🔊 Audio-interface to talk to bees', 'cc8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🔌 Energy autonomy',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🔌 Energy autonomy', '82d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🔥 Hive heating',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🔥 Hive heating', 'dd4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI', 'ee5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting', '782'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🦾 Robotic frame reordering',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🦾 Robotic frame reordering', '347'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🦾 Robotic insertion of new frames',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🦾 Robotic insertion of new frames', 'fae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🦾Robotic frame isolation & extraction',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🦾Robotic frame isolation & extraction', 'e94'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🧪 Automatic acid treatment against varroa',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🧪 Automatic acid treatment against varroa', '164'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🚁 Ventilation control',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🚁 Ventilation control', 'c85'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour', 'd46'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack', '07c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind', 'fba'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/todo/📸 Full hive inspection',
+                component: ComponentCreator('/about/products/robotic_beehive/todo/📸 Full hive inspection', '589'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/todo/📸 Real-time frame scanning',
+                component: ComponentCreator('/about/products/robotic_beehive/todo/📸 Real-time frame scanning', '624'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/',
+                component: ComponentCreator('/about/products/sensors/', '8a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/features/📈 Telemetry API',
+                component: ComponentCreator('/about/products/sensors/features/📈 Telemetry API', 'b42'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/🌩️ Measure atmospheric pressure',
+                component: ComponentCreator('/about/products/sensors/ideas/🌩️ Measure atmospheric pressure', 'de0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer',
+                component: ComponentCreator('/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer', '850'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/💧 Internal humidity monitoring',
+                component: ComponentCreator('/about/products/sensors/ideas/💧 Internal humidity monitoring', '9c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/💨 CO2 monitoring',
+                component: ComponentCreator('/about/products/sensors/ideas/💨 CO2 monitoring', '20e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/💨 Measure PM2 pollution',
+                component: ComponentCreator('/about/products/sensors/ideas/💨 Measure PM2 pollution', '2bd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/📡 Connectivity over LoRa',
+                component: ComponentCreator('/about/products/sensors/ideas/📡 Connectivity over LoRa', 'fd1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/ideas/🔗 Home-assistant integration',
+                component: ComponentCreator('/about/products/sensors/ideas/🔗 Home-assistant integration', '329'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/todo/⚖️ Weight monitoring',
+                component: ComponentCreator('/about/products/sensors/todo/⚖️ Weight monitoring', 'b6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/todo/🌡️ Internal Temperature monitoring',
+                component: ComponentCreator('/about/products/sensors/todo/🌡️ Internal Temperature monitoring', '28f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/todo/🐻 Tampering detection',
+                component: ComponentCreator('/about/products/sensors/todo/🐻 Tampering detection', '09f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/',
+                component: ComponentCreator('/about/products/web_app/', 'a39'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🌍 Localization',
+                component: ComponentCreator('/about/products/web_app/community-tier/🌍 Localization', 'c96'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🌪️ Weather alerts',
+                component: ComponentCreator('/about/products/web_app/community-tier/🌪️ Weather alerts', 'a4f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🌻 list of local plants',
+                component: ComponentCreator('/about/products/web_app/community-tier/🌻 list of local plants', '71b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management',
+                component: ComponentCreator('/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management', 'c2e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🐝 Worker bee detection',
+                component: ComponentCreator('/about/products/web_app/community-tier/🐝 Worker bee detection', '73c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/💶 Billing subscription',
+                component: ComponentCreator('/about/products/web_app/community-tier/💶 Billing subscription', '5ea'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/📦 Apiary management',
+                component: ComponentCreator('/about/products/web_app/community-tier/📦 Apiary management', 'bc8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/📦 Hive management',
+                component: ComponentCreator('/about/products/web_app/community-tier/📦 Hive management', '60c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/📦 Hive section management',
+                component: ComponentCreator('/about/products/web_app/community-tier/📦 Hive section management', '3bf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/📸 Frame side photo upload',
+                component: ComponentCreator('/about/products/web_app/community-tier/📸 Frame side photo upload', '7d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🔐 API token management',
+                component: ComponentCreator('/about/products/web_app/community-tier/🔐 API token management', '050'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🖼️ Frame side management',
+                component: ComponentCreator('/about/products/web_app/community-tier/🖼️ Frame side management', 'da4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🧑‍🚀 User editing',
+                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User editing', 'b09'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🧑‍🚀 User login',
+                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User login', '288'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🧑‍🚀 User registration',
+                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User registration', '915'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🙅 User account deletion',
+                component: ComponentCreator('/about/products/web_app/community-tier/🙅 User account deletion', 'fd8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing', 'bc3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/♻️ Public beehive view',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/♻️ Public beehive view', '9aa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI', 'd2b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter', 'df2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection', '742'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/👑 Queen detection',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/👑 Queen detection', '19c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/👑 Queen management',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/👑 Queen management', '408'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry', 'ebe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🖮 keyboard shortcuts support',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🖮 keyboard shortcuts support', '614'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User email verification and change',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User email verification and change', '834'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User password change',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User password change', '5f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/✏️ Drawing on canvas',
+                component: ComponentCreator('/about/products/web_app/essential-tier/✏️ Drawing on canvas', 'bf1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/🍭 Feeding management',
+                component: ComponentCreator('/about/products/web_app/essential-tier/🍭 Feeding management', '529'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/📺 Video streaming playback',
+                component: ComponentCreator('/about/products/web_app/essential-tier/📺 Video streaming playback', 'b35'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/🔎 Inspection management',
+                component: ComponentCreator('/about/products/web_app/essential-tier/🔎 Inspection management', '7fa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection', '22a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM',
+                component: ComponentCreator('/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM', 'c2f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource', '2fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning', 'd3f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL', 'd5e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🌪️ Weather alerts',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🌪️ Weather alerts', 'e19'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🌻 Flower blooming map',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🌻 Flower blooming map', '501'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🐝 Drone brood detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🐝 Drone brood detection', '5d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood', '8fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🐝 Laying workers cell detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🐝 Laying workers cell detection', 'bd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload', '377'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🔔  Alerts',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔  Alerts', '066'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🔔 Drone detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔 Drone detection', '15f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection', '5dd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert', 'e5e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa infestation management',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa infestation management', '4b7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa mite detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa mite detection', 'e1e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🛰️ Apiary satellite view',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🛰️ Apiary satellite view', '612'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/🎥 Video streaming from phone',
+                component: ComponentCreator('/about/products/web_app/pro tier/🎥 Video streaming from phone', '80e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/📅 Varroa Treatment diary',
+                component: ComponentCreator('/about/products/web_app/pro tier/📅 Varroa Treatment diary', '9f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/📈 Count bees - in the cloud',
+                component: ComponentCreator('/about/products/web_app/pro tier/📈 Count bees - in the cloud', 'f83'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split', '6f7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/♻️ Hive ownership transfer',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/♻️ Hive ownership transfer', '33e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/♻️ Share video stream',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/♻️ Share video stream', '6df'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/⚖️ Colony comparison',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/⚖️ Colony comparison', '971'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🌎 Map view',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🌎 Map view', '61f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun', '3ee'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation', '952'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🎮 Device management',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🎮 Device management', '2ed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐜 Ant detection',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐜 Ant detection', '08a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Analytics - demography and simulation',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Analytics - demography and simulation', 'd20'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Bee age classification',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Bee age classification', '8d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model', '560'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification', '684'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Wax moth detection',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Wax moth detection', 'd4f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/👨🏻‍🚀 Multiple user support', '946'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/📅 Calendar view',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📅 Calendar view', '72e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration', '750'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/📦 Harvest hive frames and sections',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📦 Harvest hive frames and sections', 'fed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/📦 Inventory management - warehouse view',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📦 Inventory management - warehouse view', 'a53'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🪝 Webhooks integration',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🪝 Webhooks integration', 'a32'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection', 'ff6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies', 'a07'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration', '134'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }
@@ -1565,15 +1481,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bf2'),
+    component: ComponentCreator('/docs', '8c5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'cd0'),
+        component: ComponentCreator('/docs', '59e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '129'),
+            component: ComponentCreator('/docs', 'd35'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1660,44 +1576,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Air Quality Sensor',
-                component: ComponentCreator('/docs/beehive-sensors/components/Air Quality Sensor', 'd7b'),
+                path: '/docs/beehive-sensors/components/aluminium-profile',
+                component: ComponentCreator('/docs/beehive-sensors/components/aluminium-profile', 'e8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Aluminium profile 20x20x500mm',
-                component: ComponentCreator('/docs/beehive-sensors/components/Aluminium profile 20x20x500mm', '60c'),
+                path: '/docs/beehive-sensors/components/battery',
+                component: ComponentCreator('/docs/beehive-sensors/components/battery', '45e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Barometric pressure sensor',
-                component: ComponentCreator('/docs/beehive-sensors/components/Barometric pressure sensor', '73d'),
+                path: '/docs/beehive-sensors/components/battery-shield',
+                component: ComponentCreator('/docs/beehive-sensors/components/battery-shield', '33f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Barometric sensor - BMP180',
-                component: ComponentCreator('/docs/beehive-sensors/components/Barometric sensor - BMP180', '7f2'),
+                path: '/docs/beehive-sensors/components/case',
+                component: ComponentCreator('/docs/beehive-sensors/components/case', '409'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Battery 18650 with shield',
-                component: ComponentCreator('/docs/beehive-sensors/components/Battery 18650 with shield', 'b8e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module',
-                component: ComponentCreator('/docs/beehive-sensors/components/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module', 'c7f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/beehive-sensors/components/CO2 sensor - ENS160',
-                component: ComponentCreator('/docs/beehive-sensors/components/CO2 sensor - ENS160', 'f9e'),
+                path: '/docs/beehive-sensors/components/display',
+                component: ComponentCreator('/docs/beehive-sensors/components/display', '581'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1714,32 +1618,80 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Microphone Amplifier Stable',
-                component: ComponentCreator('/docs/beehive-sensors/components/Microphone Amplifier Stable', 'af9'),
+                path: '/docs/beehive-sensors/components/HX711-bar',
+                component: ComponentCreator('/docs/beehive-sensors/components/HX711-bar', '44d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/PM2 dust sensor',
-                component: ComponentCreator('/docs/beehive-sensors/components/PM2 dust sensor', '86a'),
+                path: '/docs/beehive-sensors/components/screws',
+                component: ComponentCreator('/docs/beehive-sensors/components/screws', '2b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Tampering - Vibration sensor',
-                component: ComponentCreator('/docs/beehive-sensors/components/Tampering - Vibration sensor', '27e'),
+                path: '/docs/beehive-sensors/components/todo/Air Quality Sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Air Quality Sensor', 'a52'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Temperature - Humidity sensor alternative',
-                component: ComponentCreator('/docs/beehive-sensors/components/Temperature - Humidity sensor alternative', '0a4'),
+                path: '/docs/beehive-sensors/components/todo/Barometric pressure sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Barometric pressure sensor', 'eb3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/beehive-sensors/components/Weight sensor',
-                component: ComponentCreator('/docs/beehive-sensors/components/Weight sensor', '348'),
+                path: '/docs/beehive-sensors/components/todo/Barometric sensor - BMP180',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Barometric sensor - BMP180', '1cf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module', 'e66'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/CO2 sensor - ENS160',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/CO2 sensor - ENS160', 'd4a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/HX711-flat',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/HX711-flat', 'fc5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/Microphone Amplifier Stable',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Microphone Amplifier Stable', '3a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/PM2 dust sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/PM2 dust sensor', '85b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/Tampering - Vibration sensor',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Tampering - Vibration sensor', '4f3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative',
+                component: ComponentCreator('/docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative', '9d2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/beehive-sensors/Installation',
+                component: ComponentCreator('/docs/beehive-sensors/Installation', '655'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1752,6 +1704,12 @@ export default [
               {
                 path: '/docs/entrance-observer/components/Camera - Mokose 4k',
                 component: ComponentCreator('/docs/entrance-observer/components/Camera - Mokose 4k', 'd8e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components/Camera lens',
+                component: ComponentCreator('/docs/entrance-observer/components/Camera lens', '56d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1883,15 +1841,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'ac6'),
+    component: ComponentCreator('/research', '24d'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'ac4'),
+        component: ComponentCreator('/research', '7f2'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '54f'),
+            component: ComponentCreator('/research', '057'),
             routes: [
               {
                 path: '/research/',
@@ -2129,6 +2087,11 @@ export default [
                 exact: true
               },
               {
+                path: '/research/Competition/ForSage',
+                component: ComponentCreator('/research/Competition/ForSage', '878'),
+                exact: true
+              },
+              {
                 path: '/research/Competition/Gobuzzr',
                 component: ComponentCreator('/research/Competition/Gobuzzr', '6df'),
                 exact: true
@@ -2141,6 +2104,11 @@ export default [
               {
                 path: '/research/Competition/HiveBloom',
                 component: ComponentCreator('/research/Competition/HiveBloom', '2e6'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HiveGenie',
+                component: ComponentCreator('/research/Competition/HiveGenie', '522'),
                 exact: true
               },
               {

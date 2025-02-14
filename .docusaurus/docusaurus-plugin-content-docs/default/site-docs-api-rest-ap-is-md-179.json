@@ -1,7 +1,7 @@
 {
   "id": "API/REST APIs",
   "title": "REST APIs",
-  "description": "We use REST APIs for very specific cases that are not suitable for GraphQL API",
+  "description": "For general usage we recommend using our GraphQL API.",
   "source": "@site/docs/API/REST APIs.md",
   "sourceDirName": "API",
   "slug": "/API/REST APIs",

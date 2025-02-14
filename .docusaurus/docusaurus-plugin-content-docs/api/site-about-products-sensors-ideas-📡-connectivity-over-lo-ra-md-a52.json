@@ -1,0 +1,23 @@
+{
+  "id": "products/sensors/ideas/📡 Connectivity over LoRa",
+  "title": "📡 Connectivity over LoRa",
+  "description": "",
+  "source": "@site/about/products/sensors/ideas/📡 Connectivity over LoRa.md",
+  "sourceDirName": "products/sensors/ideas",
+  "slug": "/products/sensors/ideas/📡 Connectivity over LoRa",
+  "permalink": "/about/products/sensors/ideas/📡 Connectivity over LoRa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💨 Measure PM2 pollution",
+    "permalink": "/about/products/sensors/ideas/💨 Measure PM2 pollution"
+  },
+  "next": {
+    "title": "🔗 Home-assistant integration",
+    "permalink": "/about/products/sensors/ideas/🔗 Home-assistant integration"
+  }
+}

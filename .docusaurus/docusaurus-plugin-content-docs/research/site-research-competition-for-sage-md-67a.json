@@ -1,0 +1,17 @@
+{
+  "id": "Competition/ForSage",
+  "title": "ForSage",
+  "description": "",
+  "source": "@site/research/Competition/ForSage.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/ForSage",
+  "permalink": "/research/Competition/ForSage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.forsage.net/en/sensors/",
+    "products": "🌡️ Beehive IoT sensors"
+  }
+}

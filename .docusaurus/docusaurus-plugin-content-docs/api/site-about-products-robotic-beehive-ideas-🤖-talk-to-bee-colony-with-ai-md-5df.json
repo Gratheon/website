@@ -1,0 +1,23 @@
+{
+  "id": "products/robotic_beehive/ideas/🤖 Talk to bee colony with AI",
+  "title": "🤖 Talk to bee colony with AI",
+  "description": "with RAG",
+  "source": "@site/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI.md",
+  "sourceDirName": "products/robotic_beehive/ideas",
+  "slug": "/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI",
+  "permalink": "/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛑 Mechanically reduce hive entrance in case of high wind",
+    "permalink": "/about/products/robotic_beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind"
+  },
+  "next": {
+    "title": "🦾 Moveable hive bottom with varroa counting",
+    "permalink": "/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting"
+  }
+}

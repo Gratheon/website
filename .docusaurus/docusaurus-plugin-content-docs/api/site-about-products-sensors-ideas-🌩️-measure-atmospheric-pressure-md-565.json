@@ -1,0 +1,23 @@
+{
+  "id": "products/sensors/ideas/🌩️ Measure atmospheric pressure",
+  "title": "🌩️ Measure atmospheric pressure",
+  "description": "Report results to 📈 Telemetry API",
+  "source": "@site/about/products/sensors/ideas/🌩️ Measure atmospheric pressure.md",
+  "sourceDirName": "products/sensors/ideas",
+  "slug": "/products/sensors/ideas/🌩️ Measure atmospheric pressure",
+  "permalink": "/about/products/sensors/ideas/🌩️ Measure atmospheric pressure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Telemetry API",
+    "permalink": "/about/products/sensors/features/📈 Telemetry API"
+  },
+  "next": {
+    "title": "🌪️ Wind speed measurement - Anemometer",
+    "permalink": "/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer"
+  }
+}

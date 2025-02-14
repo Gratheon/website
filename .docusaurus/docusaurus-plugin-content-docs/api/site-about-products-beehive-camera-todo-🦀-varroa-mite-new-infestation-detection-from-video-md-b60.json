@@ -1,0 +1,23 @@
+{
+  "id": "products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video",
+  "title": "🦀 Varroa mite new infestation detection from video",
+  "description": "This is an extension of varroa mite detection that is done from frame photos.",
+  "source": "@site/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video.md",
+  "sourceDirName": "products/beehive_camera/todo",
+  "slug": "/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video",
+  "permalink": "/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚁 Hornet attack detection",
+    "permalink": "/about/products/beehive_camera/todo/🚁 Hornet attack detection"
+  },
+  "next": {
+    "title": "🧿 Robotic Beehive",
+    "permalink": "/about/products/robotic_beehive/"
+  }
+}

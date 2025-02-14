@@ -1,0 +1,28 @@
+{
+  "id": "beehive-sensors/components/HX711-bar",
+  "title": "Weight sensor HX711 (bar-type)",
+  "description": "https://www.aliexpress.com/item/1005006827930173.html",
+  "source": "@site/docs/beehive-sensors/components/HX711-bar.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/HX711-bar",
+  "permalink": "/docs/beehive-sensors/components/HX711-bar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/HX711-bar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "price": "4",
+    "title": "Weight sensor HX711 (bar-type)",
+    "items": "4"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microcontroller - ESP32",
+    "permalink": "/docs/beehive-sensors/components/ESP32"
+  },
+  "next": {
+    "title": "Aluminium profile 20x20x500mm",
+    "permalink": "/docs/beehive-sensors/components/aluminium-profile"
+  }
+}

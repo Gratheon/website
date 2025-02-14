@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Weight sensor",
-    "permalink": "/docs/beehive-sensors/components/Weight sensor"
+    "title": "Temperature - Humidity sensor alternative",
+    "permalink": "/docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative"
   },
   "next": {
     "title": "Jetson Nano setup",

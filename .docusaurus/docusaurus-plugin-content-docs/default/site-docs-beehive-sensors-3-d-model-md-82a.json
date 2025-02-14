@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌡️ Beehive IoT sensors",
-    "permalink": "/docs/beehive-sensors/"
+    "title": "Installation",
+    "permalink": "/docs/beehive-sensors/Installation"
   },
   "next": {
     "title": "Choice of procesor chip",

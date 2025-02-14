@@ -1,0 +1,24 @@
+{
+  "id": "beehive-sensors/components/todo/Barometric pressure sensor",
+  "title": "Barometric pressure sensor",
+  "description": "",
+  "source": "@site/docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
+  "sourceDirName": "beehive-sensors/components/todo",
+  "slug": "/beehive-sensors/components/todo/Barometric pressure sensor",
+  "permalink": "/docs/beehive-sensors/components/todo/Barometric pressure sensor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/todo/Barometric pressure sensor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/beehive-sensors/components/todo/Air Quality Sensor"
+  },
+  "next": {
+    "title": "Barometric sensor - BMP180",
+    "permalink": "/docs/beehive-sensors/components/todo/Barometric sensor - BMP180"
+  }
+}

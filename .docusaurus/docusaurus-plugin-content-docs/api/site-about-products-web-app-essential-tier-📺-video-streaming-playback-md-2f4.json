@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/essential-tier/📺 Video streaming playback",
+  "title": "📺 Video streaming playback",
+  "description": "Goal",
+  "source": "@site/about/products/web_app/essential-tier/📺 Video streaming playback.md",
+  "sourceDirName": "products/web_app/essential-tier",
+  "slug": "/products/web_app/essential-tier/📺 Video streaming playback",
+  "permalink": "/about/products/web_app/essential-tier/📺 Video streaming playback",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🍭 Feeding management",
+    "permalink": "/about/products/web_app/essential-tier/🍭 Feeding management"
+  },
+  "next": {
+    "title": "🔎 Inspection management",
+    "permalink": "/about/products/web_app/essential-tier/🔎 Inspection management"
+  }
+}

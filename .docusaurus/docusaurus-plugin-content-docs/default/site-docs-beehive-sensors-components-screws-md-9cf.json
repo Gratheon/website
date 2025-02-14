@@ -1,0 +1,27 @@
+{
+  "id": "beehive-sensors/components/screws",
+  "title": "Screws M4 x 25mm",
+  "description": "https://www.amazon.de/-/en/gp/product/B0D6R4QCB3/?th=1",
+  "source": "@site/docs/beehive-sensors/components/screws.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/screws",
+  "permalink": "/docs/beehive-sensors/components/screws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/screws.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Screws M4 x 25mm",
+    "price": "10.76"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display - LCD1602",
+    "permalink": "/docs/beehive-sensors/components/display"
+  },
+  "next": {
+    "title": "Air Quality Sensor",
+    "permalink": "/docs/beehive-sensors/components/todo/Air Quality Sensor"
+  }
+}

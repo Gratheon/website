@@ -1,0 +1,28 @@
+{
+  "id": "beehive-sensors/components/case",
+  "title": "Aluminium Enclosure",
+  "description": "https://www.aliexpress.com/item/1005007794243559.html",
+  "source": "@site/docs/beehive-sensors/components/case.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/case",
+  "permalink": "/docs/beehive-sensors/components/case",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/case.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "price": "19.11",
+    "shipping-price": "18.87",
+    "title": "Aluminium Enclosure"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Battery (18650 type, Li-ion)",
+    "permalink": "/docs/beehive-sensors/components/battery"
+  },
+  "next": {
+    "title": "Display - LCD1602",
+    "permalink": "/docs/beehive-sensors/components/display"
+  }
+}

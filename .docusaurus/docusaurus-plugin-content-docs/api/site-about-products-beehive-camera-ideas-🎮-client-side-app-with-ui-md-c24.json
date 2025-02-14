@@ -1,0 +1,23 @@
+{
+  "id": "products/beehive_camera/ideas/🎮 Client-side app with UI",
+  "title": "🎮 Client-side app with UI",
+  "description": "In case internet is not available, we should still be able to display some statistics on the display (if its available) to the beekeeper. So we need some hive-app interface for this.",
+  "source": "@site/about/products/beehive_camera/ideas/🎮 Client-side app with UI.md",
+  "sourceDirName": "products/beehive_camera/ideas",
+  "slug": "/products/beehive_camera/ideas/🎮 Client-side app with UI",
+  "permalink": "/about/products/beehive_camera/ideas/🎮 Client-side app with UI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Detect bees with pollen for foraging statistics",
+    "permalink": "/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics"
+  },
+  "next": {
+    "title": "🐝 Detect swarming from entrance video",
+    "permalink": "/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video"
+  }
+}

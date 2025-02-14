@@ -1,0 +1,27 @@
+{
+  "id": "beehive-sensors/components/battery-shield",
+  "title": "Battery (18650 type, Li-ion) shield",
+  "description": "https://www.aliexpress.com/item/1005007352240068.html",
+  "source": "@site/docs/beehive-sensors/components/battery-shield.md",
+  "sourceDirName": "beehive-sensors/components",
+  "slug": "/beehive-sensors/components/battery-shield",
+  "permalink": "/docs/beehive-sensors/components/battery-shield",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/beehive-sensors/components/battery-shield.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Battery (18650 type, Li-ion) shield",
+    "price": "5.53"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aluminium profile 20x20x500mm",
+    "permalink": "/docs/beehive-sensors/components/aluminium-profile"
+  },
+  "next": {
+    "title": "Battery (18650 type, Li-ion)",
+    "permalink": "/docs/beehive-sensors/components/battery"
+  }
+}

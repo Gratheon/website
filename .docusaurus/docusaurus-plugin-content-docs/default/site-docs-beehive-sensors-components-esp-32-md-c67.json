@@ -1,6 +1,6 @@
 {
   "id": "beehive-sensors/components/ESP32",
-  "title": "ESP32",
+  "title": "Microcontroller - ESP32",
   "description": "ESP32 Development Board WiFi+Bluetooth module Ultra-Low Power Consumption Dual Core NodeMCU-32S ESP32-WROOM-32D 32U 30Pin Board",
   "source": "@site/docs/beehive-sensors/components/ESP32.md",
   "sourceDirName": "beehive-sensors/components",
@@ -12,15 +12,16 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "price": "3.14"
+    "price": "3.14",
+    "title": "Microcontroller - ESP32"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Temperature - Humidity sensors - DS18B20",
+    "title": "Temperature sensor - DS18B20",
     "permalink": "/docs/beehive-sensors/components/DS18B20"
   },
   "next": {
-    "title": "Microphone Amplifier Stable",
-    "permalink": "/docs/beehive-sensors/components/Microphone Amplifier Stable"
+    "title": "Weight sensor HX711 (bar-type)",
+    "permalink": "/docs/beehive-sensors/components/HX711-bar"
   }
 }

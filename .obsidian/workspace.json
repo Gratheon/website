@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Datasets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "build/blog/rss.xml",
+    "build/blog/atom.xml",
+    "build/blog/rss.css",
+    "build/blog/atom.css",
+    "build/blog/rss.xsl",
+    "build/blog/atom.xsl",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/research/wifi-exposure/index.html",
+    "build/research/wifi-exposure",
+    "build/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques/index.html",
+    "build/img/varroa.webp",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/temp.webp",
+    "build/img/tallinn.png",
+    "build/img/sensors.webp",
+    "build/img/robot.jpeg",
+    "build/img/queens.webp",
+    "build/img/playback.webp",
     "docs/entrance-observer/Datasets.md",
     "about/products/👁️‍🗨️ Entrance Observer.md",
     "about/products/camera.md",
@@ -182,36 +204,15 @@
     "docs/API/REST APIs.md",
     "about/products/sensors/sensors.md",
     "about/company/Team/index.md",
-    "about/products/robotic_apiary/img/Screenshot 2025-02-14 at 18.27.24.png",
-    "about/products/robotic_beehive/img/Screenshot 2025-02-14 at 18.27.11.png",
-    "about/products/robotic_beehive/img",
-    "about/products/beehive_camera/img/Screenshot 2025-02-14 at 18.27.00.png",
-    "about/products/beehive_camera/img",
-    "about/products/sensors/img/Screenshot 2025-02-14 at 18.26.53.png",
     "about/products/web_app/web_app.md",
     "about/products/index.md",
     "about/company/Team/Vjatšeslav Kekšin.md",
     "about/company/Team/Aleksei Prokopov.md",
     "about/company/Team/Artjom Kurapov.md",
-    "static/deck.pdf",
     "about/company/Team/Merchandise.md",
-    "about/company/Team/img/photo-1704700285576.jpg",
     "about/products/prices.md",
-    "about/products/sensors/img/0.jpg",
-    "about/products/sensors/img/20250119_131627.webp",
-    "about/products/sensors/img",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/products/beehive_camera/ideas/🎮 Client-side app with UI.md",
-    "about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics.md",
-    "about/products/beehive_camera/ideas/🐝 Guard detection.md",
-    "docs/beehive-sensors/components/img/20250119_131627.webp",
-    "docs/beehive-sensors/components/img/esp32_LCD_bb.webp",
-    "blog/img/20250113_115946.webp",
-    "docs/entrance-observer/components/img",
-    "docs/beehive-sensors/components/todo/img",
-    "docs/beehive-sensors/components/todo",
-    "about/products/sensors/features",
-    "about/products/robotic_apiary/img",
-    "research/img/2024.07.31.605955.full.pdf"
+    "about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics.md"
   ]
 }
