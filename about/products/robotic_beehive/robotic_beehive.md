@@ -3,23 +3,19 @@ title: 🧿 Robotic Beehive
 sidebar_position: 5
 ---
 `status: gathering requirements`
-## Why
 
+We are developing **a single-colony** robotic beehive, capable of automating inspections.
 Goal of this project is to solve these beekeeping problems:
 - [👁️ Observability of bee colony](../../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)
 - [💪🏻 Physical labor](../../🌨️%20Problems/💪🏻%20Physical%20labor.md)
 - [🎒 Challenging to become a new beekeeper](../../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md)
 - [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
 
-## Solution
-We are developing **a single-colony** robotic beehive, capable of automating inspections.
-
-
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
 </div>
 
-### Positioning and Target audience
+### Target clients
 
 Single-colony robot will cost a lot (>2000 EUR) and thus it is not cost-efficient for large scales. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.
 

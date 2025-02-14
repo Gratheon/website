@@ -2,9 +2,9 @@
 sidebar_position: 3
 title: 🌡️ Beehive IoT sensors
 ---
-`status: proof-of-concept, 10% complete`
+`status: prototype, 40% complete`
 
-To compliment [beehive_camera](../beehive_camera/beehive_camera.md) and [robotic_beehive](../robotic_beehive/robotic_beehive.md) , we need a way to send Telemetry API data to the [web_app](../web_app/web_app.md) from low-power IoT devices.
+🌡️ Beehive IoT sensors product essentsmart scales device that is equipped with additional sensors and communication chips that is capable of send Telemetry API data to the [web app](../web_app/web_app.md) from low-power IoT devices.
 
 As there are lots of sensors that send read-only data, it does not make sense to bundle this logic with Robotic Beehive which should focus on controlling (moving) physical frames.
 
@@ -13,6 +13,15 @@ IoT sensors should be sold and thus operate separately from other products that 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
 </div>
+
+### Problem focus
+Out of all beekeeping issues, this product is helping with these:
+- [🧶 Swarming](../../🌨️%20Problems/🧶%20Swarming.md)
+- [🍽️ Bee colony starvation](../../🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md)
+- [💢 Robbing state](../../🌨️%20Problems/💢%20Robbing%20state.md)
+- [🐻 Bears destroying hives & colonies](../../🌨️%20Problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)
+- [🗃️ Storm wind collapsing beehives](../../🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
+- [🌲 Distant locations](../../🌨️%20Problems/🌲%20Distant%20locations.md)
 
 ## Target audience
 - [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
