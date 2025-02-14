@@ -167,8 +167,9 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
-    "about/products/sensors/sensors.md",
+    "about/products/robotic_apiary/robotic_apiary.md",
     "about/products/robotic_beehive/robotic_beehive.md",
+    "about/products/sensors/sensors.md",
     "about/products/beehive_camera/beehive_camera.md",
     "about/products/web_app/web_app.md",
     "about/products/web_app/community-tier/🌪️ Weather alerts.md",
@@ -200,7 +201,6 @@
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "about/🌻 Purpose/Symbolism.md",
     "about/index.md",
-    "about/products/robotic_apiary/robotic_apiary.md",
     "docs/API/API.md",
     "docs/API/GraphQL API.md",
     "docs/API/REST APIs.md",

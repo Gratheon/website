@@ -5,16 +5,11 @@ sidebar_position: 5
 `status: gathering requirements`
 
 We are developing **a single-colony** robotic beehive, capable of automating inspections.
-Goal of this project is to solve these beekeeping problems:
-- [👁️ Observability of bee colony](../../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)
-- [💪🏻 Physical labor](../../🌨️%20Problems/💪🏻%20Physical%20labor.md)
-- [🎒 Challenging to become a new beekeeper](../../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md)
-- [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
+Essentially, this device is going to use linear actuators to extract beehive frames from the nest, take photos of them in a safe way and add them to [web app](../web_app/web_app.md) where AI vision will detect bees, queen, cells etc and alert user in case of problems.
 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
 </div>
-
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
@@ -25,9 +20,8 @@ Out of all beekeeping issues, this product is helping with these:
 - [💀 Alcohol washing killing bees](../../🌨️%20Problems/💀%20Alcohol%20washing%20killing%20bees.md)
 - [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
 - [💀 Colony with drone-laying queen](../../🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)
-- 
 - [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
-- 
+- [🎒 Challenging to become a new beekeeper](../../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md)
 
 ### Target clients
 
