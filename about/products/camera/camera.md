@@ -1,11 +1,15 @@
 ---
 sidebar_position: 4
+title: 👁️‍🗨️ Entrance Observer
 ---
 `status: proof-of-concept, 30% complete`
 
 💡 Entrance Observer is a set of cameras and a hardware device that analyse beehive entrance. It records a video stream, runs AI analysis that sends it all to web-app
 
 One device is watches for up to 4 beehive entrances. Over time, we can try building a more affordable version that uses worse cameras, less GPU and less energy
+
+![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
+
 ## Target audience
 
 - [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)

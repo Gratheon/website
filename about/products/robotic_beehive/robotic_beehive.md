@@ -18,6 +18,8 @@ Goal of this project is to solve these beekeeping problems:
 We are developing **a single-colony** robotic beehive, capable of automating inspections.
 
 
+![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
+
 ### Positioning and Target audience
 
 Single-colony robot will cost a lot (>2000 EUR) and thus it is not cost-efficient for large scales. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.
