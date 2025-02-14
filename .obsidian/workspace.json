@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/🌻 Purpose/Symbolism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Symbolism"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "68374b7d1d981e95",
   "lastOpenFiles": [
+    "about/index.md",
     "about/products/robotic_beehive/robotic_beehive.md",
     "about/products/robotic_apiary/robotic_apiary.md",
     "docs/API/API.md",
@@ -183,7 +184,6 @@
     "about/products/sensors/img/Screenshot 2025-02-14 at 18.26.53.png",
     "about/products/web_app/web_app.md",
     "about/products/index.md",
-    "about/index.md",
     "about/company/Team/Vjatšeslav Kekšin.md",
     "about/company/Team/Aleksei Prokopov.md",
     "about/company/Team/Artjom Kurapov.md",
