@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "52f101f42ae33f69",
+        "id": "ff1ce63145c5482b",
         "type": "tabs",
         "children": [
           {
-            "id": "68374b7d1d981e95",
+            "id": "0937bf8afbce5279",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/products/web_app/web_app.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "web_app"
-            }
-          },
-          {
-            "id": "3d003b3e89e61493",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +161,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d003b3e89e61493",
+  "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "about/products/web_app/web_app.md",
     "about/products/robotic_beehive/robotic_beehive.md",
     "about/products/sensors/sensors.md",
     "about/products/robotic_apiary/robotic_apiary.md",
     "about/products/beehive_camera/beehive_camera.md",
-    "about/products/web_app/web_app.md",
     "about/products/web_app/community-tier/🌪️ Weather alerts.md",
     "build/sitemap.xml",
     "build/index.html",
