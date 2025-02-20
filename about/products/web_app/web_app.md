@@ -3,9 +3,9 @@ sidebar_position: 2
 title: 📱Web-app
 ---
 
-`status: minimum viable product, 60% complete`
-
 Gratheon web app is intended to help beekeepers manage apiary data, communicate with installed modular hive devices, analyze images and timeseries data to extract valuable statistics, provide this data analytics over time, generate and deliver alerts, forecast, provide AI suggestions to solve issues.
+
+`status`: [TRL 6](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
 ## Core domain entitites
 Such domain entities include:

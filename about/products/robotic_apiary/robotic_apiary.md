@@ -12,6 +12,7 @@ As a more cost-effective solution for large apiaries, we want to reuse [Robotic 
 
 </div>
 
+`status`: [TRL 4](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:

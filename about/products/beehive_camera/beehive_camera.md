@@ -6,6 +6,9 @@ title: 👁️‍🗨️ Entrance Observer
 
 💡 Entrance Observer is a set of cameras and a hardware device that analyze beehive entrance. It records a video stream, runs AI analysis that sends it all to [web app](../web_app/web_app.md). With custom setup, one device can watch for up to 4 beehive entrances
 
+`status`: [TRL 4](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
+
+
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
 </div>
