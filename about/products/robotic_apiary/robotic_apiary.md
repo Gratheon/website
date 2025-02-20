@@ -2,8 +2,6 @@
 sidebar_position: 6
 title: 🪬 Robotic Apiary
 ---
-`status: gathering requirements`
-
 As a more cost-effective solution for large apiaries, we want to reuse [Robotic Beehive](../robotic_beehive/robotic_beehive.md)  functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
 
 <div style={{width:300}}>
@@ -12,7 +10,7 @@ As a more cost-effective solution for large apiaries, we want to reuse [Robotic 
 
 </div>
 
-`status`: [TRL 4](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
+`status`: [TRL 1](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
