@@ -6,7 +6,7 @@ sidebar_position: 0
 ![](img/about.webp)
 </div></div>
 
-Gratheon develops open, modular robotic beehive as a service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and increase food security through scalable precise pollination.
+Gratheon develops open, modular robotic beehive as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and scale beekeeping. Globally we increase food security through precise pollination.
 
 
 ## Pitch
