@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-02-20 💶 Tehnopol AI pre-accelerator event"
             }
           }
         ]
@@ -162,11 +162,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "about/index.md",
+    "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
     "blog/2025-02-19 🎒 Visited AI TalTech webinar.md",
     "blog/img/Screenshot 2025-02-19 at 12.30.42.png",
     "blog/img/Screenshot 2025-02-19 at 12.29.25.png",
@@ -204,7 +207,6 @@
     "about/products/camera 1.md",
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "about/🌻 Purpose/Symbolism.md",
-    "about/index.md",
     "docs/API/API.md",
     "docs/API/GraphQL API.md",
     "docs/API/REST APIs.md",
