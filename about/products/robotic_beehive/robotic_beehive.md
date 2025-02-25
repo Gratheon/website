@@ -35,11 +35,11 @@ Out of all beekeeping issues, this product is helping with these:
 
 ### Target clients
 
-Single-colony robot will cost a lot (>2000 EUR) and. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.
+A robotic inspection platform will cost (>2000 EUR) and its main value is in digitalization and organization of the apiary state. It might be too cumbersome for [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) and too hard for [👨🏻 Potential new beekeepers](../clients/👨🏻%20Potential%20new%20beekeepers.md). But it does look viable for:
 
-- [👨🏻 Potential new beekeepers](../clients/👨🏻%20Potential%20new%20beekeepers.md) ← as a shiny and safe beehive that can also teach them beekeeping
-- [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md) ← as a way to research how bees are behaving and avoid disturbing neighbours
-- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md) ← for office roof as a brand building hardware and a in-house honey perk
+- [👨🏻‍🚀 Semi-professional beekeepers](../clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md)
+- [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md)
+- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md)
 
 ![](../../img/president.png)
 
