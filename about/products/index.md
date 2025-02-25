@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: 🍯 Products
 ---
+
 <div style={{ height:200, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
 ![](../img/dog.png)
 </div></div>
@@ -14,9 +15,7 @@ Our products are in development and are a mix of software and hardware, complime
 4. [robotic_beehive](robotic_beehive/robotic_beehive.md)
 5. [robotic_apiary](robotic_apiary/robotic_apiary.md)
 
-
-
-<div style={{display: flex}}>
+<div style={{display: 'flex'}}>
 <div style={{width:200}}>
 ![](sensors/img/Screenshot%202025-02-14%20at%2018.26.53.png)
 <br />
@@ -42,3 +41,4 @@ Our products are in development and are a mix of software and hardware, complime
 </div>
 
 </div>
+
