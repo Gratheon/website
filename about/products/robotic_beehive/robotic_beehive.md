@@ -11,8 +11,9 @@ We are developing a robotic vertical beehive inspection platform, which is
 `status`: [TRL 2](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
 <div style={{width:300}}>
-![](img/Screenshot%202025-02-14%20at%2018.27.11.png)
+![](img/Screenshot%202025-02-25%20at%2011.25.06.png)
 </div>
+
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
