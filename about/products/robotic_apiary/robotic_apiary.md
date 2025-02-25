@@ -5,9 +5,7 @@ title: 🪬 Robotic Apiary
 As a more cost-effective solution for large apiaries, we want to reuse [Robotic Beehive](../robotic_beehive/robotic_beehive.md)  functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.
 
 <div style={{width:300}}>
-
 ![](img/Screenshot%202025-02-14%20at%2018.27.24.png)
-
 </div>
 
 `status`: [TRL 1](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)

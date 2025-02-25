@@ -11,6 +11,9 @@ title: 🌡️ Beehive IoT sensors
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
 </div>
 
+## Overview
+![](../../img/Screenshot%202024-11-09%20at%2015.08.08.png)
+
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
 - [🧶 Swarming](../../🌨️%20Problems/🧶%20Swarming.md)
@@ -25,7 +28,8 @@ Out of all beekeeping issues, this product is helping with these:
 - [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
 - [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md)
 
-![](../../img/Screenshot%202024-11-09%20at%2015.08.08.png)
+
+### Prototype
 
 ![](../../img/20240726_000022.webp)
 ![](img/20250119_131627.webp)

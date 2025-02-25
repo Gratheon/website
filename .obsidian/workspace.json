@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/robotic_beehive/robotic_beehive.md",
+                "file": "about/products/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "robotic_beehive"
+              "title": "index"
             }
           }
         ]
@@ -162,13 +162,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
-    "about/products/robotic_beehive/img/Screenshot 2025-02-25 at 11.25.06.png",
+    "about/products/robotic_apiary/robotic_apiary.md",
     "about/products/index.md",
+    "about/products/beehive_camera/beehive_camera.md",
+    "about/products/robotic_beehive/robotic_beehive.md",
+    "about/products/sensors/sensors.md",
+    "about/products/robotic_beehive/img/Screenshot 2025-02-25 at 21.42.01.png",
+    "about/products/robotic_beehive/img/Screenshot 2025-02-25 at 11.25.06.png",
     "pages/Screenshot 2024-11-10 at 20.32.31.png",
     "blog/2025-02-19 🎒 Visited AI TalTech webinar.md",
     "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
@@ -178,15 +184,9 @@
     "blog/img/20250220_101031.jpg",
     "blog/img/20250220_104829.jpg",
     "blog/img/20250220_102120.jpg",
-    "about/products/robotic_apiary/robotic_apiary.md",
-    "about/products/robotic_beehive/robotic_beehive.md",
-    "about/products/beehive_camera/beehive_camera.md",
-    "about/products/sensors/sensors.md",
     "about/products/web_app/web_app.md",
     "about/index.md",
     "blog/img/Screenshot 2025-02-19 at 12.30.42.png",
-    "blog/img/Screenshot 2025-02-19 at 12.29.25.png",
-    "blog/img/Screenshot 2025-02-19 at 12.29.57.png",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
     "blog/2025-01-13 🤝 Visited VIDRIK.md",
