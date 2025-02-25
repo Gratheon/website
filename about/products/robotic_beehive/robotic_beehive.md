@@ -8,8 +8,6 @@ We are developing a robotic vertical beehive inspection platform, which is
 - uploading inspection result to the [web app](../web_app/web_app.md)
 - transported on wheels, you can use it to inspect different hives
 
-This device does not fully automate beehive inspection, but it does assist beekeeper to be more 
-
 `status`: [TRL 2](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
 <div style={{width:300}}>
