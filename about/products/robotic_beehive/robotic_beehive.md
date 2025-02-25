@@ -2,9 +2,13 @@
 title: 🧿 Robotic Beehive
 sidebar_position: 5
 ---
-We are developing a robotic vertical beehive inspection platform, capable of lifting hive sections and helping beekeeper to inspect the hive.
+We are developing a robotic vertical beehive inspection platform, which is
+- capable of lifting multiple hive sections to faster reach the nest
+- take photos of the beehive frames with built-in cameras - manual hive frame lifting is needed
+- uploading inspection result to the [web app](../web_app/web_app.md)
+- transported on wheels, you can use it to inspect different hives
 
-This device allows beekeepers to reduce physical effort needed in inspections, while adding easy ability to capture frame photos with built-in cameras automatically uploading them to the [web app](../web_app/web_app.md). 
+This device does not fully automate beehive inspection, but it does assist beekeeper to be more 
 
 `status`: [TRL 2](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
