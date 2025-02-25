@@ -11,12 +11,14 @@
             "id": "0937bf8afbce5279",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pages/Screenshot 2024-11-10 at 20.32.31.png"
+                "file": "about/products/robotic_beehive/robotic_beehive.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2024-11-10 at 20.32.31"
+              "icon": "lucide-file",
+              "title": "robotic_beehive"
             }
           }
         ]
@@ -166,6 +168,8 @@
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "about/products/index.md",
+    "pages/Screenshot 2024-11-10 at 20.32.31.png",
     "blog/2025-02-19 🎒 Visited AI TalTech webinar.md",
     "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
     "blog/img/20250220_101837.jpg",
@@ -183,7 +187,6 @@
     "blog/img/Screenshot 2025-02-19 at 12.30.42.png",
     "blog/img/Screenshot 2025-02-19 at 12.29.25.png",
     "blog/img/Screenshot 2025-02-19 at 12.29.57.png",
-    "blog/img/Screenshot 2025-02-19 at 12.27.31.png",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
     "blog/2025-01-13 🤝 Visited VIDRIK.md",
@@ -209,7 +212,6 @@
     "docs/API/GraphQL API.md",
     "docs/API/REST APIs.md",
     "about/company/Team/index.md",
-    "about/products/index.md",
     "about/company/Team/Vjatšeslav Kekšin.md"
   ]
 }

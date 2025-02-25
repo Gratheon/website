@@ -2,9 +2,9 @@
 title: 🧿 Robotic Beehive
 sidebar_position: 5
 ---
-We are developing a **single-colony** robotic beehive capable of automating inspections.
+We are developing a robotic vertical beehive inspection platform, capable of lifting hive sections and helping beekeeper to inspect the hive.
 
-This device will use linear actuators to safely extract beehive frames from the nest, capture photos, and upload them to the [web app](../web_app/web_app.md). AI vision will then analyze the images to detect bees, the queen, cells, and other key elements, alerting the user in case of any issues.
+This device allows beekeepers to reduce physical effort needed in inspections, while adding easy ability to capture frame photos with built-in cameras automatically uploading them to the [web app](../web_app/web_app.md). 
 
 `status`: [TRL 2](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
@@ -26,7 +26,7 @@ Out of all beekeeping issues, this product is helping with these:
 
 ### Target clients
 
-Single-colony robot will cost a lot (>2000 EUR) and thus it is not cost-efficient for large scales. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.
+Single-colony robot will cost a lot (>2000 EUR) and. Because of this, it is unlikely that [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) (that have >20 beehives) will buy it. Instead, we position it as a luxury item that compliments customer brand.
 
 - [👨🏻 Potential new beekeepers](../clients/👨🏻%20Potential%20new%20beekeepers.md) ← as a shiny and safe beehive that can also teach them beekeeping
 - [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md) ← as a way to research how bees are behaving and avoid disturbing neighbours
@@ -45,22 +45,22 @@ President Alar Karis harvesting honey from the Kadriorg Palace beehives. ([Photo
 | [🍭 Automatic sugar syrup feeder](ideas/🍭%20Automatic%20sugar%20syrup%20feeder.md)                                                                         |
 | [🎙️ 6-channel audio monitoring](ideas/🎙️%206-channel%20audio%20monitoring.md)                                                                             |
 | [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
-| [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
-| [🎮 Client-side app with UI in manual override mode](ideas/🎮%20Client-side%20app%20with%20UI%20in%20manual%20override%20mode.md)                           |
 | [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
 | [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
 | [🔌 Energy autonomy](ideas/🔌%20Energy%20autonomy.md)                                                                                                       |
-| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
 | [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |
+| [🎮 Client-side app with UI in manual override mode](ideas/🎮%20Client-side%20app%20with%20UI%20in%20manual%20override%20mode.md)                           |
 | [🚁 Ventilation control](ideas/🚁%20Ventilation%20control.md)                                                                                               |
+| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
 | [🛑 Mechanically reduce hive entrance in case of high wind](ideas/🛑%20Mechanically%20reduce%20hive%20entrance%20in%20case%20of%20high%20wind.md)           |
-| [🛑 Close mechanized hive entrance in case of hornet attack](ideas/🛑%20Close%20mechanized%20hive%20entrance%20in%20case%20of%20hornet%20attack.md)         |
-| [🦾 Robotic frame reordering](ideas/🦾%20Robotic%20frame%20reordering.md)                                                                                   |
+| [🤖 Talk to bee colony with AI](ideas/🤖%20Talk%20to%20bee%20colony%20with%20AI.md)                                                                         |
 | [🦾 Moveable hive bottom with varroa counting](ideas/🦾%20Moveable%20hive%20bottom%20with%20varroa%20counting.md)                                           |
+| [🦾 Robotic frame reordering](ideas/🦾%20Robotic%20frame%20reordering.md)                                                                                   |
 | [🦾 Robotic insertion of new frames](ideas/🦾%20Robotic%20insertion%20of%20new%20frames.md)                                                                 |
 | [🧪 Automatic acid treatment against varroa](ideas/🧪%20Automatic%20acid%20treatment%20against%20varroa.md)                                                 |
+| [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
 | [🦾Robotic frame isolation & extraction](ideas/🦾Robotic%20frame%20isolation%20&%20extraction.md)                                                           |
-| [🤖 Talk to bee colony with AI](ideas/🤖%20Talk%20to%20bee%20colony%20with%20AI.md)                                                                         |
+| [🛑 Close mechanized hive entrance in case of hornet attack](ideas/🛑%20Close%20mechanized%20hive%20entrance%20in%20case%20of%20hornet%20attack.md)         |
 <!-- SerializedQuery END -->
 
 ## Non-functional requirements
