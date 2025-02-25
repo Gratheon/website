@@ -11,14 +11,12 @@
             "id": "0937bf8afbce5279",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "blog/2025-02-19 🎒 Visited AI TalTech webinar.md",
-                "mode": "source",
-                "source": false
+                "file": "pages/Screenshot 2024-11-10 at 20.32.31.png"
               },
-              "icon": "lucide-file",
-              "title": "2025-02-19 🎒 Visited AI TalTech webinar"
+              "icon": "lucide-image",
+              "title": "Screenshot 2024-11-10 at 20.32.31"
             }
           }
         ]
@@ -162,13 +160,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
-    "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
     "blog/2025-02-19 🎒 Visited AI TalTech webinar.md",
+    "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
     "blog/img/20250220_101837.jpg",
     "blog/img/20250220_101324.jpg",
     "blog/img/20250220_110346.jpg",
