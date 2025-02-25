@@ -29,3 +29,8 @@
 ![](img/Screenshot%202025-02-19%20at%2012.26.44.png)![](img/Screenshot%202025-02-19%20at%2012.27.31.png)![](img/Screenshot%202025-02-19%20at%2012.29.57.png)
 ![](img/Screenshot%202025-02-19%20at%2012.29.25.png)
 ![](img/Screenshot%202025-02-19%20at%2012.30.42.png)
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/iKn9_SOmJYI" title="Alar Kuusik 19.02.25 seminaril „AI revolutsioon tootmises: mida ettevõtjad peavad teadma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/LpJ8MXd6QiQ" title="Karle Nutonen 19.02.25 seminaril „AI revolutsioon tootmises: mida ettevõtjad peavad teadma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
