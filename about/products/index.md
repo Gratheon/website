@@ -9,13 +9,9 @@ title: 🍯 Products
 
 Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day [🌨️ Problems](../🌨️%20Problems/🌨️%20Problems.md)
 
-1. [web_app](web_app/web_app.md)
-2. [sensors](sensors/sensors.md)
-3. [beehive_camera](beehive_camera/beehive_camera.md)
-4. [robotic_beehive](robotic_beehive/robotic_beehive.md)
-5. [robotic_apiary](robotic_apiary/robotic_apiary.md)
+[Web app](web_app/web_app.md) is the go-to application that manages all data and devices.
 
-<div style={{display: 'flex'}}>
+<div style={{display: 'flex', textAlign:'center'}}>
 <div style={{width:200}}>
 ![](sensors/img/Screenshot%202025-02-14%20at%2018.26.53.png)
 <br />
