@@ -25,7 +25,7 @@ Our products are in development and are a mix of software and hardware, complime
 <div style={{width:200}}>
 ![](beehive_camera/img/Screenshot%202025-02-14%20at%2018.27.00.png)
 <br />
-[Entrance observer]](beehive_camera/beehive_camera.md)
+[Entrance observer](beehive_camera/beehive_camera.md)
 </div>
 
 <div style={{width:200}}>
