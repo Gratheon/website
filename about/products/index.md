@@ -13,28 +13,23 @@ Our products are in development and are a mix of software and hardware, complime
 
 <div style={{display: 'flex', textAlign:'center'}}>
 <div style={{width:200}}>
+[Sensors](sensors/sensors.md)<br />
 ![](sensors/img/Screenshot%202025-02-14%20at%2018.26.53.png)
-<br />
-[Sensors](sensors/sensors.md)
 </div>
 
 <div style={{width:200}}>
+[Entrance observer](beehive_camera/beehive_camera.md)<br />
 ![](beehive_camera/img/Screenshot%202025-02-14%20at%2018.27.00.png)
-<br />
-[Entrance observer](beehive_camera/beehive_camera.md)
 </div>
 
 <div style={{width:200}}>
+[Robotic Beehive](robotic_beehive/robotic_beehive.md)<br />
 ![](robotic_beehive/img/Screenshot%202025-02-25%20at%2011.25.06.png)
-<br />
-[Robotic Beehive](robotic_beehive/robotic_beehive.md)
 </div>
 
 <div style={{width:200}}>
+[Robotic Apiary](robotic_apiary/robotic_apiary.md)<br />
 ![](robotic_apiary/img/Screenshot%202025-02-14%20at%2018.27.24.png)
-<br />
-[Robotic Apiary](robotic_apiary/robotic_apiary.md)
 </div>
-
 </div>
 
