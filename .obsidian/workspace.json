@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "c7ebfbf028eedf5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0937bf8afbce5279",
+  "active": "c7ebfbf028eedf5a",
   "lastOpenFiles": [
     "about/products/robotic_beehive/robotic_beehive.md",
     "about/products/clients/👩🏼‍🏫 Urban beekeepers.md",
