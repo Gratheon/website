@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "c7ebfbf028eedf5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,14 +162,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7ebfbf028eedf5a",
+  "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "about/products/index.md",
     "about/products/robotic_beehive/robotic_beehive.md",
     "about/products/clients/👩🏼‍🏫 Urban beekeepers.md",
-    "about/products/index.md",
     "about/products/robotic_apiary/robotic_apiary.md",
     "about/products/beehive_camera/beehive_camera.md",
     "about/products/sensors/sensors.md",
