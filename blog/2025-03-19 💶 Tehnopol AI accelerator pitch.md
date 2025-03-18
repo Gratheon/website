@@ -7,17 +7,17 @@ We're pitching to Tehnopol our project
 
 ## AI Accelerator plan
 
-Generally our goal is to make Gratheon more production- and go-to-market ready (eg. first paying customers!)
+Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!)
 
 Splitting by products and services, our top priorities that we want to solve within these 6 months are:
 
 Entrance observer:
 - build a working pipeline for bee counting on the edge (nvidia orin)
-  This includes sending this telemetry information
+  Use config:
   https://github.com/Gratheon/entrance-observer/issues/2
-- 
-  https://github.com/Gratheon/entrance-observer/
-
+  https://github.com/Gratheon/entrance-observer/issues/6
+- Send telemetry API to web-app
+- Display counts it in web-app
 
 Web-app:
 - improve queen detection from photos
