@@ -48,4 +48,8 @@ Splitting by products and services, our top priorities that we want to solve wit
 
 
 ## Expectations from AI Accelerator
-- Receive mentorship on AI topics
+- Work on product value proposition
+- Improve business model (pricing, GTM strategy, unit economics)
+- Product development help (AI topics above)
+- Intellectual property (logo, trademark registration?)
+- Preparing for investors due diligence
