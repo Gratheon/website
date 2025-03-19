@@ -20,17 +20,24 @@ Splitting by products and services, our top priorities that we want to solve wit
 - Validate that inferencing is realtime
   https://github.com/Gratheon/entrance-observer/issues/8
 
-This should allow us to offer a product (entrance camera + GPU) and service for sale while making smallest development effort.
-
-This will also be an example for future iterations/devices to 
+> Why: This should allow us to offer a product (entrance camera + GPU) and service for sale while making smallest development effort. This will also be an example for future iterations and devices to decrease cost/energy efficiency of such devices (like ESP32 cam, raspberry pi) 
 
 
-Web-app:
-- improve queen detection from photos
-- solve AI model stability (depends on infrastructure) 
+## Web-app
+
+- improve queen detection from photos. Currently we use Clarifai-trained and hosted model, but dataset is small and precision is not the best.
+  
+- **solve AI model stability** (depends on infrastructure) - currently models are failing as they do not have enough resources
+	- try Clarifai cloud hosting
+	- try hosting models on own infrastructure
+	- keep using CPU
+- fix queen toggling
+- fix basic statistics display
+
+> Why: This is mainly bugfixing and increasing value of the web-app for customers that want to only manage their apiary data from frame photos, receive good-enough statistics in meaningful timeframes.
 
 
-IoT sensors device:
+## IoT sensors device
 - add prophet model to predict future hive weight
 - add alerting in case of anomalies (sudden loss of )
 
