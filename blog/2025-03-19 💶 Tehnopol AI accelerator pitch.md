@@ -7,11 +7,11 @@ We're pitching to Tehnopol our project
 
 ## AI Accelerator plan
 
-Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!)
+Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!) by focusing on product development.
 
 Splitting by products and services, our top priorities that we want to solve within these 6 months are:
 
-### Entrance observer
+### Entrance observer (2mo)
 - build a working pipeline for bee counting on the edge (nvidia orin)
   https://github.com/Gratheon/entrance-observer/issues/2
   https://github.com/Gratheon/entrance-observer/issues/6
@@ -23,7 +23,7 @@ Splitting by products and services, our top priorities that we want to solve wit
 > Why: This should allow us to offer a product (entrance camera + GPU) and service for sale while making smallest development effort. This will also be an example for future iterations and devices to decrease cost/energy efficiency of such devices (like ESP32 cam, raspberry pi) 
 
 
-## Web-app
+## Web-app (2mo)
 
 - improve queen detection from photos. Currently we use Clarifai-trained and hosted model, but dataset is small and precision is not the best.
   
@@ -34,12 +34,17 @@ Splitting by products and services, our top priorities that we want to solve wit
 - fix queen toggling
 - fix basic statistics display
 
-> Why: This is mainly bugfixing and increasing value of the web-app for customers that want to only manage their apiary data from frame photos, receive good-enough statistics in meaningful timeframes.
+> Why: This is mainly bugfixing and increasing value of the web-app for customers that want to only manage their apiary data from frame photos, receive good-enough statistics in meaningful timeframes. This should help to drive first customers.
 
 
-## IoT sensors device
-- add prophet model to predict future hive weight
-- add alerting in case of anomalies (sudden loss of )
+## IoT sensors device (2mo)
+
+- add [prophet AI model](https://facebook.github.io/prophet/) to predict future hive weight, given past hive weight, weather data and entrance observer bee counts
+	- in the future this model might help us with forecasting bee colony demography too
+- add alerting in case of anomalies (sudden loss of weight)
+- add SMS alerting channel
+
+> Why: This should help us to differentiate with existing IoT solutions by having AI 
 
 
 ## Expectations from AI Accelerator
