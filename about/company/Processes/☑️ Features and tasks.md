@@ -18,7 +18,7 @@ A feature requires product thinking and multiple expertises - UX, Frontend, Back
 ### Feature lifecycle
 We separate ideas and features _by product_ and _by billing tier_ to have better separation of which repository and device it its tied to the most. Separation by tier is tied to the complexity of the task and how much does it cost to maintain _infrastructure_.
 ## Tasks
-Feature is implemented as tasks by individual contributors and [❤️‍🔥 Volunteers](../../❤️‍🔥%20Volunteers.md)
+Feature is implemented as tasks by individual contributors and [volunteer](../../volunteer.md)
 We manage tasks in github project 🐙 https://github.com/orgs/Gratheon/projects/5
 That way we link description with actual code without leaving the environment.
 Usually, you create a task for a specific repository, like [web-app](https://github.com/gratheon/web-app) so you can link it to an issue.

@@ -23,7 +23,7 @@ This would save time, reduce loss of bees, require less inspections.
 [👨🏻‍🚀 semi-professional beekeepers](./products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) could have more beehives and could see colony development over time automatically. 
 [🧑🏻‍🌾 Farmers](products/clients/🧑🏻‍🌾%20Farmers.md) would get more pollination services and have 40% more crop yields.
 
-[Our team](company/Team/index.md) are experienced engineers and researchers from companies like Pipedrive, Clarifai, Fits.me, Taltech and we are raising 1M pre-seed investments for 2 years of runway. Angels and [volunteers](❤️‍🔥%20Volunteers.md) are also welcome.
+[Our team](company/Team/index.md) are experienced engineers and researchers from companies like Pipedrive, Clarifai, Fits.me, Taltech and we are raising 1M pre-seed investments for 2 years of runway. Angels and [volunteers](volunteer.md) are also welcome.
 
 Join us to help 2 million beekeepers and their cute & fuzzy bees.
 
@@ -44,7 +44,7 @@ Join us to help 2 million beekeepers and their cute & fuzzy bees.
 - 📢 Pitches in 2023
 - 🌍 Web-app live - 140+ registered user
 - 📱 Android app live 10+ installs
-- 🫀 12+ [volunteering contributors](❤️‍🔥%20Volunteers.md)
+- 🫀 12+ [volunteering contributors](volunteer.md)
 - 🚀 Bootstrapping, pre-seed phase
 - 🪽 looking for angel investments for IoT field testing
 

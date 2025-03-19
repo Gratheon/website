@@ -1,63 +1,61 @@
-We're pitching to Tehnopol our project
+# Tehnopol AI Accelerator Pitch
 
-1. 1min for your elevator pitch+team introduction
-2. 1min for your business plan
-3. 1min for the 6-month plan, what you would like to achieve during the AI Accelerator program, please divide your steps month by month
+We're pitching Gratheon to Tehnopol's AI Accelerator program with the following structure:
 
+1. 1min for elevator pitch + team introduction
+2. 1min for business plan
+3. 1min for 6-month plan, detailing what we aim to achieve during the AI Accelerator program (month by month)
 
-# AI Accelerator plan
+## AI Accelerator Plan
 
-Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!) by focusing on product development
+Our primary goal is to make Gratheon **production- and GTM ready** (securing first paying customers!) by focusing on targeted product development.
 
-Splitting by products and services, our top priorities that we want to solve within these 6 months are:
+We've divided our 6-month plan into three key product areas, allocating 2 months to each:
 
+### IoT Sensors Device (Months 1-2)
 
-## IoT sensors device (2mo)
+- Implement configurable alerting for anomalies (e.g., sudden weight loss)
+  - Add SMS alerting channel via Twilio integration
+- Integrate [Prophet AI model](https://facebook.github.io/prophet/) to predict future hive weight based on:
+  - Historical weight data
+  - Weather data
+  - Entrance observer bee counts
+  - Potential future application: bee colony demography forecasting
 
-- add configureable alerting in case of anomalies (sudden loss of weight)
-	- add SMS alerting channel
-- add [prophet AI model](https://facebook.github.io/prophet/) (or others?) to predict future hive weight, given past hive weight, weather data and entrance observer bee counts
-	- in the future this model might help us with forecasting bee colony demography too
+> **Why**: This AI-driven approach differentiates us from existing IoT solutions in the beekeeping market and adds significant value for beekeepers.
 
-> Why: This should help us to differentiate with existing IoT solutions by having AI 
+### Web Application (Months 3-4)
 
+- Enhance queen detection from frame photos
+  - Current limitation: Clarifai-trained model with small dataset and suboptimal precision
+- Resolve AI model stability issues (resource constraints)
+  - Evaluate Clarifai cloud hosting
+  - Test models on our own infrastructure
+  - Optimize for CPU usage
+- Fix queen toggling functionality
+- Improve basic statistics display and data visualization
 
-## Web-app (2mo)
+> **Why**: These improvements will increase the value proposition for customers who manage apiaries through frame photos, providing meaningful statistics and insights that drive initial customer acquisition.
 
-- improve queen detection from photos. Currently we use Clarifai-trained and hosted model, but dataset is small and precision is not the best.
-  
-- **solve AI model stability** (depends on infrastructure) - currently models are failing as they do not have enough resources
-	- try Clarifai cloud hosting
-	- try hosting models on own infrastructure
-	- keep using CPU
-- fix queen toggling
-- fix basic statistics display
+### Entrance Observer (Months 5-6)
 
-> Why: This is mainly bugfixing and increasing value of the web-app for customers that want to only manage their apiary data from frame photos, receive good-enough statistics in meaningful timeframes. This should help to drive first customers.
+- Build a working pipeline for bee counting on the edge (NVIDIA Orin)
+  - Reference: [Issue #2](https://github.com/Gratheon/entrance-observer/issues/2)
+  - Reference: [Issue #6](https://github.com/Gratheon/entrance-observer/issues/6)
+- Develop telemetry API integration with web application
+- Implement real-time count display in web interface
+- Validate real-time inferencing capabilities
+  - Reference: [Issue #8](https://github.com/Gratheon/entrance-observer/issues/8)
 
-
-
-## Entrance observer (2mo)
-- build a working pipeline for bee counting on the edge (nvidia orin)
-  https://github.com/Gratheon/entrance-observer/issues/2
-  https://github.com/Gratheon/entrance-observer/issues/6
-- Send telemetry API to web-app
-- Display counts it in web-app
-- Validate that inferencing is realtime
-  https://github.com/Gratheon/entrance-observer/issues/8
-
-> Why: This should allow us to offer a new product (entrance camera + GPU) and service for sale while making smallest development effort. This will also be an example for future iterations and devices to decrease cost/energy efficiency of such devices (like ESP32 cam, raspberry pi) 
-
-
-
+> **Why**: This creates a new product offering (entrance camera + GPU) with minimal development effort, while establishing a foundation for future iterations on more cost-effective and energy-efficient devices (ESP32 cam, Raspberry Pi).
 
 ## Expectations from AI Accelerator
-- Work on product value proposition
-- Improve business model (pricing, GTM strategy, unit economics)
-- Product development help (AI topics above)
-- Intellectual property (logo, trademark registration?)
-- Preparing for investors due diligence
-- Community & networking
 
+- Refine product value proposition and messaging
+- Improve business model (pricing strategy, GTM approach, unit economics)
+- Technical guidance for AI implementation (addressing the challenges outlined above)
+- Intellectual property support (logo design, trademark registration)
+- Preparation for investor due diligence
+- Community engagement and networking opportunities
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7HBKNz0BXgGUv5ahSThEXHV4XWQu_LVJG-rlAbT62E8Y0PWQbjSVX-CiI1zL-HgLeHQMdwS0_vBNZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
