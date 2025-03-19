@@ -58,3 +58,6 @@ Splitting by products and services, our top priorities that we want to solve wit
 - Intellectual property (logo, trademark registration?)
 - Preparing for investors due diligence
 - Community & networking
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7HBKNz0BXgGUv5ahSThEXHV4XWQu_LVJG-rlAbT62E8Y0PWQbjSVX-CiI1zL-HgLeHQMdwS0_vBNZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
