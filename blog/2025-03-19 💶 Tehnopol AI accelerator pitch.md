@@ -5,22 +5,21 @@ We're pitching to Tehnopol our project
 3. 1min for the 6-month plan, what you would like to achieve during the AI Accelerator program, please divide your steps month by month
 
 
-## AI Accelerator plan
+# AI Accelerator plan
 
-Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!) by focusing on product development.
+Generally our goal is to make Gratheon more **production- and GTM ready** (eg. first paying customers!) by focusing on product development
 
 Splitting by products and services, our top priorities that we want to solve within these 6 months are:
 
-### Entrance observer (2mo)
-- build a working pipeline for bee counting on the edge (nvidia orin)
-  https://github.com/Gratheon/entrance-observer/issues/2
-  https://github.com/Gratheon/entrance-observer/issues/6
-- Send telemetry API to web-app
-- Display counts it in web-app
-- Validate that inferencing is realtime
-  https://github.com/Gratheon/entrance-observer/issues/8
 
-> Why: This should allow us to offer a product (entrance camera + GPU) and service for sale while making smallest development effort. This will also be an example for future iterations and devices to decrease cost/energy efficiency of such devices (like ESP32 cam, raspberry pi) 
+## IoT sensors device (2mo)
+
+- add configureable alerting in case of anomalies (sudden loss of weight)
+	- add SMS alerting channel
+- add [prophet AI model](https://facebook.github.io/prophet/) (or others?) to predict future hive weight, given past hive weight, weather data and entrance observer bee counts
+	- in the future this model might help us with forecasting bee colony demography too
+
+> Why: This should help us to differentiate with existing IoT solutions by having AI 
 
 
 ## Web-app (2mo)
@@ -37,14 +36,19 @@ Splitting by products and services, our top priorities that we want to solve wit
 > Why: This is mainly bugfixing and increasing value of the web-app for customers that want to only manage their apiary data from frame photos, receive good-enough statistics in meaningful timeframes. This should help to drive first customers.
 
 
-## IoT sensors device (2mo)
 
-- add [prophet AI model](https://facebook.github.io/prophet/) to predict future hive weight, given past hive weight, weather data and entrance observer bee counts
-	- in the future this model might help us with forecasting bee colony demography too
-- add alerting in case of anomalies (sudden loss of weight)
-- add SMS alerting channel
+## Entrance observer (2mo)
+- build a working pipeline for bee counting on the edge (nvidia orin)
+  https://github.com/Gratheon/entrance-observer/issues/2
+  https://github.com/Gratheon/entrance-observer/issues/6
+- Send telemetry API to web-app
+- Display counts it in web-app
+- Validate that inferencing is realtime
+  https://github.com/Gratheon/entrance-observer/issues/8
 
-> Why: This should help us to differentiate with existing IoT solutions by having AI 
+> Why: This should allow us to offer a new product (entrance camera + GPU) and service for sale while making smallest development effort. This will also be an example for future iterations and devices to decrease cost/energy efficiency of such devices (like ESP32 cam, raspberry pi) 
+
+
 
 
 ## Expectations from AI Accelerator
@@ -53,3 +57,4 @@ Splitting by products and services, our top priorities that we want to solve wit
 - Product development help (AI topics above)
 - Intellectual property (logo, trademark registration?)
 - Preparing for investors due diligence
+- Community & networking
