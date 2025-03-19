@@ -11,17 +11,24 @@ Generally our goal is to make Gratheon more **production- and GTM ready** (eg. f
 
 Splitting by products and services, our top priorities that we want to solve within these 6 months are:
 
-Entrance observer:
+### Entrance observer
 - build a working pipeline for bee counting on the edge (nvidia orin)
-  Use config:
   https://github.com/Gratheon/entrance-observer/issues/2
   https://github.com/Gratheon/entrance-observer/issues/6
 - Send telemetry API to web-app
 - Display counts it in web-app
+- Validate that inferencing is realtime
+  https://github.com/Gratheon/entrance-observer/issues/8
+
+This should allow us to offer a product (entrance camera + GPU) and service for sale while making smallest development effort.
+
+This will also be an example for future iterations/devices to 
+
 
 Web-app:
 - improve queen detection from photos
 - solve AI model stability (depends on infrastructure) 
+
 
 IoT sensors device:
 - add prophet model to predict future hive weight
