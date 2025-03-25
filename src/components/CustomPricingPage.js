@@ -21,6 +21,9 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
+              <li>Basic colony management</li>
+              <li>Manual inspection tracking</li>
+              <li>Basic analytics dashboard</li>
               <li>Up to 5 hives</li>
               <li>20 frames per hive max</li>
               <li>20 images per day max</li>
@@ -36,10 +39,14 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Essential</div>
             <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}>/month</span></div>
-            <div className="pricing-card-description">2 weeks free trial</div>
+            <div className="pricing-card-description">2 weeks free trial <br /> Annual billing</div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
+              <li>AI-assisted frame analysis</li>
+              <li>Colony development tracking</li>
+              <li>Treatment planning & alerts</li>
+              <li>Sensor data integration</li>
               <li>1 user max</li>
               <li>Up to 20 hives</li>
               <li>40 frames per hive</li>
@@ -59,6 +66,10 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
+              <li>Multi-user collaboration</li>
+              <li>Advanced analytics & reporting</li>
+              <li>API access for custom integrations</li>
+              <li>Priority support & training</li>
               <li>Up to 50 users</li>
               <li>Up to 10,000 hives</li>
               <li>60 frames per hive max</li>
