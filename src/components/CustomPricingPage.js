@@ -166,8 +166,8 @@ export default function CustomPricingPage() {
               </div>
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
-                <span className="price-value">€250 / month</span>
-                <span className="price-description">Annual billing</span>
+                <span className="price-value">ca. €3000</span>
+                <span className="price-description">One-time payment</span>
               </div>
             </div>
           </div>
@@ -193,8 +193,8 @@ export default function CustomPricingPage() {
               </div>
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
-                <span className="price-value">€500 / month</span>
-                <span className="price-description">Annual billing</span>
+                <span className="price-value">ca. €8000</span>
+                <span className="price-description">One-time payment</span>
               </div>
             </div>
           </div>
