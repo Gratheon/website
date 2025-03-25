@@ -320,11 +320,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "❤️‍🔥 Volunteers",
-              "path": "/about/❤️‍🔥 Volunteers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "🌨️ Problems/❄️ Overwintering collapse",
               "path": "/about/🌨️ Problems/❄️ Overwintering collapse",
               "sidebar": "tutorialSidebar"
@@ -1383,6 +1378,11 @@
               "id": "products/web_app/web_app",
               "path": "/about/products/web_app/",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "volunteer",
+              "path": "/about/volunteer",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -1768,15 +1768,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

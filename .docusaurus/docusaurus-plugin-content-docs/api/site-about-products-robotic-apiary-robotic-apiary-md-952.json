@@ -1,7 +1,7 @@
 {
   "id": "products/robotic_apiary/robotic_apiary",
   "title": "🪬 Robotic Apiary",
-  "description": "status: gathering requirements",
+  "description": "As a more cost-effective solution for large apiaries, we want to reuse Robotic Beehive  functionality and equip it with ability to move around the apiary to inspect hives on-demand or on-schedule.",
   "source": "@site/about/products/robotic_apiary/robotic_apiary.md",
   "sourceDirName": "products/robotic_apiary",
   "slug": "/products/robotic_apiary/",

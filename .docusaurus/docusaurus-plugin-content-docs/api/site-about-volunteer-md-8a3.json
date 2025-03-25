@@ -1,0 +1,27 @@
+{
+  "id": "volunteer",
+  "title": "❤️‍🔥 Volunteers",
+  "description": "Why to volunteer",
+  "source": "@site/about/volunteer.md",
+  "sourceDirName": ".",
+  "slug": "/volunteer",
+  "permalink": "/about/volunteer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "❤️‍🔥 Volunteers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤲 Why open source",
+    "permalink": "/about/company/🤲 Why open source"
+  },
+  "next": {
+    "title": "📢 Press kit",
+    "permalink": "/about/📢 Press kit"
+  }
+}

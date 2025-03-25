@@ -1,7 +1,7 @@
 {
   "id": "products/sensors/sensors",
   "title": "🌡️ Beehive IoT sensors",
-  "description": "status: proof-of-concept, 10% complete",
+  "description": "🌡️ Beehive IoT sensors are essentially smart scales equipped with additional sensors and communication chips. They periodically measure the hive's state and send data to a web app. This aggregated data helps beekeepers monitor their colonies in the field with minimal costs.",
   "source": "@site/about/products/sensors/sensors.md",
   "sourceDirName": "products/sensors",
   "slug": "/products/sensors/",

@@ -1,7 +1,7 @@
 {
   "id": "products/robotic_beehive/robotic_beehive",
   "title": "🧿 Robotic Beehive",
-  "description": "status: gathering requirements",
+  "description": "We are developing a robotic vertical beehive inspection platform, which is",
   "source": "@site/about/products/robotic_beehive/robotic_beehive.md",
   "sourceDirName": "products/robotic_beehive",
   "slug": "/products/robotic_beehive/",

@@ -3,8 +3,43 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
-    component: ComponentCreator('/blog', 'a61'),
+    component: ComponentCreator('/blog', '4af'),
     exact: true
   },
   {
@@ -158,13 +193,28 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2025/02/19/ 🎒 Visited AI TalTech webinar',
+    component: ComponentCreator('/blog/2025/02/19/ 🎒 Visited AI TalTech webinar', 'a7e'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/02/20/ 💶 Tehnopol AI pre-accelerator event',
+    component: ComponentCreator('/blog/2025/02/20/ 💶 Tehnopol AI pre-accelerator event', '16c'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/03/19/ 💶 Tehnopol AI accelerator pitch',
+    component: ComponentCreator('/blog/2025/03/19/ 💶 Tehnopol AI accelerator pitch', '921'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', 'faf'),
+    component: ComponentCreator('/blog/page/2', '3cf'),
     exact: true
   },
   {
@@ -179,25 +229,19 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'd5e'),
+    component: ComponentCreator('/about', 'b56'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'c1f'),
+        component: ComponentCreator('/about', '7ff'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '5e7'),
+            component: ComponentCreator('/about', 'c99'),
             routes: [
               {
                 path: '/about/',
                 component: ComponentCreator('/about/', '498'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/❤️‍🔥 Volunteers',
-                component: ComponentCreator('/about/❤️‍🔥 Volunteers', '7bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1464,6 +1508,12 @@ export default [
               {
                 path: '/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration',
                 component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration', '134'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/volunteer',
+                component: ComponentCreator('/about/volunteer', '9cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

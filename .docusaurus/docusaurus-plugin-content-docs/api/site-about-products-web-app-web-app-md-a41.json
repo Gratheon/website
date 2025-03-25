@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/web_app",
   "title": "📱Web-app",
-  "description": "status: minimum viable product, 60% complete",
+  "description": "Gratheon web app is intended to help beekeepers manage apiary data, communicate with installed modular hive devices, analyze images and timeseries data to extract valuable statistics, provide this data analytics over time, generate and deliver alerts, forecast, provide AI suggestions to solve issues.",
   "source": "@site/about/products/web_app/web_app.md",
   "sourceDirName": "products/web_app",
   "slug": "/products/web_app/",
