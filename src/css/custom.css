@@ -36,6 +36,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=PT+Serif+Caption:ital@0;1&display=swap');
 
+/* Import pricing styles */
+@import './pricing.css';
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {

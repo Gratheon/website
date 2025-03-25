@@ -1,0 +1,410 @@
+/* Pricing page specific styles */
+.pricing-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.pricing-card {
+  flex: 1;
+  min-width: 280px;
+  max-width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: var(--ifm-card-background-color);
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.pricing-card-header {
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.pricing-card-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-color-primary);
+}
+
+.pricing-card-price {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.pricing-card-description {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.pricing-card-body {
+  padding: 1.5rem;
+  flex: 1;
+}
+
+.pricing-card-features {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pricing-card-features li {
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  min-height: 2.5em;
+}
+
+.pricing-card-features li:before {
+  content: "✓";
+  margin-right: 0.75rem;
+  color: var(--ifm-color-primary);
+  font-weight: bold;
+}
+
+.pricing-card-footer {
+  padding: 1.5rem;
+  text-align: center;
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+/* Featured plan styling */
+.pricing-card.featured {
+  transform: scale(1.05);
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.pricing-card.featured .pricing-card-header {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.pricing-card.featured .pricing-card-title {
+  color: white;
+}
+
+.pricing-card.featured .pricing-card-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
+.pricing-card.featured:hover {
+  transform: scale(1.05) translateY(-5px);
+}
+
+/* Device pricing table styles */
+.device-pricing-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.device-pricing-table th {
+  background-color: var(--ifm-table-head-background);
+  color: var(--ifm-table-head-color);
+  padding: 1rem;
+  text-align: left;
+}
+
+.device-pricing-table th:first-child {
+  border-top-left-radius: 8px;
+}
+
+.device-pricing-table th:last-child {
+  border-top-right-radius: 8px;
+}
+
+.device-pricing-table td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--ifm-table-border-color);
+}
+
+.device-pricing-table tr:last-child td {
+  border-bottom: none;
+}
+
+.device-pricing-table tr:nth-child(even) {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+/* Ideation stage product styling */
+.ideation-stage {
+  opacity: 0.5;
+  position: relative;
+}
+
+.ideation-stage::after {
+  content: "In ideation";
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #f0f0f0;
+  color: #666;
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  margin: 0.3rem;
+}
+
+/* Custom pricing page layout without sidebar */
+.pricing-page-wrapper {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.pricing-page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.pricing-page-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.pricing-page-subtitle {
+  font-size: 1.2rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Device pricing info styling */
+.device-pricing-info {
+  background-color: var(--ifm-color-emphasis-100);
+  border-left: 4px solid var(--ifm-color-primary);
+  padding: 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 2rem 0;
+}
+
+.device-pricing-info p {
+  margin-bottom: 1rem;
+}
+
+.device-pricing-info ul {
+  margin-bottom: 0;
+}
+
+.device-pricing-info li {
+  margin-bottom: 0.5rem;
+}
+
+.device-pricing-info li:last-child {
+  margin-bottom: 0;
+}
+
+/* Hardware devices card styling */
+.hardware-devices-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.hardware-device-card {
+  flex: 1;
+  min-width: 250px;
+  max-width: 320px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: var(--ifm-card-background-color);
+  margin-bottom: 1rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.hardware-device-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+.hardware-device-header {
+  padding: 1.5rem;
+  text-align: center;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.hardware-device-header h3 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.hardware-device-image {
+  width: 100%;
+  height: 180px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  line-height: 0; /* Fix for white line */
+}
+
+.hardware-device-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block; /* Fix for bottom margin */
+  margin-bottom: 0; /* Fix for bottom margin */
+}
+
+.robotic-beehive-image img {
+  object-fit: contain;
+  background-color: #f5f5f5;
+}
+
+.hardware-device-body {
+  padding: 1.5rem;
+  flex: 1;
+}
+
+.hardware-device-pricing {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.hardware-price-item {
+  display: flex;
+  flex-direction: column;
+  padding: 0.75rem;
+  border-radius: 8px;
+  background-color: var(--ifm-color-emphasis-100);
+  height: 100%;
+}
+
+.price-label {
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.price-value {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.25rem;
+}
+
+.price-description {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+  min-height: 2.5em; /* Ensure consistent height for descriptions */
+}
+
+.hardware-device-footer {
+  padding: 1.5rem;
+  text-align: center;
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.hardware-device-card.ideation {
+  opacity: 0.8;
+}
+
+.ideation-badge {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background-color: var(--ifm-color-emphasis-300);
+  color: var(--ifm-color-emphasis-800);
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  z-index: 1;
+}
+
+/* Hide sidebar on pricing page */
+.pricing-page-container .navbar__inner {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.pricing-page-container .main-wrapper {
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+.pricing-page-container .docSidebarContainer {
+  display: none !important;
+}
+
+.pricing-page-container .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .pricing-card {
+    min-width: 100%;
+  }
+  
+  .pricing-card.featured {
+    transform: none;
+    order: -1;
+  }
+  
+  .pricing-card.featured:hover {
+    transform: translateY(-5px);
+  }
+  
+  .device-pricing-table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+/* Button styles */
+.pricing-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  background-color: var(--ifm-color-primary);
+  color: white !important; /* Ensure text is white for better contrast */
+}
+
+.pricing-button:hover {
+  background-color: var(--ifm-color-primary-darker);
+  color: white !important;
+  text-decoration: none;
+}

@@ -218,6 +218,11 @@ export default [
     exact: true
   },
   {
+    path: '/pricing',
+    component: ComponentCreator('/pricing', 'c49'),
+    exact: true
+  },
+  {
     path: '/privacy',
     component: ComponentCreator('/privacy', '03e'),
     exact: true
@@ -229,15 +234,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'b56'),
+    component: ComponentCreator('/about', 'c5e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '7ff'),
+        component: ComponentCreator('/about', 'f23'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'c99'),
+            component: ComponentCreator('/about', '678'),
             routes: [
               {
                 path: '/about/',
@@ -818,12 +823,6 @@ export default [
               {
                 path: '/about/products/clients/🧑‍🚀 Hobby beekeepers',
                 component: ComponentCreator('/about/products/clients/🧑‍🚀 Hobby beekeepers', 'c8a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/prices',
-                component: ComponentCreator('/about/products/prices', '748'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -805,11 +805,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/prices",
-              "path": "/about/products/prices",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/robotic_apiary/ideas/🤖 Moving robot between hives",
               "path": "/about/products/robotic_apiary/ideas/🤖 Moving robot between hives",
               "sidebar": "tutorialSidebar"
