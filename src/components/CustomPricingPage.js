@@ -99,7 +99,7 @@ export default function CustomPricingPage() {
       <div className="hardware-devices-container">
         <div className="hardware-device-card">
           <div className="hardware-device-header">
-            <h3><Link to="/about/products/sensors/sensors">Sensors</Link></h3>
+            <h3><Link to="https://gratheon.com/about/products/sensors/sensors">Sensors</Link></h3>
             <div className="hardware-device-image">
               <img src="https://gratheon.com/assets/images/Screenshot%202025-02-14%20at%2018.26.53-41f0bf6a4c13c5d1ae1cb945c8cc1a06.png" alt="Sensors" />
             </div>
@@ -119,13 +119,13 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="hardware-device-footer">
-            <Link to="/docs/beehive-sensors/" className="pricing-button">Get Started</Link>
+            <Link to="https://gratheon.com/docs/beehive-sensors/" className="pricing-button">Get Started</Link>
           </div>
         </div>
 
         <div className="hardware-device-card">
           <div className="hardware-device-header">
-            <h3><Link to="/about/products/beehive_camera/beehive_camera">Beehive Camera</Link></h3>
+            <h3><Link to="https://gratheon.com/about/products/beehive_camera/beehive_camera">Beehive Camera</Link></h3>
             <div className="hardware-device-image">
               <img src="https://gratheon.com/assets/images/Screenshot%202025-02-14%20at%2018.27.00-9e504be04ac885dce2e1a8ff1e4ffae0.png" alt="Beehive Camera" />
             </div>
@@ -145,14 +145,14 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="hardware-device-footer">
-            <Link to="/docs/entrance-observer/" className="pricing-button">Get Started</Link>
+            <Link to="https://gratheon.com/docs/entrance-observer/" className="pricing-button">Get Started</Link>
           </div>
         </div>
 
         <div className="hardware-device-card ideation">
           <div className="ideation-badge">In ideation</div>
           <div className="hardware-device-header">
-            <h3><Link to="/about/products/robotic_beehive/robotic_beehive">Robotic Beehive</Link></h3>
+            <h3><Link to="https://gratheon.com/about/products/robotic_beehive/robotic_beehive">Robotic Beehive</Link></h3>
             <div className="hardware-device-image robotic-beehive-image">
               <img src="https://gratheon.com/assets/images/Screenshot%202025-02-25%20at%2011.25.06-5e6bdf8cbd74362a2be7c362199a6a00.png" alt="Robotic Beehive" />
             </div>
@@ -179,7 +179,7 @@ export default function CustomPricingPage() {
         <div className="hardware-device-card ideation">
           <div className="ideation-badge">In ideation</div>
           <div className="hardware-device-header">
-            <h3><Link to="/about/products/robotic_apiary/robotic_apiary">Robotic Apiary</Link></h3>
+            <h3><Link to="https://gratheon.com/about/products/robotic_apiary/robotic_apiary">Robotic Apiary</Link></h3>
             <div className="hardware-device-image">
               <img src="https://gratheon.com/assets/images/Screenshot%202025-02-14%20at%2018.27.24-365e7c710a846d74c4d87c28849a1f8f.png" alt="Robotic Apiary" />
             </div>
