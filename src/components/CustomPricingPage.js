@@ -77,7 +77,7 @@ export default function CustomPricingPage() {
             </ul>
           </div>
           <div className="pricing-card-footer">
-            <Link to="https://app.gratheon.com/account/register" className="pricing-button">Contact Sales</Link>
+            <Link to="mailto:contact@gratheon.com" className="pricing-button">Contact Sales</Link>
           </div>
         </div>
       </div>
