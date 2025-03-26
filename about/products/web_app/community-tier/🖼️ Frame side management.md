@@ -33,7 +33,15 @@ status: complete
 
 User can change frame side cell distribution - see [Honeycomb cell detection & management](https://www.notion.so/Honeycomb-cell-detection-management-e9ff03128cdb489293737b8a4c1e7098?pvs=21)
 
-### [Drawing on canvas](https://www.notion.so/Drawing-on-canvas-e704bc7a91654ff9b7f456d5733eb76b?pvs=21)
+### Drawing on canvas
+
+- User opens uploaded frame side photo from [Frame side management](https://www.notion.so/Frame-side-management-ccfbfe36e0864770b5f77644cb44cbda?pvs=21)
+- User can use mouse or iPad pencil to draw on top of the photo
+- User can click undo to clear last drawn line
+- User can clear entire drawing by clicking on relevant button
+
+<iframe width="1082" height="480" src="https://www.youtube.com/embed/TRV6SWhUmqM" title="Features - Zoom, pan &amp; draw on canvas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Deletion
 

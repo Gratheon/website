@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/volunteer.md",
+                "file": "about/products/web_app/community-tier/🖼️ Frame side management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "volunteer"
+              "title": "🖼️ Frame side management"
             }
           }
         ]
@@ -160,11 +160,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "about/products/web_app/community-tier/📸 Frame side photo upload.md",
+    "about/products/beehive_camera/features/🎥 Video streaming via API.md",
+    "about/volunteer.md",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
     "about/index.md",
     "about/products/index.md",
@@ -207,9 +213,6 @@
     "about/products/camera 1.md",
     "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
     "about/🌻 Purpose/Symbolism.md",
-    "docs/API/API.md",
-    "docs/API/GraphQL API.md",
-    "docs/API/REST APIs.md",
-    "about/company/Team/index.md"
+    "docs/API/API.md"
   ]
 }
