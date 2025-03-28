@@ -59,7 +59,7 @@ Recomendation on logo usage
 
 
 ![](../../src/img/logo_v7.png)
-![](../../src/img/logo_v7.png)
+![](../../src/img/logo_v7.svg)
 
 ## Email template
 ![](../img/Screenshot%202024-05-20%20at%2017.24.44.png)
