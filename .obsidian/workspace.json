@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/Symbolism.md",
+                "file": "research/Competition/HIIVE Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolism"
+              "title": "HIIVE Link"
             }
           }
         ]
@@ -167,6 +167,13 @@
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "research/Competition/img/Screenshot 2025-03-28 at 21.49.57.png",
+    "research/Competition/img/1026bf46333f59ec92fefe65ae30c508_original.gif",
+    "research/Competition/img/b19050545bb216ec145b5dc8ba9de736_original.avif",
+    "research/Competition/img/2dc67c5304739a30d13f715afa8ff939_original.png",
+    "research/Competition/BeeLab.md",
+    "research/Competition/HIIVE Link.md",
+    "about/🌻 Purpose/Symbolism.md",
     "about/products/web_app/community-tier/🖼️ Frame side management.md",
     "about/products/web_app/community-tier/📸 Frame side photo upload.md",
     "about/products/beehive_camera/features/🎥 Video streaming via API.md",
@@ -188,10 +195,7 @@
     "blog/img/20250220_101324.jpg",
     "blog/img/20250220_110346.jpg",
     "blog/img/20250220_101031.jpg",
-    "blog/img/20250220_104829.jpg",
-    "blog/img/20250220_102120.jpg",
     "about/products/web_app/web_app.md",
-    "blog/img/Screenshot 2025-02-19 at 12.30.42.png",
     "blog/2024-11-30 Gratheon joins NVIDIA Inception Program.md",
     "blog/2024-12-02 📢 Participated in Startup Pitch Practice webinar by Founder Institute.md",
     "blog/2025-01-13 🤝 Visited VIDRIK.md",
@@ -208,10 +212,6 @@
     "build/research/Competition/🇦🇺 Beemate/index.html",
     "about/products/web_app/community-tier/🌪️ Weather alerts 1.md",
     "docs/entrance-observer/Datasets.md",
-    "about/products/👁️‍🗨️ Entrance Observer.md",
-    "about/products/camera.md",
-    "about/products/camera 1.md",
-    "blog/2024-11-29 🛠️ Andmetorm hackathon.md",
-    "about/🌻 Purpose/Symbolism.md"
+    "about/products/👁️‍🗨️ Entrance Observer.md"
   ]
 }
