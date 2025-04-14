@@ -138,8 +138,10 @@ header h1 a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 120%;
-  height: auto;
+  width: 120%; /* Default width */
+  height: auto; /* Default height */
+  z-index: 1; /* Behind content (z-index: 2) but above splash bg */
+  object-fit: cover; /* Cover the container, cropping if needed */
 }
 
 #how-to {
@@ -304,7 +306,15 @@ header#front {
 
 @media (max-width: 800px) {
   header#front {
-      height: 300px;
+      display: block; /* Change display to block */
+      padding-top: 30px; /* Adjust padding */
+      padding-bottom: 30px;
+      position: relative; /* Ensure stacking context */
+  }
+  #bgVideo {
+    height: 100%; /* Force height to cover container */
+    width: auto; /* Let width adjust */
+    min-width: 100%; /* Ensure it at least covers horizontally */
   }
 
   .feature {
@@ -315,7 +325,15 @@ header#front {
 
 @media (max-width: 600px) {
   header#front {
-      height: 200px;
+      display: block; /* Change display to block */
+      padding-top: 20px; /* Adjust padding */
+      padding-bottom: 20px;
+      position: relative; /* Ensure stacking context */
+  }
+  #bgVideo {
+    height: 100%; /* Force height to cover container */
+    width: auto; /* Let width adjust */
+    min-width: 100%; /* Ensure it at least covers horizontally */
   }
 
   .feature {
@@ -367,6 +385,12 @@ nav {
   background: white;
   text-align: left;
   z-index: 3;
+}
+
+/* Container for the header text and buttons */
+.headerContentContainer {
+  position: relative; /* Establish stacking context */
+  z-index: 2; /* Ensure content is above video (z-index: 1) */
 }
 
 nav .menu {
@@ -440,6 +464,41 @@ nav #logo .desktop {
   #googlePlay img {
       margin-top: -5px;
   }
+}
+
+/* Add styles for smaller screens */
+.installButtons {
+  flex-direction: column; /* Stack buttons vertically */
+  align-items: center; /* Center items horizontally */
+}
+
+.installButtons div {
+  margin-bottom: 10px; /* Add some space between buttons */
+}
+
+/* Reduce height of desktop download icons on mobile */
+.desktopDownloadIcon {
+  height: 30px; /* Override default height */
+}
+
+
+
+@media screen and (min-width: 1024px) {
+  /* Style the container for platform download links/images */
+  .platformDownloads {
+    display: flex; /* Use flexbox for alignment */
+    flex-wrap: wrap; /* Allow items to wrap onto the next line */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    gap: 5px; /* Add a small gap between items */
+  }
+
+  /* Default style for desktop download icons */
+  .desktopDownloadIcon {
+    height: 50px; /* Default height */
+    margin: 10px; /* Keep the margin */
+  }
+
 }
 
 .page-text {
