@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="./logo_v7w.svg" alt="Gratheon Logo" style="max-width: 200px;" /></div>
+<div style={{textAlign: 'center'}}><img src="./logo_v7w.svg" alt="Gratheon Logo" style={{maxWidth: '200px'}} /></div>
 
 ## Praktikavõimalus: Ehita Mesinduse Tulevikku Robootika ja IoT abil @ Gratheon
 

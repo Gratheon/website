@@ -4,7 +4,7 @@
 
 **Gratheon** is an early-stage startup based in Tallinn, Estonia, on a mission to harmonize humanity with nature. We are developing **open-source, open, modular robotic beehives** equipped with sensors, cameras, and automation to monitor colony health, improve beekeeping efficiency, and ensure precise pollination for global food security. We're tackling critical challenges like colony collapse, pest infestations (like Varroa mites), and the manual labor intensity of traditional beekeeping.
 
-<div style="text-align: center;"><img src="./logo_v7w.svg" alt="Gratheon Logo" style="max-width: 200px;" /></div>
+<div style={{textAlign: 'center'}}><img src="./logo_v7w.svg" alt="Gratheon Logo" style={{maxWidth: '200px'}} /></div>
 
 
 ## The Internship Role

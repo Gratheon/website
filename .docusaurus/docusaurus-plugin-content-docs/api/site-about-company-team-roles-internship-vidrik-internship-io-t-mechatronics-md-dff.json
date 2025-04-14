@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
+  "title": "VIDRIK_Internship_IoT_Mechatronics",
+  "description": "Internship Opportunity: Build the Future of Beekeeping with Robotics & IoT @ Gratheon",
+  "source": "@site/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics.md",
+  "sourceDirName": "company/Team/Roles/Internship",
+  "slug": "/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
+  "permalink": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Internship_IoT_Mechatronics_ET",
+    "permalink": "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET"
+  },
+  "next": {
+    "title": "VIDRIK_Internship_IoT_Mechatronics_ET",
+    "permalink": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET"
+  }
+}

@@ -615,6 +615,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Team/Roles/Internship/Internship_IoT_Mechatronics",
+              "path": "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET",
+              "path": "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
+              "path": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+              "path": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Team/Roles/ML engineer 🧠",
               "path": "/about/company/Team/Roles/ML engineer 🧠",
               "sidebar": "tutorialSidebar"
@@ -1767,6 +1787,15 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "GTM-KH4KC9"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
     }
   }
 }

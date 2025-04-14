@@ -1,0 +1,23 @@
+{
+  "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+  "title": "VIDRIK_Internship_IoT_Mechatronics_ET",
+  "description": "Praktikavõimalus: Ehita Mesinduse Tulevikku Robootika ja IoT abil @ Gratheon",
+  "source": "@site/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET.md",
+  "sourceDirName": "company/Team/Roles/Internship",
+  "slug": "/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+  "permalink": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VIDRIK_Internship_IoT_Mechatronics",
+    "permalink": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics"
+  },
+  "next": {
+    "title": "ML engineer 🧠",
+    "permalink": "/about/company/Team/Roles/ML engineer 🧠"
+  }
+}
