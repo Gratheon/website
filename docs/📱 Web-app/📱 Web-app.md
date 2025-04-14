@@ -93,3 +93,14 @@ Some services are not blocking the UI or backend in general, but are required fo
 - models-gate-tracker
 
 ![](../img/Screenshot%202024-04-08%20at%2012.29.45.png)
+
+## Features
+
+### Inspection Sharing
+
+Users can share individual hive inspections with others via a unique public URL.
+
+-   **Generating a Link:** From the inspection list view, clicking the "Share" button on an inspection generates a unique URL containing a secure share token.
+-   **Public Access:** Anyone with this link can view the specific inspection details without needing to log in.
+-   **Read-Only & Scoped:** Access via the share link is strictly read-only. The embedded share token limits data access specifically to the shared inspection and potentially its parent hive/apiary details necessary for context. It prevents access to any other data or the ability to perform modifications.
+-   **Security:** Share tokens are validated, and access is controlled by predefined scopes associated with the token. The **GraphQL Router enforces these scopes**, ensuring secure, limited data exposure by blocking unauthorized requests. (See [GraphQL API Authentication](./../API/GraphQL%20API.md#share-token-authentication-read-only-access) for technical details).

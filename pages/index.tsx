@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react'; // Correctly placed imports
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -26,6 +27,111 @@ function openSupport(event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) {
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  // State for download URLs
+  const [macArmUrl, setMacArmUrl] = useState<string | null>(null);
+  const [macIntelUrl, setMacIntelUrl] = useState<string | null>(null); // Re-add Intel state if needed later
+  const [windowsUrl, setWindowsUrl] = useState<string | null>(null);
+  const [linuxUrl, setLinuxUrl] = useState<string | null>(null);
+  const [isLoading, setIsLoading] = useState(true); // Keep loading state
+  // Removed error state
+
+  // Define localStorage keys
+  const LS_KEYS = {
+    macArm: 'latestMacArmUrl',
+    macIntel: 'latestMacIntelUrl',
+    windows: 'latestWindowsUrl',
+    linux: 'latestLinuxUrl',
+  };
+
+  useEffect(() => {
+    // Try loading from localStorage first
+    try {
+      const cachedMacArm = localStorage.getItem(LS_KEYS.macArm);
+      const cachedMacIntel = localStorage.getItem(LS_KEYS.macIntel);
+      const cachedWindows = localStorage.getItem(LS_KEYS.windows);
+      const cachedLinux = localStorage.getItem(LS_KEYS.linux);
+
+      if (cachedMacArm) setMacArmUrl(cachedMacArm);
+      if (cachedMacIntel) setMacIntelUrl(cachedMacIntel);
+      if (cachedWindows) setWindowsUrl(cachedWindows);
+      if (cachedLinux) setLinuxUrl(cachedLinux);
+
+      // If we have cached links, we can potentially set loading to false sooner
+      // or keep it true until fetch completes/fails to ensure freshness check.
+      // Let's keep it true until fetch attempt finishes.
+    } catch (e) {
+      console.warn("Could not read from localStorage", e);
+      // Ignore localStorage errors, proceed to fetch
+    }
+
+
+    // Fetch latest release data from GitHub API
+    fetch('https://api.github.com/repos/Gratheon/web-app/releases?per_page=1')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`GitHub API error: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        if (data && data.length > 0 && data[0].assets) {
+          const latestRelease = data[0];
+          let updated = false; // Declare updated flag *before* the loop
+          latestRelease.assets.forEach(asset => {
+            const name = asset.name.toLowerCase();
+            const url = asset.browser_download_url;
+            // Removed declaration from here
+
+            if (name.endsWith('.dmg')) {
+              if (name.includes('aarch64')) {
+                setMacArmUrl(url);
+                localStorage.setItem(LS_KEYS.macArm, url); // Save to localStorage
+                updated = true;
+              }
+            } else if (name.endsWith('.msi')) {
+              setWindowsUrl(url);
+              localStorage.setItem(LS_KEYS.windows, url); // Save to localStorage
+              updated = true;
+            } else if (name.endsWith('.appimage')) {
+              setLinuxUrl(url);
+              localStorage.setItem(LS_KEYS.linux, url); // Save to localStorage
+              updated = true;
+            }
+          }); // End of forEach asset loop
+
+          // Check if assets were found *inside* the .then block
+          if (!updated && latestRelease.assets.length > 0) {
+               console.warn("Found release assets, but none matched expected patterns (.dmg, .msi, .AppImage with arch)");
+               // Keep showing cached links if available, otherwise show error later
+          } else if (latestRelease.assets.length === 0) {
+               console.warn("Latest release has no assets.");
+               // Keep showing cached links if available, otherwise show error later
+          }
+
+        } else { // End of if (data && data.length > 0 && data[0].assets)
+          throw new Error('No releases or assets found');
+        }
+        setIsLoading(false); // Fetch attempt finished
+        // setError(null); // Clear any previous error - error state removed
+      })
+      .catch(err => {
+        console.error("Failed to fetch release info:", err);
+        // If fetch fails AND nothing was loaded from localStorage, set fallback URLs
+        if (!localStorage.getItem(LS_KEYS.macArm) && !localStorage.getItem(LS_KEYS.macIntel) && !localStorage.getItem(LS_KEYS.windows) && !localStorage.getItem(LS_KEYS.linux)) {
+            const fallbackUrl = 'https://github.com/Gratheon/web-app/releases/latest';
+            console.log("API fetch failed and no cache found. Setting fallback URLs.");
+            setMacArmUrl("https://github.com/Gratheon/web-app/releases/download/build-36babb0f8086ea85b65f37c5510837c2bd73de81/gratheon_0.1.0_aarch64.dmg");
+            setWindowsUrl("https://github.com/Gratheon/web-app/releases/download/build-36babb0f8086ea85b65f37c5510837c2bd73de81/gratheon_0.1.0_x64_en-US.msi");
+            setLinuxUrl("https://github.com/Gratheon/web-app/releases/download/build-36babb0f8086ea85b65f37c5510837c2bd73de81/gratheon_0.1.0_amd64.AppImage");
+            // Note: This will result in multiple identical buttons pointing to the release page.
+            // A potential improvement would be to detect this state and show a single button.
+        } else {
+            console.log("API fetch failed, but using cached links from localStorage.");
+        }
+        setIsLoading(false); // Fetch attempt finished
+      });
+  }, []); // Empty dependency array ensures this runs only once on mount
+
   return (
     <>
       <div id={styles.splash}>
@@ -36,8 +142,8 @@ function HomepageHeader() {
               <div id={styles.splash_internal}>
                 <div>Modular Robotic Beehive</div>
 
-                <p style={{ background: 'black', textAlign: 'center' }}>
-                  With data analytics to save bees, time and strength
+                <p style={{ background: 'black', textAlign: 'center', padding: '10px', color: 'white', fontSize: '20px' }}>
+                  Data analytics to save bees, time and strength
                 </p>
               </div>
             </div>
@@ -48,13 +154,26 @@ function HomepageHeader() {
                   href="https://app.gratheon.com/account/register"
                   >Try it free</a>
               </div>
-              <div>
-                <a
-                  id={styles.googlePlay}
-                  href="https://play.google.com/store/apps/details?id=com.gratheon.app.twa"
-                  ><img width="160" src="./img/google-play-badge.png"
-                /></a>
-              </div>
+              {/* Display logic: Show loading, then buttons (if URLs are available) */}
+              {isLoading && <div style={{ gridColumn: '1 / -1', textAlign: 'center' }}>Loading downloads...</div>}
+              {/* Show buttons if not loading AND at least one URL is set (from API, cache, or fallback) */}
+              {!isLoading && (macArmUrl || macIntelUrl || windowsUrl || linuxUrl) && (
+                  <div style={{ display: 'flex', marginTop: '20px' }}>
+                    {/* Google Play image - no padding */}
+                    <a href="https://play.google.com/store/apps/details?id=com.gratheon.app.twa"><img height="50" src="./img/google.png" alt="Google Play" style={{ margin: '10px' }}/></a>
+                    {/* Desktop download images - add padding */}
+                    {macArmUrl && (
+                        <a href={macArmUrl} title={`Download macOS (ARM) - ${macArmUrl.split('/').pop()}`}><img height="50" src="./img/mac.png" alt="Download macOS ARM" style={{ margin: '10px' }}/></a>
+                    )}
+                    {/* Note: macIntelUrl logic was removed in the current file content, so no button here */}
+                    {windowsUrl && (
+                        <a href={windowsUrl} title={`Download Windows - ${windowsUrl.split('/').pop()}`}><img height="50" src="./img/windows.png" alt="Download Windows" style={{ margin: '10px' }}/></a>
+                    )}
+                    {linuxUrl && (
+                        <a href={linuxUrl} title={`Download Linux - ${linuxUrl.split('/').pop()}`}><img height="50" src="./img/linux.png" alt="Download Linux" style={{ margin: '10px' }}/></a>
+                    )}
+                  </div>
+                )}
             </div>
           </div>
         </header>

@@ -552,17 +552,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-c5e": {
+  "/about-cba": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-f23": {
+  "/about-5e0": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-678": {
+  "/about-316": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -772,6 +772,10 @@
   "/about/company/🫀 Culture and values/Team effort 🐝-bf9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-company-🫀-culture-and-values-team-effort-🐝-ffc-092"
+  },
+  "/about/company/Datasets-28b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-datasetsff-2-a80"
   },
   "/about/company/Processes/☑️ Features and tasks-6ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1413,17 +1417,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-8c5": {
+  "/docs-f67": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-59e": {
+  "/docs-ebc": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-d35": {
+  "/docs-22f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1594,10 +1598,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-entrance-observer-components-wi-fi-module-for-jetson-nano-53-e-557"
   },
-  "/docs/entrance-observer/Datasets-aff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-entrance-observer-datasets-45-b-c85"
-  },
   "/docs/entrance-observer/Jetson Nano setup-ab4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-entrance-observer-jetson-nano-setupf-62-2c9"
@@ -1654,17 +1654,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-robot-vendors-06-a-40d"
   },
-  "/research-24d": {
+  "/research-5b2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-7f2": {
+  "/research-266": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-057": {
+  "/research-f5c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -1866,6 +1866,10 @@
   "/research/Competition/Hackuarium beemos-769": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-competition-hackuarium-beemose-87-232"
+  },
+  "/research/Competition/HIIVE Link-592": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hiive-link-97-b-5f5"
   },
   "/research/Competition/HiveBloom-2e6": {
     "__comp": "__comp---theme-doc-item-178-a40",

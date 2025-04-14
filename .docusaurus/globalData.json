@@ -216,11 +216,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/Datasets",
-              "path": "/docs/entrance-observer/Datasets",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "entrance-observer/entrance-observer",
               "path": "/docs/entrance-observer/",
               "sidebar": "tutorialSidebar"
@@ -567,6 +562,11 @@
             {
               "id": "company/🫀 Culture and values/Team effort 🐝",
               "path": "/about/company/🫀 Culture and values/Team effort 🐝",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Datasets",
+              "path": "/about/company/Datasets",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1598,6 +1598,10 @@
             {
               "id": "Competition/Hackuarium beemos",
               "path": "/research/Competition/Hackuarium beemos"
+            },
+            {
+              "id": "Competition/HIIVE Link",
+              "path": "/research/Competition/HIIVE Link"
             },
             {
               "id": "Competition/HiveBloom",

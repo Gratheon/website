@@ -234,15 +234,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'c5e'),
+    component: ComponentCreator('/about', 'cba'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'f23'),
+        component: ComponentCreator('/about', '5e0'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '678'),
+            component: ComponentCreator('/about', '316'),
             routes: [
               {
                 path: '/about/',
@@ -553,6 +553,12 @@ export default [
               {
                 path: '/about/company/🫀 Culture and values/Team effort 🐝',
                 component: ComponentCreator('/about/company/🫀 Culture and values/Team effort 🐝', 'bf9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Datasets',
+                component: ComponentCreator('/about/company/Datasets', '28b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1524,15 +1530,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8c5'),
+    component: ComponentCreator('/docs', 'f67'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '59e'),
+        component: ComponentCreator('/docs', 'ebc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd35'),
+            component: ComponentCreator('/docs', '22f'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1787,12 +1793,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/Datasets',
-                component: ComponentCreator('/docs/entrance-observer/Datasets', 'aff'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/entrance-observer/Jetson Nano setup',
                 component: ComponentCreator('/docs/entrance-observer/Jetson Nano setup', 'ab4'),
                 exact: true,
@@ -1884,15 +1884,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '24d'),
+    component: ComponentCreator('/research', '5b2'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '7f2'),
+        component: ComponentCreator('/research', '266'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '057'),
+            component: ComponentCreator('/research', 'f5c'),
             routes: [
               {
                 path: '/research/',
@@ -2142,6 +2142,11 @@ export default [
               {
                 path: '/research/Competition/Hackuarium beemos',
                 component: ComponentCreator('/research/Competition/Hackuarium beemos', '769'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/HIIVE Link',
+                component: ComponentCreator('/research/Competition/HIIVE Link', '592'),
                 exact: true
               },
               {
