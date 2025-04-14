@@ -5,3 +5,4 @@ Here we list roles that are needed for company operation
 - [UX designer 🔲](UX%20designer%20🔲.md)
 - [Beekeeper & Community manager 🐝](Beekeeper%20&%20Community%20manager%20🐝.md)
 - [SRE - Devops - Infrastructure engineer](SRE%20-%20Devops%20-%20Infrastructure%20engineer.md)
+- Intern - [en](./Internship/Internship_IoT_Mechatronics.md), [et](./Internship/Internship_IoT_Mechatronics_ET.md)
