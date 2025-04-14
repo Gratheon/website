@@ -138,11 +138,11 @@ function HomepageHeader() {
         <header id={styles.front}>
           <video id={styles.bgVideo} autoPlay={true} loop muted src={randomUrl}></video>
           <div style={{ zIndex: 2 }}>
-            <div style={{ display: 'flex' }}>
+            <div style={{ textAlign: 'center' }}>
               <div id={styles.splash_internal}>
-                <div>Modular Robotic Beehive</div>
+                <div style={{ textAlign: 'center' }}>Modular Robotic Beehive</div>
 
-                <p style={{ background: 'black', textAlign: 'center', padding: '10px', color: 'white', fontSize: '20px' }}>
+                <p style={{ color: 'white', textAlign: 'center', padding: '7px 0', backgroundColor: 'black', fontSize: '20px', fontWeight: 'normal' }}>
                   Data analytics to save bees, time and strength
                 </p>
               </div>
