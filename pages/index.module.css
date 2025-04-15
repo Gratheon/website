@@ -203,6 +203,7 @@ header h1 a {
   #showcase {
       position: relative;
       margin: -160px auto 0;
+      z-index: 3; /* Ensure showcase is above video and header content */
   }
 
   header #logo {
