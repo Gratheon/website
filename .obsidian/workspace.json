@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/Datasets.md",
-                "mode": "source",
-                "source": false
+                "file": "research/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Datasets"
+              "title": "index"
             }
           }
         ]
@@ -168,6 +168,11 @@
   },
   "active": "0937bf8afbce5279",
   "lastOpenFiles": [
+    "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
+    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
+    "research/img/2504.06099v1.pdf",
+    "research/Accuracy vs. Energy.md",
+    "about/company/Datasets.md",
     "research/Competition/HIIVE Link.md",
     "research/Competition/img/Screenshot 2025-03-28 at 21.49.57.png",
     "research/Competition/img/1026bf46333f59ec92fefe65ae30c508_original.gif",
@@ -208,10 +213,6 @@
     "build/research/Competition/🇪🇺 RoboRoyale/index.html",
     "build/research/Competition/🇩🇪 ApicAI/index.html",
     "build/research/Competition/🇨🇦 Nectar/index.html",
-    "build/research/Competition/🇦🇺 Purple Hive/index.html",
-    "build/research/Competition/🇦🇺 Beemate/index.html",
-    "about/products/web_app/community-tier/🌪️ Weather alerts 1.md",
-    "about/company/Datasets.md",
-    "about/products/👁️‍🗨️ Entrance Observer.md"
+    "build/research/Competition/🇦🇺 Purple Hive/index.html"
   ]
 }
