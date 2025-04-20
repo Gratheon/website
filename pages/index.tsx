@@ -271,6 +271,24 @@ function HomepageHeader() {
 
             <video autoPlay loop muted src="./img/video-stream.mov"></video>
           </div>
+
+
+          <div className={styles.feature}>
+            <h3>Share</h3>
+            <p>
+              Stream your beehive entrance from unused phone, raspberry-pi or our
+              device. Play back past videos under correct beehive to see what
+              happened. Useful to detect hornet attacks, robbing, queen mating
+              flights.
+            </p>
+
+            <img
+              alt="beehive frame with detected cell types"
+              src="img/share.webp"
+            />
+          </div>
+
+
         </div>
       </div>
 

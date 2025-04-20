@@ -1670,17 +1670,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-robotic-beehive-robot-vendors-06-a-40d"
   },
-  "/research-5b2": {
+  "/research-cbc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---research-69-c-fe6"
     }
   },
-  "/research-266": {
+  "/research-f3d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---research-262-273"
   },
-  "/research-f5c": {
+  "/research-65f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-2c3": {
@@ -2022,6 +2022,10 @@
   "/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services-2d6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---research-toward-an-intelligent-and-efficient-beehive-a-survey-of-precision-beekeeping-systems-and-servicesc-1-a-938"
+  },
+  "/research/Towards Varroa destructor mite detection using a narrow spectra illumination-9da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-towards-varroa-destructor-mite-detection-using-a-narrow-spectra-illumination-004-9bc"
   },
   "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-37b": {
     "__comp": "__comp---theme-doc-item-178-a40",

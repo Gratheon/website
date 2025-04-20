@@ -1908,15 +1908,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '5b2'),
+    component: ComponentCreator('/research', 'cbc'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '266'),
+        component: ComponentCreator('/research', 'f3d'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'f5c'),
+            component: ComponentCreator('/research', '65f'),
             routes: [
               {
                 path: '/research/',
@@ -2341,6 +2341,11 @@ export default [
               {
                 path: '/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
                 component: ComponentCreator('/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', '2d6'),
+                exact: true
+              },
+              {
+                path: '/research/Towards Varroa destructor mite detection using a narrow spectra illumination',
+                component: ComponentCreator('/research/Towards Varroa destructor mite detection using a narrow spectra illumination', '9da'),
                 exact: true
               },
               {
