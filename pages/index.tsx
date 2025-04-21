@@ -162,8 +162,8 @@ function HomepageHeader() {
         src="https://gratheon.s3-accelerate.amazonaws.com/www/detection2.mov"
       ></video>
 
-      <div>
-        <h2 style={{ textAlign: 'center' }}>How does app work?</h2>
+      <div style={{marginTop: '20px'}}>
+        <h2 style={{ textAlign: 'center' }}>How does the app work?</h2>
         <div className={styles.features}>
           <div className={styles.feature}>
             <h3>Model beehives</h3>
@@ -276,7 +276,7 @@ function HomepageHeader() {
           <div className={styles.feature}>
             <h3>Share</h3>
             <p>
-              Share your beehive inspection with beekeeping community by generating a link anyone can open.
+              Share your beehive inspection with beekeeping community by generating a link that receivers can open.
               Get help from experts to identify problems, get advice or share a joy of beekeeping.
             </p>
 

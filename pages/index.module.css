@@ -267,10 +267,10 @@ header#front {
 }
 
 .feature {
-  padding: 10px 15px;
+  padding: 15px 20px;
   box-sizing: border-box;
   flex-basis: calc(33.33333% - 5px);
-  max-width: 300px; /* calc(33.33333% - 5px); */
+  max-width: 400px; /* calc(33.33333% - 5px); */
   border: 1px solid #eee;
   border-collapse: collapse;
   margin-left: -1px;
@@ -511,6 +511,7 @@ article {
 }
 
 #devices {
+  margin-top: 80px;
   padding: 0 10px;
 }
 
