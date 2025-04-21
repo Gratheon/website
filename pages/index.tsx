@@ -276,9 +276,8 @@ function HomepageHeader() {
           <div className={styles.feature}>
             <h3>Share</h3>
             <p>
-              Spread the joy or ask for help. Share your beehive inspection with 
-              beekeeping community. Get help from experts to identify problems
-              and get advice. 
+              Share your beehive inspection with beekeeping community by generating a link anyone can open.
+              Get help from experts to identify problems, get advice or share a joy of beekeeping.
             </p>
 
             <img
