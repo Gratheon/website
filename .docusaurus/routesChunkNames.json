@@ -552,17 +552,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-fca": {
+  "/about-54d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-d13": {
+  "/about-18c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-f26": {
+  "/about-3a6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1137,6 +1137,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-♻️-public-beehive-viewc-7-d-3e5"
   },
+  "/about/products/web_app/community-tier/♻️ QR-code generation-d73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-community-tier-♻️-qr-code-generation-079-8e6"
+  },
   "/about/products/web_app/community-tier/🌍 Localization-c96": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-🌍-localization-775-a49"
@@ -1149,6 +1153,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-🌻-list-of-local-plants-636-076"
   },
+  "/about/products/web_app/community-tier/🐝 Frame side queen cup detection-d45": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-community-tier-🐝-frame-side-queen-cup-detection-9-c-5-07d"
+  },
   "/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management-c2e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-🐝-honeycomb-cell-detection-management-714-290"
@@ -1156,6 +1164,14 @@
   "/about/products/web_app/community-tier/🐝 Worker bee detection-73c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-🐝-worker-bee-detectionae-1-e8e"
+  },
+  "/about/products/web_app/community-tier/👑 Queen detection-70d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-community-tier-👑-queen-detectionb-33-7dc"
+  },
+  "/about/products/web_app/community-tier/👑 Queen management-039": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-community-tier-👑-queen-managementd-71-58e"
   },
   "/about/products/web_app/community-tier/💶 Billing subscription-5ea": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1213,18 +1229,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-ideas-💡-🐝-frame-analysis-bee-countercd-7-3a2"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection-742": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-🐝-frame-side-queen-cup-detection-757-00e"
-  },
-  "/about/products/web_app/community-tier/ideas 💡/👑 Queen detection-19c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-👑-queen-detection-53-b-d5c"
-  },
-  "/about/products/web_app/community-tier/ideas 💡/👑 Queen management-408": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-community-tier-ideas-💡-👑-queen-management-1-d-7-545"
-  },
   "/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry-ebe": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-community-tier-ideas-💡-📍-show-close-by-beekeepers-from-government-registry-5-d-5-6de"
@@ -1268,10 +1272,6 @@
   "/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource-2fc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-essential-tier-ideas-💡-☀️-solar-radiance-as-weather-datasource-569-8c8"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning-d3f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-essential-tier-ideas-💡-♻️-qr-code-printing-scanning-58-d-805"
   },
   "/about/products/web_app/essential-tier/ideas 💡/🌻 Flower blooming map-501": {
     "__comp": "__comp---theme-doc-item-178-a40",

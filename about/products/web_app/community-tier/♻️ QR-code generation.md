@@ -7,3 +7,7 @@
 - add ability to inject hive name/number into a qr code
 
 An extension of this could be [Share of beehive inspection public URL](https://www.notion.so/Share-of-beehive-inspection-public-URL-477d096f683542f4a182e53ff5f23780?pvs=21), then URL could point to public view of the hive.
+
+
+
+![](img/Screenshot%202025-04-21%20at%2004.15.46.png)

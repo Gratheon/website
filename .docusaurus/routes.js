@@ -234,15 +234,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'fca'),
+    component: ComponentCreator('/about', '54d'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'd13'),
+        component: ComponentCreator('/about', '18c'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'f26'),
+            component: ComponentCreator('/about', '3a6'),
             routes: [
               {
                 path: '/about/',
@@ -1103,6 +1103,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/community-tier/♻️ QR-code generation',
+                component: ComponentCreator('/about/products/web_app/community-tier/♻️ QR-code generation', 'd73'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/community-tier/🌍 Localization',
                 component: ComponentCreator('/about/products/web_app/community-tier/🌍 Localization', 'c96'),
                 exact: true,
@@ -1121,6 +1127,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/community-tier/🐝 Frame side queen cup detection',
+                component: ComponentCreator('/about/products/web_app/community-tier/🐝 Frame side queen cup detection', 'd45'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management',
                 component: ComponentCreator('/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management', 'c2e'),
                 exact: true,
@@ -1129,6 +1141,18 @@ export default [
               {
                 path: '/about/products/web_app/community-tier/🐝 Worker bee detection',
                 component: ComponentCreator('/about/products/web_app/community-tier/🐝 Worker bee detection', '73c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/👑 Queen detection',
+                component: ComponentCreator('/about/products/web_app/community-tier/👑 Queen detection', '70d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/👑 Queen management',
+                component: ComponentCreator('/about/products/web_app/community-tier/👑 Queen management', '039'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1217,24 +1241,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection', '742'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/ideas 💡/👑 Queen detection',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/👑 Queen detection', '19c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/ideas 💡/👑 Queen management',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/👑 Queen management', '408'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry',
                 component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry', 'ebe'),
                 exact: true,
@@ -1297,12 +1303,6 @@ export default [
               {
                 path: '/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource',
                 component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource', '2fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning',
-                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning', 'd3f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

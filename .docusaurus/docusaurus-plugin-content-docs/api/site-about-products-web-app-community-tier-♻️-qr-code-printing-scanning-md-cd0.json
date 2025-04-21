@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/community-tier/♻️ QR-code printing & scanning",
+  "title": "♻️ QR-code printing & scanning",
+  "description": "- This may be useful for Industrial beekeepers with 100 hives that don’t use numeric system or don’t want to search for it in the app.",
+  "source": "@site/about/products/web_app/community-tier/♻️ QR-code printing & scanning.md",
+  "sourceDirName": "products/web_app/community-tier",
+  "slug": "/products/web_app/community-tier/♻️ QR-code printing & scanning",
+  "permalink": "/about/products/web_app/community-tier/♻️ QR-code printing & scanning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ Public beehive view",
+    "permalink": "/about/products/web_app/community-tier/♻️ Public beehive view"
+  },
+  "next": {
+    "title": "🌍 Localization",
+    "permalink": "/about/products/web_app/community-tier/🌍 Localization"
+  }
+}

@@ -1025,6 +1025,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/community-tier/♻️ QR-code generation",
+              "path": "/about/products/web_app/community-tier/♻️ QR-code generation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/community-tier/🌍 Localization",
               "path": "/about/products/web_app/community-tier/🌍 Localization",
               "sidebar": "tutorialSidebar"
@@ -1040,6 +1045,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/community-tier/🐝 Frame side queen cup detection",
+              "path": "/about/products/web_app/community-tier/🐝 Frame side queen cup detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/community-tier/🐝 Honeycomb cell detection & management",
               "path": "/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management",
               "sidebar": "tutorialSidebar"
@@ -1047,6 +1057,16 @@
             {
               "id": "products/web_app/community-tier/🐝 Worker bee detection",
               "path": "/about/products/web_app/community-tier/🐝 Worker bee detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/community-tier/👑 Queen detection",
+              "path": "/about/products/web_app/community-tier/👑 Queen detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/community-tier/👑 Queen management",
+              "path": "/about/products/web_app/community-tier/👑 Queen management",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1120,21 +1140,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection",
-              "path": "/about/products/web_app/community-tier/ideas 💡/🐝 Frame side queen cup detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/ideas 💡/👑 Queen detection",
-              "path": "/about/products/web_app/community-tier/ideas 💡/👑 Queen detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/ideas 💡/👑 Queen management",
-              "path": "/about/products/web_app/community-tier/ideas 💡/👑 Queen management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry",
               "path": "/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry",
               "sidebar": "tutorialSidebar"
@@ -1187,11 +1192,6 @@
             {
               "id": "products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource",
               "path": "/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning",
-              "path": "/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning",
               "sidebar": "tutorialSidebar"
             },
             {
