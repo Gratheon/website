@@ -276,15 +276,14 @@ function HomepageHeader() {
           <div className={styles.feature}>
             <h3>Share</h3>
             <p>
-              Stream your beehive entrance from unused phone, raspberry-pi or our
-              device. Play back past videos under correct beehive to see what
-              happened. Useful to detect hornet attacks, robbing, queen mating
-              flights.
+              Spread the joy or ask for help. Share your beehive inspection with 
+              beekeeping community. Get help from experts to identify problems
+              and get advice. 
             </p>
 
             <img
               alt="beehive frame with detected cell types"
-              src="img/share.webp"
+              src="img/sharing.webp"
             />
           </div>
 
