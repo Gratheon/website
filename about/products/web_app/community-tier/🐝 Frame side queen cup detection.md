@@ -9,4 +9,4 @@ The problem is that in beekeeping, there are different types of queen cups. We n
 Create and train either two different models, or, better - one model with two classes.
 
 
-![](../../../../img/queen-cup.png)
+![](img/queen-cup.png)
