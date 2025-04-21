@@ -234,15 +234,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'e4d'),
+    component: ComponentCreator('/about', 'fca'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'c10'),
+        component: ComponentCreator('/about', 'd13'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e00'),
+            component: ComponentCreator('/about', 'f26'),
             routes: [
               {
                 path: '/about/',
@@ -1097,6 +1097,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/community-tier/♻️ Public beehive view',
+                component: ComponentCreator('/about/products/web_app/community-tier/♻️ Public beehive view', '375'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/community-tier/🌍 Localization',
                 component: ComponentCreator('/about/products/web_app/community-tier/🌍 Localization', 'c96'),
                 exact: true,
@@ -1199,12 +1205,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/ideas 💡/♻️ Public beehive view',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/♻️ Public beehive view', '9aa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI',
                 component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI', 'd2b'),
                 exact: true,
@@ -1303,12 +1303,6 @@ export default [
               {
                 path: '/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning',
                 component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning', 'd3f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL',
-                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL', 'd5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

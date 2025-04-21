@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/community-tier/♻️ Public beehive view",
+  "title": "♻️ Public beehive view",
+  "description": "For Growth loops and marketing, we need users to be able to share their beehive view with others",
+  "source": "@site/about/products/web_app/community-tier/♻️ Public beehive view.md",
+  "sourceDirName": "products/web_app/community-tier",
+  "slug": "/products/web_app/community-tier/♻️ Public beehive view",
+  "permalink": "/about/products/web_app/community-tier/♻️ Public beehive view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍🚀 User password change",
+    "permalink": "/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User password change"
+  },
+  "next": {
+    "title": "🌍 Localization",
+    "permalink": "/about/products/web_app/community-tier/🌍 Localization"
+  }
+}

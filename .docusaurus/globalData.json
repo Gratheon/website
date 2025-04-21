@@ -1020,6 +1020,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/community-tier/♻️ Public beehive view",
+              "path": "/about/products/web_app/community-tier/♻️ Public beehive view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/community-tier/🌍 Localization",
               "path": "/about/products/web_app/community-tier/🌍 Localization",
               "sidebar": "tutorialSidebar"
@@ -1105,11 +1110,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/ideas 💡/♻️ Public beehive view",
-              "path": "/about/products/web_app/community-tier/ideas 💡/♻️ Public beehive view",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
               "path": "/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
               "sidebar": "tutorialSidebar"
@@ -1192,11 +1192,6 @@
             {
               "id": "products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning",
               "path": "/about/products/web_app/essential-tier/ideas 💡/♻️ QR-code printing & scanning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL",
-              "path": "/about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL",
               "sidebar": "tutorialSidebar"
             },
             {
