@@ -100,7 +100,7 @@ function HomepageHeader() {
       })
       .catch(err => {
         console.error("Failed to fetch release info:", err);
-        if (!localStorage.getItem(LS_KEYS.macArm) && !localStorage.getItem(LS_KEYS.macIntel) && !localStorage.getItem(LS_KEYS.windows) && !localStorage.getItem(LS_KEYS.linux)) {
+        if (!localStorage.getItem(LS_KEYS.macArm) && !localStorage.getItem(LS_KEYS.windows) && !localStorage.getItem(LS_KEYS.linux)) {
             const fallbackUrl = 'https://github.com/Gratheon/web-app/releases/latest';
             console.log("API fetch failed and no cache found. Setting fallback URLs.");
             setMacArmUrl(fallbackUrl);
@@ -226,7 +226,7 @@ function HomepageHeader() {
             <h3>Measure mite infestation</h3>
             <p>
               Detect and count varroa mites infesting your bees without the need
-              of killing bees with alcohol washing test
+              for killing bees with alcohol washing test
             </p>
 
             <img src="./img/varroa.webp" />
@@ -422,7 +422,6 @@ function HomepageHeader() {
               By <a href="https://www.linkedin.com/in/kurapov/">Artjom Kurapov</a>,<br />Beekeeper, Founding engineer
             </div>
           </div>
-
           <p>
             I am a software engineer and 5 years ago I became a beekeeper to
             improve pollination of my garden and get higher yields. To me, bees
@@ -434,63 +433,56 @@ function HomepageHeader() {
           </p>
           <p>
             Traditional beekeeping requires observability of a bee colony, because
-            bees can experience starvation , loss of a queen, late swarming or get
+            bees can experience starvation, queen loss, late swarming, or get{' '}
             <i>Varroa destructor</i> mite infestation which weakens the colony and
             causes overwintering collapse.
           </p>
-
           <p>
             Observability is typically solved with a hard physical labor and
             frequent and time-limited inspections. Dressed in a protective suit,
-            in the summer heat, you need to lift 20 kg beehive sections, that were
+            in the summer heat, you need to lift 20 kg beehive sections, which were
             designed 150 years ago and notice small details while you are getting
             stung by defending bees, causing inspection stress and killing bees.
           </p>
-
           <p>
             As your apiary grows, this work becomes unscalable. Industrial
             beekeepers have multiple apiaries at distant locations that are hard
             to reach. Existing solutions do not adequately solve these issues
           </p>
-
           <p>
             💡 Our goal is to help beekeepers with observability and automation.
             Our vision is a fully autonomous multi-hive Robotic Apiary that can
             remotely inspect colonies. We will reach this step by step, starting
             with a software.
           </p>
-
           <p>
             By providing actionable metrics and automation, beekeepers become more
-            efficient, spend less time in the field and analyse more, doing
+            efficient, spend less time in the field and analyze more, doing
             precise intervention only when needed.
           </p>
-
           <div id={styles.future}>
             <div>
               <p>
                 Gratheon app is built on the shoulders of open-source software and
-                is fully
+                is fully{' '}
                 <a href="https://github.com/gratheon">open source</a> too.
               </p>
-
               <p>
                 Join us to improve life of 100 million bee colonies worldwide and
-                meet pollination demand for more. We're looking for
-                <strong>investors</strong> to scale our development,
+                meet pollination demand for more. We're looking for{' '}
+                <strong>investors</strong> to scale our development,{' '}
                 <a
                   href="https://www.notion.so/gratheon/Open-roles-positions-e50bd8e561c74102ab8e2b96276809c7?pvs=4"
-                  >engineers</a>
-                to join
+                  >engineers</a>{' '}
+                to join{' '}
                 <a
                   href="https://www.notion.so/gratheon/Team-5ff38d33b8a2448ca02ffc26aed09278?pvs=4"
-                  >our team</a>,
+                  >our team</a>,{' '}
                 <a
                   href="https://www.notion.so/gratheon/Advisors-6b51c9883cd94fe8a70a4ae548d1970a?pvs=4"
-                  >beekeepers</a>
+                  >beekeepers</a>{' '}
                 to run field testing and advisors to guide us.
               </p>
-
               <p>Got some ideas?</p>
 
               <a className={[styles.action, styles.action_green].join(' ')} href="https://discord.gg/PcbP4uedWj">Tell us in Discord</a> <a
