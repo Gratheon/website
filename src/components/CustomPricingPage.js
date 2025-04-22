@@ -17,13 +17,14 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Community</div>
             <div className="pricing-card-price">Free</div>
-            <div className="pricing-card-description">Perfect for hobbyists and small-scale beekeepers</div>
+            <div className="pricing-card-description">Perfect for hobbyists</div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
               <li>Basic apiary management</li>
               <li>Up to 3 hives</li>
               <li>10 frames per hive max</li>
+              <li>Public apiary data</li>
               <li>1 year image retention</li>
               <li>Low-priority AI detections</li>
             </ul>

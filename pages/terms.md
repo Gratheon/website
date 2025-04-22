@@ -142,7 +142,7 @@ As a user of the Site, you agree not to:
 
 The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality. It may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site. This includes but is not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions").
 
-Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary.
+Contributions may be viewable by other users of the Site and through third-party websites. **Specifically, for users on our [Community pricing plan](/pricing), Contributions related to apiary data, including beehive count, general beehive details, and apiary location (latitude and longitude), are considered public information and may be displayed or used accordingly.** For all users, any Contributions you transmit may be treated as non-confidential and non-proprietary unless otherwise specified by your subscription plan agreement.
 
 When you create or make available any Contributions, you thereby represent and warrant that:
 
