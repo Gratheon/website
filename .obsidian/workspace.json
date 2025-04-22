@@ -11,10 +11,14 @@
             "id": "595cd6d9e5b90f78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Towards Varroa destructor mite detection using a narrow spectra illumination"
             }
           }
         ]
@@ -164,6 +168,8 @@
   },
   "active": "595cd6d9e5b90f78",
   "lastOpenFiles": [
+    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
+    "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
     "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md",
     "about/products/web_app/community-tier/img/queen-cup.png",
     "about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload.md",
@@ -189,8 +195,6 @@
     "about/products/web_app/community-tier/♻️ Public beehive view.md",
     "research/index.md",
     "static/img/sharing.webp",
-    "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
-    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "research/img/2504.06099v1.pdf",
     "research/Accuracy vs. Energy.md",
     "research/Competition/img/Screenshot 2025-03-28 at 21.49.57.png",
