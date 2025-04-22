@@ -100,6 +100,7 @@ export default function CustomPricingPage() {
           <tr><td>1 inspection (beehive snapshot)</td><td>3 tokens</td></tr>
           <tr><td>1 inspection share link</td><td>5 tokens</td></tr>
           <tr><td>100 API requests (sensors API)</td><td>1 token</td></tr>
+          <tr><td>6 video API requests (1 min)</td><td>1 token</td></tr>
         </tbody>
       </table>
       </div> {/* Close centering div */}
