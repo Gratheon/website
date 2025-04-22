@@ -21,13 +21,11 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
-              <li>Basic colony management</li>
-              <li>Manual inspection tracking</li>
-              <li>Basic analytics dashboard</li>
-              <li>Up to 5 hives</li>
-              <li>20 frames per hive max</li>
-              <li>20 images per day max</li>
+              <li>Basic apiary management</li>
+              <li>Up to 3 hives</li>
+              <li>10 frames per hive max</li>
               <li>1 year image retention</li>
+              <li>Low-priority AI detections</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
@@ -37,16 +35,17 @@ export default function CustomPricingPage() {
 
         <div className="pricing-card featured">
           <div className="pricing-card-header">
-            <div className="pricing-card-title">Essential</div>
-            <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}>/month</span></div>
-            <div className="pricing-card-description">2 weeks free trial <br /> Annual billing</div>
+            <div className="pricing-card-title">Simple</div>
+            <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}> / month</span></div>
+            <div className="pricing-card-description">
+              Flat price with limits
+            </div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
               <li>AI-assisted frame analysis</li>
-              <li>Colony development tracking</li>
-              <li>Treatment planning & alerts</li>
-              <li>Sensor data integration</li>
+              <li>Inspections (up to 10 per hive)</li>
+              <li>Treatments</li>
               <li>1 user max</li>
               <li>Up to 20 hives</li>
               <li>40 frames per hive</li>
@@ -60,20 +59,17 @@ export default function CustomPricingPage() {
 
         <div className="pricing-card">
           <div className="pricing-card-header">
-            <div className="pricing-card-title">Professional</div>
-            <div className="pricing-card-price">Custom</div>
-            <div className="pricing-card-description">€10 per user/month + €5 per beehive/month</div>
+            <div className="pricing-card-title">Flexible</div>
+            <div className="pricing-card-price">€50 <span style={{ fontSize: "1rem" }}>/ 500 tokens</span></div>
+            <div className="pricing-card-description">No limits, pay per use</div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
-              <li>Multi-user collaboration</li>
-              <li>Advanced analytics & reporting</li>
+              {/* <li>Multi-user collaboration</li>*/}
+              <li>Timeseries data management & analytics</li>
               <li>API access for custom integrations</li>
               <li>Priority support & training</li>
-              <li>Up to 50 users</li>
-              <li>Up to 10,000 hives</li>
-              <li>60 frames per hive max</li>
-              <li>7 days video retention</li>
+              <li>Video storage & processing</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
@@ -81,6 +77,32 @@ export default function CustomPricingPage() {
           </div>
         </div>
       </div>
+
+      <h3>Flexible tier token pricing</h3>
+      <p>
+        In order to not limit you in any way, we have introduced a token-based pricing model. 
+        You can buy tokens as a package and use them for any of the following actions.
+        This allows you to pay only for what you need, without being locked into a subscription plan.
+        This also allows us to efficiently manage our resources and provide you with the best possible service.
+      </p>
+      <div style={{ textAlign: 'center' }}> {/* Added centering div */}
+        <table className="token-pricing-table">
+          <thead>
+            <tr>
+            <th>Action</th>
+            <th>Token Cost</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>1 beehive creation</td><td>3 token</td></tr>
+          <tr><td>10 empty frames creation</td><td>2 tokens</td></tr>
+          <tr><td>1 frame file upload & analysis</td><td>5 tokens</td></tr>
+          <tr><td>1 inspection (beehive snapshot)</td><td>3 tokens</td></tr>
+          <tr><td>1 inspection share link</td><td>5 tokens</td></tr>
+          <tr><td>100 API requests (sensors API)</td><td>1 token</td></tr>
+        </tbody>
+      </table>
+      </div> {/* Close centering div */}
 
       <h2>Hardware Devices</h2>
 
@@ -106,11 +128,11 @@ export default function CustomPricingPage() {
           </div>
           <div className="hardware-device-body">
             <div className="hardware-device-pricing">
-              <div className="hardware-price-item">
+              {/* <div className="hardware-price-item">
                 <span className="price-label">App Subscription</span>
                 <span className="price-value">€5 / month</span>
                 <span className="price-description">Timeseries data management & analytics</span>
-              </div>
+              </div> */}
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
                 <span className="price-value">€200</span>
@@ -132,11 +154,11 @@ export default function CustomPricingPage() {
           </div>
           <div className="hardware-device-body">
             <div className="hardware-device-pricing">
-              <div className="hardware-price-item">
+              {/* <div className="hardware-price-item">
                 <span className="price-label">App Subscription</span>
                 <span className="price-value">€20 / month</span>
                 <span className="price-description">Video storage & processing</span>
-              </div>
+              </div> */}
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
                 <span className="price-value">ca. €600</span>
@@ -159,11 +181,11 @@ export default function CustomPricingPage() {
           </div>
           <div className="hardware-device-body">
             <div className="hardware-device-pricing">
-              <div className="hardware-price-item">
+              {/* <div className="hardware-price-item">
                 <span className="price-label">App Subscription</span>
                 <span className="price-value">€50 / month</span>
                 <span className="price-description">Automation & data storage services</span>
-              </div>
+              </div> */}
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
                 <span className="price-value">ca. €3000</span>
@@ -186,11 +208,11 @@ export default function CustomPricingPage() {
           </div>
           <div className="hardware-device-body">
             <div className="hardware-device-pricing">
-              <div className="hardware-price-item">
+              {/* <div className="hardware-price-item">
                 <span className="price-label">Device Subscription</span>
                 <span className="price-value">€200 / month</span>
                 <span className="price-description">Multi-hive management & analytics services</span>
-              </div>
+              </div> */}
               <div className="hardware-price-item">
                 <span className="price-label">Device Purchase</span>
                 <span className="price-value">ca. €8000</span>

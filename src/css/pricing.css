@@ -145,6 +145,60 @@
   background-color: var(--ifm-color-emphasis-100);
 }
 
+/* Token pricing table styles */
+.token-pricing-table {
+  display: inline-block; /* Allow parent text-align to center */
+  /* width: 100%; Removed width */
+  /* table-layout: fixed; Removed fixed layout */
+  /* max-width: 700px; Removed max-width */
+  /* margin: 2rem auto; Removed margin auto */
+  margin-top: 2rem; /* Keep vertical margin */
+  margin-bottom: 2rem; /* Keep vertical margin */
+  border-collapse: separate;
+  border-spacing: 0; /* Add border spacing back */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.token-pricing-table th {
+  background-color: var(--ifm-table-head-background);
+  color: var(--ifm-table-head-color);
+  padding: 1rem;
+  text-align: left;
+}
+
+.token-pricing-table th:first-child {
+  /* width: 65%; Removed width */
+  border-top-left-radius: 8px;
+}
+
+.token-pricing-table th:last-child {
+  /* width: 35%; Removed width */
+  /* padding-right: 0; Restore default padding */
+  border-top-right-radius: 8px;
+}
+
+.token-pricing-table td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--ifm-table-border-color);
+  text-align: left; /* Revert to default left alignment */
+}
+
+/* Removed specific td alignment rules */
+/* .token-pricing-table td:last-child { */
+  /* padding-right: 0; Restore default padding */
+/* } */
+
+.token-pricing-table tr:last-child td {
+  border-bottom: none;
+}
+
+.token-pricing-table tr:nth-child(even) {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+
 /* Ideation stage product styling */
 .ideation-stage {
   opacity: 0.5;

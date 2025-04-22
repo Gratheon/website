@@ -6,9 +6,9 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary: rgb(47, 139, 11); /* Updated to match provided green */
+  --ifm-color-primary-dark: #29784c; /* TODO: Adjust shades if needed */
+  --ifm-color-primary-darker: #277148; /* TODO: Adjust shades if needed */
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
@@ -25,9 +25,9 @@
   --ifm-footer-padding-vertical: 0;
   --ifm-h1-font-size: 2rem;
 
-  --ifm-table-head-background: #00a400;
+  --ifm-table-head-background: rgb(47, 139, 11); /* Updated to match primary green */
   --ifm-table-border-color: #0000001a;
-  --ifm-table-head-color: white;
+  --ifm-table-head-color: white; /* Keep white text for contrast */
 }
 
 .markdown h1:first-child {
