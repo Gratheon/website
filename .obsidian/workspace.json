@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61959a8f4392a7d4",
+        "id": "15f7e6ceee6e3c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "595cd6d9e5b90f78",
+            "id": "7f1ea40efe802e44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Towards Varroa destructor mite detection using a narrow spectra illumination"
+              "title": "New tab"
             }
           }
         ]
@@ -166,10 +162,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "595cd6d9e5b90f78",
+  "active": "7f1ea40efe802e44",
   "lastOpenFiles": [
-    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
+    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md",
     "about/products/web_app/community-tier/img/queen-cup.png",
     "about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload.md",
