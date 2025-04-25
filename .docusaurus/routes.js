@@ -234,15 +234,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '54d'),
+    component: ComponentCreator('/about', '480'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '18c'),
+        component: ComponentCreator('/about', 'fc2'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '3a6'),
+            component: ComponentCreator('/about', '67f'),
             routes: [
               {
                 path: '/about/',
@@ -385,6 +385,12 @@ export default [
               {
                 path: '/about/🌨️ Problems/💪🏻 Unscalable work',
                 component: ComponentCreator('/about/🌨️ Problems/💪🏻 Unscalable work', '47d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/📈 Long-term queen breeding tracking',
+                component: ComponentCreator('/about/🌨️ Problems/📈 Long-term queen breeding tracking', '5e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

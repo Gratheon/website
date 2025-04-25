@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/about/🌨️ Problems/Untitled.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/Untitled",
+  "permalink": "/about/🌨️ Problems/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💪🏻 Physical labor",
+    "permalink": "/about/🌨️ Problems/💪🏻 Physical labor"
+  },
+  "next": {
+    "title": "🌲 Distant locations",
+    "permalink": "/about/🌨️ Problems/🌲 Distant locations"
+  }
+}
