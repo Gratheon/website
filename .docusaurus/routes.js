@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '4af'),
+    component: ComponentCreator('/blog', 'a6e'),
     exact: true
   },
   {
@@ -208,13 +208,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2025/04/25/ 💶  Attending EIC Accelerator and Ready2Scale webinar',
+    component: ComponentCreator('/blog/2025/04/25/ 💶  Attending EIC Accelerator and Ready2Scale webinar', '2d3'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '3cf'),
+    component: ComponentCreator('/blog/page/2', 'cb5'),
     exact: true
   },
   {

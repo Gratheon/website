@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/blog-4af": {
+  "/blog-a6e": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-4-f-7-4cb"
+      },
       {
         "content": "content---blog-0-ee-571"
       },
@@ -105,9 +108,6 @@
       },
       {
         "content": "content---blog-1-f-7-28d"
-      },
-      {
-        "content": "content---blog-755-1ae"
       }
     ],
     "__props": "__props---blogc-15-573"
@@ -475,6 +475,17 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2025-03-19-💶-tehnopol-ai-accelerator-pitch-9-cb-eff"
   },
+  "/blog/2025/04/25/ 💶  Attending EIC Accelerator and Ready2Scale webinar-2d3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-04-25-💶-attending-eic-accelerator-and-ready-2-scale-webinar-942-5d4"
+  },
   "/blog/archive-182": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
@@ -482,13 +493,16 @@
     },
     "__props": "__props---blog-archivef-81-229"
   },
-  "/blog/page/2-3cf": {
+  "/blog/page/2-cb5": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-369-22e"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-755-1ae"
+      },
       {
         "content": "content---blog-page-22-a-4-3bc"
       },
