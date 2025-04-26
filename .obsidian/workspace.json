@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "47c3393f84c0c289",
+        "id": "77f7509466c1ae94",
         "type": "tabs",
         "children": [
           {
-            "id": "8de9a25c7d37fe51",
+            "id": "981ef5d1034e9041",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar"
-            }
-          },
-          {
-            "id": "e64fdbcb9044a6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/🌻 Purpose/Ethics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ethics"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,26 +158,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e64fdbcb9044a6b8",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "blog/img/Screenshot 2025-04-25 at 11.08.11.png",
+    "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
     "about/🌻 Purpose/Company mission.md",
+    "about/🌻 Purpose/Ethics.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "blog/img/Unlock EIC Accelerator funding - presentation and key success factors.pdf",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
-    "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
-    "img/Screenshot 2025-04-25 at 11.38.51.png",
-    "img/Screenshot 2025-04-25 at 11.31.37.png",
-    "img/Screenshot 2025-04-25 at 11.33.39.png",
-    "img/Screenshot 2025-04-25 at 11.36.38.png",
-    "img/Screenshot 2025-04-25 at 11.37.21.png",
-    "img/Screenshot 2025-04-25 at 11.26.58.png",
-    "img/Screenshot 2025-04-25 at 11.24.32.png",
-    "img/Screenshot 2025-04-25 at 11.21.49.png",
-    "img/Screenshot 2025-04-25 at 11.21.05.png",
-    "img/Screenshot 2025-04-25 at 11.19.06.png",
+    "blog/img/Screenshot 2025-04-25 at 11.38.51.png",
+    "blog/img/Screenshot 2025-04-25 at 11.31.37.png",
+    "blog/img/Screenshot 2025-04-25 at 11.33.39.png",
+    "blog/img/Screenshot 2025-04-25 at 11.36.38.png",
+    "blog/img/Screenshot 2025-04-25 at 11.37.21.png",
+    "blog/img/Screenshot 2025-04-25 at 11.26.58.png",
+    "blog/img/Screenshot 2025-04-25 at 11.24.32.png",
+    "blog/img/Screenshot 2025-04-25 at 11.21.49.png",
+    "blog/img/Screenshot 2025-04-25 at 11.21.05.png",
+    "blog/img/Screenshot 2025-04-25 at 11.19.06.png",
     "img",
     "about/volunteer.md",
     "about/🌨️ Problems/📈 Long-term queen breeding tracking.md",
@@ -218,8 +202,6 @@
     "about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User email verification and change.md",
     "about/products/web_app/community-tier/ideas 💡/🖮 keyboard shortcuts support.md",
     "about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry.md",
-    "about/products/web_app/community-tier/♻️ QR-code generation.md",
-    "about/products/web_app/community-tier/🐝 Worker bee detection.md",
     "research/img/2504.06099v1.pdf",
     "blog/img/Suured ettevõtted kasutavad tehisintellekti_est_rus.pdf",
     "build/sitemap.xml",

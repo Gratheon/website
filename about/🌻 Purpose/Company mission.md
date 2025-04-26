@@ -13,7 +13,7 @@ hide_table_of_contents: true
 
 Religions describe how humans should interact with each other and with God to ascend to a divine level. We believe that the path lies in expanding our awareness and love toward all sentient species, and in lowering our macrocosmic focus to the smallest forms of life.
 
-As humanity expands its technological horizons, building new types of spaceships and dreaming of distant planets,  we continue to grapple with wars, climate change, social inequality, population of 10 billion and malnutrition. In these challenging times, we turn our attention to a small insect - the key to plant life reproduction. 
+As humanity expands its technological horizons, building new types of spaceships and dreaming of distant planets,  we continue to grapple with wars, climate change, social inequality, malnutrition, on a path to population of 10 billion. In these challenging times, we turn our attention to a small insect - the key to plant life reproduction. 
 
 Our mission is balancing human progress with the preservation of nature, aiming for sustainable development and the regeneration of Earth's ecosystems. By doing so, we aspire to maximize human happiness, awareness, responsibilities and efficiency. Caring after the bees 🐝 can teach us compassion and love.
 
