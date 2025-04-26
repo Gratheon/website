@@ -1,3 +1,4 @@
+
 ![](img/Screenshot%202025-04-25%20at%2011.08.11.png)
 ![](img/Screenshot%202025-04-25%20at%2011.09.37.png)
 ![](img/Screenshot%202025-04-25%20at%2011.11.42.png)
@@ -22,3 +23,8 @@
 ![](img/Screenshot%202025-04-25%20at%2011.37.21.png)
 
 ![](img/Screenshot%202025-04-25%20at%2011.38.51.png)
+
+
+
+[PDF](img/Unlock%20EIC%20Accelerator%20funding%20-%20presentation%20and%20key%20success%20factors.pdf)
+![](img/Unlock%20EIC%20Accelerator%20funding%20-%20presentation%20and%20key%20success%20factors.pdf)

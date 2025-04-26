@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar"
             }
+          },
+          {
+            "id": "e64fdbcb9044a6b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8de9a25c7d37fe51",
+  "active": "e64fdbcb9044a6b8",
   "lastOpenFiles": [
+    "blog/img/Unlock EIC Accelerator funding - presentation and key success factors.pdf",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
     "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
     "img/Screenshot 2025-04-25 at 11.38.51.png",
@@ -204,7 +218,6 @@
     "about/products/web_app/community-tier/♻️ QR-code generation.md",
     "about/products/web_app/community-tier/🐝 Worker bee detection.md",
     "about/products/web_app/essential-tier/ideas 💡/♻️ Share of beehive inspection public URL.md",
-    "about/products/web_app/community-tier/🖼️ Frame side management.md",
     "research/img/2504.06099v1.pdf",
     "blog/img/Suured ettevõtted kasutavad tehisintellekti_est_rus.pdf",
     "build/sitemap.xml",
