@@ -69,13 +69,6 @@
   min-height: 2.5em;
 }
 
-.pricing-card-features li:before {
-  content: "✓";
-  margin-right: 0.75rem;
-  color: var(--ifm-color-primary);
-  font-weight: bold;
-}
-
 .pricing-card-footer {
   padding: 1.5rem;
   text-align: center;

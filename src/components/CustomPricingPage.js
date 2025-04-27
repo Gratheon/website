@@ -21,12 +21,13 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
-              <li>Basic apiary management</li>
-              <li>Up to 3 hives</li>
-              <li>10 frames per hive max</li>
-              <li>Public apiary data</li>
-              <li>1 year image retention</li>
-              <li>Low-priority AI detections</li>
+              <li>🍏 Basic apiary management</li>
+              <li>🍏 Share links of hive inspections</li>
+              <li>⛄️ 1 year image retention</li>
+              <li>👁️ Apiary data is public</li>
+              <li>🐝 Up to 3 hives</li>
+              <li>🐝 10 frames per hive max</li>
+              <li>🐢 Low-priority AI detections</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
@@ -44,13 +45,13 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
-              <li>AI-assisted frame analysis</li>
-              <li>Inspections (up to 10 per hive)</li>
-              <li>Treatments</li>
-              <li>1 user max</li>
-              <li>Up to 20 hives</li>
-              <li>40 frames per hive</li>
-              <li>2 years image retention</li>
+              <li>🍏 AI-assisted frame analysis</li>
+              <li>🍏 Inspections (up to 10 per hive)</li>
+              <li>🍏 Treatments</li>
+              <li>🐝 1 user max</li>
+              <li>🐝 Up to 20 hives</li>
+              <li>🐝 40 frames per hive</li>
+              <li>⛄️ 2 year image retention</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
@@ -67,10 +68,10 @@ export default function CustomPricingPage() {
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
               {/* <li>Multi-user collaboration</li>*/}
-              <li>Timeseries data management & analytics</li>
-              <li>API access for custom integrations</li>
-              <li>Priority support & training</li>
-              <li>Video storage & processing</li>
+              <li>🍏 Timeseries data management & analytics</li>
+              <li>🍏 API access for custom integrations</li>
+              <li>🍏 Priority support & training</li>
+              <li>🍏 Video storage & processing</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
