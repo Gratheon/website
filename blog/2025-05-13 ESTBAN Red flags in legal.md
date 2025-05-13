@@ -7,7 +7,7 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 - term sheets usually are not binding
 	- teams not understanding what they are signing is dangerous. 
 		- for example liquidation preference with 3x = everything goes to investors
-		- new investors can be more control/agressive 
+		- new investors can be more control/agressive than older ones
 - Due Diligence - don't hide anything. Otherwise later on you can be liable for that
 - Convertibles / SAFEs. Difference. 95% are done on convertible loans in Estonia
 	- Convertible loan = loan. In balance sheet it goes under obligation.
@@ -31,6 +31,24 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 ![](img/Screenshot%202025-05-13%20at%2014.10.05.png)
 
 <!--truncate-->
+
+
+![](img/Screenshot%202025-05-13%20at%2014.39.02.png)
+![](img/Screenshot%202025-05-13%20at%2014.40.49.png)
+- Copyright protects software. In most jurisdiction exists by default, no need of explicit registration.
+	- economic rights
+	- moral rights (Europe included)
+- Trademarks distinguish your work from others. Registered. Specific to territories & goods/services categories.
+- Inventions - can be protected via patents. Specific to territories. Must be globally new. Possible to spoil it by showing in a trade show market. 6 month grace time.
+	- processes
+	- mechanisms
+	- materials
+- Designs - external appearance of produceable goods. UX. Registration/territory based
+- Trade secrets - labeled info as confidential. NDAs in staff agreements.
+
+![](img/Screenshot%202025-05-13%20at%2014.41.29.png)
+
+![](img/Screenshot%202025-05-13%20at%2014.47.16.png)
 ## QA
 - what kind of data in term sheets can be 
 - what kind of red flags
@@ -39,6 +57,8 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 	- pilot projects
 	- IP
 	- equity can be dealt with / fixed
+
+
 
 
 ## About Trinity
