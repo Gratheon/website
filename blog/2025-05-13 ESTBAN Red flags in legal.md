@@ -44,11 +44,24 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 	- mechanisms
 	- materials
 - Designs - external appearance of produceable goods. UX. Registration/territory based
-- Trade secrets - labeled info as confidential. NDAs in staff agreements.
+- Trade secrets - labeled info as confidential. NDAs in staff agreements. Encryption. Enforcing clean desk policies. Must be proveable that it was attempted.
 
 ![](img/Screenshot%202025-05-13%20at%2014.41.29.png)
 
 ![](img/Screenshot%202025-05-13%20at%2014.47.16.png)
+
+![](img/Screenshot%202025-05-13%20at%2014.51.42.png)
+
+## Options
+- long term motivator
+- not regulated in Estonia well
+- usually 3-5 years long, tied to tax benefits
+	- in Estonia if >3y
+	- early excercise = taxed like salary
+	- 
+![](img/Screenshot%202025-05-13%20at%2014.56.08.png) 
+![](img/Screenshot%202025-05-13%20at%2014.53.40.png)
+
 ## QA
 - what kind of data in term sheets can be 
 - what kind of red flags
