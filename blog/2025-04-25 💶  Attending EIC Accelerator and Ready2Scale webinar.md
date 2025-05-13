@@ -1,5 +1,8 @@
 
 ![](img/Screenshot%202025-04-25%20at%2011.08.11.png)
+
+<!--truncate-->
+
 ![](img/Screenshot%202025-04-25%20at%2011.09.37.png)
 ![](img/Screenshot%202025-04-25%20at%2011.11.42.png)
 ![](img/Screenshot%202025-04-25%20at%2011.12.52.png)
