@@ -58,7 +58,6 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 - usually 3-5 years long, tied to tax benefits
 	- in Estonia if >3y
 	- early excercise = taxed like salary
-	- 
 ![](img/Screenshot%202025-05-13%20at%2014.56.08.png) 
 ![](img/Screenshot%202025-05-13%20at%2014.53.40.png)
 
@@ -70,10 +69,7 @@ title: ⚖️ Attended EstBAN Red flags in startup legal aspects webinar
 	- pilot projects
 	- IP
 	- equity can be dealt with / fixed
-
-
-
-
+- options can be complex if employees are remote as taxation is different in other countries
 ## About Trinity
 ![](img/Screenshot%202025-05-13%20at%2014.08.29.png)
 
