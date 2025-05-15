@@ -11,10 +11,14 @@
             "id": "0e5c9ac0048849e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "gscan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "gscan"
             }
           }
         ]
@@ -164,6 +168,7 @@
   },
   "active": "0e5c9ac0048849e4",
   "lastOpenFiles": [
+    "gscan.md",
     "blog/2025-05-13 ESTBAN Red flags in legal.md",
     "blog/img/Screenshot 2025-05-13 at 14.56.08.png",
     "blog/img/Screenshot 2025-05-13 at 14.53.40.png",
