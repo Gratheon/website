@@ -6,11 +6,15 @@
   "description": "PDF",
   "date": "2025-04-25T00:00:00.000Z",
   "tags": [],
-  "readingTime": 0.095,
-  "hasTruncateMarker": false,
+  "readingTime": 0.1,
+  "hasTruncateMarker": true,
   "authors": [],
   "frontMatter": {},
   "unlisted": false,
+  "prevItem": {
+    "title": "⚖️ Attended EstBAN Red flags in startup legal aspects webinar",
+    "permalink": "/blog/2025/05/13/ ESTBAN Red flags in legal"
+  },
   "nextItem": {
     "title": "Tehnopol AI Accelerator Pitch",
     "permalink": "/blog/2025/03/19/ 💶 Tehnopol AI accelerator pitch"
