@@ -10,23 +10,21 @@ Gratheon develops open, modular robotic beehive as a data service for [👨🏻�
 
 
 ## Pitch
-📢 We are building a robotic beehive! 5 years ago I became a beekeeper to improve pollination of my garden and to take care of the super organisms of bees.
+📢 We are building a robotic beehive! 6 years ago I became a beekeeper to improve pollination of my garden and to take care of bees.
 
-Soon I understood that bees can [🧶 Swarm](./🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](./🌨️%20Problems/🦀%20Infestations.md). 
-I had to regularly lift heavy beehives sections to inspect and treat bees.
-Some colonies got weak and died over the winter. 
+Soon I understood that bees can die from hunger, [🧶 Swarm](./🌨️%20Problems/🧶%20Swarming.md) and get [🦀 Varroa Mite Infestations](./🌨️%20Problems/🦀%20Infestations.md). 
+I had to regularly lift heavy beehives sections to inspect and treat bees. Almost every year some of the colonies got weak and died over the winter. 
 Losing a colony is not just 300 euros of monetary loss, its also a personal failure. 
 On average 20% to 40 % of colonies die every year.
 
-Imagine a new type of beehive that inspects the bees automatically.
-This would save time, reduce loss of bees, require less inspections.
+Imagine a new type of beehive system that inspects the bees automatically.
+System that saves time, reduces loss of bees, and requires less inspections.
 [👨🏻‍🚀 semi-professional beekeepers](./products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) could have more beehives and could see colony development over time automatically. 
 [🧑🏻‍🌾 Farmers](products/clients/🧑🏻‍🌾%20Farmers.md) would get more pollination services and have 40% more crop yields.
 
 [Our team](company/Team/index.md) are experienced engineers and researchers from companies like Pipedrive, Clarifai, Fits.me, Taltech and we are raising 1M pre-seed investments for 2 years of runway. Angels and [volunteers](volunteer.md) are also welcome.
 
-We are raising 40 thousands euros in pre-seed angel investments to bootstrap our product.
-Join us to help 2 million beekeepers and their cute & fuzzy bees.
+We are raising 40 thousands euros in pre-seed angel investments to bootstrap our product. Join us to help 2 million beekeepers and their cute & fuzzy bees.
 
 
 ### For the investors 💶
