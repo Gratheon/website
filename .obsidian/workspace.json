@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌨️ Problems/🚛 Transport stress and risk.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚛 Transport stress and risk"
+              "title": "index"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "0e5c9ac0048849e4",
   "lastOpenFiles": [
-    "about/🌨️ Problems/🌲 Distant locations.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
+    "about/🌨️ Problems/🌲 Distant locations.md",
     "blog/2025-05-13 ESTBAN Red flags in legal.md",
     "blog/img/2025 05 13 - Startup Legal Matters (by TRINITI).pdf",
     "blog/2025-05-15 🔬 gscan.md",

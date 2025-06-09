@@ -25,6 +25,7 @@ This would save time, reduce loss of bees, require less inspections.
 
 [Our team](company/Team/index.md) are experienced engineers and researchers from companies like Pipedrive, Clarifai, Fits.me, Taltech and we are raising 1M pre-seed investments for 2 years of runway. Angels and [volunteers](volunteer.md) are also welcome.
 
+We are raising 40 thousands euros in pre-seed angel investments to bootstrap our product.
 Join us to help 2 million beekeepers and their cute & fuzzy bees.
 
 
