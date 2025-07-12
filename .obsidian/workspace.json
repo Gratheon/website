@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -166,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e5c9ac0048849e4",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
     "about/🌨️ Problems/🌲 Distant locations.md",
