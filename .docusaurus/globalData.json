@@ -475,6 +475,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "🌨️ Problems/🚛 Transport stress and risk",
+              "path": "/about/🌨️ Problems/🚛 Transport stress and risk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "🌻 Purpose/🌻 Purpose",
               "path": "/about/🌻 Purpose/",
               "sidebar": "tutorialSidebar"
@@ -1791,15 +1796,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

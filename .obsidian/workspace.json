@@ -11,10 +11,14 @@
             "id": "85a6cc4a7d602c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 256.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -162,8 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "85a6cc4a7d602c91",
   "lastOpenFiles": [
+    "about/🌨️ Problems/🧶 Swarming.md",
+    "about/index.md",
+    "about/img/office.webp",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
     "about/🌨️ Problems/🌲 Distant locations.md",
     "blog/2025-05-13 ESTBAN Red flags in legal.md",
@@ -178,7 +185,6 @@
     "blog/img/gscan/Screenshot 2025-05-15 at 11.23.49.png",
     "blog/img/gscan/Screenshot 2025-05-15 at 11.22.30.png",
     "blog/img/gscan/Screenshot 2025-05-15 at 11.21.31.png",
-    "blog/img/gscan/Screenshot 2025-05-15 at 11.20.35.png",
     "blog/img/gscan",
     "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
     "README.md",
@@ -201,8 +207,6 @@
     "about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing.md",
     "about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI.md",
     "about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter.md",
-    "about/products/web_app/community-tier/👑 Queen detection.md",
-    "about/products/web_app/community-tier/👑 Queen management.md",
     "research/img/2504.06099v1.pdf",
     "blog/img/Suured ettevõtted kasutavad tehisintellekti_est_rus.pdf",
     "build/sitemap.xml",

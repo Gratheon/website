@@ -1,0 +1,23 @@
+{
+  "id": "🌨️ Problems/🚛 Transport stress and risk",
+  "title": "🚛 Transport stress and risk",
+  "description": "",
+  "source": "@site/about/🌨️ Problems/🚛 Transport stress and risk.md",
+  "sourceDirName": "🌨️ Problems",
+  "slug": "/🌨️ Problems/🚛 Transport stress and risk",
+  "permalink": "/about/🌨️ Problems/🚛 Transport stress and risk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗃️ Ugly beehives",
+    "permalink": "/about/🌨️ Problems/🗃️ Ugly beehives"
+  },
+  "next": {
+    "title": "🤢 Pesticide poisoning",
+    "permalink": "/about/🌨️ Problems/🤢 Pesticide poisoning"
+  }
+}

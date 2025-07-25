@@ -2,12 +2,12 @@
 title: Overview
 sidebar_position: 0
 ---
-<div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
-![](img/about.webp)
-</div></div>
-
 Gratheon develops open, modular robotic beehive as a data service for [👨🏻‍🚀 Semi-professional beekeepers](products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) to save bees 🐝, improve efficiency and scale beekeeping. Globally we increase food security through precise pollination.
 
+
+<div style={{ height:500, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-25%" }}>
+![](img/office.webp)
+</div></div>
 
 ## Elevator pitch
 ### Problem
