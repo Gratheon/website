@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f552d005b6ed6410",
+        "id": "50adc4f57c37cdba",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6cc4a7d602c91",
+            "id": "1bf29a6faf5a04c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85a6cc4a7d602c91",
+  "active": "1bf29a6faf5a04c8",
   "lastOpenFiles": [
+    "research/index.md",
+    "about/index.md",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
@@ -177,7 +175,6 @@
     "public/research/Competition/🇦🇺 Purple Hive/index.html",
     "public/research/Competition/🇦🇺 Beemate/index.html",
     "public/research/Competition/vitzaoral beehive_weight/index.html",
-    "public/research/Competition/io-bee/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -189,7 +186,6 @@
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
     "about/🌨️ Problems/🧶 Swarming.md",
-    "about/index.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
     "about/🌨️ Problems/🌲 Distant locations.md",
     "blog/2025-05-13 ESTBAN Red flags in legal.md",
