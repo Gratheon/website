@@ -1,6 +1,6 @@
 {
   "id": "volunteer",
-  "title": "❤️‍🔥 Volunteers",
+  "title": "❤️‍🔥 Volunteering",
   "description": "Why to volunteer",
   "source": "@site/about/volunteer.md",
   "sourceDirName": ".",
@@ -13,7 +13,7 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6,
-    "title": "❤️‍🔥 Volunteers"
+    "title": "❤️‍🔥 Volunteering"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/about/company/🤲 Why open source"
   },
   "next": {
-    "title": "Credits 🙏",
+    "title": "🙏 Credits",
     "permalink": "/about/credits"
   }
 }

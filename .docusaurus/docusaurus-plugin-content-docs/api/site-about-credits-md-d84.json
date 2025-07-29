@@ -1,6 +1,6 @@
 {
   "id": "credits",
-  "title": "Credits 🙏",
+  "title": "🙏 Credits",
   "description": "Here we list all volunteers that have helped us. Consider this as a hall of fame",
   "source": "@site/about/credits.md",
   "sourceDirName": ".",
@@ -13,11 +13,11 @@
   "sidebarPosition": 7,
   "frontMatter": {
     "sidebar_position": 7,
-    "title": "Credits 🙏"
+    "title": "🙏 Credits"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "❤️‍🔥 Volunteers",
+    "title": "❤️‍🔥 Volunteering",
     "permalink": "/about/volunteer"
   },
   "next": {
