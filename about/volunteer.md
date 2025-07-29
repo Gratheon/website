@@ -14,9 +14,9 @@ Volunteering means you work for free, because you’re **motivated** by other th
   (ex. you are a student and you want to show contribution with CAD model or typescript code)
 - Learning something new in the area that you are not yet familiar with 
   (ex. IoT if you are a web developer)
-- Having more freedom of trying oneself in different **role**, compared to an established enterprise where entry barrier is so high
+- Having more freedom of trying oneself in different **role** 🎩, compared to an established enterprise where entry barrier is so high
   (ex. Trying to be an engineer if you are a PM)
-- Teaching others if you are experienced in one area 
+- **Teaching** 🎓 others if you are experienced in one area 
   (ex. as Robotics engineer streaming lessons on twitch & youtube)
 
 ## How
@@ -72,33 +72,9 @@ If Discord is not enough, we also try to have weekly meetings over google meet. 
 
 ### Acknowledgement
 
-If you are a contributor, we try to highlight this (in a list below)
+If you are a contributor, we try to highlight this in [credits](credits.md)
 - you are also seen in github repository if you are a contributor
 - in discord you will get a 🟡 yellow name if you _contributed_ some code to common namespace
 - on request, we can also add acknowledgement to linkedin
 
 If you stick around for a long while and do the hard work today, you get a promise to get compensated in the future based on [equity plan](company/🍰%20Equity%20and%20fundraising%20plan.md) if we succeed, as it is in company interest to keep the talent
-
-## Contributors
-
-| title                                                                       | description                                                                                                                                                                          |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Artjom Shestajev](https://www.linkedin.com/in/artjom-shestajev/)           | product development ideas                                                                                                                                                            |
-| [Alonso Solis](https://www.linkedin.com/in/alonso-solis-a5b88020a/)         | participated in andmetorm hackathon, worked on UI design and FE components                                                                                                           |
-| Adrian Ala                                                                  | participated in andmetorm hackathon, worked on UX flow and pitching                                                                                                                  |
-| [Roop Runjan Khan](https://www.linkedin.com/in/roop-ranjan-khan-234a9014b/) | participated in andmetorm hackathon                                                                                                                                                  |
-| [Arina Turgeneva](https://www.linkedin.com/in/arina-turgeneva-07041a310/)   | Helped with web-app testing                                                                                                                                                          |
-| [Kurban Ramazanov](https://www.linkedin.com/in/kurban-ramazanov-2b50b026b/) | Helped with UI/UX, designing prototypes to imporove web-app experience                                                                                                               |
-| [Maria Lutsiv](https://www.linkedin.com/in/marija-lutsiv-751bb7139/)        | helped with web-app testing                                                                                                                                                          |
-| [Anastassia Tsalko](http://www.linkedin.com/in/anastassia-tsalko-62a9882b0) | helped with web-app testing                                                                                                                                                          |
-| [Andrei Kuzmin](https://www.linkedin.com/in/angpeu/)                        | helped with web-app testing                                                                                                                                                          |
-| [Vladislav Tjagunovitš](https://www.linkedin.com/in/vladislav-tjagunovits/) | helped with web-app testing                                                                                                                                                          |
-| [Ahmed Daoudi](https://www.linkedin.com/in/ahmed-daoudi-aa693a230/)         | Helped with telemetry-api, building initial service version in express/nodejs                                                                                                        |
-| [Muhammad Zain Shakeel](https://www.linkedin.com/in/zains96/)               | Helped with 3D model of the robotic beehive                                                                                                                                          |
-| [Natalia Kinash](https://www.linkedin.com/in/nataliia-kinash/)              | Participated in the hackathon where she helped Reinis Indans with satellite imagery processing                                                                                       |
-| [Reinis Indans](https://www.linkedin.com/in/reinis-indans/)                 | Participated in a hackathon where he did most of the heavy work on data collection and model training for satellite pollination sub-project - satellite-pollination-map microservice |
-| [Aleksei Boris](https://www.linkedin.com/in/alekseiboris/)                  | Participated in 2 hackathons and helped with pitching                                                                                                                                |
-| [Olena Stoliarova](https://www.linkedin.com/in/olena-stoliarova/)           | participated in a Climathon hackathon, helping with pitching                                                                                                                         |
-
-
-Thank you all!

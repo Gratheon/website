@@ -11,10 +11,14 @@
             "id": "03485b6c06ee2f89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/credits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "credits"
             }
           }
         ]
@@ -158,27 +162,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "03485b6c06ee2f89",
   "lastOpenFiles": [
-    "pages/privacy.md",
-    "pages/terms.md",
-    "about/products/index.md",
-    "about/products/img/Screenshot 2025-07-28 at 15.39.38.png",
-    "about/products/img",
     "about/index.md",
-    "research/index.md",
+    "about/credits.md",
+    "about/volunteer.md",
+    "about/📢 Press kit.md",
     "public/sitemap.xml",
     "public/index.html",
+    "public/research/Competition/BeehiveMonitoringUSA/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
     "public/research/Competition/🇮🇱 Beewise/index.html",
     "public/research/Competition/🇪🇺 RoboRoyale/index.html",
     "public/research/Competition/🇩🇪 ApicAI/index.html",
     "public/research/Competition/🇨🇦 Nectar/index.html",
-    "public/research/Competition/🇦🇺 Purple Hive/index.html",
     "public/research/Competition/🇦🇺 Beemate/index.html",
+    "public/research/Competition/🇦🇺 Purple Hive/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -188,6 +191,11 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
+    "public/img/robot.jpeg",
+    "pages/privacy.md",
+    "pages/terms.md",
+    "about/products/index.md",
+    "research/index.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
     "about/🌨️ Problems/🌲 Distant locations.md",
@@ -199,15 +207,12 @@
     "about/🌻 Purpose/Ethics.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
-    "about/volunteer.md",
     "about/🌨️ Problems/📈 Long-term queen breeding tracking.md",
     "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
     "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md",
     "about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload.md",
     "about/products/web_app/essential-tier/ideas 💡/🐝 Laying workers cell detection.md",
-    "about/products/web_app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood.md",
-    "about/products/web_app/essential-tier/ideas 💡/🐝 Drone brood detection.md",
-    "about/products/web_app/essential-tier/ideas 💡/🌻 Flower blooming map.md"
+    "about/products/web_app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood.md"
   ]
 }

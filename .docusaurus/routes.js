@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'a25'),
+    component: ComponentCreator('/about', '110'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '3db'),
+        component: ComponentCreator('/about', 'e0e'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '48a'),
+            component: ComponentCreator('/about', 'fc0'),
             routes: [
               {
                 path: '/about/',
@@ -695,6 +695,12 @@ export default [
               {
                 path: '/about/company/Team/Roles/UX designer 🔲',
                 component: ComponentCreator('/about/company/Team/Roles/UX designer 🔲', 'dfe'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/credits',
+                component: ComponentCreator('/about/credits', '439'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
