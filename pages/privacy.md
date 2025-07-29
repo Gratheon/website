@@ -137,14 +137,16 @@ More specifically, we may need to process your data or share your personal infor
 
 We only share and disclose your information with the following third parties. We have categorised each party so that you may be easily understand the purpose of our data collection and processing practices. If we have processed your data based on your consent and you wish to revoke your consent, please contact us.
 
-| Category                       | Company and Website                                          | Purpose                                                                 |
-| ------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| Invoice and Billing            | Stripe                                                       | Processing payments for subscriptions and services.                     |
-| Web and Mobile Analytics       | Google Analytics <br />Microsoft Clarity <br />Amplitude     | Understanding user behavior to improve the Sites and Apps.              |
-| Infrastructure Hosting         | Digital Ocean                                                | Hosting the servers and infrastructure required for the Sites and Apps. |
-| Cloud Storage & File Hosting | AWS S3                                                       | Storing user-uploaded files like images and videos securely.            |
-| Website Performance Monitoring | Sentry                                                       | Identifying and diagnosing errors and performance issues.               |
-| Customer Support & Communication | Tawk.to                                                      | Providing real-time chat support to users.                              |
+| Category                                 | Company and Website                                                       | Purpose                                                                 |
+| ---------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Invoice and Billing                      | [Stripe](https://stripe.com/)                                             | Processing payments for subscriptions and services.                     |
+| Web and Mobile Analytics                 | [Google Analytics](https://marketingplatform.google.com/about/analytics/) | Understanding user behavior to improve the Sites and Apps.              |
+| Web and Mobile Analytics                 | [Posthog](https://posthog.com)                                            | Understanding user behavior to improve the Sites and Apps.              |
+| Infrastructure - Hosting                 | [Digital Ocean](https://www.digitalocean.com/)                            | Hosting the servers and infrastructure required for the Sites and Apps. |
+| Infrastructure - Inference               | [Clarifai](https://www.clarifai.com/)                                     | Running AI models to detect objects on images and videos                |
+| Cloud Storage & File Hosting             | [Amazon Web services S3](https://aws.amazon.com/)                         | Storing user-uploaded files like images and videos securely.            |
+| Website Error and Performance Monitoring | [Sentry](https://sentry.io/)                                              | Identifying and diagnosing errors and performance issues.               |
+| Customer Support & Communication         | [Tawk.to](https://www.tawk.to/)                                           | Providing real-time chat support to users.                              |
 
 ### 5. Do We Use Cookies and Other Tracking Technologies?
 
