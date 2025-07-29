@@ -1,7 +1,7 @@
 {
   "id": "credits",
   "title": "Credits 🙏",
-  "description": "Here we list all volunteers that have helped us. Consider this a hall of fame",
+  "description": "Here we list all volunteers that have helped us. Consider this as a hall of fame",
   "source": "@site/about/credits.md",
   "sourceDirName": ".",
   "slug": "/credits",
