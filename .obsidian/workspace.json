@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/web_app/Product and Usage Metrics.md",
+                "file": "docs/API/REST APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product and Usage Metrics"
+              "title": "REST APIs"
             }
           }
         ]
@@ -168,11 +168,14 @@
   },
   "active": "3e25736e2738fef8",
   "lastOpenFiles": [
+    "docs/API/GraphQL API.md",
+    "docs/API/API.md",
+    "docs/API/REST APIs.md",
+    "about/products/web_app/Product and Usage Metrics.md",
     "about/index.md",
     "about/volunteer.md",
     "about/products/index.md",
     "about/company/index.md",
-    "about/products/web_app/Product and Usage Metrics.md",
     "about/products/web_app/img/Screenshot 2025-07-28 at 15.39.38.png",
     "about/products/web_app/img",
     "about/products/web_app/web_app.md",
@@ -210,9 +213,6 @@
     "about/🌻 Purpose/Ethics.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
-    "about/🌨️ Problems/📈 Long-term queen breeding tracking.md",
-    "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
-    "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
-    "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md"
+    "about/🌨️ Problems/📈 Long-term queen breeding tracking.md"
   ]
 }

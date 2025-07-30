@@ -2,12 +2,14 @@
 title: 🔗 API
 sidebar_position: 0
 ---
-Lets setup your devices to interact with Gratheon!
+Lets setup your hive devices to interact with Gratheon!
 
 You can also see how exactly we process this data - check out our architecture, services, code, reasons to choose one solution over another. If you are technical enough and find this useful, feel free to improve these guides in github or even add new ones.
 
-## Quickstart
-To access our API, you will need to generate API token in [user profile](https://app.gratheon.com/account). Tokens allow us to authenticate you and have ratelimiting. You must pass this token in `Authorization` http header and have `Bearer ` as prefix, for example:
+We expose [REST APIs](REST%20APIs.md) for devices and [GraphQL API](GraphQL%20API.md) for software integrations that can handle breaking changes faster.
+
+## Authentication
+To access our API, you will need to generate API token in [user profile](https://app.gratheon.com/account). Tokens allow us to authenticate. You must pass this token in `Authorization` http header and have `Bearer ` as prefix, for example:
 
 ```bash
 curl --location 'https://graphql.gratheon.com/graphql' \
@@ -16,18 +18,13 @@ curl --location 'https://graphql.gratheon.com/graphql' \
 --header 'Authorization: Bearer API_TOKEN_HERE'
 ```
 
-![](./img/Screenshot%202024-12-08%20at%2001.01.08.png)
-
-
-## REST APIs
-
-[IoT sensors](beehive-sensors/beehive-sensors.md) can use this API to send temperature, weight and other timeseries data.
+Same thing with REST API:
 
 ```bash
-curl --location 'https://telemetry.gratheon.com/metric' \
+curl --location 'https://telemetry.gratheon.com/iot/v1/metrics' \
 --header 'Authorization: Bearer API_TOKEN_HERE'
 --data '{
-"hive_id": 123,
-"fields":{ "temperature_celsius":31.25, "weight_kg": 82.34 }
+"hiveId": 123,
+"fields":{ "temperatureCelsius":31.25, "weightKg": 82.34 }
 }'
 ```
