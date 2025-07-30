@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 hide_table_of_contents: true
-title: 🎨 REST APIs
+title: 🗂️ REST APIs
 ---
 For general usage we recommend using our [GraphQL API](GraphQL%20API.md).
 For edge devices, we provide microservice-specific, versioned, separate REST APIs. 
