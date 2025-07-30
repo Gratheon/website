@@ -37,9 +37,8 @@ By our calculation the market opportunity for a single device is over 150M ARR e
 - 💡 [Idea formulated in 2020](https://www.youtube.com/watch?v=gM3AJEAhmXc)
 - 🖮 Coding started in 2022
 - 📢 Pitches in 2023
-- 🌍 Web-app live - 140+ registered user
-- 📱 Android app live 10+ installs
 - 🫀 12+ [volunteering contributors](volunteer.md)
 - 🚀 Bootstrapping, pre-seed phase
 - 🪽 looking for angel investments for IoT field testing
+- 📊 [Product and Usage Metrics](products/web_app/Product%20and%20Usage%20Metrics.md)
 

@@ -11,10 +11,14 @@
             "id": "3e25736e2738fef8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/products/web_app/Product and Usage Metrics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Product and Usage Metrics"
             }
           }
         ]
@@ -164,6 +168,14 @@
   },
   "active": "3e25736e2738fef8",
   "lastOpenFiles": [
+    "about/index.md",
+    "about/volunteer.md",
+    "about/products/index.md",
+    "about/company/index.md",
+    "about/products/web_app/Product and Usage Metrics.md",
+    "about/products/web_app/img/Screenshot 2025-07-28 at 15.39.38.png",
+    "about/products/web_app/img",
+    "about/products/web_app/web_app.md",
     "about/credits.md",
     "public/blog/atom.xml",
     "public/blog/atom.css",
@@ -174,7 +186,6 @@
     "public/sitemap.xml",
     "public/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
-    "public/research/Competition/🇮🇱 Beewise/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -184,13 +195,9 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
-    "about/volunteer.md",
-    "about/index.md",
     "about/📢 Press kit.md",
     "pages/privacy.md",
     "pages/terms.md",
-    "about/products/index.md",
     "research/index.md",
     "about/🌨️ Problems/🧶 Swarming.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
@@ -206,8 +213,6 @@
     "about/🌨️ Problems/📈 Long-term queen breeding tracking.md",
     "research/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
     "research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
-    "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md",
-    "about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload.md",
-    "about/products/web_app/essential-tier/ideas 💡/🐝 Laying workers cell detection.md"
+    "about/products/web_app/community-tier/🐝 Frame side queen cup detection.md"
   ]
 }
