@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/API/Authentication.md",
+                "file": "docs/API/GraphQL API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authentication"
+              "title": "GraphQL API"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "3e25736e2738fef8",
   "lastOpenFiles": [
-    "docs/API/API.md",
     "docs/API/Authentication.md",
+    "docs/API/Share Token Authentication.md",
+    "docs/API/API.md",
     "docs/API/REST APIs.md",
     "docs/API/GraphQL API.md",
-    "docs/API/Share Token Authentication.md",
     "docs/API/GraphQL API",
     "about/products/web_app/Product and Usage Metrics.md",
     "about/index.md",
