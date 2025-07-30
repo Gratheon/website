@@ -1,0 +1,29 @@
+{
+  "id": "API/REST",
+  "title": "🗂️ REST APIs",
+  "description": "For general usage we recommend using our GraphQL.",
+  "source": "@site/docs/API/REST.md",
+  "sourceDirName": "API",
+  "slug": "/API/REST",
+  "permalink": "/docs/API/REST",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/REST.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "hide_table_of_contents": true,
+    "title": "🗂️ REST APIs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔑 Authentication",
+    "permalink": "/docs/API/Authentication"
+  },
+  "next": {
+    "title": "🎨 GraphQL API",
+    "permalink": "/docs/API/GraphQL"
+  }
+}

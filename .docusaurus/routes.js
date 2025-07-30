@@ -1552,15 +1552,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '26a'),
+    component: ComponentCreator('/docs', '09d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd9f'),
+        component: ComponentCreator('/docs', '445'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fa9'),
+            component: ComponentCreator('/docs', '4dd'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1617,14 +1617,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/API/GraphQL API',
-                component: ComponentCreator('/docs/API/GraphQL API', 'ad8'),
+                path: '/docs/API/GraphQL',
+                component: ComponentCreator('/docs/API/GraphQL', '5a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/API/REST APIs',
-                component: ComponentCreator('/docs/API/REST APIs', '557'),
+                path: '/docs/API/Ratelimiting',
+                component: ComponentCreator('/docs/API/Ratelimiting', '4b0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/API/REST',
+                component: ComponentCreator('/docs/API/REST', '359'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

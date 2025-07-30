@@ -56,13 +56,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "API/GraphQL API",
-              "path": "/docs/API/GraphQL API",
+              "id": "API/GraphQL",
+              "path": "/docs/API/GraphQL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "API/REST APIs",
-              "path": "/docs/API/REST APIs",
+              "id": "API/Ratelimiting",
+              "path": "/docs/API/Ratelimiting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/REST",
+              "path": "/docs/API/REST",
               "sidebar": "tutorialSidebar"
             },
             {

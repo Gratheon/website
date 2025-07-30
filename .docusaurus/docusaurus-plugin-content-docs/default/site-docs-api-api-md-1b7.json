@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "🎨 GraphQL API",
-    "permalink": "/docs/API/GraphQL API"
+    "title": "🔑 Authentication",
+    "permalink": "/docs/API/Authentication"
   }
 }

@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Authentication",
-    "permalink": "/docs/API/Authentication"
+    "title": "🚪 Rate limiting",
+    "permalink": "/docs/API/Ratelimiting"
   },
   "next": {
     "title": "📱 Web-app",

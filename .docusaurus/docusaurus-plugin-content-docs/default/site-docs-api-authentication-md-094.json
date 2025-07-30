@@ -1,6 +1,6 @@
 {
   "id": "API/Authentication",
-  "title": "Authentication",
+  "title": "🔑 Authentication",
   "description": "To access our API, you will need to generate API token in user profile. Tokens allow us to authenticate you.",
   "source": "@site/docs/API/Authentication.md",
   "sourceDirName": "API",
@@ -11,17 +11,18 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/Authentication.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 1,
+    "title": "🔑 Authentication"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🗂️ REST APIs",
-    "permalink": "/docs/API/REST APIs"
+    "title": "🔗 API",
+    "permalink": "/docs/API/"
   },
   "next": {
-    "title": "Share Token Authentication",
-    "permalink": "/docs/API/Share Token Authentication"
+    "title": "🗂️ REST APIs",
+    "permalink": "/docs/API/REST"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "API/GraphQL",
+  "title": "🎨 GraphQL API",
+  "description": "We use federated GraphQL as main flexible way to query and modify web-app data. You can explore its schema directly at https://graphql.gratheon.com/graphql",
+  "source": "@site/docs/API/GraphQL.md",
+  "sourceDirName": "API",
+  "slug": "/API/GraphQL",
+  "permalink": "/docs/API/GraphQL",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/GraphQL.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "hide_table_of_contents": true,
+    "title": "🎨 GraphQL API"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🗂️ REST APIs",
+    "permalink": "/docs/API/REST"
+  },
+  "next": {
+    "title": "🚪 Rate limiting",
+    "permalink": "/docs/API/Ratelimiting"
+  }
+}

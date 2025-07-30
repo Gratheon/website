@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volunteers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 580.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -168,21 +168,17 @@
   },
   "active": "3e25736e2738fef8",
   "lastOpenFiles": [
-    "docs/API/Share Token Authentication.md",
-    "docs/API/Ratelimiting.md",
-    "docs/API/GraphQL.md",
-    "docs/API/REST.md",
-    "docs/API/Authentication.md",
-    "public/blog/rss.xml",
-    "public/blog/atom.xml",
-    "public/blog/rss.css",
-    "public/blog/atom.css",
-    "public/blog/atom.xsl",
-    "public/blog/rss.xsl",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
+    "public/research/Competition/🇮🇱 Beewise/index.html",
     "public/research/Competition/🇪🇺 RoboRoyale/index.html",
+    "public/research/Competition/🇩🇪 ApicAI/index.html",
+    "public/research/Competition/🇨🇦 Nectar/index.html",
+    "public/research/Competition/🇦🇺 Purple Hive/index.html",
+    "public/research/Competition/🇦🇺 Beemate/index.html",
+    "public/research/Competition/vitzaoral beehive_weight/index.html",
+    "public/research/Competition/io-bee/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -193,6 +189,12 @@
     "public/img/sharing.webp",
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
+    "docs/API/Authentication.md",
+    "docs/API/Ratelimiting.md",
+    "pricing.md",
+    "docs/API/Share Token Authentication.md",
+    "docs/API/GraphQL.md",
+    "docs/API/REST.md",
     "docs/API/API.md",
     "about/products/web_app/Product and Usage Metrics.md",
     "about/index.md",
@@ -211,8 +213,6 @@
     "blog/2025-05-13 ESTBAN Red flags in legal.md",
     "blog/2025-05-15 🔬 gscan.md",
     "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
-    "README.md",
-    "about/🌻 Purpose/Company mission.md",
-    "about/🌻 Purpose/Ethics.md"
+    "README.md"
   ]
 }

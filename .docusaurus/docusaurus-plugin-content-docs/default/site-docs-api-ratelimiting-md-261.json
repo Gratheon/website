@@ -1,0 +1,26 @@
+{
+  "id": "API/Ratelimiting",
+  "title": "🚪 Rate limiting",
+  "description": "Currently traffic is not rate limited, however it will be.",
+  "source": "@site/docs/API/Ratelimiting.md",
+  "sourceDirName": "API",
+  "slug": "/API/Ratelimiting",
+  "permalink": "/docs/API/Ratelimiting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/Ratelimiting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "🚪 Rate limiting"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎨 GraphQL API",
+    "permalink": "/docs/API/GraphQL"
+  },
+  "next": {
+    "title": "Share Token Authentication",
+    "permalink": "/docs/API/Share Token Authentication"
+  }
+}
