@@ -1,10 +1,15 @@
-For publicly shared resources like inspection views, a special **Share Token** is used. This token provides limited, read-only access based on predefined scopes.
+Some of Gratheon resources can be publicly shared (and do not require explicit login by the viewer). For example, a beehive inspection view can be shared. 
 
--   **Header:** When making requests using a share token, include it in the `X-Share-Token` HTTP header:
+For such cases, we support a special **Share Token** authentication. This token provides limited, **read-only** access based on predefined **scopes**. This token is included in the URL that is used for sharing.
+
+  ### Header
+  When making requests using a share token, include it in the `X-Share-Token` HTTP header:
     ```
     X-Share-Token: <your_share_token>
     ```
--   **Scopes:** Each share token has embedded scopes defining exactly which queries are allowed and for which specific resource IDs. For example, a token for sharing inspection `123` of hive `456` might have scopes like:
+### Scopes
+
+Each share token has embedded scopes defining exactly which queries are allowed and for which specific resource IDs. For example, a token for sharing inspection `123` of hive `456` might have scopes like:
     ```json
     {
       "version": 1,

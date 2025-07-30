@@ -1,0 +1,24 @@
+{
+  "id": "API/Share Token Authentication",
+  "title": "Share Token Authentication",
+  "description": "Some of Gratheon resources can be publicly shared (and do not require explicit login by the viewer). For example, a beehive inspection view can be shared.",
+  "source": "@site/docs/API/Share Token Authentication.md",
+  "sourceDirName": "API",
+  "slug": "/API/Share Token Authentication",
+  "permalink": "/docs/API/Share Token Authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/API/Share Token Authentication.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/API/Authentication"
+  },
+  "next": {
+    "title": "📱 Web-app",
+    "permalink": "/docs/📱 Web-app/"
+  }
+}

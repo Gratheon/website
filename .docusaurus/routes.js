@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '50a'),
     exact: true
@@ -214,15 +249,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '110'),
+    component: ComponentCreator('/about', '86c'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e0e'),
+        component: ComponentCreator('/about', '306'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'fc0'),
+            component: ComponentCreator('/about', 'd2a'),
             routes: [
               {
                 path: '/about/',
@@ -1533,6 +1568,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/Product and Usage Metrics',
+                component: ComponentCreator('/about/products/web_app/Product and Usage Metrics', 'a33'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/volunteer',
                 component: ComponentCreator('/about/volunteer', '9cc'),
                 exact: true,
@@ -1546,15 +1587,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f67'),
+    component: ComponentCreator('/docs', '26a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ebc'),
+        component: ComponentCreator('/docs', 'd9f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '22f'),
+            component: ComponentCreator('/docs', 'fa9'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1605,6 +1646,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/API/Authentication',
+                component: ComponentCreator('/docs/API/Authentication', 'b44'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/API/GraphQL API',
                 component: ComponentCreator('/docs/API/GraphQL API', 'ad8'),
                 exact: true,
@@ -1613,6 +1660,12 @@ export default [
               {
                 path: '/docs/API/REST APIs',
                 component: ComponentCreator('/docs/API/REST APIs', '557'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/API/Share Token Authentication',
+                component: ComponentCreator('/docs/API/Share Token Authentication', '321'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

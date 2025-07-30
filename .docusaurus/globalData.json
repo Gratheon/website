@@ -51,6 +51,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "API/Authentication",
+              "path": "/docs/API/Authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "API/GraphQL API",
               "path": "/docs/API/GraphQL API",
               "sidebar": "tutorialSidebar"
@@ -58,6 +63,11 @@
             {
               "id": "API/REST APIs",
               "path": "/docs/API/REST APIs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API/Share Token Authentication",
+              "path": "/docs/API/Share Token Authentication",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1400,6 +1410,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/Product and Usage Metrics",
+              "path": "/about/products/web_app/Product and Usage Metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/web_app",
               "path": "/about/products/web_app/",
               "sidebar": "tutorialSidebar"
@@ -1801,15 +1816,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

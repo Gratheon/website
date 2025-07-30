@@ -1,7 +1,7 @@
 {
   "id": "API/API",
   "title": "🔗 API",
-  "description": "Lets setup your devices to interact with Gratheon!",
+  "description": "Lets setup your hive devices to interact with Gratheon!",
   "source": "@site/docs/API/API.md",
   "sourceDirName": "API",
   "slug": "/API/",
@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "GraphQL API",
+    "title": "🎨 GraphQL API",
     "permalink": "/docs/API/GraphQL API"
   }
 }

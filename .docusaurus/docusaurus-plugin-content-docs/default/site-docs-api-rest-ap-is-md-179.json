@@ -1,6 +1,6 @@
 {
   "id": "API/REST APIs",
-  "title": "REST APIs",
+  "title": "🗂️ REST APIs",
   "description": "For general usage we recommend using our GraphQL API.",
   "source": "@site/docs/API/REST APIs.md",
   "sourceDirName": "API",
@@ -14,15 +14,16 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "hide_table_of_contents": true
+    "hide_table_of_contents": true,
+    "title": "🗂️ REST APIs"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "GraphQL API",
+    "title": "🎨 GraphQL API",
     "permalink": "/docs/API/GraphQL API"
   },
   "next": {
-    "title": "📱 Web-app",
-    "permalink": "/docs/📱 Web-app/"
+    "title": "Authentication",
+    "permalink": "/docs/API/Authentication"
   }
 }

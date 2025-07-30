@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "REST APIs",
-    "permalink": "/docs/API/REST APIs"
+    "title": "Share Token Authentication",
+    "permalink": "/docs/API/Share Token Authentication"
   },
   "next": {
     "title": "Tech stack, conventions, environments",
