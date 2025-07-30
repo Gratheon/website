@@ -3,7 +3,7 @@ Some of Gratheon resources can be publicly shared (and do not require explicit l
 For such cases, we support a special **Share Token** authentication. This token provides limited, **read-only** access based on predefined **scopes**. This token is included in the URL that is used for sharing.
 
 ### Passing token
-When making requests using a share token, our app includes token from URL in in the `X-Share-Token` HTTP headers when making [GraphQL API](GraphQL%20API.md) requests:
+When making requests using a share token, our app includes token from URL in in the `X-Share-Token` HTTP headers when making [GraphQL](GraphQL.md) requests:
 ```
 X-Share-Token: <your_share_token>
 ```
