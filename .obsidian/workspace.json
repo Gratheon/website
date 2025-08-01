@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2ac46d6d22750e1c",
+        "id": "f933fa8ed6bc28b2",
         "type": "tabs",
         "children": [
           {
-            "id": "3e25736e2738fef8",
+            "id": "9cd015cfaa98d7a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/API/Ratelimiting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ratelimiting"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e25736e2738fef8",
+  "active": "9cd015cfaa98d7a8",
   "lastOpenFiles": [
+    "docs/API/Ratelimiting.md",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
@@ -178,7 +175,6 @@
     "public/research/Competition/🇦🇺 Purple Hive/index.html",
     "public/research/Competition/🇦🇺 Beemate/index.html",
     "public/research/Competition/vitzaoral beehive_weight/index.html",
-    "public/research/Competition/io-bee/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -190,7 +186,6 @@
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
     "docs/API/Authentication.md",
-    "docs/API/Ratelimiting.md",
     "pricing.md",
     "docs/API/Share Token Authentication.md",
     "docs/API/GraphQL.md",
