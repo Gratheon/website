@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f933fa8ed6bc28b2",
+        "id": "3ff5aebd30a249a2",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd015cfaa98d7a8",
+            "id": "9c787d0d24e58004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -162,10 +158,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cd015cfaa98d7a8",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
     "research/index.md",
