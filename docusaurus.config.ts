@@ -1,183 +1,183 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: 'Gratheon',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'favicons/favicon.ico',
+  title: "Gratheon",
+  tagline: "Dinosaurs are cool",
+  favicon: "favicons/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://gratheon.com',
+  url: "https://gratheon.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gratheon', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  organizationName: "gratheon", // Usually your GitHub org/user name.
+  projectName: "website", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   markdown: {
     mermaid: true,
   },
-  themes: ['@docusaurus/theme-mermaid'],
-  
+  themes: ["@docusaurus/theme-mermaid"],
+
   presets: [
-
     [
-      'classic',
+      "classic",
       {
-
         gtag: {
-          trackingID: 'GTM-KH4KC9',
+          trackingID: "GTM-KH4KC9",
           anonymizeIP: true,
         },
 
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/",
         },
 
         blog: {
           blogSidebarCount: 20,
           showLastUpdateTime: false,
-          blogSidebarTitle: ' ',
+          blogSidebarTitle: " ",
           showReadingTime: true,
           postsPerPage: 20,
           feedOptions: {
-            type: ['rss', 'atom'],
+            type: ["rss", "atom"],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/gratheon/website/tree/main/',
+          editUrl: "https://github.com/gratheon/website/tree/main/",
 
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
 
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
 
         pages: {
-          path: './pages',
-          routeBasePath: '',
-          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          path: "./pages",
+          routeBasePath: "",
+          include: ["**/*.{js,jsx,ts,tsx,md,mdx}"],
           exclude: [
-            '**/_*.{js,jsx,ts,tsx,md,mdx}',
-            '**/_*/**',
-            '**/*.test.{js,jsx,ts,tsx}',
-            '**/__tests__/**',
+            "**/_*.{js,jsx,ts,tsx,md,mdx}",
+            "**/_*/**",
+            "**/*.test.{js,jsx,ts,tsx}",
+            "**/__tests__/**",
           ],
-          mdxPageComponent: '@theme/MDXPage',
+          mdxPageComponent: "@theme/MDXPage",
           rehypePlugins: [],
           beforeDefaultRemarkPlugins: [],
           beforeDefaultRehypePlugins: [],
         },
-
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: "light",
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
 
     // Replace with your project's social card
-    image: 'img/gratheon-web-app.webp',
+    image: "img/gratheon-web-app.webp",
     navbar: {
-      title: '',
+      title: "",
       logo: {
-        alt: 'Gratheon',
-        src: 'img/logo_v7w.svg',
+        alt: "Gratheon",
+        src: "img/logo_v7w.svg",
       },
       items: [
-        {to: '/about', label: 'About', position: 'left'},
-        {to: '/about/products', label: 'Products', position: 'left'},
-        
-
+        { to: "/about", label: "About", position: "left" },
+        { to: "/about/products", label: "Products", position: "left" },
 
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Docs',
+          type: "docSidebar",
+          sidebarId: "tutorialSidebar",
+          position: "left",
+          label: "Docs",
         },
 
-        {to: '/research', label: 'Research', position: 'left'},
+        { to: "/research", label: "Research", position: "left" },
 
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: "/blog", label: "Blog", position: "left" },
 
-        {to: '/pricing', label: 'Pricing', position: 'left'},
-        
+        { to: "/pricing", label: "Pricing", position: "left" },
+
         {
-          type: 'search',
-          'position': 'right',
+          type: "search",
+          position: "right",
         },
 
-				{
-					'aria-label': 'Discord Invite',
-					'className': 'navbar--discord-link',
-					'href': 'https://discord.gg/PcbP4uedWj',
-					'position': 'right',
-				},
         {
-          href: 'https://github.com/gratheon/web-app',
-          position: 'right',
-          className: 'header--github-link',
-          'aria-label': 'GitHub repository',
+          "aria-label": "Discord Invite",
+          className: "navbar--discord-link",
+          href: "https://discord.gg/PcbP4uedWj",
+          position: "right",
+        },
+        {
+          href: "https://github.com/gratheon/web-app",
+          position: "right",
+          className: "header--github-link",
+          "aria-label": "GitHub repository",
         },
 
-        {href: 'https://app.gratheon.com/account/authenticate/', label: 'Log in', position: 'right'},
-        
+        {
+          href: "https://app.gratheon.com/account/authenticate/",
+          label: "Log in",
+          position: "right",
+        },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-            items: [{
+          items: [
+            {
               html: `
                 <a href="https://ariregister.rik.ee/est/company/12245103/Gratheon-O%C3%9C">Gratheon OÜ</a><br />
                 Tallinn, Estonia
               `,
-            }],
+            },
+          ],
         },
         {
           // title: 'Docs',
           items: [
             {
-              label: 'Privacy Policy',
-              to: 'privacy',
+              label: "Privacy Policy",
+              to: "privacy",
             },
             {
-              label: 'Terms Of Service',
-              to: 'terms',
+              label: "Terms Of Service",
+              to: "terms",
             },
             {
-              label: 'Email',
-              href: 'mailto:pilot@gratheon.com',
+              label: "Email",
+              href: "mailto:pilot@gratheon.com",
             },
           ],
         },
@@ -185,16 +185,16 @@ const config: Config = {
           // title: 'Community',
           items: [
             {
-              label: 'Telegram',
-              href: 'https://t.me/gratheon',
+              label: "Telegram",
+              href: "https://t.me/gratheon",
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/gratheon',
+              label: "Twitter",
+              href: "https://twitter.com/gratheon",
             },
             {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/gratheon/',
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/company/gratheon/",
             },
           ],
         },
@@ -202,24 +202,26 @@ const config: Config = {
           // title: 'More',
           items: [
             {
-              label: 'Facebook',
-              to: 'https://www.facebook.com/gratheon',
+              label: "Facebook",
+              to: "https://www.facebook.com/gratheon",
             },
             {
-              label: 'Twitch',
-              to: 'https://www.twitch.tv/tot_ra',
+              label: "Twitch",
+              to: "https://www.twitch.tv/tot_ra",
             },
             {
-              label: 'Youtube',
-              href: 'https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ',
+              label: "Youtube",
+              href: "https://www.youtube.com/@gratheon-bees",
             },
           ],
         },
         {
-          items: [{
-            html: `<img src="/img/nvidia-inception-program-badge-rgb-for-screen.svg" alt="NVIDIA Inception Program Member" style="max-width:200px; height: auto;" />`
-          }]
-        }
+          items: [
+            {
+              html: `<img src="/img/nvidia-inception-program-badge-rgb-for-screen.svg" alt="NVIDIA Inception Program Member" style="max-width:200px; height: auto;" />`,
+            },
+          ],
+        },
       ],
       // copyright: `Copyright ${new Date().getFullYear()} Gratheon`,
     },
@@ -238,22 +240,22 @@ const config: Config = {
 
   plugins: [
     [
-      '@docusaurus/plugin-content-docs',
+      "@docusaurus/plugin-content-docs",
       {
-        id: 'api',
-        path: './about',
-        routeBasePath: 'about',
-        sidebarPath: 'sidebars.ts',
+        id: "api",
+        path: "./about",
+        routeBasePath: "about",
+        sidebarPath: "sidebars.ts",
         // ... other options
       },
     ],
     [
-      '@docusaurus/plugin-content-docs',
+      "@docusaurus/plugin-content-docs",
       {
-        id: 'research',
-        path: './research',
-        routeBasePath: 'research',
-        sidebarPath: 'sidebars.research.ts',
+        id: "research",
+        path: "./research",
+        routeBasePath: "research",
+        sidebarPath: "sidebars.research.ts",
         // ... other options
       },
     ],
