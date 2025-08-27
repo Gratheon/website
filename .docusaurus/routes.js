@@ -1924,15 +1924,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'cbc'),
+    component: ComponentCreator('/research', '2f4'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'f3d'),
+        component: ComponentCreator('/research', 'f37'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '65f'),
+            component: ComponentCreator('/research', '640'),
             routes: [
               {
                 path: '/research/',
@@ -2262,6 +2262,11 @@ export default [
               {
                 path: '/research/Competition/vitzaoral beehive_weight',
                 component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', '04d'),
+                exact: true
+              },
+              {
+                path: '/research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture',
+                component: ComponentCreator('/research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', '1b7'),
                 exact: true
               },
               {

@@ -11,10 +11,14 @@
             "id": "9c787d0d24e58004",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -162,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "9c787d0d24e58004",
   "lastOpenFiles": [
-    "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
     "research/index.md",
+    "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
     "research/Biodiversity conservation and current threats to European honeybees.md",
     "research/pdfs/applsci-12-11179-v2.pdf",
     "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
