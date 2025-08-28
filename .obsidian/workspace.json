@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
+                "file": "research/Importance of GIS solutions for beekeepers a review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
+              "title": "Importance of GIS solutions for beekeepers a review"
             }
           },
           {
@@ -181,9 +181,11 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/pdfs/Vol21No2_2023_Kotovs.pdf",
+    "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
+    "research/Importance of GIS solutions for beekeepers a review.md",
     "research/pdfs/Vol21NoS2_2023_Komasilova.pdf",
     "research/Model for the bee apiary location evaluation.md",
-    "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
     "research/pdfs/AR2020_Vol18SI2_Komasilova.pdf",
     "research/Solution for automated bee colony weight monitoring.md",
     "research/pdfs/Vol15nr2_Zacepins.pdf",
@@ -201,7 +203,6 @@
     "public/research/Competition/🇺🇸 Best Bees/index.html",
     "public/research/Competition/🇮🇱 Beewise/index.html",
     "public/research/Competition/🇪🇺 RoboRoyale/index.html",
-    "public/research/Competition/🇩🇪 ApicAI/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -225,7 +226,6 @@
     "about/company/index.md",
     "about/products/web_app/web_app.md",
     "about/credits.md",
-    "about/📢 Press kit.md",
-    "pages/privacy.md"
+    "about/📢 Press kit.md"
   ]
 }
