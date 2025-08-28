@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "17b1e65d04f5c7d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ]
       }
@@ -78,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5
+    "width": 215.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -155,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,11 +175,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "9c787d0d24e58004",
   "lastOpenFiles": [
     "research/index.md",
     "Untitled.md",
