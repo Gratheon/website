@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 651.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -175,10 +175,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c787d0d24e58004",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "research/index.md",
     "Untitled.md",
