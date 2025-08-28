@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/index.md",
+                "file": "research/Solution for automated bee colony weight monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Solution for automated bee colony weight monitoring"
             }
           },
           {
@@ -181,6 +181,10 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/pdfs/Vol15nr2_Zacepins.pdf",
+    "research/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping.md",
+    "research/Solution for automated bee colony weight monitoring.md",
+    "research/pdfs/Vol17No2_Komasilovs.pdf",
     "research/index.md",
     "Untitled.md",
     "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
@@ -196,7 +200,6 @@
     "public/research/Competition/🇩🇪 ApicAI/index.html",
     "public/research/Competition/🇨🇦 Nectar/index.html",
     "public/research/Competition/🇦🇺 Purple Hive/index.html",
-    "public/research/Competition/🇦🇺 Beemate/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -223,9 +226,6 @@
     "about/📢 Press kit.md",
     "pages/privacy.md",
     "pages/terms.md",
-    "about/🌨️ Problems/🧶 Swarming.md",
-    "about/🌨️ Problems/🚛 Transport stress and risk.md",
-    "about/🌨️ Problems/🌲 Distant locations.md",
-    "blog/2025-05-13 ESTBAN Red flags in legal.md"
+    "about/🌨️ Problems/🧶 Swarming.md"
   ]
 }
