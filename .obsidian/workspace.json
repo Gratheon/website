@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Solution for automated bee colony weight monitoring.md",
+                "file": "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solution for automated bee colony weight monitoring"
+              "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
             }
           },
           {
@@ -181,9 +181,13 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/pdfs/Vol21NoS2_2023_Komasilova.pdf",
+    "research/Model for the bee apiary location evaluation.md",
+    "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
+    "research/pdfs/AR2020_Vol18SI2_Komasilova.pdf",
+    "research/Solution for automated bee colony weight monitoring.md",
     "research/pdfs/Vol15nr2_Zacepins.pdf",
     "research/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping.md",
-    "research/Solution for automated bee colony weight monitoring.md",
     "research/pdfs/Vol17No2_Komasilovs.pdf",
     "research/index.md",
     "Untitled.md",
@@ -198,8 +202,6 @@
     "public/research/Competition/🇮🇱 Beewise/index.html",
     "public/research/Competition/🇪🇺 RoboRoyale/index.html",
     "public/research/Competition/🇩🇪 ApicAI/index.html",
-    "public/research/Competition/🇨🇦 Nectar/index.html",
-    "public/research/Competition/🇦🇺 Purple Hive/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -224,8 +226,6 @@
     "about/products/web_app/web_app.md",
     "about/credits.md",
     "about/📢 Press kit.md",
-    "pages/privacy.md",
-    "pages/terms.md",
-    "about/🌨️ Problems/🧶 Swarming.md"
+    "pages/privacy.md"
   ]
 }
