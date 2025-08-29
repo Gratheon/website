@@ -3,6 +3,7 @@ year: 2013
 orgs:
   - 🇩🇪 Freie Universität Berlin
 hide_table_of_contents: true
+title: Reception and learning of electric fields in bees
 ---
 
 

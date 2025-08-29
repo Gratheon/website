@@ -2,6 +2,7 @@
 year: "2023"
 orgs:
   - 🇱🇹 Vilnius Gediminas Technical University
+title: Labeled dataset for bee detection and direction estimation on entrance to beehive
 ---
 
 

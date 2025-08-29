@@ -13,26 +13,42 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "research/Untitled.base",
+                "file": "research/ResearchDB.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "ResearchDB"
             }
           },
           {
             "id": "17b1e65d04f5c7d3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+            }
+          },
+          {
+            "id": "88fb7c7dee0a3296",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "research/ResearchDB.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "ResearchDB"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,29 +194,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c787d0d24e58004",
+  "active": "88fb7c7dee0a3296",
   "lastOpenFiles": [
+    "research/papers/Reception and learning of electric fields in bees.md",
+    "research/ResearchDB.base",
+    "research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network.md",
+    "research/papers/Honeybees on the move - Pollination services and honey production.md",
+    "research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees.md",
+    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
+    "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md",
+    "research/papers/The prediction of swarming in honeybee colonies using vibrational spectra.md",
+    "research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md",
+    "research/papers/Markerless tracking of an entire honey bee colony.md",
+    "research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring.md",
+    "research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period.md",
+    "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
+    "research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
+    "research/papers/wifi-exposure.md",
+    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
+    "research/papers/pdfs/Labeled dataset for bee detection and direction estimation on entrance to beehive.pdf",
+    "research/papers/Honey bees modify plantpollinator network structure.md",
+    "research/papers/Varroa destructor detection on honey bees using hyperspectral imagery.md",
+    "research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
     "research/index.md",
-    "research/Untitled.base",
-    "research/Importance of GIS solutions for beekeepers a review.md",
-    "research/pdfs/Vol21No2_2023_Kotovs.pdf",
-    "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
-    "research/pdfs/Vol21NoS2_2023_Komasilova.pdf",
-    "research/Model for the bee apiary location evaluation.md",
-    "research/pdfs/AR2020_Vol18SI2_Komasilova.pdf",
-    "research/Solution for automated bee colony weight monitoring.md",
-    "research/pdfs/Vol15nr2_Zacepins.pdf",
-    "research/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping.md",
-    "research/pdfs/Vol17No2_Komasilovs.pdf",
-    "Untitled.md",
-    "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
-    "research/Biodiversity conservation and current threats to European honeybees.md",
-    "research/pdfs/applsci-12-11179-v2.pdf",
-    "research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "docs/API/Ratelimiting.md",
+    "research/papers/Honey bulk DNA metagenomic analysis to identify honey biological.md",
+    "research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md",
+    "research/papers/Solution for automated bee colony weight monitoring.md",
+    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
+    "research/papers",
+    "research/papers/Importance of GIS solutions for beekeepers a review.md",
+    "research/papers/pdfs/Vol21No2_2023_Kotovs.pdf",
+    "research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
+    "research/papers/pdfs/Vol21NoS2_2023_Komasilova.pdf",
+    "research/papers/Model for the bee apiary location evaluation.md",
+    "research/papers/pdfs/AR2020_Vol18SI2_Komasilova.pdf",
+    "research/papers/pdfs/Vol15nr2_Zacepins.pdf",
+    "research/papers/pdfs/Vol17No2_Komasilovs.pdf",
+    "research/papers/pdfs/applsci-12-11179-v2.pdf",
     "public/sitemap.xml",
-    "public/index.html",
-    "public/research/Competition/🇺🇸 Best Bees/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -210,20 +241,6 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
-    "docs/API/Authentication.md",
-    "pricing.md",
-    "docs/API/Share Token Authentication.md",
-    "docs/API/GraphQL.md",
-    "docs/API/REST.md",
-    "docs/API/API.md",
-    "about/products/web_app/Product and Usage Metrics.md",
-    "about/index.md",
-    "about/volunteer.md",
-    "about/products/index.md",
-    "about/company/index.md",
-    "about/products/web_app/web_app.md",
-    "about/credits.md",
-    "about/📢 Press kit.md"
+    "public/img/robot.jpeg"
   ]
 }

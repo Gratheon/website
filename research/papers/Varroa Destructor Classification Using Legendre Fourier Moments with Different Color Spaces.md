@@ -2,6 +2,7 @@
 year: "2023"
 orgs:
   - 🇲🇽 Universidad Politécnica de Tulancingo
+title: Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces
 ---
 
 

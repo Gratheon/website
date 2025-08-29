@@ -8,4 +8,4 @@ year: "2023"
 
 <object data={require('./pdfs/2023-approximation.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](./pdfs/2023-approximation.pdf)
+![](pdfs/2023-approximation.pdf)

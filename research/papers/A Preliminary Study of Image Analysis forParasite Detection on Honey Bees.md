@@ -4,6 +4,7 @@ orgs:
   - 🇦🇹 Vienna University of Technology
   - 🇪🇸 Universidad de Oviedo
   - 🇪🇸 Universitat de Barcelona
+title: A Preliminary Study of Image Analysis forParasite Detection on Honey Bees
 ---
 
 - [PDF](pdfs/162572124.pdf)

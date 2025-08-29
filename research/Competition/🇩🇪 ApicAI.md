@@ -3,7 +3,7 @@ url: https://apic.ai/
 products: 👁️‍🗨️ Entrance Observer
 ---
 
-Apic AI comes from research background - [⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives](../⭐️%20DeepBees%20–%20Building%20and%20Scaling%20Convolutional%20Neuronal%20Nets%20For%20Fast%20and%20Large-scale%20Visual%20Monitoring%20of%20Bee%20Hives.md). Company focuses on pollination analysis.
+Apic AI comes from research background - [⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives](../papers/⭐️%20DeepBees%20–%20Building%20and%20Scaling%20Convolutional%20Neuronal%20Nets%20For%20Fast%20and%20Large-scale%20Visual%20Monitoring%20of%20Bee%20Hives.md). Company focuses on pollination analysis.
 
 - NVidia jetson device at the entrance
 - Multiple ML models

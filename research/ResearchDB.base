@@ -3,14 +3,13 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("research")
-        - file.folder != "research/Competition"
+        - file.inFolder("research/papers")
         - file.ext == "md"
     order:
       - title
       - year
       - orgs
-      - file.basename
+      - file.name
     sort:
       - property: year
         direction: DESC

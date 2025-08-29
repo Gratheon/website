@@ -6,6 +6,7 @@ orgs:
   - 🇬🇧 Durham University
   - 🇹🇷  Middle East Technical University
 hide_table_of_contents: true
+title: Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots
 ---
 - Project home page: https://roboroyale.eu/home.html
 - Official publication: https://www.science.org/doi/10.1126/scirobotics.adn6848#M1
