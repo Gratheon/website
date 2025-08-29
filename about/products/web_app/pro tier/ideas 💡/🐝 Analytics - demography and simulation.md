@@ -5,5 +5,4 @@
 
 - Egg laying rate
 
-An example from research paper [⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots](../../../../../research/papers/⭐️%20Autonomous%20tracking%20of%20honey%20bee%20behaviors%20over%20long-term%20periods%20with%20cooperating%20robots.md)
-![](../../../../img/Screenshot%202024-11-04%20at%2003.11.21.png)
+An example from research paper "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
