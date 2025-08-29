@@ -1,0 +1,21 @@
+{
+  "id": "papers/wifi-exposure",
+  "title": "Defined exposure of honey bee colonies to simulated radiofrequency electromagnetic fields (RF-EMF): Negative effects on the homing ability, butn ot on brood development or longevity",
+  "description": "- PDF",
+  "source": "@site/research/papers/wifi-exposure.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/wifi-exposure",
+  "permalink": "/research/papers/wifi-exposure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Defined exposure of honey bee colonies to simulated radiofrequency electromagnetic fields (RF-EMF): Negative effects on the homing ability, butn ot on brood development or longevity",
+    "orgs": [
+      "🇩🇪 University of Hohenheim",
+      "🇩🇪 Karlsruhe Institute of Technology"
+    ],
+    "year": "2023"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "papers/Model for the bee apiary location evaluation",
+  "title": "Model for the bee apiary location evaluation",
+  "description": "PDF",
+  "source": "@site/research/papers/Model for the bee apiary location evaluation.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Model for the bee apiary location evaluation",
+  "permalink": "/research/papers/Model for the bee apiary location evaluation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Model for the bee apiary location evaluation",
+    "year": "2020",
+    "orgs": [
+      "🇱🇻 Latvia University of Life Sciences and Technologies",
+      "🇩🇪 Humboldt University of Berlin"
+    ]
+  }
+}

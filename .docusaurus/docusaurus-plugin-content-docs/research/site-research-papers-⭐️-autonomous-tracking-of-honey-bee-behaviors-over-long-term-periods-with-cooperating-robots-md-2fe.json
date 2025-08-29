@@ -1,0 +1,24 @@
+{
+  "id": "papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "description": "- Project home page//roboroyale.eu/home.html",
+  "source": "@site/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "permalink": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2024",
+    "orgs": [
+      "🇨🇿 Czech Technical University",
+      "🇦🇹 University of Graz",
+      "🇬🇧 Durham University",
+      "🇹🇷  Middle East Technical University"
+    ],
+    "hide_table_of_contents": true,
+    "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+  }
+}

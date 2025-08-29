@@ -1,0 +1,21 @@
+{
+  "id": "papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "title": "Towards dense object tracking in a 2D honeybee hive",
+  "description": "- PDF",
+  "source": "@site/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2018",
+    "orgs": [
+      "🇯🇵 Okinawa Institute of Science and Technology Graduate University"
+    ],
+    "hide_table_of_contents": true,
+    "title": "Towards dense object tracking in a 2D honeybee hive"
+  }
+}

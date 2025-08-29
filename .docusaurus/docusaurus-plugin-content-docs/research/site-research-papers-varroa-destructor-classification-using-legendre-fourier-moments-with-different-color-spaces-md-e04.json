@@ -1,0 +1,20 @@
+{
+  "id": "papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+  "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+  "description": "PDF",
+  "source": "@site/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+  "permalink": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2023",
+    "orgs": [
+      "🇲🇽 Universidad Politécnica de Tulancingo"
+    ],
+    "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+  }
+}

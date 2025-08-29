@@ -1924,94 +1924,19 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '2f4'),
+    component: ComponentCreator('/research', '251'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'f37'),
+        component: ComponentCreator('/research', 'c92'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '640'),
+            component: ComponentCreator('/research', 'bc8'),
             routes: [
               {
                 path: '/research/',
                 component: ComponentCreator('/research/', '2c3'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
-                component: ComponentCreator('/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', 'b2f'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning',
-                component: ComponentCreator('/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning', 'fbb'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
-                component: ComponentCreator('/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', '3b6'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ BeeAlarmed. Masters thesis',
-                component: ComponentCreator('/research/⭐️ BeeAlarmed. Masters thesis', '2ac'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
-                component: ComponentCreator('/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '63d'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
-                component: ComponentCreator('/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '003'),
-                exact: true
-              },
-              {
-                path: '/research/⭐️ Towards dense object tracking in a 2D honeybee hive',
-                component: ComponentCreator('/research/⭐️ Towards dense object tracking in a 2D honeybee hive', 'ca1'),
-                exact: true
-              },
-              {
-                path: '/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
-                component: ComponentCreator('/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', 'fd8'),
-                exact: true
-              },
-              {
-                path: '/research/Accuracy vs. Energy',
-                component: ComponentCreator('/research/Accuracy vs. Energy', '15b'),
-                exact: true
-              },
-              {
-                path: '/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
-                component: ComponentCreator('/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '947'),
-                exact: true
-              },
-              {
-                path: '/research/Approximation of functions',
-                component: ComponentCreator('/research/Approximation of functions', 'af6'),
-                exact: true
-              },
-              {
-                path: '/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring',
-                component: ComponentCreator('/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', '668'),
-                exact: true
-              },
-              {
-                path: '/research/BeeNet - An End-To-End Deep Network For Bee Surveillance',
-                component: ComponentCreator('/research/BeeNet - An End-To-End Deep Network For Bee Surveillance', '9c8'),
-                exact: true
-              },
-              {
-                path: '/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
-                component: ComponentCreator('/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', '954'),
-                exact: true
-              },
-              {
-                path: '/research/Biodiversity conservation and current threats to European honeybees',
-                component: ComponentCreator('/research/Biodiversity conservation and current threats to European honeybees', 'c05'),
                 exact: true
               },
               {
@@ -2265,128 +2190,228 @@ export default [
                 exact: true
               },
               {
-                path: '/research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture',
-                component: ComponentCreator('/research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', '1b7'),
+                path: '/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
+                component: ComponentCreator('/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', '1fb'),
                 exact: true
               },
               {
-                path: '/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
-                component: ComponentCreator('/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period', '4a4'),
+                path: '/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning',
+                component: ComponentCreator('/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning', '52a'),
                 exact: true
               },
               {
-                path: '/research/Honey bees modify plantpollinator network structure',
-                component: ComponentCreator('/research/Honey bees modify plantpollinator network structure', '935'),
+                path: '/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
+                component: ComponentCreator('/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', '254'),
                 exact: true
               },
               {
-                path: '/research/Honey bulk DNA metagenomic analysis to identify honey biological',
-                component: ComponentCreator('/research/Honey bulk DNA metagenomic analysis to identify honey biological', '508'),
+                path: '/research/papers/⭐️ BeeAlarmed. Masters thesis',
+                component: ComponentCreator('/research/papers/⭐️ BeeAlarmed. Masters thesis', '8cf'),
                 exact: true
               },
               {
-                path: '/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams',
-                component: ComponentCreator('/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams', '59b'),
+                path: '/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
+                component: ComponentCreator('/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '2aa'),
                 exact: true
               },
               {
-                path: '/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision',
-                component: ComponentCreator('/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision', '7e4'),
+                path: '/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
+                component: ComponentCreator('/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '59f'),
                 exact: true
               },
               {
-                path: '/research/Honeybees on the move - Pollination services and honey production',
-                component: ComponentCreator('/research/Honeybees on the move - Pollination services and honey production', 'f3f'),
+                path: '/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive',
+                component: ComponentCreator('/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive', '807'),
                 exact: true
               },
               {
-                path: '/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
-                component: ComponentCreator('/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '103'),
+                path: '/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
+                component: ComponentCreator('/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', '7cc'),
                 exact: true
               },
               {
-                path: '/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring',
-                component: ComponentCreator('/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring', '0ce'),
+                path: '/research/papers/Accuracy vs. Energy',
+                component: ComponentCreator('/research/papers/Accuracy vs. Energy', '362'),
                 exact: true
               },
               {
-                path: '/research/Labeled dataset for bee detection and direction estimation on entrance to beehive',
-                component: ComponentCreator('/research/Labeled dataset for bee detection and direction estimation on entrance to beehive', 'd91'),
+                path: '/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
+                component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', 'e2c'),
                 exact: true
               },
               {
-                path: '/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey',
-                component: ComponentCreator('/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', '8e3'),
+                path: '/research/papers/Approximation of functions',
+                component: ComponentCreator('/research/papers/Approximation of functions', '213'),
                 exact: true
               },
               {
-                path: '/research/Markerless tracking of an entire honey bee colony',
-                component: ComponentCreator('/research/Markerless tracking of an entire honey bee colony', '06d'),
+                path: '/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring',
+                component: ComponentCreator('/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', '1a9'),
                 exact: true
               },
               {
-                path: '/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields',
-                component: ComponentCreator('/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields', '6ca'),
+                path: '/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance',
+                component: ComponentCreator('/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance', 'b66'),
                 exact: true
               },
               {
-                path: '/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
-                component: ComponentCreator('/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', '00d'),
+                path: '/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
+                component: ComponentCreator('/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', 'e49'),
                 exact: true
               },
               {
-                path: '/research/Raspberry Pi Bee Health Monitoring Device',
-                component: ComponentCreator('/research/Raspberry Pi Bee Health Monitoring Device', 'e0a'),
+                path: '/research/papers/Biodiversity conservation and current threats to European honeybees',
+                component: ComponentCreator('/research/papers/Biodiversity conservation and current threats to European honeybees', '5a9'),
                 exact: true
               },
               {
-                path: '/research/Reception and learning of electric fields in bees',
-                component: ComponentCreator('/research/Reception and learning of electric fields in bees', '0a8'),
+                path: '/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia',
+                component: ComponentCreator('/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia', '6e1'),
                 exact: true
               },
               {
-                path: '/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
-                component: ComponentCreator('/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', '42f'),
+                path: '/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture',
+                component: ComponentCreator('/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', '92f'),
                 exact: true
               },
               {
-                path: '/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount',
-                component: ComponentCreator('/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount', 'bf8'),
+                path: '/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
+                component: ComponentCreator('/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period', 'e53'),
                 exact: true
               },
               {
-                path: '/research/The prediction of swarming in honeybee colonies using vibrational spectra',
-                component: ComponentCreator('/research/The prediction of swarming in honeybee colonies using vibrational spectra', 'ec3'),
+                path: '/research/papers/Honey bees modify plantpollinator network structure',
+                component: ComponentCreator('/research/papers/Honey bees modify plantpollinator network structure', 'c76'),
                 exact: true
               },
               {
-                path: '/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
-                component: ComponentCreator('/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', '2d6'),
+                path: '/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological',
+                component: ComponentCreator('/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological', 'e2e'),
                 exact: true
               },
               {
-                path: '/research/Towards Varroa destructor mite detection using a narrow spectra illumination',
-                component: ComponentCreator('/research/Towards Varroa destructor mite detection using a narrow spectra illumination', '9da'),
+                path: '/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams',
+                component: ComponentCreator('/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams', '8a0'),
                 exact: true
               },
               {
-                path: '/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces',
-                component: ComponentCreator('/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces', '37b'),
+                path: '/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision',
+                component: ComponentCreator('/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision', 'a90'),
                 exact: true
               },
               {
-                path: '/research/Varroa destructor detection on honey bees using hyperspectral imagery',
-                component: ComponentCreator('/research/Varroa destructor detection on honey bees using hyperspectral imagery', 'd70'),
+                path: '/research/papers/Honeybees on the move - Pollination services and honey production',
+                component: ComponentCreator('/research/papers/Honeybees on the move - Pollination services and honey production', '672'),
                 exact: true
               },
               {
-                path: '/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques',
-                component: ComponentCreator('/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques', '933'),
+                path: '/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
+                component: ComponentCreator('/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', 'fce'),
                 exact: true
               },
               {
-                path: '/research/wifi-exposure',
-                component: ComponentCreator('/research/wifi-exposure', 'c9a'),
+                path: '/research/papers/Importance of GIS solutions for beekeepers a review',
+                component: ComponentCreator('/research/papers/Importance of GIS solutions for beekeepers a review', 'd0c'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring',
+                component: ComponentCreator('/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring', 'd3f'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive',
+                component: ComponentCreator('/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive', '6ae'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey',
+                component: ComponentCreator('/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', 'e63'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Markerless tracking of an entire honey bee colony',
+                component: ComponentCreator('/research/papers/Markerless tracking of an entire honey bee colony', '572'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Model for the bee apiary location evaluation',
+                component: ComponentCreator('/research/papers/Model for the bee apiary location evaluation', '4c1'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping',
+                component: ComponentCreator('/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping', '15e'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields',
+                component: ComponentCreator('/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields', '4b7'),
+                exact: true
+              },
+              {
+                path: '/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
+                component: ComponentCreator('/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', '048'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Raspberry Pi Bee Health Monitoring Device',
+                component: ComponentCreator('/research/papers/Raspberry Pi Bee Health Monitoring Device', '509'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Reception and learning of electric fields in bees',
+                component: ComponentCreator('/research/papers/Reception and learning of electric fields in bees', 'db1'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
+                component: ComponentCreator('/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', 'b72'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Solution for automated bee colony weight monitoring',
+                component: ComponentCreator('/research/papers/Solution for automated bee colony weight monitoring', '455'),
+                exact: true
+              },
+              {
+                path: '/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount',
+                component: ComponentCreator('/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount', '342'),
+                exact: true
+              },
+              {
+                path: '/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra',
+                component: ComponentCreator('/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra', '323'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
+                component: ComponentCreator('/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', '1ef'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination',
+                component: ComponentCreator('/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination', '78b'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces',
+                component: ComponentCreator('/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces', '6e2'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery',
+                component: ComponentCreator('/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery', '554'),
+                exact: true
+              },
+              {
+                path: '/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques',
+                component: ComponentCreator('/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques', '9ca'),
+                exact: true
+              },
+              {
+                path: '/research/papers/wifi-exposure',
+                component: ComponentCreator('/research/papers/wifi-exposure', '59f'),
                 exact: true
               }
             ]

@@ -1,0 +1,24 @@
+{
+  "id": "papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+  "description": "PDF",
+  "source": "@site/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "permalink": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+    "year": "2023",
+    "orgs": [
+      "🇦🇺 Australian National University",
+      "🇧🇩 BRAC University",
+      "🇦🇺 Curtin University",
+      "🇦🇺 Commonwealth Scientific and Industrial Research Organisation"
+    ],
+    "hide_table_of_contents": true
+  }
+}

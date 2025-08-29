@@ -1,0 +1,20 @@
+{
+  "id": "papers/Honey bees modify plantpollinator network structure",
+  "title": "Honey bees modify plantpollinator network structure",
+  "description": "PDF",
+  "source": "@site/research/papers/Honey bees modify plantpollinator network structure.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Honey bees modify plantpollinator network structure",
+  "permalink": "/research/papers/Honey bees modify plantpollinator network structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇨🇦 University of Alberta"
+    ],
+    "year": "2023",
+    "title": "Honey bees modify plantpollinator network structure"
+  }
+}

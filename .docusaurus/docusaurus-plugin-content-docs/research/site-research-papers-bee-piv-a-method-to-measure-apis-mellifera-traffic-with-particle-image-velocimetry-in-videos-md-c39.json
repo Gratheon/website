@@ -1,0 +1,20 @@
+{
+  "id": "papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+  "title": "BeePIV: A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+  "description": "- PDF",
+  "source": "@site/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+  "permalink": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "BeePIV: A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+    "orgs": [
+      "🇺🇸 Utah State University"
+    ],
+    "year": "2021"
+  }
+}

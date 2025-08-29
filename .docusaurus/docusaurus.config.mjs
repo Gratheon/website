@@ -215,7 +215,7 @@ export default {
             },
             {
               "label": "Youtube",
-              "href": "https://www.youtube.com/channel/UCHR1mB4V00ggI3v-CUwfUBQ"
+              "href": "https://www.youtube.com/@gratheon-bees"
             }
           ],
           "title": null

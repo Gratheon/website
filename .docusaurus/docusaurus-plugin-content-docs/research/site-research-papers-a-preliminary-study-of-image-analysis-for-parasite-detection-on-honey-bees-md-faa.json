@@ -1,0 +1,22 @@
+{
+  "id": "papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+  "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+  "description": "- PDF",
+  "source": "@site/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+  "permalink": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2018",
+    "orgs": [
+      "🇦🇹 Vienna University of Technology",
+      "🇪🇸 Universidad de Oviedo",
+      "🇪🇸 Universitat de Barcelona"
+    ],
+    "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+  "title": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+  "description": "https://openaccess.thecvf.com/contentICCVW2019/papers/CVWC/MarstallerDeepBees-BuildingandScalingConvolutionalNeuronalNetsForFastICCVW2019_paper.pdf",
+  "source": "@site/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+  "permalink": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2019",
+    "orgs": [
+      "🇩🇪 Karlsruhe Institute of Technology"
+    ],
+    "hide_table_of_contents": true,
+    "title": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+  }
+}

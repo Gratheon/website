@@ -1,0 +1,21 @@
+{
+  "id": "papers/Reception and learning of electric fields in bees",
+  "title": "Reception and learning of electric fields in bees",
+  "description": "- URL",
+  "source": "@site/research/papers/Reception and learning of electric fields in bees.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Reception and learning of electric fields in bees",
+  "permalink": "/research/papers/Reception and learning of electric fields in bees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2013",
+    "orgs": [
+      "🇩🇪 Freie Universität Berlin"
+    ],
+    "hide_table_of_contents": true,
+    "title": "Reception and learning of electric fields in bees"
+  }
+}

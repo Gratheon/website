@@ -1,0 +1,20 @@
+{
+  "id": "papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+  "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+  "description": "- PDF",
+  "source": "@site/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+  "permalink": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2021",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ],
+    "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+  }
+}

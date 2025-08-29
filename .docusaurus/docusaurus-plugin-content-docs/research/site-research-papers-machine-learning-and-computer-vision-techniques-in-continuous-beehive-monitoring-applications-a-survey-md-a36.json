@@ -1,0 +1,21 @@
+{
+  "id": "papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+  "description": "PDF",
+  "source": "@site/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "permalink": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ],
+    "year": "2023",
+    "hide_table_of_contents": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "papers/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+  "description": "PDF",
+  "source": "@site/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "permalink": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2024",
+    "orgs": [
+      "🇨🇿 Brno University of Technology",
+      "🇫🇮 LUT University"
+    ],
+    "hide_table_of_contents": true,
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery"
+  }
+}

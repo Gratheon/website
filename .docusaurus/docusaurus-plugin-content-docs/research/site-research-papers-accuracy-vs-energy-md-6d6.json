@@ -1,0 +1,21 @@
+{
+  "id": "papers/Accuracy vs. Energy",
+  "title": "Accuracy vs. Energy: An Assessment of Bee Object Inference inVideos from On-Hive Video Loggers with YOLOv3,YOLOv4-Tiny, and YOLOv7-Tiny",
+  "description": "- PDF",
+  "source": "@site/research/papers/Accuracy vs. Energy.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Accuracy vs. Energy",
+  "permalink": "/research/papers/Accuracy vs. Energy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Accuracy vs. Energy: An Assessment of Bee Object Inference inVideos from On-Hive Video Loggers with YOLOv3,YOLOv4-Tiny, and YOLOv7-Tiny",
+    "orgs": [
+      "🇺🇸 Utah State University"
+    ],
+    "year": "2023",
+    "hide_table_of_contents": true
+  }
+}

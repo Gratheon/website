@@ -5,8 +5,8 @@ orgs:
 title: Towards Varroa destructor mite detection using a narrow spectra illumination
 ---
 
-[PDF](img/2504.06099v1.pdf)
+[PDF](./pdfs/2504.06099v1.pdf)
 
-<object data={require('./img/2504.06099v1.pdf').default} type="application/pdf" width="100%" height="800"></object>
+<object data={require('./pdfs/2504.06099v1.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](img/2504.06099v1.pdf)
+![](./pdfs/2504.06099v1.pdf)

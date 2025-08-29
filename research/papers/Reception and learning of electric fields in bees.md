@@ -1,5 +1,5 @@
 ---
-year: 2013
+year: "2013"
 orgs:
   - 🇩🇪 Freie Universität Berlin
 hide_table_of_contents: true

@@ -10,20 +10,20 @@ RoboRoyale project is a R&D collaboration between multiple universities to analy
 
 
 
-![](../papers/img/F4zzEZ6XQAAIux8.jpg)
+![](../img/F4zzEZ6XQAAIux8.jpg)
 
-![](../papers/img/FUuJZuqX0AAJ9k0.jpg)
+![](../img/FUuJZuqX0AAJ9k0.jpg)
 
-![](../papers/img/F0rH3YmWYAE4OsC.jpg)
+![](../img/F0rH3YmWYAE4OsC.jpg)
 
-![](../papers/img/F06mdn5WIAMsRuI.jpg)
+![](../img/F06mdn5WIAMsRuI.jpg)
 
-![](../papers/img/Fr0l_YyXwAAxSvQ.jpg)
+![](../img/Fr0l_YyXwAAxSvQ.jpg)
 
-![](../papers/img/FrXARCXWwAQ4FWM.jpg)
+![](../img/FrXARCXWwAQ4FWM.jpg)
 
-![](../papers/img/FVSwEOTXsAAd82W.jpg)
+![](../img/FVSwEOTXsAAd82W.jpg)
 
-![](../papers/img/FcyC-tQX0Aca1ut.jpg)
+![](../img/FcyC-tQX0Aca1ut.jpg)
 
-![](../papers/img/FTOxAhxXEAAAtBB.jpg)
+![](../img/FTOxAhxXEAAAtBB.jpg)

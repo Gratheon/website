@@ -1,0 +1,20 @@
+{
+  "id": "papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+  "title": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+  "description": "PDF",
+  "source": "@site/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+  "permalink": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇵🇷 University of Puerto Rico"
+    ],
+    "title": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+    "year": "2018"
+  }
+}

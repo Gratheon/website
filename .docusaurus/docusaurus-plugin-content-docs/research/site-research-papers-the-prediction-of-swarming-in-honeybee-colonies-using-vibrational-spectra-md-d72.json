@@ -1,0 +1,22 @@
+{
+  "id": "papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+  "title": "The prediction of swarming in honeybee colonies using vibrational spectra",
+  "description": "- Original URL",
+  "source": "@site/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+  "permalink": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2020",
+    "orgs": [
+      "🇬🇧 Nottingham Trent University",
+      "🇫🇷  l’Institut National de Recherche en Agriculture",
+      "🇧🇪 Centre Apicole de Recherche et d’Information"
+    ],
+    "title": "The prediction of swarming in honeybee colonies using vibrational spectra"
+  }
+}

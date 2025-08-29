@@ -1,0 +1,21 @@
+{
+  "id": "papers/Raspberry Pi Bee Health Monitoring Device",
+  "title": "Raspberry Pi Bee Health Monitoring Device",
+  "description": "PDF",
+  "source": "@site/research/papers/Raspberry Pi Bee Health Monitoring Device.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Raspberry Pi Bee Health Monitoring Device",
+  "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ],
+    "year": "2023",
+    "hide_table_of_contents": true
+  }
+}

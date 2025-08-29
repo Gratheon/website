@@ -1,0 +1,17 @@
+{
+  "id": "papers/Honeybees on the move - Pollination services and honey production",
+  "title": "Honeybees on the move - Pollination services and honey production",
+  "description": "PDF",
+  "source": "@site/research/papers/Honeybees on the move - Pollination services and honey production.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Honeybees on the move - Pollination services and honey production",
+  "permalink": "/research/papers/Honeybees on the move - Pollination services and honey production",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2018",
+    "title": "Honeybees on the move - Pollination services and honey production"
+  }
+}

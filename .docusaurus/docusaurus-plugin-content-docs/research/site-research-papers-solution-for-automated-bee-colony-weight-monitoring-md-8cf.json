@@ -1,0 +1,20 @@
+{
+  "id": "papers/Solution for automated bee colony weight monitoring",
+  "title": "Solution for automated bee colony weight monitoring",
+  "description": "PDF",
+  "source": "@site/research/papers/Solution for automated bee colony weight monitoring.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Solution for automated bee colony weight monitoring",
+  "permalink": "/research/papers/Solution for automated bee colony weight monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "year": "2017",
+    "orgs": [
+      "🇱🇻 Latvia University of Agriculture"
+    ]
+  }
+}

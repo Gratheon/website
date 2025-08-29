@@ -1454,66 +1454,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
-              "path": "/research/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
-            },
-            {
-              "id": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
-              "path": "/research/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
-            },
-            {
-              "id": "⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
-              "path": "/research/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
-            },
-            {
-              "id": "⭐️ BeeAlarmed. Masters thesis",
-              "path": "/research/⭐️ BeeAlarmed. Masters thesis"
-            },
-            {
-              "id": "⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
-              "path": "/research/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
-            },
-            {
-              "id": "⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
-              "path": "/research/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
-            },
-            {
-              "id": "⭐️ Towards dense object tracking in a 2D honeybee hive",
-              "path": "/research/⭐️ Towards dense object tracking in a 2D honeybee hive"
-            },
-            {
-              "id": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
-              "path": "/research/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
-            },
-            {
-              "id": "Accuracy vs. Energy",
-              "path": "/research/Accuracy vs. Energy"
-            },
-            {
-              "id": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
-              "path": "/research/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
-            },
-            {
-              "id": "Approximation of functions",
-              "path": "/research/Approximation of functions"
-            },
-            {
-              "id": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
-              "path": "/research/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
-            },
-            {
-              "id": "BeeNet - An End-To-End Deep Network For Bee Surveillance",
-              "path": "/research/BeeNet - An End-To-End Deep Network For Bee Surveillance"
-            },
-            {
-              "id": "BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
-              "path": "/research/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
-            },
-            {
-              "id": "Biodiversity conservation and current threats to European honeybees",
-              "path": "/research/Biodiversity conservation and current threats to European honeybees"
-            },
-            {
               "id": "Competition/🇦🇺 Beemate",
               "path": "/research/Competition/🇦🇺 Beemate"
             },
@@ -1714,108 +1654,188 @@
               "path": "/research/Competition/vitzaoral beehive_weight"
             },
             {
-              "id": "Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
-              "path": "/research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
-            },
-            {
-              "id": "Evaluation of the honey bee colonies weight gain during theintensive foraging period",
-              "path": "/research/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
-            },
-            {
-              "id": "Honey bees modify plantpollinator network structure",
-              "path": "/research/Honey bees modify plantpollinator network structure"
-            },
-            {
-              "id": "Honey bulk DNA metagenomic analysis to identify honey biological",
-              "path": "/research/Honey bulk DNA metagenomic analysis to identify honey biological"
-            },
-            {
-              "id": "Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
-              "path": "/research/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
-            },
-            {
-              "id": "Honeybee Re-identification in Video New Datasets and Impact of Self-supervision",
-              "path": "/research/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision"
-            },
-            {
-              "id": "Honeybees on the move - Pollination services and honey production",
-              "path": "/research/Honeybees on the move - Pollination services and honey production"
-            },
-            {
-              "id": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
-              "path": "/research/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
-            },
-            {
               "id": "index",
               "path": "/research/"
             },
             {
-              "id": "Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
-              "path": "/research/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+              "id": "papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+              "path": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
             },
             {
-              "id": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
-              "path": "/research/Labeled dataset for bee detection and direction estimation on entrance to beehive"
+              "id": "papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+              "path": "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
             },
             {
-              "id": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
-              "path": "/research/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
+              "id": "papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+              "path": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
             },
             {
-              "id": "Markerless tracking of an entire honey bee colony",
-              "path": "/research/Markerless tracking of an entire honey bee colony"
+              "id": "papers/⭐️ BeeAlarmed. Masters thesis",
+              "path": "/research/papers/⭐️ BeeAlarmed. Masters thesis"
             },
             {
-              "id": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
-              "path": "/research/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
+              "id": "papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+              "path": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
             },
             {
-              "id": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
-              "path": "/research/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
+              "id": "papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+              "path": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
             },
             {
-              "id": "Raspberry Pi Bee Health Monitoring Device",
-              "path": "/research/Raspberry Pi Bee Health Monitoring Device"
+              "id": "papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
+              "path": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
             },
             {
-              "id": "Reception and learning of electric fields in bees",
-              "path": "/research/Reception and learning of electric fields in bees"
+              "id": "papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+              "path": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
             },
             {
-              "id": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
-              "path": "/research/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+              "id": "papers/Accuracy vs. Energy",
+              "path": "/research/papers/Accuracy vs. Energy"
             },
             {
-              "id": "The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount",
-              "path": "/research/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+              "id": "papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
+              "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
             },
             {
-              "id": "The prediction of swarming in honeybee colonies using vibrational spectra",
-              "path": "/research/The prediction of swarming in honeybee colonies using vibrational spectra"
+              "id": "papers/Approximation of functions",
+              "path": "/research/papers/Approximation of functions"
             },
             {
-              "id": "Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
-              "path": "/research/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
+              "id": "papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+              "path": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
             },
             {
-              "id": "Towards Varroa destructor mite detection using a narrow spectra illumination",
-              "path": "/research/Towards Varroa destructor mite detection using a narrow spectra illumination"
+              "id": "papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+              "path": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
             },
             {
-              "id": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
-              "path": "/research/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+              "id": "papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+              "path": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
             },
             {
-              "id": "Varroa destructor detection on honey bees using hyperspectral imagery",
-              "path": "/research/Varroa destructor detection on honey bees using hyperspectral imagery"
+              "id": "papers/Biodiversity conservation and current threats to European honeybees",
+              "path": "/research/papers/Biodiversity conservation and current threats to European honeybees"
             },
             {
-              "id": "Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques",
-              "path": "/research/Visual Diagnosis of the Varroa Destructor Parasitic Mite inHoneybees Using Object Detector Techniques"
+              "id": "papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+              "path": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
             },
             {
-              "id": "wifi-exposure",
-              "path": "/research/wifi-exposure"
+              "id": "papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+              "path": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
+            },
+            {
+              "id": "papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+              "path": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
+            },
+            {
+              "id": "papers/Honey bees modify plantpollinator network structure",
+              "path": "/research/papers/Honey bees modify plantpollinator network structure"
+            },
+            {
+              "id": "papers/Honey bulk DNA metagenomic analysis to identify honey biological",
+              "path": "/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological"
+            },
+            {
+              "id": "papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
+              "path": "/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
+            },
+            {
+              "id": "papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision",
+              "path": "/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision"
+            },
+            {
+              "id": "papers/Honeybees on the move - Pollination services and honey production",
+              "path": "/research/papers/Honeybees on the move - Pollination services and honey production"
+            },
+            {
+              "id": "papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+              "path": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
+            },
+            {
+              "id": "papers/Importance of GIS solutions for beekeepers a review",
+              "path": "/research/papers/Importance of GIS solutions for beekeepers a review"
+            },
+            {
+              "id": "papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
+              "path": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+            },
+            {
+              "id": "papers/Labeled dataset for bee detection and direction estimation on entrance to beehive",
+              "path": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive"
+            },
+            {
+              "id": "papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+              "path": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
+            },
+            {
+              "id": "papers/Markerless tracking of an entire honey bee colony",
+              "path": "/research/papers/Markerless tracking of an entire honey bee colony"
+            },
+            {
+              "id": "papers/Model for the bee apiary location evaluation",
+              "path": "/research/papers/Model for the bee apiary location evaluation"
+            },
+            {
+              "id": "papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping",
+              "path": "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping"
+            },
+            {
+              "id": "papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+              "path": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
+            },
+            {
+              "id": "papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
+              "path": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
+            },
+            {
+              "id": "papers/Raspberry Pi Bee Health Monitoring Device",
+              "path": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+            },
+            {
+              "id": "papers/Reception and learning of electric fields in bees",
+              "path": "/research/papers/Reception and learning of electric fields in bees"
+            },
+            {
+              "id": "papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+              "path": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+            },
+            {
+              "id": "papers/Solution for automated bee colony weight monitoring",
+              "path": "/research/papers/Solution for automated bee colony weight monitoring"
+            },
+            {
+              "id": "papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount",
+              "path": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+            },
+            {
+              "id": "papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+              "path": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra"
+            },
+            {
+              "id": "papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+              "path": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
+            },
+            {
+              "id": "papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
+              "path": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+            },
+            {
+              "id": "papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+              "path": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+            },
+            {
+              "id": "papers/Varroa destructor detection on honey bees using hyperspectral imagery",
+              "path": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery"
+            },
+            {
+              "id": "papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+              "path": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+            },
+            {
+              "id": "papers/wifi-exposure",
+              "path": "/research/papers/wifi-exposure"
             }
           ],
           "draftIds": [],
