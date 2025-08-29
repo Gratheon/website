@@ -11,14 +11,13 @@
             "id": "9c787d0d24e58004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "research/Importance of GIS solutions for beekeepers a review.md",
-                "mode": "source",
-                "source": false
+                "file": "research/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Importance of GIS solutions for beekeepers a review"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -90,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 651.5
+    "width": 431.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -179,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "9c787d0d24e58004",
   "lastOpenFiles": [
+    "research/index.md",
+    "research/Untitled.base",
+    "research/Importance of GIS solutions for beekeepers a review.md",
     "research/pdfs/Vol21No2_2023_Kotovs.pdf",
     "research/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
-    "research/Importance of GIS solutions for beekeepers a review.md",
     "research/pdfs/Vol21NoS2_2023_Komasilova.pdf",
     "research/Model for the bee apiary location evaluation.md",
     "research/pdfs/AR2020_Vol18SI2_Komasilova.pdf",
@@ -191,7 +192,6 @@
     "research/pdfs/Vol15nr2_Zacepins.pdf",
     "research/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping.md",
     "research/pdfs/Vol17No2_Komasilovs.pdf",
-    "research/index.md",
     "Untitled.md",
     "research/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
     "research/Biodiversity conservation and current threats to European honeybees.md",
@@ -201,8 +201,6 @@
     "public/sitemap.xml",
     "public/index.html",
     "public/research/Competition/🇺🇸 Best Bees/index.html",
-    "public/research/Competition/🇮🇱 Beewise/index.html",
-    "public/research/Competition/🇪🇺 RoboRoyale/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",

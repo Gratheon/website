@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("research")
+        - file.folder != "research/Competition"
+        - file.ext == "md"
+    order:
+      - title
+      - year
+      - orgs
+      - file.basename
+    sort:
+      - property: year
+        direction: DESC
+    columnSize:
+      note.title: 392
