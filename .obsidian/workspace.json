@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff5aebd30a249a2",
+        "id": "e76c2e80cbc8f6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "9c787d0d24e58004",
+            "id": "5bad0fb88bca0227",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "research/papers/pdfs/2024.07.31.605955.full.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024.07.31.605955.full"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,11 +159,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c787d0d24e58004",
+  "active": "5bad0fb88bca0227",
   "lastOpenFiles": [
+    "research/papers/pdfs/2024.07.31.605955.full.pdf",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
     "public/blog/atom.css",
@@ -176,7 +176,6 @@
     "public/index.html",
     "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
     "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
-    "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/tallinn.png",
