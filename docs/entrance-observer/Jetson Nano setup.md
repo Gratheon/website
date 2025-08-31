@@ -61,6 +61,10 @@ sudo apt-get install v4l-utils
 ```
 sudo apt install python3-pip
 pip3 install --upgrade pip
+
+# install python 3.10, because 3.11 did not work with pytorch for me
+pyenv install 3.10.13
+
 ```
 
 ## Opencv with cuda
