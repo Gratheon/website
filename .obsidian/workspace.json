@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e76c2e80cbc8f6ff",
+        "id": "ee782b193b0e3f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "5bad0fb88bca0227",
+            "id": "ff72f7d1374c1cd8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jetson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5bad0fb88bca0227",
+  "active": "a8dd2de626a6cb91",
   "lastOpenFiles": [
     "research/papers/pdfs/2024.07.31.605955.full.pdf",
     "public/blog/atom.xml",
