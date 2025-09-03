@@ -1,4 +1,8 @@
 
+```
+sudo apt-get update && sudo apt-get install -y nvidia-l4t-gstreamer
+```
+
 ## Install docker
 
 ```
@@ -15,4 +19,11 @@ sudo nano /etc/resolv.conf
 # Add:
 nameserver 8.8.8.8
 nameserver 1.1.1.1
+```
+
+
+## Debugging
+```
+gst-inspect-1.0
+jtop
 ```

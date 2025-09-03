@@ -11,10 +11,14 @@
             "id": "31defc6bec600569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/entrance-observer/Jetson Orin setup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jetson Orin setup"
             }
           }
         ]
