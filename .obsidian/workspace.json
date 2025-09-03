@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "a8dd2de626a6cb91",
   "lastOpenFiles": [
     "docs/entrance-observer/Jetson Nano setup.md",
     "docs/entrance-observer/Jetson Orin setup.md",
