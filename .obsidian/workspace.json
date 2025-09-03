@@ -11,10 +11,14 @@
             "id": "eada1484564bed00",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/products/beehive_camera/features/🎥 Video streaming via API.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🎥 Video streaming via API"
             }
           }
         ]
@@ -164,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8dd2de626a6cb91",
+  "active": "eada1484564bed00",
   "lastOpenFiles": [
     "docs/entrance-observer/Jetson Nano setup.md",
     "docs/entrance-observer/Jetson Orin setup.md",
