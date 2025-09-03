@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18fd62dfaab4dc91",
+        "id": "1d06e67dc88b9d99",
         "type": "tabs",
         "children": [
           {
-            "id": "eada1484564bed00",
+            "id": "31defc6bec600569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/entrance-observer/Jetson Orin setup.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Jetson Orin setup"
+              "title": "New tab"
             }
           }
         ]
@@ -163,14 +159,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eada1484564bed00",
+  "active": "31defc6bec600569",
   "lastOpenFiles": [
+    "docs/entrance-observer/Jetson Orin setup.md",
     "about/products/beehive_camera/features/🎥 Video streaming via API.md",
     "docs/entrance-observer/Jetson Nano setup.md",
-    "docs/entrance-observer/Jetson Orin setup.md",
     "about/products/beehive_camera/todo/🎮 Device management - Remote desktop.md",
     "research/papers/pdfs/2024.07.31.605955.full.pdf",
     "public/blog/atom.xml",
