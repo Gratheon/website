@@ -6,4 +6,13 @@ sudo apt install docker-ce=5:27.5.1-1~ubuntu.22.04~jammy \
 docker-ce-cli=5:27.5.1-1~ubuntu.22.04~jammy
 ```
 
-wget <https://developer.download.nvidia.com/compute/redist/jp/v60dp/pytorch/torch-2.2.0a0+81ea7a4.nv24.01-cp310-cp310-linux_aarch64.whl>
+
+## Configure DNS
+Sometimes local wifi extension dns is not reliable
+```
+nmcli connection modify "MyWiFi" ipv4.dns "8.8.8.8 1.1.1.1"
+sudo nano /etc/resolv.conf
+# Add:
+nameserver 8.8.8.8
+nameserver 1.1.1.1
+```
