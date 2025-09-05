@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b055a13e5b449a4",
+        "id": "7b788b5cf8d60ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7613fde7ea7c28",
+            "id": "600973a26ae95538",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b7613fde7ea7c28",
+  "active": "600973a26ae95538",
   "lastOpenFiles": [
     "docs/entrance-observer/Jetson Orin setup.md",
     "about/products/beehive_camera/features/🎥 Video streaming via API.md",
