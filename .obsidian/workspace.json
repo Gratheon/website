@@ -11,10 +11,14 @@
             "id": "600973a26ae95538",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/Competition/Апипульс.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Апипульс"
             }
           }
         ]
@@ -165,6 +169,10 @@
   },
   "active": "600973a26ae95538",
   "lastOpenFiles": [
+    "research/Competition/img/Pasted image 20250905194440.png",
+    "research/Competition/img/Pasted image 20250905194432.png",
+    "research/Competition/img/Pasted image 20250905194417.png",
+    "research/Competition/img/Pasted image 20250905194407.png",
     "docs/entrance-observer/Jetson Orin setup.md",
     "about/products/beehive_camera/features/🎥 Video streaming via API.md",
     "docs/entrance-observer/Jetson Nano setup.md",
@@ -186,9 +194,6 @@
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/temp.webp",
     "public/img/sharing.webp",
-    "public/img/undraw_docusaurus_mountain.svg",
-    "public/img/undraw_docusaurus_react.svg",
-    "public/img/sensors.webp",
     "research/index.md",
     "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md",
@@ -209,7 +214,6 @@
     "research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "research/papers/wifi-exposure.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "research/papers/Honey bees modify plantpollinator network structure.md",
-    "research/papers/Varroa destructor detection on honey bees using hyperspectral imagery.md"
+    "research/papers/Honey bees modify plantpollinator network structure.md"
   ]
 }

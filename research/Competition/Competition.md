@@ -26,8 +26,8 @@ This is a list of great apps, devices, code repos and products that we look at f
 | title                                             | url                                            | description |
 | ------------------------------------------------- | ---------------------------------------------- | ----------- |
 | [BeeLogger](BeeLogger.md)                         | https://github.com/boortel/Bee-Health-Monitor/ | \-          |
-| [HiveGenie](HiveGenie.md)                         | https://www.hivegenie.com/our-product/         | \-          |
 | [Mjrovai Bee-Counting](Mjrovai%20Bee-Counting.md) | https://github.com/Mjrovai/Bee-Counting/       | \-          |
+| [HiveGenie](HiveGenie.md)                         | https://www.hivegenie.com/our-product/         | \-          |
 | [🇦🇺 Beemate](🇦🇺%20Beemate.md)                 | https://beemate.buzz/                          | \-          |
 | [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md)       | https://www.vimanatech.com.au/about            | \-          |
 | [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)                   | https://apic.ai/                               | \-          |
@@ -44,20 +44,18 @@ This is a list of great apps, devices, code repos and products that we look at f
 | title                                                                                   | url                                                                                                                          | description |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [3bee](3bee.md)                                                                         | https://www.3bee.com/en/                                                                                                     | \-          |
-| [AgriPulse](AgriPulse.md)                                                               | https://apipulse.ru/                                                                                                         | \-          |
 | [AgriSound](AgriSound.md)                                                               | https://agrisound.io/                                                                                                        | \-          |
-| [BeeHero](BeeHero.md)                                                                   | https://www.beehero.io/                                                                                                      | \-          |
-| [BeeHiveMonitoring](BeeHiveMonitoring.md)                                               | https://beehivemonitoring.com/                                                                                               | \-          |
 | [BeeLab](BeeLab.md)                                                                     | BeeLab.se                                                                                                                    | \-          |
-| [BeePot](BeePot.md)                                                                     | https://github.com/BadassHomesteader/BeeBot                                                                                  | \-          |
+| [BeeHiveMonitoring](BeeHiveMonitoring.md)                                               | https://beehivemonitoring.com/                                                                                               | \-          |
+| [BeeHero](BeeHero.md)                                                                   | https://www.beehero.io/                                                                                                      | \-          |
 | [BeeSage](BeeSage.md)                                                                   | https://beesage.co/                                                                                                          | \-          |
-| [BeeZee](BeeZee.md)                                                                     | https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/                                                               | \-          |
 | [BeehiveMonitoringUSA](BeehiveMonitoringUSA.md)                                         | https://beehivemonitoringusa.com                                                                                             | \-          |
 | [Beep](Beep.md)                                                                         | https://beep.nl/                                                                                                             | \-          |
+| [BeeZee](BeeZee.md)                                                                     | https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/                                                               | \-          |
 | [Broodminder](Broodminder.md)                                                           | broodminder.com                                                                                                              | \-          |
 | [BuzzBox](BuzzBox.md)                                                                   | https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive | \-          |
+| [BeePot](BeePot.md)                                                                     | https://github.com/BadassHomesteader/BeeBot                                                                                  | \-          |
 | [DanNduati IoT-beehive-monitoring-system](DanNduati%20IoT-beehive-monitoring-system.md) | https://github.com/DanNduati/IoT-beehive-monitoring-system                                                                   | \-          |
-| [ForSage](ForSage.md)                                                                   | https://www.forsage.net/en/sensors/                                                                                          | \-          |
 | [Gobuzzr](Gobuzzr.md)                                                                   | https://www.gobuzzr.com/                                                                                                     | \-          |
 | [Hackuarium beemos](Hackuarium%20beemos.md)                                             | https://github.com/Hackuarium/beemos                                                                                         | \-          |
 | [HiveMind](HiveMind.md)                                                                 | https://www.kickstarter.com/projects/hivemind/innovative-wireless-beehive-scales?ref=discovery&term=beehive                  | \-          |
@@ -66,8 +64,10 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [IntelligentHives](IntelligentHives.md)                                                 | https://intelligenthives.eu                                                                                                  | \-          |
 | [Prohiver](Prohiver.md)                                                                 | https://prohiver.com/                                                                                                        | \-          |
 | [Solutionbee](Solutionbee.md)                                                           | https://solutionbee.com                                                                                                      | \-          |
-| [io-bee](io-bee.md)                                                                     | https://io-bee.eu/                                                                                                           | \-          |
+| [ForSage](ForSage.md)                                                                   | https://www.forsage.net/en/sensors/                                                                                          | \-          |
 | [vitzaoral beehive_weight](vitzaoral%20beehive_weight.md)                               | https://github.com/vitzaoral/beehive_weight                                                                                  | \-          |
+| [io-bee](io-bee.md)                                                                     | https://io-bee.eu/                                                                                                           | \-          |
+| [Апипульс](Апипульс.md)                                                                 | https://apipulse.ru/                                                                                                         | \-          |
 <!-- SerializedQuery END -->
 
 ## 📱Web-app
@@ -78,11 +78,11 @@ This is a list of great apps, devices, code repos and products that we look at f
 | title                                         | url                          | description                                   |
 | --------------------------------------------- | ---------------------------- | --------------------------------------------- |
 | [ApiManager](ApiManager.md)                   | https://apimanager.net/      | \-                                            |
-| [ApiZoom](ApiZoom.md)                         | https://www.apizoom.app/     | \-                                            |
 | [ApiaryBook](ApiaryBook.md)                   | https://apiarybook.com       | \-                                            |
+| [ApiZoom](ApiZoom.md)                         | https://www.apizoom.app/     | \-                                            |
 | [BeeOrganizer](BeeOrganizer.md)               | \-                           | \-                                            |
-| [BeePlus Beekeeping](BeePlus%20Beekeeping.md) | https://www.hive-tool.com/   | \-                                            |
 | [Beetight 2](Beetight%202.md)                 | \-                           | \-                                            |
+| [BeePlus Beekeeping](BeePlus%20Beekeeping.md) | https://www.hive-tool.com/   | \-                                            |
 | [HiveBloom](HiveBloom.md)                     | \-                           | \-                                            |
 | [InspectNext](InspectNext.md)                 | \-                           | \-                                            |
 | [OSBeehives](OSBeehives.md)                   | \-                           | \-                                            |
