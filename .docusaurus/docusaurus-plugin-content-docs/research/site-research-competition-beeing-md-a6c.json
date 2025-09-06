@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "url": "https://beeing.it/en/"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Solutionbee",
+    "permalink": "/research/Competition/Solutionbee"
+  },
+  "next": {
+    "title": "beescanning",
+    "permalink": "/research/Competition/beescanning"
   }
 }

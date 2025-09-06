@@ -17,5 +17,14 @@
       "🇩🇪 Karlsruhe Institute of Technology"
     ],
     "year": "2023"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+    "permalink": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+  },
+  "next": {
+    "title": "Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+    "permalink": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
   }
 }

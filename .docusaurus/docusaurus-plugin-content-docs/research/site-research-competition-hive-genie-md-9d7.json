@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.hivegenie.com/our-product/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HiveBloom",
+    "permalink": "/research/Competition/HiveBloom"
+  },
+  "next": {
+    "title": "HiveMind",
+    "permalink": "/research/Competition/HiveMind"
   }
 }

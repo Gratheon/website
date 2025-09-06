@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/boortel/Bee-Health-Monitor/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeLab",
+    "permalink": "/research/Competition/BeeLab"
+  },
+  "next": {
+    "title": "BeeOrganizer",
+    "permalink": "/research/Competition/BeeOrganizer"
   }
 }

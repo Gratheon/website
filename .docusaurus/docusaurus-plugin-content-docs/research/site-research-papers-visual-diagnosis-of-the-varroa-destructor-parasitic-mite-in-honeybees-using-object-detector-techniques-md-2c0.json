@@ -16,5 +16,14 @@
       "🇨🇿 Brno University of Technology"
     ],
     "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "next": {
+    "title": "Defined exposure of honey bee colonies to simulated radiofrequency electromagnetic fields (RF-EMF): Negative effects on the homing ability, butn ot on brood development or longevity",
+    "permalink": "/research/papers/wifi-exposure"
   }
 }

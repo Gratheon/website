@@ -120,7 +120,12 @@ const config: Config = {
           label: "Docs",
         },
 
-        { to: "/research", label: "Research", position: "left" },
+        {
+          to: "/research",
+          label: "Research",
+          position: "left",
+          sidebarId: "researchSidebar",
+        },
 
         { to: "/blog", label: "Blog", position: "left" },
 
@@ -255,8 +260,7 @@ const config: Config = {
         id: "research",
         path: "./research",
         routeBasePath: "research",
-        sidebarPath: "sidebars.ts",
-        // sidebarPath: "sidebars.research.ts",
+        sidebarPath: "sidebars.research.ts",
         // ... other options
       },
     ],

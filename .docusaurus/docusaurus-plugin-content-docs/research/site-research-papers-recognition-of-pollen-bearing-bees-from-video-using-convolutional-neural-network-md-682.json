@@ -17,5 +17,14 @@
     "year": "2018",
     "hide_table_of_contents": true,
     "title": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Reception and learning of electric fields in bees",
+    "permalink": "/research/papers/Reception and learning of electric fields in bees"
+  },
+  "next": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "permalink": "/research/papers/Solution for automated bee colony weight monitoring"
   }
 }

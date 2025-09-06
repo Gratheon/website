@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/Hackuarium/beemos",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HIIVE Link",
+    "permalink": "/research/Competition/HIIVE Link"
+  },
+  "next": {
+    "title": "HiveBloom",
+    "permalink": "/research/Competition/HiveBloom"
   }
 }

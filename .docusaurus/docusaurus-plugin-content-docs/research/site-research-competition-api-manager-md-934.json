@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://apimanager.net/",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "AgriSound",
+    "permalink": "/research/Competition/AgriSound"
+  },
+  "next": {
+    "title": "ApiZoom",
+    "permalink": "/research/Competition/ApiZoom"
   }
 }

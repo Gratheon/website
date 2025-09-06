@@ -15,5 +15,14 @@
     "priority": 2,
     "description": "Beekeeping organizer for migratory beekeepers",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇦🇺 Purple Hive",
+    "permalink": "/research/Competition/🇦🇺 Purple Hive"
+  },
+  "next": {
+    "title": "🇩🇪 ApicAI",
+    "permalink": "/research/Competition/🇩🇪 ApicAI"
   }
 }

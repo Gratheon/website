@@ -17,5 +17,14 @@
     ],
     "year": "2022",
     "title": "Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+    "permalink": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
+  },
+  "next": {
+    "title": "Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+    "permalink": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
   }
 }

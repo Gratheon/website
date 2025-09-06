@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "BeeLab.se",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeHiveMonitoring",
+    "permalink": "/research/Competition/BeeHiveMonitoring"
+  },
+  "next": {
+    "title": "BeeLogger",
+    "permalink": "/research/Competition/BeeLogger"
   }
 }

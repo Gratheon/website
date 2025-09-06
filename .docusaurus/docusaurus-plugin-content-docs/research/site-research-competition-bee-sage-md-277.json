@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://beesage.co/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeePot",
+    "permalink": "/research/Competition/BeePot"
+  },
+  "next": {
+    "title": "BeeZee",
+    "permalink": "/research/Competition/BeeZee"
   }
 }

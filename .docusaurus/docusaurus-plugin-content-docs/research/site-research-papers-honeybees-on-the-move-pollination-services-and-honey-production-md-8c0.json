@@ -13,5 +13,14 @@
   "frontMatter": {
     "year": "2018",
     "title": "Honeybees on the move - Pollination services and honey production"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Honeybee Re-identification in Video: New Datasets and Impact of Self-supervision",
+    "permalink": "/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision"
+  },
+  "next": {
+    "title": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+    "permalink": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
   }
 }

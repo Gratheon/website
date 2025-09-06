@@ -17,5 +17,14 @@
     ],
     "hide_table_of_contents": true,
     "title": "Reception and learning of electric fields in bees"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+  },
+  "next": {
+    "title": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+    "permalink": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
   }
 }

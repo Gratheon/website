@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://solutionbee.com",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Prohiver",
+    "permalink": "/research/Competition/Prohiver"
+  },
+  "next": {
+    "title": "beeing",
+    "permalink": "/research/Competition/beeing"
   }
 }

@@ -16,5 +16,14 @@
     "orgs": [
       "🇱🇻 Latvia University of Agriculture"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+    "permalink": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+  },
+  "next": {
+    "title": "The development of honey bee coloniesassessed using a new semi-automated broodcounting method: CombCount",
+    "permalink": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
   }
 }

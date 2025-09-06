@@ -16,5 +16,14 @@
       "🇺🇸 Utah State University"
     ],
     "title": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Approximation of functions determining colony activity using neural networks. Master thesis",
+    "permalink": "/research/papers/Approximation of functions"
+  },
+  "next": {
+    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+    "permalink": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
   }
 }

@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeSage",
+    "permalink": "/research/Competition/BeeSage"
+  },
+  "next": {
+    "title": "BeehiveMonitoringUSA",
+    "permalink": "/research/Competition/BeehiveMonitoringUSA"
   }
 }

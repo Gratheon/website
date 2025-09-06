@@ -17,5 +17,14 @@
       "🇱🇻 Latvia University of Life Sciences and Technologies",
       "🇩🇪 University of Kassel"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Model for the bee apiary location evaluation",
+    "permalink": "/research/papers/Model for the bee apiary location evaluation"
+  },
+  "next": {
+    "title": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+    "permalink": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
   }
 }

@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://apic.ai/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇨🇦 Nectar",
+    "permalink": "/research/Competition/🇨🇦 Nectar"
+  },
+  "next": {
+    "title": "🇪🇺 RoboRoyale",
+    "permalink": "/research/Competition/🇪🇺 RoboRoyale"
   }
 }

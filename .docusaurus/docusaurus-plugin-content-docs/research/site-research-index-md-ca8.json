@@ -10,10 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 6,
+    "sidebar_position": 1,
     "title": "🔬 Research",
-    "hide_table_of_contents": false
+    "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "next": {
+    "title": "Hacker projects",
+    "permalink": "/research/Hacker projects"
   }
 }

@@ -17,5 +17,10 @@
     ],
     "hide_table_of_contents": true,
     "title": "Towards dense object tracking in a 2D honeybee hive"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+    "permalink": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
   }
 }

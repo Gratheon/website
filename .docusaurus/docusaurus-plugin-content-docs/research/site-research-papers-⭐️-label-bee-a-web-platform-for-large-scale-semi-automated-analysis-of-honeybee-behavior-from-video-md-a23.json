@@ -17,5 +17,14 @@
     ],
     "year": "2019",
     "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+    "permalink": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+  },
+  "next": {
+    "title": "Towards dense object tracking in a 2D honeybee hive",
+    "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
   }
 }

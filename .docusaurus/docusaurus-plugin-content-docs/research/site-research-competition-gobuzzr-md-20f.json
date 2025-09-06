@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.gobuzzr.com/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "ForSage",
+    "permalink": "/research/Competition/ForSage"
+  },
+  "next": {
+    "title": "HIIVE Link",
+    "permalink": "/research/Competition/HIIVE Link"
   }
 }

@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HoneyInstruments",
+    "permalink": "/research/Competition/HoneyInstruments"
+  },
+  "next": {
+    "title": "IntelligentHives",
+    "permalink": "/research/Competition/IntelligentHives"
   }
 }

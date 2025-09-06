@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.forsage.net/en/sensors/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "DanNduati IoT-beehive-monitoring-system",
+    "permalink": "/research/Competition/DanNduati IoT-beehive-monitoring-system"
+  },
+  "next": {
+    "title": "Gobuzzr",
+    "permalink": "/research/Competition/Gobuzzr"
   }
 }

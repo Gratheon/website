@@ -16,5 +16,14 @@
       "🇲🇽 Universidad Politécnica de Tulancingo"
     ],
     "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Towards Varroa destructor mite detection using a narrow spectra illumination",
+    "permalink": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+  },
+  "next": {
+    "title": "Varroa destructor detection on honey bees using hyperspectral imagery",
+    "permalink": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery"
   }
 }

@@ -20,5 +20,14 @@
       "🇦🇺 Commonwealth Scientific and Industrial Research Organisation"
     ],
     "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+    "permalink": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
+  },
+  "next": {
+    "title": "BeePIV: A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+    "permalink": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
   }
 }

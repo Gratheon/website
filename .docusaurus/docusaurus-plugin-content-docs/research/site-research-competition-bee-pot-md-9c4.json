@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/BadassHomesteader/BeeBot",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeePlus Beekeeping",
+    "permalink": "/research/Competition/BeePlus Beekeeping"
+  },
+  "next": {
+    "title": "BeeSage",
+    "permalink": "/research/Competition/BeeSage"
   }
 }

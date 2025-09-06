@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/vitzaoral/beehive_weight",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "io-bee",
+    "permalink": "/research/Competition/io-bee"
+  },
+  "next": {
+    "title": "Апипульс",
+    "permalink": "/research/Competition/Апипульс"
   }
 }

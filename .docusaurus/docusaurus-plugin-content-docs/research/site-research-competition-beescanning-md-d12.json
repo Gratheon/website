@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.beescanning.com/",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "beeing",
+    "permalink": "/research/Competition/beeing"
+  },
+  "next": {
+    "title": "hivetracks",
+    "permalink": "/research/Competition/hivetracks"
   }
 }

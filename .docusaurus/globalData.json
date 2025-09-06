@@ -1455,400 +1455,503 @@
           "docs": [
             {
               "id": "Competition/🇦🇺 Beemate",
-              "path": "/research/Competition/🇦🇺 Beemate"
+              "path": "/research/Competition/🇦🇺 Beemate",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇦🇺 Purple Hive",
-              "path": "/research/Competition/🇦🇺 Purple Hive"
+              "path": "/research/Competition/🇦🇺 Purple Hive",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇨🇦 Nectar",
-              "path": "/research/Competition/🇨🇦 Nectar"
+              "path": "/research/Competition/🇨🇦 Nectar",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇩🇪 ApicAI",
-              "path": "/research/Competition/🇩🇪 ApicAI"
+              "path": "/research/Competition/🇩🇪 ApicAI",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇪🇺 RoboRoyale",
-              "path": "/research/Competition/🇪🇺 RoboRoyale"
+              "path": "/research/Competition/🇪🇺 RoboRoyale",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇮🇱 Beewise",
-              "path": "/research/Competition/🇮🇱 Beewise"
+              "path": "/research/Competition/🇮🇱 Beewise",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/🇺🇸 Best Bees",
-              "path": "/research/Competition/🇺🇸 Best Bees"
+              "path": "/research/Competition/🇺🇸 Best Bees",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/3bee",
-              "path": "/research/Competition/3bee"
+              "path": "/research/Competition/3bee",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/AgriSound",
-              "path": "/research/Competition/AgriSound"
+              "path": "/research/Competition/AgriSound",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/ApiaryBook",
-              "path": "/research/Competition/ApiaryBook"
+              "path": "/research/Competition/ApiaryBook",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/ApiManager",
-              "path": "/research/Competition/ApiManager"
+              "path": "/research/Competition/ApiManager",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/ApiZoom",
-              "path": "/research/Competition/ApiZoom"
+              "path": "/research/Competition/ApiZoom",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeHero",
-              "path": "/research/Competition/BeeHero"
+              "path": "/research/Competition/BeeHero",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeHiveMonitoring",
-              "path": "/research/Competition/BeeHiveMonitoring"
+              "path": "/research/Competition/BeeHiveMonitoring",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeehiveMonitoringUSA",
-              "path": "/research/Competition/BeehiveMonitoringUSA"
+              "path": "/research/Competition/BeehiveMonitoringUSA",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/beeing",
-              "path": "/research/Competition/beeing"
+              "path": "/research/Competition/beeing",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeLab",
-              "path": "/research/Competition/BeeLab"
+              "path": "/research/Competition/BeeLab",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeLogger",
-              "path": "/research/Competition/BeeLogger"
+              "path": "/research/Competition/BeeLogger",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeOrganizer",
-              "path": "/research/Competition/BeeOrganizer"
+              "path": "/research/Competition/BeeOrganizer",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Beep",
-              "path": "/research/Competition/Beep"
+              "path": "/research/Competition/Beep",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeePlus Beekeeping",
-              "path": "/research/Competition/BeePlus Beekeeping"
+              "path": "/research/Competition/BeePlus Beekeeping",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeePot",
-              "path": "/research/Competition/BeePot"
+              "path": "/research/Competition/BeePot",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeSage",
-              "path": "/research/Competition/BeeSage"
+              "path": "/research/Competition/BeeSage",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/beescanning",
-              "path": "/research/Competition/beescanning"
+              "path": "/research/Competition/beescanning",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Beetight 2",
-              "path": "/research/Competition/Beetight 2"
+              "path": "/research/Competition/Beetight 2",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BeeZee",
-              "path": "/research/Competition/BeeZee"
+              "path": "/research/Competition/BeeZee",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Broodminder",
-              "path": "/research/Competition/Broodminder"
+              "path": "/research/Competition/Broodminder",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/BuzzBox",
-              "path": "/research/Competition/BuzzBox"
+              "path": "/research/Competition/BuzzBox",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Competition",
-              "path": "/research/Competition/"
+              "path": "/research/Competition/",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/DanNduati IoT-beehive-monitoring-system",
-              "path": "/research/Competition/DanNduati IoT-beehive-monitoring-system"
+              "path": "/research/Competition/DanNduati IoT-beehive-monitoring-system",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/ForSage",
-              "path": "/research/Competition/ForSage"
+              "path": "/research/Competition/ForSage",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Gobuzzr",
-              "path": "/research/Competition/Gobuzzr"
+              "path": "/research/Competition/Gobuzzr",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Hackuarium beemos",
-              "path": "/research/Competition/Hackuarium beemos"
+              "path": "/research/Competition/Hackuarium beemos",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HIIVE Link",
-              "path": "/research/Competition/HIIVE Link"
+              "path": "/research/Competition/HIIVE Link",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HiveBloom",
-              "path": "/research/Competition/HiveBloom"
+              "path": "/research/Competition/HiveBloom",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HiveGenie",
-              "path": "/research/Competition/HiveGenie"
+              "path": "/research/Competition/HiveGenie",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HiveMind",
-              "path": "/research/Competition/HiveMind"
+              "path": "/research/Competition/HiveMind",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HivePulse",
-              "path": "/research/Competition/HivePulse"
+              "path": "/research/Competition/HivePulse",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/hivetracks",
-              "path": "/research/Competition/hivetracks"
+              "path": "/research/Competition/hivetracks",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/HoneyInstruments",
-              "path": "/research/Competition/HoneyInstruments"
+              "path": "/research/Competition/HoneyInstruments",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/i-bee",
-              "path": "/research/Competition/i-bee"
+              "path": "/research/Competition/i-bee",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/InspectNext",
-              "path": "/research/Competition/InspectNext"
+              "path": "/research/Competition/InspectNext",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/IntelligentHives",
-              "path": "/research/Competition/IntelligentHives"
+              "path": "/research/Competition/IntelligentHives",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/io-bee",
-              "path": "/research/Competition/io-bee"
+              "path": "/research/Competition/io-bee",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Mjrovai Bee-Counting",
-              "path": "/research/Competition/Mjrovai Bee-Counting"
+              "path": "/research/Competition/Mjrovai Bee-Counting",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/OSBeehives",
-              "path": "/research/Competition/OSBeehives"
+              "path": "/research/Competition/OSBeehives",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Prohiver",
-              "path": "/research/Competition/Prohiver"
+              "path": "/research/Competition/Prohiver",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Solutionbee",
-              "path": "/research/Competition/Solutionbee"
+              "path": "/research/Competition/Solutionbee",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/vitzaoral beehive_weight",
-              "path": "/research/Competition/vitzaoral beehive_weight"
+              "path": "/research/Competition/vitzaoral beehive_weight",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Competition/Апипульс",
-              "path": "/research/Competition/Апипульс"
+              "path": "/research/Competition/Апипульс",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Datasets",
-              "path": "/research/Datasets"
+              "path": "/research/Datasets",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "Hacker projects",
-              "path": "/research/Hacker projects"
+              "path": "/research/Hacker projects",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "index",
-              "path": "/research/"
+              "path": "/research/",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
-              "path": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+              "path": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
-              "path": "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
+              "path": "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
-              "path": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+              "path": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ BeeAlarmed. Masters thesis",
-              "path": "/research/papers/⭐️ BeeAlarmed. Masters thesis"
+              "path": "/research/papers/⭐️ BeeAlarmed. Masters thesis",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
-              "path": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+              "path": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
-              "path": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
+              "path": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
-              "path": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
+              "path": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
-              "path": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+              "path": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Accuracy vs. Energy",
-              "path": "/research/papers/Accuracy vs. Energy"
+              "path": "/research/papers/Accuracy vs. Energy",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
-              "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
+              "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Approximation of functions",
-              "path": "/research/papers/Approximation of functions"
+              "path": "/research/papers/Approximation of functions",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
-              "path": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
+              "path": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
-              "path": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
+              "path": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
-              "path": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
+              "path": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Biodiversity conservation and current threats to European honeybees",
-              "path": "/research/papers/Biodiversity conservation and current threats to European honeybees"
+              "path": "/research/papers/Biodiversity conservation and current threats to European honeybees",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
-              "path": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
+              "path": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
-              "path": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
+              "path": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period",
-              "path": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
+              "path": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Honey bees modify plantpollinator network structure",
-              "path": "/research/papers/Honey bees modify plantpollinator network structure"
+              "path": "/research/papers/Honey bees modify plantpollinator network structure",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Honey bulk DNA metagenomic analysis to identify honey biological",
-              "path": "/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological"
+              "path": "/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
-              "path": "/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
+              "path": "/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision",
-              "path": "/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision"
+              "path": "/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Honeybees on the move - Pollination services and honey production",
-              "path": "/research/papers/Honeybees on the move - Pollination services and honey production"
+              "path": "/research/papers/Honeybees on the move - Pollination services and honey production",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
-              "path": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
+              "path": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Importance of GIS solutions for beekeepers a review",
-              "path": "/research/papers/Importance of GIS solutions for beekeepers a review"
+              "path": "/research/papers/Importance of GIS solutions for beekeepers a review",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
-              "path": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+              "path": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Labeled dataset for bee detection and direction estimation on entrance to beehive",
-              "path": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive"
+              "path": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
-              "path": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
+              "path": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Markerless tracking of an entire honey bee colony",
-              "path": "/research/papers/Markerless tracking of an entire honey bee colony"
+              "path": "/research/papers/Markerless tracking of an entire honey bee colony",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Model for the bee apiary location evaluation",
-              "path": "/research/papers/Model for the bee apiary location evaluation"
+              "path": "/research/papers/Model for the bee apiary location evaluation",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping",
-              "path": "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping"
+              "path": "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
-              "path": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
+              "path": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
-              "path": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
+              "path": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Raspberry Pi Bee Health Monitoring Device",
-              "path": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+              "path": "/research/papers/Raspberry Pi Bee Health Monitoring Device",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Reception and learning of electric fields in bees",
-              "path": "/research/papers/Reception and learning of electric fields in bees"
+              "path": "/research/papers/Reception and learning of electric fields in bees",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
-              "path": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+              "path": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Solution for automated bee colony weight monitoring",
-              "path": "/research/papers/Solution for automated bee colony weight monitoring"
+              "path": "/research/papers/Solution for automated bee colony weight monitoring",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount",
-              "path": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+              "path": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/The prediction of swarming in honeybee colonies using vibrational spectra",
-              "path": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra"
+              "path": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
-              "path": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
+              "path": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
-              "path": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+              "path": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
-              "path": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+              "path": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Varroa destructor detection on honey bees using hyperspectral imagery",
-              "path": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery"
+              "path": "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
-              "path": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+              "path": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+              "sidebar": "researchSidebar"
             },
             {
               "id": "papers/wifi-exposure",
-              "path": "/research/papers/wifi-exposure"
+              "path": "/research/papers/wifi-exposure",
+              "sidebar": "researchSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {}
+            "researchSidebar": {
+              "link": {
+                "path": "/research/",
+                "label": "index"
+              }
+            }
           }
         }
       ],

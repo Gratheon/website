@@ -122,7 +122,8 @@ export default {
         {
           "to": "/research",
           "label": "Research",
-          "position": "left"
+          "position": "left",
+          "sidebarId": "researchSidebar"
         },
         {
           "to": "/blog",

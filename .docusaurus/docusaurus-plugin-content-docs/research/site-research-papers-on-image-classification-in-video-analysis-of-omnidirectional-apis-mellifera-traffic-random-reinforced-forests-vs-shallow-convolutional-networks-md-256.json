@@ -16,5 +16,14 @@
       "🇺🇸 Utah State University"
     ],
     "year": "2021"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
+    "permalink": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
+  },
+  "next": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
   }
 }

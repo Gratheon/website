@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://io-bee.eu/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "i-bee",
+    "permalink": "/research/Competition/i-bee"
+  },
+  "next": {
+    "title": "vitzaoral beehive_weight",
+    "permalink": "/research/Competition/vitzaoral beehive_weight"
   }
 }

@@ -17,5 +17,14 @@
       " 🇩🇪 Martin-Luther-Universität Halle-Wittenberg"
     ],
     "title": "Biodiversity conservation and current threats to European honeybees"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeePIV: A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+    "permalink": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos"
+  },
+  "next": {
+    "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+    "permalink": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
   }
 }

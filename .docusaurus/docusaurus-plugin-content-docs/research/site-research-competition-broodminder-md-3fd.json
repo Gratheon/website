@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "broodminder.com",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Beetight 2",
+    "permalink": "/research/Competition/Beetight 2"
+  },
+  "next": {
+    "title": "BuzzBox",
+    "permalink": "/research/Competition/BuzzBox"
   }
 }

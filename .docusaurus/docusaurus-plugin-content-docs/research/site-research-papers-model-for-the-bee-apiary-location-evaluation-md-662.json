@@ -17,5 +17,14 @@
       "🇱🇻 Latvia University of Life Sciences and Technologies",
       "🇩🇪 Humboldt University of Berlin"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Markerless tracking of an entire honey bee colony",
+    "permalink": "/research/papers/Markerless tracking of an entire honey bee colony"
+  },
+  "next": {
+    "title": "Modular sensory hardware and data processing solution forimplementation of the precision beekeeping",
+    "permalink": "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping"
   }
 }

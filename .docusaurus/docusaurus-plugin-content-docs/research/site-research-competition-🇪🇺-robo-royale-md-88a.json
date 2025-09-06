@@ -14,5 +14,14 @@
     "url": "https://roboroyale.eu/",
     "products": "🧿 Robotic Beehive",
     "description": "Research project that monitors the queen and associated bees using a robot"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇩🇪 ApicAI",
+    "permalink": "/research/Competition/🇩🇪 ApicAI"
+  },
+  "next": {
+    "title": "🇮🇱 Beewise",
+    "permalink": "/research/Competition/🇮🇱 Beewise"
   }
 }

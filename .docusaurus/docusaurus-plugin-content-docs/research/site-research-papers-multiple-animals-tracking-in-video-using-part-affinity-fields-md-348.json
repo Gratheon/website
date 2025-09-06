@@ -16,5 +16,14 @@
     ],
     "title": "Multiple Animals Tracking in VideoUsing Part Affinity Fields",
     "year": "2018"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Modular sensory hardware and data processing solution forimplementation of the precision beekeeping",
+    "permalink": "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping"
+  },
+  "next": {
+    "title": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic: Random Reinforced Forests vs. Shallow Convolutional Networks",
+    "permalink": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
   }
 }

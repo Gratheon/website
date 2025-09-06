@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/DanNduati/IoT-beehive-monitoring-system",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BuzzBox",
+    "permalink": "/research/Competition/BuzzBox"
+  },
+  "next": {
+    "title": "ForSage",
+    "permalink": "/research/Competition/ForSage"
   }
 }

@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.honeyinstruments.com/en",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HivePulse",
+    "permalink": "/research/Competition/HivePulse"
+  },
+  "next": {
+    "title": "InspectNext",
+    "permalink": "/research/Competition/InspectNext"
   }
 }

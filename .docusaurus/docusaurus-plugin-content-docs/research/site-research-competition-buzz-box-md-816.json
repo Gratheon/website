@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Broodminder",
+    "permalink": "/research/Competition/Broodminder"
+  },
+  "next": {
+    "title": "DanNduati IoT-beehive-monitoring-system",
+    "permalink": "/research/Competition/DanNduati IoT-beehive-monitoring-system"
   }
 }

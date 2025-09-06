@@ -16,5 +16,14 @@
       "🇨🇿 Brno University of Technology"
     ],
     "title": "Towards Varroa destructor mite detection using a narrow spectra illumination"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Toward an intelligent and efficient beehive: A survey of precision beekeeping systems and services",
+    "permalink": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
+  },
+  "next": {
+    "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+    "permalink": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
   }
 }

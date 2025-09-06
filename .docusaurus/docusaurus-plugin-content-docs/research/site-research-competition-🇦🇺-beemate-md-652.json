@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://beemate.buzz/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Апипульс",
+    "permalink": "/research/Competition/Апипульс"
+  },
+  "next": {
+    "title": "🇦🇺 Purple Hive",
+    "permalink": "/research/Competition/🇦🇺 Purple Hive"
   }
 }

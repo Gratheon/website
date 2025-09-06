@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://github.com/Mjrovai/Bee-Counting/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "IntelligentHives",
+    "permalink": "/research/Competition/IntelligentHives"
+  },
+  "next": {
+    "title": "OSBeehives",
+    "permalink": "/research/Competition/OSBeehives"
   }
 }

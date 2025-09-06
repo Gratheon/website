@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.beehero.io/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "ApiaryBook",
+    "permalink": "/research/Competition/ApiaryBook"
+  },
+  "next": {
+    "title": "BeeHiveMonitoring",
+    "permalink": "/research/Competition/BeeHiveMonitoring"
   }
 }

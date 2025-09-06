@@ -10,5 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Datasets",
+    "permalink": "/research/Datasets"
+  },
+  "next": {
+    "title": "3bee",
+    "permalink": "/research/Competition/3bee"
+  }
 }

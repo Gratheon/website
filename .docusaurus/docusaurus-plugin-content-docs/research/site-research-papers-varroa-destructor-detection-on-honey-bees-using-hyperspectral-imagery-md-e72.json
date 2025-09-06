@@ -18,5 +18,14 @@
     ],
     "hide_table_of_contents": true,
     "title": "Varroa destructor detection on honey bees using hyperspectral imagery"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+    "permalink": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+  },
+  "next": {
+    "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+    "permalink": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
   }
 }

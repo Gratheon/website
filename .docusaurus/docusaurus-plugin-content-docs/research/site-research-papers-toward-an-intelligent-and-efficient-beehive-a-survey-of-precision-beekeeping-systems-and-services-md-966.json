@@ -17,5 +17,14 @@
       "🇫🇷 aivancity School for Technology",
       "🇫🇷 Université de Lyon"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "The prediction of swarming in honeybee colonies using vibrational spectra",
+    "permalink": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra"
+  },
+  "next": {
+    "title": "Towards Varroa destructor mite detection using a narrow spectra illumination",
+    "permalink": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
   }
 }

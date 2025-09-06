@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.hivetracks.com/",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "beescanning",
+    "permalink": "/research/Competition/beescanning"
+  },
+  "next": {
+    "title": "i-bee",
+    "permalink": "/research/Competition/i-bee"
   }
 }

@@ -17,5 +17,14 @@
     ],
     "hide_table_of_contents": true,
     "title": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeAlarmed. Masters thesis",
+    "permalink": "/research/papers/⭐️ BeeAlarmed. Masters thesis"
+  },
+  "next": {
+    "title": "LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+    "permalink": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
   }
 }

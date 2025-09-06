@@ -16,5 +16,14 @@
       "🇺🇸 Utah State University"
     ],
     "year": "2021"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+    "permalink": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
+  },
+  "next": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/research/papers/Biodiversity conservation and current threats to European honeybees"
   }
 }

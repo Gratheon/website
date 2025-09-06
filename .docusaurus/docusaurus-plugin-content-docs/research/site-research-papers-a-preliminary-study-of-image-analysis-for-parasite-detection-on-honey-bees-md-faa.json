@@ -18,5 +18,14 @@
       "🇪🇸 Universitat de Barcelona"
     ],
     "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/research/Competition/🇺🇸 Best Bees"
+  },
+  "next": {
+    "title": "Accuracy vs. Energy: An Assessment of Bee Object Inference inVideos from On-Hive Video Loggers with YOLOv3,YOLOv4-Tiny, and YOLOv7-Tiny",
+    "permalink": "/research/papers/Accuracy vs. Energy"
   }
 }

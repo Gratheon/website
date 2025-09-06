@@ -17,5 +17,14 @@
     ],
     "year": "2023",
     "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Honeybees on the move - Pollination services and honey production",
+    "permalink": "/research/papers/Honeybees on the move - Pollination services and honey production"
+  },
+  "next": {
+    "title": "Importance of GIS solutions for beekeepers: a review",
+    "permalink": "/research/papers/Importance of GIS solutions for beekeepers a review"
   }
 }

@@ -13,5 +13,14 @@
   "frontMatter": {
     "products": "📱Web-app",
     "url": "https://www.hive-tool.com/"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeOrganizer",
+    "permalink": "/research/Competition/BeeOrganizer"
+  },
+  "next": {
+    "title": "BeePot",
+    "permalink": "/research/Competition/BeePot"
   }
 }

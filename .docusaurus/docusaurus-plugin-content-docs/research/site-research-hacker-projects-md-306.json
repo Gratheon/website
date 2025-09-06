@@ -10,5 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hacker projects",
+    "sidebar_position": 2
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🔬 Research",
+    "permalink": "/research/"
+  },
+  "next": {
+    "title": "Datasets",
+    "permalink": "/research/Datasets"
+  }
 }

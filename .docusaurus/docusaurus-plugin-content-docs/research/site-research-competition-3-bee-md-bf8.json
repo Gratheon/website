@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.3bee.com/en/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Competition",
+    "permalink": "/research/Competition/"
+  },
+  "next": {
+    "title": "AgriSound",
+    "permalink": "/research/Competition/AgriSound"
   }
 }

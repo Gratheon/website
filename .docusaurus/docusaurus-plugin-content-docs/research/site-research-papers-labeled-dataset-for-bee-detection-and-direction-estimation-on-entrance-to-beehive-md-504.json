@@ -16,5 +16,14 @@
       "🇱🇹 Vilnius Gediminas Technical University"
     ],
     "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Integration of Scales and Cameras in Nondisruptive ElectronicBeehive Monitoring: On the Within-Day Relationship of HiveWeight and Traffic in Honeybee (Apis mellifera) Colonies in Langstroth Hives in Tucson, Arizona, USA",
+    "permalink": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+  },
+  "next": {
+    "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+    "permalink": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
   }
 }

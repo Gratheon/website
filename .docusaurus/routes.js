@@ -1924,505 +1924,603 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'd1d'),
+    component: ComponentCreator('/research', 'd74'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '14e'),
+        component: ComponentCreator('/research', '323'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'c20'),
+            component: ComponentCreator('/research', '91e'),
             routes: [
               {
                 path: '/research/',
-                component: ComponentCreator('/research/', '2c3'),
-                exact: true
+                component: ComponentCreator('/research/', '0df'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/',
-                component: ComponentCreator('/research/Competition/', '418'),
-                exact: true
+                component: ComponentCreator('/research/Competition/', '4f8'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇦🇺 Beemate',
-                component: ComponentCreator('/research/Competition/🇦🇺 Beemate', '218'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇦🇺 Beemate', '8f6'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇦🇺 Purple Hive',
-                component: ComponentCreator('/research/Competition/🇦🇺 Purple Hive', '075'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇦🇺 Purple Hive', '8e2'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇨🇦 Nectar',
-                component: ComponentCreator('/research/Competition/🇨🇦 Nectar', 'eb5'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇨🇦 Nectar', 'ff5'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇩🇪 ApicAI',
-                component: ComponentCreator('/research/Competition/🇩🇪 ApicAI', '1a2'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇩🇪 ApicAI', '87f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇪🇺 RoboRoyale',
-                component: ComponentCreator('/research/Competition/🇪🇺 RoboRoyale', 'c8c'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇪🇺 RoboRoyale', '985'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇮🇱 Beewise',
-                component: ComponentCreator('/research/Competition/🇮🇱 Beewise', '60e'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇮🇱 Beewise', '95d'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/🇺🇸 Best Bees',
-                component: ComponentCreator('/research/Competition/🇺🇸 Best Bees', 'edb'),
-                exact: true
+                component: ComponentCreator('/research/Competition/🇺🇸 Best Bees', 'bc9'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/3bee',
-                component: ComponentCreator('/research/Competition/3bee', '837'),
-                exact: true
+                component: ComponentCreator('/research/Competition/3bee', '5ca'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/AgriSound',
-                component: ComponentCreator('/research/Competition/AgriSound', 'b13'),
-                exact: true
+                component: ComponentCreator('/research/Competition/AgriSound', '30a'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/ApiaryBook',
-                component: ComponentCreator('/research/Competition/ApiaryBook', '43a'),
-                exact: true
+                component: ComponentCreator('/research/Competition/ApiaryBook', '7c7'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/ApiManager',
-                component: ComponentCreator('/research/Competition/ApiManager', '791'),
-                exact: true
+                component: ComponentCreator('/research/Competition/ApiManager', '7a4'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/ApiZoom',
-                component: ComponentCreator('/research/Competition/ApiZoom', '97e'),
-                exact: true
+                component: ComponentCreator('/research/Competition/ApiZoom', '7f4'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeHero',
-                component: ComponentCreator('/research/Competition/BeeHero', '081'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeHero', '786'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeHiveMonitoring',
-                component: ComponentCreator('/research/Competition/BeeHiveMonitoring', '0c2'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeHiveMonitoring', '563'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeehiveMonitoringUSA',
-                component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', 'b8a'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', '0ba'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/beeing',
-                component: ComponentCreator('/research/Competition/beeing', '31d'),
-                exact: true
+                component: ComponentCreator('/research/Competition/beeing', 'eff'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeLab',
-                component: ComponentCreator('/research/Competition/BeeLab', '097'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeLab', 'f73'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeLogger',
-                component: ComponentCreator('/research/Competition/BeeLogger', '760'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeLogger', '417'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeOrganizer',
-                component: ComponentCreator('/research/Competition/BeeOrganizer', 'af7'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeOrganizer', 'e64'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Beep',
-                component: ComponentCreator('/research/Competition/Beep', 'bd7'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Beep', '038'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeePlus Beekeeping',
-                component: ComponentCreator('/research/Competition/BeePlus Beekeeping', '713'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeePlus Beekeeping', 'b2d'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeePot',
-                component: ComponentCreator('/research/Competition/BeePot', '428'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeePot', '5db'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeSage',
-                component: ComponentCreator('/research/Competition/BeeSage', 'c17'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeSage', 'bd3'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/beescanning',
-                component: ComponentCreator('/research/Competition/beescanning', '9e1'),
-                exact: true
+                component: ComponentCreator('/research/Competition/beescanning', '7be'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Beetight 2',
-                component: ComponentCreator('/research/Competition/Beetight 2', '620'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Beetight 2', 'ce8'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BeeZee',
-                component: ComponentCreator('/research/Competition/BeeZee', '88d'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BeeZee', 'a27'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Broodminder',
-                component: ComponentCreator('/research/Competition/Broodminder', 'aea'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Broodminder', '982'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/BuzzBox',
-                component: ComponentCreator('/research/Competition/BuzzBox', '1e3'),
-                exact: true
+                component: ComponentCreator('/research/Competition/BuzzBox', '523'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/DanNduati IoT-beehive-monitoring-system',
-                component: ComponentCreator('/research/Competition/DanNduati IoT-beehive-monitoring-system', '62a'),
-                exact: true
+                component: ComponentCreator('/research/Competition/DanNduati IoT-beehive-monitoring-system', '478'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/ForSage',
-                component: ComponentCreator('/research/Competition/ForSage', '878'),
-                exact: true
+                component: ComponentCreator('/research/Competition/ForSage', '8eb'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Gobuzzr',
-                component: ComponentCreator('/research/Competition/Gobuzzr', '6df'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Gobuzzr', '479'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Hackuarium beemos',
-                component: ComponentCreator('/research/Competition/Hackuarium beemos', '769'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Hackuarium beemos', '6e1'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HIIVE Link',
-                component: ComponentCreator('/research/Competition/HIIVE Link', '592'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HIIVE Link', 'f55'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HiveBloom',
-                component: ComponentCreator('/research/Competition/HiveBloom', '2e6'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HiveBloom', 'f1f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HiveGenie',
-                component: ComponentCreator('/research/Competition/HiveGenie', '522'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HiveGenie', 'e26'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HiveMind',
-                component: ComponentCreator('/research/Competition/HiveMind', '826'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HiveMind', 'd79'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HivePulse',
-                component: ComponentCreator('/research/Competition/HivePulse', '609'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HivePulse', 'bee'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/hivetracks',
-                component: ComponentCreator('/research/Competition/hivetracks', '65b'),
-                exact: true
+                component: ComponentCreator('/research/Competition/hivetracks', 'ff1'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/HoneyInstruments',
-                component: ComponentCreator('/research/Competition/HoneyInstruments', 'ccd'),
-                exact: true
+                component: ComponentCreator('/research/Competition/HoneyInstruments', 'c75'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/i-bee',
-                component: ComponentCreator('/research/Competition/i-bee', 'b6c'),
-                exact: true
+                component: ComponentCreator('/research/Competition/i-bee', 'f0b'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/InspectNext',
-                component: ComponentCreator('/research/Competition/InspectNext', '189'),
-                exact: true
+                component: ComponentCreator('/research/Competition/InspectNext', '696'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/IntelligentHives',
-                component: ComponentCreator('/research/Competition/IntelligentHives', 'e74'),
-                exact: true
+                component: ComponentCreator('/research/Competition/IntelligentHives', '89d'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/io-bee',
-                component: ComponentCreator('/research/Competition/io-bee', '9ca'),
-                exact: true
+                component: ComponentCreator('/research/Competition/io-bee', '827'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Mjrovai Bee-Counting',
-                component: ComponentCreator('/research/Competition/Mjrovai Bee-Counting', '152'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Mjrovai Bee-Counting', '066'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/OSBeehives',
-                component: ComponentCreator('/research/Competition/OSBeehives', '335'),
-                exact: true
+                component: ComponentCreator('/research/Competition/OSBeehives', '538'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Prohiver',
-                component: ComponentCreator('/research/Competition/Prohiver', '7e7'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Prohiver', '576'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Solutionbee',
-                component: ComponentCreator('/research/Competition/Solutionbee', '438'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Solutionbee', '0ef'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/vitzaoral beehive_weight',
-                component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', '04d'),
-                exact: true
+                component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', 'ce2'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Competition/Апипульс',
-                component: ComponentCreator('/research/Competition/Апипульс', 'b35'),
-                exact: true
+                component: ComponentCreator('/research/Competition/Апипульс', '6be'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Datasets',
-                component: ComponentCreator('/research/Datasets', '417'),
-                exact: true
+                component: ComponentCreator('/research/Datasets', '5b5'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/Hacker projects',
-                component: ComponentCreator('/research/Hacker projects', '97a'),
-                exact: true
+                component: ComponentCreator('/research/Hacker projects', '16f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
-                component: ComponentCreator('/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', '1fb'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', 'd33'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning',
-                component: ComponentCreator('/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning', '52a'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning', 'ce6'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots',
-                component: ComponentCreator('/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', '254'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots', 'e02'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ BeeAlarmed. Masters thesis',
-                component: ComponentCreator('/research/papers/⭐️ BeeAlarmed. Masters thesis', '8cf'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ BeeAlarmed. Masters thesis', 'da5'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
-                component: ComponentCreator('/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '2aa'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '155'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
-                component: ComponentCreator('/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', '59f'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', 'fb1'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive',
-                component: ComponentCreator('/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive', '807'),
-                exact: true
+                component: ComponentCreator('/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive', '9a1'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
-                component: ComponentCreator('/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', '7cc'),
-                exact: true
+                component: ComponentCreator('/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', '54e'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Accuracy vs. Energy',
-                component: ComponentCreator('/research/papers/Accuracy vs. Energy', '362'),
-                exact: true
+                component: ComponentCreator('/research/papers/Accuracy vs. Energy', 'e9e'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
-                component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', 'e2c'),
-                exact: true
+                component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '393'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Approximation of functions',
-                component: ComponentCreator('/research/papers/Approximation of functions', '213'),
-                exact: true
+                component: ComponentCreator('/research/papers/Approximation of functions', 'c10'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring',
-                component: ComponentCreator('/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', '1a9'),
-                exact: true
+                component: ComponentCreator('/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', 'f3e'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance',
-                component: ComponentCreator('/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance', 'b66'),
-                exact: true
+                component: ComponentCreator('/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance', '26a'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
-                component: ComponentCreator('/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', 'e49'),
-                exact: true
+                component: ComponentCreator('/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', 'dfc'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Biodiversity conservation and current threats to European honeybees',
-                component: ComponentCreator('/research/papers/Biodiversity conservation and current threats to European honeybees', '5a9'),
-                exact: true
+                component: ComponentCreator('/research/papers/Biodiversity conservation and current threats to European honeybees', 'a3a'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia',
-                component: ComponentCreator('/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia', '6e1'),
-                exact: true
+                component: ComponentCreator('/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia', 'a9b'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture',
-                component: ComponentCreator('/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', '92f'),
-                exact: true
+                component: ComponentCreator('/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', 'e63'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
-                component: ComponentCreator('/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period', 'e53'),
-                exact: true
+                component: ComponentCreator('/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period', '67b'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Honey bees modify plantpollinator network structure',
-                component: ComponentCreator('/research/papers/Honey bees modify plantpollinator network structure', 'c76'),
-                exact: true
+                component: ComponentCreator('/research/papers/Honey bees modify plantpollinator network structure', '994'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological',
-                component: ComponentCreator('/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological', 'e2e'),
-                exact: true
+                component: ComponentCreator('/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological', '0bc'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams',
-                component: ComponentCreator('/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams', '8a0'),
-                exact: true
+                component: ComponentCreator('/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams', 'd0d'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision',
-                component: ComponentCreator('/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision', 'a90'),
-                exact: true
+                component: ComponentCreator('/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision', 'abc'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Honeybees on the move - Pollination services and honey production',
-                component: ComponentCreator('/research/papers/Honeybees on the move - Pollination services and honey production', '672'),
-                exact: true
+                component: ComponentCreator('/research/papers/Honeybees on the move - Pollination services and honey production', 'ae3'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
-                component: ComponentCreator('/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', 'fce'),
-                exact: true
+                component: ComponentCreator('/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '49c'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Importance of GIS solutions for beekeepers a review',
-                component: ComponentCreator('/research/papers/Importance of GIS solutions for beekeepers a review', 'd0c'),
-                exact: true
+                component: ComponentCreator('/research/papers/Importance of GIS solutions for beekeepers a review', 'bcc'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring',
-                component: ComponentCreator('/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring', 'd3f'),
-                exact: true
+                component: ComponentCreator('/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring', '4bc'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive',
-                component: ComponentCreator('/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive', '6ae'),
-                exact: true
+                component: ComponentCreator('/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive', '1e5'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey',
-                component: ComponentCreator('/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', 'e63'),
-                exact: true
+                component: ComponentCreator('/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', 'c31'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Markerless tracking of an entire honey bee colony',
-                component: ComponentCreator('/research/papers/Markerless tracking of an entire honey bee colony', '572'),
-                exact: true
+                component: ComponentCreator('/research/papers/Markerless tracking of an entire honey bee colony', 'd97'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Model for the bee apiary location evaluation',
-                component: ComponentCreator('/research/papers/Model for the bee apiary location evaluation', '4c1'),
-                exact: true
+                component: ComponentCreator('/research/papers/Model for the bee apiary location evaluation', '17f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping',
-                component: ComponentCreator('/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping', '15e'),
-                exact: true
+                component: ComponentCreator('/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping', '500'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields',
-                component: ComponentCreator('/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields', '4b7'),
-                exact: true
+                component: ComponentCreator('/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields', 'ee1'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
-                component: ComponentCreator('/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', '048'),
-                exact: true
+                component: ComponentCreator('/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', 'c92'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Raspberry Pi Bee Health Monitoring Device',
-                component: ComponentCreator('/research/papers/Raspberry Pi Bee Health Monitoring Device', '509'),
-                exact: true
+                component: ComponentCreator('/research/papers/Raspberry Pi Bee Health Monitoring Device', '81a'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Reception and learning of electric fields in bees',
-                component: ComponentCreator('/research/papers/Reception and learning of electric fields in bees', 'db1'),
-                exact: true
+                component: ComponentCreator('/research/papers/Reception and learning of electric fields in bees', 'bce'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
-                component: ComponentCreator('/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', 'b72'),
-                exact: true
+                component: ComponentCreator('/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', 'cec'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Solution for automated bee colony weight monitoring',
-                component: ComponentCreator('/research/papers/Solution for automated bee colony weight monitoring', '455'),
-                exact: true
+                component: ComponentCreator('/research/papers/Solution for automated bee colony weight monitoring', '20c'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount',
-                component: ComponentCreator('/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount', '342'),
-                exact: true
+                component: ComponentCreator('/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount', '8ef'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra',
-                component: ComponentCreator('/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra', '323'),
-                exact: true
+                component: ComponentCreator('/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra', '36f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
-                component: ComponentCreator('/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', '1ef'),
-                exact: true
+                component: ComponentCreator('/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', 'a0f'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination',
-                component: ComponentCreator('/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination', '78b'),
-                exact: true
+                component: ComponentCreator('/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination', '2da'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces',
-                component: ComponentCreator('/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces', '6e2'),
-                exact: true
+                component: ComponentCreator('/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces', '5e8'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery',
-                component: ComponentCreator('/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery', '554'),
-                exact: true
+                component: ComponentCreator('/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery', 'a00'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques',
-                component: ComponentCreator('/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques', '9ca'),
-                exact: true
+                component: ComponentCreator('/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques', 'ce9'),
+                exact: true,
+                sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/wifi-exposure',
-                component: ComponentCreator('/research/papers/wifi-exposure', '59f'),
-                exact: true
+                component: ComponentCreator('/research/papers/wifi-exposure', 'd31'),
+                exact: true,
+                sidebar: "researchSidebar"
               }
             ]
           }

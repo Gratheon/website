@@ -18,5 +18,14 @@
       "🇦🇺 Queensland University of Technology",
       "🇺🇸 Carl Hayden Bee Research Center"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "permalink": "/research/papers/Solution for automated bee colony weight monitoring"
+  },
+  "next": {
+    "title": "The prediction of swarming in honeybee colonies using vibrational spectra",
+    "permalink": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra"
   }
 }

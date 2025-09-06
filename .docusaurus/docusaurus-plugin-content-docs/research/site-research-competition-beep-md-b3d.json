@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://beep.nl/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeehiveMonitoringUSA",
+    "permalink": "/research/Competition/BeehiveMonitoringUSA"
+  },
+  "next": {
+    "title": "Beetight 2",
+    "permalink": "/research/Competition/Beetight 2"
   }
 }

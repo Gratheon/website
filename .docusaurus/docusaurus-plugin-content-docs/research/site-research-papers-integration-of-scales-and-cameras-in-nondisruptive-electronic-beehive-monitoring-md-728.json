@@ -16,5 +16,14 @@
       "🇺🇸 Utah State University"
     ],
     "year": "2022"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Importance of GIS solutions for beekeepers: a review",
+    "permalink": "/research/papers/Importance of GIS solutions for beekeepers a review"
+  },
+  "next": {
+    "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
+    "permalink": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive"
   }
 }

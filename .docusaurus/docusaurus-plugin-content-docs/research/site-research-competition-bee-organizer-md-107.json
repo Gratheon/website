@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "BeeLogger",
+    "permalink": "/research/Competition/BeeLogger"
+  },
+  "next": {
+    "title": "BeePlus Beekeeping",
+    "permalink": "/research/Competition/BeePlus Beekeeping"
   }
 }

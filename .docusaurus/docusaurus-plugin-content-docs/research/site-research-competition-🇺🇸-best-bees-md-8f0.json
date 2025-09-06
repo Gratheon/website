@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://bestbees.com/smarthive-lp/",
     "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇮🇱 Beewise",
+    "permalink": "/research/Competition/🇮🇱 Beewise"
+  },
+  "next": {
+    "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+    "permalink": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
   }
 }

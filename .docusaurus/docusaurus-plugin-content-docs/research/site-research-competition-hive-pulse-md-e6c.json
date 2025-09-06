@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://hivepulse.co.za/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HiveMind",
+    "permalink": "/research/Competition/HiveMind"
+  },
+  "next": {
+    "title": "HoneyInstruments",
+    "permalink": "/research/Competition/HoneyInstruments"
   }
 }

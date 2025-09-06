@@ -18,5 +18,14 @@
       "🇧🇪 Centre Apicole de Recherche et d’Information"
     ],
     "title": "The prediction of swarming in honeybee colonies using vibrational spectra"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "The development of honey bee coloniesassessed using a new semi-automated broodcounting method: CombCount",
+    "permalink": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+  },
+  "next": {
+    "title": "Toward an intelligent and efficient beehive: A survey of precision beekeeping systems and services",
+    "permalink": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
   }
 }

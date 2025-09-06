@@ -16,5 +16,14 @@
       "🇵🇷 University of Puerto Rico"
     ],
     "year": "2022"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams",
+    "permalink": "/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams"
+  },
+  "next": {
+    "title": "Honeybees on the move - Pollination services and honey production",
+    "permalink": "/research/papers/Honeybees on the move - Pollination services and honey production"
   }
 }

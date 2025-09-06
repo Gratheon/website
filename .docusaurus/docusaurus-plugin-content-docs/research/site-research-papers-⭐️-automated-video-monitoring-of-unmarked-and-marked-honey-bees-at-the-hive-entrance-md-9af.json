@@ -17,5 +17,14 @@
     "year": "2022",
     "hide_table_of_contents": true,
     "title": "Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Defined exposure of honey bee colonies to simulated radiofrequency electromagnetic fields (RF-EMF): Negative effects on the homing ability, butn ot on brood development or longevity",
+    "permalink": "/research/papers/wifi-exposure"
+  },
+  "next": {
+    "title": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+    "permalink": "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
   }
 }

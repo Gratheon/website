@@ -20,5 +20,14 @@
     ],
     "hide_table_of_contents": true,
     "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "⭐️ Automatic detection and classification of honey bee comb cells using deeplearning",
+    "permalink": "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning"
+  },
+  "next": {
+    "title": "BeeAlarmed. Masters thesis",
+    "permalink": "/research/papers/⭐️ BeeAlarmed. Masters thesis"
   }
 }

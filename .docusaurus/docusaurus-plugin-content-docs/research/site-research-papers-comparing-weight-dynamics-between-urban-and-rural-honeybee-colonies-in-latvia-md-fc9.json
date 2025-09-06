@@ -16,5 +16,14 @@
     "orgs": [
       "🇱🇻 Latvia University of Life Sciences and Technologies"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/research/papers/Biodiversity conservation and current threats to European honeybees"
+  },
+  "next": {
+    "title": "Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+    "permalink": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
   }
 }

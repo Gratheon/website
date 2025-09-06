@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://apipulse.ru/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "vitzaoral beehive_weight",
+    "permalink": "/research/Competition/vitzaoral beehive_weight"
+  },
+  "next": {
+    "title": "🇦🇺 Beemate",
+    "permalink": "/research/Competition/🇦🇺 Beemate"
   }
 }

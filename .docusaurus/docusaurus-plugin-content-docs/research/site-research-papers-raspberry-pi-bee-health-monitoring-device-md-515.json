@@ -17,5 +17,14 @@
     ],
     "year": "2023",
     "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic: Random Reinforced Forests vs. Shallow Convolutional Networks",
+    "permalink": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks"
+  },
+  "next": {
+    "title": "Reception and learning of electric fields in bees",
+    "permalink": "/research/papers/Reception and learning of electric fields in bees"
   }
 }

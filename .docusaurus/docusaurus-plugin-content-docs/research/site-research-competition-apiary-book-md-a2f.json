@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://apiarybook.com",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "ApiZoom",
+    "permalink": "/research/Competition/ApiZoom"
+  },
+  "next": {
+    "title": "BeeHero",
+    "permalink": "/research/Competition/BeeHero"
   }
 }

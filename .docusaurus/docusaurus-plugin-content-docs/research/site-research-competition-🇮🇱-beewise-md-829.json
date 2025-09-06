@@ -16,5 +16,14 @@
     "products": "🪬 Robotic Apiary",
     "priority": 1,
     "pricing": "v1 - 600$ (40 hives)v2 - $400/month per container + 2000$ delivery"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇪🇺 RoboRoyale",
+    "permalink": "/research/Competition/🇪🇺 RoboRoyale"
+  },
+  "next": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/research/Competition/🇺🇸 Best Bees"
   }
 }

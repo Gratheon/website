@@ -10,5 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Gobuzzr",
+    "permalink": "/research/Competition/Gobuzzr"
+  },
+  "next": {
+    "title": "Hackuarium beemos",
+    "permalink": "/research/Competition/Hackuarium beemos"
+  }
 }

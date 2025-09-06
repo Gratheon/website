@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://agrisound.io/",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "3bee",
+    "permalink": "/research/Competition/3bee"
+  },
+  "next": {
+    "title": "ApiManager",
+    "permalink": "/research/Competition/ApiManager"
   }
 }

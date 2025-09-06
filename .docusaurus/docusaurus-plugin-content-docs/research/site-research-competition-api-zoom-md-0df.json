@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.apizoom.app/",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "ApiManager",
+    "permalink": "/research/Competition/ApiManager"
+  },
+  "next": {
+    "title": "ApiaryBook",
+    "permalink": "/research/Competition/ApiaryBook"
   }
 }

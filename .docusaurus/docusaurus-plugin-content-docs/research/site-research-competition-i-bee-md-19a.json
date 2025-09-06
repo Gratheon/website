@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.i-bee.net/en/",
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "hivetracks",
+    "permalink": "/research/Competition/hivetracks"
+  },
+  "next": {
+    "title": "io-bee",
+    "permalink": "/research/Competition/io-bee"
   }
 }

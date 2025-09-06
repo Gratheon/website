@@ -17,5 +17,14 @@
     ],
     "year": "2023",
     "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+    "permalink": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+  },
+  "next": {
+    "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+    "permalink": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
   }
 }

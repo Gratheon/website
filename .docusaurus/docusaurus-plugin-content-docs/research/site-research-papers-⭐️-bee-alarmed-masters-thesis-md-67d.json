@@ -15,5 +15,14 @@
     "orgs": [
       "🇩🇪 South Westphalia University of Applied Sciences"
     ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+    "permalink": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
+  },
+  "next": {
+    "title": "DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
+    "permalink": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives"
   }
 }

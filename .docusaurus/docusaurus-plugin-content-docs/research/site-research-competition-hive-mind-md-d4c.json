@@ -13,5 +13,14 @@
   "frontMatter": {
     "url": "https://www.kickstarter.com/projects/hivemind/innovative-wireless-beehive-scales?ref=discovery&term=beehive",
     "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "HiveGenie",
+    "permalink": "/research/Competition/HiveGenie"
+  },
+  "next": {
+    "title": "HivePulse",
+    "permalink": "/research/Competition/HivePulse"
   }
 }

@@ -12,5 +12,14 @@
   "version": "current",
   "frontMatter": {
     "products": "📱Web-app"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Mjrovai Bee-Counting",
+    "permalink": "/research/Competition/Mjrovai Bee-Counting"
+  },
+  "next": {
+    "title": "Prohiver",
+    "permalink": "/research/Competition/Prohiver"
   }
 }

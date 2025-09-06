@@ -18,5 +18,14 @@
       "🇫🇷 Université Clermont-Auvergne"
     ],
     "year": "2020"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+    "permalink": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+  },
+  "next": {
+    "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots",
+    "permalink": "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots"
   }
 }
