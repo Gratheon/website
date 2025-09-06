@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Remote Desktop connection setup 🖥️",
-    "permalink": "/docs/entrance-observer/Remote Desktop connection setup"
+    "title": "Jetson Orin setup",
+    "permalink": "/docs/entrance-observer/Jetson Orin setup"
   },
   "next": {
     "title": "Which model to use for vision",

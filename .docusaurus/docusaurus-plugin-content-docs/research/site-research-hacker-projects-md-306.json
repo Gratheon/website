@@ -1,0 +1,14 @@
+{
+  "id": "Hacker projects",
+  "title": "Hacker projects",
+  "description": "| Area              | URL                                                                                                                                                                        |",
+  "source": "@site/research/Hacker projects.md",
+  "sourceDirName": ".",
+  "slug": "/Hacker projects",
+  "permalink": "/research/Hacker projects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

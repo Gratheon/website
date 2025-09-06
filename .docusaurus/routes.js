@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '86c'),
+    component: ComponentCreator('/about', 'fc8'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '306'),
+        component: ComponentCreator('/about', '834'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'd2a'),
+            component: ComponentCreator('/about', 'f34'),
             routes: [
               {
                 path: '/about/',
@@ -545,12 +545,6 @@ export default [
               {
                 path: '/about/company/🫀 Culture and values/Team effort 🐝',
                 component: ComponentCreator('/about/company/🫀 Culture and values/Team effort 🐝', 'bf9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Datasets',
-                component: ComponentCreator('/about/company/Datasets', '28b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1552,15 +1546,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '09d'),
+    component: ComponentCreator('/docs', '16e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '445'),
+        component: ComponentCreator('/docs', '7c3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4dd'),
+            component: ComponentCreator('/docs', 'c61'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1839,6 +1833,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/entrance-observer/Jetson Orin setup',
+                component: ComponentCreator('/docs/entrance-observer/Jetson Orin setup', '231'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/entrance-observer/ML processing devices',
                 component: ComponentCreator('/docs/entrance-observer/ML processing devices', 'e9d'),
                 exact: true,
@@ -1924,15 +1924,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '251'),
+    component: ComponentCreator('/research', 'd1d'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'c92'),
+        component: ComponentCreator('/research', '14e'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'bc8'),
+            component: ComponentCreator('/research', 'c20'),
             routes: [
               {
                 path: '/research/',
@@ -1982,11 +1982,6 @@ export default [
               {
                 path: '/research/Competition/3bee',
                 component: ComponentCreator('/research/Competition/3bee', '837'),
-                exact: true
-              },
-              {
-                path: '/research/Competition/AgriPulse',
-                component: ComponentCreator('/research/Competition/AgriPulse', '174'),
                 exact: true
               },
               {
@@ -2187,6 +2182,21 @@ export default [
               {
                 path: '/research/Competition/vitzaoral beehive_weight',
                 component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', '04d'),
+                exact: true
+              },
+              {
+                path: '/research/Competition/Апипульс',
+                component: ComponentCreator('/research/Competition/Апипульс', 'b35'),
+                exact: true
+              },
+              {
+                path: '/research/Datasets',
+                component: ComponentCreator('/research/Datasets', '417'),
+                exact: true
+              },
+              {
+                path: '/research/Hacker projects',
+                component: ComponentCreator('/research/Hacker projects', '97a'),
                 exact: true
               },
               {

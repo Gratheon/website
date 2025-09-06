@@ -551,17 +551,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-86c": {
+  "/about-fc8": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-306": {
+  "/about-834": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-d2a": {
+  "/about-f34": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -779,10 +779,6 @@
   "/about/company/🫀 Culture and values/Team effort 🐝-bf9": {
     "__comp": "17896441",
     "content": "ffc736e4"
-  },
-  "/about/company/Datasets-28b": {
-    "__comp": "17896441",
-    "content": "ff29066e"
   },
   "/about/company/Processes/☑️ Features and tasks-6ae": {
     "__comp": "17896441",
@@ -1444,17 +1440,17 @@
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-09d": {
+  "/docs-16e": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-445": {
+  "/docs-7c3": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-4dd": {
+  "/docs-c61": {
     "__comp": "a94703ab"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1641,6 +1637,10 @@
     "__comp": "17896441",
     "content": "f6250501"
   },
+  "/docs/entrance-observer/Jetson Orin setup-231": {
+    "__comp": "17896441",
+    "content": "5d61cf87"
+  },
   "/docs/entrance-observer/ML processing devices-e9d": {
     "__comp": "17896441",
     "content": "b7ac82f1"
@@ -1693,17 +1693,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-251": {
+  "/research-d1d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-c92": {
+  "/research-14e": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-bc8": {
+  "/research-c20": {
     "__comp": "a94703ab"
   },
   "/research/-2c3": {
@@ -1745,10 +1745,6 @@
   "/research/Competition/3bee-837": {
     "__comp": "17896441",
     "content": "bf87e693"
-  },
-  "/research/Competition/AgriPulse-174": {
-    "__comp": "17896441",
-    "content": "ab2a3b72"
   },
   "/research/Competition/AgriSound-b13": {
     "__comp": "17896441",
@@ -1909,6 +1905,18 @@
   "/research/Competition/vitzaoral beehive_weight-04d": {
     "__comp": "17896441",
     "content": "7fff2b1d"
+  },
+  "/research/Competition/Апипульс-b35": {
+    "__comp": "17896441",
+    "content": "441076a3"
+  },
+  "/research/Datasets-417": {
+    "__comp": "17896441",
+    "content": "89a66ba8"
+  },
+  "/research/Hacker projects-97a": {
+    "__comp": "17896441",
+    "content": "306850cc"
   },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-1fb": {
     "__comp": "17896441",

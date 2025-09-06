@@ -241,6 +241,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "entrance-observer/Jetson Orin setup",
+              "path": "/docs/entrance-observer/Jetson Orin setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "entrance-observer/ML processing devices",
               "path": "/docs/entrance-observer/ML processing devices",
               "sidebar": "tutorialSidebar"
@@ -587,11 +592,6 @@
             {
               "id": "company/🫀 Culture and values/Team effort 🐝",
               "path": "/about/company/🫀 Culture and values/Team effort 🐝",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Datasets",
-              "path": "/about/company/Datasets",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1486,10 +1486,6 @@
               "path": "/research/Competition/3bee"
             },
             {
-              "id": "Competition/AgriPulse",
-              "path": "/research/Competition/AgriPulse"
-            },
-            {
               "id": "Competition/AgriSound",
               "path": "/research/Competition/AgriSound"
             },
@@ -1652,6 +1648,18 @@
             {
               "id": "Competition/vitzaoral beehive_weight",
               "path": "/research/Competition/vitzaoral beehive_weight"
+            },
+            {
+              "id": "Competition/Апипульс",
+              "path": "/research/Competition/Апипульс"
+            },
+            {
+              "id": "Datasets",
+              "path": "/research/Datasets"
+            },
+            {
+              "id": "Hacker projects",
+              "path": "/research/Hacker projects"
             },
             {
               "id": "index",
