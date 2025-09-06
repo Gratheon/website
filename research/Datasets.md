@@ -2,7 +2,7 @@
 title: Datasets
 ---
 
-## Our datasets
+## Gratheon datasets
 
 Main source is available via [Google Drive](https://drive.google.com/drive/folders/105PmxDKFUR6NCPLHBkXGdkfcZwWf9ABI?usp=drive_link), mostly due to the size of the data. This includes:
 
@@ -18,7 +18,7 @@ As source, used beekeeping facebook, twitter, telegram groups post lots of photo
 - queen cups
 - varroa miters
 
-## Related external resources that could be used
+## External resources that could be used
 
 - Current bee detection model uses yolo v5 weights from [https://universe.roboflow.com/matt-nudi/honey-bee-detection-model-zgjnb](https://universe.roboflow.com/matt-nudi/honey-bee-detection-model-zgjnb)
 - Datasets from the Brno team: [https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-1](https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-1) [https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-2](https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-2) [https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-hs](https://www.kaggle.com/datasets/imonbilk/bee-dataset-but-hs)
