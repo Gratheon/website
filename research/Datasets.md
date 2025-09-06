@@ -1,5 +1,6 @@
 ---
 title: Datasets
+sidebar_position: 3
 ---
 
 ## Gratheon datasets

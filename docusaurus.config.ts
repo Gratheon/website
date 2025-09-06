@@ -255,7 +255,8 @@ const config: Config = {
         id: "research",
         path: "./research",
         routeBasePath: "research",
-        sidebarPath: "sidebars.research.ts",
+        sidebarPath: "sidebars.ts",
+        // sidebarPath: "sidebars.research.ts",
         // ... other options
       },
     ],
