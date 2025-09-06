@@ -179,6 +179,8 @@
   },
   "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "about/products/beehive_camera.md",
+    "research/Datasets.md",
     "research/papers/wifi-exposure.md",
     "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
     "research/papers/Towards Robotic Mapping of a Honeybee Comb.md",
@@ -208,7 +210,6 @@
     "public/img/sensors.webp",
     "research/papers/index.md",
     "research/Hacker projects.md",
-    "research/Datasets.md",
     "research/index.md",
     "research/Research.md",
     "research/Competition/HivePulse.md",
@@ -223,7 +224,6 @@
     "research/Competition/BeehiveMonitoringUSA.md",
     "research/Competition/beeing.md",
     "research/Competition/BeeLab.md",
-    "research/Competition/BeeOrganizer.md",
-    "research/Competition/Beep.md"
+    "research/Competition/BeeOrganizer.md"
   ]
 }

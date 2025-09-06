@@ -7,9 +7,11 @@ sidebar_position: 2
 
 Main source is available via [Google Drive](https://drive.google.com/drive/folders/105PmxDKFUR6NCPLHBkXGdkfcZwWf9ABI?usp=drive_link), mostly due to the size of the data. This includes:
 
-- bee videos from the [👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/), may 2024.
-  640x480 resolutions, 10sec clips ~ 1h of videos in total, 1.1GB
 - inspections of the beehive frames (no annotations, JPG, ~15MP) in 2019, 2020, 2021, 2024 years
+- [👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/)
+	- [2024, may 19](https://drive.google.com/drive/folders/1bD9uFYu0c2Y4NfKOqTwB-NGl1ZIwEyI1?usp=drive_link). 640x480 resolutions, 10sec clips ~ 1h of videos in total, 1.1GB
+	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~4h. Time of day - 11:30  til 16:30)~ 25GB in total
+		- 1280x720px. 30 min chunks. file names are in UTC timestamps.
 
 ### Mixed images of the internet and social media
 
