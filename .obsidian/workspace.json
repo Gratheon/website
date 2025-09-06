@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Research.md",
+                "file": "research/Hacker projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research"
+              "title": "Hacker projects"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 290.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/Research.md",
+                "file": "research/Hacker projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Research"
+              "title": "Backlinks for Hacker projects"
             }
           },
           {
@@ -179,9 +179,32 @@
   },
   "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "research/Competition/BeeLogger.md",
+    "research/Competition/BeeOrganizer.md",
+    "research/Competition/Beep.md",
+    "research/Competition/BeePlus Beekeeping.md",
+    "research/Competition/BeePot.md",
+    "research/Competition/BeeSage.md",
+    "research/Competition/beescanning.md",
+    "research/Competition/Beetight 2.md",
+    "research/Competition/BeeZee.md",
+    "research/Competition/Broodminder.md",
+    "research/Competition/BuzzBox.md",
+    "research/Competition/Competition.md",
+    "research/Competition/DanNduati IoT-beehive-monitoring-system.md",
     "research/Hacker projects.md",
-    "research/Research.md",
-    "research/papers/index.md",
+    "research/Competition/ForSage.md",
+    "research/Competition/Gobuzzr.md",
+    "research/Competition/Hackuarium beemos.md",
+    "research/Competition/HIIVE Link.md",
+    "research/Competition/HiveBloom.md",
+    "research/Competition/HiveGenie.md",
+    "research/Competition/HiveMind.md",
+    "research/Competition/HivePulse.md",
+    "research/Competition/hivetracks.md",
+    "research/Competition/HoneyInstruments.md",
+    "research/Competition/i-bee.md",
+    "research/Competition/InspectNext.md",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
     "public/blog/rss.css",
@@ -201,29 +224,6 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
-    "research/Datasets.md",
-    "research/Competition/Апипульс.md",
-    "docs/entrance-observer/Jetson Orin setup.md",
-    "about/products/beehive_camera/features/🎥 Video streaming via API.md",
-    "docs/entrance-observer/Jetson Nano setup.md",
-    "about/products/beehive_camera/todo/🎮 Device management - Remote desktop.md",
-    "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md",
-    "research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks.md",
-    "research/papers/⭐️ BeeAlarmed. Masters thesis.md",
-    "research/papers/Biodiversity conservation and current threats to European honeybees.md",
-    "research/papers/Reception and learning of electric fields in bees.md",
-    "research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network.md",
-    "research/papers/Honeybees on the move - Pollination services and honey production.md",
-    "research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees.md",
-    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
-    "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md",
-    "research/papers/The prediction of swarming in honeybee colonies using vibrational spectra.md",
-    "research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md",
-    "research/papers/Markerless tracking of an entire honey bee colony.md",
-    "research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring.md",
-    "research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period.md",
-    "research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md"
+    "public/img/robot.jpeg"
   ]
 }
