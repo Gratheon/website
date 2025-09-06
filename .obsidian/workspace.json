@@ -177,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "research/Competition/🇦🇺 Purple Hive.md",
+    "research/Competition/index.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
     "public/blog/rss.css",
@@ -189,7 +191,6 @@
     "public/index.html",
     "public/research/papers/wifi-exposure/index.html",
     "public/research/papers/wifi-exposure",
-    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -204,7 +205,6 @@
     "research/Hacker projects.md",
     "research/Datasets.md",
     "research/index.md",
-    "research/Competition/index.md",
     "research/Research.md",
     "research/Competition/HivePulse.md",
     "research/Competition/i-bee.md",
