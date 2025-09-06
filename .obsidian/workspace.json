@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Hacker projects.md",
+                "file": "research/Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hacker projects"
+              "title": "Research"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/Hacker projects.md",
+                "file": "research/Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hacker projects"
+              "title": "Backlinks for Research"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "research/Hacker projects.md",
+    "research/Research.md",
+    "research/papers/index.md",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
     "public/blog/rss.css",
@@ -189,7 +192,6 @@
     "public/index.html",
     "public/research/papers/wifi-exposure/index.html",
     "public/research/papers/wifi-exposure",
-    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -201,8 +203,6 @@
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
     "research/Datasets.md",
-    "research/Hacker projects.md",
-    "research/index.md",
     "research/Competition/Апипульс.md",
     "docs/entrance-observer/Jetson Orin setup.md",
     "about/products/beehive_camera/features/🎥 Video streaming via API.md",
