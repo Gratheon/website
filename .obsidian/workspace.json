@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Competition/index.md",
+                "file": "research/papers/Towards Robotic Mapping of a Honeybee Comb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Towards Robotic Mapping of a Honeybee Comb"
             }
           }
         ]
@@ -177,10 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f203e46461f5263",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "research/Competition/🇦🇺 Purple Hive.md",
+    "research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
+    "research/papers/Towards Robotic Mapping of a Honeybee Comb.md",
+    "research/papers/pdfs/2024_marss_mapping.pdf",
+    "research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees.md",
+    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
+    "research/papers/pdfs/2022_FAI_roboroyale.pdf",
+    "research/papers/img",
     "research/Competition/index.md",
+    "research/Competition/🇦🇺 Purple Hive.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
     "public/blog/rss.css",
@@ -188,9 +195,6 @@
     "public/blog/atom.xsl",
     "public/blog/rss.xsl",
     "public/sitemap.xml",
-    "public/index.html",
-    "public/research/papers/wifi-exposure/index.html",
-    "public/research/papers/wifi-exposure",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -220,10 +224,6 @@
     "research/Competition/BeeLab.md",
     "research/Competition/BeeOrganizer.md",
     "research/Competition/Beep.md",
-    "research/Competition/BeePot.md",
-    "research/Competition/BeeHero.md",
-    "research/Competition/ApiManager.md",
-    "research/Competition/ApiaryBook.md",
-    "research/Competition/AgriSound.md"
+    "research/Competition/BeePot.md"
   ]
 }
