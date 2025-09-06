@@ -1,6 +1,6 @@
 {
   "id": "Competition/index",
-  "title": "index",
+  "title": "Commercial projects",
   "description": "This is a list of great apps, devices, code repos and products that we look at for inspiration",
   "source": "@site/research/Competition/index.md",
   "sourceDirName": "Competition",
@@ -10,11 +10,15 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Commercial projects",
+    "sidebar_position": 5
+  },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "Datasets",
-    "permalink": "/research/Datasets"
+    "title": "Towards dense object tracking in a 2D honeybee hive",
+    "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
   },
   "next": {
     "title": "3bee",

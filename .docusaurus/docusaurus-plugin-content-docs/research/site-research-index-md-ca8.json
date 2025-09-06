@@ -1,6 +1,6 @@
 {
   "id": "index",
-  "title": "index",
+  "title": "Research",
   "description": "We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions (see our docs for more engineering and ML specific articles).",
   "source": "@site/research/index.md",
   "sourceDirName": ".",
@@ -10,10 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Research",
+    "sidebar_position": 1
+  },
   "sidebar": "researchSidebar",
-  "previous": {
-    "title": "🇺🇸 Best Bees",
-    "permalink": "/research/Competition/🇺🇸 Best Bees"
+  "next": {
+    "title": "Datasets",
+    "permalink": "/research/Datasets"
   }
 }

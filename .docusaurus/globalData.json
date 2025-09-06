@@ -1923,8 +1923,8 @@
           "sidebars": {
             "researchSidebar": {
               "link": {
-                "path": "/research/papers/",
-                "label": "Research papers"
+                "path": "/research/",
+                "label": "index"
               }
             }
           }

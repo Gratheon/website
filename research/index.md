@@ -1,3 +1,8 @@
+---
+title: Research
+sidebar_position: 1
+---
+
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-10%" }}>
 ![](img/research.jpg)
 </div></div>

@@ -1,3 +1,9 @@
+---
+title: Commercial projects
+sidebar_position: 5
+---
+
+
 This is a list of great apps, devices, code repos and products that we look at for inspiration
 ## 🪬 Robotic Apiary
 
@@ -20,17 +26,8 @@ This is a list of great apps, devices, code repos and products that we look at f
 
 ## 👁️‍🗨️ Entrance Observer
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",   "%20") + ")", "") as title, url, description FROM "research/Competition"  WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition"  WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
-
-| title                                       | url                                    | description |
-| ------------------------------------------- | -------------------------------------- | ----------- |
-| [HiveGenie](HiveGenie.md)                   | https://www.hivegenie.com/our-product/ | \-          |
-| [🇦🇺 Beemate](🇦🇺%20Beemate.md)           | https://beemate.buzz/                  | \-          |
-| [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md) | https://www.vimanatech.com.au/about    | \-          |
-| [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)     | https://bestbees.com/smarthive-lp/     | \-          |
-| [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)             | https://apic.ai/                       | \-          |
-<!-- SerializedQuery END -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  
+"%20") + ")", "") as title, url, description FROM "research/Competition"  WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
 
 ## 🌡️ Beehive IoT sensors
 

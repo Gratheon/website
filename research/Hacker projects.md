@@ -1,6 +1,6 @@
 ---
-title: "Hacker projects"
-sidebar_position: 2
+title: Hacker projects
+sidebar_position: 3
 ---
 
 | Area              | URL                                                                                                                                                                                                                       |

@@ -10,13 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 1,
+    "sidebar_position": 4,
     "title": "Research papers",
     "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Hacker projects",
+    "permalink": "/research/Hacker projects"
+  },
   "next": {
     "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
     "permalink": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"

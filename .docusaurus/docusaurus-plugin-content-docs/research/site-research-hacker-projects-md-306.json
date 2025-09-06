@@ -10,18 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
     "title": "Hacker projects",
-    "sidebar_position": 2
+    "sidebar_position": 3
   },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "Towards dense object tracking in a 2D honeybee hive",
-    "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
-  },
-  "next": {
     "title": "Datasets",
     "permalink": "/research/Datasets"
+  },
+  "next": {
+    "title": "Research papers",
+    "permalink": "/research/papers/"
   }
 }
