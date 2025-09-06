@@ -11,10 +11,14 @@
             "id": "5f203e46461f5263",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/Datasets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Datasets"
             }
           }
         ]
@@ -163,8 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f203e46461f5263",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/index.md",
+    "research/ResearchDB.base",
+    "research/Datasets.md",
     "research/Competition/Апипульс.md",
     "research/Competition/img/Pasted image 20250905194440.png",
     "research/Competition/img/Pasted image 20250905194432.png",
@@ -183,14 +190,12 @@
     "public/blog/atom.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/tallinn.png",
     "public/img/robot.jpeg",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/temp.webp",
-    "research/index.md",
     "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md",
     "research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks.md",
@@ -208,8 +213,6 @@
     "research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring.md",
     "research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period.md",
     "research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
-    "research/papers/wifi-exposure.md",
-    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "research/papers/Honey bees modify plantpollinator network structure.md"
+    "research/papers/wifi-exposure.md"
   ]
 }
