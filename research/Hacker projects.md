@@ -30,8 +30,12 @@
 | IoT               | [SmartBees](https://www.hackster.io/smartbees/smartbees-e5f807)                                                                                                            |
 | IoT               | [Beehive Monitor using an Arduino 33 BLE Sense](https://www.hackster.io/442967/beehive-monitor-using-an-arduino-33-ble-sense-19ee10)                                       |
 | IoT               | [Beehive Monitoring and Tracking](https://www.hackster.io/sgoutteb/beehive-monitoring-and-tracking-c1339e)                                                                 |
-| IoT               | [OpenRuche – BeeBrave](https://www.hackster.io/beebrave/openruche-beebrave-320aa8)                                                                                         |
 | IoT               | [Beenfo](https://www.hackster.io/517832/beenfo-849f65)                                                                                                                     |
 | IoT               | [Beekeeping with Arduino](https://www.hackster.io/pvalyk/beekeeping-with-arduino-4216bb)                                                                                   |
 | IoT               | [BeeO Terminal](https://www.hackster.io/batcopter/beeo-terminal-a05c57)                                                                                                    |
 | IoT               | [HiveSupportSystem](https://www.hackster.io/Zacch/hivesupportsystem-4b2475)                                                                                                |
+| IoT               | [OpenRuche – BeeBrave](https://www.hackster.io/beebrave/openruche-beebrave-320aa8)                                                                                         |
+| IoT               | [Open Ruche](https://www.hackster.io/zams/open-ruche-3a25f5)                                                                                                               |
+| IoT               | [Hive Monitoring System](https://www.hackster.io/noahmaupu/hive-monitoring-system-05767d)                                                                                  |
+| IoT               | [B-Hive](https://www.hackster.io/dect/b-hive-a14efa)                                                                                                                       |
+| IoT               | [Projet OpenRucheG2](https://www.hackster.io/rucheg2/projet-openrucheg2-c1c77d)                                                                                            |
