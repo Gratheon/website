@@ -4,6 +4,7 @@
 | entrance-observer | ⭐️ [Counting bees with the LABRADOR board](https://www.hackster.io/mjrobot/counting-bees-with-the-labrador-board-3c2e1f)                                                   |
 | entrance-observer | ⭐️ [Mixtile Edge 2 Kit – AI based bee detection and tracking](https://www.hackster.io/sdizdarevic/mixtile-edge-2-kit-ai-based-bee-detection-and-tracking-2fe215)           |
 | entrance-observer | [BuzzTech: Machine Learning at the Edge](https://www.hackster.io/518000/buzztech-machine-learning-at-the-edge-07c951)                                                      |
+| entrance-observer | [Hive Vision](https://www.hackster.io/507447/hive-vision-024457)                                                                                                           |
 | IoT               | https://www.hackster.io/sdizdarevic/mixtile-edge-2-kit-ai-based-bee-detection-and-tracking-2fe215                                                                          |
 | IoT               | [Bee-Happy - Connected beehive](https://www.hackster.io/443790/bee-happy-connected-beehive-6ac8ec)                                                                         |
 | IoT               | [Bee-Hive Project : Smart Hive monitoring](https://www.hackster.io/the-nato-team/bee-hive-project-smart-hive-monitoring-b5b39e)                                            |
@@ -32,4 +33,5 @@
 | IoT               | [OpenRuche – BeeBrave](https://www.hackster.io/beebrave/openruche-beebrave-320aa8)                                                                                         |
 | IoT               | [Beenfo](https://www.hackster.io/517832/beenfo-849f65)                                                                                                                     |
 | IoT               | [Beekeeping with Arduino](https://www.hackster.io/pvalyk/beekeeping-with-arduino-4216bb)                                                                                   |
-|                   | # AirBeeNBee                                                                                                                                                               |
+| IoT               | [BeeO Terminal](https://www.hackster.io/batcopter/beeo-terminal-a05c57)                                                                                                    |
+| IoT               | [HiveSupportSystem](https://www.hackster.io/Zacch/hivesupportsystem-4b2475)                                                                                                |
