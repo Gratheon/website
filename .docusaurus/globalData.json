@@ -1539,11 +1539,6 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "Competition/BeeLogger",
-              "path": "/research/Competition/BeeLogger",
-              "sidebar": "researchSidebar"
-            },
-            {
               "id": "Competition/BeeOrganizer",
               "path": "/research/Competition/BeeOrganizer",
               "sidebar": "researchSidebar"
@@ -1556,11 +1551,6 @@
             {
               "id": "Competition/BeePlus Beekeeping",
               "path": "/research/Competition/BeePlus Beekeeping",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeePot",
-              "path": "/research/Competition/BeePot",
               "sidebar": "researchSidebar"
             },
             {
@@ -1594,16 +1584,6 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "Competition/Competition",
-              "path": "/research/Competition/",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/DanNduati IoT-beehive-monitoring-system",
-              "path": "/research/Competition/DanNduati IoT-beehive-monitoring-system",
-              "sidebar": "researchSidebar"
-            },
-            {
               "id": "Competition/ForSage",
               "path": "/research/Competition/ForSage",
               "sidebar": "researchSidebar"
@@ -1611,11 +1591,6 @@
             {
               "id": "Competition/Gobuzzr",
               "path": "/research/Competition/Gobuzzr",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Hackuarium beemos",
-              "path": "/research/Competition/Hackuarium beemos",
               "sidebar": "researchSidebar"
             },
             {
@@ -1659,6 +1634,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Competition/index",
+              "path": "/research/Competition/",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "Competition/InspectNext",
               "path": "/research/Competition/InspectNext",
               "sidebar": "researchSidebar"
@@ -1674,11 +1654,6 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "Competition/Mjrovai Bee-Counting",
-              "path": "/research/Competition/Mjrovai Bee-Counting",
-              "sidebar": "researchSidebar"
-            },
-            {
               "id": "Competition/OSBeehives",
               "path": "/research/Competition/OSBeehives",
               "sidebar": "researchSidebar"
@@ -1691,11 +1666,6 @@
             {
               "id": "Competition/Solutionbee",
               "path": "/research/Competition/Solutionbee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/vitzaoral beehive_weight",
-              "path": "/research/Competition/vitzaoral beehive_weight",
               "sidebar": "researchSidebar"
             },
             {
@@ -1844,6 +1814,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/index",
+              "path": "/research/papers/",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
               "path": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring",
               "sidebar": "researchSidebar"
@@ -1948,8 +1923,8 @@
           "sidebars": {
             "researchSidebar": {
               "link": {
-                "path": "/research/",
-                "label": "index"
+                "path": "/research/papers/",
+                "label": "Research papers"
               }
             }
           }

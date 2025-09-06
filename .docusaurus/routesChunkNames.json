@@ -1693,26 +1693,26 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-d74": {
+  "/research-d15": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-323": {
+  "/research-abc": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-91e": {
+  "/research-1b8": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
     "__comp": "17896441",
     "content": "ca801a32"
   },
-  "/research/Competition/-4f8": {
+  "/research/Competition/-108": {
     "__comp": "17896441",
-    "content": "f9c598c1"
+    "content": "eb328586"
   },
   "/research/Competition/🇦🇺 Beemate-8f6": {
     "__comp": "17896441",
@@ -1782,10 +1782,6 @@
     "__comp": "17896441",
     "content": "aa60bc2f"
   },
-  "/research/Competition/BeeLogger-417": {
-    "__comp": "17896441",
-    "content": "44c0487f"
-  },
   "/research/Competition/BeeOrganizer-e64": {
     "__comp": "17896441",
     "content": "10702bc7"
@@ -1797,10 +1793,6 @@
   "/research/Competition/BeePlus Beekeeping-b2d": {
     "__comp": "17896441",
     "content": "6e86a4fa"
-  },
-  "/research/Competition/BeePot-5db": {
-    "__comp": "17896441",
-    "content": "9c450da8"
   },
   "/research/Competition/BeeSage-bd3": {
     "__comp": "17896441",
@@ -1826,10 +1818,6 @@
     "__comp": "17896441",
     "content": "8165e2de"
   },
-  "/research/Competition/DanNduati IoT-beehive-monitoring-system-478": {
-    "__comp": "17896441",
-    "content": "612aece3"
-  },
   "/research/Competition/ForSage-8eb": {
     "__comp": "17896441",
     "content": "67aab1dd"
@@ -1837,10 +1825,6 @@
   "/research/Competition/Gobuzzr-479": {
     "__comp": "17896441",
     "content": "20f821e6"
-  },
-  "/research/Competition/Hackuarium beemos-6e1": {
-    "__comp": "17896441",
-    "content": "e877641c"
   },
   "/research/Competition/HIIVE Link-f55": {
     "__comp": "17896441",
@@ -1886,10 +1870,6 @@
     "__comp": "17896441",
     "content": "c29c7e2c"
   },
-  "/research/Competition/Mjrovai Bee-Counting-066": {
-    "__comp": "17896441",
-    "content": "60149ded"
-  },
   "/research/Competition/OSBeehives-538": {
     "__comp": "17896441",
     "content": "21f90c94"
@@ -1902,10 +1882,6 @@
     "__comp": "17896441",
     "content": "e06f7db0"
   },
-  "/research/Competition/vitzaoral beehive_weight-ce2": {
-    "__comp": "17896441",
-    "content": "7fff2b1d"
-  },
   "/research/Competition/Апипульс-6be": {
     "__comp": "17896441",
     "content": "441076a3"
@@ -1917,6 +1893,10 @@
   "/research/Hacker projects-16f": {
     "__comp": "17896441",
     "content": "306850cc"
+  },
+  "/research/papers/-79b": {
+    "__comp": "17896441",
+    "content": "ba4fcde3"
   },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-d33": {
     "__comp": "17896441",

@@ -1,7 +1,7 @@
 {
   "id": "Hacker projects",
   "title": "Hacker projects",
-  "description": "| Area              | URL                                                                                                                                                                        |",
+  "description": "| Area              | URL                                                                                                                                                                                                                       |",
   "source": "@site/research/Hacker projects.md",
   "sourceDirName": ".",
   "slug": "/Hacker projects",
@@ -17,8 +17,8 @@
   },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "🔬 Research",
-    "permalink": "/research/"
+    "title": "Towards dense object tracking in a 2D honeybee hive",
+    "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
   },
   "next": {
     "title": "Datasets",

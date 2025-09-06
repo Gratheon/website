@@ -1924,15 +1924,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'd74'),
+    component: ComponentCreator('/research', 'd15'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '323'),
+        component: ComponentCreator('/research', 'abc'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '91e'),
+            component: ComponentCreator('/research', '1b8'),
             routes: [
               {
                 path: '/research/',
@@ -1942,7 +1942,7 @@ export default [
               },
               {
                 path: '/research/Competition/',
-                component: ComponentCreator('/research/Competition/', '4f8'),
+                component: ComponentCreator('/research/Competition/', '108'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2049,12 +2049,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/BeeLogger',
-                component: ComponentCreator('/research/Competition/BeeLogger', '417'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/Competition/BeeOrganizer',
                 component: ComponentCreator('/research/Competition/BeeOrganizer', 'e64'),
                 exact: true,
@@ -2069,12 +2063,6 @@ export default [
               {
                 path: '/research/Competition/BeePlus Beekeeping',
                 component: ComponentCreator('/research/Competition/BeePlus Beekeeping', 'b2d'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeePot',
-                component: ComponentCreator('/research/Competition/BeePot', '5db'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2115,12 +2103,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/DanNduati IoT-beehive-monitoring-system',
-                component: ComponentCreator('/research/Competition/DanNduati IoT-beehive-monitoring-system', '478'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/Competition/ForSage',
                 component: ComponentCreator('/research/Competition/ForSage', '8eb'),
                 exact: true,
@@ -2129,12 +2111,6 @@ export default [
               {
                 path: '/research/Competition/Gobuzzr',
                 component: ComponentCreator('/research/Competition/Gobuzzr', '479'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Hackuarium beemos',
-                component: ComponentCreator('/research/Competition/Hackuarium beemos', '6e1'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2205,12 +2181,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/Mjrovai Bee-Counting',
-                component: ComponentCreator('/research/Competition/Mjrovai Bee-Counting', '066'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/Competition/OSBeehives',
                 component: ComponentCreator('/research/Competition/OSBeehives', '538'),
                 exact: true,
@@ -2229,12 +2199,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/vitzaoral beehive_weight',
-                component: ComponentCreator('/research/Competition/vitzaoral beehive_weight', 'ce2'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/Competition/Апипульс',
                 component: ComponentCreator('/research/Competition/Апипульс', '6be'),
                 exact: true,
@@ -2249,6 +2213,12 @@ export default [
               {
                 path: '/research/Hacker projects',
                 component: ComponentCreator('/research/Hacker projects', '16f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/',
+                component: ComponentCreator('/research/papers/', '79b'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

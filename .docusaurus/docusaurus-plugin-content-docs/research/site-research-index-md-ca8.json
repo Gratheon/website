@@ -1,6 +1,6 @@
 {
   "id": "index",
-  "title": "🔬 Research",
+  "title": "index",
   "description": "We want to be aware of recent and historical development in research that is tied to bees, observability and machine learning. We are open to collaboration with research and academic institutions (see our docs for more engineering and ML specific articles).",
   "source": "@site/research/index.md",
   "sourceDirName": ".",
@@ -10,15 +10,10 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1,
-    "title": "🔬 Research",
-    "hide_table_of_contents": true
-  },
+  "frontMatter": {},
   "sidebar": "researchSidebar",
-  "next": {
-    "title": "Hacker projects",
-    "permalink": "/research/Hacker projects"
+  "previous": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/research/Competition/🇺🇸 Best Bees"
   }
 }
