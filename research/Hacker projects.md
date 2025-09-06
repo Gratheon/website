@@ -1,7 +1,8 @@
 
 | Area              | URL                                                                                                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| entrance-observer | ⭐️[Counting bees with the LABRADOR board](https://www.hackster.io/mjrobot/counting-bees-with-the-labrador-board-3c2e1f)                                                    |
+| entrance-observer | ⭐️ [Counting bees with the LABRADOR board](https://www.hackster.io/mjrobot/counting-bees-with-the-labrador-board-3c2e1f)                                                   |
+| entrance-observer | ⭐️ [Mixtile Edge 2 Kit – AI based bee detection and tracking](https://www.hackster.io/sdizdarevic/mixtile-edge-2-kit-ai-based-bee-detection-and-tracking-2fe215)           |
 | IoT               | https://www.hackster.io/sdizdarevic/mixtile-edge-2-kit-ai-based-bee-detection-and-tracking-2fe215                                                                          |
 | IoT               | [Bee-Happy - Connected beehive](https://www.hackster.io/443790/bee-happy-connected-beehive-6ac8ec)                                                                         |
 | IoT               | [Bee-Hive Project : Smart Hive monitoring](https://www.hackster.io/the-nato-team/bee-hive-project-smart-hive-monitoring-b5b39e)                                            |
@@ -18,3 +19,8 @@
 | IoT               | [iTRUBEC - IoT for Bees](https://www.hackster.io/vilemkuzel/itrubec-iot-for-bees-a622a8)                                                                                   |
 | IoT               | [LittleBee: Acoustic Sensor For Measuring Bee Hissing Level](https://www.hackster.io/the-beeinformedteam/littlebee-acoustic-sensor-for-measuring-bee-hissing-level-960f6a) |
 | IoT               | [Honey Guys - Monitoring of a bee hive](https://www.hackster.io/walidsrb4/honey-guys-monitoring-of-a-bee-hive-476c12)                                                      |
+| IoT               | [Hive IA control of Honey Bee for person with disability](https://www.hackster.io/davide-cogliati/hive-ia-control-of-honey-bee-for-person-with-disability-0ab4dc)          |
+| IoT               | [iTRUBEC Minimonitor v1.0 – IoT for Bees](https://www.hackster.io/vilemkuzel/itrubec-minimonitor-v1-0-iot-for-bees-a7d4b8)                                                 |
+| IoT               | [Open Ruche : A Connected Beehive for Smart Bee Monitoring](https://www.hackster.io/oumertamine3/open-ruche-a-connected-beehive-for-smart-bee-monitoring-ef24ac)           |
+| IoT               | [BeeInformed](https://www.hackster.io/uLipe/beeinformed-environmental-analyzer-for-beekeeping-420b4b)                                                                      |
+| IoT               | [L'abeille vie](https://www.hackster.io/l-abeille-vie/l-abeille-vie-ed1e73)                                                                                                |
