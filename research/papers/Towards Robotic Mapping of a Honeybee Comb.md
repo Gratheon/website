@@ -3,6 +3,7 @@ orgs:
   - 🇨🇿 Czech Technical University
   - 🇬🇧 Durham University
   - 🇦🇹 University of Graz
+year: "2024"
 ---
 
 - [PDF](pdfs/2024_marss_mapping.pdf)
