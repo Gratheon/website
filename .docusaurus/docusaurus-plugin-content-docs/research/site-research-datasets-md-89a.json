@@ -13,7 +13,8 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Datasets",
-    "sidebar_position": 2
+    "sidebar_position": 2,
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

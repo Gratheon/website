@@ -1,6 +1,7 @@
 ---
 title: Datasets
 sidebar_position: 2
+hide_table_of_contents: true
 ---
 Data collected by us is available via [Google Drive](https://drive.google.com/drive/folders/105PmxDKFUR6NCPLHBkXGdkfcZwWf9ABI?usp=drive_link), mostly due to the size of the data. 
 This includes:
@@ -8,10 +9,17 @@ This includes:
 ## Photos
 [Manually taken photos](https://drive.google.com/drive/folders/1exDMgrv8fPcysB4dLQIs-ru7QNW0UPxN?usp=drive_link) from **inspections** of the beehive frames (no annotations, JPG, ~15MP) in years: 2019, 2020, 2021, 2024. 
 
+Example foto (webp re-compressed for the web):
 ![](img/IMG_4376.webp)
 
 ## Videos
-[👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/) videos 🎥 of the hive entrance:
+[👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/) videos 🎥 of the hive entrance
+
+Example video (ffmpeg re-compressed for the web):
+
+<object data={require('./img/videos-at-entrance-example.mp4').default} type="video/mp4" width="800" height="600"></object>
+
+![](img/videos-at-entrance-example.mp4)
 ### 2025
 - [September 04](https://drive.google.com/drive/folders/1BY7RrQdQI-6iaSzx4-CVES0kwVlpzX2u?usp=drive_link). 
 	- some chunks have pairs with `_detect.mp4` suffixes, showing yolov8 model detections.
@@ -28,6 +36,18 @@ This includes:
 	- Zoom in done at 12:00 EEST of landing board area (23cm wide). 
 	- 1280x720px. 30 min chunks. 15FPS.  
 	- file names are in UTC timestamps.
+
+Example video metadata:
+```
+Input #0
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2mp41
+    encoder         : Lavf59.27.100
+  Duration: 00:00:30.03, start: 0.000000, bitrate: 14927 kb/s
+  Stream #0:0[0x1](und): Video: mpeg4 (Simple Profile) (mp4v / 0x7634706D), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 14926 kb/s, 15.02 fps, 15.02 tbr, 12016 tbn (default)
+```
 
 ### 2024
 [2024, may 19](https://drive.google.com/drive/folders/1bD9uFYu0c2Y4NfKOqTwB-NGl1ZIwEyI1?usp=drive_link). 
