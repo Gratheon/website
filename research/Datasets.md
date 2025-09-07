@@ -10,7 +10,7 @@ Main source is available via [Google Drive](https://drive.google.com/drive/folde
 		- 640x480 resolution, 10sec chunks
 		- ~ 1h of videos in total, 1.1GB
 	- 2025, september 04. 
-		- some chunks have pairs with `_detect.mp4` suffixes, showing 
+		- some chunks have pairs with `_detect.mp4` suffixes, showing yolov8 model detections.
 		- 5-25mb per chunk. mp4
 	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00)
 		- Zoom at landing board ~ 40cm wide
