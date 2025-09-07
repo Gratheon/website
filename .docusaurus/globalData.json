@@ -196,38 +196,93 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/Camera - Mokose 4k",
-              "path": "/docs/entrance-observer/components/Camera - Mokose 4k",
+              "id": "entrance-observer/components-jetson/Camera - Mokose 4k",
+              "path": "/docs/entrance-observer/components-jetson/Camera - Mokose 4k",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/Camera lens",
-              "path": "/docs/entrance-observer/components/Camera lens",
+              "id": "entrance-observer/components-jetson/Camera lens",
+              "path": "/docs/entrance-observer/components-jetson/Camera lens",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/Camera mount",
-              "path": "/docs/entrance-observer/components/Camera mount",
+              "id": "entrance-observer/components-jetson/Camera mount",
+              "path": "/docs/entrance-observer/components-jetson/Camera mount",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/Jetson Nano",
-              "path": "/docs/entrance-observer/components/Jetson Nano",
+              "id": "entrance-observer/components-jetson/Jetson Nano",
+              "path": "/docs/entrance-observer/components-jetson/Jetson Nano",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/Jetson Nano case",
-              "path": "/docs/entrance-observer/components/Jetson Nano case",
+              "id": "entrance-observer/components-jetson/Jetson Nano case",
+              "path": "/docs/entrance-observer/components-jetson/Jetson Nano case",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/SD card for Jetson Nano",
-              "path": "/docs/entrance-observer/components/SD card for Jetson Nano",
+              "id": "entrance-observer/components-jetson/SD card for Jetson Nano",
+              "path": "/docs/entrance-observer/components-jetson/SD card for Jetson Nano",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "entrance-observer/components/WiFi module for Jetson Nano",
-              "path": "/docs/entrance-observer/components/WiFi module for Jetson Nano",
+              "id": "entrance-observer/components-jetson/Wi-Fi antennas",
+              "path": "/docs/entrance-observer/components-jetson/Wi-Fi antennas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-jetson/WiFi module for Jetson Nano",
+              "path": "/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/2020 Aluminum Extrusion",
+              "path": "/docs/entrance-observer/components-orin/2020 Aluminum Extrusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Camera",
+              "path": "/docs/entrance-observer/components-orin/Camera",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Camera lens",
+              "path": "/docs/entrance-observer/components-orin/Camera lens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Case",
+              "path": "/docs/entrance-observer/components-orin/Case",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Display",
+              "path": "/docs/entrance-observer/components-orin/Display",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/M2 SSD",
+              "path": "/docs/entrance-observer/components-orin/M2 SSD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Mounts",
+              "path": "/docs/entrance-observer/components-orin/Mounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Orin Nano",
+              "path": "/docs/entrance-observer/components-orin/Orin Nano",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/Plexiglass",
+              "path": "/docs/entrance-observer/components-orin/Plexiglass",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "entrance-observer/components-orin/WiFi antennas",
+              "path": "/docs/entrance-observer/components-orin/WiFi antennas",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -732,6 +787,11 @@
             {
               "id": "products/🧑‍🚀 Actions beekeepers make",
               "path": "/about/products/🧑‍🚀 Actions beekeepers make",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/beehive_camera",
+              "path": "/about/products/beehive_camera",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1724,6 +1784,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+              "path": "/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
               "path": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
               "sidebar": "researchSidebar"
@@ -1891,6 +1956,11 @@
             {
               "id": "papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
               "path": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Towards Robotic Mapping of a Honeybee Comb",
+              "path": "/research/papers/Towards Robotic Mapping of a Honeybee Comb",
               "sidebar": "researchSidebar"
             },
             {

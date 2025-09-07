@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/Mounts",
+  "title": "Mounts",
+  "description": "https://www.amazon.com/dp/B0CM6HPFSJ?ref=ppxyo2ovdtbfedasintitle&th=1",
+  "source": "@site/docs/entrance-observer/components-orin/Mounts.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/Mounts",
+  "permalink": "/docs/entrance-observer/components-orin/Mounts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/Mounts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "M2 SSD",
+    "permalink": "/docs/entrance-observer/components-orin/M2 SSD"
+  },
+  "next": {
+    "title": "Orin Nano",
+    "permalink": "/docs/entrance-observer/components-orin/Orin Nano"
+  }
+}

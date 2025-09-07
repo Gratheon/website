@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "WiFi module for Jetson Nano",
-    "permalink": "/docs/entrance-observer/components/WiFi module for Jetson Nano"
+    "title": "WiFi antennas",
+    "permalink": "/docs/entrance-observer/components-orin/WiFi antennas"
   },
   "next": {
     "title": "4 axis gantry",

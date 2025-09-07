@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-jetson/Wi-Fi antennas",
+  "title": "Wireless-AC8265 Dual Mode AC8265 Wireless NIC Module for Jetson Nano Developer Kit M.2 NGFF Support 2.4GHz / 5GHz 300Mbps / 867Mbps Dual Band WiFi and Bluetooth 4.2",
+  "description": "https://www.amazon.com/dp/B07SM4SPLV?ref=ppxyo2ovdtbfedasintitle",
+  "source": "@site/docs/entrance-observer/components-jetson/Wi-Fi antennas.md",
+  "sourceDirName": "entrance-observer/components-jetson",
+  "slug": "/entrance-observer/components-jetson/Wi-Fi antennas",
+  "permalink": "/docs/entrance-observer/components-jetson/Wi-Fi antennas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-jetson/Wi-Fi antennas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SD card for Jetson Nano",
+    "permalink": "/docs/entrance-observer/components-jetson/SD card for Jetson Nano"
+  },
+  "next": {
+    "title": "WiFi module for Jetson Nano",
+    "permalink": "/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/Camera",
+  "title": "Camera",
+  "description": "$154.50",
+  "source": "@site/docs/entrance-observer/components-orin/Camera.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/Camera",
+  "permalink": "/docs/entrance-observer/components-orin/Camera",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/Camera.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Camera lens",
+    "permalink": "/docs/entrance-observer/components-orin/Camera lens"
+  },
+  "next": {
+    "title": "Acrylic Clear Case (Type D) Specialized for NVIDIA Jetson Nano 2GB Developer Kit, Easy Access for GPIO and Camera Port, Cut-Outs for The Essential Ports and TF Card",
+    "permalink": "/docs/entrance-observer/components-orin/Case"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/WiFi antennas",
+  "title": "WiFi antennas",
+  "description": "https://www.amazon.de/dp/B07SGDRG34?ref=ppxyo2ovdtbfedasintitle",
+  "source": "@site/docs/entrance-observer/components-orin/WiFi antennas.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/WiFi antennas",
+  "permalink": "/docs/entrance-observer/components-orin/WiFi antennas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/WiFi antennas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plexiglass",
+    "permalink": "/docs/entrance-observer/components-orin/Plexiglass"
+  },
+  "next": {
+    "title": "🧿 Robotic beehive",
+    "permalink": "/docs/robotic-beehive/"
+  }
+}

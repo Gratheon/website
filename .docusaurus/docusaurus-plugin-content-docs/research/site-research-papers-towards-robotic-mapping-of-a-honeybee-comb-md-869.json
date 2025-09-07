@@ -1,0 +1,30 @@
+{
+  "id": "papers/Towards Robotic Mapping of a Honeybee Comb",
+  "title": "Towards Robotic Mapping of a Honeybee Comb",
+  "description": "- PDF",
+  "source": "@site/research/papers/Towards Robotic Mapping of a Honeybee Comb.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Towards Robotic Mapping of a Honeybee Comb",
+  "permalink": "/research/papers/Towards Robotic Mapping of a Honeybee Comb",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇨🇿 Czech Technical University",
+      "🇬🇧 Durham University",
+      "🇦🇹 University of Graz"
+    ],
+    "year": "2024"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Toward an intelligent and efficient beehive: A survey of precision beekeeping systems and services",
+    "permalink": "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services"
+  },
+  "next": {
+    "title": "Towards Varroa destructor mite detection using a narrow spectra illumination",
+    "permalink": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/Plexiglass",
+  "title": "Plexiglass",
+  "description": "https://www.amazon.de/dp/B08F4Z9RRQ?ref=ppxyo2ovdtbfedasintitle&th=1",
+  "source": "@site/docs/entrance-observer/components-orin/Plexiglass.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/Plexiglass",
+  "permalink": "/docs/entrance-observer/components-orin/Plexiglass",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/Plexiglass.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orin Nano",
+    "permalink": "/docs/entrance-observer/components-orin/Orin Nano"
+  },
+  "next": {
+    "title": "WiFi antennas",
+    "permalink": "/docs/entrance-observer/components-orin/WiFi antennas"
+  }
+}

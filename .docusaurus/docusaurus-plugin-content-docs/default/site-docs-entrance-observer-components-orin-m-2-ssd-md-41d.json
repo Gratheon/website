@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/M2 SSD",
+  "title": "M2 SSD",
+  "description": "https://www.amazon.de/dp/B0CN3LQSBZ?ref=ppxyo2ovdtbfedasintitle&th=1",
+  "source": "@site/docs/entrance-observer/components-orin/M2 SSD.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/M2 SSD",
+  "permalink": "/docs/entrance-observer/components-orin/M2 SSD",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/M2 SSD.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display",
+    "permalink": "/docs/entrance-observer/components-orin/Display"
+  },
+  "next": {
+    "title": "Mounts",
+    "permalink": "/docs/entrance-observer/components-orin/Mounts"
+  }
+}

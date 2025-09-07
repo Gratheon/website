@@ -1,0 +1,30 @@
+{
+  "id": "papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+  "title": "A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+  "description": "- PDF",
+  "source": "@site/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+  "permalink": "/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2022",
+    "orgs": [
+      "🇦🇹 University of Graz",
+      "🇨🇿 Czech Technical University",
+      "🇹🇷  Middle East Technical University"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Research papers",
+    "permalink": "/research/papers/"
+  },
+  "next": {
+    "title": "A Preliminary Study of Image Analysis forParasite Detection on Honey Bees",
+    "permalink": "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees"
+  }
+}

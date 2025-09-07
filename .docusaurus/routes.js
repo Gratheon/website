@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'fc8'),
+    component: ComponentCreator('/about', '50e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '834'),
+        component: ComponentCreator('/about', 'd18'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'f34'),
+            component: ComponentCreator('/about', '8c9'),
             routes: [
               {
                 path: '/about/',
@@ -707,6 +707,12 @@ export default [
               {
                 path: '/about/products/🧑‍🚀 Actions beekeepers make',
                 component: ComponentCreator('/about/products/🧑‍🚀 Actions beekeepers make', '94e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/beehive_camera',
+                component: ComponentCreator('/about/products/beehive_camera', '262'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1546,15 +1552,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '16e'),
+    component: ComponentCreator('/docs', '1e5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7c3'),
+        component: ComponentCreator('/docs', 'c3d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c61'),
+            component: ComponentCreator('/docs', 'ce0'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1785,44 +1791,110 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/Camera - Mokose 4k',
-                component: ComponentCreator('/docs/entrance-observer/components/Camera - Mokose 4k', 'd8e'),
+                path: '/docs/entrance-observer/components-jetson/Camera - Mokose 4k',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Camera - Mokose 4k', '188'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/Camera lens',
-                component: ComponentCreator('/docs/entrance-observer/components/Camera lens', '56d'),
+                path: '/docs/entrance-observer/components-jetson/Camera lens',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Camera lens', '021'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/Camera mount',
-                component: ComponentCreator('/docs/entrance-observer/components/Camera mount', '6a9'),
+                path: '/docs/entrance-observer/components-jetson/Camera mount',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Camera mount', 'a0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/Jetson Nano',
-                component: ComponentCreator('/docs/entrance-observer/components/Jetson Nano', '2d1'),
+                path: '/docs/entrance-observer/components-jetson/Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Jetson Nano', '13a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/Jetson Nano case',
-                component: ComponentCreator('/docs/entrance-observer/components/Jetson Nano case', '322'),
+                path: '/docs/entrance-observer/components-jetson/Jetson Nano case',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Jetson Nano case', '884'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/SD card for Jetson Nano',
-                component: ComponentCreator('/docs/entrance-observer/components/SD card for Jetson Nano', 'e44'),
+                path: '/docs/entrance-observer/components-jetson/SD card for Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/SD card for Jetson Nano', '5d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/entrance-observer/components/WiFi module for Jetson Nano',
-                component: ComponentCreator('/docs/entrance-observer/components/WiFi module for Jetson Nano', '491'),
+                path: '/docs/entrance-observer/components-jetson/Wi-Fi antennas',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/Wi-Fi antennas', '4a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano',
+                component: ComponentCreator('/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano', 'd56'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/2020 Aluminum Extrusion',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/2020 Aluminum Extrusion', '553'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Camera',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Camera', 'b68'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Camera lens',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Camera lens', '013'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Case',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Case', '7c3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Display',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Display', 'e4b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/M2 SSD',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/M2 SSD', 'f0f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Mounts',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Mounts', '3d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Orin Nano',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Orin Nano', '2e9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/Plexiglass',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/Plexiglass', 'f61'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/entrance-observer/components-orin/WiFi antennas',
+                component: ComponentCreator('/docs/entrance-observer/components-orin/WiFi antennas', '312'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1924,15 +1996,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'd15'),
+    component: ComponentCreator('/research', 'd83'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'abc'),
+        component: ComponentCreator('/research', 'efc'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '1b8'),
+            component: ComponentCreator('/research', '4f1'),
             routes: [
               {
                 path: '/research/',
@@ -2265,6 +2337,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees',
+                component: ComponentCreator('/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees', '5b4'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees',
                 component: ComponentCreator('/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees', '54e'),
                 exact: true,
@@ -2459,6 +2537,12 @@ export default [
               {
                 path: '/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services',
                 component: ComponentCreator('/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services', 'a0f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Towards Robotic Mapping of a Honeybee Comb',
+                component: ComponentCreator('/research/papers/Towards Robotic Mapping of a Honeybee Comb', 'ec0'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

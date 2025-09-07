@@ -551,17 +551,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-fc8": {
+  "/about-50e": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-834": {
+  "/about-d18": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-f34": {
+  "/about-8c9": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -887,6 +887,10 @@
   "/about/products/🧑‍🚀 Actions beekeepers make-94e": {
     "__comp": "17896441",
     "content": "570febd1"
+  },
+  "/about/products/beehive_camera-262": {
+    "__comp": "17896441",
+    "content": "716b3776"
   },
   "/about/products/beehive_camera/-47e": {
     "__comp": "17896441",
@@ -1440,17 +1444,17 @@
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-16e": {
+  "/docs-1e5": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-7c3": {
+  "/docs-c3d": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-c61": {
+  "/docs-ce0": {
     "__comp": "a94703ab"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1605,33 +1609,77 @@
     "__comp": "17896441",
     "content": "38892000"
   },
-  "/docs/entrance-observer/components/Camera - Mokose 4k-d8e": {
+  "/docs/entrance-observer/components-jetson/Camera - Mokose 4k-188": {
     "__comp": "17896441",
-    "content": "e7b9cc2c"
+    "content": "a2ab379a"
   },
-  "/docs/entrance-observer/components/Camera lens-56d": {
+  "/docs/entrance-observer/components-jetson/Camera lens-021": {
     "__comp": "17896441",
-    "content": "d8e1abe8"
+    "content": "f8efe50f"
   },
-  "/docs/entrance-observer/components/Camera mount-6a9": {
+  "/docs/entrance-observer/components-jetson/Camera mount-a0e": {
     "__comp": "17896441",
-    "content": "a9c6670b"
+    "content": "a3176fe5"
   },
-  "/docs/entrance-observer/components/Jetson Nano-2d1": {
+  "/docs/entrance-observer/components-jetson/Jetson Nano-13a": {
     "__comp": "17896441",
-    "content": "83f92d26"
+    "content": "9f6cbaa9"
   },
-  "/docs/entrance-observer/components/Jetson Nano case-322": {
+  "/docs/entrance-observer/components-jetson/Jetson Nano case-884": {
     "__comp": "17896441",
-    "content": "31769808"
+    "content": "99b61d82"
   },
-  "/docs/entrance-observer/components/SD card for Jetson Nano-e44": {
+  "/docs/entrance-observer/components-jetson/SD card for Jetson Nano-5d4": {
     "__comp": "17896441",
-    "content": "cabd3ed3"
+    "content": "34837511"
   },
-  "/docs/entrance-observer/components/WiFi module for Jetson Nano-491": {
+  "/docs/entrance-observer/components-jetson/Wi-Fi antennas-4a1": {
     "__comp": "17896441",
-    "content": "53e8a658"
+    "content": "165c38b2"
+  },
+  "/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano-d56": {
+    "__comp": "17896441",
+    "content": "d57493ca"
+  },
+  "/docs/entrance-observer/components-orin/2020 Aluminum Extrusion-553": {
+    "__comp": "17896441",
+    "content": "b5a7153f"
+  },
+  "/docs/entrance-observer/components-orin/Camera-b68": {
+    "__comp": "17896441",
+    "content": "461636c3"
+  },
+  "/docs/entrance-observer/components-orin/Camera lens-013": {
+    "__comp": "17896441",
+    "content": "0b93088b"
+  },
+  "/docs/entrance-observer/components-orin/Case-7c3": {
+    "__comp": "17896441",
+    "content": "8213473a"
+  },
+  "/docs/entrance-observer/components-orin/Display-e4b": {
+    "__comp": "17896441",
+    "content": "690dcc08"
+  },
+  "/docs/entrance-observer/components-orin/M2 SSD-f0f": {
+    "__comp": "17896441",
+    "content": "41d3a346"
+  },
+  "/docs/entrance-observer/components-orin/Mounts-3d8": {
+    "__comp": "17896441",
+    "content": "465ac278"
+  },
+  "/docs/entrance-observer/components-orin/Orin Nano-2e9": {
+    "__comp": "17896441",
+    "content": "00b71287"
+  },
+  "/docs/entrance-observer/components-orin/Plexiglass-f61": {
+    "__comp": "17896441",
+    "content": "0c3a939a"
+  },
+  "/docs/entrance-observer/components-orin/WiFi antennas-312": {
+    "__comp": "17896441",
+    "content": "2a959499"
   },
   "/docs/entrance-observer/Jetson Nano setup-ab4": {
     "__comp": "17896441",
@@ -1693,17 +1741,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-d15": {
+  "/research-d83": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-abc": {
+  "/research-efc": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-1b8": {
+  "/research-4f1": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1926,6 +1974,10 @@
     "__comp": "17896441",
     "content": "b9470706"
   },
+  "/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees-5b4": {
+    "__comp": "17896441",
+    "content": "74341387"
+  },
   "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees-54e": {
     "__comp": "17896441",
     "content": "faa6e67f"
@@ -2057,6 +2109,10 @@
   "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services-a0f": {
     "__comp": "17896441",
     "content": "9669ac2f"
+  },
+  "/research/papers/Towards Robotic Mapping of a Honeybee Comb-ec0": {
+    "__comp": "17896441",
+    "content": "8696d5c6"
   },
   "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination-2da": {
     "__comp": "17896441",

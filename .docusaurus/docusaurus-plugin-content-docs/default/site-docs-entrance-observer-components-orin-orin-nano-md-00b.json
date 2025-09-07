@@ -1,0 +1,24 @@
+{
+  "id": "entrance-observer/components-orin/Orin Nano",
+  "title": "Orin Nano",
+  "description": "https://www.amazon.com/dp/B0BZJTQ5YP?ref=ppxyo2ovdtbfedasintitle&th=1",
+  "source": "@site/docs/entrance-observer/components-orin/Orin Nano.md",
+  "sourceDirName": "entrance-observer/components-orin",
+  "slug": "/entrance-observer/components-orin/Orin Nano",
+  "permalink": "/docs/entrance-observer/components-orin/Orin Nano",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/entrance-observer/components-orin/Orin Nano.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mounts",
+    "permalink": "/docs/entrance-observer/components-orin/Mounts"
+  },
+  "next": {
+    "title": "Plexiglass",
+    "permalink": "/docs/entrance-observer/components-orin/Plexiglass"
+  }
+}
