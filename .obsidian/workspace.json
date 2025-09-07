@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62ef001865d9aa6c",
+        "id": "355b256b8ad483f7",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd3841dd5d8ba7a",
+            "id": "1e32f80da6f5695c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/index.md",
+                "file": "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment"
             }
           }
         ]
@@ -174,11 +174,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdd3841dd5d8ba7a",
+  "active": "1e32f80da6f5695c",
   "lastOpenFiles": [
+    "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
+    "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
+    "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
+    "research/papers/pdfs/Open_remote_web_lab_for_learning_robotics_and_ROS_.pdf",
+    "research/papers/index.md",
     "research/Datasets.md",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
@@ -189,7 +195,6 @@
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/wifi-exposure/index.html",
-    "public/research/papers/wifi-exposure",
     "public/img/windows.png",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/varroa.webp",
@@ -220,9 +225,6 @@
     "docs/entrance-observer/ML processing devices.md",
     "docs/entrance-observer/Jetson Orin setup.md",
     "docs/entrance-observer/Jetson Nano setup.md",
-    "docs/entrance-observer/entrance-observer.md",
-    "about/products/beehive_camera.md",
-    "research/papers/wifi-exposure.md",
-    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md"
+    "docs/entrance-observer/entrance-observer.md"
   ]
 }

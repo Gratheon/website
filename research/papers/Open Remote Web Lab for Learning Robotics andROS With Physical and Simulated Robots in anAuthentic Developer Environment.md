@@ -1,0 +1,4 @@
+- [PDF](pdfs/Open_remote_web_lab_for_learning_robotics_and_ROS_.pdf)
+
+<object data={require('./pdfs/Open_remote_web_lab_for_learning_robotics_and_ROS_.pdf').default} type="application/pdf" width="100%" height="800"></object>
+![](pdfs/Open_remote_web_lab_for_learning_robotics_and_ROS_.pdf)
