@@ -2,20 +2,20 @@
 title: Datasets
 sidebar_position: 2
 ---
-
-## Gratheon datasets
-
 Main source is available via [Google Drive](https://drive.google.com/drive/folders/105PmxDKFUR6NCPLHBkXGdkfcZwWf9ABI?usp=drive_link), mostly due to the size of the data. This includes:
 
-- inspections of the beehive frames (no annotations, JPG, ~15MP) in 2019, 2020, 2021, 2024 years
-- [👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/) videos 🎥
+- Manually done photos from inspections of the beehive frames (no annotations, JPG, ~15MP) in years: 2019, 2020, 2021, 2024. Mostly from different hives.
+- [👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/) videos 🎥 of the hive entrance
 	- [2024, may 19](https://drive.google.com/drive/folders/1bD9uFYu0c2Y4NfKOqTwB-NGl1ZIwEyI1?usp=drive_link). 
 		- 640x480 resolution, 10sec chunks
 		- ~ 1h of videos in total, 1.1GB
-	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~4h. Time of day - 11:30  til 20:00)
+	- 2025, september 04. 
+		- some chunks have pairs with `_detect.mp4` suffixes, showing 
+		- 5-25mb per chunk. mp4
+	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00)
 		- Zoom at landing board ~ 40cm wide
 		- ~ 25GB in total
-		- 1280x720px. 30 min chunks. 15FPS. 
+		- 1280x720px. 30 min chunks. 15FPS. 5-25mb per chunk. mp4
 		- file names are in UTC timestamps.
 	- 2025, September 7th. 
 		- Zoom of landing board area (23cm wide). 
