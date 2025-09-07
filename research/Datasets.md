@@ -17,7 +17,7 @@ Example foto (webp re-compressed for the web):
 
 Example video (ffmpeg re-compressed for the web):
 
-<object data={require('./img/videos-at-entrance-example.mp4').default} type="video/mp4" width="800" height="600"></object>
+<object data={require('./img/videos-at-entrance-example.mp4').default} type="video/mp4" width="640" height="360"></object>
 
 ![](img/videos-at-entrance-example.mp4)
 ### 2025
