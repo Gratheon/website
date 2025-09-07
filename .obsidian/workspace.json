@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 231.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -179,6 +179,7 @@
   },
   "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "research/img/IMG_4376.webp",
     "docs/entrance-observer/components-orin/Camera lens.md",
     "public/sitemap.xml",
     "public/index.html",

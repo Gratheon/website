@@ -1,7 +1,7 @@
 {
   "id": "Datasets",
   "title": "Datasets",
-  "description": "Gratheon datasets",
+  "description": "Data collected by us is available via Google Drive, mostly due to the size of the data.",
   "source": "@site/research/Datasets.md",
   "sourceDirName": ".",
   "slug": "/Datasets",
