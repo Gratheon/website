@@ -177,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f203e46461f5263",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/entrance-observer/components-orin/Camera lens.md",
     "docs/entrance-observer/components-orin/WiFi antennas.md",
     "docs/entrance-observer/components-orin/2020 Aluminum Extrusion.md",
     "docs/entrance-observer/components-jetson/Wi-Fi antennas.md",
@@ -208,7 +209,6 @@
     "research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees.md",
     "research/papers/pdfs/2022_FAI_roboroyale.pdf",
     "research/papers/img",
-    "research/Competition/index.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
     "public/blog/rss.css",
