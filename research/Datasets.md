@@ -12,7 +12,7 @@ Main source is available via [Google Drive](https://drive.google.com/drive/folde
 	- [2024, may 19](https://drive.google.com/drive/folders/1bD9uFYu0c2Y4NfKOqTwB-NGl1ZIwEyI1?usp=drive_link). 
 		- 640x480 resolution, 10sec chunks
 		- ~ 1h of videos in total, 1.1GB
-	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~4h. Time of day - 11:30  til 16:30)
+	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~4h. Time of day - 11:30  til 20:00)
 		- Zoom at landing board ~ 40cm wide
 		- ~ 25GB in total
 		- 1280x720px. 30 min chunks. 15FPS. 

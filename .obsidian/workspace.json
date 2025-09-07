@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/entrance-observer/components-orin/Camera lens.md",
+                "file": "research/Datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Camera lens"
+              "title": "Datasets"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "5f203e46461f5263",
   "lastOpenFiles": [
+    "docs/entrance-observer/components-orin/Camera lens.md",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
@@ -189,7 +190,6 @@
     "public/research/papers/wifi-exposure/index.html",
     "public/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces/index.html",
     "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
-    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
     "public/img/windows.png",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/varroa.webp",
@@ -201,7 +201,6 @@
     "public/img/sensors.webp",
     "public/img/sharing.webp",
     "docs/entrance-observer/components-orin/2020 Aluminum Extrusion.md",
-    "docs/entrance-observer/components-orin/Camera lens.md",
     "docs/entrance-observer/components-orin/WiFi antennas.md",
     "docs/entrance-observer/components-jetson/Wi-Fi antennas.md",
     "docs/entrance-observer/components-orin/Case.md",
