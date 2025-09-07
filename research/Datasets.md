@@ -9,7 +9,7 @@ Main source is available via [Google Drive](https://drive.google.com/drive/folde
 	- [2024, may 19](https://drive.google.com/drive/folders/1bD9uFYu0c2Y4NfKOqTwB-NGl1ZIwEyI1?usp=drive_link). 
 		- 640x480 resolution, 10sec chunks
 		- ~ 1h of videos in total, 1.1GB
-	- 2025, september 04. 
+	- [2025, september 04](https://drive.google.com/drive/folders/1BY7RrQdQI-6iaSzx4-CVES0kwVlpzX2u?usp=drive_link). 
 		- some chunks have pairs with `_detect.mp4` suffixes, showing yolov8 model detections.
 		- 5-25mb per chunk. mp4
 	- [2025, september 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00)
@@ -17,8 +17,11 @@ Main source is available via [Google Drive](https://drive.google.com/drive/folde
 		- ~ 25GB in total
 		- 1280x720px. 30 min chunks. 15FPS. 5-25mb per chunk. mp4
 		- file names are in UTC timestamps.
-	- 2025, September 7th. 
-		- Zoom of landing board area (23cm wide). 
+		- [related metrics in jsonl format](https://drive.google.com/file/d/18b2aKTxrS1K9YpQciDybXwDlNYuEE4yh/view?usp=drive_link)
+		- [related individual bee tracks in jsonl format](https://drive.google.com/file/d/1J6I2KOeUa4dns7OmXidvc6Oqc0VF2goC/view?usp=drive_link)
+	- 2025, September 6th. Sunny weather.
+	- 2025, September 7th. Sunny weather with clouds and gust after 16:00
+		- Zoom in done at 12:00 EEST of landing board area (23cm wide). 
 		- 1280x720px. 30 min chunks. 15FPS.  
 		- file names are in UTC timestamps.
 
