@@ -15,14 +15,6 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [🇮🇱 Beewise](🇮🇱%20Beewise.md) | https://beewise.ag/ | Industrial level robotic beehives with image processing. Rent model |
 <!-- SerializedQuery END -->
 
-## 🧿 Robotic Beehive
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🧿 Robotic Beehive"   SORT priority asc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🧿 Robotic Beehive"   SORT priority asc -->
-
-| title                                   | url                    | description                                                                |
-| --------------------------------------- | ---------------------- | -------------------------------------------------------------------------- |
-| [🇪🇺 RoboRoyale](🇪🇺%20RoboRoyale.md) | https://roboroyale.eu/ | Research project that monitors the queen and associated bees using a robot |
-<!-- SerializedQuery END -->
 
 ## 👁️‍🗨️ Entrance Observer
 
@@ -31,11 +23,11 @@ This is a list of great apps, devices, code repos and products that we look at f
 
 | title                                       | url                                    | description |
 | ------------------------------------------- | -------------------------------------- | ----------- |
-| [HiveGenie](HiveGenie.md)                   | https://www.hivegenie.com/our-product/ | \-          |
 | [🇦🇺 Beemate](🇦🇺%20Beemate.md)           | https://beemate.buzz/                  | \-          |
 | [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md) | https://www.vimanatech.com.au/about    | \-          |
 | [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)     | https://bestbees.com/smarthive-lp/     | \-          |
 | [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)             | https://apic.ai/                       | \-          |
+| [🇺🇸 HiveGenie](🇺🇸%20HiveGenie.md)       | https://www.hivegenie.com/our-product/ | \-          |
 <!-- SerializedQuery END -->
 
 ## 🌡️ Beehive IoT sensors
@@ -47,7 +39,6 @@ This is a list of great apps, devices, code repos and products that we look at f
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [3bee](3bee.md)                                 | https://www.3bee.com/en/                                                                                                     | \-          |
 | [AgriSound](AgriSound.md)                       | https://agrisound.io/                                                                                                        | \-          |
-| [BeeHero](BeeHero.md)                           | https://www.beehero.io/                                                                                                      | \-          |
 | [BeeHiveMonitoring](BeeHiveMonitoring.md)       | https://beehivemonitoring.com/                                                                                               | \-          |
 | [BeeLab](BeeLab.md)                             | BeeLab.se                                                                                                                    | \-          |
 | [BeeSage](BeeSage.md)                           | https://beesage.co/                                                                                                          | \-          |
@@ -66,6 +57,7 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [Апипульс](Апипульс.md)                         | https://apipulse.ru/                                                                                                         | \-          |
 | [io-bee](io-bee.md)                             | https://io-bee.eu/                                                                                                           | \-          |
 | [🇳🇱 Beep NL](🇳🇱%20Beep%20NL.md)             | https://beep.nl/                                                                                                             | \-          |
+| [🇮🇱 BeeHero](🇮🇱%20BeeHero.md)               | https://www.beehero.io/                                                                                                      | \-          |
 <!-- SerializedQuery END -->
 
 ## 📱Web-app
