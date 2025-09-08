@@ -29,9 +29,12 @@ Example video (ffmpeg re-compressed for the web):
 	- ~ 25GB in total
 	- 1280x720px. 30 min chunks. 15FPS. 5-25mb per chunk. mp4
 	- file names are in UTC timestamps.
-	- [related metrics in jsonl format](https://drive.google.com/file/d/18b2aKTxrS1K9YpQciDybXwDlNYuEE4yh/view?usp=drive_link)
-	- [related individual bee tracks in jsonl format](https://drive.google.com/file/d/1J6I2KOeUa4dns7OmXidvc6Oqc0VF2goC/view?usp=drive_link)
-- September 6th. Sunny weather.
+	- [metrics in jsonl format](https://drive.google.com/file/d/18b2aKTxrS1K9YpQciDybXwDlNYuEE4yh/view?usp=drive_link)
+	- [bee tracks in jsonl format](https://drive.google.com/file/d/1J6I2KOeUa4dns7OmXidvc6Oqc0VF2goC/view?usp=drive_link)
+- [September 6th](https://drive.google.com/drive/folders/1TQxpUFSc13xWLE_0gA4BkzPv8amcFyc-?usp=drive_link). Sunny weather. 
+	- ~13:20 a flight pattern is seen
+	- [metrics in jsonl](https://drive.google.com/file/d/1oHRftj_zvbZXd8vKCcTIg9VRGoslf4vy/view?usp=drive_link)
+	- [bee tracks in jsonl](https://drive.google.com/file/d/1SibnVr5I8ifYLJlxiqiWBpNWbBxm7lEl/view?usp=drive_link)
 - September 7th. Sunny weather with clouds and gust after 16:00
 	- Zoom in done at 12:00 EEST of landing board area (23cm wide). 
 	- 1280x720px. 30 min chunks. 15FPS.  
