@@ -26,16 +26,16 @@ This is a list of great apps, devices, code repos and products that we look at f
 
 ## 👁️‍🗨️ Entrance Observer
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ", "%20") + ")", "") as title, url, description FROM "research/Competition"  WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ", "%20") + ")", "") as title, url, description FROM "research/Competition"  WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ", "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ", "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products = "👁️‍🗨️ Entrance Observer" SORT priority asc -->
 
 | title                                       | url                                    | description |
 | ------------------------------------------- | -------------------------------------- | ----------- |
 | [HiveGenie](HiveGenie.md)                   | https://www.hivegenie.com/our-product/ | \-          |
-| [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md) | https://www.vimanatech.com.au/about    | \-          |
 | [🇦🇺 Beemate](🇦🇺%20Beemate.md)           | https://beemate.buzz/                  | \-          |
-| [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)             | https://apic.ai/                       | \-          |
+| [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md) | https://www.vimanatech.com.au/about    | \-          |
 | [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)     | https://bestbees.com/smarthive-lp/     | \-          |
+| [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)             | https://apic.ai/                       | \-          |
 <!-- SerializedQuery END -->
 
 ## 🌡️ Beehive IoT sensors
@@ -53,7 +53,6 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [BeeSage](BeeSage.md)                           | https://beesage.co/                                                                                                          | \-          |
 | [BeeZee](BeeZee.md)                             | https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/                                                               | \-          |
 | [BeehiveMonitoringUSA](BeehiveMonitoringUSA.md) | https://beehivemonitoringusa.com                                                                                             | \-          |
-| [Beep](Beep.md)                                 | https://beep.nl/                                                                                                             | \-          |
 | [Broodminder](Broodminder.md)                   | broodminder.com                                                                                                              | \-          |
 | [BuzzBox](BuzzBox.md)                           | https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive | \-          |
 | [ForSage](ForSage.md)                           | https://www.forsage.net/en/sensors/                                                                                          | \-          |
@@ -64,8 +63,9 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [IntelligentHives](IntelligentHives.md)         | https://intelligenthives.eu                                                                                                  | \-          |
 | [Prohiver](Prohiver.md)                         | https://prohiver.com/                                                                                                        | \-          |
 | [Solutionbee](Solutionbee.md)                   | https://solutionbee.com                                                                                                      | \-          |
-| [io-bee](io-bee.md)                             | https://io-bee.eu/                                                                                                           | \-          |
 | [Апипульс](Апипульс.md)                         | https://apipulse.ru/                                                                                                         | \-          |
+| [io-bee](io-bee.md)                             | https://io-bee.eu/                                                                                                           | \-          |
+| [🇳🇱 Beep NL](🇳🇱%20Beep%20NL.md)             | https://beep.nl/                                                                                                             | \-          |
 <!-- SerializedQuery END -->
 
 ## 📱Web-app
