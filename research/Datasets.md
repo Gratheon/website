@@ -39,6 +39,11 @@ Example video (ffmpeg re-compressed for the web):
 	- Zoom in done at 12:00 EEST of landing board area (23cm wide). 
 	- 1280x720px. 30 min chunks. 15FPS.  
 	- file names are in UTC timestamps.
+	- [metrics](https://drive.google.com/file/d/1vzIe7SRJP_jarai9jqNIVPac8l6efrQv/view?usp=drive_link)
+	- [tracks](https://drive.google.com/file/d/1ij0A15NC2XDdUy3ghvZ6GYT_458uqzZn/view?usp=drive_link)
+- September 8th
+	- [metricks](https://drive.google.com/file/d/1Uz0I-nzvRPiNe1QH-PK1XcPpCMrfV2NY/view?usp=drive_link)
+	- [tracks](https://drive.google.com/file/d/1o9Z6c7-JunYptKTGUFV7aJqYdjkKKYUr/view?usp=drive_link)
 
 Example video metadata:
 ```
