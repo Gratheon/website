@@ -25,7 +25,7 @@ Example video (ffmpeg re-compressed for the web):
 	- some chunks have pairs with `_detect.mp4` suffixes, showing yolov8 model detections.
 	- 5-25mb per chunk. mp4
 - [September 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) 
-	- ~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00.
+	- Dataset duration ~8h (11:30 - 20:00 EEST)
 	- Sunny weather.
 	- Zoom at landing board ~ 40cm wide
 	- ~ 25GB in total
@@ -34,18 +34,19 @@ Example video (ffmpeg re-compressed for the web):
 	- [metrics in jsonl format](https://drive.google.com/file/d/18b2aKTxrS1K9YpQciDybXwDlNYuEE4yh/view?usp=drive_link)
 	- [bee tracks in jsonl format](https://drive.google.com/file/d/1J6I2KOeUa4dns7OmXidvc6Oqc0VF2goC/view?usp=drive_link)
 - [September 6th](https://drive.google.com/drive/folders/1TQxpUFSc13xWLE_0gA4BkzPv8amcFyc-?usp=drive_link). Sunny weather. 
-	- Time of day ~8:00-15:36, 19:35-20:35
+	- Dataset duration ~8h (8:00-15:36, 19:35-20:35 EEST)
 	- ~13:20 a flight pattern is seen
 	- [metrics in jsonl](https://drive.google.com/file/d/1oHRftj_zvbZXd8vKCcTIg9VRGoslf4vy/view?usp=drive_link)
 	- [bee tracks in jsonl](https://drive.google.com/file/d/1SibnVr5I8ifYLJlxiqiWBpNWbBxm7lEl/view?usp=drive_link)
-- September 7th. Sunny weather with clouds and gust after 16:00
-	- Zoom in done at 12:00 EEST of landing board area (23cm wide). 
+- [September 7th](https://drive.google.com/drive/folders/1E8p_d_rdb_Mq2IjoOyw4OVaWrs37xj2s?usp=drive_link)
+	- Dataset duration ~ 3h (12:00-15:05 EEST)
 	- 1280x720px. 30 min chunks. 15FPS.  
-	- file names are in UTC timestamps.
+	- Sunny weather with clouds and gust after 16:00
+	- **New zoom level** done at 12:00 EEST of landing board area (23cm wide). 
 	- [metrics](https://drive.google.com/file/d/1vzIe7SRJP_jarai9jqNIVPac8l6efrQv/view?usp=drive_link)
 	- [tracks](https://drive.google.com/file/d/1ij0A15NC2XDdUy3ghvZ6GYT_458uqzZn/view?usp=drive_link)
 - September 8th
-	- [metricks](https://drive.google.com/file/d/1Uz0I-nzvRPiNe1QH-PK1XcPpCMrfV2NY/view?usp=drive_link)
+	- [metrics](https://drive.google.com/file/d/1Uz0I-nzvRPiNe1QH-PK1XcPpCMrfV2NY/view?usp=drive_link)
 	- [tracks](https://drive.google.com/file/d/1o9Z6c7-JunYptKTGUFV7aJqYdjkKKYUr/view?usp=drive_link)
 
 Example video metadata:
