@@ -24,7 +24,9 @@ Example video (ffmpeg re-compressed for the web):
 - [September 04](https://drive.google.com/drive/folders/1BY7RrQdQI-6iaSzx4-CVES0kwVlpzX2u?usp=drive_link). 
 	- some chunks have pairs with `_detect.mp4` suffixes, showing yolov8 model detections.
 	- 5-25mb per chunk. mp4
-- [September 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) (~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00). Sunny weather.
+- [September 05](https://drive.google.com/drive/folders/12oV370f8HqrZsuXUU9mLWeT9NAs8HcO2?usp=drive_link) 
+	- ~mostly continuous 8h of the same hive. Time of day - 11:30  til 20:00.
+	- Sunny weather.
 	- Zoom at landing board ~ 40cm wide
 	- ~ 25GB in total
 	- 1280x720px. 30 min chunks. 15FPS. 5-25mb per chunk. mp4
@@ -32,6 +34,7 @@ Example video (ffmpeg re-compressed for the web):
 	- [metrics in jsonl format](https://drive.google.com/file/d/18b2aKTxrS1K9YpQciDybXwDlNYuEE4yh/view?usp=drive_link)
 	- [bee tracks in jsonl format](https://drive.google.com/file/d/1J6I2KOeUa4dns7OmXidvc6Oqc0VF2goC/view?usp=drive_link)
 - [September 6th](https://drive.google.com/drive/folders/1TQxpUFSc13xWLE_0gA4BkzPv8amcFyc-?usp=drive_link). Sunny weather. 
+	- Time of day ~8:00-15:36, 19:35-20:35
 	- ~13:20 a flight pattern is seen
 	- [metrics in jsonl](https://drive.google.com/file/d/1oHRftj_zvbZXd8vKCcTIg9VRGoslf4vy/view?usp=drive_link)
 	- [bee tracks in jsonl](https://drive.google.com/file/d/1SibnVr5I8ifYLJlxiqiWBpNWbBxm7lEl/view?usp=drive_link)
