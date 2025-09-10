@@ -16,7 +16,8 @@
       "🇪🇸 Universidad de Murcia",
       " 🇩🇪 Martin-Luther-Universität Halle-Wittenberg"
     ],
-    "title": "Biodiversity conservation and current threats to European honeybees"
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

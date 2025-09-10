@@ -1,6 +1,6 @@
 {
   "id": "papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment",
-  "title": "Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment",
+  "title": "Open Remote Web Lab for Learning Robotics and ROS With Physical and Simulated Robots in an Authentic Developer Environment",
   "description": "- PDF",
   "source": "@site/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
   "sourceDirName": "papers",
@@ -10,7 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Open Remote Web Lab for Learning Robotics and ROS With Physical and Simulated Robots in an Authentic Developer Environment",
+    "year": "2024",
+    "orgs": [
+      "🇪🇪 University of Tartu"
+    ],
+    "hide_table_of_contents": true
+  },
   "sidebar": "researchSidebar",
   "previous": {
     "title": "On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic: Random Reinforced Forests vs. Shallow Convolutional Networks",

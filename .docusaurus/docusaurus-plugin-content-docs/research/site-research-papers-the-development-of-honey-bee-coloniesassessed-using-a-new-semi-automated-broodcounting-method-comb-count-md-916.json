@@ -17,7 +17,8 @@
       "🇦🇺 Macquarie University",
       "🇦🇺 Queensland University of Technology",
       "🇺🇸 Carl Hayden Bee Research Center"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

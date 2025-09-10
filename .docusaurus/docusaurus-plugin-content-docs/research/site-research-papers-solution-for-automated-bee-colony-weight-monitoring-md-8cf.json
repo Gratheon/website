@@ -15,7 +15,8 @@
     "year": "2017",
     "orgs": [
       "🇱🇻 Latvia University of Agriculture"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

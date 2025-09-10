@@ -16,11 +16,12 @@
     "orgs": [
       "🇱🇻 Latvia University of Life Sciences and Technologies",
       "🇩🇪 Humboldt University of Berlin"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "Markerless tracking of an entire honey bee colony",
+    "title": "⭐️ Markerless tracking of an entire honey bee colony",
     "permalink": "/research/papers/Markerless tracking of an entire honey bee colony"
   },
   "next": {

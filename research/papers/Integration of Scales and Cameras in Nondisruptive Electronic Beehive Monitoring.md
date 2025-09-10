@@ -3,6 +3,7 @@ title: "Integration of Scales and Cameras in Nondisruptive ElectronicBeehive Mon
 orgs:
   - 🇺🇸 Utah State University
 year: "2022"
+hide_table_of_contents: true
 ---
 - [PDF](pdfs/Integration_of_Scales_and_Cameras_in_Nondisruptive.pdf)
 

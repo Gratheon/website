@@ -12,7 +12,8 @@
   "version": "current",
   "frontMatter": {
     "year": "2018",
-    "title": "Honeybees on the move - Pollination services and honey production"
+    "title": "Honeybees on the move - Pollination services and honey production",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

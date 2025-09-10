@@ -15,7 +15,8 @@
     "year": "2021",
     "orgs": [
       "🇰🇷 Incheon National University"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

@@ -16,7 +16,8 @@
     "orgs": [
       "🇫🇷 aivancity School for Technology",
       "🇫🇷 Université de Lyon"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

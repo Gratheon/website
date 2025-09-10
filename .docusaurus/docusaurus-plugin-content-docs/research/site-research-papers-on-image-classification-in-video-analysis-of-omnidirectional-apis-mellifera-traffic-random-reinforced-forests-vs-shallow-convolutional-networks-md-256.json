@@ -15,7 +15,8 @@
     "orgs": [
       "🇺🇸 Utah State University"
     ],
-    "year": "2021"
+    "year": "2021",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {
@@ -23,7 +24,7 @@
     "permalink": "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields"
   },
   "next": {
-    "title": "Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment",
+    "title": "Open Remote Web Lab for Learning Robotics and ROS With Physical and Simulated Robots in an Authentic Developer Environment",
     "permalink": "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment"
   }
 }

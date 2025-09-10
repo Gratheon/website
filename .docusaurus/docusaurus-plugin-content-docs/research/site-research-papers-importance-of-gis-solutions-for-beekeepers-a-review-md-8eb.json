@@ -15,7 +15,8 @@
     "year": "2023",
     "orgs": [
       "🇱🇻 Latvia University of Life Sciences and Technologies"
-    ]
+    ],
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

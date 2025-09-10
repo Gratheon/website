@@ -17,7 +17,8 @@
       "🇧🇷 Federal Technological University of Paraná",
       "🇫🇷 Université Clermont-Auvergne"
     ],
-    "year": "2020"
+    "year": "2020",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

@@ -15,7 +15,8 @@
     "orgs": [
       "🇵🇷 University of Puerto Rico"
     ],
-    "year": "2022"
+    "year": "2022",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

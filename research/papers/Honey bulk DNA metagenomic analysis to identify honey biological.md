@@ -5,6 +5,7 @@ orgs:
   - 🇸🇪 Karolinska University Hospital
 year: "2024"
 title: Honey bulk DNA metagenomic analysis to identify honey biological
+hide_table_of_contents: true
 ---
 
 [PDF](./pdfs/2024.07.31.605955.full.pdf)

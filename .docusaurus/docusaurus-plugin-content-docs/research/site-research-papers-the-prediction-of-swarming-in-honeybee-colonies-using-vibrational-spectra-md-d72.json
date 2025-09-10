@@ -17,7 +17,8 @@
       "🇫🇷  l’Institut National de Recherche en Agriculture",
       "🇧🇪 Centre Apicole de Recherche et d’Information"
     ],
-    "title": "The prediction of swarming in honeybee colonies using vibrational spectra"
+    "title": "The prediction of swarming in honeybee colonies using vibrational spectra",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

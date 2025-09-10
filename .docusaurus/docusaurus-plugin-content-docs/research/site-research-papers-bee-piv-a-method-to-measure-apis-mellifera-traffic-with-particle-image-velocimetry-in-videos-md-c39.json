@@ -15,7 +15,8 @@
     "orgs": [
       "🇺🇸 Utah State University"
     ],
-    "year": "2021"
+    "year": "2021",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {

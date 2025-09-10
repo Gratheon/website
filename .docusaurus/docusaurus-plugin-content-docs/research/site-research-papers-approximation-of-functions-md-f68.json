@@ -15,7 +15,8 @@
     "orgs": [
       "🇨🇿 Brno University of Technology"
     ],
-    "year": "2023"
+    "year": "2023",
+    "hide_table_of_contents": true
   },
   "sidebar": "researchSidebar",
   "previous": {
