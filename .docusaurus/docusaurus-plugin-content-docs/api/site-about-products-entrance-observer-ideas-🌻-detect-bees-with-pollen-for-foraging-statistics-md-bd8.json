@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "title": "🌻 Detect bees with pollen for foraging statistics",
+  "description": "We want to allow users to see bee foraging behaviour over time.",
+  "source": "@site/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
+  "sourceDirName": "products/entrance_observer/ideas",
+  "slug": "/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "permalink": "/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Detect swarming, orientation flights or robbing",
+    "permalink": "/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing"
+  },
+  "next": {
+    "title": "🎮 Client-side app with UI",
+    "permalink": "/about/products/entrance_observer/ideas/🎮 Client-side app with UI"
+  }
+}

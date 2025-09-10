@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/todo/🎮 Device management - Remote desktop",
+  "title": "🎮 Device management - Remote desktop",
+  "description": "To ease management of the device, beekeeper should be able to inspect device remotely over local network. This assumes that beekeeper has set up the device and its operational based on instructions: How to setup Remote Desktop connection (to Jetson Orin / Nano)",
+  "source": "@site/about/products/entrance_observer/todo/🎮 Device management - Remote desktop.md",
+  "sourceDirName": "products/entrance_observer/todo",
+  "slug": "/products/entrance_observer/todo/🎮 Device management - Remote desktop",
+  "permalink": "/about/products/entrance_observer/todo/🎮 Device management - Remote desktop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤢 Detect pesticide exposure",
+    "permalink": "/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure"
+  },
+  "next": {
+    "title": "📈 Count bees coming in and out - on the edge",
+    "permalink": "/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge"
+  }
+}

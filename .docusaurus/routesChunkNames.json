@@ -551,17 +551,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-50e": {
+  "/about-b49": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-d18": {
+  "/about-764": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-8c9": {
+  "/about-35a": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -892,62 +892,6 @@
     "__comp": "17896441",
     "content": "716b3776"
   },
-  "/about/products/beehive_camera/-47e": {
-    "__comp": "17896441",
-    "content": "5d4f63ef"
-  },
-  "/about/products/beehive_camera/features/🎥 Video streaming via API-826": {
-    "__comp": "17896441",
-    "content": "821693f1"
-  },
-  "/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics-c55": {
-    "__comp": "17896441",
-    "content": "836cf8da"
-  },
-  "/about/products/beehive_camera/ideas/🎮 Client-side app with UI-154": {
-    "__comp": "17896441",
-    "content": "c2446403"
-  },
-  "/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video-aa1": {
-    "__comp": "17896441",
-    "content": "1af943b4"
-  },
-  "/about/products/beehive_camera/ideas/🐝 Guard detection-581": {
-    "__comp": "17896441",
-    "content": "d7921226"
-  },
-  "/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video-5df": {
-    "__comp": "17896441",
-    "content": "0286e50b"
-  },
-  "/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter-08c": {
-    "__comp": "17896441",
-    "content": "9ddbd166"
-  },
-  "/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter-cfd": {
-    "__comp": "17896441",
-    "content": "f8cb1a97"
-  },
-  "/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure-ce4": {
-    "__comp": "17896441",
-    "content": "e0ef898e"
-  },
-  "/about/products/beehive_camera/todo/🎮 Device management - Remote desktop-d5c": {
-    "__comp": "17896441",
-    "content": "2b66e90a"
-  },
-  "/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge-5bd": {
-    "__comp": "17896441",
-    "content": "92fdf4e4"
-  },
-  "/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video-dd2": {
-    "__comp": "17896441",
-    "content": "b600c11c"
-  },
-  "/about/products/beehive_camera/todo/🚁 Hornet attack detection-7c8": {
-    "__comp": "17896441",
-    "content": "2472868a"
-  },
   "/about/products/clients/-420": {
     "__comp": "17896441",
     "content": "859747b1"
@@ -983,6 +927,62 @@
   "/about/products/clients/🧑‍🚀 Hobby beekeepers-c8a": {
     "__comp": "17896441",
     "content": "aa61c9f7"
+  },
+  "/about/products/entrance_observer/-15c": {
+    "__comp": "17896441",
+    "content": "355d20f1"
+  },
+  "/about/products/entrance_observer/features/🎥 Video streaming via API-f47": {
+    "__comp": "17896441",
+    "content": "1c4765d7"
+  },
+  "/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing-4ab": {
+    "__comp": "17896441",
+    "content": "75a0f49c"
+  },
+  "/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics-c8a": {
+    "__comp": "17896441",
+    "content": "bd8679f0"
+  },
+  "/about/products/entrance_observer/ideas/🎮 Client-side app with UI-869": {
+    "__comp": "17896441",
+    "content": "53760fcb"
+  },
+  "/about/products/entrance_observer/ideas/🐝 Guard detection-7c8": {
+    "__comp": "17896441",
+    "content": "d6fced0f"
+  },
+  "/about/products/entrance_observer/ideas/👑 Detect queen mating from entrance video-555": {
+    "__comp": "17896441",
+    "content": "7ac260bc"
+  },
+  "/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter-6d5": {
+    "__comp": "17896441",
+    "content": "18ae60ee"
+  },
+  "/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter-0bb": {
+    "__comp": "17896441",
+    "content": "f3bf90d6"
+  },
+  "/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure-4ad": {
+    "__comp": "17896441",
+    "content": "8dc58727"
+  },
+  "/about/products/entrance_observer/todo/🎮 Device management - Remote desktop-d4c": {
+    "__comp": "17896441",
+    "content": "5fb47962"
+  },
+  "/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge-71b": {
+    "__comp": "17896441",
+    "content": "efedd18c"
+  },
+  "/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video-1b8": {
+    "__comp": "17896441",
+    "content": "fde46dc3"
+  },
+  "/about/products/entrance_observer/todo/🚁 Hornet attack detection-771": {
+    "__comp": "17896441",
+    "content": "adfa1c79"
   },
   "/about/products/robotic_apiary/-3f1": {
     "__comp": "17896441",

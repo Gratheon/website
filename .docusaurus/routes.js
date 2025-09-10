@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '50e'),
+    component: ComponentCreator('/about', 'b49'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'd18'),
+        component: ComponentCreator('/about', '764'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8c9'),
+            component: ComponentCreator('/about', '35a'),
             routes: [
               {
                 path: '/about/',
@@ -717,90 +717,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/beehive_camera/',
-                component: ComponentCreator('/about/products/beehive_camera/', '47e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/features/🎥 Video streaming via API',
-                component: ComponentCreator('/about/products/beehive_camera/features/🎥 Video streaming via API', '826'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics', 'c55'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🎮 Client-side app with UI',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🎮 Client-side app with UI', '154'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video', 'aa1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🐝 Guard detection',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🐝 Guard detection', '581'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video', '5df'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter', '08c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter', 'cfd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure',
-                component: ComponentCreator('/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure', 'ce4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/todo/🎮 Device management - Remote desktop',
-                component: ComponentCreator('/about/products/beehive_camera/todo/🎮 Device management - Remote desktop', 'd5c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge',
-                component: ComponentCreator('/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge', '5bd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video',
-                component: ComponentCreator('/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video', 'dd2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/beehive_camera/todo/🚁 Hornet attack detection',
-                component: ComponentCreator('/about/products/beehive_camera/todo/🚁 Hornet attack detection', '7c8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/clients/',
                 component: ComponentCreator('/about/products/clients/', '420'),
                 exact: true,
@@ -851,6 +767,90 @@ export default [
               {
                 path: '/about/products/clients/🧑‍🚀 Hobby beekeepers',
                 component: ComponentCreator('/about/products/clients/🧑‍🚀 Hobby beekeepers', 'c8a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/',
+                component: ComponentCreator('/about/products/entrance_observer/', '15c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/🎥 Video streaming via API',
+                component: ComponentCreator('/about/products/entrance_observer/features/🎥 Video streaming via API', 'f47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing',
+                component: ComponentCreator('/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing', '4ab'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics', 'c8a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🎮 Client-side app with UI',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🎮 Client-side app with UI', '869'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🐝 Guard detection',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🐝 Guard detection', '7c8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/👑 Detect queen mating from entrance video',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/👑 Detect queen mating from entrance video', '555'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter', '6d5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter', '0bb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure', '4ad'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/todo/🎮 Device management - Remote desktop',
+                component: ComponentCreator('/about/products/entrance_observer/todo/🎮 Device management - Remote desktop', 'd4c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge',
+                component: ComponentCreator('/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge', '71b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video',
+                component: ComponentCreator('/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video', '1b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/todo/🚁 Hornet attack detection',
+                component: ComponentCreator('/about/products/entrance_observer/todo/🚁 Hornet attack detection', '771'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

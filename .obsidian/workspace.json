@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64ae3535eed748c1",
+        "id": "2868018d3eba7e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "2395524440af9a35",
+            "id": "51270fa4dcc126ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "static/deck.pdf"
+                "file": "about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "deck"
+              "icon": "lucide-file",
+              "title": "🐝 Detect swarming, orientation flights or robbing"
             }
           }
         ]
@@ -176,8 +178,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2395524440af9a35",
+  "active": "51270fa4dcc126ff",
   "lastOpenFiles": [
+    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
+    "about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing.md",
+    "about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
+    "about/products/entrance_observer/features/🎥 Video streaming via API.md",
+    "about/products/entrance_observer/index.md",
+    "products/web_app/community-tier/hive-collapse.md",
+    "about/credits.md",
+    "pages/terms.md",
+    "static/deck.pdf",
     "README.md",
     "products/entrance_observer/index.md",
     "research/papers/index.md",
@@ -191,7 +202,6 @@
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/wifi-exposure/index.html",
-    "public/research/papers/wifi-exposure",
     "public/img/varroa.webp",
     "public/img/windows.png",
     "public/img/undraw_docusaurus_tree.svg",
@@ -215,14 +225,6 @@
     "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
     "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
     "research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks.md",
-    "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md",
-    "research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping.md",
-    "research/papers/Model for the bee apiary location evaluation.md",
-    "research/papers/Markerless tracking of an entire honey bee colony.md",
-    "research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey.md",
-    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
-    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
-    "research/papers/Importance of GIS solutions for beekeepers a review.md"
+    "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md"
   ]
 }

@@ -795,76 +795,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/beehive_camera/beehive_camera",
-              "path": "/about/products/beehive_camera/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/features/🎥 Video streaming via API",
-              "path": "/about/products/beehive_camera/features/🎥 Video streaming via API",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics",
-              "path": "/about/products/beehive_camera/ideas/🌻 Detect bees with pollen for foraging statistics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🎮 Client-side app with UI",
-              "path": "/about/products/beehive_camera/ideas/🎮 Client-side app with UI",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🐝 Detect swarming from entrance video",
-              "path": "/about/products/beehive_camera/ideas/🐝 Detect swarming from entrance video",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🐝 Guard detection",
-              "path": "/about/products/beehive_camera/ideas/🐝 Guard detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/👑 Detect queen mating from entrance video",
-              "path": "/about/products/beehive_camera/ideas/👑 Detect queen mating from entrance video",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter",
-              "path": "/about/products/beehive_camera/ideas/🔔 Daily loss of bees stats and alert based on counter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter",
-              "path": "/about/products/beehive_camera/ideas/🔔 Robbing behaviour alert based on bee counter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/ideas/🤢 Detect pesticide exposure",
-              "path": "/about/products/beehive_camera/ideas/🤢 Detect pesticide exposure",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/todo/🎮 Device management - Remote desktop",
-              "path": "/about/products/beehive_camera/todo/🎮 Device management - Remote desktop",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/todo/📈 Count bees coming in and out - on the edge",
-              "path": "/about/products/beehive_camera/todo/📈 Count bees coming in and out - on the edge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video",
-              "path": "/about/products/beehive_camera/todo/🦀 Varroa mite new infestation detection from video",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/beehive_camera/todo/🚁 Hornet attack detection",
-              "path": "/about/products/beehive_camera/todo/🚁 Hornet attack detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/clients/👨🏻 Potential new beekeepers",
               "path": "/about/products/clients/👨🏻 Potential new beekeepers",
               "sidebar": "tutorialSidebar"
@@ -907,6 +837,76 @@
             {
               "id": "products/clients/index",
               "path": "/about/products/clients/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/🎥 Video streaming via API",
+              "path": "/about/products/entrance_observer/features/🎥 Video streaming via API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing",
+              "path": "/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+              "path": "/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🎮 Client-side app with UI",
+              "path": "/about/products/entrance_observer/ideas/🎮 Client-side app with UI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🐝 Guard detection",
+              "path": "/about/products/entrance_observer/ideas/🐝 Guard detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/👑 Detect queen mating from entrance video",
+              "path": "/about/products/entrance_observer/ideas/👑 Detect queen mating from entrance video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
+              "path": "/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter",
+              "path": "/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🤢 Detect pesticide exposure",
+              "path": "/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/index",
+              "path": "/about/products/entrance_observer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/todo/🎮 Device management - Remote desktop",
+              "path": "/about/products/entrance_observer/todo/🎮 Device management - Remote desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/todo/📈 Count bees coming in and out - on the edge",
+              "path": "/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video",
+              "path": "/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/todo/🚁 Hornet attack detection",
+              "path": "/about/products/entrance_observer/todo/🚁 Hornet attack detection",
               "sidebar": "tutorialSidebar"
             },
             {
