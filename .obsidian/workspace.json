@@ -11,14 +11,12 @@
             "id": "2395524440af9a35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "products/entrance_observer/index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/deck.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "deck"
             }
           }
         ]
@@ -180,8 +178,9 @@
   },
   "active": "2395524440af9a35",
   "lastOpenFiles": [
-    "research/papers/index.md",
+    "README.md",
     "products/entrance_observer/index.md",
+    "research/papers/index.md",
     "research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
@@ -224,7 +223,6 @@
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
     "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
     "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
-    "research/papers/Importance of GIS solutions for beekeepers a review.md",
-    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md"
+    "research/papers/Importance of GIS solutions for beekeepers a review.md"
   ]
 }
