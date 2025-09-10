@@ -174,11 +174,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2395524440af9a35",
   "lastOpenFiles": [
+    "research/img/Screenshot 2025-09-10 at 09.11.23.png",
     "research/Competition/index.md",
     "research/Competition/🇮🇱 BeeHero.md",
     "research/Competition/🇺🇸 HiveGenie.md",
@@ -223,7 +225,6 @@
     "docs/entrance-observer/components-orin/Orin Nano.md",
     "docs/entrance-observer/components-orin/Display.md",
     "docs/entrance-observer/components-jetson/Jetson Nano.md",
-    "docs/entrance-observer/components-jetson/Jetson Nano case.md",
-    "docs/entrance-observer/Which model to use for vision.md"
+    "docs/entrance-observer/components-jetson/Jetson Nano case.md"
   ]
 }
