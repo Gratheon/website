@@ -2,6 +2,7 @@
 title: BeeAlarmed. Masters thesis
 orgs:
   - 🇩🇪 South Westphalia University of Applied Sciences
+hide_table_of_contents: true
 ---
 
 

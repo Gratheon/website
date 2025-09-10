@@ -1996,15 +1996,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'a27'),
+    component: ComponentCreator('/research', '513'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '506'),
+        component: ComponentCreator('/research', '42e'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '417'),
+            component: ComponentCreator('/research', '487'),
             routes: [
               {
                 path: '/research/',
@@ -2289,12 +2289,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/papers/🇪🇺 RoboRoyale',
-                component: ComponentCreator('/research/papers/🇪🇺 RoboRoyale', '9e8'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
                 component: ComponentCreator('/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', 'd33'),
                 exact: true,
@@ -2457,6 +2451,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon',
+                component: ComponentCreator('/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon', '1b8'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive',
                 component: ComponentCreator('/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive', '1e5'),
                 exact: true,
@@ -2501,6 +2501,12 @@ export default [
               {
                 path: '/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment',
                 component: ComponentCreator('/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment', '94f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences',
+                component: ComponentCreator('/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences', '130'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

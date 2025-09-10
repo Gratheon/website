@@ -1,0 +1,29 @@
+{
+  "id": "papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+  "title": "Internet of Things Smart Beehive Network: Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+  "description": "- PDF",
+  "source": "@site/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+  "permalink": "/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Internet of Things Smart Beehive Network: Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+    "orgs": [
+      "🇵🇱 Warsaw University of Life Sciences"
+    ],
+    "year": "2024"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Integration of Scales and Cameras in Nondisruptive ElectronicBeehive Monitoring: On the Within-Day Relationship of HiveWeight and Traffic in Honeybee (Apis mellifera) Colonies in Langstroth Hives in Tucson, Arizona, USA",
+    "permalink": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+  },
+  "next": {
+    "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
+    "permalink": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive"
+  }
+}

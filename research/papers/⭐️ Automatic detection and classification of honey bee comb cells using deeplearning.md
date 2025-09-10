@@ -5,6 +5,7 @@ orgs:
   - 🇧🇷 Federal Technological University of Paraná
   - 🇫🇷 Université Clermont-Auvergne
 year: "2020"
+hide_table_of_contents: true
 ---
 https://bibliotecadigital.ipb.pt/bitstream/10198/22321/1/65.pdf
 

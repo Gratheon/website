@@ -1741,17 +1741,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-a27": {
+  "/research-513": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-506": {
+  "/research-42e": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-417": {
+  "/research-487": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1942,10 +1942,6 @@
     "__comp": "17896441",
     "content": "ba4fcde3"
   },
-  "/research/papers/🇪🇺 RoboRoyale-9e8": {
-    "__comp": "17896441",
-    "content": "9bfa952e"
-  },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-d33": {
     "__comp": "17896441",
     "content": "9afbd952"
@@ -2054,6 +2050,10 @@
     "__comp": "17896441",
     "content": "72899757"
   },
+  "/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon-1b8": {
+    "__comp": "17896441",
+    "content": "60d0b7c3"
+  },
   "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive-1e5": {
     "__comp": "17896441",
     "content": "504039a2"
@@ -2085,6 +2085,10 @@
   "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment-94f": {
     "__comp": "17896441",
     "content": "6a9eff2b"
+  },
+  "/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences-130": {
+    "__comp": "17896441",
+    "content": "d01e767a"
   },
   "/research/papers/Raspberry Pi Bee Health Monitoring Device-81a": {
     "__comp": "17896441",
