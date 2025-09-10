@@ -13,7 +13,7 @@ Example foto (webp re-compressed for the web):
 ![](img/IMG_4376.webp)
 
 ## Videos
-[👁️‍🗨️ Entrance Observer](/about/products/beehive_camera/) videos 🎥 of the hive entrance
+[👁️‍🗨️ Entrance Observer](/about/products/entrance_observer/) videos 🎥 of the hive entrance
 
 ### 2025
 

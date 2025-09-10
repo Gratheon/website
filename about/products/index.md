@@ -18,8 +18,8 @@ Our products are in development and are a mix of software and hardware, complime
 </div>
 
 <div style={{width:200}}>
-[Entrance observer](beehive_camera/beehive_camera.md)<br />
-![](beehive_camera/img/Screenshot%202025-02-14%20at%2018.27.00.png)
+[Entrance observer](entrance_observer/)<br />
+![](entrance_observer/img/Screenshot%202025-02-14%20at%2018.27.00.png)
 </div>
 
 <div style={{width:200}}>
