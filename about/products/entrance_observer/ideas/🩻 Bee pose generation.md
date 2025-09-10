@@ -1,0 +1,1 @@
+Detect bee direction, individual limbs to better understand positioning and interaction between bees

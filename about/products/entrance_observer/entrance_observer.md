@@ -29,10 +29,25 @@ Out of all beekeeping issues, this product is helping with these:
 ## Features
 - [🎥 Video streaming via API](features/🎥%20Video%20streaming%20via%20API.md)
 - [🐝 Detect swarming](ideas/🐝%20Detect%20swarming.md)
+- [🎮 Client-side app with UI](features/🎮%20Client-side%20app%20with%20UI.md)
+- [📈 Count bees coming in and out - on the edge](features/📈%20Count%20bees%20coming%20in%20and%20out%20-%20on%20the%20edge.md)
+- [📊 Bee movement metric reporting](features/📊%20Bee%20movement%20metric%20reporting.md)
+- [🛣️ Landing board heatmap generation](features/🛣️%20Landing%20board%20heatmap%20generation.md)
 
-![](../../img/Screenshot%202024-05-21%20at%2014.49.54.png)
+## TODO
+- [🦀 Varroa mite infestation detection from video](todo/🦀%20Varroa%20mite%20infestation%20detection%20from%20video.md)
+- [🚁 Hornet attack detection](todo/🚁%20Hornet%20attack%20detection.md)
+- [Drone bee detection and counting](todo/Drone%20bee%20detection%20and%20counting.md)
 
-Similar ideas from [🔬 Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](https://gratheon.com/research/Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey)
+## Ideas
+- [🌻 Detect bees with pollen for foraging statistics](ideas/🌻%20Detect%20bees%20with%20pollen%20for%20foraging%20statistics.md)
+- [🐝 Detect orientation flights](ideas/🐝%20Detect%20orientation%20flights.md)
+- [🐝 Detect swarming](ideas/🐝%20Detect%20swarming.md)
+- [🐝 Guard detection](ideas/🐝%20Guard%20detection.md)
+- [👑 Detect queen mating from entrance video](ideas/👑%20Detect%20queen%20mating%20from%20entrance%20video.md)
+- [🔔 Alerts based on bee counter](ideas/🔔%20Alerts%20based%20on%20bee%20counter.md)
+- [🤢 Detect pesticide exposure](ideas/🤢%20Detect%20pesticide%20exposure.md)
+- [🩻 Bee pose generation](ideas/🩻%20Bee%20pose%20generation.md)
 
 ### History
 ![](../../img/436202645_10161734083722973_395574856169740131_n.jpg)
