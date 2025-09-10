@@ -7,7 +7,7 @@ Our main revenue stream is [web_app](../products/web_app/web_app.md) SaaS data a
 To reduce risks, we develop simultaneously our base products:
 - [web_app](../products/web_app/web_app.md)
 - [sensors](../products/sensors/sensors.md)
-- [index](../products/entrance_observer/index.md)
+- [entrance_observer](../products/entrance_observer/entrance_observer.md)
 
 ## Other activities
 1. **Pilot Programs and Beta Testing:**

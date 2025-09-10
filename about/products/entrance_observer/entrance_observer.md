@@ -27,6 +27,9 @@ Out of all beekeeping issues, this product is helping with these:
 - [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md)
 
 ## Features
+- [🎥 Video streaming via API](features/🎥%20Video%20streaming%20via%20API.md)
+- [🐝 Detect swarming](ideas/🐝%20Detect%20swarming.md)
+
 ![](../../img/Screenshot%202024-05-21%20at%2014.49.54.png)
 
 Similar ideas from [🔬 Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey](https://gratheon.com/research/Machine%20Learning%20and%20Computer%20Vision%20Techniques%20in%20Continuous%20Beehive%20Monitoring%20Applications%20A%20Survey)

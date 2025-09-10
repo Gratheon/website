@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/index.md",
+                "file": "about/products/entrance_observer/features/📊 Beehive entrance metric reporting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "📊 Beehive entrance metric reporting"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jetson",
+                "query": "Hornet detection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,8 +180,22 @@
   },
   "active": "4e3c01577d3b7dd0",
   "lastOpenFiles": [
-    "about/products/beehive_camera.md",
+    "about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge.md",
+    "about/products/entrance_observer/features/📊 Beehive entrance metric reporting.md",
+    "about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video.md",
+    "about/products/entrance_observer/todo/🚁 Hornet attack detection.md",
+    "about/products/entrance_observer/entrance_observer.md",
+    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
+    "about/products/entrance_observer/ideas/🔔 Alerts based on bee counter.md",
+    "about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
+    "about/img/Screenshot 2023-10-24 at 21.44.20.png",
+    "about/img/Screenshot 2023-10-24 at 21.45.28.png",
+    "about/products/entrance_observer/ideas/🔔 Daily loss of bees stats.md",
+    "about/products/entrance_observer/ideas/🐝 Detect swarming.md",
+    "about/products/entrance_observer/ideas/🐝 Detect orientation flights.md",
+    "about/products/entrance_observer/features/🎮 Client-side app with UI.md",
     "about/products/index.md",
+    "about/products/beehive_camera.md",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
     "public/blog/rss.css",
@@ -200,13 +214,7 @@
     "public/img/temp.webp",
     "public/img/tallinn.png",
     "public/img/sharing.webp",
-    "public/img/queens.webp",
-    "public/img/sensors.webp",
-    "about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing.md",
-    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
-    "about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
     "about/products/entrance_observer/features/🎥 Video streaming via API.md",
-    "about/products/entrance_observer/index.md",
     "products/web_app/community-tier/hive-collapse.md",
     "about/credits.md",
     "pages/terms.md",
@@ -217,14 +225,6 @@
     "research/papers/Varroa destructor detection on honey bees using hyperspectral imagery.md",
     "research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces.md",
     "research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination.md",
-    "research/papers/Towards Robotic Mapping of a Honeybee Comb.md",
-    "research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services.md",
-    "research/papers/The prediction of swarming in honeybee colonies using vibrational spectra.md",
-    "research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount.md",
-    "research/papers/Solution for automated bee colony weight monitoring.md",
-    "research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network.md",
-    "research/papers/Reception and learning of electric fields in bees.md",
-    "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
-    "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md"
+    "research/papers/Towards Robotic Mapping of a Honeybee Comb.md"
   ]
 }
