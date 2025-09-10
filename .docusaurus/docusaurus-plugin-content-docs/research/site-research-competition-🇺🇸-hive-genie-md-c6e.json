@@ -1,0 +1,22 @@
+{
+  "id": "Competition/🇺🇸 HiveGenie",
+  "title": "🇺🇸 HiveGenie",
+  "description": "",
+  "source": "@site/research/Competition/🇺🇸 HiveGenie.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/🇺🇸 HiveGenie",
+  "permalink": "/research/Competition/🇺🇸 HiveGenie",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.hivegenie.com/our-product/",
+    "products": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/research/Competition/🇺🇸 Best Bees"
+  }
+}

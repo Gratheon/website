@@ -1741,17 +1741,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-d83": {
+  "/research-a27": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-efc": {
+  "/research-506": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-4f1": {
+  "/research-417": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1778,17 +1778,25 @@
     "__comp": "17896441",
     "content": "eb8c25be"
   },
-  "/research/Competition/🇪🇺 RoboRoyale-985": {
+  "/research/Competition/🇮🇱 BeeHero-0af": {
     "__comp": "17896441",
-    "content": "88abd869"
+    "content": "292898cb"
   },
   "/research/Competition/🇮🇱 Beewise-95d": {
     "__comp": "17896441",
     "content": "829cff19"
   },
+  "/research/Competition/🇳🇱 Beep NL-a5e": {
+    "__comp": "17896441",
+    "content": "8adcd357"
+  },
   "/research/Competition/🇺🇸 Best Bees-bc9": {
     "__comp": "17896441",
     "content": "8f03604b"
+  },
+  "/research/Competition/🇺🇸 HiveGenie-bb5": {
+    "__comp": "17896441",
+    "content": "c6e68155"
   },
   "/research/Competition/3bee-5ca": {
     "__comp": "17896441",
@@ -1810,10 +1818,6 @@
     "__comp": "17896441",
     "content": "0df7fd1b"
   },
-  "/research/Competition/BeeHero-786": {
-    "__comp": "17896441",
-    "content": "77311f49"
-  },
   "/research/Competition/BeeHiveMonitoring-563": {
     "__comp": "17896441",
     "content": "3d990a58"
@@ -1833,10 +1837,6 @@
   "/research/Competition/BeeOrganizer-e64": {
     "__comp": "17896441",
     "content": "10702bc7"
-  },
-  "/research/Competition/Beep-038": {
-    "__comp": "17896441",
-    "content": "b3d7ab9b"
   },
   "/research/Competition/BeePlus Beekeeping-b2d": {
     "__comp": "17896441",
@@ -1881,10 +1881,6 @@
   "/research/Competition/HiveBloom-f1f": {
     "__comp": "17896441",
     "content": "cb688ccf"
-  },
-  "/research/Competition/HiveGenie-e26": {
-    "__comp": "17896441",
-    "content": "9d74dee6"
   },
   "/research/Competition/HiveMind-d79": {
     "__comp": "17896441",
@@ -1945,6 +1941,10 @@
   "/research/papers/-79b": {
     "__comp": "17896441",
     "content": "ba4fcde3"
+  },
+  "/research/papers/🇪🇺 RoboRoyale-9e8": {
+    "__comp": "17896441",
+    "content": "9bfa952e"
   },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-d33": {
     "__comp": "17896441",
@@ -2081,6 +2081,10 @@
   "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks-c92": {
     "__comp": "17896441",
     "content": "256fc749"
+  },
+  "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment-94f": {
+    "__comp": "17896441",
+    "content": "6a9eff2b"
   },
   "/research/papers/Raspberry Pi Bee Health Monitoring Device-81a": {
     "__comp": "17896441",

@@ -1534,8 +1534,8 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "Competition/🇪🇺 RoboRoyale",
-              "path": "/research/Competition/🇪🇺 RoboRoyale",
+              "id": "Competition/🇮🇱 BeeHero",
+              "path": "/research/Competition/🇮🇱 BeeHero",
               "sidebar": "researchSidebar"
             },
             {
@@ -1544,8 +1544,18 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Competition/🇳🇱 Beep NL",
+              "path": "/research/Competition/🇳🇱 Beep NL",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "Competition/🇺🇸 Best Bees",
               "path": "/research/Competition/🇺🇸 Best Bees",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "Competition/🇺🇸 HiveGenie",
+              "path": "/research/Competition/🇺🇸 HiveGenie",
               "sidebar": "researchSidebar"
             },
             {
@@ -1574,11 +1584,6 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "Competition/BeeHero",
-              "path": "/research/Competition/BeeHero",
-              "sidebar": "researchSidebar"
-            },
-            {
               "id": "Competition/BeeHiveMonitoring",
               "path": "/research/Competition/BeeHiveMonitoring",
               "sidebar": "researchSidebar"
@@ -1601,11 +1606,6 @@
             {
               "id": "Competition/BeeOrganizer",
               "path": "/research/Competition/BeeOrganizer",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Beep",
-              "path": "/research/Competition/Beep",
               "sidebar": "researchSidebar"
             },
             {
@@ -1661,11 +1661,6 @@
             {
               "id": "Competition/HiveBloom",
               "path": "/research/Competition/HiveBloom",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HiveGenie",
-              "path": "/research/Competition/HiveGenie",
               "sidebar": "researchSidebar"
             },
             {
@@ -1746,6 +1741,11 @@
             {
               "id": "index",
               "path": "/research/",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/🇪🇺 RoboRoyale",
+              "path": "/research/papers/🇪🇺 RoboRoyale",
               "sidebar": "researchSidebar"
             },
             {
@@ -1921,6 +1921,11 @@
             {
               "id": "papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
               "path": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment",
+              "path": "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment",
               "sidebar": "researchSidebar"
             },
             {

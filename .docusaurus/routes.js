@@ -1996,15 +1996,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'd83'),
+    component: ComponentCreator('/research', 'a27'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'efc'),
+        component: ComponentCreator('/research', '506'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '4f1'),
+            component: ComponentCreator('/research', '417'),
             routes: [
               {
                 path: '/research/',
@@ -2043,8 +2043,8 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/🇪🇺 RoboRoyale',
-                component: ComponentCreator('/research/Competition/🇪🇺 RoboRoyale', '985'),
+                path: '/research/Competition/🇮🇱 BeeHero',
+                component: ComponentCreator('/research/Competition/🇮🇱 BeeHero', '0af'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2055,8 +2055,20 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/Competition/🇳🇱 Beep NL',
+                component: ComponentCreator('/research/Competition/🇳🇱 Beep NL', 'a5e'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/Competition/🇺🇸 Best Bees',
                 component: ComponentCreator('/research/Competition/🇺🇸 Best Bees', 'bc9'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/Competition/🇺🇸 HiveGenie',
+                component: ComponentCreator('/research/Competition/🇺🇸 HiveGenie', 'bb5'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2091,12 +2103,6 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/Competition/BeeHero',
-                component: ComponentCreator('/research/Competition/BeeHero', '786'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
                 path: '/research/Competition/BeeHiveMonitoring',
                 component: ComponentCreator('/research/Competition/BeeHiveMonitoring', '563'),
                 exact: true,
@@ -2123,12 +2129,6 @@ export default [
               {
                 path: '/research/Competition/BeeOrganizer',
                 component: ComponentCreator('/research/Competition/BeeOrganizer', 'e64'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Beep',
-                component: ComponentCreator('/research/Competition/Beep', '038'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2195,12 +2195,6 @@ export default [
               {
                 path: '/research/Competition/HiveBloom',
                 component: ComponentCreator('/research/Competition/HiveBloom', 'f1f'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HiveGenie',
-                component: ComponentCreator('/research/Competition/HiveGenie', 'e26'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2291,6 +2285,12 @@ export default [
               {
                 path: '/research/papers/',
                 component: ComponentCreator('/research/papers/', '79b'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/🇪🇺 RoboRoyale',
+                component: ComponentCreator('/research/papers/🇪🇺 RoboRoyale', '9e8'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2495,6 +2495,12 @@ export default [
               {
                 path: '/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
                 component: ComponentCreator('/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', 'c92'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment',
+                component: ComponentCreator('/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment', '94f'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

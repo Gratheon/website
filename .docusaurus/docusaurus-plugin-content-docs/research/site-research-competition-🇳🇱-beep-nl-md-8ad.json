@@ -1,0 +1,26 @@
+{
+  "id": "Competition/🇳🇱 Beep NL",
+  "title": "🇳🇱 Beep NL",
+  "description": "",
+  "source": "@site/research/Competition/🇳🇱 Beep NL.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/🇳🇱 Beep NL",
+  "permalink": "/research/Competition/🇳🇱 Beep NL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beep.nl/",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇮🇱 Beewise",
+    "permalink": "/research/Competition/🇮🇱 Beewise"
+  },
+  "next": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/research/Competition/🇺🇸 Best Bees"
+  }
+}

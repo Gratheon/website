@@ -16,7 +16,11 @@
   },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "🇮🇱 Beewise",
-    "permalink": "/research/Competition/🇮🇱 Beewise"
+    "title": "🇳🇱 Beep NL",
+    "permalink": "/research/Competition/🇳🇱 Beep NL"
+  },
+  "next": {
+    "title": "🇺🇸 HiveGenie",
+    "permalink": "/research/Competition/🇺🇸 HiveGenie"
   }
 }

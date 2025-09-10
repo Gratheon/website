@@ -69,6 +69,7 @@ Example video (ffmpeg re-compressed for the web):
 	- [tracks](https://drive.google.com/file/d/1o9Z6c7-JunYptKTGUFV7aJqYdjkKKYUr/view?usp=drive_link)
 - September 9th
 
+![](img/Screenshot%202025-09-10%20at%2009.27.41.png)
 
 #### Dataset type 3
 Camera placed on **second** hive section (closer), changed zoom, removed glass and aluminium boundaries, added stones instead
