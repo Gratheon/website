@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Datasets.md",
+                "file": "research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datasets"
+              "title": "Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences"
             }
           }
         ]
@@ -180,6 +180,15 @@
   },
   "active": "2395524440af9a35",
   "lastOpenFiles": [
+    "research/papers/pdfs/img/sensors-24-05444-v3.pdf",
+    "research/papers/pdfs/img",
+    "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
+    "research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences.md",
+    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
+    "research/papers/Importance of GIS solutions for beekeepers a review.md",
+    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
+    "research/papers/pdfs/inventions-10-00023.pdf",
+    "research/Datasets.md",
     "research/img/Screenshot 2025-09-10 at 09.27.41.png",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
@@ -189,8 +198,6 @@
     "public/blog/atom.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
-    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
     "public/assets/images/Screenshot 2025-09-10 at 09.11.23-95fafde7f4975c57c4493821f47242fc.png",
     "public/img/windows.png",
     "public/img/varroa.webp",
@@ -200,14 +207,12 @@
     "public/img/temp.webp",
     "public/img/tallinn.png",
     "public/img/sharing.webp",
-    "public/img/sensors.webp",
     "research/Competition/index.md",
     "research/Competition/🇮🇱 BeeHero.md",
     "research/Competition/🇺🇸 HiveGenie.md",
     "research/papers/index.md",
     "research/Competition/🇳🇱 Beep NL.md",
     "research/Hacker projects.md",
-    "research/Datasets.md",
     "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
     "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
     "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
@@ -220,11 +225,6 @@
     "docs/entrance-observer/components-orin/Case.md",
     "docs/entrance-observer/components-orin/M2 SSD.md",
     "docs/entrance-observer/components-orin/Plexiglass.md",
-    "docs/entrance-observer/components-orin/Camera.md",
-    "docs/entrance-observer/components-orin/Mounts.md",
-    "docs/entrance-observer/components-orin/Orin Nano.md",
-    "docs/entrance-observer/components-orin/Display.md",
-    "docs/entrance-observer/components-jetson/Jetson Nano.md",
-    "docs/entrance-observer/components-jetson/Jetson Nano case.md"
+    "docs/entrance-observer/components-orin/Camera.md"
   ]
 }
