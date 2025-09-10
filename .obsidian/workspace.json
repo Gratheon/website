@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/index.md",
+                "file": "products/entrance_observer/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -174,11 +174,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2395524440af9a35",
   "lastOpenFiles": [
+    "research/papers/index.md",
+    "products/entrance_observer/index.md",
     "research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
@@ -222,8 +225,6 @@
     "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
     "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
     "research/papers/Importance of GIS solutions for beekeepers a review.md",
-    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
-    "research/papers/Honeybees on the move - Pollination services and honey production.md",
-    "research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision.md"
+    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md"
   ]
 }
