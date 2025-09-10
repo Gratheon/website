@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2868018d3eba7e2b",
+        "id": "5cc0f257086d5cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "51270fa4dcc126ff",
+            "id": "088d594ab8906dd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🐝 Detect swarming, orientation flights or robbing"
+              "title": "New tab"
             }
           }
         ]
@@ -178,10 +174,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51270fa4dcc126ff",
+  "active": "088d594ab8906dd0",
   "lastOpenFiles": [
-    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
+    "pages/Screenshot 2024-11-10 at 20.32.31.png",
     "about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing.md",
+    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
     "about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
     "about/products/entrance_observer/features/🎥 Video streaming via API.md",
     "about/products/entrance_observer/index.md",
@@ -224,7 +221,6 @@
     "research/papers/Reception and learning of electric fields in bees.md",
     "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
     "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
-    "research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks.md",
-    "research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields.md"
+    "research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks.md"
   ]
 }
