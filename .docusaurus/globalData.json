@@ -790,11 +790,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/beehive_camera",
-              "path": "/about/products/beehive_camera",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/clients/👨🏻 Potential new beekeepers",
               "path": "/about/products/clients/👨🏻 Potential new beekeepers",
               "sidebar": "tutorialSidebar"
@@ -840,13 +835,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/entrance_observer/entrance_observer",
+              "path": "/about/products/entrance_observer/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/entrance_observer/features/🎥 Video streaming via API",
               "path": "/about/products/entrance_observer/features/🎥 Video streaming via API",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing",
-              "path": "/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing",
+              "id": "products/entrance_observer/features/🎮 Client-side app with UI",
+              "path": "/about/products/entrance_observer/features/🎮 Client-side app with UI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/👭 Bee interaction detection",
+              "path": "/about/products/entrance_observer/features/👭 Bee interaction detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/📈 Count bees coming in and out - on the edge",
+              "path": "/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/📊 Bee movement metric reporting",
+              "path": "/about/products/entrance_observer/features/📊 Bee movement metric reporting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/features/🛣️ Landing board heatmap generation",
+              "path": "/about/products/entrance_observer/features/🛣️ Landing board heatmap generation",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -855,8 +875,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/ideas/🎮 Client-side app with UI",
-              "path": "/about/products/entrance_observer/ideas/🎮 Client-side app with UI",
+              "id": "products/entrance_observer/ideas/🎮 Device management - Remote desktop",
+              "path": "/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🐝 Detect orientation flights",
+              "path": "/about/products/entrance_observer/ideas/🐝 Detect orientation flights",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/ideas/🐝 Detect swarming",
+              "path": "/about/products/entrance_observer/ideas/🐝 Detect swarming",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -870,13 +900,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
-              "path": "/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter",
-              "path": "/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter",
+              "id": "products/entrance_observer/ideas/🔔 Alerts based on bee counter",
+              "path": "/about/products/entrance_observer/ideas/🔔 Alerts based on bee counter",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -885,28 +910,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/index",
-              "path": "/about/products/entrance_observer/",
+              "id": "products/entrance_observer/ideas/🩻 Bee pose generation",
+              "path": "/about/products/entrance_observer/ideas/🩻 Bee pose generation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/todo/🎮 Device management - Remote desktop",
-              "path": "/about/products/entrance_observer/todo/🎮 Device management - Remote desktop",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/entrance_observer/todo/📈 Count bees coming in and out - on the edge",
-              "path": "/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video",
-              "path": "/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video",
+              "id": "products/entrance_observer/todo/🦀 Varroa mite infestation detection from video",
+              "path": "/about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "products/entrance_observer/todo/🚁 Hornet attack detection",
               "path": "/about/products/entrance_observer/todo/🚁 Hornet attack detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/entrance_observer/todo/Drone bee detection and counting",
+              "path": "/about/products/entrance_observer/todo/Drone bee detection and counting",
               "sidebar": "tutorialSidebar"
             },
             {

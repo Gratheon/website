@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/features/👭 Bee interaction detection",
+  "title": "👭 Bee interaction detection",
+  "description": "Detect bees being close by and feeding each other",
+  "source": "@site/about/products/entrance_observer/features/👭 Bee interaction detection.md",
+  "sourceDirName": "products/entrance_observer/features",
+  "slug": "/products/entrance_observer/features/👭 Bee interaction detection",
+  "permalink": "/about/products/entrance_observer/features/👭 Bee interaction detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎮 Client-side app with UI",
+    "permalink": "/about/products/entrance_observer/features/🎮 Client-side app with UI"
+  },
+  "next": {
+    "title": "📈 Count bees coming in and out - on the edge",
+    "permalink": "/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge"
+  }
+}

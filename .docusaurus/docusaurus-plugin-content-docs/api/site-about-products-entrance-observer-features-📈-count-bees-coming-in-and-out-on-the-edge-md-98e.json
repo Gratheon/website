@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/features/📈 Count bees coming in and out - on the edge",
+  "title": "📈 Count bees coming in and out - on the edge",
+  "description": "This task is one of the main features of the Entrance Observer product",
+  "source": "@site/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge.md",
+  "sourceDirName": "products/entrance_observer/features",
+  "slug": "/products/entrance_observer/features/📈 Count bees coming in and out - on the edge",
+  "permalink": "/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👭 Bee interaction detection",
+    "permalink": "/about/products/entrance_observer/features/👭 Bee interaction detection"
+  },
+  "next": {
+    "title": "📊 Bee movement metric reporting",
+    "permalink": "/about/products/entrance_observer/features/📊 Bee movement metric reporting"
+  }
+}

@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'b49'),
+    component: ComponentCreator('/about', 'eff'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '764'),
+        component: ComponentCreator('/about', 'f4c'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '35a'),
+            component: ComponentCreator('/about', 'b48'),
             routes: [
               {
                 path: '/about/',
@@ -711,12 +711,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/beehive_camera',
-                component: ComponentCreator('/about/products/beehive_camera', '262'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/clients/',
                 component: ComponentCreator('/about/products/clients/', '420'),
                 exact: true,
@@ -772,7 +766,7 @@ export default [
               },
               {
                 path: '/about/products/entrance_observer/',
-                component: ComponentCreator('/about/products/entrance_observer/', '15c'),
+                component: ComponentCreator('/about/products/entrance_observer/', '889'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -783,8 +777,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing',
-                component: ComponentCreator('/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing', '4ab'),
+                path: '/about/products/entrance_observer/features/🎮 Client-side app with UI',
+                component: ComponentCreator('/about/products/entrance_observer/features/🎮 Client-side app with UI', 'a67'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/👭 Bee interaction detection',
+                component: ComponentCreator('/about/products/entrance_observer/features/👭 Bee interaction detection', '3a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge',
+                component: ComponentCreator('/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge', '0d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/📊 Bee movement metric reporting',
+                component: ComponentCreator('/about/products/entrance_observer/features/📊 Bee movement metric reporting', '69b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/features/🛣️ Landing board heatmap generation',
+                component: ComponentCreator('/about/products/entrance_observer/features/🛣️ Landing board heatmap generation', '186'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -795,8 +813,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/ideas/🎮 Client-side app with UI',
-                component: ComponentCreator('/about/products/entrance_observer/ideas/🎮 Client-side app with UI', '869'),
+                path: '/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop', '276'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🐝 Detect orientation flights',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🐝 Detect orientation flights', '14d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/ideas/🐝 Detect swarming',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🐝 Detect swarming', '809'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -813,14 +843,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter',
-                component: ComponentCreator('/about/products/entrance_observer/ideas/🔔 Daily loss of bees stats and alert based on counter', '6d5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter',
-                component: ComponentCreator('/about/products/entrance_observer/ideas/🔔 Robbing behaviour alert based on bee counter', '0bb'),
+                path: '/about/products/entrance_observer/ideas/🔔 Alerts based on bee counter',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🔔 Alerts based on bee counter', '8ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -831,26 +855,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/todo/🎮 Device management - Remote desktop',
-                component: ComponentCreator('/about/products/entrance_observer/todo/🎮 Device management - Remote desktop', 'd4c'),
+                path: '/about/products/entrance_observer/ideas/🩻 Bee pose generation',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🩻 Bee pose generation', '752'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge',
-                component: ComponentCreator('/about/products/entrance_observer/todo/📈 Count bees coming in and out - on the edge', '71b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video',
-                component: ComponentCreator('/about/products/entrance_observer/todo/🦀 Varroa mite new infestation detection from video', '1b8'),
+                path: '/about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video',
+                component: ComponentCreator('/about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video', '8b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/about/products/entrance_observer/todo/🚁 Hornet attack detection',
                 component: ComponentCreator('/about/products/entrance_observer/todo/🚁 Hornet attack detection', '771'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/todo/Drone bee detection and counting',
+                component: ComponentCreator('/about/products/entrance_observer/todo/Drone bee detection and counting', 'bd1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

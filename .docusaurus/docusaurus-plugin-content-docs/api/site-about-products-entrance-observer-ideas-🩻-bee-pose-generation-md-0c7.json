@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/ideas/🩻 Bee pose generation",
+  "title": "🩻 Bee pose generation",
+  "description": "Detect bee direction, individual limbs to better understand positioning and interaction between bees",
+  "source": "@site/about/products/entrance_observer/ideas/🩻 Bee pose generation.md",
+  "sourceDirName": "products/entrance_observer/ideas",
+  "slug": "/products/entrance_observer/ideas/🩻 Bee pose generation",
+  "permalink": "/about/products/entrance_observer/ideas/🩻 Bee pose generation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤢 Detect pesticide exposure",
+    "permalink": "/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure"
+  },
+  "next": {
+    "title": "Drone bee detection and counting",
+    "permalink": "/about/products/entrance_observer/todo/Drone bee detection and counting"
+  }
+}

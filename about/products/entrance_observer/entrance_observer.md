@@ -6,10 +6,14 @@ title: 👁️‍🗨️ Entrance Observer
 
 💡 Entrance Observer is a set of cameras and a hardware devices that analyze beehive entrance. It records a video stream, runs AI analysis that sends it all to [web app](../web_app/web_app.md). 
 
+Check and install our [open source code of entrance-observer](https://github.com/Gratheon/entrance-observer/)
+
 
 <div style={{width:300}}>
 ![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
 </div>
+
+<iframe width="100%" height="400"  src="https://www.youtube.com/embed/hNval4v44ao" title="Beehive Entrance Observer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:

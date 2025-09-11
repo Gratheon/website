@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/todo/Drone bee detection and counting",
+  "title": "Drone bee detection and counting",
+  "description": "",
+  "source": "@site/about/products/entrance_observer/todo/Drone bee detection and counting.md",
+  "sourceDirName": "products/entrance_observer/todo",
+  "slug": "/products/entrance_observer/todo/Drone bee detection and counting",
+  "permalink": "/about/products/entrance_observer/todo/Drone bee detection and counting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🩻 Bee pose generation",
+    "permalink": "/about/products/entrance_observer/ideas/🩻 Bee pose generation"
+  },
+  "next": {
+    "title": "🚁 Hornet attack detection",
+    "permalink": "/about/products/entrance_observer/todo/🚁 Hornet attack detection"
+  }
+}

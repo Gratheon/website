@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/entrance_observer/entrance_observer.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "entrance_observer"
+              "title": "index"
             }
           }
         ]
@@ -178,12 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "4e3c01577d3b7dd0",
   "lastOpenFiles": [
+    "about/products/entrance_observer/entrance_observer.md",
+    "about/company/🫀 Culture and values/🫀 Culture and values.md",
     "about/products/entrance_observer/ideas/🩻 Bee pose generation.md",
     "about/products/entrance_observer/todo/Drone bee detection and counting.md",
     "about/products/entrance_observer/features/👭 Bee interaction detection.md",
-    "about/products/entrance_observer/entrance_observer.md",
     "about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
     "about/products/entrance_observer/features/📊 Bee movement metric reporting.md",
     "about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge.md",
@@ -224,7 +225,6 @@
     "pages/terms.md",
     "README.md",
     "products/entrance_observer/index.md",
-    "research/papers/index.md",
-    "research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques.md"
+    "research/papers/index.md"
   ]
 }

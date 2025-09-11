@@ -1,0 +1,27 @@
+{
+  "id": "products/entrance_observer/entrance_observer",
+  "title": "👁️‍🗨️ Entrance Observer",
+  "description": "status: alpha, TRL 5",
+  "source": "@site/about/products/entrance_observer/entrance_observer.md",
+  "sourceDirName": "products/entrance_observer",
+  "slug": "/products/entrance_observer/",
+  "permalink": "/about/products/entrance_observer/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "👁️‍🗨️ Entrance Observer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐻 Tampering detection",
+    "permalink": "/about/products/sensors/todo/🐻 Tampering detection"
+  },
+  "next": {
+    "title": "🎥 Video streaming via API",
+    "permalink": "/about/products/entrance_observer/features/🎥 Video streaming via API"
+  }
+}

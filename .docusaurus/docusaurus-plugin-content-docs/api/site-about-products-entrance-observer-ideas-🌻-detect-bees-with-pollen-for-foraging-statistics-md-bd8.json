@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🐝 Detect swarming, orientation flights or robbing",
-    "permalink": "/about/products/entrance_observer/features/🐝 Detect swarming, orientation flights or robbing"
+    "title": "🛣️ Landing board heatmap generation",
+    "permalink": "/about/products/entrance_observer/features/🛣️ Landing board heatmap generation"
   },
   "next": {
-    "title": "🎮 Client-side app with UI",
-    "permalink": "/about/products/entrance_observer/ideas/🎮 Client-side app with UI"
+    "title": "🎮 Device management - Remote desktop",
+    "permalink": "/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop"
   }
 }

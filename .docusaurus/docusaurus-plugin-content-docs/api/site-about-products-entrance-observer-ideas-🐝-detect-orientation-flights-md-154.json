@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/ideas/🐝 Detect orientation flights",
+  "title": "🐝 Detect orientation flights",
+  "description": "",
+  "source": "@site/about/products/entrance_observer/ideas/🐝 Detect orientation flights.md",
+  "sourceDirName": "products/entrance_observer/ideas",
+  "slug": "/products/entrance_observer/ideas/🐝 Detect orientation flights",
+  "permalink": "/about/products/entrance_observer/ideas/🐝 Detect orientation flights",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎮 Device management - Remote desktop",
+    "permalink": "/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop"
+  },
+  "next": {
+    "title": "🐝 Detect swarming",
+    "permalink": "/about/products/entrance_observer/ideas/🐝 Detect swarming"
+  }
+}

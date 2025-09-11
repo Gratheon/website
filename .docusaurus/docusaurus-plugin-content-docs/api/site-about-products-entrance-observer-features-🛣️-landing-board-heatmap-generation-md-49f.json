@@ -1,0 +1,23 @@
+{
+  "id": "products/entrance_observer/features/🛣️ Landing board heatmap generation",
+  "title": "🛣️ Landing board heatmap generation",
+  "description": "",
+  "source": "@site/about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
+  "sourceDirName": "products/entrance_observer/features",
+  "slug": "/products/entrance_observer/features/🛣️ Landing board heatmap generation",
+  "permalink": "/about/products/entrance_observer/features/🛣️ Landing board heatmap generation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📊 Bee movement metric reporting",
+    "permalink": "/about/products/entrance_observer/features/📊 Bee movement metric reporting"
+  },
+  "next": {
+    "title": "🌻 Detect bees with pollen for foraging statistics",
+    "permalink": "/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics"
+  }
+}
