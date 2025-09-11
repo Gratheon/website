@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/entrance_observer/ideas/🤢 Detect pesticide exposure.md",
+                "file": "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🤢 Detect pesticide exposure"
+              "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression"
             }
           }
         ]
@@ -180,6 +180,13 @@
   },
   "active": "4e3c01577d3b7dd0",
   "lastOpenFiles": [
+    "research/papers/img/insects-16-00575.pdf",
+    "research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network.md",
+    "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
+    "research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic.md",
+    "research/papers/pdfs/applsci-15-07969.pdf",
+    "research/papers/index.md",
+    "about/products/entrance_observer/ideas/🤢 Detect pesticide exposure.md",
     "about/products/entrance_observer/entrance_observer.md",
     "about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
     "about/products/entrance_observer/features/img/heatmap-09-06 1.png",
@@ -194,7 +201,6 @@
     "public/blog/atom.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/wifi-exposure/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -219,11 +225,6 @@
     "about/products/entrance_observer/ideas/🐝 Detect swarming.md",
     "about/products/entrance_observer/ideas/🐝 Detect orientation flights.md",
     "about/products/entrance_observer/features/🎮 Client-side app with UI.md",
-    "about/products/beehive_camera.md",
-    "about/products/entrance_observer/features/🎥 Video streaming via API.md",
-    "products/web_app/community-tier/hive-collapse.md",
-    "about/credits.md",
-    "pages/terms.md",
-    "README.md"
+    "about/products/beehive_camera.md"
   ]
 }
