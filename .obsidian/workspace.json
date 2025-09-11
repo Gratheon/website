@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ba8859458f731d8",
+        "id": "faff5bab35b14cce",
         "type": "tabs",
         "children": [
           {
-            "id": "fead82f395aa2d20",
+            "id": "debceb3366d98870",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/Datasets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Datasets"
             }
           }
         ]
@@ -174,8 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fead82f395aa2d20",
+  "active": "debceb3366d98870",
   "lastOpenFiles": [
+    "docs/entrance-observer/entrance-observer.md",
+    "docs/entrance-observer/Which model to use for vision.md",
+    "docs/entrance-observer/Remote Desktop connection setup.md",
+    "docs/entrance-observer/ML processing devices.md",
+    "docs/entrance-observer/Jetson Orin setup.md",
+    "docs/entrance-observer/Jetson Nano setup.md",
+    "about/products/entrance_observer/entrance_observer.md",
     "README.md",
     "research/papers/index.md",
     "public/blog/rss.xml",
@@ -214,13 +225,6 @@
     "research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos.md",
     "research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
     "research/papers/Honey bulk DNA metagenomic analysis to identify honey biological.md",
-    "research/papers/Honey bees modify plantpollinator network structure.md",
-    "research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period.md",
-    "research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network.md",
-    "research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic.md",
-    "about/products/entrance_observer/ideas/🤢 Detect pesticide exposure.md",
-    "about/products/entrance_observer/entrance_observer.md",
-    "about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
-    "about/products/index.md"
+    "research/papers/Honey bees modify plantpollinator network structure.md"
   ]
 }
