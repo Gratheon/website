@@ -4,16 +4,11 @@ title: 👁️‍🗨️ Entrance Observer
 ---
 `status: alpha`, [TRL 5](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
-💡 Entrance Observer is a set of cameras and a hardware devices that analyze beehive entrance. It records a video stream, runs AI analysis that sends it all to [web app](../web_app/web_app.md). 
+💡 Entrance Observer is a set of cameras and a hardware devices that analyze beehive entrance. It records a video stream, runs AI analysis that sends metrics and videos to our [web app](../web_app/web_app.md) for preview and alerts. 
 
-Check and install our [open source code of entrance-observer](https://github.com/Gratheon/entrance-observer/)
+Check and install our [open source code of **entrance-observer**](https://github.com/Gratheon/entrance-observer/)
 
-
-<div style={{width:300}}>
-![](img/Screenshot%202025-02-14%20at%2018.27.00.png)
-</div>
-
-<iframe width="100%" height="400"  src="https://www.youtube.com/embed/hNval4v44ao" title="Beehive Entrance Observer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500"  src="https://www.youtube.com/embed/hNval4v44ao" title="Beehive Entrance Observer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
@@ -24,12 +19,6 @@ Out of all beekeeping issues, this product is helping with these:
 - [🦀 Diseases](../../🌨️%20Problems/🦀%20Diseases.md)
 - [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
 - [🤢 Pesticide poisoning](../../🌨️%20Problems/🤢%20Pesticide%20poisoning.md)
-## Target audience
-
-- [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
-- [👨🏻‍💻 Tech-savvy engineers](../clients/👨🏻‍💻%20Tech-savvy%20engineers.md)
-- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md)
-
 ## Features
 - [🎥 Video streaming via API](features/🎥%20Video%20streaming%20via%20API.md)
 - [🐝 Detect swarming](ideas/🐝%20Detect%20swarming.md)
@@ -53,7 +42,14 @@ Out of all beekeeping issues, this product is helping with these:
 - [🤢 Detect pesticide exposure](ideas/🤢%20Detect%20pesticide%20exposure.md)
 - [🩻 Bee pose generation](ideas/🩻%20Bee%20pose%20generation.md)
 
-### History
+## Target audience
+
+- [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
+- [👨🏻‍💻 Tech-savvy engineers](../clients/👨🏻‍💻%20Tech-savvy%20engineers.md)
+- [👩🏻 Tech scale-up companies](../clients/👩🏻%20Tech%20scale-up%20companies.md)
+
+
+### Version history
 ![](../../img/436202645_10161734083722973_395574856169740131_n.jpg)
 Prototype v4 at field testing. Camera has protective case. Missing the landing board protective cone as it needs artificial lighting
 

@@ -18,7 +18,7 @@ Our products are in development and are a mix of software and hardware, complime
 </div>
 
 <div style={{width:200}}>
-[Entrance observer](entrance_observer/)<br />
+[Entrance observer](entrance_observer/entrance_observer.md)<br />
 ![](entrance_observer/img/Screenshot%202025-02-14%20at%2018.27.00.png)
 </div>
 
