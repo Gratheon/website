@@ -66,8 +66,11 @@ Example video (ffmpeg re-compressed for the web):
 	- [tracks](https://drive.google.com/file/d/1ij0A15NC2XDdUy3ghvZ6GYT_458uqzZn/view?usp=drive_link)
 - September 8th
 	- Dataset duration ~3.5h (13:52-17:33 EEST) at peak time with orientation flights
+	- Full duration (8h) available on youtube
 	- [metrics](https://drive.google.com/file/d/1Uz0I-nzvRPiNe1QH-PK1XcPpCMrfV2NY/view?usp=drive_link)
 	- [tracks](https://drive.google.com/file/d/1o9Z6c7-JunYptKTGUFV7aJqYdjkKKYUr/view?usp=drive_link)
+
+
 - September 9th
 
 ![](img/Screenshot%202025-09-10%20at%2009.27.41.png)
