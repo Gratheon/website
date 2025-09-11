@@ -2020,15 +2020,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '513'),
+    component: ComponentCreator('/research', 'e8b'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '42e'),
+        component: ComponentCreator('/research', '904'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '487'),
+            component: ComponentCreator('/research', 'af7'),
             routes: [
               {
                 path: '/research/',
@@ -2379,6 +2379,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network',
+                component: ComponentCreator('/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network', '178'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Approximation of functions',
                 component: ComponentCreator('/research/papers/Approximation of functions', 'c10'),
                 exact: true,
@@ -2387,6 +2393,12 @@ export default [
               {
                 path: '/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring',
                 component: ComponentCreator('/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring', 'f3e'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring',
+                component: ComponentCreator('/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring', '348'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2409,14 +2421,38 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies',
+                component: ComponentCreator('/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies', 'f53'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia',
                 component: ComponentCreator('/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia', 'a9b'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives',
+                component: ComponentCreator('/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives', '659'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression',
+                component: ComponentCreator('/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression', '6d9'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture',
                 component: ComponentCreator('/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture', 'e63'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance',
+                component: ComponentCreator('/research/papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance', '6f1'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2481,6 +2517,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System',
+                component: ComponentCreator('/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System', '9c8'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive',
                 component: ComponentCreator('/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive', '1e5'),
                 exact: true,
@@ -2489,6 +2531,12 @@ export default [
               {
                 path: '/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey',
                 component: ComponentCreator('/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey', 'c31'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services',
+                component: ComponentCreator('/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services', '713'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2585,6 +2633,12 @@ export default [
               {
                 path: '/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination',
                 component: ComponentCreator('/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination', '2da'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key',
+                component: ComponentCreator('/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key', '3be'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

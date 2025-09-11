@@ -1819,6 +1819,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
+              "path": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Approximation of functions",
               "path": "/research/papers/Approximation of functions",
               "sidebar": "researchSidebar"
@@ -1826,6 +1831,11 @@
             {
               "id": "papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
               "path": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
+              "path": "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
               "sidebar": "researchSidebar"
             },
             {
@@ -1844,13 +1854,33 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies",
+              "path": "/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
               "path": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+              "path": "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+              "path": "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
               "path": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance",
+              "path": "/research/papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance",
               "sidebar": "researchSidebar"
             },
             {
@@ -1909,6 +1939,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System",
+              "path": "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Labeled dataset for bee detection and direction estimation on entrance to beehive",
               "path": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive",
               "sidebar": "researchSidebar"
@@ -1916,6 +1951,11 @@
             {
               "id": "papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
               "path": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
+              "path": "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
               "sidebar": "researchSidebar"
             },
             {
@@ -1996,6 +2036,11 @@
             {
               "id": "papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
               "path": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
+              "path": "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
               "sidebar": "researchSidebar"
             },
             {

@@ -1,7 +1,7 @@
 {
   "id": "products/entrance_observer/features/🛣️ Landing board heatmap generation",
   "title": "🛣️ Landing board heatmap generation",
-  "description": "",
+  "description": "Given all of the bee track movements,  we can generate a heatmap of bee locations at the entrance to better understand long-term bee behaviour and potentially improve efficiency bee moment on the landing board",
   "source": "@site/about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
   "sourceDirName": "products/entrance_observer/features",
   "slug": "/products/entrance_observer/features/🛣️ Landing board heatmap generation",

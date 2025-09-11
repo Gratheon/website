@@ -1,0 +1,29 @@
+{
+  "id": "papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
+  "title": "Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series: Five Essential Crops in the Pollination Services",
+  "description": "PDF",
+  "source": "@site/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
+  "permalink": "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇨🇦 Université de Montréal"
+    ],
+    "year": "2024",
+    "title": "Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series: Five Essential Crops in the Pollination Services"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications: A Survey",
+    "permalink": "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey"
+  },
+  "next": {
+    "title": "⭐️ Markerless tracking of an entire honey bee colony",
+    "permalink": "/research/papers/Markerless tracking of an entire honey bee colony"
+  }
+}

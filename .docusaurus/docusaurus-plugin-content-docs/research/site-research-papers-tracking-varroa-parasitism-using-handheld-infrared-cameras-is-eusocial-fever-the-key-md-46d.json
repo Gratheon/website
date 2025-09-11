@@ -1,0 +1,29 @@
+{
+  "id": "papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
+  "title": "Tracking Varroa Parasitism Using Handheld Infrared Cameras:Is Eusocial Fever the Key?",
+  "description": "PDF",
+  "source": "@site/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
+  "permalink": "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tracking Varroa Parasitism Using Handheld Infrared Cameras:Is Eusocial Fever the Key?",
+    "orgs": [
+      "🇭🇺 Hungarian University of Agricultureand Life Sciences"
+    ],
+    "year": "2024"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Towards Varroa destructor mite detection using a narrow spectra illumination",
+    "permalink": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+  },
+  "next": {
+    "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+    "permalink": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+  }
+}

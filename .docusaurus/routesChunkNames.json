@@ -1757,17 +1757,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-513": {
+  "/research-e8b": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-42e": {
+  "/research-904": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-487": {
+  "/research-af7": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2002,6 +2002,10 @@
     "__comp": "17896441",
     "content": "156a796a"
   },
+  "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network-178": {
+    "__comp": "17896441",
+    "content": "fae4e331"
+  },
   "/research/papers/Approximation of functions-c10": {
     "__comp": "17896441",
     "content": "f68a461f"
@@ -2009,6 +2013,10 @@
   "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring-f3e": {
     "__comp": "17896441",
     "content": "6d4e4265"
+  },
+  "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring-348": {
+    "__comp": "17896441",
+    "content": "bc7eb768"
   },
   "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance-26a": {
     "__comp": "17896441",
@@ -2022,13 +2030,29 @@
     "__comp": "17896441",
     "content": "46f70240"
   },
+  "/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies-f53": {
+    "__comp": "17896441",
+    "content": "8fab534c"
+  },
   "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia-a9b": {
     "__comp": "17896441",
     "content": "fc988f9c"
   },
+  "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives-659": {
+    "__comp": "17896441",
+    "content": "74d8865e"
+  },
+  "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression-6d9": {
+    "__comp": "17896441",
+    "content": "b49262ea"
+  },
   "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture-e63": {
     "__comp": "17896441",
     "content": "4ea16c79"
+  },
+  "/research/papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance-6f1": {
+    "__comp": "17896441",
+    "content": "ed880d04"
   },
   "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period-67b": {
     "__comp": "17896441",
@@ -2070,6 +2094,10 @@
     "__comp": "17896441",
     "content": "60d0b7c3"
   },
+  "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System-9c8": {
+    "__comp": "17896441",
+    "content": "af36742c"
+  },
   "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive-1e5": {
     "__comp": "17896441",
     "content": "504039a2"
@@ -2077,6 +2105,10 @@
   "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-c31": {
     "__comp": "17896441",
     "content": "a36d108a"
+  },
+  "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services-713": {
+    "__comp": "17896441",
+    "content": "47c9aa7b"
   },
   "/research/papers/Markerless tracking of an entire honey bee colony-d97": {
     "__comp": "17896441",
@@ -2141,6 +2173,10 @@
   "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination-2da": {
     "__comp": "17896441",
     "content": "27fa2986"
+  },
+  "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key-3be": {
+    "__comp": "17896441",
+    "content": "46dba741"
   },
   "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-5e8": {
     "__comp": "17896441",

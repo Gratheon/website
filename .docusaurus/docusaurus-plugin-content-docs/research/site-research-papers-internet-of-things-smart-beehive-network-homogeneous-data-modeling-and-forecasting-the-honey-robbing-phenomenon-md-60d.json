@@ -1,7 +1,7 @@
 {
   "id": "papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
   "title": "Internet of Things Smart Beehive Network: Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
-  "description": "- PDF",
+  "description": "PDF",
   "source": "@site/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
   "sourceDirName": "papers",
   "slug": "/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
@@ -24,7 +24,7 @@
     "permalink": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
   },
   "next": {
-    "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive",
-    "permalink": "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive"
+    "title": "Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System",
+    "permalink": "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System"
   }
 }

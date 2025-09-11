@@ -1,0 +1,29 @@
+{
+  "id": "papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+  "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+  "description": "PDF",
+  "source": "@site/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+  "permalink": "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇹🇭  Chiang Mai University"
+    ],
+    "year": "2025",
+    "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+    "permalink": "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives"
+  },
+  "next": {
+    "title": "Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+    "permalink": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
+  }
+}

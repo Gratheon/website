@@ -1,0 +1,29 @@
+{
+  "id": "papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies",
+  "title": "Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies",
+  "description": "PDF",
+  "source": "@site/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies",
+  "permalink": "/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2025",
+    "orgs": [
+      "🇭🇷 University of Split"
+    ],
+    "title": "Buzzing with Intelligence: A Systematic Review of Smart Beehive Technologies"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Biodiversity conservation and current threats to European honeybees",
+    "permalink": "/research/papers/Biodiversity conservation and current threats to European honeybees"
+  },
+  "next": {
+    "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+    "permalink": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
+  }
+}
