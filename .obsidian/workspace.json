@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
+                "file": "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression"
+              "title": "Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring"
             }
           }
         ]
@@ -178,14 +178,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e3c01577d3b7dd0",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "research/papers/img/insects-16-00575.pdf",
-    "research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network.md",
+    "research/papers/pdfs/sensors-24-06067.pdf",
+    "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
+    "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
+    "research/papers/⭐️ BeeAlarmed. Masters thesis.md",
+    "research/Hacker projects.md",
+    "research/papers/index.md",
+    "research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies.md",
+    "research/papers/Biodiversity conservation and current threats to European honeybees.md",
+    "research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos.md",
+    "research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia.md",
     "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
+    "research/papers/pdfs/sensors-25-05359.pdf",
+    "research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture.md",
+    "research/papers/Honey bulk DNA metagenomic analysis to identify honey biological.md",
+    "research/papers/Honey bees modify plantpollinator network structure.md",
+    "research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period.md",
+    "research/papers/pdfs/insects-16-00575.pdf",
+    "research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network.md",
     "research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic.md",
     "research/papers/pdfs/applsci-15-07969.pdf",
-    "research/papers/index.md",
     "about/products/entrance_observer/ideas/🤢 Detect pesticide exposure.md",
     "about/products/entrance_observer/entrance_observer.md",
     "about/products/entrance_observer/features/🛣️ Landing board heatmap generation.md",
@@ -199,8 +213,6 @@
     "public/blog/rss.css",
     "public/blog/rss.xsl",
     "public/blog/atom.xsl",
-    "public/sitemap.xml",
-    "public/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -213,18 +225,6 @@
     "about/company/🫀 Culture and values/🫀 Culture and values.md",
     "about/products/entrance_observer/ideas/🩻 Bee pose generation.md",
     "about/products/entrance_observer/todo/Drone bee detection and counting.md",
-    "about/products/entrance_observer/features/👭 Bee interaction detection.md",
-    "about/products/entrance_observer/features/📊 Bee movement metric reporting.md",
-    "about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge.md",
-    "about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video.md",
-    "about/products/entrance_observer/todo/🚁 Hornet attack detection.md",
-    "about/products/entrance_observer/ideas/🐝 Guard detection.md",
-    "about/products/entrance_observer/ideas/🔔 Alerts based on bee counter.md",
-    "about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics.md",
-    "about/products/entrance_observer/ideas/🔔 Daily loss of bees stats.md",
-    "about/products/entrance_observer/ideas/🐝 Detect swarming.md",
-    "about/products/entrance_observer/ideas/🐝 Detect orientation flights.md",
-    "about/products/entrance_observer/features/🎮 Client-side app with UI.md",
-    "about/products/beehive_camera.md"
+    "about/products/entrance_observer/features/👭 Bee interaction detection.md"
   ]
 }

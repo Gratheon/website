@@ -6,6 +6,8 @@ title: Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Col
 ---
 
 
-[PDF](img/insects-16-00575.pdf)
-![](img/insects-16-00575.pdf)
+[PDF](pdfs/insects-16-00575.pdf)
+
+<object data={require('./pdfs/insects-16-00575.pdf').default} type="application/pdf" width="100%" height="800"></object>
+![](pdfs/insects-16-00575.pdf)
 

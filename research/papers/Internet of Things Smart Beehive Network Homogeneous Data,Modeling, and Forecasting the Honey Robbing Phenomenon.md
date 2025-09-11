@@ -5,9 +5,7 @@ orgs:
 year: "2024"
 hide_table_of_contents: true
 ---
-
-
-- [PDF](pdfs/inventions-10-00023.pdf)
+[PDF](pdfs/inventions-10-00023.pdf)
 
 
 <object data={require('./pdfs/inventions-10-00023.pdf').default} type="application/pdf" width="100%" height="800"></object>
