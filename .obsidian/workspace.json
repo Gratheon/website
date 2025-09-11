@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/index.md",
+                "file": "about/products/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,6 +180,7 @@
   },
   "active": "4e3c01577d3b7dd0",
   "lastOpenFiles": [
+    "about/index.md",
     "about/products/entrance_observer/entrance_observer.md",
     "about/company/🫀 Culture and values/🫀 Culture and values.md",
     "about/products/entrance_observer/ideas/🩻 Bee pose generation.md",
@@ -224,7 +225,6 @@
     "about/credits.md",
     "pages/terms.md",
     "README.md",
-    "products/entrance_observer/index.md",
-    "research/papers/index.md"
+    "products/entrance_observer/index.md"
   ]
 }
