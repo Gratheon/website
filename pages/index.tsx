@@ -261,19 +261,6 @@ function HomepageHeader() {
           </div>
 
           <div className={styles.feature}>
-            <h3>Spy on bees</h3>
-            <p>
-              Stream your beehive entrance from unused phone, raspberry-pi or our
-              device. Play back past videos under correct beehive to see what
-              happened. Useful to detect hornet attacks, robbing, queen mating
-              flights.
-            </p>
-
-            <video autoPlay loop muted src="./img/video-stream.mov"></video>
-          </div>
-
-
-          <div className={styles.feature}>
             <h3>Share</h3>
             <p>
               Share your beehive inspection with beekeeping community by generating a link that receivers can open.
@@ -286,6 +273,24 @@ function HomepageHeader() {
             />
           </div>
 
+          <div className={styles.feature}>
+            <h3>Spy on bees</h3>
+            <p>
+              Stream your beehive entrance using out entrance-observer opensource client code. 
+              Alternatively use unused phone or raspberry-pi.
+              Play back past videos to see what happened.
+
+              Useful to understand behavioural patterns, detect hornet attacks, robbing, queen mating flights.
+            </p>
+
+            <iframe src="https://www.youtube.com/embed/oG791JNb1aA?autoplay=1&mute=1&loop=1" 
+            style={{ width: '100%', height: '201px', margin: '0 auto', display: 'block' }}
+
+            title="Bees at the beehive entrance" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+          </div>
 
         </div>
       </div>

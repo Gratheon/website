@@ -72,7 +72,7 @@ Example video (ffmpeg re-compressed for the web):
 	- [metrics](https://drive.google.com/file/d/1Uz0I-nzvRPiNe1QH-PK1XcPpCMrfV2NY/view?usp=drive_link)
 	- [tracks](https://drive.google.com/file/d/1o9Z6c7-JunYptKTGUFV7aJqYdjkKKYUr/view?usp=drive_link)
 - September 9th
-	- Dataset duration ~
+	- Dataset duration ~3h (12:00-15:00 EEST)
 
 
 ![](img/Screenshot%202025-09-10%20at%2009.27.41.png)
@@ -81,6 +81,8 @@ Example video (ffmpeg re-compressed for the web):
 Camera placed on **second** hive section (closer), changed zoom, removed glass and aluminium boundaries, added stones instead
 
 - September 10th
+- September 11th
+	- rainy day, very little activity
 
 ![](img/Screenshot%202025-09-10%20at%2009.11.23.png)
 
