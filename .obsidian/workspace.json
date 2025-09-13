@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/SLEAP.md",
+                "file": "research/papers/DeepPoseKit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLEAP"
+              "title": "DeepPoseKit"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "debceb3366d98870",
   "lastOpenFiles": [
+    "research/papers/DeepLabCut.md",
+    "research/papers/SLEAP.md",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
@@ -190,7 +192,6 @@
     "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
     "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
-    "public/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -202,9 +203,7 @@
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
     "research/papers/DeepPoseKit.md",
-    "research/papers/SLEAP.md",
     "pdfs/s41592-022-01426-1.pdf.md",
-    "research/papers/DeepLabCut.md",
     "research/papers/index.md",
     "research/index.md",
     "research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species.md",
