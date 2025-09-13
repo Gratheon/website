@@ -1576,15 +1576,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1e5'),
+    component: ComponentCreator('/docs', '958'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c3d'),
+        component: ComponentCreator('/docs', '048'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ce0'),
+            component: ComponentCreator('/docs', 'cd6'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1815,6 +1815,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/entrance-observer/Bill of materials',
+                component: ComponentCreator('/docs/entrance-observer/Bill of materials', '4a9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/entrance-observer/components-jetson/Camera - Mokose 4k',
                 component: ComponentCreator('/docs/entrance-observer/components-jetson/Camera - Mokose 4k', '188'),
                 exact: true,
@@ -2020,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'e8b'),
+    component: ComponentCreator('/research', '02b'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '904'),
+        component: ComponentCreator('/research', '530'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'af7'),
+            component: ComponentCreator('/research', '8a2'),
             routes: [
               {
                 path: '/research/',
@@ -2397,6 +2403,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Be-Hive',
+                component: ComponentCreator('/research/papers/Be-Hive', '708'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring',
                 component: ComponentCreator('/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring', '348'),
                 exact: true,
@@ -2441,6 +2453,18 @@ export default [
               {
                 path: '/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression',
                 component: ComponentCreator('/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression', '6d9'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/DeepLabCut',
+                component: ComponentCreator('/research/papers/DeepLabCut', '28f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/DeepPoseKit',
+                component: ComponentCreator('/research/papers/DeepPoseKit', 'ffb'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2601,6 +2625,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/SLEAP',
+                component: ComponentCreator('/research/papers/SLEAP', '496'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Solution for automated bee colony weight monitoring',
                 component: ComponentCreator('/research/papers/Solution for automated bee colony weight monitoring', '20c'),
                 exact: true,
@@ -2639,6 +2669,12 @@ export default [
               {
                 path: '/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key',
                 component: ComponentCreator('/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key', '3be'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species',
+                component: ComponentCreator('/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species', '711'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

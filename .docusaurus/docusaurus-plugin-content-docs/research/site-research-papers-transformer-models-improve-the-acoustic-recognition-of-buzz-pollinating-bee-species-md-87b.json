@@ -1,0 +1,31 @@
+{
+  "id": "papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+  "title": "Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+  "description": "",
+  "source": "@site/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+  "permalink": "/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+    "year": "2025",
+    "orgs": [
+      "🇧🇷 Universidade Federal de Goiás",
+      "🇺🇸 University of Arizona",
+      "🇨🇱 Universidad Católica del Maule"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Tracking Varroa Parasitism Using Handheld Infrared Cameras:Is Eusocial Fever the Key?",
+    "permalink": "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key"
+  },
+  "next": {
+    "title": "Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces",
+    "permalink": "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces"
+  }
+}

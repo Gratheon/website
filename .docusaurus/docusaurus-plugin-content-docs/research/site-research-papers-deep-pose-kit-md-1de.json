@@ -1,0 +1,32 @@
+{
+  "id": "papers/DeepPoseKit",
+  "title": "DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning",
+  "description": "PDF",
+  "source": "@site/research/papers/DeepPoseKit.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/DeepPoseKit",
+  "permalink": "/research/papers/DeepPoseKit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning",
+    "orgs": [
+      "🇩🇪 Max Planck Institute of Animal Behavior",
+      "🇩🇪 University of Konstanz",
+      "🇺🇸  Princeton University",
+      "🇩🇪 Technische Universität München"
+    ],
+    "year": "2019"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+    "permalink": "/research/papers/DeepLabCut"
+  },
+  "next": {
+    "title": "Digital Transformation of Beekeeping through the Use of a Decision Making Architecture",
+    "permalink": "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture"
+  }
+}

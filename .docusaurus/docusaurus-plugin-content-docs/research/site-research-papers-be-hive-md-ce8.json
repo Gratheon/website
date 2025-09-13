@@ -1,0 +1,30 @@
+{
+  "id": "papers/Be-Hive",
+  "title": "The Be-Hive Project - Counting Bee Traffic based on Deep Learning and Pose Estimation",
+  "description": "PDF",
+  "source": "@site/research/papers/Be-Hive.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Be-Hive",
+  "permalink": "/research/papers/Be-Hive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Be-Hive Project - Counting Bee Traffic based on Deep Learning and Pose Estimation",
+    "orgs": [
+      "🇨🇾 CYENS Centre of Excellence",
+      "🇨🇾 Cyprus University of Technology",
+      "🇳🇱 University of Twente"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring",
+    "permalink": "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring"
+  },
+  "next": {
+    "title": "Bee Together: Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
+    "permalink": "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "papers/SLEAP",
+  "title": "SLEAP: A deep learning system for multi-animal pose tracking",
+  "description": "- PDF",
+  "source": "@site/research/papers/SLEAP.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/SLEAP",
+  "permalink": "/research/papers/SLEAP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SLEAP: A deep learning system for multi-animal pose tracking",
+    "year": "2022",
+    "orgs": [
+      "🇺🇸  Princeton University",
+      "🇺🇸 New York University",
+      "🇺🇸 Johns Hopkins University School of Medicine"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+    "permalink": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network"
+  },
+  "next": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "permalink": "/research/papers/Solution for automated bee colony weight monitoring"
+  }
+}

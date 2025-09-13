@@ -196,6 +196,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "entrance-observer/Bill of materials",
+              "path": "/docs/entrance-observer/Bill of materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "entrance-observer/components-jetson/Camera - Mokose 4k",
               "path": "/docs/entrance-observer/components-jetson/Camera - Mokose 4k",
               "sidebar": "tutorialSidebar"
@@ -1834,6 +1839,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Be-Hive",
+              "path": "/research/papers/Be-Hive",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
               "path": "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
               "sidebar": "researchSidebar"
@@ -1871,6 +1881,16 @@
             {
               "id": "papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
               "path": "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/DeepLabCut",
+              "path": "/research/papers/DeepLabCut",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/DeepPoseKit",
+              "path": "/research/papers/DeepPoseKit",
               "sidebar": "researchSidebar"
             },
             {
@@ -2009,6 +2029,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/SLEAP",
+              "path": "/research/papers/SLEAP",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Solution for automated bee colony weight monitoring",
               "path": "/research/papers/Solution for automated bee colony weight monitoring",
               "sidebar": "researchSidebar"
@@ -2041,6 +2066,11 @@
             {
               "id": "papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
               "path": "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
+              "path": "/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species",
               "sidebar": "researchSidebar"
             },
             {

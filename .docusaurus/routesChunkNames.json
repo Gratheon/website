@@ -1460,17 +1460,17 @@
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-1e5": {
+  "/docs-958": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-c3d": {
+  "/docs-048": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-ce0": {
+  "/docs-cd6": {
     "__comp": "a94703ab"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1625,6 +1625,10 @@
     "__comp": "17896441",
     "content": "38892000"
   },
+  "/docs/entrance-observer/Bill of materials-4a9": {
+    "__comp": "17896441",
+    "content": "a36f9d65"
+  },
   "/docs/entrance-observer/components-jetson/Camera - Mokose 4k-188": {
     "__comp": "17896441",
     "content": "a2ab379a"
@@ -1757,17 +1761,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-e8b": {
+  "/research-02b": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-904": {
+  "/research-530": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-af7": {
+  "/research-8a2": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2014,6 +2018,10 @@
     "__comp": "17896441",
     "content": "6d4e4265"
   },
+  "/research/papers/Be-Hive-708": {
+    "__comp": "17896441",
+    "content": "ce841b81"
+  },
   "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring-348": {
     "__comp": "17896441",
     "content": "bc7eb768"
@@ -2045,6 +2053,14 @@
   "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression-6d9": {
     "__comp": "17896441",
     "content": "b49262ea"
+  },
+  "/research/papers/DeepLabCut-28f": {
+    "__comp": "17896441",
+    "content": "ae8e9146"
+  },
+  "/research/papers/DeepPoseKit-ffb": {
+    "__comp": "17896441",
+    "content": "1defab88"
   },
   "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture-e63": {
     "__comp": "17896441",
@@ -2150,6 +2166,10 @@
     "__comp": "17896441",
     "content": "6828c38e"
   },
+  "/research/papers/SLEAP-496": {
+    "__comp": "17896441",
+    "content": "b9d279cd"
+  },
   "/research/papers/Solution for automated bee colony weight monitoring-20c": {
     "__comp": "17896441",
     "content": "8cf51ec9"
@@ -2177,6 +2197,10 @@
   "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key-3be": {
     "__comp": "17896441",
     "content": "46dba741"
+  },
+  "/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species-711": {
+    "__comp": "17896441",
+    "content": "87b57a46"
   },
   "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-5e8": {
     "__comp": "17896441",

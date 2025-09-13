@@ -1,0 +1,34 @@
+{
+  "id": "papers/DeepLabCut",
+  "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+  "description": "PDF",
+  "source": "@site/research/papers/DeepLabCut.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/DeepLabCut",
+  "permalink": "/research/papers/DeepLabCut",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+    "orgs": [
+      "🇩🇪 Eberhard Karls Universität Tübingen",
+      "🇺🇸 Harvard University",
+      "🇺🇸 Columbia University",
+      "🇩🇪 Max Planck Institute for Biological Cybernetics",
+      "🇩🇪 Bernstein Center for Computational Neuroscience",
+      "🇺🇸 Baylor College of Medicine"
+    ],
+    "year": "2018"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+    "permalink": "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression"
+  },
+  "next": {
+    "title": "DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning",
+    "permalink": "/research/papers/DeepPoseKit"
+  }
+}
