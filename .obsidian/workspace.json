@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/DeepPoseKit.md",
+                "file": "research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepPoseKit"
+              "title": "Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies"
             }
           }
         ]
@@ -180,6 +180,11 @@
   },
   "active": "debceb3366d98870",
   "lastOpenFiles": [
+    "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
+    "research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies.md",
+    "research/papers/pdfs/Precision_Apiculture_IoT_System_for_remo.pdf",
+    "research/papers/index.md",
+    "research/papers/DeepPoseKit.md",
     "research/papers/DeepLabCut.md",
     "research/papers/SLEAP.md",
     "public/sitemap.xml",
@@ -191,7 +196,6 @@
     "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
     "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
-    "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -202,9 +206,7 @@
     "public/img/sharing.webp",
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
-    "research/papers/DeepPoseKit.md",
     "pdfs/s41592-022-01426-1.pdf.md",
-    "research/papers/index.md",
     "research/index.md",
     "research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species.md",
     "research/papers/Be-Hive.md",
@@ -223,7 +225,6 @@
     "research/Datasets.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/🌻 Purpose/Company mission.md",
-    "docs/entrance-observer/Which model to use for vision.md",
-    "docs/entrance-observer/Remote Desktop connection setup.md"
+    "docs/entrance-observer/Which model to use for vision.md"
   ]
 }
