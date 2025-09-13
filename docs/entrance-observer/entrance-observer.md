@@ -21,6 +21,14 @@ flowchart LR
 
 	web-app --"include analytics page"--> grafana("<a href='https://github.com/Gratheon/grafana'>grafana</a>\n:9000") --"read bee traffic over time"--> influxdb("influxdb:5300")
 ```
+
+
+
+
+
+Camera protection cover
+![](img/Screenshot%202025-09-13%20at%2012.30.27.png)
+
 ## Choosing processing architecture
 
 We can approach where to process video from different angles:

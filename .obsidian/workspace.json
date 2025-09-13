@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Datasets.md",
+                "file": "docs/robotic-beehive/robotic-beehive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Datasets"
+              "title": "robotic-beehive"
             }
           }
         ]
@@ -174,21 +174,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "debceb3366d98870",
   "lastOpenFiles": [
+    "docs/entrance-observer/Bill of materials.md",
+    "docs/entrance-observer/entrance-observer.md",
+    "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png",
+    "docs/entrance-observer/img",
+    "docs/beehive-sensors/3d model.md",
+    "docs/beehive-sensors/beehive-sensors.md",
+    "about/products/entrance_observer/entrance_observer.md",
+    "research/Datasets.md",
     "about/🌻 Purpose/🌻 Purpose.md",
     "about/🌻 Purpose/Company mission.md",
-    "research/Datasets.md",
-    "docs/entrance-observer/entrance-observer.md",
     "docs/entrance-observer/Which model to use for vision.md",
     "docs/entrance-observer/Remote Desktop connection setup.md",
     "docs/entrance-observer/ML processing devices.md",
     "docs/entrance-observer/Jetson Orin setup.md",
     "docs/entrance-observer/Jetson Nano setup.md",
-    "about/products/entrance_observer/entrance_observer.md",
     "README.md",
     "research/papers/index.md",
     "public/blog/rss.xml",
@@ -200,7 +206,6 @@
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
-    "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
     "public/img/windows.png",
     "public/img/undraw_docusaurus_react.svg",
     "public/img/varroa.webp",
@@ -210,7 +215,6 @@
     "public/img/temp.webp",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
     "research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services.md",
     "research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System.md",
     "research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key.md",
@@ -221,9 +225,6 @@
     "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
     "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
     "research/papers/⭐️ BeeAlarmed. Masters thesis.md",
-    "research/Hacker projects.md",
-    "research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies.md",
-    "research/papers/Biodiversity conservation and current threats to European honeybees.md",
-    "research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos.md"
+    "research/Hacker projects.md"
   ]
 }
