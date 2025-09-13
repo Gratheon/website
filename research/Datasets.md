@@ -80,7 +80,8 @@ Example video (ffmpeg re-compressed for the web):
 #### Dataset type 3
 Camera placed on **second** hive section (closer), changed zoom, removed glass and aluminium boundaries, added stones instead
 
-- September 10th
+- [September 10th](https://drive.google.com/drive/folders/1T9zKrfkNYAl4NHn6E1F8O6stDdiA544f?usp=drive_link)
+	- 11:30 - 17:00
 - September 11th
 	- rainy day, very little activity
 

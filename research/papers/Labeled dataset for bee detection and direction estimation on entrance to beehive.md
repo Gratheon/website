@@ -5,8 +5,9 @@ orgs:
 title: Labeled dataset for bee detection and direction estimation on entrance to beehive
 hide_table_of_contents: true
 ---
-[PDF](pdfs/Labeled%20dataset%20for%20bee%20detection%20and%20direction%20estimation%20on%20entrance%20to%20beehive.pdf)
 
-<object data={require('./pdfs/Labeled%20dataset%20for%20bee%20detection%20and%20direction%20estimation%20on%20entrance%20to%20beehive.pdf').default} type="application/pdf" width="100%" height="800"></object>
+[PDF](pdfs/dataset-lt.pdf)
 
-![](pdfs/Labeled%20dataset%20for%20bee%20detection%20and%20direction%20estimation%20on%20entrance%20to%20beehive.pdf)
+<object data={require('./pdfs/dataset-lt.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
+![](pdfs/dataset-lt.pdf)
