@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/index.md",
+                "file": "research/Datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Datasets"
             }
           }
         ]
@@ -174,11 +174,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "debceb3366d98870",
   "lastOpenFiles": [
+    "research/papers/index.md",
     "research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review.md",
     "research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
@@ -187,7 +189,6 @@
     "research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies.md",
     "research/papers/Raspberry Pi Bee Health Monitoring Device.md",
     "research/papers/pdfs/Precision_Apiculture_IoT_System_for_remo.pdf",
-    "research/papers/index.md",
     "research/papers/DeepPoseKit.md",
     "research/papers/DeepLabCut.md",
     "research/papers/SLEAP.md",
