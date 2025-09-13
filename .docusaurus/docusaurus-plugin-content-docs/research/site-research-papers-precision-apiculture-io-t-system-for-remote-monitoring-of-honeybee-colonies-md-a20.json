@@ -1,0 +1,27 @@
+{
+  "id": "papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+  "title": "Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+  "description": "PDF",
+  "source": "@site/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+  "permalink": "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇲🇰 Ss. Cyril and Methodius University"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Open Remote Web Lab for Learning Robotics and ROS With Physical and Simulated Robots in an Authentic Developer Environment",
+    "permalink": "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment"
+  },
+  "next": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+  }
+}

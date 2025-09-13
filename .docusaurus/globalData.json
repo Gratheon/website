@@ -1959,6 +1959,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review",
+              "path": "/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System",
               "path": "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System",
               "sidebar": "researchSidebar"
@@ -2011,6 +2016,11 @@
             {
               "id": "papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
               "path": "/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+              "path": "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
               "sidebar": "researchSidebar"
             },
             {

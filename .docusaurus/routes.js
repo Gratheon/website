@@ -2026,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '02b'),
+    component: ComponentCreator('/research', 'aba'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '530'),
+        component: ComponentCreator('/research', 'f29'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '8a2'),
+            component: ComponentCreator('/research', '8aa'),
             routes: [
               {
                 path: '/research/',
@@ -2541,6 +2541,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review',
+                component: ComponentCreator('/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review', 'db7'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System',
                 component: ComponentCreator('/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System', '9c8'),
                 exact: true,
@@ -2603,6 +2609,12 @@ export default [
               {
                 path: '/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences',
                 component: ComponentCreator('/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences', '130'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies',
+                component: ComponentCreator('/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies', '97c'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

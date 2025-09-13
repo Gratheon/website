@@ -1761,17 +1761,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-02b": {
+  "/research-aba": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-530": {
+  "/research-f29": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-8a2": {
+  "/research-8aa": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2110,6 +2110,10 @@
     "__comp": "17896441",
     "content": "60d0b7c3"
   },
+  "/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review-db7": {
+    "__comp": "17896441",
+    "content": "4ba70d59"
+  },
   "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System-9c8": {
     "__comp": "17896441",
     "content": "af36742c"
@@ -2153,6 +2157,10 @@
   "/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences-130": {
     "__comp": "17896441",
     "content": "d01e767a"
+  },
+  "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies-97c": {
+    "__comp": "17896441",
+    "content": "a20a3210"
   },
   "/research/papers/Raspberry Pi Bee Health Monitoring Device-81a": {
     "__comp": "17896441",
