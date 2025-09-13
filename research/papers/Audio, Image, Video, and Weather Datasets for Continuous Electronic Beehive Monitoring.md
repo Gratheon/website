@@ -8,4 +8,6 @@ hide_table_of_contents: true
 - [Original URL](https://www.mdpi.com/2076-3417/11/10/4632) 
 - [PDF](pdfs/applsci-11-04632.pdf)
 
+<object data={require('./pdfs/applsci-11-04632.pdf').default} type="application/pdf" width="100%" height="800"></object>
+
 ![](pdfs/applsci-11-04632.pdf)
