@@ -174,14 +174,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
-    "research/img/testDLC_Resnet50_GratheonBeePoseSep13shuffle1_snapshot_best-170_el_bp_p60_labeled.mp4",
-    "research/Models.md",
     "research/img/bee-pose-model.mov",
+    "research/Models.md",
+    "research/img/testDLC_Resnet50_GratheonBeePoseSep13shuffle1_snapshot_best-170_el_bp_p60_labeled.mp4",
     "research/Datasets.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
     "public/blog/atom.xml",
