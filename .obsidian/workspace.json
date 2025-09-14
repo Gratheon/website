@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/Models.md",
+                "file": "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models"
+              "title": "HiveLink – IoT based Smart Bee Hive MonitoringSystem"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
-    "research/img/bee-pose-model.mov",
     "research/Models.md",
+    "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
+    "research/img/bee-pose-model.mov",
     "research/img/testDLC_Resnet50_GratheonBeePoseSep13shuffle1_snapshot_best-170_el_bp_p60_labeled.mp4",
     "research/Datasets.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
