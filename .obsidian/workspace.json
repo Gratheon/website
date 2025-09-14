@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "faff5bab35b14cce",
+        "id": "9625c4041cfff0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "debceb3366d98870",
+            "id": "f7c71ecd12135fae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Labeled dataset for bee detection and direction estimation on entrance to beehive"
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +174,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "debceb3366d98870",
+  "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
     "public/blog/atom.xml",
     "public/blog/atom.css",
     "public/blog/rss.xml",
@@ -190,7 +187,6 @@
     "public/index.html",
     "public/research/papers/wifi-exposure/index.html",
     "public/research/papers/wifi-exposure",
-    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
@@ -201,7 +197,6 @@
     "public/favicons/favicon-16x16.png",
     "public/favicons/apple-touch-icon.png",
     "public/favicons/android-chrome-512x512.png",
-    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
     "research/index.md",
     "research/Datasets.md",
     "research/papers/index.md",
