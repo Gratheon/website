@@ -1,0 +1,29 @@
+{
+  "id": "papers/mybee",
+  "title": "myBee: An Information System for Precision Beekeeping",
+  "description": "",
+  "source": "@site/research/papers/mybee.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/mybee",
+  "permalink": "/research/papers/mybee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "myBee: An Information System for Precision Beekeeping",
+    "orgs": [
+      "🇧🇷 State University of Maringa",
+      "🇧🇷 Federal University of Rio de Janeiro"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques",
+    "permalink": "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques"
+  },
+  "next": {
+    "title": "Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
+    "permalink": "/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences"
+  }
+}

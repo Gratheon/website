@@ -2026,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '008'),
+    component: ComponentCreator('/research', 'd2f'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'ff8'),
+        component: ComponentCreator('/research', 'ce1'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '8a3'),
+            component: ComponentCreator('/research', '118'),
             routes: [
               {
                 path: '/research/',
@@ -2415,6 +2415,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology',
+                component: ComponentCreator('/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology', '750'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Be-Hive',
                 component: ComponentCreator('/research/papers/Be-Hive', '708'),
                 exact: true,
@@ -2619,6 +2625,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/mybee',
+                component: ComponentCreator('/research/papers/mybee', 'd6f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks',
                 component: ComponentCreator('/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks', 'c92'),
                 exact: true,
@@ -2681,6 +2693,12 @@ export default [
               {
                 path: '/research/papers/SLEAP',
                 component: ComponentCreator('/research/papers/SLEAP', '496'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis',
+                component: ComponentCreator('/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis', '075'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

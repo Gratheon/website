@@ -1761,17 +1761,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-008": {
+  "/research-d2f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-ff8": {
+  "/research-ce1": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-8a3": {
+  "/research-118": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2026,6 +2026,10 @@
     "__comp": "17896441",
     "content": "6d4e4265"
   },
+  "/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology-750": {
+    "__comp": "17896441",
+    "content": "cf92affe"
+  },
   "/research/papers/Be-Hive-708": {
     "__comp": "17896441",
     "content": "ce841b81"
@@ -2162,6 +2166,10 @@
     "__comp": "17896441",
     "content": "34853507"
   },
+  "/research/papers/mybee-d6f": {
+    "__comp": "17896441",
+    "content": "e69624d6"
+  },
   "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks-c92": {
     "__comp": "17896441",
     "content": "256fc749"
@@ -2205,6 +2213,10 @@
   "/research/papers/SLEAP-496": {
     "__comp": "17896441",
     "content": "b9d279cd"
+  },
+  "/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis-075": {
+    "__comp": "17896441",
+    "content": "5560d9cd"
   },
   "/research/papers/Solution for automated bee colony weight monitoring-20c": {
     "__comp": "17896441",

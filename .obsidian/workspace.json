@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/index.md",
+                "file": "research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Automated monitoring of bee behaviour using connectedhives Towards a computational apidology"
             }
           }
         ]
@@ -180,20 +180,34 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
-    "research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md",
-    "research/papers/pdfs/2010.14934v1.pdf",
+    "public/blog/atom.xml",
+    "public/blog/rss.xml",
+    "public/blog/atom.css",
+    "public/blog/rss.css",
+    "public/blog/rss.xsl",
+    "public/blog/atom.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
-    "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
-    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
-    "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
-    "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
-    "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
-    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
+    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
+    "public/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery/index.html",
+    "public/research/papers/wifi-exposure/index.html",
+    "public/img/windows.png",
+    "public/img/varroa.webp",
+    "public/img/undraw_docusaurus_tree.svg",
+    "public/img/undraw_docusaurus_react.svg",
+    "public/img/undraw_docusaurus_mountain.svg",
+    "public/img/temp.webp",
+    "public/img/tallinn.png",
+    "public/img/sharing.webp",
+    "public/img/sensors.webp",
+    "public/img/queens.webp",
+    "research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis.md",
+    "research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology.md",
+    "research/papers/mybee.md",
+    "research/papers/index.md",
+    "research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md",
     "research/papers/Precision Monitoring of Honey Bee.md",
     "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "research/papers/index.md",
     "research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision.md",
     "research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector.md",
     "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
@@ -201,16 +215,6 @@
     "research/Models.md",
     "research/Datasets.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "public/favicons/safari-pinned-tab.svg",
-    "public/favicons/mstile-70x70.png",
-    "public/favicons/mstile-310x310.png",
-    "public/favicons/mstile-310x150.png",
-    "public/favicons/mstile-144x144.png",
-    "public/favicons/mstile-150x150.png",
-    "public/favicons/favicon-32x32.png",
-    "public/favicons/favicon-16x16.png",
-    "public/favicons/apple-touch-icon.png",
-    "public/favicons/android-chrome-512x512.png",
     "research/index.md",
     "research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review.md",
     "research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System.md",
@@ -221,9 +225,6 @@
     "research/papers/DeepLabCut.md",
     "research/papers/SLEAP.md",
     "pdfs/s41592-022-01426-1.pdf.md",
-    "research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species.md",
-    "research/papers/Be-Hive.md",
-    "research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring.md",
-    "research/papers/Approximation of functions.md"
+    "research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species.md"
   ]
 }

@@ -1849,6 +1849,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology",
+              "path": "/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Be-Hive",
               "path": "/research/papers/Be-Hive",
               "sidebar": "researchSidebar"
@@ -2024,6 +2029,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/mybee",
+              "path": "/research/papers/mybee",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
               "path": "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks",
               "sidebar": "researchSidebar"
@@ -2076,6 +2086,11 @@
             {
               "id": "papers/SLEAP",
               "path": "/research/papers/SLEAP",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Smart Beehive Monitoring for Remote Regions - PhD thesis",
+              "path": "/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis",
               "sidebar": "researchSidebar"
             },
             {
