@@ -11,10 +11,14 @@
             "id": "f7c71ecd12135fae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "research/Datasets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Datasets"
             }
           }
         ]
