@@ -2026,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'b21'),
+    component: ComponentCreator('/research', '008'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'a7a'),
+        component: ComponentCreator('/research', 'ff8'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'e8e'),
+            component: ComponentCreator('/research', '8a3'),
             routes: [
               {
                 path: '/research/',
@@ -2391,6 +2391,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System',
+                component: ComponentCreator('/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System', 'a7a'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network',
                 component: ComponentCreator('/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network', '178'),
                 exact: true,
@@ -2451,6 +2457,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures',
+                component: ComponentCreator('/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures', 'a72'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives',
                 component: ComponentCreator('/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives', '659'),
                 exact: true,
@@ -2489,6 +2501,12 @@ export default [
               {
                 path: '/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period',
                 component: ComponentCreator('/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period', '67b'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem',
+                component: ComponentCreator('/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem', 'ced'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2619,8 +2637,26 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision',
+                component: ComponentCreator('/research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision', '74c'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies',
                 component: ComponentCreator('/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies', '97c'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector',
+                component: ComponentCreator('/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector', 'c61'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Precision Monitoring of Honey Bee',
+                component: ComponentCreator('/research/papers/Precision Monitoring of Honey Bee', '66e'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

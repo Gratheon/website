@@ -1,0 +1,30 @@
+{
+  "id": "papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+  "title": "Precision Beekeeping Systems: State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+  "description": "PDF",
+  "source": "@site/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+  "permalink": "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2023",
+    "orgs": [
+      "🇮🇹  University of Tuscia",
+      "🇮🇹 University of Napoli Federico II"
+    ],
+    "title": "Precision Beekeeping Systems: State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+    "permalink": "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies"
+  },
+  "next": {
+    "title": "Precision Monitoring of Honey Bee (Hymenoptera: Apidae) Activity and Pollen Diversity during Pollination to EvaluateColony Health",
+    "permalink": "/research/papers/Precision Monitoring of Honey Bee"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "papers/Precision Monitoring of Honey Bee",
+  "title": "Precision Monitoring of Honey Bee (Hymenoptera: Apidae) Activity and Pollen Diversity during Pollination to EvaluateColony Health",
+  "description": "PDF",
+  "source": "@site/research/papers/Precision Monitoring of Honey Bee.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Precision Monitoring of Honey Bee",
+  "permalink": "/research/papers/Precision Monitoring of Honey Bee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Precision Monitoring of Honey Bee (Hymenoptera: Apidae) Activity and Pollen Diversity during Pollination to EvaluateColony Health",
+    "year": "2023",
+    "orgs": [
+      "🇦🇺 La Trobe University"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Precision Beekeeping Systems: State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+    "permalink": "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector"
+  },
+  "next": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+  }
+}

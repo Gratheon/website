@@ -1829,6 +1829,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Analysis of Energy Consumption in a Precision Beekeeping System",
+              "path": "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
               "path": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
               "sidebar": "researchSidebar"
@@ -1879,6 +1884,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+              "path": "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
               "path": "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
               "sidebar": "researchSidebar"
@@ -1911,6 +1921,11 @@
             {
               "id": "papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period",
               "path": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+              "path": "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
               "sidebar": "researchSidebar"
             },
             {
@@ -2024,8 +2039,23 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision",
+              "path": "/research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
               "path": "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+              "path": "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Precision Monitoring of Honey Bee",
+              "path": "/research/papers/Precision Monitoring of Honey Bee",
               "sidebar": "researchSidebar"
             },
             {

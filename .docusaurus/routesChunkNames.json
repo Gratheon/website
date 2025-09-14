@@ -1761,17 +1761,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-b21": {
+  "/research-008": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-a7a": {
+  "/research-ff8": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-e8e": {
+  "/research-8a3": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2010,6 +2010,10 @@
     "__comp": "17896441",
     "content": "156a796a"
   },
+  "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System-a7a": {
+    "__comp": "17896441",
+    "content": "89349b07"
+  },
   "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network-178": {
     "__comp": "17896441",
     "content": "fae4e331"
@@ -2050,6 +2054,10 @@
     "__comp": "17896441",
     "content": "fc988f9c"
   },
+  "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures-a72": {
+    "__comp": "17896441",
+    "content": "7bc333c1"
+  },
   "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives-659": {
     "__comp": "17896441",
     "content": "74d8865e"
@@ -2077,6 +2085,10 @@
   "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period-67b": {
     "__comp": "17896441",
     "content": "248229b2"
+  },
+  "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem-ced": {
+    "__comp": "17896441",
+    "content": "74525efa"
   },
   "/research/papers/Honey bees modify plantpollinator network structure-994": {
     "__comp": "17896441",
@@ -2162,9 +2174,21 @@
     "__comp": "17896441",
     "content": "d01e767a"
   },
+  "/research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision-74c": {
+    "__comp": "17896441",
+    "content": "97bd00ee"
+  },
   "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies-97c": {
     "__comp": "17896441",
     "content": "a20a3210"
+  },
+  "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector-c61": {
+    "__comp": "17896441",
+    "content": "d14d6e2a"
+  },
+  "/research/papers/Precision Monitoring of Honey Bee-66e": {
+    "__comp": "17896441",
+    "content": "64a7cbee"
   },
   "/research/papers/Raspberry Pi Bee Health Monitoring Device-81a": {
     "__comp": "17896441",

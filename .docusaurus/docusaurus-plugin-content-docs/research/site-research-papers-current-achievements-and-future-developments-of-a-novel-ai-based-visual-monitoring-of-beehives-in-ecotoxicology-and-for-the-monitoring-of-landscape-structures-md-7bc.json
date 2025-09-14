@@ -1,0 +1,23 @@
+{
+  "id": "papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+  "title": "Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+  "description": "PDF",
+  "source": "@site/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+  "permalink": "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia",
+    "permalink": "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia"
+  },
+  "next": {
+    "title": "Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+    "permalink": "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives"
+  }
+}

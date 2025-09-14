@@ -1,0 +1,30 @@
+{
+  "id": "papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+  "title": "HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+  "description": "PDF",
+  "source": "@site/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+  "permalink": "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇮🇳 St. Joseph Engineering College",
+      "🇮🇳 Canara Engineering College"
+    ],
+    "title": "HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+    "year": "2023"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Evaluation of the honey bee colonies weight gain during theintensive foraging period",
+    "permalink": "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period"
+  },
+  "next": {
+    "title": "Honey bees modify plantpollinator network structure",
+    "permalink": "/research/papers/Honey bees modify plantpollinator network structure"
+  }
+}

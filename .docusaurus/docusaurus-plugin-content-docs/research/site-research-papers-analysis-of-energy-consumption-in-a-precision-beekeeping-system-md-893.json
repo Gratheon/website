@@ -1,0 +1,25 @@
+{
+  "id": "papers/Analysis of Energy Consumption in a Precision Beekeeping System",
+  "title": "Analysis of Energy Consumption in a Precision Beekeeping System",
+  "description": "PDF",
+  "source": "@site/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Analysis of Energy Consumption in a Precision Beekeeping System",
+  "permalink": "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2020"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+    "permalink": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
+  },
+  "next": {
+    "title": "Apis mellifera Bee Verification with IoT and Graph Neural Network",
+    "permalink": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network"
+  }
+}
