@@ -2026,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'aba'),
+    component: ComponentCreator('/research', 'b21'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'f29'),
+        component: ComponentCreator('/research', 'a7a'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '8aa'),
+            component: ComponentCreator('/research', 'e8e'),
             routes: [
               {
                 path: '/research/',
@@ -2309,6 +2309,12 @@ export default [
               {
                 path: '/research/Hacker projects',
                 component: ComponentCreator('/research/Hacker projects', '16f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/Models',
+                component: ComponentCreator('/research/Models', 'a87'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

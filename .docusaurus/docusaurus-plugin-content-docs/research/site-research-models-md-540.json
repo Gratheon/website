@@ -1,0 +1,19 @@
+{
+  "id": "Models",
+  "title": "Models",
+  "description": "Some of the models that we trained",
+  "source": "@site/research/Models.md",
+  "sourceDirName": ".",
+  "slug": "/Models",
+  "permalink": "/research/Models",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "🇺🇸 HiveGenie",
+    "permalink": "/research/Competition/🇺🇸 HiveGenie"
+  }
+}

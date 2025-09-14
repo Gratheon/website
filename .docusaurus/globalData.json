@@ -1769,6 +1769,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Models",
+              "path": "/research/Models",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
               "path": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
               "sidebar": "researchSidebar"
