@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
+                "file": "research/papers/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures"
+              "title": "index"
             }
           }
         ]
@@ -178,11 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision.md",
+    "research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector.md",
+    "research/papers/pdfs/animals-14-00070.pdf",
+    "research/papers/pdfs/Tausch_Pollinators_as_Data_Collectors_Estimating_Floral_Diversity_with_Bees_and_ICCVW_2023_paper.pdf",
+    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
     "research/papers/2020.02.04.933580v1.full.pdf",
     "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
-    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
     "research/papers/pdfs/2309.12054v1.pdf",
     "research/Models.md",
     "research/img/bee-pose-model.mov",
@@ -193,9 +197,6 @@
     "public/blog/atom.css",
     "public/blog/rss.xml",
     "public/blog/atom.xsl",
-    "public/blog/rss.css",
-    "public/blog/rss.xsl",
-    "public/sitemap.xml",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
@@ -223,8 +224,6 @@
     "research/papers/Approximation of functions.md",
     "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
     "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
-    "research/papers/Solution for automated bee colony weight monitoring.md",
-    "docs/robotic-beehive/robotic-beehive.md",
-    "docs/entrance-observer/Bill of materials.md"
+    "research/papers/Solution for automated bee colony weight monitoring.md"
   ]
 }
