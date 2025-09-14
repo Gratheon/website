@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
+                "file": "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HiveLink – IoT based Smart Bee Hive MonitoringSystem"
+              "title": "Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures"
             }
           }
         ]
@@ -180,9 +180,11 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/papers/2020.02.04.933580v1.full.pdf",
+    "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
+    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
     "research/papers/pdfs/2309.12054v1.pdf",
     "research/Models.md",
-    "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
     "research/img/bee-pose-model.mov",
     "research/img/testDLC_Resnet50_GratheonBeePoseSep13shuffle1_snapshot_best-170_el_bp_p60_labeled.mp4",
     "research/Datasets.md",
@@ -194,7 +196,6 @@
     "public/blog/rss.css",
     "public/blog/rss.xsl",
     "public/sitemap.xml",
-    "public/index.html",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
@@ -224,7 +225,6 @@
     "research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression.md",
     "research/papers/Solution for automated bee colony weight monitoring.md",
     "docs/robotic-beehive/robotic-beehive.md",
-    "docs/entrance-observer/Bill of materials.md",
-    "docs/entrance-observer/entrance-observer.md"
+    "docs/entrance-observer/Bill of materials.md"
   ]
 }
