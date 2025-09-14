@@ -180,8 +180,10 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
-    "research/Datasets.md",
+    "research/img/testDLC_Resnet50_GratheonBeePoseSep13shuffle1_snapshot_best-170_el_bp_p60_labeled.mp4",
     "research/Models.md",
+    "research/img/bee-pose-model.mov",
+    "research/Datasets.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
     "public/blog/atom.xml",
     "public/blog/atom.css",
@@ -191,8 +193,6 @@
     "public/blog/rss.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/wifi-exposure/index.html",
-    "public/research/papers/wifi-exposure",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
@@ -224,7 +224,6 @@
     "docs/robotic-beehive/robotic-beehive.md",
     "docs/entrance-observer/Bill of materials.md",
     "docs/entrance-observer/entrance-observer.md",
-    "docs/beehive-sensors/3d model.md",
-    "docs/beehive-sensors/beehive-sensors.md"
+    "docs/beehive-sensors/3d model.md"
   ]
 }
