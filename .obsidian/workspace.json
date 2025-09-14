@@ -178,8 +178,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7c71ecd12135fae",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "research/papers/pdfs/2309.12054v1.pdf",
     "research/Models.md",
     "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
     "research/img/bee-pose-model.mov",
@@ -224,7 +225,6 @@
     "research/papers/Solution for automated bee colony weight monitoring.md",
     "docs/robotic-beehive/robotic-beehive.md",
     "docs/entrance-observer/Bill of materials.md",
-    "docs/entrance-observer/entrance-observer.md",
-    "docs/beehive-sensors/3d model.md"
+    "docs/entrance-observer/entrance-observer.md"
   ]
 }
