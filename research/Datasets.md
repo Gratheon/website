@@ -84,6 +84,10 @@ Camera placed on **second** hive section (closer), changed zoom, removed glass a
 	- 11:30 - 17:00
 - September 11th
 	- rainy day, very little activity
+- September 13th
+	- rainy day
+- September 14th
+	- cloudy day
 
 ![](img/Screenshot%202025-09-10%20at%2009.11.23.png)
 
