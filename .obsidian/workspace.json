@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies.md",
+                "file": "research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies"
+              "title": "The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia"
             }
           },
           {
@@ -194,6 +194,14 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "research/papers/img/607_agris-on-line-1-2024-kanovska.pdf",
+    "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
+    "research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia.md",
+    "research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol.md",
+    "research/papers/Approximation of functions.md",
+    "research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology.md",
+    "research/papers/pdfs/peerj-cs-09-1363.pdf",
+    "research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies.md",
     "research/papers/index.md",
     "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
     "research/papers/Be-Hive.md",
@@ -215,10 +223,8 @@
     "research/papers/pdfs/sensors-21-03522.pdf",
     "research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking.md",
     "research/papers/pdfs/elife-61909-v3.pdf",
-    "research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
-    "public/blog/atom.css",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -233,12 +239,6 @@
     "research/papers/mybee.md",
     "research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md",
     "research/papers/Precision Monitoring of Honey Bee.md",
-    "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
-    "research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision.md",
-    "research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector.md",
-    "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
-    "research/Models.md",
-    "research/Datasets.md",
-    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md"
+    "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md"
   ]
 }
