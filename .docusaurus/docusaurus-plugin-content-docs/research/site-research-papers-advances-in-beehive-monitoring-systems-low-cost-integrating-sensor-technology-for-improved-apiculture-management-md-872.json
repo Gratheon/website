@@ -1,0 +1,32 @@
+{
+  "id": "papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management",
+  "title": "Advances in Beehive Monitoring Systems: Low-Cost Integrating Sensor Technology forImproved Apiculture Management",
+  "description": "PDF",
+  "source": "@site/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management",
+  "permalink": "/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Advances in Beehive Monitoring Systems: Low-Cost Integrating Sensor Technology forImproved Apiculture Management",
+    "year": "2024",
+    "orgs": [
+      "🇷🇴 Research and Development Institute for Wildlife and Mountain Resources Miercurea Ciuc",
+      "🇷🇴 Sapientia Hungarian University of Transylvania",
+      "🇷🇴 National Institute for Research and Development in Environmental Protection",
+      "🇷🇴 National Institute for Research and Development in Forestry \"Marin Dracea\""
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Accuracy vs. Energy: An Assessment of Bee Object Inference inVideos from On-Hive Video Loggers with YOLOv3,YOLOv4-Tiny, and YOLOv7-Tiny",
+    "permalink": "/research/papers/Accuracy vs. Energy"
+  },
+  "next": {
+    "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+    "permalink": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
+  }
+}

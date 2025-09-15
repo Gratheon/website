@@ -2026,15 +2026,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'd2f'),
+    component: ComponentCreator('/research', '5dd'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'ce1'),
+        component: ComponentCreator('/research', '774'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '118'),
+            component: ComponentCreator('/research', '532'),
             routes: [
               {
                 path: '/research/',
@@ -2385,6 +2385,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management',
+                component: ComponentCreator('/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management', '46c'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
                 component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '393'),
                 exact: true,
@@ -2415,14 +2421,20 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology',
-                component: ComponentCreator('/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology', '750'),
+                path: '/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology',
+                component: ComponentCreator('/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology', '1ac'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
               {
                 path: '/research/papers/Be-Hive',
                 component: ComponentCreator('/research/papers/Be-Hive', '708'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol',
+                component: ComponentCreator('/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol', '701'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2487,6 +2499,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket',
+                component: ComponentCreator('/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket', 'd8c'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/DeepPoseKit',
                 component: ComponentCreator('/research/papers/DeepPoseKit', 'ffb'),
                 exact: true,
@@ -2513,6 +2531,12 @@ export default [
               {
                 path: '/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem',
                 component: ComponentCreator('/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem', 'ced'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Honey Bee Colonies Remote Monitoring System',
+                component: ComponentCreator('/research/papers/Honey Bee Colonies Remote Monitoring System', '5ad'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2565,8 +2589,14 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon',
-                component: ComponentCreator('/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon', '1b8'),
+                path: '/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis',
+                component: ComponentCreator('/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis', 'a4f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Internet of Things Smart Beehive Network',
+                component: ComponentCreator('/research/papers/Internet of Things Smart Beehive Network', '972'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2655,8 +2685,8 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
-                path: '/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies',
-                component: ComponentCreator('/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies', '97c'),
+                path: '/research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies',
+                component: ComponentCreator('/research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies', '245'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2679,6 +2709,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking',
+                component: ComponentCreator('/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking', 'db6'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Reception and learning of electric fields in bees',
                 component: ComponentCreator('/research/papers/Reception and learning of electric fields in bees', 'bce'),
                 exact: true,
@@ -2687,6 +2723,12 @@ export default [
               {
                 path: '/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network',
                 component: ComponentCreator('/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network', 'cec'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)',
+                component: ComponentCreator('/research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)', '69c'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2717,6 +2759,12 @@ export default [
               {
                 path: '/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra',
                 component: ComponentCreator('/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra', '36f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia',
+                component: ComponentCreator('/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia', '071'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

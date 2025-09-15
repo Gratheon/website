@@ -1761,17 +1761,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-d2f": {
+  "/research-5dd": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-ce1": {
+  "/research-774": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-118": {
+  "/research-532": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2006,6 +2006,10 @@
     "__comp": "17896441",
     "content": "6d6ee4d4"
   },
+  "/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management-46c": {
+    "__comp": "17896441",
+    "content": "8725d865"
+  },
   "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-393": {
     "__comp": "17896441",
     "content": "156a796a"
@@ -2026,13 +2030,17 @@
     "__comp": "17896441",
     "content": "6d4e4265"
   },
-  "/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology-750": {
+  "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology-1ac": {
     "__comp": "17896441",
-    "content": "cf92affe"
+    "content": "bac8523f"
   },
   "/research/papers/Be-Hive-708": {
     "__comp": "17896441",
     "content": "ce841b81"
+  },
+  "/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol-701": {
+    "__comp": "17896441",
+    "content": "4c697f28"
   },
   "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring-348": {
     "__comp": "17896441",
@@ -2074,6 +2082,10 @@
     "__comp": "17896441",
     "content": "ae8e9146"
   },
+  "/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket-d8c": {
+    "__comp": "17896441",
+    "content": "dc71b375"
+  },
   "/research/papers/DeepPoseKit-ffb": {
     "__comp": "17896441",
     "content": "1defab88"
@@ -2093,6 +2105,10 @@
   "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem-ced": {
     "__comp": "17896441",
     "content": "74525efa"
+  },
+  "/research/papers/Honey Bee Colonies Remote Monitoring System-5ad": {
+    "__comp": "17896441",
+    "content": "16ba4118"
   },
   "/research/papers/Honey bees modify plantpollinator network structure-994": {
     "__comp": "17896441",
@@ -2126,9 +2142,13 @@
     "__comp": "17896441",
     "content": "72899757"
   },
-  "/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon-1b8": {
+  "/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis-a4f": {
     "__comp": "17896441",
-    "content": "60d0b7c3"
+    "content": "1bdd54c0"
+  },
+  "/research/papers/Internet of Things Smart Beehive Network-972": {
+    "__comp": "17896441",
+    "content": "9aa4a750"
   },
   "/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review-db7": {
     "__comp": "17896441",
@@ -2186,9 +2206,9 @@
     "__comp": "17896441",
     "content": "97bd00ee"
   },
-  "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies-97c": {
+  "/research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies-245": {
     "__comp": "17896441",
-    "content": "a20a3210"
+    "content": "686309ac"
   },
   "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector-c61": {
     "__comp": "17896441",
@@ -2202,6 +2222,10 @@
     "__comp": "17896441",
     "content": "515d2376"
   },
+  "/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking-db6": {
+    "__comp": "17896441",
+    "content": "48e370cc"
+  },
   "/research/papers/Reception and learning of electric fields in bees-bce": {
     "__comp": "17896441",
     "content": "32e162ae"
@@ -2209,6 +2233,10 @@
   "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network-cec": {
     "__comp": "17896441",
     "content": "6828c38e"
+  },
+  "/research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)-69c": {
+    "__comp": "17896441",
+    "content": "aa4df431"
   },
   "/research/papers/SLEAP-496": {
     "__comp": "17896441",
@@ -2229,6 +2257,10 @@
   "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra-36f": {
     "__comp": "17896441",
     "content": "d72d10d2"
+  },
+  "/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia-071": {
+    "__comp": "17896441",
+    "content": "97724c74"
   },
   "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services-a0f": {
     "__comp": "17896441",

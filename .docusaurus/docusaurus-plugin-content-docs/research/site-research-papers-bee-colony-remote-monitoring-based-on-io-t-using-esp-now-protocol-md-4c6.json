@@ -1,0 +1,29 @@
+{
+  "id": "papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+  "title": "Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+  "description": "PDF",
+  "source": "@site/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+  "permalink": "/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+    "year": "2023",
+    "orgs": [
+      "🇱🇻 Latvia University of Life Sciences and Technologies"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Bee Together: Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
+    "permalink": "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring"
+  },
+  "next": {
+    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
+    "permalink": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
+  }
+}

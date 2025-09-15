@@ -10,7 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "year": "2020"
+  },
   "sidebar": "researchSidebar",
   "previous": {
     "title": "Comparing weight dynamics between urban and rural honeybee colonies in Latvia",

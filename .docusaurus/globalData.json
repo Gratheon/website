@@ -1824,6 +1824,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management",
+              "path": "/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "sidebar": "researchSidebar"
@@ -1849,13 +1854,18 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology",
-              "path": "/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology",
+              "id": "papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology",
+              "path": "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology",
               "sidebar": "researchSidebar"
             },
             {
               "id": "papers/Be-Hive",
               "path": "/research/papers/Be-Hive",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+              "path": "/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol",
               "sidebar": "researchSidebar"
             },
             {
@@ -1909,6 +1919,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/DeepLabCut-based daily behavioural and posture analysis in a cricket",
+              "path": "/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/DeepPoseKit",
               "path": "/research/papers/DeepPoseKit",
               "sidebar": "researchSidebar"
@@ -1931,6 +1946,11 @@
             {
               "id": "papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
               "path": "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Honey Bee Colonies Remote Monitoring System",
+              "path": "/research/papers/Honey Bee Colonies Remote Monitoring System",
               "sidebar": "researchSidebar"
             },
             {
@@ -1979,8 +1999,13 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
-              "path": "/research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+              "id": "papers/Intelligent beehive monitoring system based on internet of things and colony state analysis",
+              "path": "/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Internet of Things Smart Beehive Network",
+              "path": "/research/papers/Internet of Things Smart Beehive Network",
               "sidebar": "researchSidebar"
             },
             {
@@ -2054,8 +2079,8 @@
               "sidebar": "researchSidebar"
             },
             {
-              "id": "papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
-              "path": "/research/papers/Precision Apiculture – IoT System for RemoteMonitoring of Honeybee Colonies",
+              "id": "papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies",
+              "path": "/research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies",
               "sidebar": "researchSidebar"
             },
             {
@@ -2074,6 +2099,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Real-time, low-latency closed-loop feedback using markerless posture tracking",
+              "path": "/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Reception and learning of electric fields in bees",
               "path": "/research/papers/Reception and learning of electric fields in bees",
               "sidebar": "researchSidebar"
@@ -2081,6 +2111,11 @@
             {
               "id": "papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
               "path": "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)",
+              "path": "/research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)",
               "sidebar": "researchSidebar"
             },
             {
@@ -2106,6 +2141,11 @@
             {
               "id": "papers/The prediction of swarming in honeybee colonies using vibrational spectra",
               "path": "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
+              "path": "/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
               "sidebar": "researchSidebar"
             },
             {

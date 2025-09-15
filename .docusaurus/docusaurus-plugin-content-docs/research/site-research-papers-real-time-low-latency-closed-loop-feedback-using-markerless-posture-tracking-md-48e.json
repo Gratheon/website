@@ -1,0 +1,31 @@
+{
+  "id": "papers/Real-time, low-latency closed-loop feedback using markerless posture tracking",
+  "title": "Real-time, low-latency closed-loop feedback using markerless posture tracking",
+  "description": "",
+  "source": "@site/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking",
+  "permalink": "/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇺🇸 Harvard University",
+      "🇬🇧 NeuroGEARS Ltd",
+      "🇺🇸 University of Oregon",
+      "🇨🇭 Swiss Federal Institute of Technology"
+    ],
+    "year": "2020"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Raspberry Pi Bee Health Monitoring Device",
+    "permalink": "/research/papers/Raspberry Pi Bee Health Monitoring Device"
+  },
+  "next": {
+    "title": "Reception and learning of electric fields in bees",
+    "permalink": "/research/papers/Reception and learning of electric fields in bees"
+  }
+}

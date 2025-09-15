@@ -16,12 +16,13 @@
       "🇨🇾 CYENS Centre of Excellence",
       "🇨🇾 Cyprus University of Technology",
       "🇳🇱 University of Twente"
-    ]
+    ],
+    "year": "2023"
   },
   "sidebar": "researchSidebar",
   "previous": {
-    "title": "Automated monitoring of bee behaviour using connectedhives Towards a computational apidology",
-    "permalink": "/research/papers/Automated monitoring of bee behaviour using connectedhives Towards a computational apidology"
+    "title": "Automated monitoring of bee behaviour using connected hives Towards a computational apidology",
+    "permalink": "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology"
   },
   "next": {
     "title": "Bee Together: Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",

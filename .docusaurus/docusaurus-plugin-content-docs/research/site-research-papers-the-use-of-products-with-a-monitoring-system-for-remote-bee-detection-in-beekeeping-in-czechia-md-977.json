@@ -1,0 +1,28 @@
+{
+  "id": "papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
+  "title": "The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
+  "description": "PDF",
+  "source": "@site/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
+  "permalink": "/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2024",
+    "orgs": [
+      "🇨🇿 Brno University of Technology"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "permalink": "/research/papers/Solution for automated bee colony weight monitoring"
+  },
+  "next": {
+    "title": "The development of honey bee coloniesassessed using a new semi-automated broodcounting method: CombCount",
+    "permalink": "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount"
+  }
+}

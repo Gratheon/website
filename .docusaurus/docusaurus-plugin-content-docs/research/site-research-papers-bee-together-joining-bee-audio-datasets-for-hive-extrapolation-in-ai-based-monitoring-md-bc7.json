@@ -1,7 +1,7 @@
 {
   "id": "papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
   "title": "Bee Together: Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
-  "description": "",
+  "description": "PDF",
   "source": "@site/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
   "sourceDirName": "papers",
   "slug": "/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring",
@@ -21,7 +21,7 @@
     "permalink": "/research/papers/Be-Hive"
   },
   "next": {
-    "title": "BeeNet: An End-To-End Deep Network For Bee Surveillance",
-    "permalink": "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance"
+    "title": "Bee colony remote monitoring based on IoT using ESP-NOW protocol",
+    "permalink": "/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol"
   }
 }

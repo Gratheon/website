@@ -1,0 +1,31 @@
+{
+  "id": "papers/Intelligent beehive monitoring system based on internet of things and colony state analysis",
+  "title": "Intelligent beehive monitoring system based on internet of things and colony state analysis",
+  "description": "PDF",
+  "source": "@site/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis",
+  "permalink": "/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": [
+      "🇲🇾 Universiti Teknologi MARA",
+      "🇨🇳 Peking University Shenzhen Graduate School",
+      "🇨🇳 Xiamen University",
+      "🇨🇳 Fujian Agriculture And Forestry University",
+      "🇨🇳 Quanzhou University of Information Engineering"
+    ]
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Integration of Scales and Cameras in Nondisruptive ElectronicBeehive Monitoring: On the Within-Day Relationship of HiveWeight and Traffic in Honeybee (Apis mellifera) Colonies in Langstroth Hives in Tucson, Arizona, USA",
+    "permalink": "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring"
+  },
+  "next": {
+    "title": "Internet of Things Smart Beehive Network: Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon",
+    "permalink": "/research/papers/Internet of Things Smart Beehive Network"
+  }
+}

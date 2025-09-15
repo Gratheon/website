@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/Research.md",
+                "file": "research/papers/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Research"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -170,13 +170,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,37 +192,17 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
-    "research/papers/Honey Bee Colonies Remote Monitoring System.md",
-    "research/papers/sensors-17-00055-v2.pdf",
-    "research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia.md",
-    "research/papers/pdfs/607_agris-on-line-1-2024-kanovska.pdf",
-    "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
-    "research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol.md",
-    "research/papers/Approximation of functions.md",
-    "research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology.md",
-    "research/papers/pdfs/peerj-cs-09-1363.pdf",
-    "research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies.md",
-    "research/papers/index.md",
-    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
-    "research/papers/Be-Hive.md",
-    "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
-    "research/papers/DeepLabCut.md",
-    "research/papers/pdfs/bio060237.pdf",
-    "research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
-    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
-    "research/papers/Importance of GIS solutions for beekeepers a review.md",
-    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
-    "research/papers/pdfs/1-s2.0-S2772375524001898-main.pdf",
-    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
-    "research/papers/pdfs/Advances_in_Beehive_Monitoring_Systems_Low-Cost_In.pdf",
-    "research/papers/Internet of Things Smart Beehive Network.md",
-    "research/papers/pdfs/inventions-10-00023 1.pdf",
-    "research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS).md",
-    "research/papers/pdfs/d46003ac1becad5b45d295a13af5e597f59d.pdf",
-    "research/papers/SLEAP.md",
-    "research/papers/pdfs/sensors-21-03522.pdf",
-    "research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking.md",
-    "research/papers/pdfs/elife-61909-v3.pdf",
+    "public/sitemap.xml",
+    "public/index.html",
+    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
+    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
+    "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
+    "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
+    "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
+    "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
+    "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
+    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
+    "public/research/papers/wifi-exposure/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -234,10 +212,31 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/queens.webp",
+    "public/img/robot.jpeg",
+    "research/papers/Internet of Things Smart Beehive Network.md",
+    "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
+    "research/papers/index.md",
+    "research/papers/Honey Bee Colonies Remote Monitoring System.md",
+    "research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia.md",
+    "research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring.md",
+    "research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol.md",
+    "research/papers/Approximation of functions.md",
+    "research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology.md",
+    "research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies.md",
+    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
+    "research/papers/Be-Hive.md",
+    "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
+    "research/papers/DeepLabCut.md",
+    "research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
+    "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
+    "research/papers/Importance of GIS solutions for beekeepers a review.md",
+    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
+    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
+    "research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS).md",
+    "research/papers/SLEAP.md",
+    "research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking.md",
     "research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis.md",
     "research/papers/mybee.md",
-    "research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md",
-    "research/papers/Precision Monitoring of Honey Bee.md"
+    "research/papers/Analysis of Energy Consumption in a Precision Beekeeping System.md"
   ]
 }

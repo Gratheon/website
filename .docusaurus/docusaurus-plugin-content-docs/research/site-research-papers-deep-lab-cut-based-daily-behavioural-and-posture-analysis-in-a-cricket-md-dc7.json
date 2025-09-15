@@ -1,0 +1,23 @@
+{
+  "id": "papers/DeepLabCut-based daily behavioural and posture analysis in a cricket",
+  "title": "DeepLabCut-based daily behavioural and posture analysis in a cricket",
+  "description": "PDF",
+  "source": "@site/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket",
+  "permalink": "/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression",
+    "permalink": "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression"
+  },
+  "next": {
+    "title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+    "permalink": "/research/papers/DeepLabCut"
+  }
+}
