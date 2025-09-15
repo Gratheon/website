@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
+                "file": "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management"
+              "title": "DeepLabCut-based daily behavioural and posture analysis in a cricket"
             }
           }
         ]
@@ -180,13 +180,17 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "research/papers/pdfs/Advances_in_Beehive_Monitoring_Systems_Low-Cost_In.pdf",
-    "research/papers/Internet of Things Smart Beehive Network.md",
-    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
-    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
+    "research/papers/pdfs/bio060237.pdf",
+    "research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
+    "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
     "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
     "research/papers/Importance of GIS solutions for beekeepers a review.md",
     "research/papers/index.md",
+    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
+    "research/papers/pdfs/1-s2.0-S2772375524001898-main.pdf",
+    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
+    "research/papers/pdfs/Advances_in_Beehive_Monitoring_Systems_Low-Cost_In.pdf",
+    "research/papers/Internet of Things Smart Beehive Network.md",
     "research/papers/pdfs/inventions-10-00023 1.pdf",
     "research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS).md",
     "research/papers/pdfs/d46003ac1becad5b45d295a13af5e597f59d.pdf",
@@ -199,8 +203,6 @@
     "public/blog/rss.xml",
     "public/blog/atom.css",
     "public/blog/rss.css",
-    "public/blog/rss.xsl",
-    "public/blog/atom.xsl",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -223,8 +225,6 @@
     "research/Models.md",
     "research/Datasets.md",
     "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "research/index.md",
-    "research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review.md",
-    "research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System.md"
+    "research/index.md"
   ]
 }
