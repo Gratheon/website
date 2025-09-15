@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
+                "file": "research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepLabCut-based daily behavioural and posture analysis in a cricket"
+              "title": "Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies"
+            }
+          },
+          {
+            "id": "fae99987258fce1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "research/papers/Be-Hive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Be-Hive"
             }
           }
         ]
@@ -178,14 +192,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "research/papers/index.md",
+    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
+    "research/papers/Be-Hive.md",
+    "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
+    "research/papers/DeepLabCut.md",
     "research/papers/pdfs/bio060237.pdf",
     "research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
-    "research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket.md",
     "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
     "research/papers/Importance of GIS solutions for beekeepers a review.md",
-    "research/papers/index.md",
     "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
     "research/papers/pdfs/1-s2.0-S2772375524001898-main.pdf",
     "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
@@ -202,7 +219,6 @@
     "public/blog/atom.xml",
     "public/blog/rss.xml",
     "public/blog/atom.css",
-    "public/blog/rss.css",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -220,11 +236,9 @@
     "research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance.md",
     "research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision.md",
     "research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector.md",
-    "research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures.md",
     "research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem.md",
     "research/Models.md",
     "research/Datasets.md",
-    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md",
-    "research/index.md"
+    "research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive.md"
   ]
 }

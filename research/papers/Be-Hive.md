@@ -4,6 +4,7 @@ orgs:
   - 🇨🇾 CYENS Centre of Excellence
   - 🇨🇾 Cyprus University of Technology
   - 🇳🇱 University of Twente
+year: "2023"
 ---
 [PDF](pdfs/IntelliSYS_Beehive_CAMERAREADY.pdf)
 
