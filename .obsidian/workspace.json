@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/robotic_beehive/ideas/Untitled.md",
+                "file": "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "🦀 Hive bottom scanning"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/products/robotic_beehive/ideas/Untitled.md",
+                "file": "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 🦀 Hive bottom scanning"
             }
           },
           {
@@ -192,8 +192,10 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "about/products/robotic_beehive/ideas/img/Screenshot 2025-09-16 at 16.47.44.png",
+    "about/products/robotic_beehive/ideas/img",
     "about/company/Team/Merchandise.md",
-    "about/products/robotic_beehive/ideas/Untitled.md",
+    "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
     "about/company/Team/index.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
@@ -208,7 +210,6 @@
     "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
     "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
     "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
-    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -236,7 +237,6 @@
     "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
     "research/papers/Importance of GIS solutions for beekeepers a review.md",
     "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
-    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md",
-    "research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS).md"
+    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md"
   ]
 }
