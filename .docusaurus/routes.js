@@ -2032,15 +2032,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'bdb'),
+    component: ComponentCreator('/research', '450'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '4c4'),
+        component: ComponentCreator('/research', 'a58'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'a32'),
+            component: ComponentCreator('/research', 'c16'),
             routes: [
               {
                 path: '/research/',
@@ -2331,6 +2331,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies',
+                component: ComponentCreator('/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies', '3a2'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance',
                 component: ComponentCreator('/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance', 'd33'),
                 exact: true,
@@ -2355,6 +2361,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives',
+                component: ComponentCreator('/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives', '1e7'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives',
                 component: ComponentCreator('/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives', '155'),
                 exact: true,
@@ -2363,6 +2375,12 @@ export default [
               {
                 path: '/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video',
                 component: ComponentCreator('/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video', 'fb1'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/⭐️ Markerless tracking of an entire honey bee colony',
+                component: ComponentCreator('/research/papers/⭐️ Markerless tracking of an entire honey bee colony', '852'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2399,12 +2417,6 @@ export default [
               {
                 path: '/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
                 component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '393'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies',
-                component: ComponentCreator('/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies', '0db'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2489,12 +2501,6 @@ export default [
               {
                 path: '/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures',
                 component: ComponentCreator('/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures', 'a72'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives',
-                component: ComponentCreator('/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives', '659'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2639,12 +2645,6 @@ export default [
               {
                 path: '/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services',
                 component: ComponentCreator('/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services', '713'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/papers/Markerless tracking of an entire honey bee colony',
-                component: ComponentCreator('/research/papers/Markerless tracking of an entire honey bee colony', 'd97'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

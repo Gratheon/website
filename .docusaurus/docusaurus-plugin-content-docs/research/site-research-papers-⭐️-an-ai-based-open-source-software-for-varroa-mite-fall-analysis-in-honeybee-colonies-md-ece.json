@@ -1,0 +1,28 @@
+{
+  "id": "papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "title": "⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "description": "PDF",
+  "source": "@site/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "permalink": "/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": "🇪🇸 University of Zaragoza 🇪🇸 University of La Rioja 🇪🇸 University of Valencia",
+    "year": "2025",
+    "title": "⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Defined exposure of honey bee colonies to simulated radiofrequency electromagnetic fields (RF-EMF): Negative effects on the homing ability, butn ot on brood development or longevity",
+    "permalink": "/research/papers/wifi-exposure"
+  },
+  "next": {
+    "title": "Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
+    "permalink": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance"
+  }
+}

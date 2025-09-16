@@ -1765,17 +1765,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-bdb": {
+  "/research-450": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-4c4": {
+  "/research-a58": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-a32": {
+  "/research-c16": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1970,6 +1970,10 @@
     "__comp": "17896441",
     "content": "ba4fcde3"
   },
+  "/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies-3a2": {
+    "__comp": "17896441",
+    "content": "ecee732a"
+  },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-d33": {
     "__comp": "17896441",
     "content": "9afbd952"
@@ -1986,6 +1990,10 @@
     "__comp": "17896441",
     "content": "67dec8ec"
   },
+  "/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives-1e7": {
+    "__comp": "17896441",
+    "content": "07ce91c8"
+  },
   "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives-155": {
     "__comp": "17896441",
     "content": "f6802b34"
@@ -1993,6 +2001,10 @@
   "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video-fb1": {
     "__comp": "17896441",
     "content": "a23654de"
+  },
+  "/research/papers/⭐️ Markerless tracking of an entire honey bee colony-852": {
+    "__comp": "17896441",
+    "content": "d484f8a2"
   },
   "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive-9a1": {
     "__comp": "17896441",
@@ -2017,10 +2029,6 @@
   "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-393": {
     "__comp": "17896441",
     "content": "156a796a"
-  },
-  "/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies-0db": {
-    "__comp": "17896441",
-    "content": "c9c29124"
   },
   "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System-a7a": {
     "__comp": "17896441",
@@ -2077,10 +2085,6 @@
   "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures-a72": {
     "__comp": "17896441",
     "content": "7bc333c1"
-  },
-  "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives-659": {
-    "__comp": "17896441",
-    "content": "74d8865e"
   },
   "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression-6d9": {
     "__comp": "17896441",
@@ -2177,10 +2181,6 @@
   "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services-713": {
     "__comp": "17896441",
     "content": "47c9aa7b"
-  },
-  "/research/papers/Markerless tracking of an entire honey bee colony-d97": {
-    "__comp": "17896441",
-    "content": "817d8313"
   },
   "/research/papers/Model for the bee apiary location evaluation-17f": {
     "__comp": "17896441",

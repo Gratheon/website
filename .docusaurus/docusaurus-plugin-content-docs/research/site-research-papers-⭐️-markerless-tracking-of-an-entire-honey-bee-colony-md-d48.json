@@ -1,0 +1,30 @@
+{
+  "id": "papers/⭐️ Markerless tracking of an entire honey bee colony",
+  "title": "⭐️ Markerless tracking of an entire honey bee colony",
+  "description": "PDF",
+  "source": "@site/research/papers/⭐️ Markerless tracking of an entire honey bee colony.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/⭐️ Markerless tracking of an entire honey bee colony",
+  "permalink": "/research/papers/⭐️ Markerless tracking of an entire honey bee colony",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "year": "2021",
+    "orgs": [
+      "🇯🇵 Okinawa Institute of Science and Technology Graduate University"
+    ],
+    "hide_table_of_contents": true,
+    "title": "⭐️ Markerless tracking of an entire honey bee colony"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+    "permalink": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video"
+  },
+  "next": {
+    "title": "Towards dense object tracking in a 2D honeybee hive",
+    "permalink": "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive"
+  }
+}

@@ -1779,6 +1779,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+              "path": "/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
               "path": "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance",
               "sidebar": "researchSidebar"
@@ -1799,6 +1804,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+              "path": "/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
               "path": "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives",
               "sidebar": "researchSidebar"
@@ -1806,6 +1816,11 @@
             {
               "id": "papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
               "path": "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/⭐️ Markerless tracking of an entire honey bee colony",
+              "path": "/research/papers/⭐️ Markerless tracking of an entire honey bee colony",
               "sidebar": "researchSidebar"
             },
             {
@@ -1836,11 +1851,6 @@
             {
               "id": "papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
-              "path": "/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
               "sidebar": "researchSidebar"
             },
             {
@@ -1911,11 +1921,6 @@
             {
               "id": "papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
               "path": "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
-              "path": "/research/papers/Deep Edge IoT for Acoustic Detection of Queenless Beehives",
               "sidebar": "researchSidebar"
             },
             {
@@ -2041,11 +2046,6 @@
             {
               "id": "papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
               "path": "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "papers/Markerless tracking of an entire honey bee colony",
-              "path": "/research/papers/Markerless tracking of an entire honey bee colony",
               "sidebar": "researchSidebar"
             },
             {
