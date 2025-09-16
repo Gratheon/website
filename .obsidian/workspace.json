@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
+                "file": "research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦀 Hive bottom scanning"
+              "title": "An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
+                "file": "research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🦀 Hive bottom scanning"
+              "title": "Backlinks for An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies"
             }
           },
           {
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 283.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +193,13 @@
   },
   "active": "f7c71ecd12135fae",
   "lastOpenFiles": [
+    "research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic.md",
+    "research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
+    "research/papers/img/agriculture-15-00969.pdf",
+    "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
     "about/products/robotic_beehive/ideas/img/Screenshot 2025-09-16 at 16.47.44.png",
     "about/products/robotic_beehive/ideas/img",
     "about/company/Team/Merchandise.md",
-    "about/products/robotic_beehive/ideas/🦀 Hive bottom scanning.md",
     "about/company/Team/index.md",
     "about/🌻 Purpose/Company mission.md",
     "about/🌨️ Problems/🚛 Transport stress and risk.md",
@@ -209,7 +213,6 @@
     "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
     "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
     "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
-    "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -219,7 +222,6 @@
     "public/img/tallinn.png",
     "public/img/sharing.webp",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
     "research/papers/Internet of Things Smart Beehive Network.md",
     "research/papers/Internet of Things Smart Beehive Network Homogeneous Data,Modeling, and Forecasting the Honey Robbing Phenomenon.md",
     "research/papers/Honey Bee Colonies Remote Monitoring System.md",
@@ -236,7 +238,6 @@
     "research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis.md",
     "research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning.md",
     "research/papers/Importance of GIS solutions for beekeepers a review.md",
-    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md",
-    "research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management.md"
+    "research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring.md"
   ]
 }
