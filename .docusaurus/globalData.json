@@ -1015,6 +1015,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/robotic_beehive/ideas/🦀 Hive bottom scanning",
+              "path": "/about/products/robotic_beehive/ideas/🦀 Hive bottom scanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting",
               "path": "/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting",
               "sidebar": "tutorialSidebar"
@@ -1831,6 +1836,11 @@
             {
               "id": "papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
               "path": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+              "path": "/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
               "sidebar": "researchSidebar"
             },
             {

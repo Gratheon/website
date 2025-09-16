@@ -551,17 +551,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-eff": {
+  "/about-6fe": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-f4c": {
+  "/about-9f6": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-b48": {
+  "/about-911": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -1063,6 +1063,10 @@
   "/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI-ee5": {
     "__comp": "17896441",
     "content": "5df9058e"
+  },
+  "/about/products/robotic_beehive/ideas/🦀 Hive bottom scanning-dec": {
+    "__comp": "17896441",
+    "content": "600de1b0"
   },
   "/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting-782": {
     "__comp": "17896441",
@@ -1761,17 +1765,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-5dd": {
+  "/research-bdb": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-774": {
+  "/research-4c4": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-532": {
+  "/research-a32": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -2013,6 +2017,10 @@
   "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-393": {
     "__comp": "17896441",
     "content": "156a796a"
+  },
+  "/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies-0db": {
+    "__comp": "17896441",
+    "content": "c9c29124"
   },
   "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System-a7a": {
     "__comp": "17896441",

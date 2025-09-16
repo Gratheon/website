@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'eff'),
+    component: ComponentCreator('/about', '6fe'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'f4c'),
+        component: ComponentCreator('/about', '9f6'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'b48'),
+            component: ComponentCreator('/about', '911'),
             routes: [
               {
                 path: '/about/',
@@ -971,6 +971,12 @@ export default [
               {
                 path: '/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI',
                 component: ComponentCreator('/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI', 'ee5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/robotic_beehive/ideas/🦀 Hive bottom scanning',
+                component: ComponentCreator('/about/products/robotic_beehive/ideas/🦀 Hive bottom scanning', 'dec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -2026,15 +2032,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '5dd'),
+    component: ComponentCreator('/research', 'bdb'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', '774'),
+        component: ComponentCreator('/research', '4c4'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '532'),
+            component: ComponentCreator('/research', 'a32'),
             routes: [
               {
                 path: '/research/',
@@ -2393,6 +2399,12 @@ export default [
               {
                 path: '/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic',
                 component: ComponentCreator('/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic', '393'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies',
+                component: ComponentCreator('/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies', '0db'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

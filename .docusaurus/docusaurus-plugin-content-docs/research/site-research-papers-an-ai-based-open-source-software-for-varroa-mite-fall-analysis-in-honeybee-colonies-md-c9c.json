@@ -1,0 +1,27 @@
+{
+  "id": "papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "title": "An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "description": "PDF",
+  "source": "@site/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "permalink": "/research/papers/An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "orgs": "🇪🇸 University of Zaragoza 🇪🇸 University of La Rioja 🇪🇸 University of Valencia",
+    "year": "2025",
+    "title": "An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies"
+  },
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Ambient Electromagnetic Radiation as a Predictor of Honey Bee (Apis mellifera) Traffic in Linear and Non-Linear Regression: Numerical Stability, Physical Time and Energy Efficiency",
+    "permalink": "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic"
+  },
+  "next": {
+    "title": "Analysis of Energy Consumption in a Precision Beekeeping System",
+    "permalink": "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System"
+  }
+}
