@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/pro tier/ideas 💡/📈 Grafana access",
+  "title": "📈 Grafana access",
+  "description": "For professional comparison of metrics, we need to integrate user credentials with grafana and give access to it",
+  "source": "@site/about/products/web_app/pro tier/ideas 💡/📈 Grafana access.md",
+  "sourceDirName": "products/web_app/pro tier/ideas 💡",
+  "slug": "/products/web_app/pro tier/ideas 💡/📈 Grafana access",
+  "permalink": "/about/products/web_app/pro tier/ideas 💡/📈 Grafana access",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📅 Google-calendar integration",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration"
+  },
+  "next": {
+    "title": "📦 Harvest hive frames and sections",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/📦 Harvest hive frames and sections"
+  }
+}

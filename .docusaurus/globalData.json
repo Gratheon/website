@@ -885,6 +885,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/entrance_observer/ideas/🐝 Bee pose - morphometric model",
+              "path": "/about/products/entrance_observer/ideas/🐝 Bee pose - morphometric model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/entrance_observer/ideas/🐝 Detect orientation flights",
               "path": "/about/products/entrance_observer/ideas/🐝 Detect orientation flights",
               "sidebar": "tutorialSidebar"
@@ -1140,6 +1145,41 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/basic-functionality/🌍 Localization",
+              "path": "/about/products/web_app/basic-functionality/🌍 Localization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/💶 Billing subscription",
+              "path": "/about/products/web_app/basic-functionality/💶 Billing subscription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/🔐 API token management",
+              "path": "/about/products/web_app/basic-functionality/🔐 API token management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/🧑‍🚀 User editing",
+              "path": "/about/products/web_app/basic-functionality/🧑‍🚀 User editing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/🧑‍🚀 User login",
+              "path": "/about/products/web_app/basic-functionality/🧑‍🚀 User login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/🧑‍🚀 User registration",
+              "path": "/about/products/web_app/basic-functionality/🧑‍🚀 User registration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/basic-functionality/🙅 User account deletion",
+              "path": "/about/products/web_app/basic-functionality/🙅 User account deletion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/community-tier/♻️ Public beehive view",
               "path": "/about/products/web_app/community-tier/♻️ Public beehive view",
               "sidebar": "tutorialSidebar"
@@ -1150,18 +1190,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/🌍 Localization",
-              "path": "/about/products/web_app/community-tier/🌍 Localization",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/🌪️ Weather alerts",
-              "path": "/about/products/web_app/community-tier/🌪️ Weather alerts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/community-tier/🌻 list of local plants",
               "path": "/about/products/web_app/community-tier/🌻 list of local plants",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/community-tier/🐝 Frame analysis - bee counter",
+              "path": "/about/products/web_app/community-tier/🐝 Frame analysis - bee counter",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1190,11 +1225,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/💶 Billing subscription",
-              "path": "/about/products/web_app/community-tier/💶 Billing subscription",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/community-tier/📦 Apiary management",
               "path": "/about/products/web_app/community-tier/📦 Apiary management",
               "sidebar": "tutorialSidebar"
@@ -1215,33 +1245,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/🔐 API token management",
-              "path": "/about/products/web_app/community-tier/🔐 API token management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/community-tier/🖼️ Frame side management",
               "path": "/about/products/web_app/community-tier/🖼️ Frame side management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/🧑‍🚀 User editing",
-              "path": "/about/products/web_app/community-tier/🧑‍🚀 User editing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/🧑‍🚀 User login",
-              "path": "/about/products/web_app/community-tier/🧑‍🚀 User login",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/🧑‍🚀 User registration",
-              "path": "/about/products/web_app/community-tier/🧑‍🚀 User registration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/community-tier/🙅 User account deletion",
-              "path": "/about/products/web_app/community-tier/🙅 User account deletion",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1250,13 +1255,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
-              "path": "/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
+              "id": "products/web_app/community-tier/ideas 💡/🌪️ Weather alerts",
+              "path": "/about/products/web_app/community-tier/ideas 💡/🌪️ Weather alerts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter",
-              "path": "/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter",
+              "id": "products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
+              "path": "/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1285,8 +1290,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/essential-tier/🍭 Feeding management",
-              "path": "/about/products/web_app/essential-tier/🍭 Feeding management",
+              "id": "products/web_app/essential-tier/🍭 Feeding history",
+              "path": "/about/products/web_app/essential-tier/🍭 Feeding history",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1297,11 +1302,6 @@
             {
               "id": "products/web_app/essential-tier/🔎 Inspection management",
               "path": "/about/products/web_app/essential-tier/🔎 Inspection management",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/essential-tier/🔔 Timeseries Anomaly detection",
-              "path": "/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1357,6 +1357,11 @@
             {
               "id": "products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
               "path": "/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection",
+              "path": "/about/products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1445,11 +1450,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model",
-              "path": "/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/pro tier/ideas 💡/🐝 Bee race classification",
               "path": "/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification",
               "sidebar": "tutorialSidebar"
@@ -1472,6 +1472,11 @@
             {
               "id": "products/web_app/pro tier/ideas 💡/📅 Google-calendar integration",
               "path": "/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro tier/ideas 💡/📈 Grafana access",
+              "path": "/about/products/web_app/pro tier/ideas 💡/📈 Grafana access",
               "sidebar": "tutorialSidebar"
             },
             {

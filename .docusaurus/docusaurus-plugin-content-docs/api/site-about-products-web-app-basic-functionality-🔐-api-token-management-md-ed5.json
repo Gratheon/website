@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/basic-functionality/🔐 API token management",
+  "title": "🔐 API token management",
+  "description": "",
+  "source": "@site/about/products/web_app/basic-functionality/🔐 API token management.md",
+  "sourceDirName": "products/web_app/basic-functionality",
+  "slug": "/products/web_app/basic-functionality/🔐 API token management",
+  "permalink": "/about/products/web_app/basic-functionality/🔐 API token management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💶 Billing subscription",
+    "permalink": "/about/products/web_app/basic-functionality/💶 Billing subscription"
+  },
+  "next": {
+    "title": "🙅 User account deletion",
+    "permalink": "/about/products/web_app/basic-functionality/🙅 User account deletion"
+  }
+}

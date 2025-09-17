@@ -551,17 +551,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-6fe": {
+  "/about-c56": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-9f6": {
+  "/about-1f7": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-911": {
+  "/about-354": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -960,6 +960,10 @@
     "__comp": "17896441",
     "content": "c3349a21"
   },
+  "/about/products/entrance_observer/ideas/🐝 Bee pose - morphometric model-6f6": {
+    "__comp": "17896441",
+    "content": "96cd34a2"
+  },
   "/about/products/entrance_observer/ideas/🐝 Detect orientation flights-14d": {
     "__comp": "17896441",
     "content": "154acf0b"
@@ -1164,6 +1168,34 @@
     "__comp": "17896441",
     "content": "a41c9dd2"
   },
+  "/about/products/web_app/basic-functionality/🌍 Localization-396": {
+    "__comp": "17896441",
+    "content": "b6a193fe"
+  },
+  "/about/products/web_app/basic-functionality/💶 Billing subscription-d79": {
+    "__comp": "17896441",
+    "content": "214a6db0"
+  },
+  "/about/products/web_app/basic-functionality/🔐 API token management-856": {
+    "__comp": "17896441",
+    "content": "ed589039"
+  },
+  "/about/products/web_app/basic-functionality/🧑‍🚀 User editing-39f": {
+    "__comp": "17896441",
+    "content": "a6423475"
+  },
+  "/about/products/web_app/basic-functionality/🧑‍🚀 User login-75b": {
+    "__comp": "17896441",
+    "content": "62a0cff3"
+  },
+  "/about/products/web_app/basic-functionality/🧑‍🚀 User registration-1ec": {
+    "__comp": "17896441",
+    "content": "c7fb3422"
+  },
+  "/about/products/web_app/basic-functionality/🙅 User account deletion-bcc": {
+    "__comp": "17896441",
+    "content": "491a1864"
+  },
   "/about/products/web_app/community-tier/♻️ Public beehive view-375": {
     "__comp": "17896441",
     "content": "c7db64e9"
@@ -1172,17 +1204,13 @@
     "__comp": "17896441",
     "content": "079d451b"
   },
-  "/about/products/web_app/community-tier/🌍 Localization-c96": {
-    "__comp": "17896441",
-    "content": "775a940b"
-  },
-  "/about/products/web_app/community-tier/🌪️ Weather alerts-a4f": {
-    "__comp": "17896441",
-    "content": "1310f477"
-  },
   "/about/products/web_app/community-tier/🌻 list of local plants-71b": {
     "__comp": "17896441",
     "content": "6366dc59"
+  },
+  "/about/products/web_app/community-tier/🐝 Frame analysis - bee counter-695": {
+    "__comp": "17896441",
+    "content": "a50fdc30"
   },
   "/about/products/web_app/community-tier/🐝 Frame side queen cup detection-d45": {
     "__comp": "17896441",
@@ -1204,10 +1232,6 @@
     "__comp": "17896441",
     "content": "d715acfe"
   },
-  "/about/products/web_app/community-tier/💶 Billing subscription-5ea": {
-    "__comp": "17896441",
-    "content": "f30ea997"
-  },
   "/about/products/web_app/community-tier/📦 Apiary management-bc8": {
     "__comp": "17896441",
     "content": "31be380f"
@@ -1224,41 +1248,21 @@
     "__comp": "17896441",
     "content": "2cc5ae52"
   },
-  "/about/products/web_app/community-tier/🔐 API token management-050": {
-    "__comp": "17896441",
-    "content": "a49e4d29"
-  },
   "/about/products/web_app/community-tier/🖼️ Frame side management-da4": {
     "__comp": "17896441",
     "content": "87314889"
-  },
-  "/about/products/web_app/community-tier/🧑‍🚀 User editing-b09": {
-    "__comp": "17896441",
-    "content": "124012e0"
-  },
-  "/about/products/web_app/community-tier/🧑‍🚀 User login-288": {
-    "__comp": "17896441",
-    "content": "c78537f3"
-  },
-  "/about/products/web_app/community-tier/🧑‍🚀 User registration-915": {
-    "__comp": "17896441",
-    "content": "13ff0718"
-  },
-  "/about/products/web_app/community-tier/🙅 User account deletion-fd8": {
-    "__comp": "17896441",
-    "content": "a7d79b76"
   },
   "/about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing-bc3": {
     "__comp": "17896441",
     "content": "eb49c48c"
   },
+  "/about/products/web_app/community-tier/ideas 💡/🌪️ Weather alerts-a93": {
+    "__comp": "17896441",
+    "content": "90f0672c"
+  },
   "/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI-d2b": {
     "__comp": "17896441",
     "content": "14b02206"
-  },
-  "/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter-df2": {
-    "__comp": "17896441",
-    "content": "cd74a70d"
   },
   "/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry-ebe": {
     "__comp": "17896441",
@@ -1280,9 +1284,9 @@
     "__comp": "17896441",
     "content": "7eed0eda"
   },
-  "/about/products/web_app/essential-tier/🍭 Feeding management-529": {
+  "/about/products/web_app/essential-tier/🍭 Feeding history-b5f": {
     "__comp": "17896441",
-    "content": "058134fb"
+    "content": "b588d283"
   },
   "/about/products/web_app/essential-tier/📺 Video streaming playback-b35": {
     "__comp": "17896441",
@@ -1291,10 +1295,6 @@
   "/about/products/web_app/essential-tier/🔎 Inspection management-7fa": {
     "__comp": "17896441",
     "content": "527a2b82"
-  },
-  "/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection-22a": {
-    "__comp": "17896441",
-    "content": "dd6d1770"
   },
   "/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM-c2f": {
     "__comp": "17896441",
@@ -1339,6 +1339,10 @@
   "/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-e5e": {
     "__comp": "17896441",
     "content": "507cbe49"
+  },
+  "/about/products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection-d40": {
+    "__comp": "17896441",
+    "content": "6283f452"
   },
   "/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa infestation management-4b7": {
     "__comp": "17896441",
@@ -1408,10 +1412,6 @@
     "__comp": "17896441",
     "content": "6eb0cb14"
   },
-  "/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model-560": {
-    "__comp": "17896441",
-    "content": "524d9fe2"
-  },
   "/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification-684": {
     "__comp": "17896441",
     "content": "8ca25bc0"
@@ -1431,6 +1431,10 @@
   "/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration-750": {
     "__comp": "17896441",
     "content": "801aa4b1"
+  },
+  "/about/products/web_app/pro tier/ideas 💡/📈 Grafana access-399": {
+    "__comp": "17896441",
+    "content": "bc88b045"
   },
   "/about/products/web_app/pro tier/ideas 💡/📦 Harvest hive frames and sections-fed": {
     "__comp": "17896441",

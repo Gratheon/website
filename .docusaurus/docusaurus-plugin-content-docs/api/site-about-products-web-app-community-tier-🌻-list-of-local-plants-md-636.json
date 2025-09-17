@@ -15,11 +15,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌪️ Weather alerts",
-    "permalink": "/about/products/web_app/community-tier/🌪️ Weather alerts"
+    "title": "♻️ QR-code generation",
+    "permalink": "/about/products/web_app/community-tier/♻️ QR-code generation"
   },
   "next": {
-    "title": "🐝 Frame side queen cup detection",
-    "permalink": "/about/products/web_app/community-tier/🐝 Frame side queen cup detection"
+    "title": "🐝 Frame analysis - bee counter",
+    "permalink": "/about/products/web_app/community-tier/🐝 Frame analysis - bee counter"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/basic-functionality/💶 Billing subscription",
+  "title": "💶 Billing subscription",
+  "description": "",
+  "source": "@site/about/products/web_app/basic-functionality/💶 Billing subscription.md",
+  "sourceDirName": "products/web_app/basic-functionality",
+  "slug": "/products/web_app/basic-functionality/💶 Billing subscription",
+  "permalink": "/about/products/web_app/basic-functionality/💶 Billing subscription",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌍 Localization",
+    "permalink": "/about/products/web_app/basic-functionality/🌍 Localization"
+  },
+  "next": {
+    "title": "🔐 API token management",
+    "permalink": "/about/products/web_app/basic-functionality/🔐 API token management"
+  }
+}

@@ -214,15 +214,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '6fe'),
+    component: ComponentCreator('/about', 'c56'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '9f6'),
+        component: ComponentCreator('/about', '1f7'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '911'),
+            component: ComponentCreator('/about', '354'),
             routes: [
               {
                 path: '/about/',
@@ -819,6 +819,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/entrance_observer/ideas/🐝 Bee pose - morphometric model',
+                component: ComponentCreator('/about/products/entrance_observer/ideas/🐝 Bee pose - morphometric model', '6f6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/entrance_observer/ideas/🐝 Detect orientation flights',
                 component: ComponentCreator('/about/products/entrance_observer/ideas/🐝 Detect orientation flights', '14d'),
                 exact: true,
@@ -1125,6 +1131,48 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/basic-functionality/🌍 Localization',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🌍 Localization', '396'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/💶 Billing subscription',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/💶 Billing subscription', 'd79'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/🔐 API token management',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🔐 API token management', '856'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/🧑‍🚀 User editing',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🧑‍🚀 User editing', '39f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/🧑‍🚀 User login',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🧑‍🚀 User login', '75b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/🧑‍🚀 User registration',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🧑‍🚀 User registration', '1ec'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/basic-functionality/🙅 User account deletion',
+                component: ComponentCreator('/about/products/web_app/basic-functionality/🙅 User account deletion', 'bcc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/community-tier/♻️ Public beehive view',
                 component: ComponentCreator('/about/products/web_app/community-tier/♻️ Public beehive view', '375'),
                 exact: true,
@@ -1137,20 +1185,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/🌍 Localization',
-                component: ComponentCreator('/about/products/web_app/community-tier/🌍 Localization', 'c96'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/🌪️ Weather alerts',
-                component: ComponentCreator('/about/products/web_app/community-tier/🌪️ Weather alerts', 'a4f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/community-tier/🌻 list of local plants',
                 component: ComponentCreator('/about/products/web_app/community-tier/🌻 list of local plants', '71b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/community-tier/🐝 Frame analysis - bee counter',
+                component: ComponentCreator('/about/products/web_app/community-tier/🐝 Frame analysis - bee counter', '695'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1185,12 +1227,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/💶 Billing subscription',
-                component: ComponentCreator('/about/products/web_app/community-tier/💶 Billing subscription', '5ea'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/community-tier/📦 Apiary management',
                 component: ComponentCreator('/about/products/web_app/community-tier/📦 Apiary management', 'bc8'),
                 exact: true,
@@ -1215,38 +1251,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/🔐 API token management',
-                component: ComponentCreator('/about/products/web_app/community-tier/🔐 API token management', '050'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/community-tier/🖼️ Frame side management',
                 component: ComponentCreator('/about/products/web_app/community-tier/🖼️ Frame side management', 'da4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/🧑‍🚀 User editing',
-                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User editing', 'b09'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/🧑‍🚀 User login',
-                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User login', '288'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/🧑‍🚀 User registration',
-                component: ComponentCreator('/about/products/web_app/community-tier/🧑‍🚀 User registration', '915'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/community-tier/🙅 User account deletion',
-                component: ComponentCreator('/about/products/web_app/community-tier/🙅 User account deletion', 'fd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1257,14 +1263,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI', 'd2b'),
+                path: '/about/products/web_app/community-tier/ideas 💡/🌪️ Weather alerts',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🌪️ Weather alerts', 'a93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter',
-                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🐝 Frame analysis - bee counter', 'df2'),
+                path: '/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI',
+                component: ComponentCreator('/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI', 'd2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1299,8 +1305,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/essential-tier/🍭 Feeding management',
-                component: ComponentCreator('/about/products/web_app/essential-tier/🍭 Feeding management', '529'),
+                path: '/about/products/web_app/essential-tier/🍭 Feeding history',
+                component: ComponentCreator('/about/products/web_app/essential-tier/🍭 Feeding history', 'b5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1313,12 +1319,6 @@ export default [
               {
                 path: '/about/products/web_app/essential-tier/🔎 Inspection management',
                 component: ComponentCreator('/about/products/web_app/essential-tier/🔎 Inspection management', '7fa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection',
-                component: ComponentCreator('/about/products/web_app/essential-tier/🔔 Timeseries Anomaly detection', '22a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1385,6 +1385,12 @@ export default [
               {
                 path: '/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert',
                 component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert', 'e5e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection',
+                component: ComponentCreator('/about/products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection', 'd40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1491,12 +1497,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model',
-                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Bee pose - morphometric model', '560'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification',
                 component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🐝 Bee race classification', '684'),
                 exact: true,
@@ -1523,6 +1523,12 @@ export default [
               {
                 path: '/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration',
                 component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📅 Google-calendar integration', '750'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro tier/ideas 💡/📈 Grafana access',
+                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/📈 Grafana access', '399'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

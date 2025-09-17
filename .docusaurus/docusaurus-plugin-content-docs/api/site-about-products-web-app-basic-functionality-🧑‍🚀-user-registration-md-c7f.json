@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/basic-functionality/🧑‍🚀 User registration",
+  "title": "🧑‍🚀 User registration",
+  "description": "",
+  "source": "@site/about/products/web_app/basic-functionality/🧑‍🚀 User registration.md",
+  "sourceDirName": "products/web_app/basic-functionality",
+  "slug": "/products/web_app/basic-functionality/🧑‍🚀 User registration",
+  "permalink": "/about/products/web_app/basic-functionality/🧑‍🚀 User registration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍🚀 User login",
+    "permalink": "/about/products/web_app/basic-functionality/🧑‍🚀 User login"
+  },
+  "next": {
+    "title": "♻️ Apiary position sharing",
+    "permalink": "/about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing"
+  }
+}
