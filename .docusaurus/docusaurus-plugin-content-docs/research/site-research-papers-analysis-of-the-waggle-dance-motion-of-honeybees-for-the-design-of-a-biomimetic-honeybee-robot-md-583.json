@@ -1,0 +1,23 @@
+{
+  "id": "papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+  "title": "Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+  "description": "PDF",
+  "source": "@site/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+  "permalink": "/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Analysis of Energy Consumption in a Precision Beekeeping System",
+    "permalink": "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System"
+  },
+  "next": {
+    "title": "Apis mellifera Bee Verification with IoT and Graph Neural Network",
+    "permalink": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network"
+  }
+}

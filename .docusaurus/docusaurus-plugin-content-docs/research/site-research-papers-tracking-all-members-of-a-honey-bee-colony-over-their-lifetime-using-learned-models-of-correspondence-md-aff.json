@@ -1,0 +1,23 @@
+{
+  "id": "papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
+  "title": "Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
+  "description": "PDF",
+  "source": "@site/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
+  "permalink": "/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Towards Varroa destructor mite detection using a narrow spectra illumination",
+    "permalink": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination"
+  },
+  "next": {
+    "title": "Tracking Varroa Parasitism Using Handheld Infrared Cameras:Is Eusocial Fever the Key?",
+    "permalink": "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key"
+  }
+}

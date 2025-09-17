@@ -5,10 +5,15 @@ sidebar_position: 5
 
 
 This is a list of great apps, devices, code repos and products that we look at for inspiration
+
+IMPACT OF THE PRECISION BEEKEEPING ON THE LIVING ENVIRONMENT research paper:
+![](img/Screenshot%202025-09-17%20at%2012.07.24.png)
+
+
 ## 🪬 Robotic Apiary
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""),  " ", "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🪬 Robotic Apiary" SORT priority asc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""),  " ", "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🪬 Robotic Apiary" SORT priority asc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""),  " ", "%20") + ")", "")  as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🪬 Robotic Apiary" SORT priority asc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""),  " ", "%20") + ")", "")  as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🪬 Robotic Apiary" SORT priority asc -->
 
 | title                             | url                 | description                                                         |
 | --------------------------------- | ------------------- | ------------------------------------------------------------------- |
@@ -25,15 +30,15 @@ This is a list of great apps, devices, code repos and products that we look at f
 | ------------------------------------------- | -------------------------------------- | ----------- |
 | [🇦🇺 Beemate](🇦🇺%20Beemate.md)           | https://beemate.buzz/                  | \-          |
 | [🇦🇺 Purple Hive](🇦🇺%20Purple%20Hive.md) | https://www.vimanatech.com.au/about    | \-          |
-| [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)     | https://bestbees.com/smarthive-lp/     | \-          |
 | [🇩🇪 ApicAI](🇩🇪%20ApicAI.md)             | https://apic.ai/                       | \-          |
+| [🇺🇸 Best Bees](🇺🇸%20Best%20Bees.md)     | https://bestbees.com/smarthive-lp/     | \-          |
 | [🇺🇸 HiveGenie](🇺🇸%20HiveGenie.md)       | https://www.hivegenie.com/our-product/ | \-          |
 <!-- SerializedQuery END -->
 
 ## 🌡️ Beehive IoT sensors
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🌡️ Beehive IoT sensors"  SORT priority asc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🌡️ Beehive IoT sensors"  SORT priority asc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "")  as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🌡️ Beehive IoT sensors"  SORT priority asc -->
+<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "")  as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="🌡️ Beehive IoT sensors"  SORT priority asc -->
 
 | title                                           | url                                                                                                                          | description |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -41,8 +46,8 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [AgriSound](AgriSound.md)                       | https://agrisound.io/                                                                                                        | \-          |
 | [BeeHiveMonitoring](BeeHiveMonitoring.md)       | https://beehivemonitoring.com/                                                                                               | \-          |
 | [BeeLab](BeeLab.md)                             | BeeLab.se                                                                                                                    | \-          |
-| [BeeSage](BeeSage.md)                           | https://beesage.co/                                                                                                          | \-          |
 | [BeeZee](BeeZee.md)                             | https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/                                                               | \-          |
+| [BeeSage](BeeSage.md)                           | https://beesage.co/                                                                                                          | \-          |
 | [BeehiveMonitoringUSA](BeehiveMonitoringUSA.md) | https://beehivemonitoringusa.com                                                                                             | \-          |
 | [Broodminder](Broodminder.md)                   | broodminder.com                                                                                                              | \-          |
 | [BuzzBox](BuzzBox.md)                           | https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive | \-          |
@@ -52,17 +57,17 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [HivePulse](HivePulse.md)                       | https://hivepulse.co.za/                                                                                                     | \-          |
 | [HoneyInstruments](HoneyInstruments.md)         | https://www.honeyinstruments.com/en                                                                                          | \-          |
 | [IntelligentHives](IntelligentHives.md)         | https://intelligenthives.eu                                                                                                  | \-          |
-| [Prohiver](Prohiver.md)                         | https://prohiver.com/                                                                                                        | \-          |
 | [Solutionbee](Solutionbee.md)                   | https://solutionbee.com                                                                                                      | \-          |
-| [Апипульс](Апипульс.md)                         | https://apipulse.ru/                                                                                                         | \-          |
 | [io-bee](io-bee.md)                             | https://io-bee.eu/                                                                                                           | \-          |
-| [🇳🇱 Beep NL](🇳🇱%20Beep%20NL.md)             | https://beep.nl/                                                                                                             | \-          |
+| [Апипульс](Апипульс.md)                         | https://apipulse.ru/                                                                                                         | \-          |
 | [🇮🇱 BeeHero](🇮🇱%20BeeHero.md)               | https://www.beehero.io/                                                                                                      | \-          |
+| [🇳🇱 Beep NL](🇳🇱%20Beep%20NL.md)             | https://beep.nl/                                                                                                             | \-          |
+| [Prohiver](Prohiver.md)                         | https://prohiver.com/                                                                                                        | \-          |
 <!-- SerializedQuery END -->
 
 ## 📱Web-app
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="📱Web-app"  SORT priority asc -->
+<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "")  as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="📱Web-app"  SORT priority asc -->
 <!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "research/Competition/", ""), " ",  "%20") + ")", "") as title, url, description FROM "research/Competition" WHERE file.name != "Competition" AND products="📱Web-app"  SORT priority asc -->
 
 | title                                         | url                          | description                                   |
@@ -81,3 +86,5 @@ This is a list of great apps, devices, code repos and products that we look at f
 | [i-bee](i-bee.md)                             | https://www.i-bee.net/en/    | \-                                            |
 | [🇨🇦 Nectar](🇨🇦%20Nectar.md)               | https://www.nectar.buzz/     | Beekeeping organizer for migratory beekeepers |
 <!-- SerializedQuery END -->
+
+

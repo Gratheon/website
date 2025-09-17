@@ -1,0 +1,23 @@
+{
+  "id": "papers/Impact of the precision beekeeping on the living environment",
+  "title": "Impact of the precision beekeeping on the living environment",
+  "description": "PDF",
+  "source": "@site/research/papers/Impact of the precision beekeeping on the living environment.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Impact of the precision beekeeping on the living environment",
+  "permalink": "/research/papers/Impact of the precision beekeeping on the living environment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+    "permalink": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning"
+  },
+  "next": {
+    "title": "Importance of GIS solutions for beekeepers: a review",
+    "permalink": "/research/papers/Importance of GIS solutions for beekeepers a review"
+  }
+}

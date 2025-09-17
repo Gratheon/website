@@ -1624,6 +1624,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Competition/beehold.rs",
+              "path": "/research/Competition/beehold.rs",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "Competition/beeing",
               "path": "/research/Competition/beeing",
               "sidebar": "researchSidebar"
@@ -1744,8 +1749,18 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Competition/Pollenity",
+              "path": "/research/Competition/Pollenity",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "Competition/Prohiver",
               "path": "/research/Competition/Prohiver",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "Competition/SMSVaga",
+              "path": "/research/Competition/SMSVaga",
               "sidebar": "researchSidebar"
             },
             {
@@ -1859,8 +1874,18 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+              "path": "/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
               "path": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Application of Data Layering in Precision Beekeeping The Concept",
+              "path": "/research/papers/Application of Data Layering in Precision Beekeeping The Concept",
               "sidebar": "researchSidebar"
             },
             {
@@ -1876,6 +1901,16 @@
             {
               "id": "papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology",
               "path": "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Automatic detection and decoding of honeybee waggle dances",
+              "path": "/research/papers/Automatic detection and decoding of honeybee waggle dances",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees",
+              "path": "/research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees",
               "sidebar": "researchSidebar"
             },
             {
@@ -1901,6 +1936,11 @@
             {
               "id": "papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
               "path": "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Bio-Hybrid Systems for Ecosystem Level Effects",
+              "path": "/research/papers/Bio-Hybrid Systems for Ecosystem Level Effects",
               "sidebar": "researchSidebar"
             },
             {
@@ -1996,6 +2036,11 @@
             {
               "id": "papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
               "path": "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Impact of the precision beekeeping on the living environment",
+              "path": "/research/papers/Impact of the precision beekeeping on the living environment",
               "sidebar": "researchSidebar"
             },
             {
@@ -2139,6 +2184,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "papers/Social networks predict the life and death of honeybees",
+              "path": "/research/papers/Social networks predict the life and death of honeybees",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "papers/Solution for automated bee colony weight monitoring",
               "path": "/research/papers/Solution for automated bee colony weight monitoring",
               "sidebar": "researchSidebar"
@@ -2171,6 +2221,11 @@
             {
               "id": "papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
               "path": "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination",
+              "sidebar": "researchSidebar"
+            },
+            {
+              "id": "papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
+              "path": "/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence",
               "sidebar": "researchSidebar"
             },
             {

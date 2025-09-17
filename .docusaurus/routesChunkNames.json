@@ -1765,17 +1765,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-450": {
+  "/research-b66": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-a58": {
+  "/research-e43": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-c16": {
+  "/research-04b": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1849,6 +1849,10 @@
   "/research/Competition/BeehiveMonitoringUSA-0ba": {
     "__comp": "17896441",
     "content": "0cd1534a"
+  },
+  "/research/Competition/beehold.rs-6ed": {
+    "__comp": "17896441",
+    "content": "7374f1ca"
   },
   "/research/Competition/beeing-eff": {
     "__comp": "17896441",
@@ -1942,9 +1946,17 @@
     "__comp": "17896441",
     "content": "21f90c94"
   },
+  "/research/Competition/Pollenity-5a5": {
+    "__comp": "17896441",
+    "content": "b893f156"
+  },
   "/research/Competition/Prohiver-576": {
     "__comp": "17896441",
     "content": "8797d8fe"
+  },
+  "/research/Competition/SMSVaga-903": {
+    "__comp": "17896441",
+    "content": "5475c69c"
   },
   "/research/Competition/Solutionbee-0ef": {
     "__comp": "17896441",
@@ -2034,9 +2046,17 @@
     "__comp": "17896441",
     "content": "89349b07"
   },
+  "/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot-27f": {
+    "__comp": "17896441",
+    "content": "583ee05d"
+  },
   "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network-178": {
     "__comp": "17896441",
     "content": "fae4e331"
+  },
+  "/research/papers/Application of Data Layering in Precision Beekeeping The Concept-cfb": {
+    "__comp": "17896441",
+    "content": "592e3a45"
   },
   "/research/papers/Approximation of functions-c10": {
     "__comp": "17896441",
@@ -2049,6 +2069,14 @@
   "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology-1ac": {
     "__comp": "17896441",
     "content": "bac8523f"
+  },
+  "/research/papers/Automatic detection and decoding of honeybee waggle dances-580": {
+    "__comp": "17896441",
+    "content": "1c677f16"
+  },
+  "/research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees-8c6": {
+    "__comp": "17896441",
+    "content": "1f447065"
   },
   "/research/papers/Be-Hive-708": {
     "__comp": "17896441",
@@ -2069,6 +2097,10 @@
   "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos-dfc": {
     "__comp": "17896441",
     "content": "c398656b"
+  },
+  "/research/papers/Bio-Hybrid Systems for Ecosystem Level Effects-a68": {
+    "__comp": "17896441",
+    "content": "ff02776f"
   },
   "/research/papers/Biodiversity conservation and current threats to European honeybees-a3a": {
     "__comp": "17896441",
@@ -2145,6 +2177,10 @@
   "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-49c": {
     "__comp": "17896441",
     "content": "de7d551a"
+  },
+  "/research/papers/Impact of the precision beekeeping on the living environment-7f4": {
+    "__comp": "17896441",
+    "content": "96336326"
   },
   "/research/papers/Importance of GIS solutions for beekeepers a review-bcc": {
     "__comp": "17896441",
@@ -2254,6 +2290,10 @@
     "__comp": "17896441",
     "content": "5560d9cd"
   },
+  "/research/papers/Social networks predict the life and death of honeybees-062": {
+    "__comp": "17896441",
+    "content": "93215949"
+  },
   "/research/papers/Solution for automated bee colony weight monitoring-20c": {
     "__comp": "17896441",
     "content": "8cf51ec9"
@@ -2281,6 +2321,10 @@
   "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination-2da": {
     "__comp": "17896441",
     "content": "27fa2986"
+  },
+  "/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence-714": {
+    "__comp": "17896441",
+    "content": "aff183df"
   },
   "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key-3be": {
     "__comp": "17896441",

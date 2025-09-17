@@ -121,9 +121,9 @@ function HomepageHeader() {
           <div className={styles.headerContentContainer}> {/* Removed inline zIndex */}
             <div style={{ textAlign: 'center' }}>
               <div id={styles.splash_internal}>
-                <div style={{ textAlign: 'center' }}>Modular Robotic Beehive</div>
+                <div style={{ textAlign: 'center' }}>Beehive Data Analytics</div>
                 <p style={{ color: 'white', textAlign: 'center', padding: '7px 0', backgroundColor: 'black', fontSize: '20px', fontWeight: 'normal' }}>
-                  Data analytics to save bees, time and strength
+                  Save bees, time and strength
                 </p>
               </div>
             </div>
@@ -286,9 +286,9 @@ function HomepageHeader() {
             <iframe src="https://www.youtube.com/embed/oG791JNb1aA?autoplay=1&mute=1&loop=1" 
             style={{ width: '100%', height: '201px', margin: '0 auto', display: 'block' }}
 
-            title="Bees at the beehive entrance" frameborder="0" 
+            title="Bees at the beehive entrance" frameBorder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
           </div>
 
@@ -299,9 +299,9 @@ function HomepageHeader() {
         <h2 style={{ textAlign: 'center' }}>Hardware products</h2>
         <div>
           <div className={styles.device}>
-            <div className={styles.deviceText}>
-              <h3>Beehive sensors</h3>
-              <p>
+<div className={styles.deviceText}>
+  <h3>Beehive sensors <span className={styles.badge}>prototype phase</span></h3>
+  <p>
                 Measure temperature, humidity, CO2 level, barometric pressure,
                 sound and weight to correlate colony development with
                 environmental factors. Most affordable, data- and
@@ -335,9 +335,9 @@ function HomepageHeader() {
           </div>
 
           <div className={styles.device}>
-            <div className={styles.deviceText}>
-              <h3>Entrance Observer</h3>
-              <p>
+<div className={styles.deviceText}>
+  <h3>Entrance Observer <span className={styles.badge}>MVP phase</span></h3>
+  <p>
                 Get video feed of entrance in real-time. Count bees coming in and
                 out to estimate foraging bee daily loss. Detect varroa mites
                 riding on bees. Track pollen flow. Detect robbing, worker
@@ -368,9 +368,9 @@ function HomepageHeader() {
           </div>
 
           <div className={styles.device}>
-            <div className={styles.deviceText}>
-              <h3>Robotic beehive</h3>
-              <p>
+<div className={styles.deviceText}>
+  <h3>Modular Robotic beehive <span className={styles.badge}>ideation phase</span></h3>
+  <p>
                 Our ultimate goal. Automate inspections with a mechanical frame
                 extraction. Save energy from lifting heavy beehive sections.
                 Reduce bees dying from inspections. Improve efficiency with remote

@@ -14,9 +14,7 @@ Example foto (webp re-compressed for the web):
 
 ## Videos
 [👁️‍🗨️ Entrance Observer](/about/products/entrance_observer/) videos 🎥 of the hive entrance
-
-<iframe width="1000" height="400" src="https://www.youtube.com/embed/oG791JNb1aA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+![](img/Screenshot%202025-09-10%20at%2009.11.23.png)
 ### 2025
 
 Videos were encoded on the edge as follows:
@@ -75,7 +73,7 @@ Example video (ffmpeg re-compressed for the web):
 	- Dataset duration ~3h (12:00-15:00 EEST)
 
 
-![](img/Screenshot%202025-09-10%20at%2009.27.41.png)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/oG791JNb1aA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Dataset type 3
 Camera placed on **second** hive section (closer), changed zoom, removed glass and aluminium boundaries, added stones instead
@@ -89,7 +87,8 @@ Camera placed on **second** hive section (closer), changed zoom, removed glass a
 - September 14th
 	- cloudy day
 
-![](img/Screenshot%202025-09-10%20at%2009.11.23.png)
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3O4oy4sBHtM" title="Beehive entrance, september 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ### 2024

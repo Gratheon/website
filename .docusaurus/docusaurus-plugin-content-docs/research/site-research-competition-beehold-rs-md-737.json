@@ -1,0 +1,23 @@
+{
+  "id": "Competition/beehold.rs",
+  "title": "beehold.rs",
+  "description": "",
+  "source": "@site/research/Competition/beehold.rs.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/beehold.rs",
+  "permalink": "/research/Competition/beehold.rs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Solutionbee",
+    "permalink": "/research/Competition/Solutionbee"
+  },
+  "next": {
+    "title": "beeing",
+    "permalink": "/research/Competition/beeing"
+  }
+}

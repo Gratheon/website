@@ -2032,15 +2032,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', '450'),
+    component: ComponentCreator('/research', 'b66'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'a58'),
+        component: ComponentCreator('/research', 'e43'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', 'c16'),
+            component: ComponentCreator('/research', '04b'),
             routes: [
               {
                 path: '/research/',
@@ -2147,6 +2147,12 @@ export default [
               {
                 path: '/research/Competition/BeehiveMonitoringUSA',
                 component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', '0ba'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/Competition/beehold.rs',
+                component: ComponentCreator('/research/Competition/beehold.rs', '6ed'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2289,8 +2295,20 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/Competition/Pollenity',
+                component: ComponentCreator('/research/Competition/Pollenity', '5a5'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/Competition/Prohiver',
                 component: ComponentCreator('/research/Competition/Prohiver', '576'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/Competition/SMSVaga',
+                component: ComponentCreator('/research/Competition/SMSVaga', '903'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2427,8 +2445,20 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot',
+                component: ComponentCreator('/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot', '27f'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network',
                 component: ComponentCreator('/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network', '178'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Application of Data Layering in Precision Beekeeping The Concept',
+                component: ComponentCreator('/research/papers/Application of Data Layering in Precision Beekeeping The Concept', 'cfb'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2447,6 +2477,18 @@ export default [
               {
                 path: '/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology',
                 component: ComponentCreator('/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology', '1ac'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Automatic detection and decoding of honeybee waggle dances',
+                component: ComponentCreator('/research/papers/Automatic detection and decoding of honeybee waggle dances', '580'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees',
+                component: ComponentCreator('/research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees', '8c6'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2477,6 +2519,12 @@ export default [
               {
                 path: '/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos',
                 component: ComponentCreator('/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos', 'dfc'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Bio-Hybrid Systems for Ecosystem Level Effects',
+                component: ComponentCreator('/research/papers/Bio-Hybrid Systems for Ecosystem Level Effects', 'a68'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2591,6 +2639,12 @@ export default [
               {
                 path: '/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning',
                 component: ComponentCreator('/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning', '49c'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Impact of the precision beekeeping on the living environment',
+                component: ComponentCreator('/research/papers/Impact of the precision beekeeping on the living environment', '7f4'),
                 exact: true,
                 sidebar: "researchSidebar"
               },
@@ -2757,6 +2811,12 @@ export default [
                 sidebar: "researchSidebar"
               },
               {
+                path: '/research/papers/Social networks predict the life and death of honeybees',
+                component: ComponentCreator('/research/papers/Social networks predict the life and death of honeybees', '062'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
                 path: '/research/papers/Solution for automated bee colony weight monitoring',
                 component: ComponentCreator('/research/papers/Solution for automated bee colony weight monitoring', '20c'),
                 exact: true,
@@ -2795,6 +2855,12 @@ export default [
               {
                 path: '/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination',
                 component: ComponentCreator('/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination', '2da'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence',
+                component: ComponentCreator('/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence', '714'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

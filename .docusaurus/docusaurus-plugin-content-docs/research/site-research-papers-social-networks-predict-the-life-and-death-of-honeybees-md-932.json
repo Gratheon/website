@@ -1,0 +1,23 @@
+{
+  "id": "papers/Social networks predict the life and death of honeybees",
+  "title": "Social networks predict the life and death of honeybees",
+  "description": "PDF",
+  "source": "@site/research/papers/Social networks predict the life and death of honeybees.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Social networks predict the life and death of honeybees",
+  "permalink": "/research/papers/Social networks predict the life and death of honeybees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Smart Beehive Monitoring for Remote Regions - PhD thesis",
+    "permalink": "/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis"
+  },
+  "next": {
+    "title": "Solution for automated bee colony weight monitoring",
+    "permalink": "/research/papers/Solution for automated bee colony weight monitoring"
+  }
+}

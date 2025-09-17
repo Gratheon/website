@@ -395,7 +395,7 @@ nav {
 /* Container for the header text and buttons */
 .headerContentContainer {
   position: relative; /* Establish stacking context */
-  z-index: 2; /* Ensure content is above video (z-index: 1) */
+  z-index: 2; /* Ensure content is above video (z-index: 2) */
 }
 
 nav .menu {
@@ -556,4 +556,17 @@ article {
       padding-right: 20px;
       width: 40%;
   }
+}
+
+/* Badge styling for hardware device status */
+.badge {
+  display: inline-block;
+  padding: 2px 6px;
+  margin-left: 8px;
+  background-color: #0070ff;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  vertical-align: middle;
 }

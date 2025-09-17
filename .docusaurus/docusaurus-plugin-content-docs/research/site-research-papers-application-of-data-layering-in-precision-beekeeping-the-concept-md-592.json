@@ -1,0 +1,23 @@
+{
+  "id": "papers/Application of Data Layering in Precision Beekeeping The Concept",
+  "title": "Application of Data Layering in Precision Beekeeping The Concept",
+  "description": "PDF",
+  "source": "@site/research/papers/Application of Data Layering in Precision Beekeeping The Concept.md",
+  "sourceDirName": "papers",
+  "slug": "/papers/Application of Data Layering in Precision Beekeeping The Concept",
+  "permalink": "/research/papers/Application of Data Layering in Precision Beekeeping The Concept",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Apis mellifera Bee Verification with IoT and Graph Neural Network",
+    "permalink": "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network"
+  },
+  "next": {
+    "title": "Approximation of functions determining colony activity using neural networks. Master thesis",
+    "permalink": "/research/papers/Approximation of functions"
+  }
+}
