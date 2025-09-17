@@ -12,12 +12,12 @@ See [https://github.com/Gratheon/models-beepose](https://github.com/Gratheon/mod
 
 Here is an example from [[DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives](https://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Marstaller_DeepBees_-_Building_and_Scaling_Convolutional_Neuronal_Nets_For_Fast_ICCVW_2019_paper.pdf)]([https://www.notion.so/DeepBees-Building-and-Scaling-Convolutional-Neuronal-Nets-For-Fast-and-Large-scale-Visual-Monitori-d1e0cb637fbd40abb8c6aa1cfb799fcb?pvs=21](https://www.notion.so/DeepBees-Building-and-Scaling-Convolutional-Neuronal-Nets-For-Fast-and-Large-scale-Visual-Monitori-d1e0cb637fbd40abb8c6aa1cfb799fcb?pvs=21)) work. We want something similar - detecting legs, wings, how bees are moving.
 
-![](../../../../img/Screenshot%202023-10-25%20at%2001.07.06.png)
+![](../img/Screenshot%202023-10-25%20at%2001.07.06.png)
 
 
 [**LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video**](https://www.notion.so/LabelBee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-video-d4e940ed7aee48a6821507ceaa43e603?pvs=21) :
 
-![](../../../../img/Screen%20Recording%202023-10-25%20at%2002.39.02.mov)
+![](../img/Screen%20Recording%202023-10-25%20at%2002.39.02.mov)
 
 Optionally also:
 
