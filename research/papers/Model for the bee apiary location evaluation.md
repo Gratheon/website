@@ -6,5 +6,6 @@ orgs:
   - 🇩🇪 Humboldt University of Berlin
 hide_table_of_contents: true
 ---
+
 [PDF](pdfs/AR2020_Vol18SI2_Komasilova.pdf)
-![](pdfs/AR2020_Vol18SI2_Komasilova.pdf)
+

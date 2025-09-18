@@ -9,4 +9,5 @@ year: "2023"
 [PDF](pdfs/IntelliSYS_Beehive_CAMERAREADY.pdf)
 
 <object data={require('./pdfs/IntelliSYS_Beehive_CAMERAREADY.pdf').default} type="application/pdf" width="100%" height="800"></object>
-![](pdfs/IntelliSYS_Beehive_CAMERAREADY.pdf)
+
+

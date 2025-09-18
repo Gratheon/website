@@ -5,6 +5,6 @@ orgs:
 year: "2022"
 hide_table_of_contents: true
 ---
-- [PDF](pdfs/Integration_of_Scales_and_Cameras_in_Nondisruptive.pdf)
 
-![](pdfs/Integration_of_Scales_and_Cameras_in_Nondisruptive.pdf)
+[PDF](pdfs/Integration_of_Scales_and_Cameras_in_Nondisruptive.pdf)
+

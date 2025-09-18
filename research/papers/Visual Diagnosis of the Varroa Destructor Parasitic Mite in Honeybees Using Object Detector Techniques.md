@@ -6,6 +6,5 @@ title: Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Usi
 hide_table_of_contents: true
 ---
 
-- [PDF](pdfs/sensors2102764.pdf)
+[PDF](pdfs/sensors2102764.pdf)
 
-![](pdfs/sensors2102764.pdf)

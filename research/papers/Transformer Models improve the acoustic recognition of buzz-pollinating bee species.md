@@ -7,5 +7,5 @@ orgs:
   - 🇨🇱 Universidad Católica del Maule
 ---
 
+[PDF](pdfs/Ferreiraetal2025.pdf)
 
-![](pdfs/Ferreiraetal2025.pdf)

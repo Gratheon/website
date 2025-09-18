@@ -5,6 +5,6 @@ orgs:
   - 🇱🇻 Latvia University of Life Sciences and Technologies
 hide_table_of_contents: true
 ---
+
 [PDF](pdfs/Vol21No2_2023_Kotovs.pdf)
 
-![](pdfs/Vol21No2_2023_Kotovs.pdf)

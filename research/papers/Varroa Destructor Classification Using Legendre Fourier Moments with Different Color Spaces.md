@@ -6,7 +6,5 @@ title: Varroa Destructor Classification Using Legendre Fourier Moments with Diff
 hide_table_of_contents: true
 ---
 
-
 [PDF](pdfs/jimaging-09-00144.pdf)
 
-![](pdfs/jimaging-09-00144.pdf)

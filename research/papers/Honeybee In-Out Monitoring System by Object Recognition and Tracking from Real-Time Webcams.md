@@ -8,4 +8,3 @@ hide_table_of_contents: true
 
 [PDF](pdfs/31356.pdf)
 
-![](pdfs/31356.pdf)

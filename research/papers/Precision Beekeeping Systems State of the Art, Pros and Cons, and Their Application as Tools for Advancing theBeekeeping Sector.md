@@ -7,4 +7,4 @@ title: "Precision Beekeeping Systems: State of the Art, Pros and Cons, and Their
 ---
 
 [PDF](pdfs/animals-14-00070.pdf)
-![](pdfs/animals-14-00070.pdf)
+

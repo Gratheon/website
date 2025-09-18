@@ -6,5 +6,6 @@ orgs:
   - 🇫🇷 Université de Lyon
 hide_table_of_contents: true
 ---
+
 [PDF](pdfs/surveyPB_hal.pdf)
-![](pdfs/surveyPB_hal.pdf)
+

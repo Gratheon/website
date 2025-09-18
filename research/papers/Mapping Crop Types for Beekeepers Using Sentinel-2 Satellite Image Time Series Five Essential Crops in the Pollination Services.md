@@ -6,4 +6,4 @@ title: "Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time 
 ---
 
 [PDF](pdfs/remotesensing-16-04225.pdf)
-![](pdfs/remotesensing-16-04225.pdf)
+

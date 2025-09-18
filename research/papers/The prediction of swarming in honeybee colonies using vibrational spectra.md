@@ -7,7 +7,7 @@ orgs:
 title: The prediction of swarming in honeybee colonies using vibrational spectra
 hide_table_of_contents: true
 ---
+
 - [Original URL](https://www.nature.com/articles/s41598-020-66115-5)
 - [PDF](pdfs/s41598-020-66115-5.pdf)
 
-![](pdfs/s41598-020-66115-5.pdf)

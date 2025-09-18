@@ -5,7 +5,7 @@ orgs:
 year: "2023"
 hide_table_of_contents: true
 ---
-- [PDF](pdfs/2023-yolov4.pdf)
+
+[PDF](pdfs/2023-yolov4.pdf)
 
 <object data={require('./pdfs/2023-yolov4.pdf').default} type="application/pdf" width="100%" height="800"></object>
-

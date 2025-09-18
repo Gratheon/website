@@ -6,8 +6,7 @@ orgs:
   - 🇹🇷  Middle East Technical University
 hide_table_of_contents: true
 ---
-- [PDF](pdfs/2022_FAI_roboroyale.pdf)
+
+[PDF](pdfs/2022_FAI_roboroyale.pdf)
 
 <object data={require('./pdfs/2022_FAI_roboroyale.pdf').default} type="application/pdf" width="100%" height="800"></object>
-
-

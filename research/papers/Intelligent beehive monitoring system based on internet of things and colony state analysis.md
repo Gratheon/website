@@ -10,4 +10,4 @@ orgs:
 [PDF](pdfs/1-s2.0-S2772375524001898-main.pdf)
 
 <object data={require('./pdfs/1-s2.0-S2772375524001898-main.pdf').default} type="application/pdf" width="100%" height="800"></object>
-![](pdfs/1-s2.0-S2772375524001898-main.pdf)
+

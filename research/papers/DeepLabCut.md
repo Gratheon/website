@@ -9,7 +9,8 @@ orgs:
   - 🇺🇸 Baylor College of Medicine
 year: "2018"
 ---
+
 [PDF](pdfs/Mathis_markerless_defined_deeplearning.pdf)
 
 <object data={require('./pdfs/Mathis_markerless_defined_deeplearning.pdf').default} type="application/pdf" width="100%" height="800"></object>
-![](pdfs/Mathis_markerless_defined_deeplearning.pdf)
+

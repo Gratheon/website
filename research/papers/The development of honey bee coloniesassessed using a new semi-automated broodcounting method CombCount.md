@@ -7,6 +7,6 @@ orgs:
   - 🇺🇸 Carl Hayden Bee Research Center
 hide_table_of_contents: true
 ---
-- [PDF](pdfs/pone.0205816.pdf)
 
-![](pdfs/pone.0205816.pdf)
+[PDF](pdfs/pone.0205816.pdf)
+

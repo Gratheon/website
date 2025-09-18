@@ -9,4 +9,3 @@ title: Evaluation of Single-Shot Object Detection Models for Identifying Fanning
 
 [PDF](pdfs/agriculture-15-01609-v2.pdf)
 
-![](pdfs/agriculture-15-01609-v2.pdf)

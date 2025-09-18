@@ -5,8 +5,8 @@ orgs:
 year: "2022"
 hide_table_of_contents: true
 ---
-- [PDF](pdfs/VISAPP.pdf)
+
+[PDF](pdfs/VISAPP.pdf)
 
 <object data={require('./pdfs/VISAPP.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/VISAPP.pdf)

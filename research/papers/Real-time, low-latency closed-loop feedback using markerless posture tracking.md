@@ -6,4 +6,6 @@ orgs:
   - 🇨🇭 Swiss Federal Institute of Technology
 year: "2020"
 ---
-![](pdfs/elife-61909-v3.pdf)
+
+[PDF](pdfs/elife-61909-v3.pdf)
+

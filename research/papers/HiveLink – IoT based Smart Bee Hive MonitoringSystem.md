@@ -6,8 +6,6 @@ title: HiveLink – IoT based Smart Bee Hive MonitoringSystem
 year: "2023"
 ---
 
-
-[PDF](pdfs/2309.12054v1.pdf)
 https://arxiv.org/abs/2309.12054
+[PDF](pdfs/2309.12054v1.pdf)
 
-![](pdfs/2309.12054v1.pdf)

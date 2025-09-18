@@ -10,5 +10,3 @@ title: Varroa destructor detection on honey bees using hyperspectral imagery
 [PDF](pdfs/2024-varroa-destructor.pdf)
 
 <object data={require('./pdfs/2024-varroa-destructor.pdf').default} type="application/pdf" width="100%" height="800"></object>
-
-![](pdfs/2024-varroa-destructor.pdf)

@@ -4,6 +4,6 @@ orgs:
   - 🇭🇺 Hungarian University of Agricultureand Life Sciences
 year: "2024"
 ---
+
 [PDF](pdfs/insects-15-00693.pdf)
 
-![](pdfs/insects-15-00693.pdf)

@@ -10,4 +10,3 @@ hide_table_of_contents: true
 
 <object data={require('./pdfs/dataset-lt.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/dataset-lt.pdf)
