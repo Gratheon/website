@@ -9,4 +9,3 @@ orgs:
 ---
 [PDF](pdfs/Advances_in_Beehive_Monitoring_Systems_Low-Cost_In.pdf)
 
-![](pdfs/Advances_in_Beehive_Monitoring_Systems_Low-Cost_In.pdf)

@@ -9,4 +9,3 @@ title: Towards dense object tracking in a 2D honeybee hive
 
 <object data={require('./pdfs/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/Bozek_Towards_Dense_Object_CVPR_2018_paper.pdf)

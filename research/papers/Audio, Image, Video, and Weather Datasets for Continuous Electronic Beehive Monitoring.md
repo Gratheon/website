@@ -10,4 +10,3 @@ hide_table_of_contents: true
 
 <object data={require('./pdfs/applsci-11-04632.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/applsci-11-04632.pdf)

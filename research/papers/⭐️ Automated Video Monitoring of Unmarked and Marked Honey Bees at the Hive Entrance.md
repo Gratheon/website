@@ -10,5 +10,3 @@ title: Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive 
 
 
 <object data={require('./pdfs/fcomp-03-769338.pdf').default} type="application/pdf" width="100%" height="800"></object>
-
-![](pdfs/fcomp-03-769338.pdf)

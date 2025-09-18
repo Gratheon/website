@@ -10,4 +10,4 @@ hide_table_of_contents: true
 
 <object data={require('./pdfs/2022_FAI_roboroyale.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/2022_FAI_roboroyale.pdf)
+

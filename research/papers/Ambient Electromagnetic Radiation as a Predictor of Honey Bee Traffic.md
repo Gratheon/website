@@ -10,4 +10,4 @@ https://www.mdpi.com/1424-8220/23/5/2584
 [PDF](pdfs/sensors-23-02584-v3.pdf)
 
 <object data={require('./pdfs/sensors-23-02584-v3.pdf').default} type="application/pdf" width="100%" height="800"></object>
-![](pdfs/sensors-23-02584-v3.pdf)
+

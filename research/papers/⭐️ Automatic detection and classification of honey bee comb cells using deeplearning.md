@@ -17,4 +17,3 @@ https://bibliotecadigital.ipb.pt/bitstream/10198/22321/1/65.pdf
 
 <object data={require('./pdfs/65.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/65.pdf)

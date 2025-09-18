@@ -20,7 +20,6 @@ title: Autonomous tracking of honey bee behaviors over long-term periods with co
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/RtaotaaB5SM?list=PLwJcdKVRxEGLCrmPlRZjI0PEkswdf8O9g" title="Dashboard of the AROBA system" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-![](pdfs/scirobotics.adn6848.pdf)
 
 
 

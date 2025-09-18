@@ -8,4 +8,3 @@ hide_table_of_contents: true
 
 <object data={require('./pdfs/agriculture-15-00969.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/agriculture-15-00969.pdf)

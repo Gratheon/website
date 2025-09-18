@@ -9,4 +9,3 @@ title: ⭐️ Markerless tracking of an entire honey bee colony
 
 <object data={require('./pdfs/2021-markerless.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/2021-markerless.pdf)

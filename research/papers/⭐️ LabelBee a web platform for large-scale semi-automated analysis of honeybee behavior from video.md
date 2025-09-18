@@ -13,4 +13,3 @@ https://github.com/rmegret/labelbee
 
 <object data={require('./pdfs/3359115.3359120.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![](pdfs/3359115.3359120.pdf)
