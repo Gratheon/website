@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "research/papers/Be-Hive.md",
+                "file": "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Be-Hive"
+              "title": "Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Open*remote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,11 +174,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ad53c274982cbce7",
   "lastOpenFiles": [
+    "research/papers/Be-Hive.md",
     "research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees.md",
     "research/papers/Automatic detection and decoding of honeybee waggle dances.md",
     "research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology.md",
@@ -204,7 +207,6 @@
     "research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies.md",
     "research/papers/pdfs/agriculture-15-00969.pdf",
     "README.md",
-    "cursor.md",
     "about/products/entrance_observer/img/Screen Recording 2023-10-25 at 02.39.02.mov",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
