@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02955608c120a0b7",
+        "id": "527a96a6904970f6",
         "type": "tabs",
         "children": [
           {
-            "id": "faa232a3180a2436",
+            "id": "f25e4fc61c1eaee3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faa232a3180a2436",
+  "active": "f25e4fc61c1eaee3",
   "lastOpenFiles": [
     "about/index.md",
     "Untitled.md",
