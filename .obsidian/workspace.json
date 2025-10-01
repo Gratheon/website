@@ -177,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47c1d0794469da5c",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "about/index.md",
+    "Untitled.md",
     "research/papers/Honey Bee Colonies Remote Monitoring System.md",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
@@ -222,7 +224,6 @@
     "research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
     "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md",
     "research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives.md",
-    "research/papers/⭐️ BeeAlarmed. Masters thesis.md",
-    "research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.md"
+    "research/papers/⭐️ BeeAlarmed. Masters thesis.md"
   ]
 }
