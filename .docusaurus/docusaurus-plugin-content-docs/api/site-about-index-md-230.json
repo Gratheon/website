@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Gratheon develops open, modular robotic beehive as a data service for 👨🏻‍🚀 Semi-professional beekeepers to save bees 🐝, improve efficiency and scale beekeeping. Globally we increase food security through precise pollination.",
+  "description": "Gratheon empowers 👨🏻‍🚀 Semi-professional beekeepers to protect bees, optimize hive efficiency, and scale operations with smart hive hardware and data analytics — driving pollination that strengthens global food security",
   "source": "@site/about/index.md",
   "sourceDirName": ".",
   "slug": "/",

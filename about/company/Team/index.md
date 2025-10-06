@@ -24,13 +24,3 @@ sidebar_position: 2
 ![](img/1644591418971.jpg)
 </div>
 
-
-### Vjatšeslav Kekšin
-- Role: Research Advisor
-- [linkedin](https://www.linkedin.com/in/vjatsheslav-kekshin-63455053/)
-- [etis](https://www.etis.ee/cv/Vjat%C5%A1eslav_Kek%C5%A1in)
-
-![](img/photo-1704700285576.jpg)
-<div style={{borderRadius:100, width:200, height:200, overflow:'hidden'}}>
-![](img/photo-1704700285576.jpg)
-</div>
