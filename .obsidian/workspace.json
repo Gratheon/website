@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/🌻 Purpose/Company mission.md",
+                "file": "about/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Company mission"
+              "title": "index"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "f3079fe02e59e4f6",
   "lastOpenFiles": [
+    "about/🌻 Purpose/Company mission.md",
     "about/company/Team/index.md",
     "about/index.md",
     "Untitled.md",
@@ -223,7 +224,6 @@
     "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
     "research/papers/⭐️ Markerless tracking of an entire honey bee colony.md",
     "research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
-    "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md",
-    "research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives.md"
+    "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md"
   ]
 }
