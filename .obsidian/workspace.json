@@ -11,10 +11,14 @@
             "id": "1db82e089e4d61be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "about/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 525.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -175,31 +179,34 @@
   },
   "active": "1db82e089e4d61be",
   "lastOpenFiles": [
-    "about/index.md",
-    "about/🌻 Purpose/Company mission.md",
-    "about/company/Team/index.md",
-    "Untitled.md",
-    "research/papers/Honey Bee Colonies Remote Monitoring System.md",
-    "public/blog/atom.xml",
-    "public/blog/rss.xml",
-    "public/blog/atom.css",
-    "public/blog/rss.css",
-    "public/blog/atom.xsl",
-    "public/blog/rss.xsl",
+    "src/img/pdf.svg",
+    "pdf.svg",
+    "Unconfirmed 146328.crdownload",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence/index.html",
-    "public/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination/index.html",
+    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
+    "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
+    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
+    "public/research/papers/⭐️ Markerless tracking of an entire honey bee colony/index.html",
+    "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
+    "public/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives/index.html",
+    "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/undraw_docusaurus_react.svg",
     "public/img/undraw_docusaurus_mountain.svg",
     "public/img/temp.webp",
-    "public/img/tallinn.png",
     "public/img/sharing.webp",
+    "public/img/tallinn.png",
     "public/img/sensors.webp",
-    "public/img/robot.jpeg",
+    "research/index.md",
+    "research/Models.md",
+    "about/index.md",
+    "about/🌻 Purpose/Company mission.md",
+    "about/company/Team/index.md",
+    "Untitled.md",
+    "research/papers/Honey Bee Colonies Remote Monitoring System.md",
     "pdf/sensors-17-00055-v2.pdf.md",
     "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
     "research/papers/Be-Hive.md",
@@ -217,9 +224,6 @@
     "research/papers/Accuracy vs. Energy.md",
     "research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees.md",
     "research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees.md",
-    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md",
-    "research/papers/⭐️ Markerless tracking of an entire honey bee colony.md",
-    "research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video.md",
-    "research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives.md"
+    "research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive.md"
   ]
 }

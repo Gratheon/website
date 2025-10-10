@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Overview",
-  "description": "Gratheon empowers 👨🏻‍🚀 Semi-professional beekeepers to protect bees, optimize hive efficiency, and scale operations with smart hive hardware and data analytics — driving pollination that strengthens global food security",
+  "description": "Gratheon helps beekeepers to protect bees, understand colony development, and scale operations using smart hive hardware and data analytics. This drives pollination that strengthens global food security",
   "source": "@site/about/index.md",
   "sourceDirName": ".",
   "slug": "/",

@@ -14,7 +14,7 @@ Gratheon team is interested in existing research and engineering work. We track
 - [Hacker projects](Hacker%20projects.md) done by enthusiasts
 - [Commercial projects](Competition/index.md) pursued by enterpreneurs
 ## Research collaboration with us
-
+- Our [Entrance Observer White Paper](/entrance-observer-whitepaper.pdf)
 - TalTech / Vidrik - we have collaborated on a [whitepaper](https://easychair.org/publications/preprint/QGJN)
 - [Tartu University](https://topics.cs.ut.ee/?language=en) - We are open to consulting on bachelor and master degrees work
 

@@ -359,6 +359,9 @@ function HomepageHeader() {
                     fill="#1B1F23"
                   />
                 </svg> Code</a>
+                <br />
+                <a href="/entrance-observer-whitepaper.pdf)">
+                White Paper</a>
             </div>
 
             <div className={styles.deviceImgs}>
