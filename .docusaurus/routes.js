@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '50a'),
+    component: ComponentCreator('/blog', '7b3'),
     exact: true
   },
   {
@@ -138,8 +138,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program',
-    component: ComponentCreator('/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program', 'a20'),
+    path: '/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program',
+    component: ComponentCreator('/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program', '2f3'),
     exact: true
   },
   {
@@ -178,13 +178,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/2025/05/13/ ESTBAN Red flags in legal',
-    component: ComponentCreator('/blog/2025/05/13/ ESTBAN Red flags in legal', '84e'),
+    path: '/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal',
+    component: ComponentCreator('/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal', 'cda'),
     exact: true
   },
   {
-    path: '/blog/2025/05/15/ 🔬 gscan',
-    component: ComponentCreator('/blog/2025/05/15/ 🔬 gscan', 'bb7'),
+    path: '/blog/2025/05/15/ 🎒 gscan webinar',
+    component: ComponentCreator('/blog/2025/05/15/ 🎒 gscan webinar', 'ca7'),
+    exact: true
+  },
+  {
+    path: '/blog/2025/10/10/ 🔬 Gratheon Whitepaper',
+    component: ComponentCreator('/blog/2025/10/10/ 🔬 Gratheon Whitepaper', '08c'),
     exact: true
   },
   {
@@ -194,7 +199,7 @@ export default [
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '7b9'),
+    component: ComponentCreator('/blog/page/2', '4d9'),
     exact: true
   },
   {

@@ -2,14 +2,20 @@
   "title": " ",
   "items": [
     {
+      "title": " 🔬 Gratheon Whitepaper",
+      "permalink": "/blog/2025/10/10/ 🔬 Gratheon Whitepaper",
+      "unlisted": false,
+      "date": "2025-10-10T00:00:00.000Z"
+    },
+    {
       "title": "🔬 L59 startup training - Finding the right mix of scientists, engineers, and business builders (GScan use-case)",
-      "permalink": "/blog/2025/05/15/ 🔬 gscan",
+      "permalink": "/blog/2025/05/15/ 🎒 gscan webinar",
       "unlisted": false,
       "date": "2025-05-15T00:00:00.000Z"
     },
     {
       "title": "⚖️ Attended EstBAN Red flags in startup legal aspects webinar",
-      "permalink": "/blog/2025/05/13/ ESTBAN Red flags in legal",
+      "permalink": "/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal",
       "unlisted": false,
       "date": "2025-05-13T00:00:00.000Z"
     },
@@ -56,8 +62,8 @@
       "date": "2024-12-02T00:00:00.000Z"
     },
     {
-      "title": " Gratheon joins NVIDIA Inception Program",
-      "permalink": "/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program",
+      "title": " 🤝 Gratheon joins NVIDIA Inception Program",
+      "permalink": "/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program",
       "unlisted": false,
       "date": "2024-11-30T00:00:00.000Z"
     },
@@ -114,12 +120,6 @@
       "permalink": "/blog/2024/06/17/ 💶 Pitch to purposetech.vc",
       "unlisted": false,
       "date": "2024-06-17T00:00:00.000Z"
-    },
-    {
-      "title": " 🎒 Hosting internship school for QA engineers",
-      "permalink": "/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers",
-      "unlisted": false,
-      "date": "2024-06-10T00:00:00.000Z"
     }
   ]
 }

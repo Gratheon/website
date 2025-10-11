@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gratheon.com/blog</id>
     <title>Gratheon Blog</title>
-    <updated>2025-05-15T00:00:00.000Z</updated>
+    <updated>2025-10-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gratheon.com/blog"/>
     <subtitle>Gratheon Blog</subtitle>
     <icon>https://gratheon.com/favicons/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[ 🔬 Gratheon Whitepaper]]></title>
+        <id>https://gratheon.com/blog/2025/10/10/ 🔬 Gratheon Whitepaper</id>
+        <link href="https://gratheon.com/blog/2025/10/10/ 🔬 Gratheon Whitepaper"/>
+        <updated>2025-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are glad to announce that we have published our whitepaper on entrance observer field testing. Feel free to research and contact us for more details.]]></summary>
+        <content type="html"><![CDATA[<p>We are glad to announce that we have published our whitepaper on entrance observer field testing. Feel free to research and contact us for more details.</p>
+<p><a href="https://gratheon.com/entrance-observer-whitepaper.pdf" target="_blank" rel="noopener noreferrer">https://gratheon.com/entrance-observer-whitepaper.pdf</a></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🔬 L59 startup training - Finding the right mix of scientists, engineers, and business builders (GScan use-case)]]></title>
-        <id>https://gratheon.com/blog/2025/05/15/ 🔬 gscan</id>
-        <link href="https://gratheon.com/blog/2025/05/15/ 🔬 gscan"/>
+        <id>https://gratheon.com/blog/2025/05/15/ 🎒 gscan webinar</id>
+        <link href="https://gratheon.com/blog/2025/05/15/ 🎒 gscan webinar"/>
         <updated>2025-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[~40 employees]]></summary>
         <content type="html"><![CDATA[<p>~40 employees
@@ -51,11 +60,11 @@ some PHDs</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[⚖️ Attended EstBAN Red flags in startup legal aspects webinar]]></title>
-        <id>https://gratheon.com/blog/2025/05/13/ ESTBAN Red flags in legal</id>
-        <link href="https://gratheon.com/blog/2025/05/13/ ESTBAN Red flags in legal"/>
+        <id>https://gratheon.com/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal</id>
+        <link href="https://gratheon.com/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal"/>
         <updated>2025-05-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary, legal aspects]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary-legal-aspects">Summary, legal aspects<a href="https://gratheon.com/blog/2025/05/13/%20ESTBAN%20Red%20flags%20in%20legal#summary-legal-aspects" class="hash-link" aria-label="Direct link to Summary, legal aspects" title="Direct link to Summary, legal aspects">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary-legal-aspects">Summary, legal aspects<a href="https://gratheon.com/blog/2025/05/13/%20%F0%9F%8E%92%20ESTBAN%20Red%20flags%20in%20legal#summary-legal-aspects" class="hash-link" aria-label="Direct link to Summary, legal aspects" title="Direct link to Summary, legal aspects">​</a></h2>
 <ul>
 <li>check statistics. check what are the avg rounds. wether offer is ok or not</li>
 <li>term sheets usually are not binding<!-- -->
@@ -127,7 +136,7 @@ some PHDs</p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-05-13%20at%2014.41.29-4acbd2da656431adacfa70a660a913c3.png" width="1232" height="568" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-05-13%20at%2014.47.16-4a5dfae74133e99c88acc6b753a669d9.png" width="1748" height="302" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-05-13%20at%2014.51.42-b96d98fefbe8b62daaebb1150c8beddb.png" width="1734" height="970" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="options">Options<a href="https://gratheon.com/blog/2025/05/13/%20ESTBAN%20Red%20flags%20in%20legal#options" class="hash-link" aria-label="Direct link to Options" title="Direct link to Options">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="options">Options<a href="https://gratheon.com/blog/2025/05/13/%20%F0%9F%8E%92%20ESTBAN%20Red%20flags%20in%20legal#options" class="hash-link" aria-label="Direct link to Options" title="Direct link to Options">​</a></h2>
 <ul>
 <li>long term motivator</li>
 <li>not regulated in Estonia well</li>
@@ -140,7 +149,7 @@ some PHDs</p>
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qa">QA<a href="https://gratheon.com/blog/2025/05/13/%20ESTBAN%20Red%20flags%20in%20legal#qa" class="hash-link" aria-label="Direct link to QA" title="Direct link to QA">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="qa">QA<a href="https://gratheon.com/blog/2025/05/13/%20%F0%9F%8E%92%20ESTBAN%20Red%20flags%20in%20legal#qa" class="hash-link" aria-label="Direct link to QA" title="Direct link to QA">​</a></h2>
 <ul>
 <li>what kind of data in term sheets can be</li>
 <li>what kind of red flags<!-- -->
@@ -154,7 +163,7 @@ some PHDs</p>
 </li>
 <li>options can be complex if employees are remote as taxation is different in other countries</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-trinity">About Trinity<a href="https://gratheon.com/blog/2025/05/13/%20ESTBAN%20Red%20flags%20in%20legal#about-trinity" class="hash-link" aria-label="Direct link to About Trinity" title="Direct link to About Trinity">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="about-trinity">About Trinity<a href="https://gratheon.com/blog/2025/05/13/%20%F0%9F%8E%92%20ESTBAN%20Red%20flags%20in%20legal#about-trinity" class="hash-link" aria-label="Direct link to About Trinity" title="Direct link to About Trinity">​</a></h2>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-05-13%20at%2014.08.29-63f6b0702d06e011a0345fdd8a38a3bd.png" width="940" height="513" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-05-13%20at%2014.08.48-4808a75d7aac9f7860b44e13cd213683.png" width="954" height="526" class="img_ev3q"></p>
 <p><a href="https://gratheon.com/assets/files/2025%2005%2013%20-%20Startup%20Legal%20Matters%20(by%20TRINITI)-4b9fb6a8f4b9f4251bf70ad930e1d3e6.pdf" target="_blank">PDF</a></p>]]></content>
@@ -383,9 +392,9 @@ Had networking with local AI community</p>
 <p>We got questioned by <a href="https://www.linkedin.com/in/raashidsaiyed/" target="_blank" rel="noopener noreferrer">Dr. Raashid Saiyed</a> on <a href="https://gratheon.com/about/company/%F0%9F%A4%B2%20Why%20open%20source">why we are open source</a>, <a href="https://gratheon.com/about/company/%F0%9F%93%8A%20Market%20analysis">📊 Market analysis</a> and</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ Gratheon joins NVIDIA Inception Program]]></title>
-        <id>https://gratheon.com/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program</id>
-        <link href="https://gratheon.com/blog/2024/11/30/ Gratheon joins NVIDIA Inception Program"/>
+        <title type="html"><![CDATA[ 🤝 Gratheon joins NVIDIA Inception Program]]></title>
+        <id>https://gratheon.com/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program</id>
+        <link href="https://gratheon.com/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program"/>
         <updated>2024-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We're excited to announce that we join NVIDIA Inception Program!]]></summary>
         <content type="html"><![CDATA[<p>We're excited to announce that we join NVIDIA Inception Program!</p>
@@ -808,14 +817,5 @@ Was mainly experimenting with sensor telemetry as a product</p>
         <updated>2024-06-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Got some follow-up comms later]]></summary>
         <content type="html"><![CDATA[<p>Got some follow-up comms later</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 🎒 Hosting internship school for QA engineers]]></title>
-        <id>https://gratheon.com/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers</id>
-        <link href="https://gratheon.com/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers"/>
-        <updated>2024-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gave an remote internship for QA engineers to practice finding bugs, organized by Tallinn Learning school]]></summary>
-        <content type="html"><![CDATA[<p>Gave an remote internship for QA engineers to practice finding bugs, organized by <a href="https://www.tallinn-learning.ee/et" target="_blank" rel="noopener noreferrer">Tallinn Learning</a> school</p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-07-10%20at%2022.38.24-fc8b9d9ea18f85b17775b3206aa56770.png" width="754" height="686" class="img_ev3q"></p>]]></content>
     </entry>
 </feed>
