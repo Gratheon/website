@@ -4,10 +4,71 @@
         <title>Gratheon Blog</title>
         <link>https://gratheon.com/blog</link>
         <description>Gratheon Blog</description>
-        <lastBuildDate>Fri, 10 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ 🎒 Visual AI in Agriculture Webinar]]></title>
+            <link>https://gratheon.com/blog/2025/10/16/ 🎒 Visual AI in Agriculture Webinar</link>
+            <guid>https://gratheon.com/blog/2025/10/16/ 🎒 Visual AI in Agriculture Webinar</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[We attended a Webinar on agriculture, mostly showcasing voxel51 AI tool use with agriculture projects]]></description>
+            <content:encoded><![CDATA[<p>We attended a Webinar on agriculture, mostly showcasing voxel51 AI tool use with agriculture projects</p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/unnamed-e7bb67fcb9b4e9ce18597e3a60ed3aad.png" width="1200" height="630" class="img_ev3q"></p>
+<p><a href="https://www.youtube.com/@voxel51" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@voxel51</a></p>
+<p>Pest dataset</p>
+<ul>
+<li>102 classes</li>
+<li>hierarchical taxonomy
+<a href="https://github.com/xpwu95/IP102" target="_blank" rel="noopener noreferrer">https://github.com/xpwu95/IP102</a></li>
+</ul>
+<p><a href="https://precision-sustainable-ag.atlassian.net/wiki/spaces/IR2/overview" target="_blank" rel="noopener noreferrer">https://precision-sustainable-ag.atlassian.net/wiki/spaces/IR2/overview</a>
+<a href="https://www.precisionsustainableag.org/agimagerepo" target="_blank" rel="noopener noreferrer">https://www.precisionsustainableag.org/agimagerepo</a></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.31.15-d842d2bcee56c6ff1527558411f2c867.png" width="2426" height="1320" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.33.21-5e826454b8a0516f46628742e0e9d107.png" width="2220" height="1236" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.35.53-7bab83de85ce67491be079bb371f1bf6.png" width="2684" height="1464" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.38.20-c0fb49f89baeefedf934ed8882f77957.png" width="2704" height="1384" class="img_ev3q"></p>
+<p>Class distribution
+<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Pasted%20image%2020251016194110-d922f9c9bdde3f6b7070f5b6e531ed7a.png" width="2706" height="1508" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.42.31-f5ccc81966df91206575a77fcebc6ceb.png" width="2706" height="1406" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Pasted%20image%2020251016194414-632331af4cd257488d8db30c5ab7dc93.png" width="2708" height="1412" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.45.58-61c42f41b48296d8011aa558f9393914.png" width="2238" height="1256" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2019.49.38-c8a6b3228eca1bb1dd5b65fbaaf3682b.png" width="2260" height="1266" class="img_ev3q"></p>
+<p>Yifan Wu on Sweet Potatoes AI analytics</p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.34.12-eca323bddf9e919e7a5aae5f8e784e20.png" width="3912" height="2464" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.36.23-3e5cbef8078e9ec72f9577de1add4a84.png" width="3962" height="2262" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.38.33-4611d8be4269cefabc918e78dd23836e.png" width="4018" height="2258" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.40.49-9cad645f596324498c424c4c8a90b3ac.png" width="2004" height="1106" class="img_ev3q"></p>
+<p>QR tag (track/trace) tracking
+<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.49.52-6445b6942cf2067f1fde877440f74666.png" width="2716" height="1506" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.41.34-dd351b0246c6d52b851e7aba421e38e9.png" width="2016" height="1140" class="img_ev3q">
+<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.43.10-1d2a55016cb2a98c4b6f1e60a49519ab.png" width="2726" height="1548" class="img_ev3q"></p>
+<p>1st gen system - PC
+2nd gen system</p>
+<ul>
+<li>desktop motherboard with GPU</li>
+<li>rgb cam -&gt; mask rcnn</li>
+<li>polirarization cam<!-- -->
+<ul>
+<li>skin blemishes</li>
+<li>LED</li>
+</ul>
+</li>
+<li>water resistance</li>
+</ul>
+<p>Keeping everything on the edge</p>
+<ul>
+<li>data privacy</li>
+<li>remote location, poor internet -&gt; reduces delay, no data lost</li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.44.28-e46b54b87e01c444c670edd13e067096.png" width="2898" height="1640" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.48.03-8b6a4d2f4819f53514f6cf8665a5ac36.png" width="2688" height="1534" class="img_ev3q"></p>
+<p>Cheaper and more compact system:</p>
+<ul>
+<li>all in one</li>
+<li>RTX3050 ~ 4gb DDR</li>
+<li>instance segmentation</li>
+<li>raspberry pi -&gt; global shutter camera, magnetic halt sensor with converyor belt</li>
+<li></li>
+</ul>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.48.13-357f86a43712be3216cfaadb9a3c444c.png" width="2706" height="1502" class="img_ev3q"></p>
+<p>Dashboard:
+<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.50.58-8dee09131c7b1d3c3c799b866dd7d152.png" width="2682" height="1522" class="img_ev3q"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-10-16%20at%2020.52.44-fd4c80af295444c4ffd7ce53ab6ebc7d.png" width="2690" height="1140" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ 🔬 Gratheon Whitepaper]]></title>
             <link>https://gratheon.com/blog/2025/10/10/ 🔬 Gratheon Whitepaper</link>
@@ -810,14 +871,6 @@ Was mainly experimenting with sensor telemetry as a product</p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/20240725_220128-efe70ecd22185579d826425f97a8e10d.webp" width="1804" height="1353" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/20240726_000022-f2ed31f8fd68de4a8891c77efaf93bf9.webp" width="1804" height="1353" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/20240725_220202-9be8899d404b6221c436510436dd72d7.webp" width="1804" height="1353" class="img_ev3q"></p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ 💶 Pitch to purposetech.vc]]></title>
-            <link>https://gratheon.com/blog/2024/06/17/ 💶 Pitch to purposetech.vc</link>
-            <guid>https://gratheon.com/blog/2024/06/17/ 💶 Pitch to purposetech.vc</guid>
-            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Got some follow-up comms later]]></description>
-            <content:encoded><![CDATA[<p>Got some follow-up comms later</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

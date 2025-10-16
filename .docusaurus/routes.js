@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '7b3'),
+    component: ComponentCreator('/blog', 'f2f'),
     exact: true
   },
   {
@@ -193,13 +193,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/2025/10/16/ 🎒 Visual AI in Agriculture Webinar',
+    component: ComponentCreator('/blog/2025/10/16/ 🎒 Visual AI in Agriculture Webinar', 'fc7'),
+    exact: true
+  },
+  {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
     path: '/blog/page/2',
-    component: ComponentCreator('/blog/page/2', '4d9'),
+    component: ComponentCreator('/blog/page/2', 'fbd'),
     exact: true
   },
   {
