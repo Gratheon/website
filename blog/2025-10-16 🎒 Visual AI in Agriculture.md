@@ -19,3 +19,45 @@ Class distribution
 
 
 
+
+Yifan Wu on Sweet Potatoes AI analytics
+
+![](img/Screenshot%202025-10-16%20at%2020.34.12.png)
+
+![](img/Screenshot%202025-10-16%20at%2020.36.23.png)
+
+![](img/Screenshot%202025-10-16%20at%2020.38.33.png)
+![](img/Screenshot%202025-10-16%20at%2020.40.49.png)
+
+QR tag (track/trace) tracking
+![](img/Screenshot%202025-10-16%20at%2020.49.52.png)
+
+![](img/Screenshot%202025-10-16%20at%2020.41.34.png)
+![](img/Screenshot%202025-10-16%20at%2020.43.10.png)
+
+1st gen system - PC
+2nd gen system
+- desktop motherboard with GPU
+- rgb cam -> mask rcnn
+- polirarization cam
+	- skin blemishes
+	- LED
+- water resistance
+
+Keeping everything on the edge
+- data privacy 
+- remote location, poor internet -> reduces delay, no data lost
+
+![](img/Screenshot%202025-10-16%20at%2020.44.28.png)![](img/Screenshot%202025-10-16%20at%2020.48.03.png)
+
+
+Cheaper and more compact system:
+- all in one
+- RTX3050
+- instance segmentation
+- raspberry pi -> global shutter camera, magnetic halt sensor with converyor belt
+- 
+![](img/Screenshot%202025-10-16%20at%2020.48.13.png)
+
+Dashboard:
+![](img/Screenshot%202025-10-16%20at%2020.50.58.png)
