@@ -53,11 +53,11 @@ Keeping everything on the edge
 
 Cheaper and more compact system:
 - all in one
-- RTX3050
+- RTX3050 ~ 4gb DDR
 - instance segmentation
 - raspberry pi -> global shutter camera, magnetic halt sensor with converyor belt
 - 
 ![](img/Screenshot%202025-10-16%20at%2020.48.13.png)
 
 Dashboard:
-![](img/Screenshot%202025-10-16%20at%2020.50.58.png)
+![](img/Screenshot%202025-10-16%20at%2020.50.58.png)![](img/Screenshot%202025-10-16%20at%2020.52.44.png)
