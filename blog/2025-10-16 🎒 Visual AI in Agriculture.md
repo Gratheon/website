@@ -1,4 +1,4 @@
-We attended a Meetup on agriculture:
+We attended a Meetup on agriculture, mostly showcasing voxel51 AI tool use with agriculture background
 
 https://www.youtube.com/@voxel51
 
