@@ -3,8 +3,11 @@ title: ⚽️ Team
 sidebar_position: 2
 ---
 
-As we are non-profitable project yet, our team is mostly set of volunteers and enthusiasts
+As we are non-profitable project yet, our team is mostly set of [volunteer](../../volunteer.md)s, researchers, students, enthusiasts and beekeepers.
 
+You can find full list of all [**active and past contributors in our Notion**](https://gratheon.notion.site/Team-5ff38d33b8a2448ca02ffc26aed09278)
+
+For formal and legal contact:
 ## Artjom Kurapov
 - [linkedin](https://www.linkedin.com/in/kurapov/)
 - [website](https://kurapov.ee)
