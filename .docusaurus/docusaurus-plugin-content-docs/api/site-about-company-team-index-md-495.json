@@ -1,7 +1,7 @@
 {
   "id": "company/Team/index",
   "title": "⚽️ Team",
-  "description": "Artjom Kurapov",
+  "description": "As we are non-profitable project yet, our team is mostly set of volunteers, researchers, students, enthusiasts and beekeepers.",
   "source": "@site/about/company/Team/index.md",
   "sourceDirName": "company/Team",
   "slug": "/company/Team/",
