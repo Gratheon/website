@@ -11,14 +11,12 @@
             "id": "814dc6bd63912a76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "about/company/Team/index.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-09-13 at 12.30.27"
             }
           }
         ]
@@ -173,11 +171,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "814dc6bd63912a76",
   "lastOpenFiles": [
+    "about/company/Team/index.md",
     "public/sitemap.xml",
     "public/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
@@ -188,7 +188,6 @@
     "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
     "public/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives/index.html",
     "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
-    "public/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning/index.html",
     "public/img/windows.png",
     "public/img/tallinn.png",
     "public/img/varroa.webp",
@@ -200,7 +199,6 @@
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
     "about/company/Untitled.md",
-    "about/company/Team/index.md",
     "blog/2025-10-16 🎒 Visual AI in Agriculture Webinar.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
     "blog/2025-01-13 🤝 Visited VIDRIK.md",
