@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🌡️ Beehive IoT sensors",
-    "permalink": "/about/products/sensors/"
+    "title": "design",
+    "permalink": "/about/products/sensors/design"
   },
   "next": {
     "title": "🌩️ Measure atmospheric pressure",

@@ -11,14 +11,12 @@
             "id": "667e9915c3e6c709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "about/products/entrance_observer/entrance_observer.md",
-                "mode": "source",
-                "source": false
+                "file": "about/products/sensors/design.md"
               },
-              "icon": "lucide-file",
-              "title": "entrance_observer"
+              "icon": "excalidraw-icon",
+              "title": "design"
             }
           }
         ]
@@ -180,14 +178,14 @@
   },
   "active": "667e9915c3e6c709",
   "lastOpenFiles": [
+    "about/products/sensors/img/20250119_131627.webp",
+    "about/products/entrance_counter_circular/design.excalidraw",
+    "about/products/entrance_observer/entrance_observer.md",
     "about/products/robotic_beehive/todo/📸 Real-time frame scanning.md",
     "about/products/robotic_beehive/todo/📸 Full hive inspection.md",
     "about/products/sensors/img/Screenshot 2025-10-22 at 21.32.25.png",
     "about/products/sensors/img/Screenshot 2025-02-14 at 18.26.53.png",
-    "about/products/sensors/img/20250119_131627.webp",
-    "about/products/entrance_counter_circular/design.excalidraw",
     "about/products/entrance_counter_circular/index.md",
-    "about/products/entrance_observer/entrance_observer.md",
     "about/products/sensors/sensors.md",
     "about/products/sensors/design.md",
     "about/products/sensors/img/0.jpg",
@@ -225,7 +223,6 @@
     "blog/2025-10-10 🔬 Gratheon Whitepaper.md",
     "blog/2024-05-05 🛠️ Participated in Prototron.ee fund.md",
     "blog/2024-06-27 🛠️ Participated in K-space.ee hackathon.md",
-    "blog/2024-11-30 🤝 Gratheon joins NVIDIA Inception Program.md",
-    "about/index.md"
+    "blog/2024-11-30 🤝 Gratheon joins NVIDIA Inception Program.md"
   ]
 }

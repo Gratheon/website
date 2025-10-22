@@ -1,0 +1,34 @@
+{
+  "id": "products/entrance_observer/design.excalidraw",
+  "title": "design.excalidraw",
+  "description": "==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'",
+  "source": "@site/about/products/entrance_observer/design.excalidraw.md",
+  "sourceDirName": "products/entrance_observer",
+  "slug": "/products/entrance_observer/design.excalidraw",
+  "permalink": "/about/products/entrance_observer/design.excalidraw",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "excalidraw",
+      "permalink": "/about/tags/excalidraw"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "excalidraw-plugin": "parsed",
+    "tags": [
+      "excalidraw"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/entrance_observer/"
+  },
+  "next": {
+    "title": "🎥 Video streaming via API",
+    "permalink": "/about/products/entrance_observer/features/🎥 Video streaming via API"
+  }
+}

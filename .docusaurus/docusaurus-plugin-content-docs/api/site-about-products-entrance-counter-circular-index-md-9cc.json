@@ -1,0 +1,25 @@
+{
+  "id": "products/entrance_counter_circular/index",
+  "title": "Circular entrance counter",
+  "description": "status: idea ( TRL 1)",
+  "source": "@site/about/products/entrance_counter_circular/index.md",
+  "sourceDirName": "products/entrance_counter_circular",
+  "slug": "/products/entrance_counter_circular/",
+  "permalink": "/about/products/entrance_counter_circular/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Circular entrance counter"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑🏻‍🌾 Farmers",
+    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
+  },
+  "next": {
+    "title": "👔 Company",
+    "permalink": "/about/company/"
+  }
+}

@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'f2f'),
     exact: true
@@ -224,15 +259,25 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'c56'),
+    component: ComponentCreator('/about', '0aa'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '1f7'),
+        component: ComponentCreator('/about', '7d7'),
         routes: [
           {
+            path: '/about/tags',
+            component: ComponentCreator('/about/tags', '06b'),
+            exact: true
+          },
+          {
+            path: '/about/tags/excalidraw',
+            component: ComponentCreator('/about/tags/excalidraw', '8ed'),
+            exact: true
+          },
+          {
             path: '/about',
-            component: ComponentCreator('/about', '354'),
+            component: ComponentCreator('/about', '4eb'),
             routes: [
               {
                 path: '/about/',
@@ -775,8 +820,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/entrance_counter_circular/',
+                component: ComponentCreator('/about/products/entrance_counter_circular/', 'bc2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/entrance_observer/',
                 component: ComponentCreator('/about/products/entrance_observer/', '889'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/entrance_observer/design.excalidraw',
+                component: ComponentCreator('/about/products/entrance_observer/design.excalidraw', '2d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1065,6 +1122,12 @@ export default [
               {
                 path: '/about/products/sensors/',
                 component: ComponentCreator('/about/products/sensors/', '8a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/sensors/design',
+                component: ComponentCreator('/about/products/sensors/design', 'c9e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
