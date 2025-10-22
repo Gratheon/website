@@ -11,12 +11,14 @@
             "id": "667e9915c3e6c709",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "about/products/sensors/design.md"
+                "file": "about/products/entrance_observer/entrance_observer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "design"
+              "icon": "lucide-file",
+              "title": "entrance_observer"
             }
           }
         ]
@@ -178,14 +180,20 @@
   },
   "active": "667e9915c3e6c709",
   "lastOpenFiles": [
-    "about/products/sensors/sensors.md",
-    "about/products/entrance_observer/design.excalidraw.md",
-    "about/products/entrance_observer/entrance_observer.md",
+    "about/products/robotic_beehive/todo/📸 Real-time frame scanning.md",
+    "about/products/robotic_beehive/todo/📸 Full hive inspection.md",
+    "about/products/sensors/img/Screenshot 2025-10-22 at 21.32.25.png",
+    "about/products/sensors/img/Screenshot 2025-02-14 at 18.26.53.png",
+    "about/products/sensors/img/20250119_131627.webp",
     "about/products/entrance_counter_circular/design.excalidraw",
+    "about/products/entrance_counter_circular/index.md",
+    "about/products/entrance_observer/entrance_observer.md",
+    "about/products/sensors/sensors.md",
     "about/products/sensors/design.md",
+    "about/products/sensors/img/0.jpg",
+    "about/products/entrance_observer/design.excalidraw.md",
     "Excalidraw/Drawing 2025-10-22 20.53.17.excalidraw.md",
     "about/products/index.md",
-    "about/products/entrance_counter_circular/index.md",
     "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.45.11.png",
     "about/products/entrance_observer/img/Screenshot 2025-10-22 at 20.43.55.png",
     "Excalidraw",
@@ -204,10 +212,6 @@
     "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
     "public/research/papers/⭐️ Markerless tracking of an entire honey bee colony/index.html",
     "public/img/windows.png",
-    "public/img/tallinn.png",
-    "public/img/varroa.webp",
-    "public/img/undraw_docusaurus_tree.svg",
-    "public/img/undraw_docusaurus_react.svg",
     "about/company/Untitled.md",
     "blog/2025-10-16 🎒 Visual AI in Agriculture Webinar.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
@@ -222,7 +226,6 @@
     "blog/2024-05-05 🛠️ Participated in Prototron.ee fund.md",
     "blog/2024-06-27 🛠️ Participated in K-space.ee hackathon.md",
     "blog/2024-11-30 🤝 Gratheon joins NVIDIA Inception Program.md",
-    "about/index.md",
-    "research/index.md"
+    "about/index.md"
   ]
 }

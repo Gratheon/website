@@ -11,8 +11,10 @@ title: 🌡️ Beehive IoT sensors
 ![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
 </div>
 
+![](img/Screenshot%202025-10-22%20at%2021.32.25.png)
+
 ## Overview
-![](../../img/Screenshot%202024-11-09%20at%2015.08.08.png)
+
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
