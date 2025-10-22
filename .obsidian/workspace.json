@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/index.md",
+                "file": "about/products/sensors/sensors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "sensors"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 457.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -179,6 +179,13 @@
   },
   "active": "896a56afc1fe4a7b",
   "lastOpenFiles": [
+    "about/products/entrance_counter_circular/index.md",
+    "about/products/entrance_counter_circular/design.excalidraw",
+    "about/products/entrance-counter-circular/design.excalidraw.crswap",
+    "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.10.05.png",
+    "about/products/entrance_counter_circular/img",
+    "about/products/index.md",
+    "about/products/entrance_counter_circular",
     "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png",
     "about/company/Team/index.md",
     "public/sitemap.xml",
@@ -187,10 +194,6 @@
     "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
     "public/research/papers/⭐️ Markerless tracking of an entire honey bee colony/index.html",
     "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
-    "public/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives/index.html",
-    "public/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots/index.html",
-    "public/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives/index.html",
-    "public/research/papers/⭐️ BeeAlarmed. Masters thesis/index.html",
     "public/img/windows.png",
     "public/img/tallinn.png",
     "public/img/varroa.webp",
@@ -199,8 +202,6 @@
     "public/img/undraw_docusaurus_mountain.svg",
     "public/img/temp.webp",
     "public/img/sharing.webp",
-    "public/img/sensors.webp",
-    "public/img/robot.jpeg",
     "about/company/Untitled.md",
     "blog/2025-10-16 🎒 Visual AI in Agriculture Webinar.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
@@ -222,8 +223,6 @@
     "Untitled.md",
     "research/papers/Honey Bee Colonies Remote Monitoring System.md",
     "pdf/sensors-17-00055-v2.pdf.md",
-    "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md",
-    "research/papers/Be-Hive.md",
-    "research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees.md"
+    "research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment.md"
   ]
 }
