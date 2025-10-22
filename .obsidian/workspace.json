@@ -11,12 +11,14 @@
             "id": "49b41fe9f454d98a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/circular-counter.md"
+                "file": "research/Competition/Beezon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "circular-counter"
+              "icon": "lucide-file",
+              "title": "Beezon"
             }
           }
         ]
@@ -176,8 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "49b41fe9f454d98a",
   "lastOpenFiles": [
+    "Excalidraw/circular-counter.md",
+    "research/Competition/Beezon.md",
     "public/blog/rss.xml",
     "public/blog/rss.css",
     "public/blog/atom.xml",
@@ -188,7 +192,6 @@
     "public/index.html",
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
     "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
-    "public/research/papers/⭐️ Markerless tracking of an entire honey bee colony/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
@@ -200,7 +203,6 @@
     "public/img/sharing.webp",
     "public/img/sensors.webp",
     "pdfs/s41592-022-01426-1.pdf.md",
-    "Excalidraw/circular-counter.md",
     "Excalidraw/design.md",
     "Excalidraw/sensors-design.md",
     "Excalidraw/entrance-observer-design.md",
