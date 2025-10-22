@@ -99,6 +99,61 @@
   transform: scale(1.05) translateY(-5px);
 }
 
+/* Brand color specific styling for pricing tiers */
+.pricing-card.simple.featured .pricing-card-header {
+  background-color: #FFD900;
+  color: black;
+}
+
+.pricing-card.simple.featured {
+  border: 2px solid #FFD900;
+}
+
+.pricing-card.simple.featured .pricing-card-title {
+  color: black;
+}
+
+.pricing-card.simple.featured .pricing-card-description {
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: 500;
+}
+
+.pricing-card.professional.featured .pricing-card-header {
+  background-color: #2f8b0b;
+  color: white;
+}
+
+.pricing-card.professional.featured {
+  border: 2px solid #2f8b0b;
+}
+
+.pricing-card.professional.featured .pricing-card-title {
+  color: white;
+}
+
+.pricing-card.professional.featured .pricing-card-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
+.pricing-card.flexible.featured .pricing-card-header {
+  background-color: #0248ff;
+  color: white;
+}
+
+.pricing-card.flexible.featured {
+  border: 2px solid #0248ff;
+}
+
+.pricing-card.flexible.featured .pricing-card-title {
+  color: white;
+}
+
+.pricing-card.flexible.featured .pricing-card-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
 /* Device pricing table styles */
 .device-pricing-table {
   width: 100%;
@@ -194,7 +249,7 @@
 
 /* Ideation stage product styling */
 .ideation-stage {
-  opacity: 0.5;
+  opacity: 0.8;
   position: relative;
 }
 
@@ -416,41 +471,191 @@
   padding: 2rem;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .pricing-card {
-    min-width: 100%;
-  }
-  
-  .pricing-card.featured {
-    transform: none;
-    order: -1;
-  }
-  
-  .pricing-card.featured:hover {
-    transform: translateY(-5px);
-  }
-  
-  .device-pricing-table {
-    display: block;
-    overflow-x: auto;
-  }
+/* Price Calculator Styles */
+.price-calculator {
+  background-color: var(--ifm-color-emphasis-100);
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 1200px; /* Increased from 800px */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Button styles */
-.pricing-button {
-  display: inline-block;
-  padding: 0.75rem 1.5rem;
+.calculator-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.calculator-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.calculator-item label {
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-800);
+  font-size: 0.9rem;
+}
+
+.calculator-item input {
+  padding: 0.75rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.2s ease;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+.calculator-item input:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 2px rgba(var(--ifm-color-primary-rgb), 0.2);
+}
+
+.calculator-results {
+  background-color: var(--ifm-background-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.result-item {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.result-item:first-child {
+  color: var(--ifm-color-primary);
+}
+
+.result-item:last-child {
+  color: var(--ifm-color-success);
+  font-size: 1.2rem;
+}
+
+/* Token Calculator Table Styles */
+.token-calculator-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2rem;
+}
+
+.token-calculator-table th {
+  background-color: var(--ifm-table-head-background);
+  color: var(--ifm-table-head-color);
+  padding: 1rem;
+  text-align: left;
   font-weight: 600;
-  text-decoration: none;
-  border-radius: 4px;
-  transition: background-color 0.3s ease;
-  background-color: var(--ifm-color-primary);
-  color: white !important; /* Ensure text is white for better contrast */
 }
 
-.pricing-button:hover {
-  background-color: var(--ifm-color-primary-darker);
-  color: white !important;
-  text-decoration: none;
+.token-calculator-table th:first-child {
+  border-top-left-radius: 8px;
+  width: 40%; /* Increased from 35% */
+}
+
+.token-calculator-table th:nth-child(2) {
+  width: 20%; /* Decreased from 25% */
+}
+
+.token-calculator-table th:nth-child(3) {
+  width: 25%; /* Same */
+}
+
+.token-calculator-table th:last-child {
+  border-top-right-radius: 8px;
+  width: 15%; /* Same */
+}
+
+.token-calculator-table td {
+  padding: 1rem;
+  border-bottom: 1px solid var(--ifm-table-border-color);
+  text-align: left;
+  vertical-align: middle;
+}
+
+.token-calculator-table td:last-child {
+  text-align: right;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+}
+
+.token-calculator-table tr:last-child td {
+  border-bottom: none;
+}
+
+.token-calculator-table tr:nth-child(even) {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.token-calculator-table input {
+  width: 100%;
+  max-width: 120px;
+  padding: 0.5rem;
+  border: 2px solid var(--ifm-color-emphasis-300);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  transition: border-color 0.2s ease;
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+.token-calculator-table input:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 2px rgba(var(--ifm-color-primary-rgb), 0.2);
+}
+
+.token-result {
+  font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+  background-color: var(--ifm-color-emphasis-200);
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  display: inline-block;
+  min-width: 60px;
+}
+
+/* Responsive design for calculator */
+@media (max-width: 768px) {
+  .calculator-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .price-calculator {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+
+  .token-calculator-table {
+    font-size: 0.85rem;
+  }
+
+  .token-calculator-table th,
+  .token-calculator-table td {
+    padding: 0.75rem 0.5rem;
+  }
+
+  .token-calculator-table input {
+    max-width: 100px;
+    padding: 0.4rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* Service description styling */
+.service-description {
+  font-size: 0.75rem;
+  color: var(--ifm-color-emphasis-600);
+  font-weight: normal;
+  margin-top: 0.25rem;
+  line-height: 1.3;
 }

@@ -1,8 +1,46 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from '@docusaurus/Link';
 import '../css/pricing.css';
 
 export default function CustomPricingPage() {
+  const [calculatorValues, setCalculatorValues] = useState({
+    telemetryRequests: 0,
+    dataPoints: 0,
+    videoMinutes: 0,
+    smsAlerts: 0,
+    webhooks: 0,
+    hives: 0,
+    frames: 0,
+    frameUploads: 0,
+    inspections: 0
+  });
+
+  const calculateTokens = () => {
+    const tokens =
+      (calculatorValues.telemetryRequests * 0.002) +
+      (calculatorValues.dataPoints * 0.0002) +
+      (calculatorValues.videoMinutes * 0.27) +
+      (calculatorValues.smsAlerts * 0.3) +
+      (calculatorValues.webhooks * 0.01) +
+      (calculatorValues.hives * 2) +
+      (calculatorValues.frames * 0.02) +
+      (calculatorValues.frameUploads * 0.25) +
+      (calculatorValues.inspections * 1);
+    return Math.round(tokens * 100) / 100;
+  };
+
+  const calculateCost = () => {
+    const tokens = calculateTokens();
+    return Math.round((tokens / 1000) * 100 * 100) / 100;
+  };
+
+  const handleInputChange = (field, value) => {
+    setCalculatorValues(prev => ({
+      ...prev,
+      [field]: parseInt(value) || 0
+    }));
+  };
+
   return (
     <div className="pricing-page-wrapper">
       <div className="pricing-page-header">
@@ -15,9 +53,9 @@ export default function CustomPricingPage() {
       <div className="pricing-container">
         <div className="pricing-card">
           <div className="pricing-card-header">
-            <div className="pricing-card-title">Community</div>
+            <div className="pricing-card-title">Hobbyist</div>
             <div className="pricing-card-price">Free</div>
-            <div className="pricing-card-description">Perfect for hobbyists</div>
+            <div className="pricing-card-description">Perfect for beginners</div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
@@ -39,12 +77,12 @@ export default function CustomPricingPage() {
           </div>
         </div>
 
-        <div className="pricing-card featured">
+        <div className="pricing-card featured simple">
           <div className="pricing-card-header">
-            <div className="pricing-card-title">Simple</div>
+            <div className="pricing-card-title">Starter</div>
             <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}> / month</span></div>
             <div className="pricing-card-description">
-              Flat price with limits
+              For small-scale beekeepers
             </div>
           </div>
           <div className="pricing-card-body">
@@ -65,12 +103,12 @@ export default function CustomPricingPage() {
           </div>
         </div>
 
-        <div className="pricing-card featured" style={{opacity: 0.5}}>
+        <div className="pricing-card featured professional">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
             <div className="pricing-card-price">€49<span style={{ fontSize: "1rem" }}> / month</span></div>
             <div className="pricing-card-description">
-              (In development)
+              For commercial beekeepers
             </div>
           </div>
           <div className="pricing-card-body">
@@ -90,62 +128,212 @@ export default function CustomPricingPage() {
             </ul>
           </div>
           <div className="pricing-card-footer">
-            <Link to="https://app.gratheon.com/account/register" className="pricing-button">Coming on demand</Link>
+            <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
           </div>
         </div>
 
 
-        <div className="pricing-card" style={{opacity: 0.5}}>
+        <div className="pricing-card featured flexible">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
             <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> for 1000 tokens*</span></div>
-            <div className="pricing-card-description">No limits, pay per use</div>
+            <div className="pricing-card-description">For research & enterprise users</div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
-              <li>
-                📈 Hive telemetry (up to 30 sec resolution) <br />
-                1 telemetry request = 0.01 tokens <br />
-                1 data point storage = 0.001 tokens/month
-              </li>
-              <li>
-                🎥 Entrance-observer metrics (up to 30 sec resolution) <br />
-                1 telemetry request = 0.01 tokens <br />
-                1 data point storage = 0.001 tokens/month
-              </li>
-              <li>
-                🎥 Entrance-observer video storage <br />
-                1 min of video processing = 0.17 tokens <br />
-                1 min of video storage = 0.1 tokens/mo
-              </li>
-              <li>
-                📲 SMS alerts<br />
-                1 SMS = 0.5 tokens
-                </li>
-              <li>
-                🪝 Webhooks integration<br />
-                1 webhook call = 0.01 tokens
-              </li>
-
-              <li>
-                📦 Hive management<br />
-                1 beehive = 3 tokens/mo<br />
-                1 frame = 0.05 tokens/mo
-              </li>
-              <li>
-                🖼️ 1 frame file upload & analysis<br />
-                1 frame upload = 5 tokens
-              </li>
-
-              <li>
-                📓 Beehive inspection<br />
-                3 tokens / mo
-              </li>
-              
+              <li>📈 Hive telemetry (up to 30 sec resolution)</li>
+              <li>🎥 Entrance-observer metrics & video storage</li>
+              <li>📲 SMS alerts</li>
+              <li>🪝 Webhooks integration</li>
+              <li>📦 Unlimited hive management</li>
+              <li>🖼️ Unlimited frame uploads & analysis</li>
+              <li>📓 Unlimited beehive inspections</li>
+              <li>⛄️ Unlimited image retention</li>
             </ul>
           </div>
           <div className="pricing-card-footer">
-            <Link to="mailto:contact@gratheon.com" className="pricing-button">Contact Sales</Link>
+            <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
+          </div>
+        </div>
+      </div>
+
+      <div style={{ textAlign: 'center', marginTop: '3rem' }}>
+        <h2>Flexible Plan - Token Usage & Price Calculator</h2>
+
+        <div className="price-calculator">
+          <table className="token-calculator-table">
+            <thead>
+              <tr>
+                <th>Service</th>
+                <th>Token Cost</th>
+                <th>Usage/Month</th>
+                <th>Tokens Needed</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  📦 Beehive management
+                  <div className="service-description">Managing hive records, locations, and basic data</div>
+                </td>
+                <td>2 tokens/month</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.hives}
+                    onChange={(e) => handleInputChange('hives', e.target.value)}
+                    min="0"
+                    placeholder="hives"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.hives * 2).toFixed(0)}</td>
+              </tr>
+              <tr>
+                <td>
+                  📦 Frame management
+                  <div className="service-description">Storing frame data, positions, and metadata</div>
+                </td>
+                <td>0.02 tokens/month</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.frames}
+                    onChange={(e) => handleInputChange('frames', e.target.value)}
+                    min="0"
+                    placeholder="frames"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.frames * 0.02).toFixed(2)}</td>
+              </tr>
+              <tr>
+                <td>
+                  🖼️ Frame upload & analysis
+                  <div className="service-description">AI analysis of frame images for bee detection, disease identification</div>
+                </td>
+                <td>0.25 tokens</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.frameUploads}
+                    onChange={(e) => handleInputChange('frameUploads', e.target.value)}
+                    min="0"
+                    placeholder="uploads"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.frameUploads * 0.25).toFixed(2)}</td>
+              </tr>
+              <tr>
+                <td>
+                  📓 Beehive inspection
+                  <div className="service-description">Recording and storing detailed hive inspection data</div>
+                </td>
+                <td>1 token/month</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.inspections}
+                    onChange={(e) => handleInputChange('inspections', e.target.value)}
+                    min="0"
+                    placeholder="inspections"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.inspections * 1).toFixed(0)}</td>
+              </tr>
+              <tr>
+                <td>
+                  📈 Telemetry request
+                  <div className="service-description">Individual sensor data requests from IoT devices</div>
+                </td>
+                <td>0.002 tokens</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.telemetryRequests}
+                    onChange={(e) => handleInputChange('telemetryRequests', e.target.value)}
+                    min="0"
+                    placeholder="requests"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.telemetryRequests * 0.002).toFixed(3)}</td>
+              </tr>
+              <tr>
+                <td>
+                  📈 Data point storage
+                  <div className="service-description">Long-term storage of sensor measurements and historical data</div>
+                </td>
+                <td>0.0002 tokens/month</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.dataPoints}
+                    onChange={(e) => handleInputChange('dataPoints', e.target.value)}
+                    min="0"
+                    placeholder="data points"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.dataPoints * 0.0002).toFixed(4)}</td>
+              </tr>
+              <tr>
+                <td>
+                  📲 SMS alert
+                  <div className="service-description">Text message notifications for hive alerts and warnings</div>
+                </td>
+                <td>0.3 tokens</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.smsAlerts}
+                    onChange={(e) => handleInputChange('smsAlerts', e.target.value)}
+                    min="0"
+                    placeholder="alerts"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.smsAlerts * 0.3).toFixed(1)}</td>
+              </tr>
+              <tr>
+                <td>
+                  🎥 Video processing & storage
+                  <div className="service-description">Analysis and storage of entrance observer video footage</div>
+                </td>
+                <td>0.27 tokens/minute/month</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.videoMinutes}
+                    onChange={(e) => handleInputChange('videoMinutes', e.target.value)}
+                    min="0"
+                    placeholder="minutes"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.videoMinutes * 0.27).toFixed(2)}</td>
+              </tr>
+              <tr>
+                <td>
+                  🪝 Webhook call
+                  <div className="service-description">API integrations and automated data transfers</div>
+                </td>
+                <td>0.01 tokens</td>
+                <td>
+                  <input
+                    type="number"
+                    value={calculatorValues.webhooks}
+                    onChange={(e) => handleInputChange('webhooks', e.target.value)}
+                    min="0"
+                    placeholder="calls"
+                  />
+                </td>
+                <td className="token-result">{(calculatorValues.webhooks * 0.01).toFixed(2)}</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <div className="calculator-results">
+            <div className="result-item">
+              <strong>Total tokens needed: {calculateTokens()}</strong>
+            </div>
+            <div className="result-item">
+              <strong>Estimated monthly cost: €{calculateCost()}</strong>
+            </div>
           </div>
         </div>
       </div>
