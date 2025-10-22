@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f824cfc499e2093",
+        "id": "910c388156df9661",
         "type": "tabs",
         "children": [
           {
-            "id": "814dc6bd63912a76",
+            "id": "896a56afc1fe4a7b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-09-13 at 12.30.27"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -175,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "814dc6bd63912a76",
+  "active": "896a56afc1fe4a7b",
   "lastOpenFiles": [
+    "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png",
     "about/company/Team/index.md",
     "public/sitemap.xml",
     "public/index.html",
