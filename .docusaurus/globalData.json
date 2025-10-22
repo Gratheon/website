@@ -845,11 +845,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/entrance_observer/design.excalidraw",
-              "path": "/about/products/entrance_observer/design.excalidraw",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/entrance_observer/entrance_observer",
               "path": "/about/products/entrance_observer/",
               "sidebar": "tutorialSidebar"
@@ -1092,11 +1087,6 @@
             {
               "id": "products/robotic_beehive/todo/📸 Real-time frame scanning",
               "path": "/about/products/robotic_beehive/todo/📸 Real-time frame scanning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/sensors/design",
-              "path": "/about/products/sensors/design",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -259,25 +259,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '0aa'),
+    component: ComponentCreator('/about', 'cca'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '7d7'),
+        component: ComponentCreator('/about', '138'),
         routes: [
           {
-            path: '/about/tags',
-            component: ComponentCreator('/about/tags', '06b'),
-            exact: true
-          },
-          {
-            path: '/about/tags/excalidraw',
-            component: ComponentCreator('/about/tags/excalidraw', '8ed'),
-            exact: true
-          },
-          {
             path: '/about',
-            component: ComponentCreator('/about', '4eb'),
+            component: ComponentCreator('/about', 'b7f'),
             routes: [
               {
                 path: '/about/',
@@ -832,12 +822,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/entrance_observer/design.excalidraw',
-                component: ComponentCreator('/about/products/entrance_observer/design.excalidraw', '2d6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/entrance_observer/features/🎥 Video streaming via API',
                 component: ComponentCreator('/about/products/entrance_observer/features/🎥 Video streaming via API', 'f47'),
                 exact: true,
@@ -1122,12 +1106,6 @@ export default [
               {
                 path: '/about/products/sensors/',
                 component: ComponentCreator('/about/products/sensors/', '8a3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/sensors/design',
-                component: ComponentCreator('/about/products/sensors/design', 'c9e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

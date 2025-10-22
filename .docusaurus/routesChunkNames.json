@@ -622,25 +622,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-0aa": {
+  "/about-cca": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-7d7": {
+  "/about-138": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about/tags-06b": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---about-tags-455-81e"
-  },
-  "/about/tags/excalidraw-8ed": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---about-tags-excalidraw-9-f-3-f57"
-  },
-  "/about-4eb": {
+  "/about-b7f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1011,10 +1003,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-entrance-observer-842-8d8"
   },
-  "/about/products/entrance_observer/design.excalidraw-2d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-entrance-observer-design-excalidraw-863-6f4"
-  },
   "/about/products/entrance_observer/features/🎥 Video streaming via API-f47": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-entrance-observer-features-🎥-video-streaming-via-api-1-c-4-170"
@@ -1206,10 +1194,6 @@
   "/about/products/sensors/-8a3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-sensors-d-42-145"
-  },
-  "/about/products/sensors/design-c9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-sensors-design-4-bc-3a7"
   },
   "/about/products/sensors/features/📈 Telemetry API-b42": {
     "__comp": "__comp---theme-doc-item-178-a40",

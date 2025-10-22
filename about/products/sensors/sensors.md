@@ -4,15 +4,10 @@ title: 🌡️ Beehive IoT sensors
 ---
 🌡️ Beehive IoT sensors are essentially smart scales equipped with additional sensors and communication chips. They periodically measure the hive's state and send data to a [web app](../web_app/web_app.md). This aggregated data helps beekeepers monitor their colonies in the field with minimal costs.
 
+`status`: [TRL 4](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/) (prototype)
 
-`status`: [TRL 4](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
-<div style={{width:300}}>
-![](img/Screenshot%202025-02-14%20at%2018.26.53.png)
-</div>
-
-![](img/Screenshot%202025-10-22%20at%2021.32.25.png)
-
+![](img/Screenshot%202025-10-22%20at%2021.48.15.png)
 ## Overview
 
 
