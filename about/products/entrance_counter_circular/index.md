@@ -9,4 +9,4 @@ Idea is to
 - have adapter between linear counter
 
 
-![](img/Screenshot%202025-10-22%20at%2020.22.21.png)
+![](img/Screenshot%202025-10-22%20at%2020.45.11.png)

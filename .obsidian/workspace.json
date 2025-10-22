@@ -13,10 +13,20 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "about/products/entrance_counter_circular/design.excalidraw"
+                "file": "about/products/entrance_observer/design.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "design"
+              "title": "design.excalidraw"
+            }
+          },
+          {
+            "id": "2da761b669119761",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,20 +188,23 @@
   },
   "active": "667e9915c3e6c709",
   "lastOpenFiles": [
-    "about/products/entrance_counter_circular/index.md",
-    "about/products/entrance_observer/entrance_observer.md",
-    "about/products/entrance_observer/img/Screenshot 2025-10-22 at 20.43.55.png",
+    "about/products/entrance_counter_circular/design.excalidraw",
     "about/products/entrance_observer/design.excalidraw.md",
+    "about/products/sensors/sensors.md",
+    "Excalidraw/Drawing 2025-10-22 20.53.17.excalidraw.md",
+    "about/products/sensors/design.md",
+    "about/products/index.md",
+    "about/products/entrance_observer/entrance_observer.md",
+    "about/products/entrance_counter_circular/index.md",
+    "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.45.11.png",
+    "about/products/entrance_observer/img/Screenshot 2025-10-22 at 20.43.55.png",
     "Excalidraw",
     "about/products/entrance_observer/Untitled.canvas",
     "about/products/entrance_observer/Untitled.md",
     "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.22.21.png",
     "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.10.05.png",
-    "about/products/entrance_counter_circular/design.excalidraw",
-    "about/products/sensors/sensors.md",
     "about/products/entrance-counter-circular/design.excalidraw.crswap",
     "about/products/entrance_counter_circular/img",
-    "about/products/index.md",
     "about/products/entrance_counter_circular",
     "docs/entrance-observer/img/Screenshot 2025-09-13 at 12.30.27.png",
     "about/company/Team/index.md",
@@ -205,7 +218,6 @@
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/undraw_docusaurus_react.svg",
-    "public/img/undraw_docusaurus_mountain.svg",
     "about/company/Untitled.md",
     "blog/2025-10-16 🎒 Visual AI in Agriculture Webinar.md",
     "blog/2024-12-03 🎒 Attended \"Robotics is easy\" local webinar for schools.md",
@@ -221,8 +233,6 @@
     "blog/2024-06-27 🛠️ Participated in K-space.ee hackathon.md",
     "blog/2024-11-30 🤝 Gratheon joins NVIDIA Inception Program.md",
     "about/index.md",
-    "research/index.md",
-    "research/Models.md",
-    "about/🌻 Purpose/Company mission.md"
+    "research/index.md"
   ]
 }
