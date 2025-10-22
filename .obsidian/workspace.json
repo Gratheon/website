@@ -11,15 +11,30 @@
             "id": "896a56afc1fe4a7b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.22.21.png"
+                "file": "about/products/entrance_observer/entrance_observer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-10-22 at 20.22.21"
+              "icon": "lucide-file",
+              "title": "entrance_observer"
+            }
+          },
+          {
+            "id": "667e9915c3e6c709",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-22 20.25.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-22 20.25.29.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 793.5
+    "width": 394.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -176,13 +191,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "896a56afc1fe4a7b",
+  "active": "667e9915c3e6c709",
   "lastOpenFiles": [
+    "about/products/entrance_observer/entrance_observer.md",
+    "Excalidraw/Drawing 2025-10-22 20.25.29.excalidraw.md",
+    "Excalidraw",
+    "about/products/entrance_observer/Untitled.canvas",
+    "about/products/entrance_observer/Untitled.md",
+    "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.22.21.png",
     "about/products/entrance_counter_circular/index.md",
     "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.10.05.png",
-    "about/products/entrance_counter_circular/img/Screenshot 2025-10-22 at 20.22.21.png",
     "about/products/entrance_counter_circular/design.excalidraw",
-    "about/products/entrance_observer/entrance_observer.md",
     "about/products/sensors/sensors.md",
     "about/products/entrance-counter-circular/design.excalidraw.crswap",
     "about/products/entrance_counter_circular/img",
@@ -195,7 +214,6 @@
     "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
     "public/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive/index.html",
     "public/research/papers/⭐️ Markerless tracking of an entire honey bee colony/index.html",
-    "public/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video/index.html",
     "public/img/windows.png",
     "public/img/tallinn.png",
     "public/img/varroa.webp",
@@ -221,7 +239,6 @@
     "research/index.md",
     "research/Models.md",
     "about/🌻 Purpose/Company mission.md",
-    "Untitled.md",
-    "research/papers/Honey Bee Colonies Remote Monitoring System.md"
+    "Untitled.md"
   ]
 }
