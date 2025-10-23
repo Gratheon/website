@@ -1801,17 +1801,17 @@
     "__comp": "17896441",
     "content": "06a34215"
   },
-  "/research-b66": {
+  "/research-c9c": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-e43": {
+  "/research-c93": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-04b": {
+  "/research-49d": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
@@ -1921,6 +1921,10 @@
   "/research/Competition/BeeZee-a27": {
     "__comp": "17896441",
     "content": "c3e006e9"
+  },
+  "/research/Competition/Beezon-0d7": {
+    "__comp": "17896441",
+    "content": "8549d00d"
   },
   "/research/Competition/Broodminder-982": {
     "__comp": "17896441",

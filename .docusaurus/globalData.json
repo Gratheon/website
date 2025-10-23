@@ -1679,6 +1679,11 @@
               "sidebar": "researchSidebar"
             },
             {
+              "id": "Competition/Beezon",
+              "path": "/research/Competition/Beezon",
+              "sidebar": "researchSidebar"
+            },
+            {
               "id": "Competition/Broodminder",
               "path": "/research/Competition/Broodminder",
               "sidebar": "researchSidebar"

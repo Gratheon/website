@@ -2054,15 +2054,15 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'b66'),
+    component: ComponentCreator('/research', 'c9c'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'e43'),
+        component: ComponentCreator('/research', 'c93'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '04b'),
+            component: ComponentCreator('/research', '49d'),
             routes: [
               {
                 path: '/research/',
@@ -2223,6 +2223,12 @@ export default [
               {
                 path: '/research/Competition/BeeZee',
                 component: ComponentCreator('/research/Competition/BeeZee', 'a27'),
+                exact: true,
+                sidebar: "researchSidebar"
+              },
+              {
+                path: '/research/Competition/Beezon',
+                component: ComponentCreator('/research/Competition/Beezon', '0d7'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

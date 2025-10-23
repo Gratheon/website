@@ -183,6 +183,14 @@ export default {
             {
               "label": "Email",
               "href": "mailto:pilot@gratheon.com"
+            },
+            {
+              "label": "Support Chat",
+              "href": "https://tawk.to/gratheon"
+            },
+            {
+              "label": "Service Status",
+              "href": "https://gratheon.statuspage.io/"
             }
           ],
           "title": null
