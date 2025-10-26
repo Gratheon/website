@@ -11,14 +11,12 @@
             "id": "49b41fe9f454d98a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "research/Competition/ForSage.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/sensors-design.md"
               },
-              "icon": "lucide-file",
-              "title": "ForSage"
+              "icon": "excalidraw-icon",
+              "title": "sensors-design"
             }
           }
         ]
@@ -180,9 +178,11 @@
   },
   "active": "49b41fe9f454d98a",
   "lastOpenFiles": [
+    "Excalidraw/entrance-observer-design.md",
+    "Excalidraw/circular-counter.md",
+    "research/Competition/ForSage.md",
     "research/Competition/ApiaryBook.md",
     "research/Competition/Beezon.md",
-    "Excalidraw/circular-counter.md",
     "public/blog/rss.xml",
     "public/blog/rss.css",
     "public/blog/atom.xml",
@@ -206,7 +206,6 @@
     "pdfs/s41592-022-01426-1.pdf.md",
     "Excalidraw/design.md",
     "Excalidraw/sensors-design.md",
-    "Excalidraw/entrance-observer-design.md",
     "about/products/entrance_observer/entrance_observer.md",
     "about/products/sensors/sensors.md",
     "about/products/robotic_beehive/todo/📸 Real-time frame scanning.md",
@@ -225,7 +224,6 @@
     "blog/2025-02-20 💶 Tehnopol AI pre-accelerator event.md",
     "blog/2025-03-19 💶 Tehnopol AI accelerator pitch.md",
     "blog/2025-04-25 💶  Attending EIC Accelerator and Ready2Scale webinar.md",
-    "blog/2025-05-13 🎒 ESTBAN Red flags in legal.md",
-    "blog/2025-05-15 🎒 gscan webinar.md"
+    "blog/2025-05-13 🎒 ESTBAN Red flags in legal.md"
   ]
 }
