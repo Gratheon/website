@@ -1,0 +1,23 @@
+{
+  "id": "Competition/Beezon",
+  "title": "Beezon",
+  "description": "https://www.beezon.gr/el/product-details/beezon-scale-apiary-monitoring-via-sms/",
+  "source": "@site/research/Competition/Beezon.md",
+  "sourceDirName": "Competition",
+  "slug": "/Competition/Beezon",
+  "permalink": "/research/Competition/Beezon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "researchSidebar",
+  "previous": {
+    "title": "Beetight 2",
+    "permalink": "/research/Competition/Beetight 2"
+  },
+  "next": {
+    "title": "Broodminder",
+    "permalink": "/research/Competition/Broodminder"
+  }
+}
