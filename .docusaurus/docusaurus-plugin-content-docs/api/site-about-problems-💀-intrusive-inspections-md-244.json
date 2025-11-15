@@ -1,0 +1,26 @@
+{
+  "id": "problems/💀 Intrusive inspections",
+  "title": "💀 Intrusive inspections",
+  "description": "One of the biggest challenges beekeepers face is the need for intrusive inspections. These inspections often require opening up the hive to check on the colony's health, check for diseases, or monitor honey stores. While necessary for maintaining a healthy hive, these inspections can be stressful for the bees, which may result in agitation or disruption of hive activities. This stress can also make the bees more prone to defensive behaviors, leading to increased risk of stings for the beekeeper. Frequent inspections also disrupt the bees' natural rhythms, potentially affecting the colony's productivity and overall wellbeing.",
+  "source": "@site/about/problems/💀 Intrusive inspections.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/💀 Intrusive inspections",
+  "permalink": "/about/problems/💀 Intrusive inspections",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "unethical treatment",
+    "priority": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💀 Colony without a queen",
+    "permalink": "/about/problems/💀 Colony without a queen"
+  },
+  "next": {
+    "title": "📈 Long-term queen breeding tracking",
+    "permalink": "/about/problems/📈 Long-term queen breeding tracking"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "problems/systemic/🌲 Distant locations",
+  "title": "🌲 Distant locations",
+  "description": "For many beekeepers, managing apiaries in distant or remote locations is both a necessity and a challenge. These locations are often chosen for their ideal foraging conditions, such as proximity to diverse flora or agricultural crops, but their remoteness introduces logistical hurdles. Regular inspections are critical to monitor hive health, check for signs of diseases or pests, and ensure sufficient food stores, especially during changing seasons. However, traveling long distances to reach these apiaries can be time-consuming, costly, and physically demanding. This challenge becomes even more pronounced for beekeepers managing multiple apiaries scattered across different regions.",
+  "source": "@site/about/problems/systemic/🌲 Distant locations.md",
+  "sourceDirName": "problems/systemic",
+  "slug": "/problems/systemic/🌲 Distant locations",
+  "permalink": "/about/problems/systemic/🌲 Distant locations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 70
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💪🏻 Unscalable work",
+    "permalink": "/about/problems/core/💪🏻 Unscalable work"
+  },
+  "next": {
+    "title": "🌻 Monocultural agriculture",
+    "permalink": "/about/problems/systemic/🌻 Monocultural agriculture"
+  }
+}

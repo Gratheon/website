@@ -18,4 +18,4 @@ What do beekeepers do? They try to write down colony state on a paper and put it
 Or they try to use standardized physical templates to keep track of hive state, for example:
 https://stock-karte.de/en/products/pin-stock-card-english-incl-pins-and-screws
 
-![](img/BCC0560F-BBA9-452C-B323-3CE1954D7B3F.webp)
+![](../img/BCC0560F-BBA9-452C-B323-3CE1954D7B3F.webp)

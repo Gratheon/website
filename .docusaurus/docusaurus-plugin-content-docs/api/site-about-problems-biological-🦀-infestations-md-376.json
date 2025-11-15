@@ -1,0 +1,26 @@
+{
+  "id": "problems/biological/🦀 Infestations",
+  "title": "🦀 Infestations",
+  "description": "Beekeepers face numerous challenges when it comes to protecting their hives, with infestations of pests like Varroa destructor and Tropilaelaps mites being among the most detrimental. These parasitic mites invade beehives, feeding on the blood of honeybees, weakening the colony by spreading diseases such as deformed wing virus. The infestation often goes unnoticed until it has already caused severe damage, as the mites tend to remain hidden in brood cells. Without timely intervention, these mites can decimate entire hives, leading to significant losses for beekeepers and threatening pollination systems that are crucial to agriculture.",
+  "source": "@site/about/problems/biological/🦀 Infestations.md",
+  "sourceDirName": "problems/biological",
+  "slug": "/problems/biological/🦀 Infestations",
+  "permalink": "/about/problems/biological/🦀 Infestations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "external influence",
+    "priority": 80
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Diseases",
+    "permalink": "/about/problems/biological/🦀 Diseases"
+  },
+  "next": {
+    "title": "🧶 Swarming",
+    "permalink": "/about/problems/biological/🧶 Swarming"
+  }
+}

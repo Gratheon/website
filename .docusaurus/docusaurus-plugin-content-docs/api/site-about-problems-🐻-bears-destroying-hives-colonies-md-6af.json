@@ -1,0 +1,23 @@
+{
+  "id": "problems/🐻 Bears destroying hives & colonies",
+  "title": "🐻 Bears destroying hives & colonies",
+  "description": "One of the significant challenges faced by beekeepers, especially in regions inhabited by bears, is the destruction of hives by these powerful animals. Bears are naturally drawn to beehives due to their insatiable appetite for honey and protein-rich bee larvae. Unfortunately, this hunger often leads to devastating consequences for apiaries, with entire hives being ripped apart in mere minutes. Beyond the immediate destruction, bear attacks can wipe out months of beekeepers' hard work, disrupt pollination efforts, and threaten the health of local ecosystems reliant on bees. For small-scale beekeepers, such incidents can be financially crippling, making this a pressing issue that demands innovative solutions.",
+  "source": "@site/about/problems/🐻 Bears destroying hives & colonies.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🐻 Bears destroying hives & colonies",
+  "permalink": "/about/problems/🐻 Bears destroying hives & colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐭 Mice killing a colony",
+    "permalink": "/about/problems/🐭 Mice killing a colony"
+  },
+  "next": {
+    "title": "👁️ Time-consuming inspections",
+    "permalink": "/about/problems/👁️ Time-consuming inspections"
+  }
+}

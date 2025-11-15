@@ -7,7 +7,7 @@ title: 🍯 Products
 ![](../img/dog.png)
 </div></div>
 
-Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day [🌨️ Problems](../🌨️%20Problems/🌨️%20Problems.md)
+Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day [problems](../problems/problems.md)
 
 [Web app](web_app/web_app.md) is the go-to application that manages all data and devices.
 

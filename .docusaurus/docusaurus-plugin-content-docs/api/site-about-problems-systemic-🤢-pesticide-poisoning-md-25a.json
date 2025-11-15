@@ -1,0 +1,23 @@
+{
+  "id": "problems/systemic/🤢 Pesticide poisoning",
+  "title": "🤢 Pesticide poisoning",
+  "description": "Problem",
+  "source": "@site/about/problems/systemic/🤢 Pesticide poisoning.md",
+  "sourceDirName": "problems/systemic",
+  "slug": "/problems/systemic/🤢 Pesticide poisoning",
+  "permalink": "/about/problems/systemic/🤢 Pesticide poisoning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💢 Aggressive bee colonies",
+    "permalink": "/about/problems/systemic/💢 Aggressive bee colonies"
+  },
+  "next": {
+    "title": "🍯 Counterfeit honey",
+    "permalink": "/about/problems/🍯 Counterfeit honey"
+  }
+}

@@ -11,7 +11,7 @@ You can add new idea of a feature by creating [a new file via github](https://gi
 ## Features and Ideas
 Feature is a large function that customer find valuable in a product. 
 We describe features on this website under every product.
-Features offer a solution to one of the  [🌨️ Problems](🌨️%20Problems/🌨️%20Problems.md).
+Features offer a solution to one of the  [problems](../../problems/problems.md).
 Features is something we can promote on front page or record a video about.
 A feature requires product thinking and multiple expertises - UX, Frontend, Backend, DB, ML. 
 

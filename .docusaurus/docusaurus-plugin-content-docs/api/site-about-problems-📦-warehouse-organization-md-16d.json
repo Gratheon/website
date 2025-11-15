@@ -1,0 +1,23 @@
+{
+  "id": "problems/📦 Warehouse organization",
+  "title": "📦 Warehouse organization",
+  "description": "Beekeepers need to maintain various warehouse management tasks and organize their equipment",
+  "source": "@site/about/problems/📦 Warehouse organization.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/📦 Warehouse organization",
+  "permalink": "/about/problems/📦 Warehouse organization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Long-term queen breeding tracking",
+    "permalink": "/about/problems/📈 Long-term queen breeding tracking"
+  },
+  "next": {
+    "title": "🗃️ Poor hive ventilation",
+    "permalink": "/about/problems/🗃️ Poor hive ventilation"
+  }
+}

@@ -19,8 +19,8 @@ Our ethical framework is grounded in our [mission](mission.md) to "harmonize hum
 **Primary consideration:** Bee health and colony survival takes precedence over data collection or profit.
 
 - **Non-invasive monitoring:** Our [scales](../products/scales/scales.md) and [entrance observer](../products/entrance_observer/entrance_observer.md) minimize hive disturbance
-- **Reducing stress:** Technology should decrease [intrusive inspections](../🌨️%20Problems/💀%20Intrusive%20inspections.md) rather than increase bee stress
-- **Colony preservation:** Prevent [colony collapse](../🌨️%20Problems/biological/❄️%20Overwintering%20collapse.md) and support natural bee behaviors
+- **Reducing stress:** Technology should decrease [intrusive inspections](../problems/💀%20Intrusive%20inspections.md) rather than increase bee stress
+- **Colony preservation:** Prevent [colony collapse](../problems/biological/❄️%20Overwintering%20collapse.md) and support natural bee behaviors
 - **Speciesism awareness:** Following Peter Singer's principles from *Animal Liberation* (1975) - we reject discrimination based solely on species and recognize that bees, as sentient beings capable of suffering, deserve moral consideration
 
 ## 🌱 Environmental Stewardship
@@ -28,17 +28,24 @@ Our ethical framework is grounded in our [mission](mission.md) to "harmonize hum
 **Regenerative approach:** Our technology should contribute to ecological restoration, not exploitation.
 
 - **Sustainable design:** Energy-efficient hardware and renewable energy usage
-- **Supporting biodiversity:** Helping address [monocultural agriculture](../🌨️%20Problems/systemic/🌻%20Monocultural%20agriculture.md) challenges
+- **Supporting biodiversity:** Helping address [monocultural agriculture](../problems/systemic/🌻%20Monocultural%20agriculture.md) challenges
 - **Carbon footprint:** Minimizing environmental impact of manufacturing and operations
-- **Pollination support:** Enhancing natural [pollination services](../🌨️%20Problems/🌻%20Precise%20pollination.md) for food security
-- **Pesticide reduction:** Technology that helps reduce [pesticide poisoning](../🌨️%20Problems/systemic/🤢%20Pesticide%20poisoning.md)
+- **Pollination support:** Enhancing natural [pollination services](../problems/🌻%20Precise%20pollination.md) for food security
+- **Pesticide reduction:** Technology that helps reduce [pesticide poisoning](../problems/systemic/🤢%20Pesticide%20poisoning.md)
+
+### On "saving the bees"
+
+We're not focusing solely on saving honeybees as a species, because globally colony numbers are increasing. Ecosystems are complex. We support diversity of plants and wild pollinators while helping managed colonies thrive sustainably.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VSYgDssQUtA" title="Bee extinction: Why we&#39;re saving the wrong bees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## 👨‍🌾 Social Ethics & Beekeeper Empowerment
 
 **Human-centered technology:** Augmenting human capabilities rather than replacing beekeepers.
 
 - **Employment:** Technology complements beekeepers' work, enabling them to scale operations and improve bee care
-- **Knowledge sharing:** Reducing barriers for [new beekeepers](../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) through education
+- **Knowledge sharing:** Reducing barriers for [new beekeepers](../problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) through education
 - **Accessibility:** Making advanced beekeeping tools available to [semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md), not just industrial operations
 - **Community building:** Fostering collaboration between beekeepers and researchers
 

@@ -13,12 +13,12 @@ title: 🌡️ Beehive scales
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
-- [🧶 Swarming](../../🌨️%20Problems/biological/🧶%20Swarming.md)
-- [🍽️ Bee colony starvation](../../🌨️%20Problems/biological/🍽️%20Bee%20colony%20starvation.md)
-- [💢 Robbing state](../../🌨️%20Problems/biological/💢%20Robbing%20state.md)
-- [🐻 Bears destroying hives & colonies](../../🌨️%20Problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)
-- [🗃️ Storm wind collapsing beehives](../../🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
-- [🌲 Distant locations](../../🌨️%20Problems/systemic/🌲%20Distant%20locations.md)
+- [🧶 Swarming](../../problems/biological/🧶%20Swarming.md)
+- [🍽️ Bee colony starvation](../../problems/biological/🍽️%20Bee%20colony%20starvation.md)
+- [💢 Robbing state](../../problems/biological/💢%20Robbing%20state.md)
+- [🐻 Bears destroying hives & colonies](../../problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)
+- [🗃️ Storm wind collapsing beehives](../../problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
+- [🌲 Distant locations](../../problems/systemic/🌲%20Distant%20locations.md)
 
 ## Target audience
 - [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)

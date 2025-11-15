@@ -2,7 +2,7 @@
 status: complete
 ---
 ## Problem
-- [🗃️ Storm wind collapsing beehives](../../../../🌨️%20Problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
+- [🗃️ Storm wind collapsing beehives](../../../../problems/🗃️%20Storm%20wind%20collapsing%20beehives.md)
 
 ## User story
 

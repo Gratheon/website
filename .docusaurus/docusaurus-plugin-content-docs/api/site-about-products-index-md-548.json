@@ -1,7 +1,7 @@
 {
   "id": "products/index",
   "title": "🍯 Products",
-  "description": "Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day 🌨️ Problems",
+  "description": "Our products are in development and are a mix of software and hardware, complimenting each other and offering data gathering, analytics and actionable decisions that a beekeeper would need to solve day to day problems",
   "source": "@site/about/products/index.md",
   "sourceDirName": "products",
   "slug": "/products/",
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🚛 Transport stress and risk",
-    "permalink": "/about/🌨️ Problems/🚛 Transport stress and risk"
+    "permalink": "/about/problems/🚛 Transport stress and risk"
   },
   "next": {
     "title": "🧑‍🚀 Actions beekeepers make",

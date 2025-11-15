@@ -106,10 +106,5 @@ Unlike solutions that focus solely on data collection, we prioritize:
 - **Scalable solutions:** Address root causes that prevent industry growth
 - **Open innovation:** Share knowledge to benefit the entire beekeeping community
 
-## On "saving the bees"
-
-We're not focusing solely on saving honeybees as a species, because globally colony numbers are increasing. Ecosystems are complex. We support diversity of plants and wild pollinators while helping managed colonies thrive sustainably.
-
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/VSYgDssQUtA" title="Bee extinction: Why we&#39;re saving the wrong bees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > **Note:** We maintain a detailed problem database to link specific issues with solution features. This systematic approach ensures our technology development addresses real beekeeping challenges rather than theoretical problems.

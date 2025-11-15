@@ -1,6 +1,6 @@
 ## Problem
 
-[🗃️ Poor hive ventilation](../../../🌨️%20Problems/🗃️%20Poor%20hive%20ventilation.md)
+[🗃️ Poor hive ventilation](../../../problems/🗃️%20Poor%20hive%20ventilation.md)
 
 ## Suggested solution
 

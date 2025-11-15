@@ -395,166 +395,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "🌨️ Problems/🌨️ Problems",
-              "path": "/about/🌨️ Problems/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🌻 Precise pollination",
-              "path": "/about/🌨️ Problems/🌻 Precise pollination",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🍯 Counterfeit honey",
-              "path": "/about/🌨️ Problems/🍯 Counterfeit honey",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🎒 Challenging to become a new beekeeper",
-              "path": "/about/🌨️ Problems/🎒 Challenging to become a new beekeeper",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🐭 Mice killing a colony",
-              "path": "/about/🌨️ Problems/🐭 Mice killing a colony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🐻 Bears destroying hives & colonies",
-              "path": "/about/🌨️ Problems/🐻 Bears destroying hives & colonies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/👁️ Time-consuming inspections",
-              "path": "/about/🌨️ Problems/👁️ Time-consuming inspections",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/💀 Alcohol washing killing bees",
-              "path": "/about/🌨️ Problems/💀 Alcohol washing killing bees",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/💀 Colony without a queen",
-              "path": "/about/🌨️ Problems/💀 Colony without a queen",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/💀 Intrusive inspections",
-              "path": "/about/🌨️ Problems/💀 Intrusive inspections",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/📈 Long-term queen breeding tracking",
-              "path": "/about/🌨️ Problems/📈 Long-term queen breeding tracking",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/📦 Warehouse organization",
-              "path": "/about/🌨️ Problems/📦 Warehouse organization",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🗃️ Poor hive ventilation",
-              "path": "/about/🌨️ Problems/🗃️ Poor hive ventilation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🗃️ Storm wind collapsing beehives",
-              "path": "/about/🌨️ Problems/🗃️ Storm wind collapsing beehives",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🗃️ Ugly beehives",
-              "path": "/about/🌨️ Problems/🗃️ Ugly beehives",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/🚛 Transport stress and risk",
-              "path": "/about/🌨️ Problems/🚛 Transport stress and risk",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/❄️ Overwintering collapse",
-              "path": "/about/🌨️ Problems/biological/❄️ Overwintering collapse",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/🍽️ Bee colony starvation",
-              "path": "/about/🌨️ Problems/biological/🍽️ Bee colony starvation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/💀 Colony with drone-laying queen",
-              "path": "/about/🌨️ Problems/biological/💀 Colony with drone-laying queen",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/💢 Hornet attacks",
-              "path": "/about/🌨️ Problems/biological/💢 Hornet attacks",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/💢 Robbing state",
-              "path": "/about/🌨️ Problems/biological/💢 Robbing state",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/🦀 Diseases",
-              "path": "/about/🌨️ Problems/biological/🦀 Diseases",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/🦀 Infestations",
-              "path": "/about/🌨️ Problems/biological/🦀 Infestations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/biological/🧶 Swarming",
-              "path": "/about/🌨️ Problems/biological/🧶 Swarming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/core/👁️ Observability of bee colony",
-              "path": "/about/🌨️ Problems/core/👁️ Observability of bee colony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/core/💪🏻 Physical labor",
-              "path": "/about/🌨️ Problems/core/💪🏻 Physical labor",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/core/💪🏻 Unscalable work",
-              "path": "/about/🌨️ Problems/core/💪🏻 Unscalable work",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/systemic/🌲 Distant locations",
-              "path": "/about/🌨️ Problems/systemic/🌲 Distant locations",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/systemic/🌻 Monocultural agriculture",
-              "path": "/about/🌨️ Problems/systemic/🌻 Monocultural agriculture",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/systemic/🏘️ Multiple apiaries",
-              "path": "/about/🌨️ Problems/systemic/🏘️ Multiple apiaries",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/systemic/💢 Aggressive bee colonies",
-              "path": "/about/🌨️ Problems/systemic/💢 Aggressive bee colonies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌨️ Problems/systemic/🤢 Pesticide poisoning",
-              "path": "/about/🌨️ Problems/systemic/🤢 Pesticide poisoning",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "📢 Press kit",
               "path": "/about/📢 Press kit",
               "sidebar": "tutorialSidebar"
@@ -777,6 +617,166 @@
             {
               "id": "mission/Symbolism",
               "path": "/about/mission/Symbolism",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🌻 Precise pollination",
+              "path": "/about/problems/🌻 Precise pollination",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🍯 Counterfeit honey",
+              "path": "/about/problems/🍯 Counterfeit honey",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🎒 Challenging to become a new beekeeper",
+              "path": "/about/problems/🎒 Challenging to become a new beekeeper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🐭 Mice killing a colony",
+              "path": "/about/problems/🐭 Mice killing a colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🐻 Bears destroying hives & colonies",
+              "path": "/about/problems/🐻 Bears destroying hives & colonies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/👁️ Time-consuming inspections",
+              "path": "/about/problems/👁️ Time-consuming inspections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/💀 Alcohol washing killing bees",
+              "path": "/about/problems/💀 Alcohol washing killing bees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/💀 Colony without a queen",
+              "path": "/about/problems/💀 Colony without a queen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/💀 Intrusive inspections",
+              "path": "/about/problems/💀 Intrusive inspections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/📈 Long-term queen breeding tracking",
+              "path": "/about/problems/📈 Long-term queen breeding tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/📦 Warehouse organization",
+              "path": "/about/problems/📦 Warehouse organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🗃️ Poor hive ventilation",
+              "path": "/about/problems/🗃️ Poor hive ventilation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🗃️ Storm wind collapsing beehives",
+              "path": "/about/problems/🗃️ Storm wind collapsing beehives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🗃️ Ugly beehives",
+              "path": "/about/problems/🗃️ Ugly beehives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/🚛 Transport stress and risk",
+              "path": "/about/problems/🚛 Transport stress and risk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/❄️ Overwintering collapse",
+              "path": "/about/problems/biological/❄️ Overwintering collapse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/🍽️ Bee colony starvation",
+              "path": "/about/problems/biological/🍽️ Bee colony starvation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/💀 Colony with drone-laying queen",
+              "path": "/about/problems/biological/💀 Colony with drone-laying queen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/💢 Hornet attacks",
+              "path": "/about/problems/biological/💢 Hornet attacks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/💢 Robbing state",
+              "path": "/about/problems/biological/💢 Robbing state",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/🦀 Diseases",
+              "path": "/about/problems/biological/🦀 Diseases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/🦀 Infestations",
+              "path": "/about/problems/biological/🦀 Infestations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/biological/🧶 Swarming",
+              "path": "/about/problems/biological/🧶 Swarming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/core/👁️ Observability of bee colony",
+              "path": "/about/problems/core/👁️ Observability of bee colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/core/💪🏻 Physical labor",
+              "path": "/about/problems/core/💪🏻 Physical labor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/core/💪🏻 Unscalable work",
+              "path": "/about/problems/core/💪🏻 Unscalable work",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/problems",
+              "path": "/about/problems/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/systemic/🌲 Distant locations",
+              "path": "/about/problems/systemic/🌲 Distant locations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/systemic/🌻 Monocultural agriculture",
+              "path": "/about/problems/systemic/🌻 Monocultural agriculture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/systemic/🏘️ Multiple apiaries",
+              "path": "/about/problems/systemic/🏘️ Multiple apiaries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/systemic/💢 Aggressive bee colonies",
+              "path": "/about/problems/systemic/💢 Aggressive bee colonies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "problems/systemic/🤢 Pesticide poisoning",
+              "path": "/about/problems/systemic/🤢 Pesticide poisoning",
               "sidebar": "tutorialSidebar"
             },
             {

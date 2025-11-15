@@ -1,0 +1,27 @@
+{
+  "id": "problems/🌻 Precise pollination",
+  "title": "🌻 Precise pollination",
+  "description": "A global issue is food security, efficiency of growing crops and precise pollination as a solution.",
+  "source": "@site/about/problems/🌻 Precise pollination.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🌻 Precise pollination",
+  "permalink": "/about/problems/🌻 Precise pollination",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "class": "anthropological dangers",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌨️ Problems",
+    "permalink": "/about/problems/"
+  },
+  "next": {
+    "title": "❄️ Overwintering collapse",
+    "permalink": "/about/problems/biological/❄️ Overwintering collapse"
+  }
+}

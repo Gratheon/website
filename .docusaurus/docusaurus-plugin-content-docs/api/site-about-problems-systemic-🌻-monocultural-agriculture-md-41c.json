@@ -1,0 +1,23 @@
+{
+  "id": "problems/systemic/🌻 Monocultural agriculture",
+  "title": "🌻 Monocultural agriculture",
+  "description": "- Reduces food source diversity",
+  "source": "@site/about/problems/systemic/🌻 Monocultural agriculture.md",
+  "sourceDirName": "problems/systemic",
+  "slug": "/problems/systemic/🌻 Monocultural agriculture",
+  "permalink": "/about/problems/systemic/🌻 Monocultural agriculture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌲 Distant locations",
+    "permalink": "/about/problems/systemic/🌲 Distant locations"
+  },
+  "next": {
+    "title": "🏘️ Multiple apiaries",
+    "permalink": "/about/problems/systemic/🏘️ Multiple apiaries"
+  }
+}

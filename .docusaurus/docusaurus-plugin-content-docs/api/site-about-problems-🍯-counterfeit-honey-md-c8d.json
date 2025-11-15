@@ -1,0 +1,23 @@
+{
+  "id": "problems/🍯 Counterfeit honey",
+  "title": "🍯 Counterfeit honey",
+  "description": "Counterfeit honey has become a growing challenge for beekeepers, consumers, and the entire apiculture industry. This problem arises when honey products are adulterated with cheaper sweeteners like corn syrup, rice syrup, or other non-natural additives. Some counterfeit honey is even produced entirely synthetically, bypassing bees altogether. This fraudulent practice not only undermines the hard work of ethical beekeepers but also devalues the purity and quality of real honey. For consumers, the consequences include unwittingly purchasing products with little nutritional value, potentially harmful chemicals, and none of the beneficial enzymes and nutrients that genuine honey provides. On a larger scale, the prevalence of counterfeit honey erodes trust in the market, making it harder for ethical producers to compete and sustain their livelihoods.",
+  "source": "@site/about/problems/🍯 Counterfeit honey.md",
+  "sourceDirName": "problems",
+  "slug": "/problems/🍯 Counterfeit honey",
+  "permalink": "/about/problems/🍯 Counterfeit honey",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤢 Pesticide poisoning",
+    "permalink": "/about/problems/systemic/🤢 Pesticide poisoning"
+  },
+  "next": {
+    "title": "🎒 Challenging to become a new beekeeper",
+    "permalink": "/about/problems/🎒 Challenging to become a new beekeeper"
+  }
+}

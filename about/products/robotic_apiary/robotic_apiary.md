@@ -12,12 +12,12 @@ As a more cost-effective solution for large apiaries, we want to reuse [Robotic 
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
-- [❄️ Overwintering collapse](../../🌨️%20Problems/biological/❄️%20Overwintering%20collapse.md)
-- [🌲 Distant locations](../../🌨️%20Problems/systemic/🌲%20Distant%20locations.md)
-- [🌻 Precise pollination](../../🌨️%20Problems/🌻%20Precise%20pollination.md)
-- [🏘️ Multiple apiaries](../../🌨️%20Problems/systemic/🏘️%20Multiple%20apiaries.md)
-- [👁️ Observability of bee colony](../../🌨️%20Problems/core/👁️%20Observability%20of%20bee%20colony.md)
-- [💪🏻 Unscalable work](../../🌨️%20Problems/core/💪🏻%20Unscalable%20work.md)
+- [❄️ Overwintering collapse](../../problems/biological/❄️%20Overwintering%20collapse.md)
+- [🌲 Distant locations](../../problems/systemic/🌲%20Distant%20locations.md)
+- [🌻 Precise pollination](../../problems/🌻%20Precise%20pollination.md)
+- [🏘️ Multiple apiaries](../../problems/systemic/🏘️%20Multiple%20apiaries.md)
+- [👁️ Observability of bee colony](../../problems/core/👁️%20Observability%20of%20bee%20colony.md)
+- [💪🏻 Unscalable work](../../problems/core/💪🏻%20Unscalable%20work.md)
 
 ### Target audience
 

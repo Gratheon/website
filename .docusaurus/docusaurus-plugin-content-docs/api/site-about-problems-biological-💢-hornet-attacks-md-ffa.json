@@ -1,0 +1,23 @@
+{
+  "id": "problems/biological/💢 Hornet attacks",
+  "title": "💢 Hornet attacks",
+  "description": "Hornet attacks pose a significant threat to beekeepers and their colonies, especially in areas where hornet species, such as the Asian giant hornet, are prevalent. These hornets are highly aggressive and can decimate entire bee colonies in a matter of days. The hornets typically target honeybees for their larvae, and they use their strength to kill the bees by decapitating them. Once a hornet has successfully infiltrated the hive, it will kill several bees before returning to its nest to feed its young. This devastating behavior can leave beekeepers with weakened colonies, reduced honey production, and the risk of losing an entire hive.",
+  "source": "@site/about/problems/biological/💢 Hornet attacks.md",
+  "sourceDirName": "problems/biological",
+  "slug": "/problems/biological/💢 Hornet attacks",
+  "permalink": "/about/problems/biological/💢 Hornet attacks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💀 Colony with drone-laying queen",
+    "permalink": "/about/problems/biological/💀 Colony with drone-laying queen"
+  },
+  "next": {
+    "title": "💢 Robbing state",
+    "permalink": "/about/problems/biological/💢 Robbing state"
+  }
+}

@@ -15,13 +15,13 @@ Check and install our [open source code of **entrance-observer**](https://github
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
-- [💢 Hornet attacks](../../🌨️%20Problems/biological/💢%20Hornet%20attacks.md)
-- [💢 Robbing state](../../🌨️%20Problems/biological/💢%20Robbing%20state.md)
-- [🦀 Infestations](../../🌨️%20Problems/biological/🦀%20Infestations.md)
-- [🧶 Swarming](../../🌨️%20Problems/biological/🧶%20Swarming.md)
-- [🦀 Diseases](../../🌨️%20Problems/biological/🦀%20Diseases.md)
-- [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
-- [🤢 Pesticide poisoning](../../🌨️%20Problems/systemic/🤢%20Pesticide%20poisoning.md)
+- [💢 Hornet attacks](../../problems/biological/💢%20Hornet%20attacks.md)
+- [💢 Robbing state](../../problems/biological/💢%20Robbing%20state.md)
+- [🦀 Infestations](../../problems/biological/🦀%20Infestations.md)
+- [🧶 Swarming](../../problems/biological/🧶%20Swarming.md)
+- [🦀 Diseases](../../problems/biological/🦀%20Diseases.md)
+- [💀 Colony without a queen](../../problems/💀%20Colony%20without%20a%20queen.md)
+- [🤢 Pesticide poisoning](../../problems/systemic/🤢%20Pesticide%20poisoning.md)
 ## Features
 - [🎥 Video streaming via API](features/🎥%20Video%20streaming%20via%20API.md)
 - [🐝 Detect swarming](ideas/🐝%20Detect%20swarming.md)

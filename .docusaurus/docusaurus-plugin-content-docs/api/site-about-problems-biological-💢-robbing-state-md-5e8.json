@@ -1,0 +1,23 @@
+{
+  "id": "problems/biological/💢 Robbing state",
+  "title": "💢 Robbing state",
+  "description": "One of the major challenges faced by beekeepers is the robbing state of bees, which occurs when a weak or stressed colony becomes the target of other, more aggressive bees. During robbing, bees from stronger hives invade a weakened colony to steal honey and pollen. This situation can escalate quickly, leading to the collapse of the robbed hive, as the invaders overwhelm the colony’s defenses. Robbing is often triggered by environmental stressors such as a dearth of nectar, poor hive management, or weak bee populations. It poses a significant threat, not only reducing honey production but also disrupting the colony's survival.",
+  "source": "@site/about/problems/biological/💢 Robbing state.md",
+  "sourceDirName": "problems/biological",
+  "slug": "/problems/biological/💢 Robbing state",
+  "permalink": "/about/problems/biological/💢 Robbing state",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💢 Hornet attacks",
+    "permalink": "/about/problems/biological/💢 Hornet attacks"
+  },
+  "next": {
+    "title": "🦀 Diseases",
+    "permalink": "/about/problems/biological/🦀 Diseases"
+  }
+}
