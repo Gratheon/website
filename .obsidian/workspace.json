@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "910c388156df9661",
+        "id": "43128d83ae7b227c",
         "type": "tabs",
         "children": [
           {
-            "id": "49b41fe9f454d98a",
+            "id": "4b06b617656970d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/sensors-design.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "sensors-design"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49b41fe9f454d98a",
+  "active": "4b06b617656970d4",
   "lastOpenFiles": [
+    "Excalidraw/sensors-design.md",
     "Excalidraw/entrance-observer-design.md",
     "Excalidraw/circular-counter.md",
     "research/Competition/ForSage.md",
@@ -206,7 +205,6 @@
     "public/img/sensors.webp",
     "pdfs/s41592-022-01426-1.pdf.md",
     "Excalidraw/design.md",
-    "Excalidraw/sensors-design.md",
     "about/products/entrance_observer/entrance_observer.md",
     "about/products/sensors/sensors.md",
     "about/products/robotic_beehive/todo/📸 Real-time frame scanning.md",
