@@ -18,7 +18,7 @@ Our ethical framework is grounded in our [mission](mission.md) to "harmonize hum
 
 **Primary consideration:** Bee health and colony survival takes precedence over data collection or profit.
 
-- **Non-invasive monitoring:** Our [sensors](../products/sensors/sensors.md) and [entrance observer](../products/entrance_observer/entrance_observer.md) minimize hive disturbance
+- **Non-invasive monitoring:** Our [scales](../products/scales/scales.md) and [entrance observer](../products/entrance_observer/entrance_observer.md) minimize hive disturbance
 - **Reducing stress:** Technology should decrease [intrusive inspections](../🌨️%20Problems/💀%20Intrusive%20inspections.md) rather than increase bee stress
 - **Colony preservation:** Prevent [colony collapse](../🌨️%20Problems/❄️%20Overwintering%20collapse.md) and support natural bee behaviors
 - **Speciesism awareness:** Following Peter Singer's principles from *Animal Liberation* (1975) - we reject discrimination based solely on species and recognize that bees, as sentient beings capable of suffering, deserve moral consideration

@@ -1,0 +1,23 @@
+{
+  "id": "products/scales/ideas/💧 Internal humidity monitoring",
+  "title": "💧 Internal humidity monitoring",
+  "description": "Problem",
+  "source": "@site/about/products/scales/ideas/💧 Internal humidity monitoring.md",
+  "sourceDirName": "products/scales/ideas",
+  "slug": "/products/scales/ideas/💧 Internal humidity monitoring",
+  "permalink": "/about/products/scales/ideas/💧 Internal humidity monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌪️ Wind speed measurement - Anemometer",
+    "permalink": "/about/products/scales/ideas/🌪️ Wind speed measurement - Anemometer"
+  },
+  "next": {
+    "title": "💨 CO2 monitoring",
+    "permalink": "/about/products/scales/ideas/💨 CO2 monitoring"
+  }
+}

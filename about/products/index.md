@@ -13,7 +13,7 @@ Our products are in development and are a mix of software and hardware, complime
 
 <div style={{display: 'flex', textAlign:'center'}}>
 <div style={{width:200}}>
-[Sensors](sensors/sensors.md)<br />
+[Scales](scales/scales.md)<br />
 ![](sensors/img/Screenshot%202025-02-14%20at%2018.26.53.png)
 </div>
 

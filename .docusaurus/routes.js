@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '3e7'),
     exact: true
@@ -229,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '90a'),
+    component: ComponentCreator('/about', 'f35'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '75f'),
+        component: ComponentCreator('/about', '0ab'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'cda'),
+            component: ComponentCreator('/about', '0f8'),
             routes: [
               {
                 path: '/about/',
@@ -1068,74 +1103,74 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/',
-                component: ComponentCreator('/about/products/sensors/', '8a3'),
+                path: '/about/products/scales/',
+                component: ComponentCreator('/about/products/scales/', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/features/📈 Telemetry API',
-                component: ComponentCreator('/about/products/sensors/features/📈 Telemetry API', 'b42'),
+                path: '/about/products/scales/features/📈 Telemetry API',
+                component: ComponentCreator('/about/products/scales/features/📈 Telemetry API', '443'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/🌩️ Measure atmospheric pressure',
-                component: ComponentCreator('/about/products/sensors/ideas/🌩️ Measure atmospheric pressure', 'de0'),
+                path: '/about/products/scales/ideas/🌩️ Measure atmospheric pressure',
+                component: ComponentCreator('/about/products/scales/ideas/🌩️ Measure atmospheric pressure', '29e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer',
-                component: ComponentCreator('/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer', '850'),
+                path: '/about/products/scales/ideas/🌪️ Wind speed measurement - Anemometer',
+                component: ComponentCreator('/about/products/scales/ideas/🌪️ Wind speed measurement - Anemometer', '76a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/💧 Internal humidity monitoring',
-                component: ComponentCreator('/about/products/sensors/ideas/💧 Internal humidity monitoring', '9c0'),
+                path: '/about/products/scales/ideas/💧 Internal humidity monitoring',
+                component: ComponentCreator('/about/products/scales/ideas/💧 Internal humidity monitoring', 'd26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/💨 CO2 monitoring',
-                component: ComponentCreator('/about/products/sensors/ideas/💨 CO2 monitoring', '20e'),
+                path: '/about/products/scales/ideas/💨 CO2 monitoring',
+                component: ComponentCreator('/about/products/scales/ideas/💨 CO2 monitoring', '9fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/💨 Measure PM2 pollution',
-                component: ComponentCreator('/about/products/sensors/ideas/💨 Measure PM2 pollution', '2bd'),
+                path: '/about/products/scales/ideas/💨 Measure PM2 pollution',
+                component: ComponentCreator('/about/products/scales/ideas/💨 Measure PM2 pollution', 'fc3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/📡 Connectivity over LoRa',
-                component: ComponentCreator('/about/products/sensors/ideas/📡 Connectivity over LoRa', 'fd1'),
+                path: '/about/products/scales/ideas/📡 Connectivity over LoRa',
+                component: ComponentCreator('/about/products/scales/ideas/📡 Connectivity over LoRa', '40f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/ideas/🔗 Home-assistant integration',
-                component: ComponentCreator('/about/products/sensors/ideas/🔗 Home-assistant integration', '329'),
+                path: '/about/products/scales/ideas/🔗 Home-assistant integration',
+                component: ComponentCreator('/about/products/scales/ideas/🔗 Home-assistant integration', 'b86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/todo/⚖️ Weight monitoring',
-                component: ComponentCreator('/about/products/sensors/todo/⚖️ Weight monitoring', 'b6f'),
+                path: '/about/products/scales/todo/⚖️ Weight monitoring',
+                component: ComponentCreator('/about/products/scales/todo/⚖️ Weight monitoring', '665'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/todo/🌡️ Internal Temperature monitoring',
-                component: ComponentCreator('/about/products/sensors/todo/🌡️ Internal Temperature monitoring', '28f'),
+                path: '/about/products/scales/todo/🌡️ Internal Temperature monitoring',
+                component: ComponentCreator('/about/products/scales/todo/🌡️ Internal Temperature monitoring', '17a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/sensors/todo/🐻 Tampering detection',
-                component: ComponentCreator('/about/products/sensors/todo/🐻 Tampering detection', '09f'),
+                path: '/about/products/scales/todo/🐻 Tampering detection',
+                component: ComponentCreator('/about/products/scales/todo/🐻 Tampering detection', '283'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

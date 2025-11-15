@@ -1,0 +1,23 @@
+{
+  "id": "products/scales/features/📈 Telemetry API",
+  "title": "📈 Telemetry API",
+  "description": "Why this is needed",
+  "source": "@site/about/products/scales/features/📈 Telemetry API.md",
+  "sourceDirName": "products/scales/features",
+  "slug": "/products/scales/features/📈 Telemetry API",
+  "permalink": "/about/products/scales/features/📈 Telemetry API",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌡️ Beehive scales",
+    "permalink": "/about/products/scales/"
+  },
+  "next": {
+    "title": "🌩️ Measure atmospheric pressure",
+    "permalink": "/about/products/scales/ideas/🌩️ Measure atmospheric pressure"
+  }
+}

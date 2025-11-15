@@ -1,0 +1,23 @@
+{
+  "id": "products/scales/ideas/💨 CO2 monitoring",
+  "title": "💨 CO2 monitoring",
+  "description": "Report results to 📈 Telemetry API",
+  "source": "@site/about/products/scales/ideas/💨 CO2 monitoring.md",
+  "sourceDirName": "products/scales/ideas",
+  "slug": "/products/scales/ideas/💨 CO2 monitoring",
+  "permalink": "/about/products/scales/ideas/💨 CO2 monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💧 Internal humidity monitoring",
+    "permalink": "/about/products/scales/ideas/💧 Internal humidity monitoring"
+  },
+  "next": {
+    "title": "💨 Measure PM2 pollution",
+    "permalink": "/about/products/scales/ideas/💨 Measure PM2 pollution"
+  }
+}

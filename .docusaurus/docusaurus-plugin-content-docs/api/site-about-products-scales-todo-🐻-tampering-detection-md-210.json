@@ -1,0 +1,23 @@
+{
+  "id": "products/scales/todo/🐻 Tampering detection",
+  "title": "🐻 Tampering detection",
+  "description": "The idea is to have a sensor inside a hive that detects situations when hive is tampered with, moved, inspected etc.",
+  "source": "@site/about/products/scales/todo/🐻 Tampering detection.md",
+  "sourceDirName": "products/scales/todo",
+  "slug": "/products/scales/todo/🐻 Tampering detection",
+  "permalink": "/about/products/scales/todo/🐻 Tampering detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌡️ Internal Temperature monitoring",
+    "permalink": "/about/products/scales/todo/🌡️ Internal Temperature monitoring"
+  },
+  "next": {
+    "title": "👁️‍🗨️ Entrance Observer",
+    "permalink": "/about/products/entrance_observer/"
+  }
+}

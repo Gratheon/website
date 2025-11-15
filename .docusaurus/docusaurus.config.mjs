@@ -12,7 +12,6 @@ export default {
   "organizationName": "gratheon",
   "projectName": "website",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -24,6 +23,7 @@ export default {
   "markdown": {
     "mermaid": true,
     "format": "mdx",
+    "emoji": true,
     "mdx1Compat": {
       "comments": true,
       "admonitions": true,
@@ -31,6 +31,10 @@ export default {
     },
     "anchors": {
       "maintainCase": false
+    },
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
     }
   },
   "themes": [
@@ -490,13 +494,19 @@ export default {
   ],
   "baseUrlIssueBanner": true,
   "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
     "experimental_faster": {
       "swcJsLoader": false,
       "swcJsMinimizer": false,
       "swcHtmlMinimizer": false,
       "lightningCssMinimizer": false,
       "mdxCrossCompilerCache": false,
-      "rspackBundler": false
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
     },
     "experimental_storage": {
       "type": "localStorage",

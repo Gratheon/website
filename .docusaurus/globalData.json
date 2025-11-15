@@ -1085,63 +1085,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/features/📈 Telemetry API",
-              "path": "/about/products/sensors/features/📈 Telemetry API",
+              "id": "products/scales/features/📈 Telemetry API",
+              "path": "/about/products/scales/features/📈 Telemetry API",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/🌩️ Measure atmospheric pressure",
-              "path": "/about/products/sensors/ideas/🌩️ Measure atmospheric pressure",
+              "id": "products/scales/ideas/🌩️ Measure atmospheric pressure",
+              "path": "/about/products/scales/ideas/🌩️ Measure atmospheric pressure",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/🌪️ Wind speed measurement - Anemometer",
-              "path": "/about/products/sensors/ideas/🌪️ Wind speed measurement - Anemometer",
+              "id": "products/scales/ideas/🌪️ Wind speed measurement - Anemometer",
+              "path": "/about/products/scales/ideas/🌪️ Wind speed measurement - Anemometer",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/💧 Internal humidity monitoring",
-              "path": "/about/products/sensors/ideas/💧 Internal humidity monitoring",
+              "id": "products/scales/ideas/💧 Internal humidity monitoring",
+              "path": "/about/products/scales/ideas/💧 Internal humidity monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/💨 CO2 monitoring",
-              "path": "/about/products/sensors/ideas/💨 CO2 monitoring",
+              "id": "products/scales/ideas/💨 CO2 monitoring",
+              "path": "/about/products/scales/ideas/💨 CO2 monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/💨 Measure PM2 pollution",
-              "path": "/about/products/sensors/ideas/💨 Measure PM2 pollution",
+              "id": "products/scales/ideas/💨 Measure PM2 pollution",
+              "path": "/about/products/scales/ideas/💨 Measure PM2 pollution",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/📡 Connectivity over LoRa",
-              "path": "/about/products/sensors/ideas/📡 Connectivity over LoRa",
+              "id": "products/scales/ideas/📡 Connectivity over LoRa",
+              "path": "/about/products/scales/ideas/📡 Connectivity over LoRa",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/ideas/🔗 Home-assistant integration",
-              "path": "/about/products/sensors/ideas/🔗 Home-assistant integration",
+              "id": "products/scales/ideas/🔗 Home-assistant integration",
+              "path": "/about/products/scales/ideas/🔗 Home-assistant integration",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/sensors",
-              "path": "/about/products/sensors/",
+              "id": "products/scales/scales",
+              "path": "/about/products/scales/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/todo/⚖️ Weight monitoring",
-              "path": "/about/products/sensors/todo/⚖️ Weight monitoring",
+              "id": "products/scales/todo/⚖️ Weight monitoring",
+              "path": "/about/products/scales/todo/⚖️ Weight monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/todo/🌡️ Internal Temperature monitoring",
-              "path": "/about/products/sensors/todo/🌡️ Internal Temperature monitoring",
+              "id": "products/scales/todo/🌡️ Internal Temperature monitoring",
+              "path": "/about/products/scales/todo/🌡️ Internal Temperature monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/sensors/todo/🐻 Tampering detection",
-              "path": "/about/products/sensors/todo/🐻 Tampering detection",
+              "id": "products/scales/todo/🐻 Tampering detection",
+              "path": "/about/products/scales/todo/🐻 Tampering detection",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2281,15 +2281,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }
