@@ -5,71 +5,111 @@ sidebar_position: 2
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-20%" }}>
 ![](../img/varroa.webp)
 </div></div>
+
 # Problems we are solving
 
 > 💡 Hard, frequent, unscalable work to keep bees healthy for precise pollination and food security
 
-Bees are key species for our food security. Farmers are cooperating with beekeepers to combat [🌻 Precise pollination](🌻%20Precise%20pollination.md) and increase yields  
-   
-But traditional beekeeping requires [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md), because bees can experience [🍽️ Bee colony starvation](🍽️%20Bee%20colony%20starvation.md) , [💀 Colony without a queen](💀%20Colony%20without%20a%20queen.md), [🧶 Swarming](🧶%20Swarming.md), [🦀 Infestations](🦀%20Infestations.md) and [🦀 Diseases](🦀%20Diseases.md) which weaken the colony and cause [❄️ Overwintering collapse](❄️%20Overwintering%20collapse.md).  
+Bees are essential for global food security, with over 35% of food production depending on pollination. However, modern beekeeping faces complex, interconnected challenges that traditional methods struggle to address at scale.
 
-Observability is typically solved with a [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). Dressed in a protective suit, in the summer heat, every week, you need to lift 20 kg beehive sections designed 150 years ago and notice small details while you are getting stung by defending bees, [💀 Intrusive inspections](💀%20Intrusive%20inspections.md). 
+## The Core Challenge
 
-As your apiary grows, this becomes [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md). [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) have [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](🌲%20Distant%20locations.md) that are hard to reach. Existing solutions do not adequately solve these issues
+Traditional beekeeping requires constant [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md) through [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). This approach becomes [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md) as operations grow, especially for [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) managing [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](🌲%20Distant%20locations.md).
 
-#### Problems and goals
+## Problem Categories
 
-<!-- QueryToSerialize: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/🌨️ Problems" WHERE file.name != "index" SORT priority desc -->
-<!-- SerializedQuery: table WITHOUT ID "[" + default(title, file.name) + "]" + default( "("+  replace(replace(file.path, "gratheon.com/", ""), " ", "%20") + ")", "") as issue, class, priority FROM "gratheon.com/about/🌨️ Problems" WHERE file.name != "index" SORT priority desc -->
+### 🎯 Core Operational Challenges (Priority: 80-100)
+Critical issues that prevent beekeeping from scaling effectively:
 
-| issue                                                                                                                    | class                   | priority |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------- |
-| [👁️ Observability of bee colony](about/🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)                       | beekeeping practices    | 100      |
-| [💪🏻 Unscalable work](about/🌨️%20Problems/💪🏻%20Unscalable%20work.md)                                                 | beekeeping practices    | 90       |
-| [❄️ Overwintering collapse](about/🌨️%20Problems/❄️%20Overwintering%20collapse.md)                                       | \-                      | 80       |
-| [💪🏻 Physical labor](about/🌨️%20Problems/💪🏻%20Physical%20labor.md)                                                   | beekeeping practices    | 80       |
-| [🦀 Infestations](about/🌨️%20Problems/🦀%20Infestations.md)                                                             | external influence      | 80       |
-| [🌲 Distant locations](about/🌨️%20Problems/🌲%20Distant%20locations.md)                                                 | \-                      | 70       |
-| [🧶 Swarming](about/🌨️%20Problems/🧶%20Swarming.md)                                                                     | beekeeping practices    | 70       |
-| [🍽️ Bee colony starvation](about/🌨️%20Problems/🍽️%20Bee%20colony%20starvation.md)                                     | internal state          | 60       |
-| [🦀 Diseases](about/🌨️%20Problems/🦀%20Diseases.md)                                                                     | external influence      | 60       |
-| [💀 Colony with drone-laying queen](about/🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)                   | internal state          | 60       |
-| [🏘️ Multiple apiaries](about/🌨️%20Problems/🏘️%20Multiple%20apiaries.md)                                               | beekeeping practices    | 50       |
-| [💀 Alcohol washing killing bees](about/🌨️%20Problems/💀%20Alcohol%20washing%20killing%20bees.md)                       | unethical treatment     | 50       |
-| [💀 Intrusive inspections](about/🌨️%20Problems/💀%20Intrusive%20inspections.md)                                         | unethical treatment     | 50       |
-| [💢 Aggressive bee colonies](about/🌨️%20Problems/💢%20Aggressive%20bee%20colonies.md)                                   | beekeeping practices    | 50       |
-| [🌨️ Problems](about/🌨️%20Problems/🌨️%20Problems.md)                                                                   | \-                      | \-       |
-| [🌻 Monocultural agriculture](about/🌨️%20Problems/🌻%20Monocultural%20agriculture.md)                                   | \-                      | \-       |
-| [🌻 Precise pollination](about/🌨️%20Problems/🌻%20Precise%20pollination.md)                                             | anthropological dangers | \-       |
-| [🎒 Challenging to become a new beekeeper](about/🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) | \-                      | \-       |
-| [🏘️ Bees attacking neighbours](about/🌨️%20Problems/🏘️%20Bees%20attacking%20neighbours.md)                             | \-                      | \-       |
-| [🐭 Mice killing a colony](about/🌨️%20Problems/🐭%20Mice%20killing%20a%20colony.md)                                     | \-                      | \-       |
-| [🐻 Bears destroying hives & colonies](about/🌨️%20Problems/🐻%20Bears%20destroying%20hives%20&%20colonies.md)           | \-                      | \-       |
-| [💀 Colony without a queen](about/🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)                                   | internal state          | \-       |
-| [💢 Hornet attacks](about/🌨️%20Problems/💢%20Hornet%20attacks.md)                                                       | \-                      | \-       |
-| [💢 Robbing state](about/🌨️%20Problems/💢%20Robbing%20state.md)                                                         | \-                      | \-       |
-| [📦 Warehouse organization](about/🌨️%20Problems/📦%20Warehouse%20organization.md)                                       | \-                      | \-       |
-| [🗃️ Storm wind collapsing beehives](🗃️%20Storm%20wind%20collapsing%20beehives.md)                                                   | \-                      | \-       |
-| [🗃️ Poor hive ventilation](about/🌨️%20Problems/🗃️%20Poor%20hive%20ventilation.md)                                     | \-                      | \-       |
-| [🗃️ Ugly beehives](about/🌨️%20Problems/🗃️%20Ugly%20beehives.md)                                                       | \-                      | \-       |
-| [🤢 Pesticide poisoning](about/🌨️%20Problems/🤢%20Pesticide%20poisoning.md)                                             | \-                      | \-       |
-| [👁️ Time-consuming inspections](about/🌨️%20Problems/👁️%20Time-consuming%20inspections.md)                             | \-                      | \-       |
-<!-- SerializedQuery END -->
+| Problem | Impact | Priority |
+|---------|---------|----------|
+| [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md) | Cannot detect issues early | 100 |
+| [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md) | Limits operation growth | 90 |
+| [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) | Time-intensive, seasonal constraints | 80 |
 
+### 🦠 Biological Threats (Priority: 60-80)
+Health challenges that can destroy entire colonies:
+
+| Problem | Impact | Priority |
+|---------|---------|----------|
+| [❄️ Overwintering collapse](❄️%20Overwintering%20collapse.md) | Complete colony loss | 80 |
+| [🦀 Infestations](🦀%20Infestations.md) | Weakens colonies, spreads disease | 80 |
+| [🧶 Swarming](🧶%20Swarming.md) | Production loss, management complexity | 70 |
+| [🦀 Diseases](🦀%20Diseases.md) | Contagious colony damage | 60 |
+| [🍽️ Bee colony starvation](🍽️%20Bee%20colony%20starvation.md) | Preventable colony death | 60 |
+| [💀 Colony with drone-laying queen](💀%20Colony%20with%20drone-laying%20queen.md) | Colony becomes non-productive | 60 |
+
+### 🌍 Environmental & Systemic Issues (Priority: 30-70)
+Broader challenges affecting the beekeeping ecosystem:
+
+| Problem | Impact | Priority |
+|---------|---------|----------|
+| [🌲 Distant locations](🌲%20Distant%20locations.md) | Increases inspection costs | 70 |
+| [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) | Management complexity | 50 |
+| [💢 Aggressive bee colonies](💢%20Aggressive%20bee%20colonies.md) | Safety and management issues | 50 |
+| [🌻 Monocultural agriculture](🌻%20Monocultural%20agriculture.md) | Reduced bee nutrition diversity | 40 |
+| [🤢 Pesticide poisoning](🤢%20Pesticide%20poisoning.md) | External toxicity threat | 40 |
+
+### 🛡️ Ethical & Welfare Concerns (Priority: 40-50)
+Issues related to bee welfare and sustainable practices:
+
+| Problem | Impact | Priority |
+|---------|---------|----------|
+| [💀 Alcohol washing killing bees](💀%20Alcohol%20washing%20killing%20bees.md) | Unnecessary bee death | 50 |
+| [💀 Intrusive inspections](💀%20Intrusive%20inspections.md) | Stress and disruption to colonies | 50 |
+
+### 🏗️ Infrastructure & Knowledge Gaps (Priority: 20-40)
+Supporting challenges that affect industry development:
+
+| Problem | Impact | Priority |
+|---------|---------|----------|
+| [🎒 Challenging to become a new beekeeper](🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) | Reduces industry growth | 40 |
+| [📦 Warehouse organization](📦%20Warehouse%20organization.md) | Operational inefficiency | 30 |
+| [🗃️ Poor hive ventilation](🗃️%20Poor%20hive%20ventilation.md) | Equipment design issues | 30 |
+
+### 🌪️ External Threats (Variable Priority)
+Unpredictable challenges requiring resilient solutions:
+
+- [🐻 Bears destroying hives & colonies](🐻%20Bears%20destroying%20hives%20&%20colonies.md)
+- [💢 Hornet attacks](💢%20Hornet%20attacks.md)
+- [🐭 Mice killing a colony](🐭%20Mice%20killing%20a%20colony.md)
+- [🗃️ Storm wind collapsing beehives](🗃️%20Storm%20wind%20collapsing%20beehives.md)
+- [🏘️ Bees attacking neighbours](🏘️%20Bees%20attacking%20neighbours.md)
+
+## Emerging Challenges We're Addressing
+
+### 🌡️ Climate Adaptation
+- Shifting bloom periods disrupting pollination timing
+- Extreme weather events increasing colony stress
+- Changing migration patterns affecting wild pollinator interactions
+
+### 💰 Economic Pressures
+- Rising equipment and land costs
+- Market volatility in honey and pollination services
+- Cost barriers for adopting monitoring technology
+
+### 📊 Data & Integration
+- Fragmented data across different farm management systems
+- Privacy concerns with continuous hive monitoring
+- Need for standardized metrics across the industry
 
 ![](../img/problems-sage.png)
 
 Survey by BeeSage, [source](https://beesage.co/en/blog/what-is-the-hardest-thing-about-beekeeping)
 
-## On “saving the bees”
+## Our Approach: Technology + Ethics
 
-We are not focusing solely on saving honeybees as a species, because globally colony numbers are increasing. Ecosystems are complex. We support diversity of plants and wild pollinators.
+Unlike solutions that focus solely on data collection, we prioritize:
 
-[https://www.youtube.com/watch?v=CidaOP7PA-o](https://www.youtube.com/watch?v=CidaOP7PA-o)
+- **Bee welfare first:** Technology should reduce stress on colonies, not increase it
+- **Practical impact:** Focus on problems that beekeepers actually face daily
+- **Scalable solutions:** Address root causes that prevent industry growth
+- **Open innovation:** Share knowledge to benefit the entire beekeeping community
+
+## On "saving the bees"
+
+We're not focusing solely on saving honeybees as a species, because globally colony numbers are increasing. Ecosystems are complex. We support diversity of plants and wild pollinators while helping managed colonies thrive sustainably.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/VSYgDssQUtA" title="Bee extinction: Why we&#39;re saving the wrong bees" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-[![](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Screenshot_2024-04-15_at_15.17.41.png)](https://gratheon.com/Problems%20we%20are%20solving%2015a899e8bf10455c9ef903c6e269af2c/Screenshot_2024-04-15_at_15.17.41.png)
-
-> Note that we use a database for problems in order to link problems with features that will help solving or mitigating them. Beekeeping has a lot of problems. We prioritise some of them to have more focused solution
+> **Note:** We maintain a detailed problem database to link specific issues with solution features. This systematic approach ensures our technology development addresses real beekeeping challenges rather than theoretical problems.
