@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43128d83ae7b227c",
+        "id": "a3d55a86ddf4bff7",
         "type": "tabs",
         "children": [
           {
-            "id": "4b06b617656970d4",
+            "id": "7d65673c81f72414",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
-    "collapsed": true
+    "width": 394.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -175,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b06b617656970d4",
+  "active": "7d65673c81f72414",
   "lastOpenFiles": [
     "Excalidraw/sensors-design.md",
     "Excalidraw/entrance-observer-design.md",
