@@ -178,10 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "089a80c6e636ee0b",
   "lastOpenFiles": [
-    "about/🌨️ Problems/biological/💢 Robbing state.md",
+    "about/🌨️ Problems/🐻 Bears destroying hives & colonies.md",
+    "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
     "about/🌨️ Problems/🌨️ Problems.md",
+    "about/🌨️ Problems/biological/💢 Robbing state.md",
     "about/🌨️ Problems/🌻 Precise pollination.md",
     "about/🌨️ Problems/systemic",
     "about/🌨️ Problems/biological/❄️ Overwintering collapse.md",
@@ -224,8 +226,6 @@
     "node_modules/@docsearch/react/node_modules/marked/man/marked.1.md",
     "node_modules/@docsearch/react/node_modules/marked/README.md",
     "node_modules/@docsearch/react/node_modules/marked/LICENSE.md",
-    "node_modules/is-inside-container/node_modules/is-docker/readme.md",
-    "node_modules/is-inside-container/readme.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

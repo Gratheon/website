@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'd37'),
+    component: ComponentCreator('/about', '533'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e4a'),
+        component: ComponentCreator('/about', '7ec'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'ef3'),
+            component: ComponentCreator('/about', '7e2'),
             routes: [
               {
                 path: '/about/',
@@ -301,12 +301,6 @@ export default [
               {
                 path: '/about/🌨️ Problems/🎒 Challenging to become a new beekeeper',
                 component: ComponentCreator('/about/🌨️ Problems/🎒 Challenging to become a new beekeeper', '1c6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🏘️ Bees attacking neighbours',
-                component: ComponentCreator('/about/🌨️ Problems/🏘️ Bees attacking neighbours', '1b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

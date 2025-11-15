@@ -73,10 +73,8 @@ Supporting challenges that affect industry development:
 Unpredictable challenges requiring resilient solutions:
 
 - [🐻 Bears destroying hives & colonies](🐻%20Bears%20destroying%20hives%20&%20colonies.md)
-- [💢 Hornet attacks](biological/💢%20Hornet%20attacks.md)
 - [🐭 Mice killing a colony](🐭%20Mice%20killing%20a%20colony.md)
-- [🗃️ Storm wind collapsing beehives](🗃️%20Storm%20wind%20collapsing%20beehives.md)
-- [🏘️ Bees attacking neighbours](🏘️%20Bees%20attacking%20neighbours.md)
+- [🗃️ Storm wind collapsing beehives](🏘️%20Bees%20attacking%20neighbours.md)
 
 ## Emerging Challenges We're Addressing
 
