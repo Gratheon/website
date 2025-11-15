@@ -9,7 +9,7 @@ title: ❤️‍🔥 Volunteering
 
 Volunteering means you work for free, because you’re **motivated** by other things:
 
-- You want to learn and become a beekeeper, believing in [Company mission](🌻%20Purpose/Company%20mission.md), trying to help [🧑‍🚀 Hobby beekeepers](products/clients/🧑‍🚀%20Hobby%20beekeepers.md) and the 🐝 bees
+- You want to learn and become a beekeeper, believing in [Company mission](mission/Company%20mission.md), trying to help [🧑‍🚀 Hobby beekeepers](products/clients/🧑‍🚀%20Hobby%20beekeepers.md) and the 🐝 bees
 - Gaining open-source proof of experience you can use at applying to other jobs & positions 
   (ex. you are a student and you want to show contribution with CAD model or typescript code)
 - Learning something new in the area that you are not yet familiar with 

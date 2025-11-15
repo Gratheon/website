@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '3e7'),
     exact: true
@@ -264,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'ad2'),
+    component: ComponentCreator('/about', '90a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '35c'),
+        component: ComponentCreator('/about', '75f'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '04d'),
+            component: ComponentCreator('/about', 'cda'),
             routes: [
               {
                 path: '/about/',
@@ -475,36 +440,6 @@ export default [
               {
                 path: '/about/🌨️ Problems/🚛 Transport stress and risk',
                 component: ComponentCreator('/about/🌨️ Problems/🚛 Transport stress and risk', '1a0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌻 Purpose/',
-                component: ComponentCreator('/about/🌻 Purpose/', 'bac'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌻 Purpose/Company mission',
-                component: ComponentCreator('/about/🌻 Purpose/Company mission', '7ec'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌻 Purpose/Ethics',
-                component: ComponentCreator('/about/🌻 Purpose/Ethics', '76c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌻 Purpose/Naming',
-                component: ComponentCreator('/about/🌻 Purpose/Naming', '6a1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌻 Purpose/Symbolism',
-                component: ComponentCreator('/about/🌻 Purpose/Symbolism', '040'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -745,6 +680,30 @@ export default [
               {
                 path: '/about/credits',
                 component: ComponentCreator('/about/credits', '439'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/mission/',
+                component: ComponentCreator('/about/mission/', '82f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/mission/Ethics',
+                component: ComponentCreator('/about/mission/Ethics', '433'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/mission/Naming',
+                component: ComponentCreator('/about/mission/Naming', '44d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/mission/Symbolism',
+                component: ComponentCreator('/about/mission/Symbolism', '0b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -560,31 +560,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "🌻 Purpose/🌻 Purpose",
-              "path": "/about/🌻 Purpose/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌻 Purpose/Company mission",
-              "path": "/about/🌻 Purpose/Company mission",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌻 Purpose/Ethics",
-              "path": "/about/🌻 Purpose/Ethics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌻 Purpose/Naming",
-              "path": "/about/🌻 Purpose/Naming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "🌻 Purpose/Symbolism",
-              "path": "/about/🌻 Purpose/Symbolism",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "📢 Press kit",
               "path": "/about/📢 Press kit",
               "sidebar": "tutorialSidebar"
@@ -787,6 +762,26 @@
             {
               "id": "index",
               "path": "/about/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mission/Ethics",
+              "path": "/about/mission/Ethics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mission/mission",
+              "path": "/about/mission/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mission/Naming",
+              "path": "/about/mission/Naming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mission/Symbolism",
+              "path": "/about/mission/Symbolism",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2286,6 +2281,15 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "GTM-KH4KC9"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
     }
   }
 }

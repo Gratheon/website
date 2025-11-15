@@ -1,0 +1,27 @@
+{
+  "id": "mission/mission",
+  "title": "🌻 Mission",
+  "description": "How we treat the weakest, defines us.",
+  "source": "@site/about/mission/mission.md",
+  "sourceDirName": "mission",
+  "slug": "/mission/",
+  "permalink": "/about/mission/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "🌻 Mission"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/about/"
+  },
+  "next": {
+    "title": "Symbolism",
+    "permalink": "/about/mission/Symbolism"
+  }
+}

@@ -7,7 +7,7 @@ sidebar_position: 10
 
 
 Materials for press media coverage.
-See [Symbolism](🌻%20Purpose/Symbolism.md) for referencing logo
+See [Symbolism](mission/Symbolism.md) for referencing logo
 
 ## Contact
 
