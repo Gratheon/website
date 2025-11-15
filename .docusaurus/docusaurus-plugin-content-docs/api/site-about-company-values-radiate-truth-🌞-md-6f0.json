@@ -1,0 +1,26 @@
+{
+  "id": "company/values/Radiate truth 🌞",
+  "title": "Radiate truth 🌞",
+  "description": "Be joyful and honest, have fun. Be open and transparent to the world. Communicate to reduce boundaries, complexity, be predictable to be trusted.",
+  "source": "@site/about/company/values/Radiate truth 🌞.md",
+  "sourceDirName": "company/values",
+  "slug": "/company/values/Radiate truth 🌞",
+  "permalink": "/about/company/values/Radiate truth 🌞",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gather value 🍯",
+    "permalink": "/about/company/values/Gather value 🍯"
+  },
+  "next": {
+    "title": "Adapt to change 🏕️",
+    "permalink": "/about/company/values/Adapt to change 🏕️"
+  }
+}

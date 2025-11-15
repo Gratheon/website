@@ -1,0 +1,26 @@
+{
+  "id": "company/values/Observable mind 🧿",
+  "title": "Observable mind 🧿",
+  "description": "Value rationalism, science, innovation that has built the modern civilisation. Cultivate creative and critical thinking, data-driven decisions and experimentation",
+  "source": "@site/about/company/values/Observable mind 🧿.md",
+  "sourceDirName": "company/values",
+  "slug": "/company/values/Observable mind 🧿",
+  "permalink": "/about/company/values/Observable mind 🧿",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ethical heart 🌳",
+    "permalink": "/about/company/values/Ethical heart 🌳"
+  },
+  "next": {
+    "title": "New horizons 🏔️",
+    "permalink": "/about/company/values/New horizons 🏔️"
+  }
+}
