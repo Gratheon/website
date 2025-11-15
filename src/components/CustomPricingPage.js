@@ -103,12 +103,23 @@ export default function CustomPricingPage() {
           </div>
         </div>
 
-        <div className="pricing-card featured professional">
+        <div className="pricing-card featured professional" style={{ opacity: 0.6 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
             <div className="pricing-card-price">€49<span style={{ fontSize: "1rem" }}> / month</span></div>
             <div className="pricing-card-description">
               For commercial beekeepers
+            </div>
+            <div style={{
+              background: '#f39c12',
+              color: 'white',
+              padding: '4px 8px',
+              borderRadius: '4px',
+              fontSize: '0.75rem',
+              marginTop: '8px',
+              display: 'inline-block'
+            }}>
+              In Development
             </div>
           </div>
           <div className="pricing-card-body">
@@ -133,11 +144,22 @@ export default function CustomPricingPage() {
         </div>
 
 
-        <div className="pricing-card featured flexible">
+        <div className="pricing-card featured flexible" style={{ opacity: 0.6 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
             <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> for 1000 tokens*</span></div>
             <div className="pricing-card-description">For research & enterprise users</div>
+            <div style={{
+              background: '#f39c12',
+              color: 'white',
+              padding: '4px 8px',
+              borderRadius: '4px',
+              fontSize: '0.75rem',
+              marginTop: '8px',
+              display: 'inline-block'
+            }}>
+              In Development
+            </div>
           </div>
           <div className="pricing-card-body">
             <ul className="pricing-card-features">
