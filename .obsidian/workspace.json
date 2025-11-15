@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/values/values.md",
+                "file": "about/🌻 Purpose/🌻 Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "values"
+              "title": "🌻 Purpose"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "7d65673c81f72414",
   "lastOpenFiles": [
+    "about/company/values/values.md",
     "about/volunteer.md",
     "about/credits.md",
     "about/index.md",
@@ -189,7 +190,6 @@
     "about/company/🏇 Go to market strategy.md",
     "about/company/values/Ethical heart 🌳.md",
     "about/company/values/Adapt to change 🏕️.md",
-    "about/company/values/values.md",
     "Excalidraw/sensors-design.md",
     "Excalidraw/entrance-observer-design.md",
     "Excalidraw/circular-counter.md",
