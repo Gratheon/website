@@ -2277,5 +2277,14 @@
       ],
       "breadcrumbs": true
     }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "GTM-KH4KC9"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
   }
 }

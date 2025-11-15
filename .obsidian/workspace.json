@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04099e307aff324d",
+        "id": "31c32977a063b982",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d2dcf5e755a8ea",
+            "id": "e3f5bac2bd1f3508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about/company/Team/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0d2dcf5e755a8ea",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
-    "about/company/Team/img/Pasted image 20251116004749.png",
+    "public/blog/atom.xml",
+    "public/blog/rss.xml",
+    "public/blog/atom.css",
+    "public/blog/rss.css",
+    "public/blog/atom.xsl",
+    "public/blog/rss.xsl",
+    "public/sitemap.xml",
+    "public/index.html",
+    "public/research/papers/wifi-exposure/index.html",
+    "public/research/papers/wifi-exposure",
+    "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
+    "public/img/windows.png",
+    "public/img/undraw_docusaurus_react.svg",
+    "public/img/varroa.webp",
+    "public/img/undraw_docusaurus_tree.svg",
+    "public/img/temp.webp",
+    "public/img/undraw_docusaurus_mountain.svg",
+    "public/img/observer.webp",
+    "public/img/nvidia-inception-program-badge-rgb-for-screen.svg",
+    "public/img/tallinn.png",
+    "public/img/ndvi.webp",
+    "about/company/Team/Merchandise.md",
+    "about/company/Team/index.md",
     "blog/2025-11-15 Prototron top 40 application form.md",
-    "blog/img/Pasted image 20251116004736.png",
     "blog/2025-10-16 🎒 Visual AI in Agriculture Webinar.md",
     "about/problems/biological/🦀 Diseases.md",
     "about/problems/problems.md",
@@ -191,32 +208,13 @@
     "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
     "about/problems/biological/💢 Robbing state.md",
     "about/problems/🌻 Precise pollination.md",
-    "about/problems/systemic",
     "about/problems/biological/❄️ Overwintering collapse.md",
-    "about/problems/biological",
-    "about/problems/core",
     "about/products/scales/scales.md",
     "about/products/index.md",
     "about/mission/Symbolism.md",
-    "node_modules/@mermaid-js/layout-elk/dist/chunks/mermaid-layout-elk.esm/render-P27B6YR6.mjs",
-    "node_modules/@mermaid-js/layout-elk/LICENSE",
-    "node_modules/@mermaid-js/layout-elk/dist/render.d.ts",
-    "node_modules/@mermaid-js/layout-elk/dist/layouts.d.ts",
-    "node_modules/@mermaid-js/layout-elk/dist/find-common-ancestor.d.ts",
-    "node_modules/@mermaid-js/layout-elk/dist/chunks/mermaid-layout-elk.core/render-M6WAID4X.mjs",
-    "node_modules/@mermaid-js/layout-elk/dist/mermaid-layout-elk.esm.mjs",
     "node_modules/@mermaid-js/layout-elk/README.md",
     "node_modules/elkjs/README.md",
     "node_modules/elkjs/LICENSE.md",
-    "public/img/windows.png",
-    "public/img/varroa.webp",
-    "public/img/undraw_docusaurus_tree.svg",
-    "public/img/undraw_docusaurus_react.svg",
-    "public/img/undraw_docusaurus_mountain.svg",
-    "public/img/temp.webp",
-    "public/img/tallinn.png",
-    "public/img/sharing.webp",
-    "public/img/sensors.webp",
     "node_modules/zod/README.md",
     "node_modules/ai/README.md",
     "node_modules/ai/CHANGELOG.md",
@@ -224,8 +222,6 @@
     "node_modules/tinypool/README.md",
     "node_modules/sax/LICENSE.md",
     "node_modules/@jridgewell/remapping/README.md",
-    "node_modules/webpack-dev-server/node_modules/open/readme.md",
-    "node_modules/@types/serve-static/node_modules/@types/send/README.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

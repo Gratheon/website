@@ -5,6 +5,7 @@ Idea so far yellow T-shirt
 - Krauze disain ou - Renee [https://kruze.ee/](https://kruze.ee/)
 - Roy ou - Steven [https://roi.ee/](https://roi.ee/)
 - [https://www.merchology.com/products/tm17879-elevate-white-t-shirt](https://www.merchology.com/products/tm17879-elevate-white-t-shirt)
+- https://logotikke.ee/
 
 ## T-shirts
 
