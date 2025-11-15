@@ -20,7 +20,7 @@ Our ethical framework is grounded in our [mission](mission.md) to "harmonize hum
 
 - **Non-invasive monitoring:** Our [scales](../products/scales/scales.md) and [entrance observer](../products/entrance_observer/entrance_observer.md) minimize hive disturbance
 - **Reducing stress:** Technology should decrease [intrusive inspections](../🌨️%20Problems/💀%20Intrusive%20inspections.md) rather than increase bee stress
-- **Colony preservation:** Prevent [colony collapse](../🌨️%20Problems/❄️%20Overwintering%20collapse.md) and support natural bee behaviors
+- **Colony preservation:** Prevent [colony collapse](../🌨️%20Problems/biological/❄️%20Overwintering%20collapse.md) and support natural bee behaviors
 - **Speciesism awareness:** Following Peter Singer's principles from *Animal Liberation* (1975) - we reject discrimination based solely on species and recognize that bees, as sentient beings capable of suffering, deserve moral consideration
 
 ## 🌱 Environmental Stewardship
@@ -28,10 +28,10 @@ Our ethical framework is grounded in our [mission](mission.md) to "harmonize hum
 **Regenerative approach:** Our technology should contribute to ecological restoration, not exploitation.
 
 - **Sustainable design:** Energy-efficient hardware and renewable energy usage
-- **Supporting biodiversity:** Helping address [monocultural agriculture](../🌨️%20Problems/🌻%20Monocultural%20agriculture.md) challenges
+- **Supporting biodiversity:** Helping address [monocultural agriculture](../🌨️%20Problems/systemic/🌻%20Monocultural%20agriculture.md) challenges
 - **Carbon footprint:** Minimizing environmental impact of manufacturing and operations
 - **Pollination support:** Enhancing natural [pollination services](../🌨️%20Problems/🌻%20Precise%20pollination.md) for food security
-- **Pesticide reduction:** Technology that helps reduce [pesticide poisoning](../🌨️%20Problems/🤢%20Pesticide%20poisoning.md)
+- **Pesticide reduction:** Technology that helps reduce [pesticide poisoning](../🌨️%20Problems/systemic/🤢%20Pesticide%20poisoning.md)
 
 ## 👨‍🌾 Social Ethics & Beekeeper Empowerment
 

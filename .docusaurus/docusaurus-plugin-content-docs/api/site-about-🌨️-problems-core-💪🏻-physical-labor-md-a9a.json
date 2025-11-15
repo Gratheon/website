@@ -1,11 +1,11 @@
 {
-  "id": "🌨️ Problems/💪🏻 Physical labor",
+  "id": "🌨️ Problems/core/💪🏻 Physical labor",
   "title": "💪🏻 Physical labor",
   "description": "A single healthy colony over the season can collect 40-80 kg of honey.",
-  "source": "@site/about/🌨️ Problems/💪🏻 Physical labor.md",
-  "sourceDirName": "🌨️ Problems",
-  "slug": "/🌨️ Problems/💪🏻 Physical labor",
-  "permalink": "/about/🌨️ Problems/💪🏻 Physical labor",
+  "source": "@site/about/🌨️ Problems/core/💪🏻 Physical labor.md",
+  "sourceDirName": "🌨️ Problems/core",
+  "slug": "/🌨️ Problems/core/💪🏻 Physical labor",
+  "permalink": "/about/🌨️ Problems/core/💪🏻 Physical labor",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "❄️ Overwintering collapse",
-    "permalink": "/about/🌨️ Problems/❄️ Overwintering collapse"
-  },
-  "next": {
     "title": "👁️ Observability of bee colony",
     "permalink": "/about/🌨️ Problems/core/👁️ Observability of bee colony"
+  },
+  "next": {
+    "title": "💪🏻 Unscalable work",
+    "permalink": "/about/🌨️ Problems/core/💪🏻 Unscalable work"
   }
 }

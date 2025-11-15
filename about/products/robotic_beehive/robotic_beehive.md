@@ -23,13 +23,13 @@ We are developing a robotic vertical beehive inspection platform, which is
 
 ### Problem focus
 Out of all beekeeping issues, this product is helping with these:
-- [👁️ Observability of bee colony](../../🌨️%20Problems/👁️%20Observability%20of%20bee%20colony.md)
+- [👁️ Observability of bee colony](../../🌨️%20Problems/core/👁️%20Observability%20of%20bee%20colony.md)
 - [💀 Intrusive inspections](../../🌨️%20Problems/💀%20Intrusive%20inspections.md)
-- [💪🏻 Physical labor](../../🌨️%20Problems/💪🏻%20Physical%20labor.md)
-- [🦀 Infestations](../../🌨️%20Problems/🦀%20Infestations.md)
+- [💪🏻 Physical labor](../../🌨️%20Problems/core/💪🏻%20Physical%20labor.md)
+- [🦀 Infestations](../../🌨️%20Problems/biological/🦀%20Infestations.md)
 - [💀 Alcohol washing killing bees](../../🌨️%20Problems/💀%20Alcohol%20washing%20killing%20bees.md)
 - [💀 Colony without a queen](../../🌨️%20Problems/💀%20Colony%20without%20a%20queen.md)
-- [💀 Colony with drone-laying queen](../../🌨️%20Problems/💀%20Colony%20with%20drone-laying%20queen.md)
+- [💀 Colony with drone-laying queen](../../🌨️%20Problems/biological/💀%20Colony%20with%20drone-laying%20queen.md)
 - [🗃️ Ugly beehives](../../🌨️%20Problems/🗃️%20Ugly%20beehives.md)
 - [🎒 Challenging to become a new beekeeper](../../🌨️%20Problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md)
 
@@ -51,25 +51,26 @@ President Alar Karis harvesting honey from the Kadriorg Palace beehives. ([Photo
 
 | title                                                                                                                                                       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [🍭 Automatic sugar syrup feeder](ideas/🍭%20Automatic%20sugar%20syrup%20feeder.md)                                                                         |
 | [🎙️ 6-channel audio monitoring](ideas/🎙️%206-channel%20audio%20monitoring.md)                                                                             |
-| [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
-| [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
+| [🍭 Automatic sugar syrup feeder](ideas/🍭%20Automatic%20sugar%20syrup%20feeder.md)                                                                         |
 | [🎮 Client-side app with UI in manual override mode](ideas/🎮%20Client-side%20app%20with%20UI%20in%20manual%20override%20mode.md)                           |
 | [🐝 Bee nursing video analysis](ideas/🐝%20Bee%20nursing%20video%20analysis.md)                                                                             |
-| [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
-| [🚁 Ventilation control](ideas/🚁%20Ventilation%20control.md)                                                                                               |
-| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
-| [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |
+| [🐝 Bee specialization classification](ideas/🐝%20Bee%20specialization%20classification.md)                                                                 |
+| [🎮 Connecting robot to web-app UX](ideas/🎮%20Connecting%20robot%20to%20web-app%20UX.md)                                                                   |
 | [🔌 Energy autonomy](ideas/🔌%20Energy%20autonomy.md)                                                                                                       |
+| [🔥 Hive heating](ideas/🔥%20Hive%20heating.md)                                                                                                             |
+| [🚁 Ventilation control](ideas/🚁%20Ventilation%20control.md)                                                                                               |
+| [🔊 Audio-interface to talk to bees](ideas/🔊%20Audio-interface%20to%20talk%20to%20bees.md)                                                                 |
 | [🛑 Close mechanized hive entrance in case of hornet attack](ideas/🛑%20Close%20mechanized%20hive%20entrance%20in%20case%20of%20hornet%20attack.md)         |
+| [🛑 Close mechanised hive entrance in case of robbing behaviour](ideas/🛑%20Close%20mechanised%20hive%20entrance%20in%20case%20of%20robbing%20behaviour.md) |
 | [🤖 Talk to bee colony with AI](ideas/🤖%20Talk%20to%20bee%20colony%20with%20AI.md)                                                                         |
 | [🛑 Mechanically reduce hive entrance in case of high wind](ideas/🛑%20Mechanically%20reduce%20hive%20entrance%20in%20case%20of%20high%20wind.md)           |
+| [🦀 Hive bottom scanning](ideas/🦀%20Hive%20bottom%20scanning.md)                                                                                           |
 | [🦾 Moveable hive bottom with varroa counting](ideas/🦾%20Moveable%20hive%20bottom%20with%20varroa%20counting.md)                                           |
 | [🦾 Robotic frame reordering](ideas/🦾%20Robotic%20frame%20reordering.md)                                                                                   |
+| [🦾Robotic frame isolation & extraction](ideas/🦾Robotic%20frame%20isolation%20&%20extraction.md)                                                           |
 | [🦾 Robotic insertion of new frames](ideas/🦾%20Robotic%20insertion%20of%20new%20frames.md)                                                                 |
 | [🧪 Automatic acid treatment against varroa](ideas/🧪%20Automatic%20acid%20treatment%20against%20varroa.md)                                                 |
-| [🦾Robotic frame isolation & extraction](ideas/🦾Robotic%20frame%20isolation%20&%20extraction.md)                                                           |
 <!-- SerializedQuery END -->
 
 ## Non-functional requirements

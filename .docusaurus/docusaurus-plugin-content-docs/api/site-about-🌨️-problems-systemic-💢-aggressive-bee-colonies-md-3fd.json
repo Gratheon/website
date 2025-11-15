@@ -1,0 +1,26 @@
+{
+  "id": "🌨️ Problems/systemic/💢 Aggressive bee colonies",
+  "title": "💢 Aggressive bee colonies",
+  "description": "Beekeepers are dealing with aggressive bee colonies. Aggression in bees can manifest as heightened defensiveness, leading to stinging events not only for the beekeeper but also for neighboring colonies, wildlife, and even visitors. This aggressive behavior can arise from a variety of factors, including poor hive management, environmental stressors, genetic traits, or even the presence of predators. When bees feel threatened, they may become more defensive, leading to increased risks for beekeepers and a disruption in the overall hive health. Managing aggressive bees becomes critical to maintaining a peaceful, productive apiary.",
+  "source": "@site/about/🌨️ Problems/systemic/💢 Aggressive bee colonies.md",
+  "sourceDirName": "🌨️ Problems/systemic",
+  "slug": "/🌨️ Problems/systemic/💢 Aggressive bee colonies",
+  "permalink": "/about/🌨️ Problems/systemic/💢 Aggressive bee colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "class": "beekeeping practices",
+    "priority": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏘️ Multiple apiaries",
+    "permalink": "/about/🌨️ Problems/systemic/🏘️ Multiple apiaries"
+  },
+  "next": {
+    "title": "🤢 Pesticide poisoning",
+    "permalink": "/about/🌨️ Problems/systemic/🤢 Pesticide poisoning"
+  }
+}

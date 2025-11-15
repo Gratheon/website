@@ -2,8 +2,8 @@ Hornet attacks pose a significant threat to beekeepers and their colonies, espec
 
 For beekeepers, detecting hornet attacks early is critical, but traditional methods of monitoring can be slow or unreliable. The entrance of the hive often provides little insight into the ongoing threats, especially during off-hours when the hornets may strike. The lack of a real-time, automated way to monitor and respond to these attacks leaves beekeepers vulnerable. Technologies like AI-powered hive entrance devices, combined with IoT sensors, can offer beekeepers a better way to monitor hornet activity. These devices can analyze the traffic entering and exiting the hive, identify hornets based on size and movement patterns, and alert beekeepers before significant damage occurs. By combining AI, robotics, and real-time data, the modern beekeeper has a better chance at defending their colonies and maintaining healthy, productive hives.
 
-![](../img/Screenshot%202024-06-14%20at%2017.10.39.png)
+![](../../img/Screenshot%202024-06-14%20at%2017.10.39.png)
 
-Possible solution - [https://grabcad.com/library/hornet-muzzle-trap-for-hives-1](https://grabcad.com/library/hornet-muzzle-trap-for-hives-1)![](../img/Screenshot%202024-06-14%20at%2017.10.16.png)
+Possible solution - [https://grabcad.com/library/hornet-muzzle-trap-for-hives-1](https://grabcad.com/library/hornet-muzzle-trap-for-hives-1)![](../../img/Screenshot%202024-06-14%20at%2017.10.16.png)
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uCTVawrGCLI" title="Липкая защита: защита медоносных пчел от гигантских шершней" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

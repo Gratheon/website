@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'f35'),
+    component: ComponentCreator('/about', 'd37'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '0ab'),
+        component: ComponentCreator('/about', 'e4a'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '0f8'),
+            component: ComponentCreator('/about', 'ef3'),
             routes: [
               {
                 path: '/about/',
@@ -283,24 +283,6 @@ export default [
               {
                 path: '/about/🌨️ Problems/',
                 component: ComponentCreator('/about/🌨️ Problems/', 'fa5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/❄️ Overwintering collapse',
-                component: ComponentCreator('/about/🌨️ Problems/❄️ Overwintering collapse', 'fc6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🌲 Distant locations',
-                component: ComponentCreator('/about/🌨️ Problems/🌲 Distant locations', '9f2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🌻 Monocultural agriculture',
-                component: ComponentCreator('/about/🌨️ Problems/🌻 Monocultural agriculture', 'd80'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -317,12 +299,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/🍽️ Bee colony starvation',
-                component: ComponentCreator('/about/🌨️ Problems/🍽️ Bee colony starvation', '3c3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/🌨️ Problems/🎒 Challenging to become a new beekeeper',
                 component: ComponentCreator('/about/🌨️ Problems/🎒 Challenging to become a new beekeeper', '1c6'),
                 exact: true,
@@ -331,12 +307,6 @@ export default [
               {
                 path: '/about/🌨️ Problems/🏘️ Bees attacking neighbours',
                 component: ComponentCreator('/about/🌨️ Problems/🏘️ Bees attacking neighbours', '1b7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🏘️ Multiple apiaries',
-                component: ComponentCreator('/about/🌨️ Problems/🏘️ Multiple apiaries', '1f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -353,12 +323,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/👁️ Observability of bee colony',
-                component: ComponentCreator('/about/🌨️ Problems/👁️ Observability of bee colony', '397'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/🌨️ Problems/👁️ Time-consuming inspections',
                 component: ComponentCreator('/about/🌨️ Problems/👁️ Time-consuming inspections', 'aba'),
                 exact: true,
@@ -371,12 +335,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/💀 Colony with drone-laying queen',
-                component: ComponentCreator('/about/🌨️ Problems/💀 Colony with drone-laying queen', '724'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/🌨️ Problems/💀 Colony without a queen',
                 component: ComponentCreator('/about/🌨️ Problems/💀 Colony without a queen', '5a9'),
                 exact: true,
@@ -385,36 +343,6 @@ export default [
               {
                 path: '/about/🌨️ Problems/💀 Intrusive inspections',
                 component: ComponentCreator('/about/🌨️ Problems/💀 Intrusive inspections', '68b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/💢 Aggressive bee colonies',
-                component: ComponentCreator('/about/🌨️ Problems/💢 Aggressive bee colonies', 'ecf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/💢 Hornet attacks',
-                component: ComponentCreator('/about/🌨️ Problems/💢 Hornet attacks', 'c53'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/💢 Robbing state',
-                component: ComponentCreator('/about/🌨️ Problems/💢 Robbing state', '684'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/💪🏻 Physical labor',
-                component: ComponentCreator('/about/🌨️ Problems/💪🏻 Physical labor', 'caa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/💪🏻 Unscalable work',
-                component: ComponentCreator('/about/🌨️ Problems/💪🏻 Unscalable work', '47d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -449,32 +377,104 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/🌨️ Problems/🤢 Pesticide poisoning',
-                component: ComponentCreator('/about/🌨️ Problems/🤢 Pesticide poisoning', '7c3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🦀 Diseases',
-                component: ComponentCreator('/about/🌨️ Problems/🦀 Diseases', 'a93'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🦀 Infestations',
-                component: ComponentCreator('/about/🌨️ Problems/🦀 Infestations', 'be5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/🌨️ Problems/🧶 Swarming',
-                component: ComponentCreator('/about/🌨️ Problems/🧶 Swarming', '770'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/🌨️ Problems/🚛 Transport stress and risk',
                 component: ComponentCreator('/about/🌨️ Problems/🚛 Transport stress and risk', '1a0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/❄️ Overwintering collapse',
+                component: ComponentCreator('/about/🌨️ Problems/biological/❄️ Overwintering collapse', '501'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/🍽️ Bee colony starvation',
+                component: ComponentCreator('/about/🌨️ Problems/biological/🍽️ Bee colony starvation', '595'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/💀 Colony with drone-laying queen',
+                component: ComponentCreator('/about/🌨️ Problems/biological/💀 Colony with drone-laying queen', '2d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/💢 Hornet attacks',
+                component: ComponentCreator('/about/🌨️ Problems/biological/💢 Hornet attacks', 'ed2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/💢 Robbing state',
+                component: ComponentCreator('/about/🌨️ Problems/biological/💢 Robbing state', '7eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/🦀 Diseases',
+                component: ComponentCreator('/about/🌨️ Problems/biological/🦀 Diseases', '173'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/🦀 Infestations',
+                component: ComponentCreator('/about/🌨️ Problems/biological/🦀 Infestations', '014'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/biological/🧶 Swarming',
+                component: ComponentCreator('/about/🌨️ Problems/biological/🧶 Swarming', 'd48'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/core/👁️ Observability of bee colony',
+                component: ComponentCreator('/about/🌨️ Problems/core/👁️ Observability of bee colony', 'f1c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/core/💪🏻 Physical labor',
+                component: ComponentCreator('/about/🌨️ Problems/core/💪🏻 Physical labor', '11e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/core/💪🏻 Unscalable work',
+                component: ComponentCreator('/about/🌨️ Problems/core/💪🏻 Unscalable work', '9c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/systemic/🌲 Distant locations',
+                component: ComponentCreator('/about/🌨️ Problems/systemic/🌲 Distant locations', 'f98'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/systemic/🌻 Monocultural agriculture',
+                component: ComponentCreator('/about/🌨️ Problems/systemic/🌻 Monocultural agriculture', '3ac'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/systemic/🏘️ Multiple apiaries',
+                component: ComponentCreator('/about/🌨️ Problems/systemic/🏘️ Multiple apiaries', '698'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/systemic/💢 Aggressive bee colonies',
+                component: ComponentCreator('/about/🌨️ Problems/systemic/💢 Aggressive bee colonies', '815'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/🌨️ Problems/systemic/🤢 Pesticide poisoning',
+                component: ComponentCreator('/about/🌨️ Problems/systemic/🤢 Pesticide poisoning', 'c1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -14,7 +14,7 @@ Bees are essential for global food security, with over 35% of food production de
 
 ## The Core Challenge
 
-Traditional beekeeping requires constant [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md) through [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). This approach becomes [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md) as operations grow, especially for [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) managing [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](🌲%20Distant%20locations.md).
+Traditional beekeeping requires constant [👁️ Observability of bee colony](core/👁️%20Observability%20of%20bee%20colony.md) through [💪🏻 Physical labor](core/💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). This approach becomes [💪🏻 Unscalable work](core/💪🏻%20Unscalable%20work.md) as operations grow, especially for [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) managing [🏘️ Multiple apiaries](systemic/🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](systemic/🌲%20Distant%20locations.md).
 
 ## Problem Categories
 
@@ -23,32 +23,34 @@ Critical issues that prevent beekeeping from scaling effectively:
 
 | Problem | Impact | Priority |
 |---------|---------|----------|
-| [👁️ Observability of bee colony](👁️%20Observability%20of%20bee%20colony.md) | Cannot detect issues early | 100 |
-| [💪🏻 Unscalable work](💪🏻%20Unscalable%20work.md) | Limits operation growth | 90 |
-| [💪🏻 Physical labor](💪🏻%20Physical%20labor.md) | Time-intensive, seasonal constraints | 80 |
+| [👁️ Observability of bee colony](core/👁️%20Observability%20of%20bee%20colony.md) | Cannot detect issues early | 100 |
+| [💪🏻 Unscalable work](core/💪🏻%20Unscalable%20work.md) | Limits operation growth | 90 |
+| [💪🏻 Physical labor](core/💪🏻%20Physical%20labor.md) | Time-intensive, seasonal constraints | 80 |
 
 ### 🦠 Biological Threats (Priority: 60-80)
 Health challenges that can destroy entire colonies:
 
-| Problem | Impact | Priority |
-|---------|---------|----------|
-| [❄️ Overwintering collapse](❄️%20Overwintering%20collapse.md) | Complete colony loss | 80 |
-| [🦀 Infestations](🦀%20Infestations.md) | Weakens colonies, spreads disease | 80 |
-| [🧶 Swarming](🧶%20Swarming.md) | Production loss, management complexity | 70 |
-| [🦀 Diseases](🦀%20Diseases.md) | Contagious colony damage | 60 |
-| [🍽️ Bee colony starvation](🍽️%20Bee%20colony%20starvation.md) | Preventable colony death | 60 |
-| [💀 Colony with drone-laying queen](💀%20Colony%20with%20drone-laying%20queen.md) | Colony becomes non-productive | 60 |
+| Problem                                                                                      | Impact                                 | Priority |
+| -------------------------------------------------------------------------------------------- | -------------------------------------- | -------- |
+| [❄️ Overwintering collapse](biological/❄️%20Overwintering%20collapse.md)                     | Complete colony loss                   | 80       |
+| [🦀 Infestations](biological/🦀%20Infestations.md)                                           | Weakens colonies, spreads disease      | 80       |
+| [💢 Hornet attacks](biological/💢%20Hornet%20attacks.md)                                     | Colony becomes non-productive          | 70       |
+| [🧶 Swarming](biological/🧶%20Swarming.md)                                                   | Production loss, management complexity | 70       |
+| [🦀 Diseases](biological/🦀%20Diseases.md)                                                   | Contagious colony damage               | 60       |
+| [🍽️ Bee colony starvation](biological/🍽️%20Bee%20colony%20starvation.md)                   | Preventable colony death               | 60       |
+| [💀 Colony with drone-laying queen](biological/💀%20Colony%20with%20drone-laying%20queen.md) | Colony becomes non-productive          | 60       |
+| [💢 Robbing state](biological/💢%20Robbing%20state.md)                                                  | Weakens colonies and loses honey       | 50       |
 
 ### 🌍 Environmental & Systemic Issues (Priority: 30-70)
 Broader challenges affecting the beekeeping ecosystem:
 
 | Problem | Impact | Priority |
 |---------|---------|----------|
-| [🌲 Distant locations](🌲%20Distant%20locations.md) | Increases inspection costs | 70 |
-| [🏘️ Multiple apiaries](🏘️%20Multiple%20apiaries.md) | Management complexity | 50 |
-| [💢 Aggressive bee colonies](💢%20Aggressive%20bee%20colonies.md) | Safety and management issues | 50 |
-| [🌻 Monocultural agriculture](🌻%20Monocultural%20agriculture.md) | Reduced bee nutrition diversity | 40 |
-| [🤢 Pesticide poisoning](🤢%20Pesticide%20poisoning.md) | External toxicity threat | 40 |
+| [🌲 Distant locations](systemic/🌲%20Distant%20locations.md) | Increases inspection costs | 70 |
+| [🏘️ Multiple apiaries](systemic/🏘️%20Multiple%20apiaries.md) | Management complexity | 50 |
+| [💢 Aggressive bee colonies](systemic/💢%20Aggressive%20bee%20colonies.md) | Safety and management issues | 50 |
+| [🌻 Monocultural agriculture](systemic/🌻%20Monocultural%20agriculture.md) | Reduced bee nutrition diversity | 40 |
+| [🤢 Pesticide poisoning](systemic/🤢%20Pesticide%20poisoning.md) | External toxicity threat | 40 |
 
 ### 🛡️ Ethical & Welfare Concerns (Priority: 40-50)
 Issues related to bee welfare and sustainable practices:
@@ -71,7 +73,7 @@ Supporting challenges that affect industry development:
 Unpredictable challenges requiring resilient solutions:
 
 - [🐻 Bears destroying hives & colonies](🐻%20Bears%20destroying%20hives%20&%20colonies.md)
-- [💢 Hornet attacks](💢%20Hornet%20attacks.md)
+- [💢 Hornet attacks](biological/💢%20Hornet%20attacks.md)
 - [🐭 Mice killing a colony](🐭%20Mice%20killing%20a%20colony.md)
 - [🗃️ Storm wind collapsing beehives](🗃️%20Storm%20wind%20collapsing%20beehives.md)
 - [🏘️ Bees attacking neighbours](🏘️%20Bees%20attacking%20neighbours.md)

@@ -1,11 +1,11 @@
 {
-  "id": "🌨️ Problems/🧶 Swarming",
+  "id": "🌨️ Problems/biological/🧶 Swarming",
   "title": "🧶 Swarming",
   "description": "Swarming is one of the most significant challenges beekeepers face, as it occurs when a large group of bees leaves the hive to form a new colony, usually during the warmer months. This behavior is a natural process for bee reproduction, but it can lead to the loss of a substantial portion of the colony and disrupt honey production. Beekeepers often struggle to detect the early signs of swarming, such as increased queen cell formation or the hive becoming overcrowded, which makes it difficult to intervene in time. Without proper intervention, swarming can result in a weakened colony, reduced honey yield, and the need for the beekeeper to manage the new swarm.",
-  "source": "@site/about/🌨️ Problems/🧶 Swarming.md",
-  "sourceDirName": "🌨️ Problems",
-  "slug": "/🌨️ Problems/🧶 Swarming",
-  "permalink": "/about/🌨️ Problems/🧶 Swarming",
+  "source": "@site/about/🌨️ Problems/biological/🧶 Swarming.md",
+  "sourceDirName": "🌨️ Problems/biological",
+  "slug": "/🌨️ Problems/biological/🧶 Swarming",
+  "permalink": "/about/🌨️ Problems/biological/🧶 Swarming",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🤢 Pesticide poisoning",
-    "permalink": "/about/🌨️ Problems/🤢 Pesticide poisoning"
+    "title": "🦀 Infestations",
+    "permalink": "/about/🌨️ Problems/biological/🦀 Infestations"
   },
   "next": {
-    "title": "🍯 Products",
-    "permalink": "/about/products/"
+    "title": "👁️ Observability of bee colony",
+    "permalink": "/about/🌨️ Problems/core/👁️ Observability of bee colony"
   }
 }

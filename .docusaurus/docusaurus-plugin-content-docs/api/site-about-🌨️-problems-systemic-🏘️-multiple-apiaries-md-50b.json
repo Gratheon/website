@@ -1,0 +1,26 @@
+{
+  "id": "🌨️ Problems/systemic/🏘️ Multiple apiaries",
+  "title": "🏘️ Multiple apiaries",
+  "description": "Related to 💪🏻 Unscalable work, problem is that with growth of the colony numbers, beekeepers need to place bees closer and more even across the land to avoid 🌻 Precise pollination",
+  "source": "@site/about/🌨️ Problems/systemic/🏘️ Multiple apiaries.md",
+  "sourceDirName": "🌨️ Problems/systemic",
+  "slug": "/🌨️ Problems/systemic/🏘️ Multiple apiaries",
+  "permalink": "/about/🌨️ Problems/systemic/🏘️ Multiple apiaries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "priority": 50,
+    "class": "beekeeping practices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 Monocultural agriculture",
+    "permalink": "/about/🌨️ Problems/systemic/🌻 Monocultural agriculture"
+  },
+  "next": {
+    "title": "💢 Aggressive bee colonies",
+    "permalink": "/about/🌨️ Problems/systemic/💢 Aggressive bee colonies"
+  }
+}

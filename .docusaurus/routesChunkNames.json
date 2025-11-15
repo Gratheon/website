@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-f35": {
+  "/about-d37": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-0ab": {
+  "/about-e4a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-0f8": {
+  "/about-ef3": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -657,18 +657,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-89-f-a06"
   },
-  "/about/🌨️ Problems/❄️ Overwintering collapse-fc6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-❄️-overwintering-collapse-4-aa-799"
-  },
-  "/about/🌨️ Problems/🌲 Distant locations-9f2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🌲-distant-locations-182-c8d"
-  },
-  "/about/🌨️ Problems/🌻 Monocultural agriculture-d80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🌻-monocultural-agriculture-8-b-5-787"
-  },
   "/about/🌨️ Problems/🌻 Precise pollination-985": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🌻-precise-pollinatione-51-ca6"
@@ -676,10 +664,6 @@
   "/about/🌨️ Problems/🍯 Counterfeit honey-aa1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🍯-counterfeit-honey-3-dc-84b"
-  },
-  "/about/🌨️ Problems/🍽️ Bee colony starvation-3c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🍽️-bee-colony-starvation-427-80a"
   },
   "/about/🌨️ Problems/🎒 Challenging to become a new beekeeper-1c6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -689,10 +673,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🏘️-bees-attacking-neighbours-07-a-b5f"
   },
-  "/about/🌨️ Problems/🏘️ Multiple apiaries-1f9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🏘️-multiple-apiaries-272-9da"
-  },
   "/about/🌨️ Problems/🐭 Mice killing a colony-04b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🐭-mice-killing-a-colony-292-c6a"
@@ -700,10 +680,6 @@
   "/about/🌨️ Problems/🐻 Bears destroying hives & colonies-109": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🐻-bears-destroying-hives-colonies-840-50e"
-  },
-  "/about/🌨️ Problems/👁️ Observability of bee colony-397": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-👁️-observability-of-bee-colony-07-c-6f4"
   },
   "/about/🌨️ Problems/👁️ Time-consuming inspections-aba": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -713,10 +689,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-💀-alcohol-washing-killing-beesd-9-f-31f"
   },
-  "/about/🌨️ Problems/💀 Colony with drone-laying queen-724": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💀-colony-with-drone-laying-queen-8-e-2-ffa"
-  },
   "/about/🌨️ Problems/💀 Colony without a queen-5a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-💀-colony-without-a-queen-05-c-b4e"
@@ -724,26 +696,6 @@
   "/about/🌨️ Problems/💀 Intrusive inspections-68b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-💀-intrusive-inspectionscc-3-218"
-  },
-  "/about/🌨️ Problems/💢 Aggressive bee colonies-ecf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💢-aggressive-bee-colonies-321-2a7"
-  },
-  "/about/🌨️ Problems/💢 Hornet attacks-c53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💢-hornet-attacks-0-a-1-3cc"
-  },
-  "/about/🌨️ Problems/💢 Robbing state-684": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💢-robbing-statebb-9-af1"
-  },
-  "/about/🌨️ Problems/💪🏻 Physical labor-caa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💪🏻-physical-labora-08-65c"
-  },
-  "/about/🌨️ Problems/💪🏻 Unscalable work-47d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-💪🏻-unscalable-workf-11-edc"
   },
   "/about/🌨️ Problems/📈 Long-term queen breeding tracking-5e6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -765,25 +717,73 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🗃️-ugly-beehivesa-86-37a"
   },
-  "/about/🌨️ Problems/🤢 Pesticide poisoning-7c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🤢-pesticide-poisoning-5-b-4-80f"
-  },
-  "/about/🌨️ Problems/🦀 Diseases-a93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🦀-diseases-8-fc-3c2"
-  },
-  "/about/🌨️ Problems/🦀 Infestations-be5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🦀-infestationsab-5-26d"
-  },
-  "/about/🌨️ Problems/🧶 Swarming-770": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-🌨️-problems-🧶-swarming-52-d-7f1"
-  },
   "/about/🌨️ Problems/🚛 Transport stress and risk-1a0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-🌨️-problems-🚛-transport-stress-and-riskf-54-11d"
+  },
+  "/about/🌨️ Problems/biological/❄️ Overwintering collapse-501": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-❄️-overwintering-collapsefd-0-6ed"
+  },
+  "/about/🌨️ Problems/biological/🍽️ Bee colony starvation-595": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-🍽️-bee-colony-starvation-8-b-6-373"
+  },
+  "/about/🌨️ Problems/biological/💀 Colony with drone-laying queen-2d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-💀-colony-with-drone-laying-queen-1-c-0-1db"
+  },
+  "/about/🌨️ Problems/biological/💢 Hornet attacks-ed2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-💢-hornet-attacks-03-a-6c5"
+  },
+  "/about/🌨️ Problems/biological/💢 Robbing state-7eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-💢-robbing-state-2-b-6-810"
+  },
+  "/about/🌨️ Problems/biological/🦀 Diseases-173": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-🦀-diseases-674-74c"
+  },
+  "/about/🌨️ Problems/biological/🦀 Infestations-014": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-🦀-infestations-1-a-8-f3e"
+  },
+  "/about/🌨️ Problems/biological/🧶 Swarming-d48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-biological-🧶-swarminge-10-806"
+  },
+  "/about/🌨️ Problems/core/👁️ Observability of bee colony-f1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-core-👁️-observability-of-bee-colony-35-d-c49"
+  },
+  "/about/🌨️ Problems/core/💪🏻 Physical labor-11e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-core-💪🏻-physical-labora-9-a-6f8"
+  },
+  "/about/🌨️ Problems/core/💪🏻 Unscalable work-9c0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-core-💪🏻-unscalable-workab-9-e04"
+  },
+  "/about/🌨️ Problems/systemic/🌲 Distant locations-f98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-systemic-🌲-distant-locationsc-9-c-ade"
+  },
+  "/about/🌨️ Problems/systemic/🌻 Monocultural agriculture-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-systemic-🌻-monocultural-agriculture-678-c73"
+  },
+  "/about/🌨️ Problems/systemic/🏘️ Multiple apiaries-698": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-systemic-🏘️-multiple-apiaries-50-b-ba5"
+  },
+  "/about/🌨️ Problems/systemic/💢 Aggressive bee colonies-815": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-systemic-💢-aggressive-bee-colonies-3-fd-c25"
+  },
+  "/about/🌨️ Problems/systemic/🤢 Pesticide poisoning-c1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-🌨️-problems-systemic-🤢-pesticide-poisoningb-48-5e1"
   },
   "/about/📢 Press kit-bbe": {
     "__comp": "__comp---theme-doc-item-178-a40",

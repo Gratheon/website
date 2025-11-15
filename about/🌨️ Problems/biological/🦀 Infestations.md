@@ -9,8 +9,8 @@ Another common threat to bee colonies comes from the wax moth, ants, and hive be
 [https://fb.watch/n_bxvQeSug/](https://fb.watch/n_bxvQeSug/)
 
 
-![](../img/Screenshot%202024-06-14%20at%2017.08.19.png)
+![](../../img/Screenshot%202024-06-14%20at%2017.08.19.png)
 
-![](../img/Screenshot%202024-06-14%20at%2017.08.44.png)
+![](../../img/Screenshot%202024-06-14%20at%2017.08.44.png)
 
-![](../img/Screenshot%202024-06-14%20at%2017.09.15.png)
+![](../../img/Screenshot%202024-06-14%20at%2017.09.15.png)

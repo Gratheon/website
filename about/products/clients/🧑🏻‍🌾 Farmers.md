@@ -3,4 +3,4 @@
 - gardening, field work
 - animals - chickens, dairy, sheep
 - tractors, construction
-- Lives outside the city so [🌲 Distant locations](../../🌨️%20Problems/🌲%20Distant%20locations.md) is an issue with poor internet coverage
+- Lives outside the city so [🌲 Distant locations](../../🌨️%20Problems/systemic/🌲%20Distant%20locations.md) is an issue with poor internet coverage
