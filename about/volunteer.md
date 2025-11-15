@@ -20,9 +20,9 @@ Volunteering means you work for free, because you’re **motivated** by other th
   (ex. as Robotics engineer streaming lessons on twitch & youtube)
 
 ## How
-Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](company/🫀%20Culture%20and%20values/Adapt%20to%20change%20🏕️.md)
+Before you start, be prepared that in startups like ours, in opposite to large companies, you won't be explicitly told what to do. You pretty much need to find the work yourself of what you feel helps the project (and you) the most. [Adapt to change 🏕️](company/values/Adapt%20to%20change%20🏕️.md)
 
-As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](company/🫀%20Culture%20and%20values/Humbly%20kind%20🧸.md) 
+As we are in volunteer mode, its expected that people are contributing with different levels of their `activity`. So if you collaborate with others, do not expect much. People may suddenly disappear due to personal reasons (family, work, study etc). Lower your expectations as lower entry barrier for volunteers. [Humbly kind 🧸](company/values/Humbly%20kind%20🧸.md) 
 
 ## What to do
 
@@ -38,7 +38,7 @@ You can contribute by following these steps:
 
 ### Contributions
 
-Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](company/🫀%20Culture%20and%20values/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
+Because of this, **short and atomic contributions as artifacts** are important both to the community as to the contributor. Contribution adds value to the product ([Gather value 🍯](company/values/Gather%20value%20🍯.md)). Contribution must have a permissive license for us to reuse the work.
 
 _Asking_ for information is not a contribution
 

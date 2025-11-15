@@ -20,7 +20,7 @@ Many investors and mentors are surprised to see us open source. This page clarif
     1. that **product exists** and is functional
     3. frequency and contribution of the developers & community traction
        
-9. Culture. Our company value is to [Radiate truth 🌞](🫀%20Culture%20and%20values/Radiate%20truth%20🌞.md). Which means that not only code is open source, but also hardware, data and processes.
+9. Culture. Our company value is to [Radiate truth 🌞](values/Radiate%20truth%20🌞.md). Which means that not only code is open source, but also hardware, data and processes.
    
 10. Our [Company mission](../🌻%20Purpose/Company%20mission.md) cannot be reached if we patent-protect our IP and disallow developing worlds from using it. This is good for the 🐝 bees as the code is public, anyone can contribute to improving their life, not only researchers
 

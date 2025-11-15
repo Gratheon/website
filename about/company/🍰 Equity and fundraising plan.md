@@ -3,11 +3,11 @@
 ![](../img/pie.jpg)
 </div></div>
 
-💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [🫀 Culture and values](🫀%20Culture%20and%20values/🫀%20Culture%20and%20values.md) and reasoning
+💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [values](values/values.md) and reasoning
 
 Equity is a mechanism of motivation and compensation at startups with early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. 
 
-Making everyone owning the company is part of our company values - [Team effort 🐝](🫀%20Culture%20and%20values/Team%20effort%20🐝.md) and [Gather value 🍯](🫀%20Culture%20and%20values/Gather%20value%20🍯.md)
+Making everyone owning the company is part of our company values - [Team effort 🐝](values/Team%20effort%20🐝.md) and [Gather value 🍯](values/Gather%20value%20🍯.md)
 
 ## Ownership (CAP table)
 

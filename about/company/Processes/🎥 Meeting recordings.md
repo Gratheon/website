@@ -1,4 +1,4 @@
-Following [Radiate truth 🌞](../🫀%20Culture%20and%20values/Radiate%20truth%20🌞.md)value, we are transparent in internal communications, which is important in modern asynchroneous world. Thats why we record important meetings.
+Following [Radiate truth 🌞](../values/Radiate%20truth%20🌞.md)value, we are transparent in internal communications, which is important in modern asynchroneous world. Thats why we record important meetings.
 
 ## Topics for QA meeting (10 july 2024)
 

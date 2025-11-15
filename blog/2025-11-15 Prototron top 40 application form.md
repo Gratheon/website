@@ -2,7 +2,7 @@
 We have participated in the Prototron funding program for the second time and submitted our application for consideration. 
 Below are the details of our application form for the Prototron Top 40.
 We share this information to provide transparency about our funding journey and to illustrate the kind of projects we are working on as 
-transparency is one of our core values.
+transparency is one of [our core values](https://gratheon.com/about/company/values/)
 
 
 
@@ -129,7 +129,7 @@ Profitability Timeline:
 Gross profit positive: Month 12-15
 Net profit positive: Month 18-24
 Target 20% net profit margin by Year 3
-Key Metrics: €12K ARR target by Month 12, 70% gross margins, <8% monthly churn rate.
+Key Metrics: 12K EUR ARR target by Month 12, 70% gross margins, < 8 % monthly churn rate.
 
 ---
 
@@ -253,50 +253,3 @@ Phase 2 (Months 6-18): Content marketing via educational blogs, YouTube demos, R
 Phase 3 (Months 12-24): Partnerships with equipment suppliers, cooperatives, breeding companies for channel sales. Integration with existing software platforms. Academic collaborations for research validation.
 
 Acquisition Tactics: Direct sales through on-site demos. Referral programs incentivizing recommendations. 30-day free hardware trials. Educational positioning as learning tool vs monitoring system.
-
----
-
-## Supporting Information
-
-### Market Context
-- **Global Market:** 101M bee colonies, 30-40% annual losses
-- **Target Segment:** Commercial beekeepers (5+ colonies) in Baltic states initially
-- **Competition:** BeeHero, Broodminder lack integrated video + IoT + AI approach
-
-### Technical Architecture
-- **Backend:** Node.js microservices, GraphQL federation
-- **Frontend:** React web app, React Native mobile
-- **Hardware:** LoRaWAN/WiFi IoT sensors, edge computing for video analysis
-- **AI/ML:** TensorFlow for computer vision, time-series anomaly detection
-
-### Long-term Vision
-Transform beekeeping from reactive to predictive management, becoming the leading precision apiary platform across Europe with 10,000+ customers by 2028.
-
----
-
-## References
-
-**Market Data Sources:**
-1. FAO. (2024). "Global Bee Colony Statistics and Pollination Services Market." Food and Agriculture Organization of the United Nations.
-2. European Commission. (2024). "EU Beekeeping Sector: Statistics and Trends 2023-2024." Directorate-General for Agriculture and Rural Development.
-3. USDA NASS. (2024). "Honey Bee Colonies Report." United States Department of Agriculture National Agricultural Statistics Service.
-4. Potts, S.G., et al. (2024). "Global pollinator decline and economic impact assessment." Nature Ecology & Evolution, 8(3), 445-458.
-
-**Competitive Intelligence:**
-5. BeeHero Technologies. (2024). "IoT Solutions for Commercial Beekeeping." Company Annual Report.
-6. Beewise Ltd. (2024). "Autonomous Beehive Systems: Market Analysis and Pricing." Crunchbase Company Profile.
-7. Broodminder LLC. (2024). "Beehive Monitoring Solutions Product Portfolio." Official Website Documentation.
-
-**Technical Research:**
-8. Gratheon. (2024). "Computer Vision for Bee Activity Monitoring: Technical Whitepaper." Published Research Documentation.
-9. Chen, L., et al. (2024). "AI-Driven Anomaly Detection in Apiary Management Systems." Journal of Agricultural Technology, 15(2), 123-139.
-10. Schmidt, R., et al. (2024). "IoT Sensor Networks for Precision Beekeeping." IEEE Internet of Things Journal, 11(8), 13245-13258.
-
-**Market Analysis:**
-11. MarketsandMarkets. (2024). "Smart Beekeeping Market - Global Forecast to 2029." Research Report MnM-AGR-7842.
-12. Grand View Research. (2024). "Beekeeping Equipment Market Size, Share & Trends Analysis Report 2024-2030."
-13. Estonian Beekeepers' Association. (2024). "Baltic States Beekeeping Industry Report." Regional Market Analysis.
-
-**Financial Projections:**
-14. SaaS Metrics. (2024). "Customer Acquisition Cost and Lifetime Value in AgTech SaaS." Industry Benchmarking Report.
-15. Venture Scanner. (2024). "AgTech Funding Trends and Valuation Multiples." Q3 2024 Report.

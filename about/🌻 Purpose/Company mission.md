@@ -17,7 +17,7 @@ As humanity expands its technological horizons, building new types of spaceships
 
 Our mission is balancing human progress with the preservation of nature, aiming for sustainable development and the regeneration of Earth's ecosystems. By doing so, we aspire to maximize human happiness, awareness, responsibilities and efficiency. Caring after the bees 🐝 can teach us compassion and love.
 
-[Culture and values](../company/🫀%20Culture%20and%20values/🫀%20Culture%20and%20values.md) and [Symbolism](Symbolism.md) are reflecting this mission
+[Culture and values](../company/values/values.md) and [Symbolism](Symbolism.md) are reflecting this mission
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-YwPPHjm2-g" title="Company mission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

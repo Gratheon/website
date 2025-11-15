@@ -610,51 +610,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🫀 Culture and values/🫀 Culture and values",
-              "path": "/about/company/🫀 Culture and values/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Adapt to change 🏕️",
-              "path": "/about/company/🫀 Culture and values/Adapt to change 🏕️",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Ethical heart 🌳",
-              "path": "/about/company/🫀 Culture and values/Ethical heart 🌳",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Gather value 🍯",
-              "path": "/about/company/🫀 Culture and values/Gather value 🍯",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Humbly kind 🧸",
-              "path": "/about/company/🫀 Culture and values/Humbly kind 🧸",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/New horizons 🏔️",
-              "path": "/about/company/🫀 Culture and values/New horizons 🏔️",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Observable mind 🧿",
-              "path": "/about/company/🫀 Culture and values/Observable mind 🧿",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Radiate truth 🌞",
-              "path": "/about/company/🫀 Culture and values/Radiate truth 🌞",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🫀 Culture and values/Team effort 🐝",
-              "path": "/about/company/🫀 Culture and values/Team effort 🐝",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/index",
               "path": "/about/company/",
               "sidebar": "tutorialSidebar"
@@ -777,6 +732,51 @@
             {
               "id": "company/Team/Roles/UX designer 🔲",
               "path": "/about/company/Team/Roles/UX designer 🔲",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Adapt to change 🏕️",
+              "path": "/about/company/values/Adapt to change 🏕️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Ethical heart 🌳",
+              "path": "/about/company/values/Ethical heart 🌳",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Gather value 🍯",
+              "path": "/about/company/values/Gather value 🍯",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Humbly kind 🧸",
+              "path": "/about/company/values/Humbly kind 🧸",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/New horizons 🏔️",
+              "path": "/about/company/values/New horizons 🏔️",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Observable mind 🧿",
+              "path": "/about/company/values/Observable mind 🧿",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Radiate truth 🌞",
+              "path": "/about/company/values/Radiate truth 🌞",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/Team effort 🐝",
+              "path": "/about/company/values/Team effort 🐝",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/values/values",
+              "path": "/about/company/values/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2286,15 +2286,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }
