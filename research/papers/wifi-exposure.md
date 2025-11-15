@@ -8,5 +8,3 @@ year: "2023"
 - [PDF](pdfs/wifi-exposure.pdf)
 
 <object data={require('./pdfs/wifi-exposure.pdf').default} type="application/pdf" width="100%" height="800"></object>
-
-![](pdfs/wifi-exposure.pdf)
