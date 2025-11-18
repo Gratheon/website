@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31c32977a063b982",
+        "id": "cc5a2b6127dc1c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f5bac2bd1f3508",
+            "id": "b6039d2a286f9816",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,6 +176,7 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "Untitled.md",
     "about/products/_templates/feature-template.md",
     "about/products/_templates",
     "public/blog/atom.xml",
@@ -221,7 +222,6 @@
     "node_modules/fraction.js/CHANGELOG.md",
     "node_modules/tinypool/README.md",
     "node_modules/sax/LICENSE.md",
-    "node_modules/@jridgewell/remapping/README.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

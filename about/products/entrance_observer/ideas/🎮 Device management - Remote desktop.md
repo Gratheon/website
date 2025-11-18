@@ -1,43 +1,62 @@
-To ease management of the device, beekeeper should be able to inspect device remotely over local network. This assumes that beekeeper has set up the device and its operational based on instructions: [How to setup Remote Desktop connection (to Jetson Orin / Nano)](https://www.notion.so/How-to-setup-Remote-Desktop-connection-to-Jetson-Orin-Nano-57a4f235c69e4f06ba2c0c34302261cd?pvs=21)
+# 🎮 Device management - Remote desktop
 
-## User story
+**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `medium`
 
-- After user has setup the device locally via [Device management](https://www.notion.so/Device-management-9d88e70c45954edc9333323003fd9c5c?pvs=21)
+### 🎯 Purpose
+Enables remote desktop access to entrance observer devices for troubleshooting, configuration, and maintenance without physical access.
 
-- This likely needs to establish connection with our servers
-- Device becomes 🟢 Live
-- He opens the web-app, chooses `Settings` → `Devices`
+### 🎭 User Story
+- As a beekeeper with deployed entrance observer devices
+- I want to remotely access and manage my device's operating system
+- So that I can troubleshoot issues, update configurations, and maintain devices without visiting the apiary
 
-- He opens specific device that is live
+### 🚀 Key Benefits
+- **Remote troubleshooting**: Diagnose and fix issues without field visits
+- **Easy maintenance**: Update software, adjust settings, and monitor device health
+- **Cost efficiency**: Reduce travel time and maintenance costs for remote apiaries
+- **Professional support**: Enable technical support team to assist users directly
 
-- He clicks `connect` button
+### 🔧 Technical Overview
+Establishes secure VPN connections between devices and cloud infrastructure using reverse SSH tunnels or VPN solutions. Provides web-based remote desktop access through noVNC client, allowing full operating system control through web browsers.
 
-- In the browser he can see a remote operating system (Ubuntu) that he can manage
+### 📋 Acceptance Criteria
+- Establishes secure connection through NAT/firewall without port forwarding
+- Provides full Ubuntu desktop access through web browser
+- Maintains connection stability for 30+ minute sessions
+- Supports concurrent access for user and support team
+- Integrates with existing device authentication system
+- Shows device online/offline status in web application
 
-- He can see [Client-side app with UI](https://www.notion.so/Client-side-app-with-UI-5d890b685ce745748224e0afac603db6?pvs=21), camera view, control a robot etc.
+### 🚫 Out of Scope
+- File transfer capabilities (basic remote access only)
+- Multi-user simultaneous desktop sessions
+- Mobile app native remote access
+- Permanent VPN client installation requirements
 
-![](../../../img/Screenshot%202024-06-20%20at%2019.13.32.png)
+### 🏗️ Implementation Approach
+- **VPN Solution**: Headscale (open-source Tailscale alternative) or ZeroTier
+- **Remote Access**: noVNC web client for browser-based desktop access
+- **Security**: API token authentication and encrypted tunnel connections
+- **Connection**: Reverse SSH tunnel from device to cloud infrastructure
+- **Interface**: Iframe integration in main web application
 
-## Suggested solution
-- headscale - https://github.com/juanfont/headscale
-- Device should establish a `reverse SSH tunnel` connection (device → [devices.gratheon.com](http://devices.gratheon.com)) so that we can access devices behind NAT without opening ports
-	
-	- Alternatively - VPN, ZeroTier, NgRok,
-		
-		- Paid Services:
-			- Tailscale, [https://headscale.net/](https://headscale.net/)
-			- SecureDM
-	- [serveo.net](http://serveo.net) - like approach
-	
-- Device should use API tokens for accessing our API
-	
-- Once device is connected, update status in DB
-	
-- List devices for web-app
-	
-- On `connect`, open iframe with [novnc](https://github.com/novnc/noVNC) client app that will use the reverse tunnel connection to a target device
-	
+### 📊 Success Metrics
+- Connection success rate >90% for devices with internet connectivity
+- Session startup time <60 seconds from click to desktop
+- Connection stability >95% for standard troubleshooting sessions
+- User satisfaction with remote support experience >4/5
+- Reduction in field service calls by >50%
 
-## Related materials
+### 🔗 Related Features
+- [🎮 Client-side app with UI](../features/🎮%20Client-side%20app%20with%20UI.md)
+- [📈 Telemetry API](../../scales/features/📈%20Telemetry%20API.md)
+- Device management and monitoring systems
 
-- [Open Remote Web Lab for Learning Robotics and ROS With Physical and Simulated Robots in an Authentic Developer Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10480223)
+### 📚 Resources & References
+- [Headscale VPN solution](https://github.com/juanfont/headscale)
+- [noVNC web-based VNC client](https://github.com/novnc/noVNC)
+- [Setup guide for Jetson remote desktop](https://www.notion.so/How-to-setup-Remote-Desktop-connection-to-Jetson-Orin-Nano-57a4f235c69e4f06ba2c0c34302261cd?pvs=21)
+- [Open Remote Web Lab research paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10480223)
+
+### 💬 Notes
+Critical for supporting customers with devices in remote locations. Security and reliability are paramount for user trust and adoption.

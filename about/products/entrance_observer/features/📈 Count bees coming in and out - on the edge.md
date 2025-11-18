@@ -17,15 +17,16 @@ Real-time bee traffic monitoring system that counts individual bees entering and
 - **Edge processing**: Real-time analysis without internet dependency
 
 ### 🔧 Technical Overview
-Uses computer vision models (YOLO v8 or custom CNN) running on edge devices with GPU acceleration to detect and track individual bees crossing entrance boundaries. The system maintains bee trajectories to distinguish incoming vs outgoing movement.
+Uses YOLO v8 object detection model (weights/best.pt) running on edge devices to detect and track individual bees crossing configurable entrance boundaries. Implements DeepSORT tracking with trajectory analysis to distinguish incoming vs outgoing movement across a detection line positioned at configurable height (default 50% of frame).
 
 ### 📋 Acceptance Criteria
-- Device detects and tracks individual bees with >85% accuracy
-- Correctly classifies bee direction (in/out) with >90% accuracy  
-- Processes video in real-time (30 FPS minimum)
-- Sends telemetry data to web-app every 10 seconds
-- Calculates daily bee loss metrics (bees that didn't return)
-- Functions reliably in varying lighting conditions
+- Device detects and tracks individual bees using YOLO v8 model
+- Correctly classifies bee direction (in/out) based on trajectory crossing detection line
+- Processes video in real-time with configurable frame rates
+- Sends telemetry data every 30 seconds (configurable VIDEO_CHUNK_LENGTH_SEC)
+- Calculates derived metrics: average speed, 95th percentile speed, stationary bee count
+- Supports day/night operation with configurable hours (DAY_START_HOUR/DAY_END_HOUR)
+- Functions reliably with USB cameras (V4L2 on Linux, AVFoundation on macOS)
 
 ### 🚫 Out of Scope
 - Robbing behavior detection (separate feature)
@@ -34,17 +35,19 @@ Uses computer vision models (YOLO v8 or custom CNN) running on edge devices with
 - Queen bee identification from entrance video
 
 ### 🏗️ Implementation Approach
-- **Primary**: YOLO v8 object detection and tracking pipeline
-- **Alternative**: Custom CNN model from models-gate-tracker repository
-- **Hardware**: Edge device with GPU (Jetson Orin Nano recommended)
-- **Integration**: Telemetry API for data transmission to web application
+- **AI Model**: YOLO v8 (Ultralytics) with custom bee detection weights
+- **Tracking**: DeepSORT algorithm with trajectory history (defaultdict storage)
+- **Detection Line**: Configurable horizontal line at percentage of frame height
+- **Hardware**: USB camera support via OpenCV (CAP_V4L2/CAP_AVFOUNDATION)
+- **Processing**: Batch processing of frames with threading for async telemetry
+- **Output**: AVC1/MP4V video encoding with overlay visualizations
 
 ### 📊 Success Metrics
-- Accuracy rate >85% for bee detection
-- Direction classification accuracy >90%
-- System uptime >95% in field conditions
-- User adoption rate among alpha testers
-- Reduction in manual monitoring time by beekeepers
+- Real-time processing capability with configurable FPS
+- Trajectory-based direction classification with crossing detection
+- Telemetry transmission every 30 seconds to configured endpoint
+- Local data persistence in daily-rotated JSONL files
+- Camera auto-detection across multiple platforms (Linux/macOS)
 
 ### 🔗 Related Features
 - [📊 Bee movement metric reporting](📊%20Bee%20movement%20metric%20reporting.md)
@@ -52,14 +55,9 @@ Uses computer vision models (YOLO v8 or custom CNN) running on edge devices with
 - [📈 Telemetry API](../../scales/features/📈%20Telemetry%20API.md)
 
 ### 📚 Resources & References
-- [YOLO v8 Object Counting Guide](https://docs.ultralytics.com/guides/object-counting/)
-- [Gratheon Gate Tracker Model](https://github.com/Gratheon/models-gate-tracker)
-- [LabelBee Research Platform](https://www.notion.so/LabelBee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-video-d4e940ed7aee48a6821507ceaa43e603?pvs=21)
-- [Apic.ai Commercial Solution](https://www.notion.so/Apic-ai-7859a940fd644a3fa35008fd3a2f1909?pvs=21)
+- [Entrance Observer Repository](https://github.com/Gratheon/entrance-observer/)
+- [YOLO v8 Ultralytics Implementation](https://github.com/ultralytics/ultralytics)
+- [OpenCV Camera Backends](https://docs.opencv.org/master/d4/d15/group__videoio__flags__base.html)
 
 ### 💬 Notes
-This is one of the core features of the Entrance Observer product. Accuracy requirements may need adjustment based on real-world testing conditions.
-
----
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+Core feature using actual YOLO v8 implementation with DeepSORT tracking. Configurable detection line, day/night modes, and comprehensive metrics calculation including speed analysis and stationary bee detection.

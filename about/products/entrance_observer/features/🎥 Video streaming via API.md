@@ -17,35 +17,37 @@ Enables hardware devices to capture and stream video from beehive entrances to t
 - **Easy integration**: Simple API token authentication and setup
 
 ### 🔧 Technical Overview
-Captures video from USB cameras connected to edge devices and streams to cloud infrastructure via secure API endpoints. Supports both live streaming and batch video uploads with automatic retry mechanisms.
+Video upload system (src/uploader.py) captures processed video chunks with detection overlays and uploads them to video.gratheon.com via GraphQL mutations. Uses multipart/form-data encoding with both video files and detection metadata, supporting batch uploads with bearer token authentication.
 
 ### 📋 Acceptance Criteria
-- Supports standard USB cameras (UVC compatible)
-- Streams video with configurable quality settings (480p to 1080p)
-- Handles network interruptions with automatic reconnection
-- Provides secure authentication via API tokens
-- Integrates with existing beehive and device management system
-- Maintains video history for playback
+- Supports USB camera video capture with OpenCV (CAP_V4L2/CAP_AVFOUNDATION)
+- Encodes video with AVC1/MP4V codecs for compatibility
+- Uploads video chunks with detection overlays via GraphQL API
+- Includes detection metadata file alongside video upload
+- Uses bearer token authentication (API_TOKEN environment variable)
+- Supports configurable video chunk length (VIDEO_CHUNK_LENGTH_SEC)
+- Handles network interruptions with threaded async uploads
 
 ### 🚫 Out of Scope
-- On-device AI processing (handled by separate edge computing features)
+- Real-time live streaming (batch upload of processed chunks)
 - Audio streaming (video only)
 - Real-time two-way communication
 - Storage management beyond standard retention policies
 
 ### 🏗️ Implementation Approach
-- **Client**: Python script using OpenCV for video capture
-- **Authentication**: API token-based security system
-- **Protocol**: HTTPS streaming with chunked transfer encoding
-- **Integration**: Links to existing hive ID and box ID system
-- **Storage**: Cloud video storage with configurable retention
+- **Video Encoding**: OpenCV VideoWriter with AVC1/MP4V codecs
+- **Upload Protocol**: GraphQL mutation via HTTPS POST with multipart/form-data
+- **Authentication**: Bearer token in Authorization header
+- **Threading**: Async upload processing to prevent blocking video capture
+- **Integration**: Links to SECTION_ID (box ID) and timestamp metadata
+- **Error Handling**: Graceful fallback when API credentials not configured
 
 ### 📊 Success Metrics
-- Stream uptime >95% under normal network conditions
-- Video quality maintained at target resolution and framerate
-- Successful deployment on 3+ different hardware platforms
-- User setup completion rate >80%
-- Average setup time <30 minutes
+- Video encoding with proper codec compatibility (AVC1 primary, MP4V fallback)
+- Successful GraphQL mutation uploads to video.gratheon.com endpoint
+- Threaded async processing without blocking main video pipeline
+- Proper multipart encoding with detection metadata files
+- Bearer token authentication and box ID association
 
 ### 🔗 Related Features
 - [🎮 Client-side app with UI](🎮%20Client-side%20app%20with%20UI.md)
@@ -53,12 +55,9 @@ Captures video from USB cameras connected to edge devices and streams to cloud i
 - [📈 Telemetry API](../../scales/features/📈%20Telemetry%20API.md)
 
 ### 📚 Resources & References
-- [USB Video Camera Server Script](https://github.com/Gratheon/beehive-entrance-video-processor/blob/main/python-client/usb_video_camera_server.py)
-- [Video streaming playback documentation](https://www.notion.so/Video-streaming-playback-7214e1994f564d4b8888a5acae7318f0?pvs=21)
+- [Video upload implementation](https://github.com/Gratheon/entrance-observer/blob/main/src/uploader.py)
+- [GraphQL mutation endpoint](https://video.gratheon.com/graphql)
+- [OpenCV VideoWriter documentation](https://docs.opencv.org/master/dd/d9e/classcv_1_1VideoWriter.html)
 
 ### 💬 Notes
-This feature enables broader hardware compatibility for users who don't have high-end edge computing devices but still want to participate in the monitoring ecosystem.
-
----
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+Actual implementation using GraphQL mutations for video upload with detection metadata. Enables cloud-based processing for devices without sufficient local compute resources.
