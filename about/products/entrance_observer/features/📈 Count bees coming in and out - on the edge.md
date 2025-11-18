@@ -1,32 +1,65 @@
-This task is one of the main features of the [Entrance Observer](https://www.notion.so/Entrance-Observer-b0319799ab7744dc928c08119de4fc43?pvs=21) product
+# 📈 Count bees coming in and out - on the edge
 
-## Goal
+**Status**: `feature` | **Development Stage**: `alpha` | **Priority**: `high`
 
-We want to efficiently do inferencing on the device
+### 🎯 Purpose
+Real-time bee traffic monitoring system that counts individual bees entering and exiting the hive using computer vision on edge devices.
 
-- **track bees**
-- **count how many have gone in and out**
-    - calculate how many bees did not return per day (bee loss)
+### 🎭 User Story
+- As a beekeeper
+- I want to automatically track bee activity at my hive entrance 
+- So that I can monitor colony health, detect issues early, and understand foraging patterns without manual observation
 
-## Out of scope
+### 🚀 Key Benefits
+- **Automated monitoring**: No manual counting required, 24/7 tracking
+- **Early problem detection**: Unusual traffic patterns can indicate swarming, robbing, or health issues
+- **Data-driven insights**: Track bee loss rates, foraging efficiency, and seasonal patterns
+- **Edge processing**: Real-time analysis without internet dependency
 
-- detect [Robbing behaviour alert based on bee counter](https://www.notion.so/Robbing-behaviour-alert-based-on-bee-counter-78b978ebf0e246ef83244d02ed7c0c1c?pvs=21) based on amount of incoming bees > outgoing
-- detect bees with pollen
-- detect wasps
-- detect hornets - [Hornet attack detection](https://www.notion.so/Hornet-attack-detection-8dde7e03f80547fa9156ac1c16cf52af?pvs=21)
+### 🔧 Technical Overview
+Uses computer vision models (YOLO v8 or custom CNN) running on edge devices with GPU acceleration to detect and track individual bees crossing entrance boundaries. The system maintains bee trajectories to distinguish incoming vs outgoing movement.
 
-## AC
+### 📋 Acceptance Criteria
+- Device detects and tracks individual bees with >85% accuracy
+- Correctly classifies bee direction (in/out) with >90% accuracy  
+- Processes video in real-time (30 FPS minimum)
+- Sends telemetry data to web-app every 10 seconds
+- Calculates daily bee loss metrics (bees that didn't return)
+- Functions reliably in varying lighting conditions
 
-- Own edge device with GPU
-- Device should be able to detect bees coming in/out of hive
-- Device should send results to web-app [Telemetry API](https://www.notion.so/Telemetry-API-5d60632841534620ba56d1bb296af98b?pvs=21)
+### 🚫 Out of Scope
+- Robbing behavior detection (separate feature)
+- Bee species classification (wasps, hornets handled separately)
+- Pollen detection on individual bees
+- Queen bee identification from entrance video
 
-## Suggested solutions
+### 🏗️ Implementation Approach
+- **Primary**: YOLO v8 object detection and tracking pipeline
+- **Alternative**: Custom CNN model from models-gate-tracker repository
+- **Hardware**: Edge device with GPU (Jetson Orin Nano recommended)
+- **Integration**: Telemetry API for data transmission to web application
 
-- Yolo v8 [https://docs.ultralytics.com/guides/object-counting/](https://docs.ultralytics.com/guides/object-counting/)
-- Use existing [https://github.com/Gratheon/models-gate-tracker](https://github.com/Gratheon/models-gate-tracker) CNN based model
+### 📊 Success Metrics
+- Accuracy rate >85% for bee detection
+- Direction classification accuracy >90%
+- System uptime >95% in field conditions
+- User adoption rate among alpha testers
+- Reduction in manual monitoring time by beekeepers
 
-## Related inspiration topics
+### 🔗 Related Features
+- [📊 Bee movement metric reporting](📊%20Bee%20movement%20metric%20reporting.md)
+- [🛣️ Landing board heatmap generation](🛣️%20Landing%20board%20heatmap%20generation.md)
+- [📈 Telemetry API](../../scales/features/📈%20Telemetry%20API.md)
 
-- [**LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video**](https://www.notion.so/LabelBee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-video-d4e940ed7aee48a6821507ceaa43e603?pvs=21)
-- [Apic.ai](https://www.notion.so/Apic-ai-7859a940fd644a3fa35008fd3a2f1909?pvs=21)
+### 📚 Resources & References
+- [YOLO v8 Object Counting Guide](https://docs.ultralytics.com/guides/object-counting/)
+- [Gratheon Gate Tracker Model](https://github.com/Gratheon/models-gate-tracker)
+- [LabelBee Research Platform](https://www.notion.so/LabelBee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-video-d4e940ed7aee48a6821507ceaa43e603?pvs=21)
+- [Apic.ai Commercial Solution](https://www.notion.so/Apic-ai-7859a940fd644a3fa35008fd3a2f1909?pvs=21)
+
+### 💬 Notes
+This is one of the core features of the Entrance Observer product. Accuracy requirements may need adjustment based on real-world testing conditions.
+
+---
+**Last Updated**: November 18, 2025
+**Next Review**: December 2025
