@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/basic-functionality/🌍 Localization",
   "title": "🌍 Localization",
-  "description": "User story",
+  "description": "Status stable | Priority: medium",
   "source": "@site/about/products/web_app/basic-functionality/🌍 Localization.md",
   "sourceDirName": "products/web_app/basic-functionality",
   "slug": "/products/web_app/basic-functionality/🌍 Localization",
@@ -10,9 +10,7 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "status": "complete"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Product and Usage Metrics",

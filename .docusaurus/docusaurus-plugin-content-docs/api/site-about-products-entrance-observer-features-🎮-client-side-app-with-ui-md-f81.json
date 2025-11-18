@@ -1,7 +1,7 @@
 {
   "id": "products/entrance_observer/features/🎮 Client-side app with UI",
   "title": "🎮 Client-side app with UI",
-  "description": "In case internet is not available, we should still be able to display some statistics on the display (if its available) to the beekeeper. So we need some hive-app interface for this.",
+  "description": "Status beta | Priority: medium",
   "source": "@site/about/products/entrance_observer/features/🎮 Client-side app with UI.md",
   "sourceDirName": "products/entrance_observer/features",
   "slug": "/products/entrance_observer/features/🎮 Client-side app with UI",

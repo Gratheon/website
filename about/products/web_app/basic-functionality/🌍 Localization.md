@@ -41,9 +41,9 @@ Implements internationalization (i18n) system with automatic browser language de
 - **UI Updates**: Page refresh or component re-render after language change
 
 ### 📊 Success Metrics
-- Automatic language detection accuracy >90% for supported languages
-- Language change response time <2 seconds
-- Translation coverage >95% for core UI elements
+- Automatic language detection accuracy &gt;90% for supported languages
+- Language change response time &lt;2 seconds
+- Translation coverage &gt;95% for core UI elements
 - User retention rate for non-English speaking users
 - Zero broken UI layouts due to text length variations
 

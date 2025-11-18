@@ -47,10 +47,10 @@ Account settings interface accessible at app.gratheon.com/account allowing users
 - **Feedback**: Success/error messaging for all update operations
 
 ### 📊 Success Metrics
-- Settings save success rate >98%
-- Language change response time <2 seconds
-- Form validation error rate <5%
-- User engagement with account settings >60% of active users
+- Settings save success rate &gt;98%
+- Language change response time &lt;2 seconds
+- Form validation error rate &lt;5%
+- User engagement with account settings &gt;60% of active users
 - Password change completion rate without errors
 
 ### 🔗 Related Features

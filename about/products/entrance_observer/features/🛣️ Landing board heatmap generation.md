@@ -46,7 +46,7 @@ Processes track history data from daily-rotated JSONL files (track_history_YYYY-
 - **Batch Processing**: Command-line script for processing historical data
 
 ### 📊 Success Metrics
-- Accurate coordinate processing within frame boundaries (0 <= x < width, 0 <= y < height)
+- Accurate coordinate processing within frame boundaries (0 &lt;= x &lt; width, 0 &lt;= y &lt; height)
 - Heatmap generation from multiple JSONL track files
 - Proper normalization and color mapping for visual interpretation
 - Batch processing capability for historical data analysis

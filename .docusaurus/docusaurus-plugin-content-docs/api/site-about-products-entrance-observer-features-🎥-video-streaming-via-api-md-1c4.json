@@ -1,7 +1,7 @@
 {
   "id": "products/entrance_observer/features/🎥 Video streaming via API",
   "title": "🎥 Video streaming via API",
-  "description": "We want to integrate hardware that cannot run GPU inferencing efficiently, but has sufficient network bandwidth to capture and upload/stream video to the cloud",
+  "description": "Status beta | Priority: high",
   "source": "@site/about/products/entrance_observer/features/🎥 Video streaming via API.md",
   "sourceDirName": "products/entrance_observer/features",
   "slug": "/products/entrance_observer/features/🎥 Video streaming via API",

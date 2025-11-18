@@ -41,11 +41,11 @@ Analyzes bee counting data and traffic patterns to identify anomalies indicating
 - **Alert filtering**: Prevent alert fatigue through intelligent grouping
 
 ### 📊 Success Metrics
-- Alert accuracy >75% (confirmed issues vs false alarms)
-- Response time <15 minutes from detection to notification
-- User engagement rate >80% (alerts acted upon)
-- False positive rate <25% to maintain user trust
-- Critical issue detection rate >90%
+- Alert accuracy &gt;75% (confirmed issues vs false alarms)
+- Response time &lt;15 minutes from detection to notification
+- User engagement rate &gt;80% (alerts acted upon)
+- False positive rate &lt;25% to maintain user trust
+- Critical issue detection rate &gt;90%
 
 ### 🔗 Related Features
 - [📈 Count bees coming in and out - on the edge](../features/📈%20Count%20bees%20coming%20in%20and%20out%20-%20on%20the%20edge.md)

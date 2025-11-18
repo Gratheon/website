@@ -41,10 +41,10 @@ Analyzes unusual activity patterns, increased traffic volumes, and behavioral ch
 - **Validation**: Historical data analysis and field testing during swarm season
 
 ### 📊 Success Metrics
-- Early warning accuracy >80% for pre-swarm detection
-- Swarm event detection accuracy >85%
-- False positive rate <20% to maintain user trust
-- Alert delivery time <5 minutes from detection
+- Early warning accuracy &gt;80% for pre-swarm detection
+- Swarm event detection accuracy &gt;85%
+- False positive rate &lt;20% to maintain user trust
+- Alert delivery time &lt;5 minutes from detection
 - Seasonal pattern recognition across multiple apiaries
 
 ### 🔗 Related Features

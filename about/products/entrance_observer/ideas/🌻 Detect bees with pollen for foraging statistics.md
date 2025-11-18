@@ -41,9 +41,9 @@ Uses computer vision to identify distinctive pollen loads (corbiculae) on bee le
 - **Training data**: Leverage LabelBee platform examples and custom dataset creation
 
 ### 📊 Success Metrics
-- Pollen detection accuracy >80% compared to manual annotation
+- Pollen detection accuracy &gt;80% compared to manual annotation
 - Processing speed maintains real-time performance (30+ FPS)
-- False positive rate <15%
+- False positive rate &lt;15%
 - Seasonal pattern recognition capability
 - User adoption rate among beekeepers interested in foraging data
 

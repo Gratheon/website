@@ -41,9 +41,9 @@ Identifies relatively stationary bees positioned at strategic entrance locations
 - **Integration**: Send metrics via existing telemetry API infrastructure
 
 ### 📊 Success Metrics
-- Guard detection accuracy >70% compared to manual observation
-- Position stability classification accuracy >80%
-- Real-time processing with <5 second update intervals
+- Guard detection accuracy &gt;70% compared to manual observation
+- Position stability classification accuracy &gt;80%
+- Real-time processing with &lt;5 second update intervals
 - Integration success with telemetry API and dashboard
 - Seasonal pattern recognition capability
 

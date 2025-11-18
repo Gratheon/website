@@ -47,11 +47,11 @@ Registration system with email-based account creation, automatic browser languag
 - **Security**: Password hashing and secure token generation for email verification
 
 ### 📊 Success Metrics
-- Registration completion rate >80% (from form start to email verification)
-- Email delivery success rate >95%
-- Account activation rate >70% within 24 hours
-- Language detection accuracy >90% for supported languages
-- Form validation error rate <5%
+- Registration form completion rate &gt;85% for users who start the process
+- Email delivery success rate &gt;95%
+- Account activation rate &gt;70% within 24 hours
+- Language detection accuracy &gt;90% for supported languages
+- Form validation error rate &lt;5%
 
 ### 🔗 Related Features
 - [🌍 Localization](🌍%20Localization.md)

@@ -20,8 +20,8 @@ Detects and analyzes social behaviors between bees at the hive entrance, includi
 Uses computer vision to detect when multiple bees are in close proximity and exhibit specific behavioral patterns such as antenna contact, feeding positions, or grooming behaviors. Analyzes bee pose and proximity relationships over time.
 
 ### 📋 Acceptance Criteria
-- Detects bees within interaction distance (<2 bee body lengths)
-- Identifies feeding/trophallaxis behaviors with >70% accuracy
+- Detects bees within interaction distance (&lt;2 bee body lengths)
+- Identifies feeding/trophallaxis behaviors with &gt;70% accuracy
 - Tracks interaction duration and frequency
 - Distinguishes between different interaction types (feeding, grooming, fighting)
 - Records interaction data with timestamps and bee IDs
@@ -39,8 +39,8 @@ Uses computer vision to detect when multiple bees are in close proximity and exh
 - **Data output**: Structured interaction events sent via telemetry API
 
 ### 📊 Success Metrics
-- Interaction detection accuracy >70% compared to manual annotation
-- False positive rate <20%
+- Interaction detection accuracy &gt;70% compared to manual annotation
+- False positive rate &lt;20%
 - Processing capability for 5+ simultaneous bee interactions
 - Real-time analysis at 15+ FPS
 - Behavioral pattern recognition for 3+ interaction types

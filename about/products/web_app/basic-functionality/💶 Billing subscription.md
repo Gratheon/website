@@ -58,11 +58,12 @@ Subscription management system with tier-based feature access control. Integrate
 - Community, Essential, and Pro tier features
 
 ### 📚 Resources & References
-- [Pricing tiers documentation](../community-tier/)
 - [Subscription management interface](https://app.gratheon.com/account)
 
 ### 💬 Notes
 Essential monetization feature enabling sustainable platform development. Critical for revenue generation and premium feature access control.
+
+Community, Essential, and Pro tier features are documented separately in their respective directories.
 
 ---
 **Last Updated**: November 18, 2025

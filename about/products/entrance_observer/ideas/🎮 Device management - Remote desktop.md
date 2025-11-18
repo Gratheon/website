@@ -41,11 +41,11 @@ Establishes secure VPN connections between devices and cloud infrastructure usin
 - **Interface**: Iframe integration in main web application
 
 ### 📊 Success Metrics
-- Connection success rate >90% for devices with internet connectivity
-- Session startup time <60 seconds from click to desktop
-- Connection stability >95% for standard troubleshooting sessions
-- User satisfaction with remote support experience >4/5
-- Reduction in field service calls by >50%
+- Connection success rate &gt;90% for devices with internet connectivity
+- Session startup time &lt;60 seconds from click to desktop
+- Connection stability &gt;95% for standard troubleshooting sessions
+- User satisfaction with remote support experience &gt;4/5
+- Reduction in field service calls by &gt;50%
 
 ### 🔗 Related Features
 - [🎮 Client-side app with UI](../features/🎮%20Client-side%20app%20with%20UI.md)

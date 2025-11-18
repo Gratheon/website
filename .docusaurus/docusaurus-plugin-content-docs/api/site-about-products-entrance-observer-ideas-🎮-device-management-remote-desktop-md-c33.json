@@ -1,7 +1,7 @@
 {
   "id": "products/entrance_observer/ideas/🎮 Device management - Remote desktop",
   "title": "🎮 Device management - Remote desktop",
-  "description": "To ease management of the device, beekeeper should be able to inspect device remotely over local network. This assumes that beekeeper has set up the device and its operational based on instructions: How to setup Remote Desktop connection (to Jetson Orin / Nano)",
+  "description": "Status concept | Priority: medium",
   "source": "@site/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop.md",
   "sourceDirName": "products/entrance_observer/ideas",
   "slug": "/products/entrance_observer/ideas/🎮 Device management - Remote desktop",

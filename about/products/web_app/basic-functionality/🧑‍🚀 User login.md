@@ -46,9 +46,9 @@ Authentication system with email/password validation, session management, and au
 - **Security**: Rate limiting, password hashing verification, and secure session tokens
 
 ### 📊 Success Metrics
-- Login success rate >95% for valid credentials
-- Auto-login functionality success rate >98%
-- Login form completion time <30 seconds average
+- Login success rate &gt;95% for valid credentials
+- Auto-login functionality success rate &gt;98%
+- Login form completion time &lt;30 seconds average
 - Session persistence accuracy for remember me option
 - Password reset utilization rate and success metrics
 
