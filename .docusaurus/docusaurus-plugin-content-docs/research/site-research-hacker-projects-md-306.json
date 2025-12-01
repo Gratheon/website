@@ -1,7 +1,7 @@
 {
   "id": "Hacker projects",
   "title": "Hacker projects",
-  "description": "| Area              | URL                                                                                                                                                                                                                       |",
+  "description": "Here we list interesting external projects that are dealing with digital beekeeping, IoT, cameras etc.",
   "source": "@site/research/Hacker projects.md",
   "sourceDirName": ".",
   "slug": "/Hacker projects",

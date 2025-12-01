@@ -5,17 +5,17 @@ Beekeeping is not _only_ about watching the bees. Beekeeping in practice is a re
 
 ## Beekeeping 101
 What does beekeeper usually do? Sorted by priority:
-- inspecting a colony in a beehive with a smoker, dressed in suit with specialized tools - [🔎 Inspection management](web_app/essential-tier/🔎%20Inspection%20management.md)
-- expanding or down-sizing the hive with a new section full of either empty foundation frames or comb frames - see [📦 Hive section management](web_app/community-tier/📦%20Hive%20section%20management.md)
+- inspecting a colony in a beehive with a smoker, dressed in suit with specialized tools - [🔎 Inspection management](web_app/starter-tier/🔎%20Inspection%20management.md)
+- expanding or down-sizing the hive with a new section full of either empty foundation frames or comb frames - see [📦 Hive section management](web_app/hobbyist-tier/📦%20Hive%20section%20management.md)
 - treating against varroa mites with strips or acid fumes - see [📅 Varroa Treatment diary](web_app/pro%20tier/📅%20Varroa%20Treatment%20diary.md)
-- feeding the colony with sugar syrup or candy if its lacking resources - see [🍭 Feeding history](web_app/essential-tier/🍭%20Feeding%20history.md)
+- feeding the colony with sugar syrup or candy if its lacking resources - see [🍭 Feeding history](web_app/starter-tier/🍭%20Feeding%20history.md)
 - balancing resources (frames) between colonies to prevent [🍽️ Bee colony starvation](../problems/biological/🍽️%20Bee%20colony%20starvation.md)
 - splitting the colony if it is too big - see [↔️ Create colony split](web_app/pro%20tier/ideas%20💡/↔️%20Create%20colony%20split.md)
 - catching swarms
 - merging weak colonies before autumn - see [🫶🏻 Join multiple colonies](web_app/pro%20tier/ideas%20💡/🫶🏻%20Join%20multiple%20colonies.md)
 - adding or swapping a queen - see [💀 Colony without a queen](../problems/💀%20Colony%20without%20a%20queen.md)
 - extracting honey or pollen
-- adding or removing frames - see [📦 Hive section management](web_app/community-tier/📦%20Hive%20section%20management.md)
+- adding or removing frames - see [📦 Hive section management](web_app/hobbyist-tier/📦%20Hive%20section%20management.md)
 - moving a hive or killing colony if its [💢 Aggressive bee colonies](../problems/systemic/💢%20Aggressive%20bee%20colonies.md)
 - cleaning frames with old beecomb
 - cleaning hives and sections

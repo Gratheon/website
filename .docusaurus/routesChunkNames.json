@@ -593,17 +593,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-7f2": {
+  "/about-1d0": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-c4d": {
+  "/about-298": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-4d9": {
+  "/about-36b": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -1234,165 +1234,89 @@
     "__comp": "17896441",
     "content": "491a1864"
   },
-  "/about/products/web_app/community-tier/♻️ Public beehive view-375": {
+  "/about/products/web_app/hobbyist-tier/♻️ Public beehive view-fc8": {
     "__comp": "17896441",
-    "content": "c7db64e9"
+    "content": "ba9c0d94"
   },
-  "/about/products/web_app/community-tier/♻️ QR-code generation-d73": {
+  "/about/products/web_app/hobbyist-tier/♻️ QR-code generation-7c7": {
     "__comp": "17896441",
-    "content": "079d451b"
+    "content": "cc0c7d9a"
   },
-  "/about/products/web_app/community-tier/🌻 list of local plants-71b": {
+  "/about/products/web_app/hobbyist-tier/🌻 list of local plants-9c0": {
     "__comp": "17896441",
-    "content": "6366dc59"
+    "content": "2bd316fc"
   },
-  "/about/products/web_app/community-tier/🐝 Frame analysis - bee counter-695": {
+  "/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter-2d6": {
     "__comp": "17896441",
-    "content": "a50fdc30"
+    "content": "f0ff5438"
   },
-  "/about/products/web_app/community-tier/🐝 Frame side queen cup detection-d45": {
+  "/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection-623": {
     "__comp": "17896441",
-    "content": "9c539651"
+    "content": "4368c20d"
   },
-  "/about/products/web_app/community-tier/🐝 Honeycomb cell detection & management-c2e": {
+  "/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management-fc0": {
     "__comp": "17896441",
-    "content": "714db95c"
+    "content": "daced868"
   },
-  "/about/products/web_app/community-tier/🐝 Worker bee detection-73c": {
+  "/about/products/web_app/hobbyist-tier/🐝 Worker bee detection-d01": {
     "__comp": "17896441",
-    "content": "ae135663"
+    "content": "346642a3"
   },
-  "/about/products/web_app/community-tier/👑 Queen detection-70d": {
+  "/about/products/web_app/hobbyist-tier/👑 Queen detection-2fd": {
     "__comp": "17896441",
-    "content": "b3394476"
+    "content": "f1b5cb19"
   },
-  "/about/products/web_app/community-tier/👑 Queen management-039": {
+  "/about/products/web_app/hobbyist-tier/👑 Queen management-152": {
     "__comp": "17896441",
-    "content": "d715acfe"
+    "content": "023adfa3"
   },
-  "/about/products/web_app/community-tier/📦 Apiary management-bc8": {
+  "/about/products/web_app/hobbyist-tier/📦 Apiary management-bef": {
     "__comp": "17896441",
-    "content": "31be380f"
+    "content": "d1e44338"
   },
-  "/about/products/web_app/community-tier/📦 Hive management-60c": {
+  "/about/products/web_app/hobbyist-tier/📦 Hive management-9cc": {
     "__comp": "17896441",
-    "content": "d6271316"
+    "content": "b396b95c"
   },
-  "/about/products/web_app/community-tier/📦 Hive section management-3bf": {
+  "/about/products/web_app/hobbyist-tier/📦 Hive section management-ee2": {
     "__comp": "17896441",
-    "content": "8a7db4fc"
+    "content": "f0b0337c"
   },
-  "/about/products/web_app/community-tier/📸 Frame side photo upload-7d2": {
+  "/about/products/web_app/hobbyist-tier/📸 Frame side photo upload-634": {
     "__comp": "17896441",
-    "content": "2cc5ae52"
+    "content": "615869bb"
   },
-  "/about/products/web_app/community-tier/🖼️ Frame side management-da4": {
+  "/about/products/web_app/hobbyist-tier/🖼️ Frame side management-bc2": {
     "__comp": "17896441",
-    "content": "87314889"
+    "content": "578c9e74"
   },
-  "/about/products/web_app/community-tier/ideas 💡/♻️ Apiary position sharing-bc3": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing-923": {
     "__comp": "17896441",
-    "content": "eb49c48c"
+    "content": "4fd4a63b"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🌪️ Weather alerts-a93": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/🌪️ Weather alerts-d50": {
     "__comp": "17896441",
-    "content": "90f0672c"
+    "content": "40ef2fb0"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🎒 Product onboarding videos & UI-d2b": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/🎒 Product onboarding videos & UI-4f2": {
     "__comp": "17896441",
-    "content": "14b02206"
+    "content": "ace02c4f"
   },
-  "/about/products/web_app/community-tier/ideas 💡/📍 Show close-by beekeepers from government registry-ebe": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/📍 Show close-by beekeepers from government registry-6d6": {
     "__comp": "17896441",
-    "content": "5d5f3d5e"
+    "content": "eb45be81"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🖮 keyboard shortcuts support-614": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/🖮 keyboard shortcuts support-55e": {
     "__comp": "17896441",
-    "content": "af304b7b"
+    "content": "5dcbb9a2"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User email verification and change-834": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User email verification and change-063": {
     "__comp": "17896441",
-    "content": "3b0c994d"
+    "content": "e03ebca1"
   },
-  "/about/products/web_app/community-tier/ideas 💡/🧑‍🚀 User password change-5f7": {
+  "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change-e32": {
     "__comp": "17896441",
-    "content": "7ca60612"
-  },
-  "/about/products/web_app/essential-tier/✏️ Drawing on canvas-bf1": {
-    "__comp": "17896441",
-    "content": "7eed0eda"
-  },
-  "/about/products/web_app/essential-tier/🍭 Feeding history-b5f": {
-    "__comp": "17896441",
-    "content": "b588d283"
-  },
-  "/about/products/web_app/essential-tier/📺 Video streaming playback-b35": {
-    "__comp": "17896441",
-    "content": "2f4b394a"
-  },
-  "/about/products/web_app/essential-tier/🔎 Inspection management-7fa": {
-    "__comp": "17896441",
-    "content": "527a2b82"
-  },
-  "/about/products/web_app/essential-tier/🤖 Beekeeping advice with LLM-c2f": {
-    "__comp": "17896441",
-    "content": "1adb2187"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/☀️ Solar radiance as weather datasource-2fc": {
-    "__comp": "17896441",
-    "content": "569769f8"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🌻 Flower blooming map-501": {
-    "__comp": "17896441",
-    "content": "271dd3b7"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🐝 Drone brood detection-5d2": {
-    "__comp": "17896441",
-    "content": "48c4bb51"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🐝 Frame analysis - chilled brood-8fd": {
-    "__comp": "17896441",
-    "content": "b6f8f7f1"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🐝 Laying workers cell detection-bd0": {
-    "__comp": "17896441",
-    "content": "8bd60073"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/📦 Manual inspections - Bulk file upload-377": {
-    "__comp": "17896441",
-    "content": "c15e6800"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🔔  Alerts-066": {
-    "__comp": "17896441",
-    "content": "b0370087"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🔔 Drone detection-15f": {
-    "__comp": "17896441",
-    "content": "b8b66c71"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-5dd": {
-    "__comp": "17896441",
-    "content": "87c2f5ae"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-e5e": {
-    "__comp": "17896441",
-    "content": "507cbe49"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🔔 Timeseries Anomaly detection-d40": {
-    "__comp": "17896441",
-    "content": "6283f452"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa infestation management-4b7": {
-    "__comp": "17896441",
-    "content": "b5c4f829"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🦀 Varroa mite detection-e1e": {
-    "__comp": "17896441",
-    "content": "4c25b1b3"
-  },
-  "/about/products/web_app/essential-tier/ideas 💡/🛰️ Apiary satellite view-612": {
-    "__comp": "17896441",
-    "content": "fc59f480"
+    "content": "fde8da77"
   },
   "/about/products/web_app/pro tier/🎥 Video streaming from phone-80e": {
     "__comp": "17896441",
@@ -1502,21 +1426,101 @@
     "__comp": "17896441",
     "content": "c171177d"
   },
+  "/about/products/web_app/starter-tier/✏️ Drawing on canvas-ad9": {
+    "__comp": "17896441",
+    "content": "739fc099"
+  },
+  "/about/products/web_app/starter-tier/🍭 Feeding history-581": {
+    "__comp": "17896441",
+    "content": "75965b32"
+  },
+  "/about/products/web_app/starter-tier/📺 Video streaming playback-536": {
+    "__comp": "17896441",
+    "content": "33e33180"
+  },
+  "/about/products/web_app/starter-tier/🔎 Inspection management-d1e": {
+    "__comp": "17896441",
+    "content": "d0d4a1f7"
+  },
+  "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM-a20": {
+    "__comp": "17896441",
+    "content": "d69038c6"
+  },
+  "/about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring-cb8": {
+    "__comp": "17896441",
+    "content": "dbeb91db"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/☀️ Solar radiance as weather datasource-579": {
+    "__comp": "17896441",
+    "content": "c5ac815a"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map-a19": {
+    "__comp": "17896441",
+    "content": "185038c4"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🐝 Drone brood detection-49b": {
+    "__comp": "17896441",
+    "content": "7e3bc5ac"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🐝 Frame analysis - chilled brood-aec": {
+    "__comp": "17896441",
+    "content": "048428c4"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🐝 Laying workers cell detection-bff": {
+    "__comp": "17896441",
+    "content": "e778dffd"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/📦 Manual inspections - Bulk file upload-0b9": {
+    "__comp": "17896441",
+    "content": "e0494330"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🔔  Alerts-55e": {
+    "__comp": "17896441",
+    "content": "05efa3d9"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🔔 Drone detection-074": {
+    "__comp": "17896441",
+    "content": "c2867c52"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-117": {
+    "__comp": "17896441",
+    "content": "3e744c3e"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-9d8": {
+    "__comp": "17896441",
+    "content": "bbaf0856"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🔔 Timeseries Anomaly detection-dad": {
+    "__comp": "17896441",
+    "content": "e965bfe4"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa infestation management-7cb": {
+    "__comp": "17896441",
+    "content": "d69ea990"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa mite detection-01b": {
+    "__comp": "17896441",
+    "content": "4c1a4b4e"
+  },
+  "/about/products/web_app/starter-tier/ideas 💡/🛰️ Apiary satellite view-797": {
+    "__comp": "17896441",
+    "content": "55cffaeb"
+  },
   "/about/volunteer-9cc": {
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-958": {
+  "/docs-9af": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-048": {
+  "/docs-2fc": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-cd6": {
+  "/docs-95a": {
     "__comp": "a94703ab"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1538,6 +1542,10 @@
   "/docs/📱 Web-app/🥞 DB schemas/user-cycle-afc": {
     "__comp": "17896441",
     "content": "355a9104"
+  },
+  "/docs/📱 Web-app/Bottom Board Implementation-bcb": {
+    "__comp": "17896441",
+    "content": "adb7d6c6"
   },
   "/docs/📱 Web-app/Tech stack, conventions, environments-cbc": {
     "__comp": "17896441",

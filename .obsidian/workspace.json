@@ -11,10 +11,13 @@
             "id": "b6039d2a286f9816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "research/ResearchDB.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "ResearchDB"
             }
           }
         ]
@@ -170,11 +173,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "b6039d2a286f9816",
   "lastOpenFiles": [
+    "research/Models.md",
+    "research/index.md",
+    "research/Hacker projects.md",
+    "about/products/web_app/Product and Usage Metrics.md",
+    "about/products/web_app/web_app.md",
     "Untitled.md",
     "about/products/_templates/feature-template.md",
     "about/products/_templates",
@@ -216,11 +225,6 @@
     "node_modules/elkjs/README.md",
     "node_modules/elkjs/LICENSE.md",
     "node_modules/zod/README.md",
-    "node_modules/ai/README.md",
-    "node_modules/ai/CHANGELOG.md",
-    "node_modules/fraction.js/CHANGELOG.md",
-    "node_modules/tinypool/README.md",
-    "node_modules/sax/LICENSE.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

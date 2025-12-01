@@ -2,6 +2,7 @@
 title: Hacker projects
 sidebar_position: 3
 ---
+Here we list interesting external projects that are dealing with digital beekeeping, IoT, cameras etc.
 
 | Area              | URL                                                                                                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

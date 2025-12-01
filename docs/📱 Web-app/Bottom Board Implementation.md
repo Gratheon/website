@@ -458,10 +458,8 @@ ORDER BY added_time DESC LIMIT 1;
 
 ## Related Documentation
 
-- [Bottom Board User Guide](../../about/products/web_app/essential-tier/🧮%20Hive%20bottom%20board%20&%20varroa%20monitoring.md)
-- [GraphQL API](../API/GraphQL.md)
-- [DB Schemas](./🥞%20DB%20schemas/)
-- [Image Splitter Architecture](../image-splitter/Tech%20stack,%20conventions,%20environments.md)
+- [Bottom Board User Guide](../../about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring.md)
+- [DB Schemas](./🥞 DB schemas/)
 
 ## Change Log
 
