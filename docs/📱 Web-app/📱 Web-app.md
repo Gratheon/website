@@ -96,6 +96,23 @@ Some services are not blocking the UI or backend in general, but are required fo
 
 ## Features
 
+### Bottom Board & Varroa Monitoring
+
+Beekeepers can track varroa mite infestation by uploading images of the hive bottom board.
+
+-   **Box Type:** BOTTOM is a new box type added to the hive structure, alongside DEEP, SUPER, GATE, etc.
+-   **Image Upload:** Two-step process:
+    1. Upload image to S3 via `uploadFrameSide` mutation
+    2. Link image to box via `addFileToBox` mutation in image-splitter
+-   **Database:** Images stored in `files_box_rel` table with references to `box_id`, `file_id`, and `inspection_id` for versioning
+-   **Processing:** Images automatically queued for varroa detection (TYPE_VARROA job)
+-   **Services Involved:**
+    - **swarm-api**: Box management and BOTTOM type
+    - **image-splitter**: File upload, storage, and linking
+    - **web-app**: BottomBox component for UI
+
+See [Bottom Board Documentation](../../about/products/web_app/essential-tier/🧮%20Hive%20bottom%20board%20&%20varroa%20monitoring.md) for user guide and [DB Schema](./🥞%20DB%20schemas/) for table structures.
+
 ### Inspection Sharing
 
 Users can share individual hive inspections with others via a unique public URL.

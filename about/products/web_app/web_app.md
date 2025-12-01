@@ -15,7 +15,8 @@ Such domain entities include:
 	- Race - western honey bees (apis mellifera) have local variations that result in their appearance and behaviour that beekeepers value and want to know about.
 	- Year - queen age tells beekeepers how efficient the colony can be. Max age is 5 years, but as queen gets older, colony strength typically reduces
 - Hive - A beehive as a constructive element, composing of sections and modules.
-	- Hive sections and entrances - a vertical beehive consists of hollow wooden sections that can be of different size and can house beeframes.
+	- Hive sections and entrances - a vertical beehive consists of hollow wooden sections that can be of different size and can house beeframes. Section types include: Deep (brood), Super (honey), Entrance (gate), Inner Lid (ventilation), Queen Excluder, Feeder, and Bottom Board.
+	- Bottom Board - The bottom of the hive with a slideable white panel used for varroa mite monitoring
 	- Frames - a wooden frame with wax foundation inside of it that bees live on
 - Inspections - These are (regular) interventions of the beekeeper to understand what is the state of the beehive. We think if it as a snapshot of the entire beehive in time.
 - Treatments - Beekeepers add chemicals to the beehive to combat varroa mites. Keeping a diary-like track of these inspections helps to be consistent.
@@ -48,6 +49,12 @@ Use-cases is a group of features that when combined serve a great value for the 
 ### Streaming entrance video
 - Setup entrance video camera to stream video
 - Check that video stream is visible
+
+### Monitor varroa mites via bottom board
+- Add a bottom board section to your hive
+- Upload a photo of the white slideable panel showing varroa mites
+- Images are versioned with inspections for historical tracking
+- AI-powered varroa counting (coming soon) will provide mite counts and treatment recommendations
 
 
 
