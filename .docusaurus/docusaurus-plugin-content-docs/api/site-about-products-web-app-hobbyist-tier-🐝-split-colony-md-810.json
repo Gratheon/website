@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/hobbyist-tier/🐝 Split Colony",
+  "title": "🐝 Split a bee colony",
+  "description": "Status stable | Priority: medium",
+  "source": "@site/about/products/web_app/hobbyist-tier/🐝 Split Colony.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/🐝 Split Colony",
+  "permalink": "/about/products/web_app/hobbyist-tier/🐝 Split Colony",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🐝 Honeycomb cell detection & management",
+    "permalink": "/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management"
+  },
+  "next": {
+    "title": "🐝 Worker bee detection",
+    "permalink": "/about/products/web_app/hobbyist-tier/🐝 Worker bee detection"
+  }
+}
