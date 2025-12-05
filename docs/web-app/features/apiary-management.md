@@ -3,9 +3,6 @@ sidebar_position: 5
 ---
 
 # Apiary Management - Technical Documentation
-
-**Status**: `complete` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Overview
 Hierarchical apiary management system enabling users to organize hives into location-based or operational groups. Provides CRUD operations for apiaries with GPS coordinate tracking, hive associations, and multi-site support for beekeepers managing colonies across multiple locations.
 
@@ -304,5 +301,4 @@ Manual test scenarios:
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: swarm-api team
 

@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/queen-management",
   "title": "Queen Management - Technical Documentation",
-  "description": "Status beta | Priority: high",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/queen-management.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/queen-management",
@@ -21,7 +21,7 @@
     "permalink": "/docs/web-app/features/queen-detection"
   },
   "next": {
-    "title": "Bottom Board Implementation Guide",
-    "permalink": "/docs/web-app/features/Bottom Board Implementation"
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
   }
 }

@@ -1,10 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
 # Join Colonies - Technical Documentation
-
-**Status**: `complete` | **Development Stage**: `stable` | **Priority**: `high`
 
 ### 🎯 Overview
 Join Colonies feature enables merging two bee colonies by moving boxes from source hive to target hive, with queen management options, automatic box type filtering, and complete historical tracking. Real-time event broadcasting ensures UI consistency across sessions.
@@ -249,5 +246,4 @@ Location: `swarm-api/src/hives/hives_test.go`
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: Gratheon Core Team
 

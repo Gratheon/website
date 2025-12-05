@@ -1,10 +1,7 @@
 ---
 sidebar_position: 6
 ---
-
 # Queen Detection - Technical Documentation
-
-**Status**: `in-progress` | **Development Stage**: `beta` | **Priority**: `high`
 
 ### 🎯 Overview
 AI-powered queen bee detection system using machine learning models to identify queen bees in uploaded frame photos. Currently uses Clarifai API for detection with plans to develop internal model for improved accuracy. Part of automated frame analysis pipeline triggered on photo upload.
@@ -289,5 +286,4 @@ Test images available in:
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: image-splitter team
 

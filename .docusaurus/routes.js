@@ -1656,15 +1656,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '53f'),
+    component: ComponentCreator('/docs', '6d3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '366'),
+        component: ComponentCreator('/docs', 'be8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '80e'),
+            component: ComponentCreator('/docs', '4f2'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2093,8 +2093,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-app/features/Bottom Board Implementation',
-                component: ComponentCreator('/docs/web-app/features/Bottom Board Implementation', '3fb'),
+                path: '/docs/web-app/features/bottom-board-management',
+                component: ComponentCreator('/docs/web-app/features/bottom-board-management', '6e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

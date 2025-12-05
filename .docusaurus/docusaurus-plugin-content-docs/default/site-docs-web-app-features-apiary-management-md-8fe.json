@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/apiary-management",
   "title": "Apiary Management - Technical Documentation",
-  "description": "Status stable | Priority: high",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/apiary-management.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/apiary-management",

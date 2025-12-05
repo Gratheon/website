@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/split-colony",
   "title": "Split Colony - Technical Documentation",
-  "description": "Status stable | Priority: high",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/split-colony.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/split-colony",

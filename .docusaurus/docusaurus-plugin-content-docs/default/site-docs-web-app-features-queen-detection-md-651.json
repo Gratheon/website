@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/queen-detection",
   "title": "Queen Detection - Technical Documentation",
-  "description": "Status beta | Priority: high",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/queen-detection.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/queen-detection",

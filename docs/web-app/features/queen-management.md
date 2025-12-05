@@ -4,8 +4,6 @@ sidebar_position: 7
 
 # Queen Management - Technical Documentation
 
-**Status**: `complete` | **Development Stage**: `beta` | **Priority**: `high`
-
 ### 🎯 Overview
 Queen bee lifecycle and breeding information management system tracking presence, race, age, and status changes. Integrates with AI detection for automated queen spotting and provides timeline visualization for beekeepers to monitor colony reproductive health and plan queen replacement.
 
@@ -242,5 +240,4 @@ Manual test scenarios:
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: swarm-api team
 

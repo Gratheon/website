@@ -102,6 +102,6 @@ User flow testing details
 Implementation notes, gotchas, or important context for developers.
 
 ---
-**Last Updated**: [Date]
-**Maintained By**: [Team/Developer]
+## Change Log
 
+**Last Updated**: [Date]

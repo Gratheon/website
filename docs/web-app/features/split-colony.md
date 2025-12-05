@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Split Colony - Technical Documentation
 
-**Status**: `complete` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Overview
 Split Colony feature enables atomic migration of frames between hives with complete data preservation, lineage tracking, and optimized UI performance. Supports 1-10 frame selection with visual previews and automatic hive creation.
 
@@ -172,5 +170,4 @@ No special configuration required. Uses existing swarm-api database connection a
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: Gratheon Core Team
 

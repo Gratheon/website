@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bottom Board Implementation Guide",
-    "permalink": "/docs/web-app/features/Bottom Board Implementation"
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
   },
   "next": {
     "title": "image-splitter",

@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/frame-photo-upload",
   "title": "Frame Photo Upload - Technical Documentation",
-  "description": "Status stable | Priority: high",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/frame-photo-upload.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/frame-photo-upload",

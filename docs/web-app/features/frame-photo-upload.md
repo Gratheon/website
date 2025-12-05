@@ -4,8 +4,6 @@ sidebar_position: 4
 
 # Frame Photo Upload - Technical Documentation
 
-**Status**: `complete` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Overview
 Frame photo upload system enabling users to upload images of beehive frames with automatic processing pipeline that triggers AI detection models, generates thumbnails, stores images in object storage, and provides real-time analysis feedback. Core workflow feature for all frame-based AI analysis.
 
@@ -282,5 +280,4 @@ graph TB
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: image-splitter team
 
