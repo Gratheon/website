@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/split-colony",
+  "title": "Split Colony - Technical Documentation",
+  "description": "Status stable | Priority: high",
+  "source": "@site/docs/web-app/features/split-colony.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/split-colony",
+  "permalink": "/docs/web-app/features/split-colony",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/split-colony.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UX - UI wireframes",
+    "permalink": "/docs/web-app/UX - UI wireframes"
+  },
+  "next": {
+    "title": "Join Colonies - Technical Documentation",
+    "permalink": "/docs/web-app/features/join-colonies"
+  }
+}

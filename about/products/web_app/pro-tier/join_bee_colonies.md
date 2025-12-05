@@ -2,303 +2,88 @@
 status: complete
 title: 🫶🏻 Join colonies
 ---
+
 ### 🎯 Purpose
-Merge two bee colonies together by combining their boxes into a single hive. This helps strengthen weak colonies, consolidate resources before winter, or manage queen genetics.
+Merge two colonies into one stronger hive while keeping complete digital records. Perfect for strengthening weak colonies before winter, managing queen genetics, or consolidating your apiary.
 
 ### 🎭 User Story
-- As a beekeeper
-- I want to merge two colonies together
-- So that I can strengthen a weak colony, consolidate hives, or manage queen genetics without losing historical data
+- As a beekeeper managing multiple colonies
+- I want to merge two hives together with full control over queen management
+- So that I can strengthen weak colonies, prepare for winter, or manage genetics while preserving all historical data
 
 ### 🚀 Key Benefits
-- **Strengthen Weak Colonies**: Combine weak hive with stronger one before winter
-- **Queen Management**: Choose which queen survives (or let them fight naturally)
-- **Historical Preservation**: Complete merge history tracked with dates and references
-- **Smart Box Movement**: Automatically handles BOTTOM and GATE boxes (they stay in source)
-- **Easy Navigation**: Clickable links between merged hives
-- **Visual Feedback**: Merged hives clearly marked and grayed out in apiary list
+- **Visual Comparison**: See both hives side-by-side with bee counts and queen details before merging
+- **Queen Control**: Choose which queen survives - both queens, target queen, or source queen
+- **Smart Automation**: System automatically handles box movement and structural elements
+- **Complete History**: Track all merges with dates, types, and clickable links between hives
+- **Easy Navigation**: Merged hives stay visible with clear status indicators
+- **Data Preservation**: All box data, frames, and inspection history maintained
 
-### 🐝 Beekeeping Context
+### 💡 Common Scenarios
 
-Colony merging is a common practice in beekeeping, especially:
-- **Before Winter**: Strengthening weak colonies improves survival rates
-- **After Queen Loss**: Combining queenless colony with queenright one
-- **Resource Consolidation**: Reducing colony count while preserving bees
-- **Genetics Management**: Allowing preferred queen to lead combined colony
+**Strengthen Before Winter**
+You have a weak colony that won't survive winter alone. Merge it with a stronger hive to boost bee population and food stores, giving both colonies a better survival chance.
 
-The classic method uses newspaper between boxes to slowly merge colonies, letting bees gradually accept each other's scent. Our digital tool manages the logistics while the beekeeper handles the physical merge.
+**Manage Queen Loss**
+A colony lost its queen and can't raise a new one. Merge it with a queen-right colony to save the bees and their resources rather than letting them dwindle.
 
-### 🔧 Technical Overview
+**Consolidate Your Apiary**
+Reduce hive count before moving to a new location or scaling down operations. Combine colonies strategically while keeping all historical data for future reference.
 
-**Architecture:**
+### 🎓 How to Use
 
-```mermaid
-graph LR
-    A[User] --> B[web-app: JoinColonyModal]
-    B --> C[graphql-router]
-    C --> D[swarm-api]
-    D --> E[(MySQL - hives)]
-    D --> F[(MySQL - boxes)]
-    D --> G[Redis pub/sub]
-    G --> H[event-stream-filter]
-    H --> I[Real-time UI updates]
-```
-
-**Components:**
-- **swarm-api**: Core merge logic and database operations
-  - `joinHives` mutation with validation
-  - Box movement and position recalculation
-  - Hive status updates (`merged` status)
-  - Historical relationship tracking
-- **web-app**: User interface for colony joining
-  - JoinColonyModal component (260 lines)
-  - Two-panel hive comparison layout
-  - Interactive merge type toggle
-  - Real-time validation and error handling
-- **Redis**: Real-time event broadcasting
-  - `hive:join` event for target hive
-  - `hive:merged` event for source hive
-
-**Database Schema:**
-
-```sql
--- Migration: 20251205130000_add_hive_merge_tracking.sql
-ALTER TABLE hives
-  ADD COLUMN merged_into_hive_id INT UNSIGNED NULL,
-  ADD COLUMN merge_date DATETIME NULL,
-  ADD COLUMN merge_type ENUM('both_queens', 'source_queen_kept', 'target_queen_kept') NULL,
-  ADD INDEX idx_merged_into_hive_id (merged_into_hive_id);
-```
-
-**Merge Process:**
-
-1. **User selects target hive** from same apiary
-2. **Choose merge type**: Both queens, target queen, or source queen
-3. **Box filtering**: System identifies BOTTOM and GATE boxes to keep in source
-4. **Position calculation**: Gets max position in target hive
-5. **Box movement**: Moves non-BOTTOM/GATE boxes to top of target
-6. **Status update**: Marks source hive with `status='merged'`
-7. **History recording**: Saves `merged_into_hive_id`, `merge_date`, `merge_type`
-8. **Real-time events**: Broadcasts updates to connected clients
-
-### 📋 How to Use
-
-#### 1. Access Join Colony Feature
-
+#### 1. Open the Merge Dialog
 1. Navigate to the hive you want to merge (source hive)
-2. Ensure hive is active (not collapsed or already merged)
-3. Click **"Join Colony"** button at top of hive view (after "Create Inspection" and "Split Hive")
-4. Join Colony modal opens
+2. Click **"Join Colony"** button
+3. Modal opens showing your current hive on the left
 
 #### 2. Select Target Hive
+- View list of available hives in your apiary
+- See bee counts and queen details for each option
+- Click your desired target hive
+- Compare both hives side-by-side
 
-**Modal displays:**
-- **Left Panel**: Your current hive (source)
-  - Hive name
-  - Bee count estimate
-  - Queen race
-  - Queen year
-- **Right Panel**: Target hive selector
-  - List of available hives in same apiary
-  - Bee count for each option
-  - Queen details for each option
+#### 3. Choose Queen Management Strategy
 
-**Select target:**
-1. Click on desired target hive from list
-2. Target hive information appears in right panel
-3. Compare both hives before proceeding
+Click the toggle button between hive panels to select:
 
-#### 3. Choose Merge Type
+**🎲 Both Queens (+)** - Let them fight naturally, strongest survives
+- Best when you're unsure which queen is better
+- Natural selection determines the winner
 
-Click the toggle button between the two hive panels to cycle through options:
+**➡️ Target Queen** - Keep target queen, remove source queen before merge
+- Best when target has younger or better genetics
+- Predictable outcome, controlled genetics
 
-**Option 1: Both Queens (+)**
-- Symbol: `+`
-- Behavior: Keep both queens alive
-- Outcome: Queens fight, strongest survives
-- When to use: Uncertain which queen is better, let natural selection decide
+**⬅️ Source Queen** - Keep source queen, remove target queen before merge  
+- Best when source has younger or better genetics
+- Predictable outcome, controlled genetics
 
-**Option 2: Target Queen (→)**
-- Symbol: `→`
-- Behavior: Keep target queen, remove source queen
-- Outcome: Target hive queen leads colony
-- When to use: Target queen is younger, better producer, or preferred genetics
+#### 4. Complete the Merge
+1. Review both hive details one last time
+2. Click **"Join Colonies"** button
+3. System automatically moves boxes and updates records
+4. You're redirected to the merged target hive
 
-**Option 3: Source Queen (←)**
-- Symbol: `←`
-- Behavior: Keep source queen, remove target queen
-- Outcome: Source hive queen leads colony
-- When to use: Source queen is younger, better producer, or preferred genetics
+#### 5. View Results
+- **Source hive**: Marked as "merged", grayed out in apiary list, shows link to target
+- **Target hive**: Active with all boxes combined, shows merge history with dates
+- All inspection and frame data preserved in both hives
 
-**Description updates** as you toggle, explaining each option.
+### ⚙️ What Happens Behind the Scenes
 
-#### 4. Confirm Merge
+The system intelligently handles the merge:
+- **Box Movement**: Brood boxes and supers move to target hive, placed on top
+- **Structural Elements**: Bottom boards and entrance gates stay with source hive
+- **Data Preservation**: All frames, photos, and inspection history maintained
+- **Status Updates**: Source hive marked as "merged", target stays active
+- **History Tracking**: Complete merge timeline with dates and queen decisions
 
-1. Review both hive details
-2. Confirm merge type selection
-3. Click **"Join Colonies"** button
-4. System processes merge automatically
-5. Redirect to target hive view
+### 📖 Learn More
+For technical implementation details, API specifications, and developer documentation, see [Join Colonies Technical Documentation](../../../../docs/web-app/features/join-colonies.md)
 
-#### 5. View Merge Results
-
-**Source Hive (Merged):**
-- Status: `merged` (non-editable)
-- Display: "Merged into [Target Hive Name]" with clickable link
-- Remaining boxes: BOTTOM and GATE only
-- Appearance: Grayed out in apiary list
-- Actions: Can only be deleted via "Remove hive" button
-
-**Target Hive:**
-- Status: Active (fully editable)
-- Display: "Merged from [Source Hive Names]" with dates
-- Boxes: Original boxes + moved boxes on top
-- Actions: All normal operations available (Edit, Split, Join, Inspect)
-
-### 🎨 Merge Types Explained
-
-#### Both Queens Strategy (+)
-**Natural Selection Approach**
-
-When both queens are kept:
-- Bees from both colonies gradually mix
-- Queens eventually encounter each other
-- Natural fight determines survivor
-- Usually the stronger, younger queen wins
-
-**Advantages:**
-- No beekeeper intervention needed
-- Natural selection favors better queen
-- Less stress on colony
-
-**Disadvantages:**
-- Unpredictable outcome
-- Risk of losing preferred queen
-- May take longer to stabilize
-
-#### Target Queen Strategy (→)
-**Keep Target, Remove Source**
-
-Before merge, beekeeper finds and removes source queen:
-- Ensures target queen remains
-- Source colony becomes queenless
-- Queenless bees readily accept queenright colony
-- Immediate unification
-
-**Advantages:**
-- Predictable outcome
-- Control over genetics
-- Quick acceptance
-- Keep preferred queen line
-
-**Disadvantages:**
-- Requires finding and removing queen
-- Manual intervention needed
-- Source queen lost
-
-#### Source Queen Strategy (←)
-**Keep Source, Remove Target**
-
-Before merge, beekeeper finds and removes target queen:
-- Ensures source queen remains
-- Target colony becomes queenless
-- Combined colony under source queen
-- Immediate unification
-
-**Advantages:**
-- Predictable outcome
-- Control over genetics
-- Keep newer or better queen
-- Quick acceptance
-
-**Disadvantages:**
-- Requires finding and removing queen
-- Manual intervention needed
-- Target queen lost
-
-### 🔄 Box Movement Logic
-
-**Boxes That Stay in Source Hive:**
-- ✋ **BOTTOM boxes**: Structural foundation, cannot move
-- ✋ **GATE boxes**: Entrance hardware, stays with structure
-
-**Boxes That Move to Target Hive:**
-- ✅ **DEEP boxes**: Brood boxes move to target
-- ✅ **SUPER boxes**: Honey supers move to target
-- ✅ **QUEEN_EXCLUDER boxes**: Move to target
-- ✅ **VENTILATION boxes**: Move to target
-- ✅ **All other box types**: Move to target
-
-**Position Management:**
-- Moved boxes placed **on top** of target hive (highest positions)
-- Positions automatically recalculated
-- Relative order of moved boxes preserved
-- Target hive box count increases
-
-### 🔍 Post-Merge Navigation
-
-Both hives remain viewable with complete historical data:
-
-**Source Hive View:**
-```
-┌─────────────────────────────────────┐
-│ Merged Hive Name                    │
-│ Status: Merged                      │
-│                                     │
-│ ⚠️ Merged into: Target Hive ↗️      │
-│ Date: December 5, 2025              │
-│                                     │
-│ Remaining Boxes:                    │
-│ • Bottom Board                      │
-│ • Entrance Gate                     │
-│                                     │
-│ [Remove Hive]                       │
-└─────────────────────────────────────┘
-```
-
-**Target Hive View:**
-```
-┌─────────────────────────────────────┐
-│ Target Hive Name                    │
-│ Status: Active                      │
-│                                     │
-│ ℹ️ Merged from:                     │
-│ • Source Hive A (Dec 5, 2025) ↗️    │
-│ • Source Hive B (Dec 1, 2025) ↗️    │
-│                                     │
-│ [Create Inspection] [Split Hive]    │
-│ [Join Colony] [Edit]                │
-└─────────────────────────────────────┘
-```
-
-### 📊 GraphQL API
-
-**Mutation:**
-```graphql
-mutation JoinHives {
-  joinHives(
-    sourceHiveId: "123"
-    targetHiveId: "456"
-    mergeType: "both_queens"
-  ) {
-    id
-    name
-    mergedFromHives {
-      id
-      name
-      mergeDate
-      mergeType
-    }
-  }
-}
-```
-
-**Query Fields:**
-```graphql
-query GetHive {
-  hive(id: "123") {
-    id
-    name
+---
+**Last Updated**: December 5, 2025
     status
     
     # If this hive was merged into another

@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', '3e7'),
     exact: true
@@ -1597,64 +1632,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9af'),
+    component: ComponentCreator('/docs', '16a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2fc'),
+        component: ComponentCreator('/docs', '893'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '95a'),
+            component: ComponentCreator('/docs', 'f02'),
             routes: [
-              {
-                path: '/docs/📱 Web-app/',
-                component: ComponentCreator('/docs/📱 Web-app/', '4b8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/🥞 DB schemas/gate-video-stream',
-                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/gate-video-stream', '2ec'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/🥞 DB schemas/image-splitter',
-                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/image-splitter', '2c0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/🥞 DB schemas/swarm-api',
-                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/swarm-api', '663'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/🥞 DB schemas/user-cycle',
-                component: ComponentCreator('/docs/📱 Web-app/🥞 DB schemas/user-cycle', 'afc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/Bottom Board Implementation',
-                component: ComponentCreator('/docs/📱 Web-app/Bottom Board Implementation', 'bcb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/Tech stack, conventions, environments',
-                component: ComponentCreator('/docs/📱 Web-app/Tech stack, conventions, environments', 'cbc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/UX - UI wireframes',
-                component: ComponentCreator('/docs/📱 Web-app/UX - UI wireframes', '7cb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/API/',
                 component: ComponentCreator('/docs/API/', 'a9c'),
@@ -2042,6 +2029,66 @@ export default [
               {
                 path: '/docs/robotic-beehive/Robot Vendors',
                 component: ComponentCreator('/docs/robotic-beehive/Robot Vendors', '8d6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/',
+                component: ComponentCreator('/docs/web-app/', '824'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/gate-video-stream',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/gate-video-stream', '049'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/image-splitter',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/image-splitter', '584'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/swarm-api',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/swarm-api', 'c03'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/🥞 DB schemas/user-cycle',
+                component: ComponentCreator('/docs/web-app/🥞 DB schemas/user-cycle', '9e7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/Bottom Board Implementation',
+                component: ComponentCreator('/docs/web-app/Bottom Board Implementation', '8de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/join-colonies',
+                component: ComponentCreator('/docs/web-app/features/join-colonies', '46b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/split-colony',
+                component: ComponentCreator('/docs/web-app/features/split-colony', '5d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/Tech stack, conventions, environments',
+                component: ComponentCreator('/docs/web-app/Tech stack, conventions, environments', '670'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/UX - UI wireframes',
+                component: ComponentCreator('/docs/web-app/UX - UI wireframes', '772'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

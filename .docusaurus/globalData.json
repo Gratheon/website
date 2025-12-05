@@ -11,46 +11,6 @@
           "mainDocId": "API/API",
           "docs": [
             {
-              "id": "📱 Web-app/📱 Web-app",
-              "path": "/docs/📱 Web-app/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/🥞 DB schemas/gate-video-stream",
-              "path": "/docs/📱 Web-app/🥞 DB schemas/gate-video-stream",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/🥞 DB schemas/image-splitter",
-              "path": "/docs/📱 Web-app/🥞 DB schemas/image-splitter",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/🥞 DB schemas/swarm-api",
-              "path": "/docs/📱 Web-app/🥞 DB schemas/swarm-api",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/🥞 DB schemas/user-cycle",
-              "path": "/docs/📱 Web-app/🥞 DB schemas/user-cycle",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/Bottom Board Implementation",
-              "path": "/docs/📱 Web-app/Bottom Board Implementation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/Tech stack, conventions, environments",
-              "path": "/docs/📱 Web-app/Tech stack, conventions, environments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/UX - UI wireframes",
-              "path": "/docs/📱 Web-app/UX - UI wireframes",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "API/API",
               "path": "/docs/API/",
               "sidebar": "tutorialSidebar"
@@ -373,6 +333,56 @@
             {
               "id": "robotic-beehive/robotic-beehive",
               "path": "/docs/robotic-beehive/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/gate-video-stream",
+              "path": "/docs/web-app/🥞 DB schemas/gate-video-stream",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/image-splitter",
+              "path": "/docs/web-app/🥞 DB schemas/image-splitter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/swarm-api",
+              "path": "/docs/web-app/🥞 DB schemas/swarm-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/🥞 DB schemas/user-cycle",
+              "path": "/docs/web-app/🥞 DB schemas/user-cycle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/Bottom Board Implementation",
+              "path": "/docs/web-app/Bottom Board Implementation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/join-colonies",
+              "path": "/docs/web-app/features/join-colonies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/split-colony",
+              "path": "/docs/web-app/features/split-colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/Tech stack, conventions, environments",
+              "path": "/docs/web-app/Tech stack, conventions, environments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/UX - UI wireframes",
+              "path": "/docs/web-app/UX - UI wireframes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/web-app",
+              "path": "/docs/web-app/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -2281,15 +2291,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

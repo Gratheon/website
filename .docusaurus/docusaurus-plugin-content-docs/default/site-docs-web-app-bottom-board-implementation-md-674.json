@@ -1,0 +1,24 @@
+{
+  "id": "web-app/Bottom Board Implementation",
+  "title": "Bottom Board Implementation Guide",
+  "description": "Overview",
+  "source": "@site/docs/web-app/Bottom Board Implementation.md",
+  "sourceDirName": "web-app",
+  "slug": "/web-app/Bottom Board Implementation",
+  "permalink": "/docs/web-app/Bottom Board Implementation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/Bottom Board Implementation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱 Web-app",
+    "permalink": "/docs/web-app/"
+  },
+  "next": {
+    "title": "Tech stack, conventions, environments",
+    "permalink": "/docs/web-app/Tech stack, conventions, environments"
+  }
+}

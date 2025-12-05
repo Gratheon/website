@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/join-colonies",
+  "title": "Join Colonies - Technical Documentation",
+  "description": "Status stable | Priority: high",
+  "source": "@site/docs/web-app/features/join-colonies.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/join-colonies",
+  "permalink": "/docs/web-app/features/join-colonies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/join-colonies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Split Colony - Technical Documentation",
+    "permalink": "/docs/web-app/features/split-colony"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+  }
+}
