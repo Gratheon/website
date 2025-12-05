@@ -51,6 +51,7 @@ export default function CustomPricingPage() {
       </div>
 
       <div className="pricing-container">
+        {/* Hobbyist Plan */}
         <div className="pricing-card">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Hobbyist</div>
@@ -62,9 +63,9 @@ export default function CustomPricingPage() {
               <h4>Features</h4>
               <ul className="pricing-card-features">
                 <li>📦 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/apiary-management">Apiary & Hive Management</Link></li>
-                <li>🖼️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📸 Frame side photo upload">Frame Photo Upload</Link></li>
+                <li>🖼️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/frame-photo-upload">Frame Photo Upload</Link></li>
                 <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Worker bee detection">Worker Bee Detection</Link></li>
-                <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/👑 Queen detection">Queen Detection</Link></li>
+                <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/queen-detection">Queen Detection</Link></li>
                 <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
@@ -81,11 +82,12 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="pricing-card-footer">
-            <Link to="https://app.gratheon.com/account/register" className="pricing-button">Get Started</Link>
+            <Link to="/register" className="pricing-button">Get Started</Link>
           </div>
         </div>
 
-        <div className="pricing-card featured simple">
+        {/* Starter Plan */}
+        <div className="pricing-card">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Starter</div>
             <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}> / month</span></div>
@@ -99,12 +101,12 @@ export default function CustomPricingPage() {
               <ul className="pricing-card-features">
                 <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
                 <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
-                <li>🧮 &nbsp;<Link to="/about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring">Varroa Monitoring</Link></li>
-                <li>📺 &nbsp;<Link to="/about/products/web_app/starter-tier/📺 Video streaming playback">Video Stream Playback</Link></li>
+                <li>🧮 &nbsp;<Link to="/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring">Varroa Monitoring</Link></li>
+                <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video Stream Playback</Link></li>
                 <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
                 <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                 <li>📈 Hive telemetry storage (1 hour resolution)</li>
-                <li>🔔 Alert management</li>
+                <li>🔔 &nbsp;<Link to="/about/products/web_app/flexible-tier/alerts">Alert management</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -512,7 +514,7 @@ export default function CustomPricingPage() {
           <p><strong>Note:</strong> Each hardware device operates off-grid. For integration with web-app, a subscription fee must be used that covers data management services specific to that device</p>
           <p>* Tokens are valid for 1 year. Unused tokens do not roll over.</p>
         </div>
-      </div>
-    </div>
+          </div>
+        </div>
   );
 }

@@ -1,3 +1,8 @@
+---
+title: 📺 Video streaming playback
+---
+
+
 ## Goal
 
 Beekeeper should be able to playback the video recording of the specific beehive entrance recorder by by [Video streaming via API](https://www.notion.so/Video-streaming-via-API-2d7a22aaf3a74b8e831f2a409c243e69?pvs=21), [Video streaming from phone](https://www.notion.so/Video-streaming-from-phone-32eea4f462684f9a9ceef51a11b62930?pvs=21) features.

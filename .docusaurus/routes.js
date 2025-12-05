@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '21a'),
+    component: ComponentCreator('/about', '2f4'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '213'),
+        component: ComponentCreator('/about', '1a8'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '6d9'),
+            component: ComponentCreator('/about', '4f0'),
             routes: [
               {
                 path: '/about/',
@@ -1217,14 +1217,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/flexible-tier/📺 Video streaming playback',
-                component: ComponentCreator('/about/products/web_app/flexible-tier/📺 Video streaming playback', '167'),
+                path: '/about/products/web_app/flexible-tier/alerts',
+                component: ComponentCreator('/about/products/web_app/flexible-tier/alerts', '783'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/flexible-tier/🔔  Alerts',
-                component: ComponentCreator('/about/products/web_app/flexible-tier/🔔  Alerts', 'c9b'),
+                path: '/about/products/web_app/flexible-tier/video_playback',
+                component: ComponentCreator('/about/products/web_app/flexible-tier/video_playback', '737'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

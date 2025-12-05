@@ -208,7 +208,7 @@ mutation addFileToBox($boxId: ID!, $fileId: ID!, $hiveId: ID!) {
 
 ### 🔗 Related Features
 - [🔎 Inspection Management](🔎%20Inspection%20management.md) - Inspection versioning
-- [📺 Video Streaming Playback](../flexible-tier/📺%20Video%20streaming%20playback.md) - Gate entrance monitoring
+- [📺 Video Streaming Playback](../flexible-tier/video_playback.md) - Gate entrance monitoring
 - Varroa Detection Model (in development)
 
 ### 📚 Resources & References

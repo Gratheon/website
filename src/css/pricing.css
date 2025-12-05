@@ -63,7 +63,7 @@
 }
 
 .pricing-card-features li {
-  padding: 0.25rem 0;
+  padding: 0.1rem 0;
   display: flex;
   align-items: center;
   min-height: 2.5em;
@@ -285,13 +285,13 @@
 }
 
 
-/* Ideation stage product styling */
-.ideation-stage {
+/* Ideation stage product styling (only for hardware devices) */
+.hardware-device-card.ideation {
   opacity: 0.8;
   position: relative;
 }
 
-.ideation-stage::after {
+.hardware-device-card.ideation::after {
   content: "In ideation";
   position: absolute;
   top: 0;

@@ -1230,13 +1230,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/flexible-tier/📺 Video streaming playback",
-              "path": "/about/products/web_app/flexible-tier/📺 Video streaming playback",
+              "id": "products/web_app/flexible-tier/alerts",
+              "path": "/about/products/web_app/flexible-tier/alerts",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/flexible-tier/🔔  Alerts",
-              "path": "/about/products/web_app/flexible-tier/🔔  Alerts",
+              "id": "products/web_app/flexible-tier/video_playback",
+              "path": "/about/products/web_app/flexible-tier/video_playback",
               "sidebar": "tutorialSidebar"
             },
             {

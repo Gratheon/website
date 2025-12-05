@@ -1,3 +1,8 @@
+---
+title: 🔔  Alerts
+---
+
+
 We want to notify beekeeper in various cases/features. For that we need a generic way to create and list alerts. We want to store alerts in DB and display them in UI.
 
 ## User story - configuring alert channels
@@ -29,7 +34,7 @@ We want to notify beekeeper in various cases/features. For that we need a generi
     - Alert is generated
         
     - alert is shown in the header
-        ![](../../../../img/Screenshot%202024-06-20%20at%2014.40.44.png)
+        ![](../../../img/Screenshot%202024-06-20%20at%2014.40.44.png)
         
     - On click, alert popup appears
         
