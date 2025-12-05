@@ -105,7 +105,7 @@ erDiagram
 ```
 
 #### GraphQL API
-```graphql
+```text
 type FrameSide {
   id: ID!
   frameId: ID
@@ -223,7 +223,7 @@ input FrameSideCellsInput {
 - **Zoom Range**: MIN_ZOOM (1x) to MAX_ZOOM (100x)
 - **Medium Zoom**: MED_ZOOM (2x) for mobile detection
 - **Zoom Mechanism**: Canvas transform scale with globalCameraZoom
-- **Pan**: Drag-based translation with offsetsum {x, y}
+- **Pan**: Drag-based translation with offsetsum (x, y coordinates)
 - **Pan Control**: isPanning flag, startPanPosition, initialPanOffset tracking
 - **Mobile**: Zoom disabled on viewports < 1200px width
 - **Constraints**: Prevent zoom below 1x, above 100x
@@ -231,7 +231,7 @@ input FrameSideCellsInput {
 
 #### Drawing Tool Implementation
 - **Freehand Drawing**: Capture pointer move events with pressure support
-- **Path Storage**: strokeHistory array of DrawingLine arrays, each containing DrawingPoint {x, y, lineWidth, color}
+- **Path Storage**: strokeHistory array of DrawingLine arrays, each containing DrawingPoint (x, y, lineWidth, color)
 - **Drawing Points**: Normalized coordinates (0-1) relative to canvas dimensions
 - **Line Rendering**: Quadratic curves for smooth strokes via quadraticCurveTo
 - **Undo**: Pop last stroke from strokeHistory array
@@ -245,13 +245,13 @@ graph TB
     B --> C[getFrameSideFile from Dexie]
     C --> D[getThumbnailUrl selects best resize]
     D --> E[loadImage and draw to canvas]
-    E --> F[Render detections from frameSideFile]
+    E --> F[Render detections]
     
-    G[User zooms/pans] --> H[Update globalCameraZoom/offsetsum]
+    G[User zooms or pans] --> H[Update globalCameraZoom or offsetsum]
     H --> I[redrawCurrentCanvas]
     I --> J[drawCanvasLayers with transforms]
     
-    K[User toggles detection] --> L[Update state showBees/showDrones/etc]
+    K[User toggles detection] --> L[Update visibility state]
     L --> M[forceRedraw triggers re-render]
     
     N[User draws stroke] --> O[Capture normalized points]
@@ -260,7 +260,7 @@ graph TB
     Q --> R[updateStrokeHistoryData to Dexie]
     
     S[useFrameSideSubscriptions] --> T[Listen to Redis pubsub]
-    T --> U[appendBeeDetectionData/appendCellDetectionData]
+    T --> U[appendDetectionData]
     U --> V[Update Dexie via modify]
 ```
 
