@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
+  "title": "🧮 Hive bottom board & varroa monitoring",
+  "description": "🎯 Purpose",
+  "source": "@site/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring.md",
+  "sourceDirName": "products/web_app/pro-tier",
+  "slug": "/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
+  "permalink": "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📈 Count bees - in the cloud",
+    "permalink": "/about/products/web_app/pro-tier/📈 Count bees - in the cloud"
+  },
+  "next": {
+    "title": "☀️ Solar radiance as weather datasource",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/☀️ Solar radiance as weather datasource"
+  }
+}

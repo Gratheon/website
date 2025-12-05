@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🔔 Drone detection",
-    "permalink": "/about/products/web_app/starter-tier/ideas 💡/🔔 Drone detection"
+    "title": "📦 Manual inspections - Bulk file upload",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/📦 Manual inspections - Bulk file upload"
   },
   "next": {
-    "title": "🔔 Frame analysis - starvation detection and alert",
-    "permalink": "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert"
+    "title": "🔔 Timeseries Anomaly detection",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/🔔 Timeseries Anomaly detection"
   }
 }

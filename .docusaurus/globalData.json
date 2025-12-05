@@ -1230,6 +1230,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/flexible-tier/📺 Video streaming playback",
+              "path": "/about/products/web_app/flexible-tier/📺 Video streaming playback",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/flexible-tier/🔔  Alerts",
+              "path": "/about/products/web_app/flexible-tier/🔔  Alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/hobbyist-tier/♻️ Public beehive view",
               "path": "/about/products/web_app/hobbyist-tier/♻️ Public beehive view",
               "sidebar": "tutorialSidebar"
@@ -1370,6 +1380,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
+              "path": "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "path": "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "sidebar": "tutorialSidebar"
@@ -1460,6 +1475,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro-tier/ideas 💡/🔔 Drone detection",
+              "path": "/about/products/web_app/pro-tier/ideas 💡/🔔 Drone detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection",
+              "path": "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
+              "path": "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/ideas 💡/🔔 Timeseries Anomaly detection",
+              "path": "/about/products/web_app/pro-tier/ideas 💡/🔔 Timeseries Anomaly detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro-tier/ideas 💡/🪝 Webhooks integration",
               "path": "/about/products/web_app/pro-tier/ideas 💡/🪝 Webhooks integration",
               "sidebar": "tutorialSidebar"
@@ -1470,18 +1505,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro-tier/ideas 💡/🛰️ Apiary satellite view",
+              "path": "/about/products/web_app/pro-tier/ideas 💡/🛰️ Apiary satellite view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration",
               "path": "/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/pro-tier/join_bee_colonies",
-              "path": "/about/products/web_app/pro-tier/join_bee_colonies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/pro-tier/split_bee_colony",
-              "path": "/about/products/web_app/pro-tier/split_bee_colony",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1495,11 +1525,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/starter-tier/📺 Video streaming playback",
-              "path": "/about/products/web_app/starter-tier/📺 Video streaming playback",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/starter-tier/🔎 Inspection management",
               "path": "/about/products/web_app/starter-tier/🔎 Inspection management",
               "sidebar": "tutorialSidebar"
@@ -1507,11 +1532,6 @@
             {
               "id": "products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
               "path": "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring",
-              "path": "/about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1545,31 +1565,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/starter-tier/ideas 💡/🔔  Alerts",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🔔  Alerts",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/starter-tier/ideas 💡/🔔 Drone detection",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🔔 Drone detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/starter-tier/ideas 💡/🔔 Timeseries Anomaly detection",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🔔 Timeseries Anomaly detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/starter-tier/ideas 💡/🦀 Varroa infestation management",
               "path": "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa infestation management",
               "sidebar": "tutorialSidebar"
@@ -1580,8 +1575,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/starter-tier/ideas 💡/🛰️ Apiary satellite view",
-              "path": "/about/products/web_app/starter-tier/ideas 💡/🛰️ Apiary satellite view",
+              "id": "products/web_app/starter-tier/join_bee_colonies",
+              "path": "/about/products/web_app/starter-tier/join_bee_colonies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/starter-tier/split_bee_colony",
+              "path": "/about/products/web_app/starter-tier/split_bee_colony",
               "sidebar": "tutorialSidebar"
             },
             {

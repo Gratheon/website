@@ -135,7 +135,7 @@ The digital merge in the app represents the logistics. Physical colony merge req
 
 ### 🔗 Related Features
 
-- **[Split Colony](split_bee_colony.md)**: Opposite operation - create new hive from existing one
+- **[Split Colony](../starter-tier/split_bee_colony.md)**: Opposite operation - create new hive from existing one
 - **Collapse Hive**: Mark inactive/dead colony (different from merge)
 - **Delete Hive**: Permanently remove hive record
 - **Inspections**: Track colony before/after merge

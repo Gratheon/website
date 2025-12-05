@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web-app/features/frame-side-management.md",
+                "file": "about/products/web_app/flexible-tier/🔔  Alerts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frame-side-management"
+              "title": "🔔  Alerts"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 604.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -178,8 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51574da3e80e0722",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "about/products/web_app/flexible-tier",
+    "docs/web-app/features/frame-side-management.md",
     "_setup-env.sh",
     "node_modules/@mermaid-js",
     "node_modules/@types",
@@ -190,7 +192,6 @@
     "public/blog/rss.xsl",
     "public/blog/atom.xsl",
     "public/sitemap.xml",
-    "public/index.html",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
@@ -225,7 +226,6 @@
     "node_modules/send/node_modules/statuses/README.md",
     "node_modules/serve-static/node_modules/send/README.md",
     "node_modules/send/node_modules/http-errors/HISTORY.md",
-    "node_modules/serve-static/node_modules/send/node_modules/encodeurl/HISTORY.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

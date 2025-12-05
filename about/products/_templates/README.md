@@ -84,8 +84,8 @@ For technical implementation details, see [Feature Name Technical Documentation]
 ## Examples
 
 See these refactored examples:
-- [Split Bee Colony](../web_app/pro-tier/split_bee_colony.md) - Complex feature with visual selection
-- [Join Bee Colonies](../web_app/pro-tier/join_bee_colonies.md) - Complex feature with options
+- [Split Bee Colony](../web_app/starter-tier/split_bee_colony.md) - Complex feature with visual selection
+- [Join Bee Colonies](../web_app/starter-tier/join_bee_colonies.md) - Complex feature with options
 - [User Login](../web_app/basic-functionality/🧑‍🚀%20User%20login.md) - Simple authentication feature
 
 ## Questions?

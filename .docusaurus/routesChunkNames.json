@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-e1a": {
+  "/about-21a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-ff9": {
+  "/about-213": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-f03": {
+  "/about-6d9": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1277,6 +1277,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-basic-functionality-🙅-user-account-deletion-491-abf"
   },
+  "/about/products/web_app/flexible-tier/📺 Video streaming playback-167": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-flexible-tier-📺-video-streaming-playbackfe-6-5b2"
+  },
+  "/about/products/web_app/flexible-tier/🔔  Alerts-c9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-flexible-tier-🔔-alertsa-1-d-71e"
+  },
   "/about/products/web_app/hobbyist-tier/♻️ Public beehive view-fc8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-♻️-public-beehive-viewba-9-a07"
@@ -1389,6 +1397,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-📈-count-bees-in-the-cloudf-85-38c"
   },
+  "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring-b54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-🧮-hive-bottom-board-varroa-monitoringf-93-0af"
+  },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer-709": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-♻️-hive-ownership-transferc-02-e6b"
@@ -1461,6 +1473,22 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-📦-inventory-management-warehouse-view-49-e-56b"
   },
+  "/about/products/web_app/pro-tier/ideas 💡/🔔 Drone detection-194": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-drone-detectioncea-f63"
+  },
+  "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-e34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-frame-analysis-spotty-brood-pattern-detection-44-d-ceb"
+  },
+  "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-0ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-frame-analysis-starvation-detection-and-alert-27-c-310"
+  },
+  "/about/products/web_app/pro-tier/ideas 💡/🔔 Timeseries Anomaly detection-1c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-timeseries-anomaly-detection-839-9bc"
+  },
   "/about/products/web_app/pro-tier/ideas 💡/🪝 Webhooks integration-649": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-🪝-webhooks-integration-5-e-7-e21"
@@ -1469,17 +1497,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detectiond-0-c-ead"
   },
+  "/about/products/web_app/pro-tier/ideas 💡/🛰️ Apiary satellite view-f4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-apiary-satellite-viewbc-8-71a"
+  },
   "/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration-10a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integrationb-78-9fd"
-  },
-  "/about/products/web_app/pro-tier/join_bee_colonies-734": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-join-bee-colonies-08-c-886"
-  },
-  "/about/products/web_app/pro-tier/split_bee_colony-d0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-split-bee-colony-300-713"
   },
   "/about/products/web_app/starter-tier/✏️ Drawing on canvas-ad9": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1489,10 +1513,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-🍭-feeding-history-759-7fc"
   },
-  "/about/products/web_app/starter-tier/📺 Video streaming playback-536": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-📺-video-streaming-playback-33-e-af4"
-  },
   "/about/products/web_app/starter-tier/🔎 Inspection management-d1e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-🔎-inspection-managementd-0-d-892"
@@ -1500,10 +1520,6 @@
   "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM-a20": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-🤖-beekeeping-advice-with-ll-md-69-4cd"
-  },
-  "/about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring-cb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-🧮-hive-bottom-board-varroa-monitoringdbe-02d"
   },
   "/about/products/web_app/starter-tier/ideas 💡/☀️ Solar radiance as weather datasource-579": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1529,26 +1545,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-ideas-💡-📦-manual-inspections-bulk-file-uploade-04-015"
   },
-  "/about/products/web_app/starter-tier/ideas 💡/🔔  Alerts-55e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🔔-alerts-05-e-550"
-  },
-  "/about/products/web_app/starter-tier/ideas 💡/🔔 Drone detection-074": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🔔-drone-detectionc-28-17b"
-  },
-  "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-117": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🔔-frame-analysis-spotty-brood-pattern-detection-3-e-7-24d"
-  },
-  "/about/products/web_app/starter-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-9d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🔔-frame-analysis-starvation-detection-and-alertbba-f24"
-  },
-  "/about/products/web_app/starter-tier/ideas 💡/🔔 Timeseries Anomaly detection-dad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🔔-timeseries-anomaly-detectione-96-c66"
-  },
   "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa infestation management-7cb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-ideas-💡-🦀-varroa-infestation-managementd-69-3cb"
@@ -1557,9 +1553,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-ideas-💡-🦀-varroa-mite-detection-4-c-1-5cd"
   },
-  "/about/products/web_app/starter-tier/ideas 💡/🛰️ Apiary satellite view-797": {
+  "/about/products/web_app/starter-tier/join_bee_colonies-0b2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-starter-tier-ideas-💡-🛰️-apiary-satellite-view-55-c-f1b"
+    "content": "content---about-products-web-app-starter-tier-join-bee-colonies-14-d-3c6"
+  },
+  "/about/products/web_app/starter-tier/split_bee_colony-2f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-split-bee-colony-1-a-8-2d9"
   },
   "/about/volunteer-9cc": {
     "__comp": "__comp---theme-doc-item-178-a40",

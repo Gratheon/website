@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/flexible-tier/📺 Video streaming playback",
+  "title": "📺 Video streaming playback",
+  "description": "Goal",
+  "source": "@site/about/products/web_app/flexible-tier/📺 Video streaming playback.md",
+  "sourceDirName": "products/web_app/flexible-tier",
+  "slug": "/products/web_app/flexible-tier/📺 Video streaming playback",
+  "permalink": "/about/products/web_app/flexible-tier/📺 Video streaming playback",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍🚀 User registration",
+    "permalink": "/about/products/web_app/basic-functionality/🧑‍🚀 User registration"
+  },
+  "next": {
+    "title": "🔔  Alerts",
+    "permalink": "/about/products/web_app/flexible-tier/🔔  Alerts"
+  }
+}
