@@ -1,54 +1,62 @@
 ---
-title: 🔔  Alerts
+title: 🔔 Alerts
 ---
 
+We want to notify beekeepers in various cases/features. This page describes alert configuration, channels and types supported in the Flexible tier, including SMS notifications and webhooks.
 
-We want to notify beekeeper in various cases/features. For that we need a generic way to create and list alerts. We want to store alerts in DB and display them in UI.
+## Overview
 
-## User story - configuring alert channels
+Flexible tier provides a unified alert management system that supports multiple delivery channels and advanced alert types. Alerts can be configured per apiary, hive, or device and delivered via email, SMS, push/mobile, Telegram, and webhooks.
+
+## Channels
+
+- Email
+- SMS (Twilio or similar)
+- Push / Mobile app notifications
+- Telegram bot
+- Webhooks integration
+
+## Configuring alert channels
 
 - User goes to settings page
-- Under `Alerts`
-    - sets an alert channel from the select `Alert me via: [email]`
-        - Mobile phone notification (in case its a mobile-app)
-        - Email
-        - SMS (Twilio?)
-        - Telegram bot
-            - [https://telegraf.js.org/#md:introduction](https://telegraf.js.org/#md:introduction)
-        - [Webhooks integration](https://www.notion.so/Webhooks-integration-b3125a386b374d498e0317d15947ec8c?pvs=21)
-- Under alert types, he can choose (as checkbox) which alert types he wants to receive (the list should be quite long)
-    - swarming risk - [Frame side queen cup detection](https://www.notion.so/Frame-side-queen-cup-detection-fcbfae08a5b24ff385e0348214e66414?pvs=21)
-    - hornet attacks - [Hornet attack detection](https://www.notion.so/Hornet-attack-detection-8dde7e03f80547fa9156ac1c16cf52af?pvs=21)
-    - queen is missing - [Queen detection](https://www.notion.so/Queen-detection-6efc6b5e9eac4d79a622abb89abdfde9?pvs=21)
-    - queen is failing to lay eggs - [Frame analysis - spotty brood pattern detection](https://www.notion.so/Frame-analysis-spotty-brood-pattern-detection-e08ec02e0de84b5b95970b67d5213363?pvs=21)
-    - drone cell ratio is too high - [Drone brood detection](https://www.notion.so/Drone-brood-detection-4f454aec03b44eddb80d29827fde7e6d?pvs=21)
-    - low/high temperature in the hive
-    - swarming has happened
-    - custom anomaly - should be tied to [Analytics with grafana](https://www.notion.so/Analytics-with-grafana-044239bdf92544a0a1ed95258d812e04?pvs=21)
+- Under `Alerts`:
+  - choose preferred channels from the select `Alert me via: [email]`
+  - available channels: Mobile push, Email, SMS, Telegram, Webhooks
 
-## User story - receiving a queen missing alert
+## Alert types
 
-- User uploads all of the hive frames
-- All frames are processed
-- No queen is detected
-    - Alert is generated
-        
-    - alert is shown in the header
-        ![](../../../img/Screenshot%202024-06-20%20at%2014.40.44.png)
-        
-    - On click, alert popup appears
-        
-- Depending on alert channels, it is delivered to the user
-    - For email, user receives an email that `hive X has a missing queen`
-    - [ ] Good wording, links, imagery, design is needed - ask [Designer (UX / UI / Industrial)](https://www.notion.so/Designer-UX-UI-Industrial-454c89d18d7e4eeb822c54d9966bc169?pvs=21)
-- Once user has acted upon this alert, user `approves an alert` effectively hiding/deleting it
+Users can enable/disable alert types they are interested in. Example alert types:
 
-## Suggested technical solution
+- Swarming risk (tied to queen cup / frame analysis)
+- Hornet attack detection
+- Queen missing or failing to lay eggs
+- Drone brood / abnormal drone ratio
+- Low/high temperature in the hive
+- Swarming detected
+- Custom anomaly alerts (from timeseries analytics)
 
-Create new `alerts` microservice
+## SMS notifications
 
-- add new DB that it will use
-- add graphql API that it will expose
-    - add `createAlert` mutation
-    - add `alerts` query
-- service acts as a proxy. Actual alert generation should be owned by other services that contain the business logic
+- SMS alerts are delivered using an SMS provider (for example Twilio)
+- SMS alerts are intended for high-priority, short messages (e.g. queen missing, emergency temperature)
+- Flexible tier customers can enable/disable SMS as an alert channel and configure phone numbers per account
+
+## Webhooks
+
+- Webhooks allow integrating alerts with external automation or monitoring systems
+- Flexible tier supports configurable webhook endpoints per alert rule
+
+## Receiving an alert (example)
+
+1. User uploads all frames and runs analysis
+2. A rule detects a missing queen
+3. An alert is generated and stored
+4. Alert appears in-app and is delivered according to the user's configured channels (email, SMS, webhook, etc.)
+
+## Technical notes
+
+- Suggested architecture: a dedicated alerts service that stores alerts and exposes a GraphQL/REST API
+- Alerts are created by services that detect conditions (frame analysis, telemetry analytics) and forwarded to the alerts service
+- Alerts service handles delivery (email, SMS, push, webhooks)
+
+

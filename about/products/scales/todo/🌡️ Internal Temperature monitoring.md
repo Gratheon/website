@@ -8,4 +8,4 @@ If temperature drops below certain user-configureable threshold, we can alert a 
 # How it works
 - IoT sensor periodically sends metrics to gratheon app
 - We analyze data patterns
-- We send [alerts](../../web_app/flexible-tier/alerts.md) in case of anomalies
+- We send [alerts](../../web_app/pro-tier/alerts.md) in case of anomalies

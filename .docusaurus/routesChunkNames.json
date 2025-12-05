@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-2f4": {
+  "/about-ffe": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-1a8": {
+  "/about-e2a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-4f0": {
+  "/about-8f7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1400,6 +1400,10 @@
   "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring-b54": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-🧮-hive-bottom-board-varroa-monitoringf-93-0af"
+  },
+  "/about/products/web_app/pro-tier/alerts-3a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-alerts-656-3dc"
   },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer-709": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1385,6 +1385,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro-tier/alerts",
+              "path": "/about/products/web_app/pro-tier/alerts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "path": "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "sidebar": "tutorialSidebar"

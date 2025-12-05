@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/flexible-tier/alerts",
-  "title": "🔔  Alerts",
-  "description": "We want to notify beekeeper in various cases/features. For that we need a generic way to create and list alerts. We want to store alerts in DB and display them in UI.",
+  "title": "🔔 Alerts",
+  "description": "We want to notify beekeepers in various cases/features. This page describes alert configuration, channels and types supported in the Flexible tier, including SMS notifications and webhooks.",
   "source": "@site/about/products/web_app/flexible-tier/alerts.md",
   "sourceDirName": "products/web_app/flexible-tier",
   "slug": "/products/web_app/flexible-tier/alerts",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "🔔  Alerts"
+    "title": "🔔 Alerts"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

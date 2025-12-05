@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '2f4'),
+    component: ComponentCreator('/about', 'ffe'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '1a8'),
+        component: ComponentCreator('/about', 'e2a'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '4f0'),
+            component: ComponentCreator('/about', '8f7'),
             routes: [
               {
                 path: '/about/',
@@ -1399,6 +1399,12 @@ export default [
               {
                 path: '/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring',
                 component: ComponentCreator('/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring', 'b54'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro-tier/alerts',
+                component: ComponentCreator('/about/products/web_app/pro-tier/alerts', '3a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

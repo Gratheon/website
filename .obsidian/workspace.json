@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/web_app/flexible-tier/video_playback.md",
+                "file": "about/products/web_app/pro-tier/alerts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video_playback"
+              "title": "alerts"
             }
           }
         ]
@@ -178,9 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51574da3e80e0722",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "about/products/web_app/flexible-tier/alerts.md",
+    "about/products/web_app/flexible-tier/video_playback.md",
+    "about/products/web_app/pro-tier/alerts.md",
     "about/products/web_app/flexible-tier",
     "docs/web-app/features/frame-side-management.md",
     "_setup-env.sh",
@@ -224,8 +226,6 @@
     "node_modules/rc/node_modules/ini/README.md",
     "node_modules/send/node_modules/http-errors/README.md",
     "node_modules/send/node_modules/statuses/README.md",
-    "node_modules/serve-static/node_modules/send/README.md",
-    "node_modules/send/node_modules/http-errors/HISTORY.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }
