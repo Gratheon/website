@@ -1,0 +1,24 @@
+{
+  "id": "web-app/features/bottom-board-management",
+  "title": "bottom-board-management",
+  "description": "This document describes the technical implementation of the hive bottom board feature for varroa mite monitoring. The feature spans three microservices: swarm-api, image-splitter, and web-app.",
+  "source": "@site/docs/web-app/features/bottom-board-management.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/bottom-board-management",
+  "permalink": "/docs/web-app/features/bottom-board-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/bottom-board-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+  }
+}

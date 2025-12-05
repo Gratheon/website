@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/hobbyist-tier/👑 Queen detection",
-  "title": "👑 Queen detection",
-  "description": "Background",
+  "title": "👑 Queen Detection",
+  "description": "🎯 Purpose",
   "source": "@site/about/products/web_app/hobbyist-tier/👑 Queen detection.md",
   "sourceDirName": "products/web_app/hobbyist-tier",
   "slug": "/products/web_app/hobbyist-tier/👑 Queen detection",
@@ -10,7 +10,10 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "status": "in-progress",
+    "title": "👑 Queen Detection"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🐝 Worker bee detection",
