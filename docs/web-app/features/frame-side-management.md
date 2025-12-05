@@ -10,64 +10,97 @@ Interactive frame photo viewer with zoom, pan, detection overlay toggling, and a
 ### 🏗️ Architecture
 
 #### Components
-- **FrameSideViewer**: Main container managing photo display and interactions
-- **ZoomableCanvas**: Canvas component with wheel zoom and pan support (up to 20x)
-- **DetectionOverlay**: Separate canvas layer for rendering bounding boxes and annotations
-- **DetectionPanel**: Sidebar with toggle controls and count display
-- **DrawingToolbar**: Toolbar with pencil, undo, clear tools
-- **ProgressiveImage**: Component handling multi-resolution image loading
+- **FrameSide**: Main container component fetching frame side data and managing upload state
+- **FrameSideDrawing**: Core canvas component handling drawing, zoom, pan, and detection overlays
+- **DrawingCanvas**: Canvas rendering with integrated detection visualization and user annotations
+- **uploadFile**: File upload component for initial frame photo upload
 
 #### Services
-- **image-splitter**: Serves frame images at multiple resolutions
-- **swarm-api**: Stores frame side metadata and detection data
-- **web-app**: Frontend React application with canvas rendering
+- **image-splitter**: Stores uploaded images, serves resized versions, manages detection data as JSON
+- **swarm-api**: Stores frame/box structure and frame_side references
+- **web-app**: Frontend React application with Dexie local database caching
 
 ### 📋 Technical Specifications
 
 #### Database Schema
 ```mermaid
 erDiagram
-    frames ||--|| frame_sides : "has_two"
-    frame_sides ||--o{ detections : "contains"
-    frame_sides ||--o{ annotations : "has_drawings"
+    frames ||--o{ frames_sides : "has_two"
+    frames_sides ||--o{ files_frame_side_rel : "has_photos"
+    files_frame_side_rel ||--|| files : "references"
+    files ||--o{ file_resizes : "has_versions"
+    files_frame_side_rel ||--o{ files_frame_side_cells : "has_cells"
+    files_frame_side_rel ||--o{ files_frame_side_queen_cups : "has_cups"
     
     frames {
         int id PK
         int box_id FK
         int position
-        int left_id FK "left frame_side"
-        int right_id FK "right frame_side"
+        int left_id FK
+        int right_id FK
+        enum type
+        boolean active
     }
     
-    frame_sides {
+    frames_sides {
         int id PK
-        int frame_id FK
-        varchar url "original image path"
-        varchar url_small "200px width"
-        varchar url_medium "800px width"
-        varchar url_large "1600px width"
+        int user_id
+    }
+    
+    files {
+        int id PK
+        int user_id
+        varchar hash
+        varchar ext
         int width
         int height
-        timestamp uploaded_at
     }
     
-    detections {
+    file_resizes {
         int id PK
-        int frame_side_id FK
-        enum type "bee, queen, cell, varroa, cup, beetle, ant"
-        json bbox "x, y, width, height"
-        float confidence
-        boolean visible "toggle state"
+        int file_id FK
+        int max_dimension_px
+        varchar url
     }
     
-    annotations {
-        int id PK
+    files_frame_side_rel {
         int frame_side_id FK
-        int user_id FK
-        json paths "array of drawing paths"
-        varchar color
-        int stroke_width
-        timestamp created_at
+        int file_id FK
+        int user_id
+        int inspection_id "NULL for current"
+        json strokeHistory "user drawings"
+        json detected_bees "array of bee detections"
+        json detected_queens "array of queen detections"
+        json detected_varroa "array of varroa detections"
+        int worker_bee_count
+        int drone_count
+        int queen_count
+        int varroa_count
+        boolean queen_detected
+        datetime added_time
+    }
+    
+    files_frame_side_cells {
+        int frame_side_id FK
+        int file_id FK
+        int user_id
+        int inspection_id
+        json cells "array of cell detections"
+        int brood
+        int capped_brood
+        int eggs
+        int pollen
+        int honey
+        datetime added_time
+    }
+    
+    files_frame_side_queen_cups {
+        int frame_side_id FK
+        int file_id FK
+        int user_id
+        int inspection_id
+        json cups "array of queen cup detections"
+        datetime added_time
     }
 ```
 
@@ -75,64 +108,97 @@ erDiagram
 ```graphql
 type FrameSide {
   id: ID!
-  frameId: ID!
-  url: String!
-  urlSmall: String
-  urlMedium: String
-  urlLarge: String
-  width: Int!
-  height: Int!
-  detections: [Detection!]
-  annotations: [Annotation!]
+  frameId: ID
+  isQueenConfirmed: Boolean
+  file: File
+  cells: FrameSideCells
+  frameSideFile: FrameSideFile
+  inspections: [FrameSideInspection]
 }
 
-type Detection {
+type FrameSideFile {
+  file: File!
+  frameSideId: ID
+  hiveId: ID
+  strokeHistory: JSON
+  detectedBees: JSON
+  detectedQueenCount: Int
+  detectedWorkerBeeCount: Int
+  detectedDroneCount: Int
+  isBeeDetectionComplete: Boolean
+  detectedCells: JSON
+  isCellsDetectionComplete: Boolean
+  detectedQueenCups: JSON
+  isQueenCupsDetectionComplete: Boolean
+  isQueenDetectionComplete: Boolean
+  queenDetected: Boolean!
+  workerCount: Int
+  droneCount: Int
+  detectedVarroa: JSON
+  varroaCount: Int
+}
+
+type File {
   id: ID!
-  type: DetectionType!
-  bbox: BoundingBox!
-  confidence: Float!
-  visible: Boolean!
+  url: URL!
+  resizes: [FileResize]
 }
 
-enum DetectionType {
-  BEE
-  QUEEN
-  DRONE
-  CELL_BROOD
-  CELL_HONEY
-  CELL_POLLEN
-  CELL_EMPTY
-  VARROA
-  QUEEN_CUP
-  BEETLE
-  ANT
-}
-
-type BoundingBox {
-  x: Int!
-  y: Int!
-  width: Int!
-  height: Int!
-}
-
-type Annotation {
+type FileResize {
   id: ID!
-  paths: JSON!
-  color: String!
-  strokeWidth: Int!
-  createdAt: DateTime!
+  file_id: ID!
+  max_dimension_px: Int!
+  url: URL!
+}
+
+type FrameSideCells {
+  id: ID!
+  broodPercent: Int
+  cappedBroodPercent: Int
+  eggsPercent: Int
+  pollenPercent: Int
+  honeyPercent: Int
+}
+
+type FrameSideInspection {
+  frameSideId: ID!
+  inspectionId: ID!
+  file: File
+  cells: FrameSideCells
+  frameSideFile: FrameSideFile
 }
 
 type Query {
-  frameSide(id: ID!): FrameSide!
-  frameSideDetections(frameSideId: ID!, types: [DetectionType!]): [Detection!]
+  hiveFrameSideFile(frameSideId: ID!): FrameSideFile
+  hiveFrameSideCells(frameSideId: ID!): FrameSideCells
+  frameSidesInspections(frameSideIds: [ID], inspectionId: ID!): [FrameSideInspection]
+  file(id: ID!): File
+  hiveFiles(hiveId: ID!): [FrameSideFile]
+  boxFiles(boxId: ID!, inspectionId: ID): [BoxFile]
 }
 
 type Mutation {
-  toggleDetectionVisibility(frameSideId: ID!, type: DetectionType!, visible: Boolean!): Boolean!
-  saveAnnotation(frameSideId: ID!, paths: JSON!, color: String!, strokeWidth: Int!): Annotation!
-  clearAnnotations(frameSideId: ID!): Boolean!
-  undoLastAnnotation(frameSideId: ID!): Boolean!
+  uploadFrameSide(file: Upload!): File
+  addFileToFrameSide(frameSideId: ID!, fileId: ID!, hiveId: ID!): Boolean
+  filesStrokeEditMutation(files: [FilesUpdateInput]): Boolean
+  updateFrameSideCells(cells: FrameSideCellsInput!): Boolean!
+  confirmFrameSideQueen(frameSideId: ID!, isConfirmed: Boolean!): Boolean!
+  cloneFramesForInspection(frameSideIDs: [ID], inspectionId: ID!): Boolean!
+}
+
+input FilesUpdateInput {
+  frameSideId: ID!
+  fileId: ID!
+  strokeHistory: JSON!
+}
+
+input FrameSideCellsInput {
+  id: ID!
+  broodPercent: Int
+  cappedBroodPercent: Int
+  eggsPercent: Int
+  pollenPercent: Int
+  honeyPercent: Int
 }
 ```
 
@@ -147,90 +213,57 @@ type Mutation {
 
 #### Progressive Image Loading
 ```
-1. Initial load: 200px thumbnail (urlSmall)
-2. On interaction: 800px medium (urlMedium)
-3. On zoom in: 1600px large (urlLarge)
-4. Lazy loading with intersection observer
+1. Initial load: Select best resize from file_resizes table (>128px width)
+2. Image loaded via HTMLImageElement and drawn to canvas
+3. Canvas size calculated based on viewport width and device pixel ratio
+4. Resizes stored with max_dimension_px and URL in database
 ```
 
-#### Zoom Implementation
-- **Level 1 (100%)**: Show urlSmall with CSS transform
-- **Level 2 (100-400%)**: Load urlMedium, scale with transform
-- **Level 3 (400-2000%)**: Load urlLarge, scale with transform
-- **Pan**: Translate transform on drag
-- **Constraints**: Prevent zoom out below 100%, zoom in above 2000%
+#### Zoom and Pan Implementation
+- **Zoom Range**: MIN_ZOOM (1x) to MAX_ZOOM (100x)
+- **Medium Zoom**: MED_ZOOM (2x) for mobile detection
+- **Zoom Mechanism**: Canvas transform scale with globalCameraZoom
+- **Pan**: Drag-based translation with offsetsum {x, y}
+- **Pan Control**: isPanning flag, startPanPosition, initialPanOffset tracking
+- **Mobile**: Zoom disabled on viewports < 1200px width
+- **Constraints**: Prevent zoom below 1x, above 100x
 
-#### Detection Overlay Rendering
-```typescript
-// Render loop for detection overlay
-detections.forEach(detection => {
-  if (detection.visible) {
-    ctx.strokeStyle = getColorForType(detection.type);
-    ctx.lineWidth = 2 / zoomLevel; // Maintain visual size
-    ctx.strokeRect(
-      detection.bbox.x * scale,
-      detection.bbox.y * scale,
-      detection.bbox.width * scale,
-      detection.bbox.height * scale
-    );
-  }
-});
-```
 
 #### Drawing Tool Implementation
-- **Freehand Drawing**: Capture pointer move events
-- **Path Storage**: Array of {x, y} coordinates
-- **Undo**: Pop last path from array
-- **Clear**: Empty paths array
-- **Persistence**: Save paths to backend on tool deselect
+- **Freehand Drawing**: Capture pointer move events with pressure support
+- **Path Storage**: strokeHistory array of DrawingLine arrays, each containing DrawingPoint {x, y, lineWidth, color}
+- **Drawing Points**: Normalized coordinates (0-1) relative to canvas dimensions
+- **Line Rendering**: Quadratic curves for smooth strokes via quadraticCurveTo
+- **Undo**: Pop last stroke from strokeHistory array
+- **Clear**: Empty strokeHistory array
+- **Persistence**: filesStrokeEditMutation saves to backend, updateStrokeHistoryData updates Dexie cache
 
 #### Data Flow
 ```mermaid
 graph TB
-    A[User opens frame side] --> B[Load urlSmall]
-    B --> C[Render to canvas]
-    C --> D[Fetch detections]
-    D --> E[Render overlay]
+    A[User opens frame side] --> B[FRAME_SIDE_QUERY fetches data]
+    B --> C[getFrameSideFile from Dexie]
+    C --> D[getThumbnailUrl selects best resize]
+    D --> E[loadImage and draw to canvas]
+    E --> F[Render detections from frameSideFile]
     
-    F[User zooms in] --> G{Zoom level?}
-    G -->|100-400%| H[Load urlMedium]
-    G -->|400-2000%| I[Load urlLarge]
-    H --> J[Re-render canvas]
-    I --> J
+    G[User zooms/pans] --> H[Update globalCameraZoom/offsetsum]
+    H --> I[redrawCurrentCanvas]
+    I --> J[drawCanvasLayers with transforms]
     
-    K[User toggles detection] --> L[Update visible flag]
-    L --> M[Re-render overlay]
+    K[User toggles detection] --> L[Update state showBees/showDrones/etc]
+    L --> M[forceRedraw triggers re-render]
     
-    N[User draws] --> O[Capture pointer path]
-    O --> P[Render to annotation layer]
-    P --> Q[Save to backend on completion]
+    N[User draws stroke] --> O[Capture normalized points]
+    O --> P[drawStrokeSegment to canvas]
+    P --> Q[On mouseup: filesStrokeEditMutate]
+    Q --> R[updateStrokeHistoryData to Dexie]
+    
+    S[useFrameSideSubscriptions] --> T[Listen to Redis pubsub]
+    T --> U[appendBeeDetectionData/appendCellDetectionData]
+    U --> V[Update Dexie via modify]
 ```
 
-### ⚙️ Configuration
-
-**Frontend Configuration**
-```typescript
-const ZOOM_CONFIG = {
-  min: 1.0,
-  max: 20.0,
-  step: 0.1,
-  wheelSensitivity: 0.001,
-};
-
-const IMAGE_SIZES = {
-  small: 200,
-  medium: 800,
-  large: 1600,
-};
-
-const DETECTION_COLORS = {
-  bee: '#FFD700',
-  queen: '#FF1493',
-  cell: '#4169E1',
-  varroa: '#FF0000',
-  cup: '#FF6347',
-};
-```
 
 ### 🧪 Testing
 
@@ -278,12 +311,12 @@ const DETECTION_COLORS = {
 - Drawing with many paths (over 100) affects undo performance
 
 ### 🚫 Technical Limitations
-- No pan support yet (zoom only)
-- Maximum zoom 20x (may pixelate at high zoom)
+- Maximum zoom 100x (may pixelate at extreme zoom levels)
 - Drawing tools limited to freehand (no shapes, text)
 - No collaborative annotation (single user only)
 - Annotations not versioned (overwrite on save)
 - Mobile performance degraded with very large images
+- Zoom disabled on mobile devices (< 1200px width)
 
 ### 🔗 Related Documentation
 - [Frame Photo Upload Technical Documentation](./frame-photo-upload.md)
@@ -291,19 +324,18 @@ const DETECTION_COLORS = {
 - [Cell Detection Technical Documentation](./cell-detection.md)
 
 ### 📚 Development Resources
-- [web-app FrameSideViewer component](https://github.com/Gratheon/web-app/src/components/FrameSideViewer)
+- [web-app frame components](https://github.com/Gratheon/web-app/tree/main/src/page/hiveEdit/frame)
+- [image-splitter GraphQL resolvers](https://github.com/Gratheon/image-splitter/blob/main/src/graphql/resolvers.ts)
 - [Canvas API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Pointer Events API](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events)
 
 ### 💬 Technical Notes
-- Consider adding pan support for better navigation at high zoom levels
+- Pan support is implemented but could be improved with touch gestures
 - WebGL renderer may improve performance for many detections
 - Consider WebP format for smaller image sizes with same quality
 - Drawing tool could benefit from SVG overlay instead of Canvas for better quality
-- Touch gestures (pinch zoom) would improve mobile experience
+- Touch gestures (pinch zoom) would improve mobile experience (currently zoom disabled on mobile)
 - Consider adding measurement tools (ruler, area calculator)
 
 ---
 **Last Updated**: December 5, 2025
-**Maintained By**: Frontend Team
-

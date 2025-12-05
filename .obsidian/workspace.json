@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web-app/features/bottom-board-management.md",
+                "file": "docs/web-app/features/frame-side-management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bottom-board-management"
+              "title": "frame-side-management"
             }
           }
         ]
@@ -178,19 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "51574da3e80e0722",
   "lastOpenFiles": [
+    "docs/web-app/features/queen-detection.md",
+    "docs/web-app/features/queen-management.md",
+    "docs/web-app/features/bottom-board-management.md",
     "docs/web-app/features/hive-management.md",
     "docs/web-app/features/frame-side-management.md",
     "docs/web-app/features/user-profile-editing.md",
     "docs/web-app/features/user-registration.md",
     "docs/web-app/features/frame-photo-upload.md",
     "docs/web-app/features/join-colonies.md",
-    "docs/web-app/features/queen-management.md",
-    "docs/web-app/features/queen-detection.md",
     "docs/web-app/features/split-colony.md",
     "docs/web-app/features/apiary-management.md",
-    "docs/web-app/features/bottom-board-management.md",
     "docs/web-app/_templates/README.md",
     "docs/web-app/_templates/feature-technical-template.md",
     "docs/web-app/web-app.md",

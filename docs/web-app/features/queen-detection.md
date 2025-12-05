@@ -83,40 +83,6 @@ mutation verifyQueenDetection($detectionId: ID!, $verified: Boolean!) {
 }
 ```
 
-#### Database Schema
-```mermaid
-erDiagram
-    frame_sides ||--o{ detections : "has many"
-    detections ||--o{ jobs : "triggers"
-    
-    frame_sides {
-        int id PK
-        int frame_id FK
-        varchar url
-        timestamp uploaded_at
-    }
-    
-    detections {
-        int id PK
-        int frame_side_id FK
-        enum detection_type "bee, queen, drone, cell, varroa, cup, beetle, ant"
-        json bbox_json "x, y, width, height"
-        float confidence "0.0 to 1.0"
-        boolean verified_by_user "null, true, false"
-        timestamp created_at
-    }
-    
-    jobs {
-        int id PK
-  type ENUM('resize', 'detect_bees', 'detect_cells', 'detect_queens', 'detect_varroa', 'detect_cups'),
-  frame_side_id INT NOT NULL,
-  status ENUM('pending', 'processing', 'completed', 'failed'),
-  retries INT DEFAULT 0,
-  error_message TEXT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  processed_at TIMESTAMP NULL
-);
-```
 
 ### 🔧 Implementation Details
 
