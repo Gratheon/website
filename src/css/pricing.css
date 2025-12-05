@@ -63,10 +63,48 @@
 }
 
 .pricing-card-features li {
-  padding: 0.5rem 0;
+  padding: 0.25rem 0;
   display: flex;
   align-items: center;
   min-height: 2.5em;
+}
+
+.pricing-card-features li a {
+  color: var(--ifm-color-primary-darkest);
+  text-decoration: none;
+}
+
+.pricing-card-features li a:hover {
+  text-decoration: underline;
+}
+
+/* Pricing features and limitations sections */
+.pricing-features-section,
+.pricing-limitations-section {
+  margin-bottom: 1.5rem;
+}
+
+.pricing-features-section:last-child,
+.pricing-limitations-section:last-child {
+  margin-bottom: 0;
+}
+
+.pricing-features-section h4,
+.pricing-limitations-section h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: var(--ifm-color-emphasis-800);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+}
+
+.pricing-features-section h4 {
+  color: var(--ifm-color-success-dark);
+}
+
+.pricing-limitations-section h4 {
+  color: var(--ifm-color-emphasis-600);
 }
 
 .pricing-card-footer {

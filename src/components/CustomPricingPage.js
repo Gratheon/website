@@ -58,19 +58,27 @@ export default function CustomPricingPage() {
             <div className="pricing-card-description">Perfect for beginners</div>
           </div>
           <div className="pricing-card-body">
-            <ul className="pricing-card-features">
-              <li>🍏 Share links of hive inspections</li>
-              <li>📦 Apiary, Hive management</li>
-              <li>🖼️ Frame image uploads</li>
-              <li>🐝 Worker bee detection</li>
-              <li>👑 Queen detection</li>
-              <li>🐝 Up to 3 hives</li>
-              <li>🐝 10 frames per hive max</li>
-              <li>🐢 Low-priority AI detections</li>
-              <li>♻️ Public beehive view</li>
-              <li>♻️ QR-code generation</li>
-              <li>⛄️ 1 year image retention</li>
-            </ul>
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>📦 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/apiary-management">Apiary & Hive Management</Link></li>
+                <li>🖼️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📸 Frame side photo upload">Frame Photo Upload</Link></li>
+                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Worker bee detection">Worker Bee Detection</Link></li>
+                <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/👑 Queen detection">Queen Detection</Link></li>
+                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
+                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
+                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
+              </ul>
+            </div>
+            <div className="pricing-limitations-section">
+              <h4>Limitations</h4>
+              <ul className="pricing-card-features">
+                <li>🐝 Up to 3 hives</li>
+                <li>🐝 10 frames per hive max</li>
+                <li>🐢 Low-priority AI processing</li>
+                <li>⛄️ 1 year image retention</li>
+              </ul>
+            </div>
           </div>
           <div className="pricing-card-footer">
             <Link to="https://app.gratheon.com/account/register" className="pricing-button">Get Started</Link>
@@ -86,24 +94,35 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="pricing-card-body">
-            <ul className="pricing-card-features">
-              <li>🍏 AI-assisted frame analysis</li>
-              <li>📓 Inspections (up to 10 per hive)</li>
-              <li>🍏 Treatments</li>
-              <li>🧑‍🚀 1 user max</li>
-              <li>📈 Hive telemetry storage (1 hour resolution)</li>
-              <li>🐝 Up to 20 beehives</li>
-              <li>🐝 30 frames per beehive</li>
-              <li>⛄️ 2 year image retention</li>
-              <li>🔔 Alert management (in development)</li>
-            </ul>
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
+                <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
+                <li>🧮 &nbsp;<Link to="/about/products/web_app/starter-tier/🧮 Hive bottom board & varroa monitoring">Varroa Monitoring</Link></li>
+                <li>📺 &nbsp;<Link to="/about/products/web_app/starter-tier/📺 Video streaming playback">Video Stream Playback</Link></li>
+                <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
+                <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
+                <li>📈 Hive telemetry storage (1 hour resolution)</li>
+                <li>🔔 Alert management</li>
+              </ul>
+            </div>
+            <div className="pricing-limitations-section">
+              <h4>Limitations</h4>
+              <ul className="pricing-card-features">
+                <li>🧑‍🚀 1 user account</li>
+                <li>🐝 Up to 20 hives</li>
+                <li>🐝 30 frames per hive</li>
+                <li>⛄️ 2 year image retention</li>
+              </ul>
+            </div>
           </div>
           <div className="pricing-card-footer">
             <Link to="https://app.gratheon.com/account/register" className="pricing-button">Start Free Trial</Link>
           </div>
         </div>
 
-        <div className="pricing-card featured professional" style={{ opacity: 0.6 }}>
+        <div className="pricing-card featured professional">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
             <div className="pricing-card-price">€49<span style={{ fontSize: "1rem" }}> / month</span></div>
@@ -123,20 +142,29 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="pricing-card-body">
-            <ul className="pricing-card-features">
-              <li>📈 Hive telemetry storage (10 min resolution)</li>
-              <li>📊 Timeseries data management & analytics</li>
-              <li>🔔 Timeseries Anomaly detection</li>
-              <li>📓 Inspections (up to 20 per hive)</li>
-              <li>🧑‍🚀 Up to 20 user accounts</li>
-              <li>↔️ Create colony split</li>
-              <li>🫶🏻 Join multiple colonies</li>
-              <li>♻️ Hive ownership transfer</li>
-              <li>⚖️ Colony comparison</li>
-              <li>📦 Inventory management</li>
-              <li>🐝 Up to 150 beehives</li>
-              <li>⛄️ 2 year image retention</li>
-            </ul>
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>📈 Hive telemetry storage (10 min resolution)</li>
+                <li>📊 Timeseries data analytics & anomaly detection</li>
+                <li>🔔 Smart alert system</li>
+                <li>↔️ &nbsp;<Link to="/about/products/web_app/pro-tier/split_bee_colony">Colony Split Management</Link></li>
+                <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/pro-tier/join_bee_colonies">Colony Joining Tool</Link></li>
+                <li>♻️ Hive ownership transfer</li>
+                <li>⚖️ Colony comparison analytics</li>
+                <li>📦 Inventory management system</li>
+                <li>📅 Advanced treatment tracking</li>
+                <li>📓 Unlimited inspections per hive</li>
+              </ul>
+            </div>
+            <div className="pricing-limitations-section">
+              <h4>Limitations</h4>
+              <ul className="pricing-card-features">
+                <li>🧑‍🚀 Up to 20 user accounts</li>
+                <li>🐝 Up to 150 hives</li>
+                <li>⛄️ 2 year image retention</li>
+              </ul>
+            </div>
           </div>
           <div className="pricing-card-footer">
             <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
@@ -144,7 +172,7 @@ export default function CustomPricingPage() {
         </div>
 
 
-        <div className="pricing-card featured flexible" style={{ opacity: 0.6 }}>
+        <div className="pricing-card featured flexible">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
             <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> for 1000 tokens*</span></div>
@@ -162,16 +190,23 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="pricing-card-body">
-            <ul className="pricing-card-features">
-              <li>📈 Hive telemetry (up to 30 sec resolution)</li>
-              <li>🎥 Entrance-observer metrics & video storage</li>
-              <li>📲 SMS alerts</li>
-              <li>🪝 Webhooks integration</li>
-              <li>📦 Unlimited hive management</li>
-              <li>🖼️ Unlimited frame uploads & analysis</li>
-              <li>📓 Unlimited beehive inspections</li>
-              <li>⛄️ Unlimited image retention</li>
-            </ul>
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>📈 High-resolution telemetry (up to 30 sec)</li>
+                <li>🎥 Entrance observer video analytics</li>
+                <li>📲 SMS alert notifications</li>
+                <li>🪝 Webhooks & API integrations</li>
+                <li>📦 Unlimited hive management</li>
+                <li>🖼️ Unlimited frame analysis</li>
+                <li>📓 Unlimited inspection history</li>
+                <li>🧑‍🚀 Unlimited user accounts</li>
+                <li>🔬 Research data access & export</li>
+                <li>🏢 Enterprise support & SLA</li>
+                <li>🛠️ Custom integrations</li>
+                <li>⛄️ Unlimited data retention</li>
+              </ul>
+            </div>
           </div>
           <div className="pricing-card-footer">
             <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
