@@ -326,7 +326,6 @@ MAX_FRAMES_PER_BOX=12
 - [Apiary Management Technical Documentation](./apiary-management.md)
 - [Split Colony Technical Documentation](./split-colony.md)
 - [Join Colonies Technical Documentation](./join-colonies.md)
-- [Box Management Technical Documentation](./box-management.md)
 
 ### 📚 Development Resources
 - [swarm-api repository](https://github.com/Gratheon/swarm-api)

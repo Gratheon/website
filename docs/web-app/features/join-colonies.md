@@ -227,7 +227,6 @@ Location: `swarm-api/src/hives/hives_test.go`
 ### 🔗 Related Documentation
 - [Split Colony Technical Documentation](./split-colony.md)
 - [Hive Management](./hive-management.md)
-- [Box Management](./box-management.md)
 - [Real-time Events](../Tech%20stack%2C%20conventions%2C%20environments.md)
 
 ### 📚 Development Resources

@@ -42,8 +42,6 @@ When a colony swarms, confirm the remaining queen or verify new queen cells are 
 - May produce false positives
 - Always verify AI detections visually
 
-### 📖 Learn More
-For technical implementation details, model specifications, and developer documentation, see [Queen Detection Technical Documentation](../../../../docs/web-app/features/queen-detection.md)
 
 ---
 **Last Updated**: December 5, 2025

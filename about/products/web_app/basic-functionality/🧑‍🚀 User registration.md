@@ -39,8 +39,6 @@ Enables new users to create accounts on the Gratheon platform with email verific
 ### 🌍 Automatic Language Detection
 The app automatically detects your preferred language from your browser settings and sets up your account accordingly. You can change the language anytime in your profile settings.
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [User Registration Technical Documentation](../../../../docs/web-app/features/user-registration.md)
 
 ---
 **Last Updated**: December 5, 2025

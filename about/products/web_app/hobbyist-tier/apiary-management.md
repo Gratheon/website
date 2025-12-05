@@ -46,8 +46,6 @@ Track hives moved for pollination contracts by creating apiaries for different s
 - Include notes about access, parking, or site conditions
 - Group hives that you inspect together
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [Apiary Management Technical Documentation](../../../../docs/web-app/features/apiary-management.md)
 
 ---
 **Last Updated**: December 5, 2025

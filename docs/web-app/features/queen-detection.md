@@ -218,7 +218,6 @@ Test images available in:
 ### 🔗 Related Documentation
 - [Queen Management](./queen-management.md)
 - [Frame Photo Upload](./frame-photo-upload.md)
-- [Worker Bee Detection](./worker-bee-detection.md)
 - [models-bee-detector](https://github.com/Gratheon/models-bee-detector)
 - [Clarifai Documentation](https://docs.clarifai.com/)
 

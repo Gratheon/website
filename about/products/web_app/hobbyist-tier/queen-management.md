@@ -59,8 +59,6 @@ When you upload frame photos, AI detection may identify queens. You can:
 - Confirm or reject AI detections
 - Manually mark queen presence if AI missed her
 
-### 📖 Learn More
-For technical implementation details, database schema, and developer documentation, see [Queen Management Technical Documentation](../../../../docs/web-app/features/queen-management.md)
 
 ---
 **Last Updated**: December 5, 2025

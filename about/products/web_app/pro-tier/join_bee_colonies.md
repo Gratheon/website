@@ -79,8 +79,6 @@ The system intelligently handles the merge:
 - **Status Updates**: Source hive marked as "merged", target stays active
 - **History Tracking**: Complete merge timeline with dates and queen decisions
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [Join Colonies Technical Documentation](../../../../docs/web-app/features/join-colonies.md)
 
 ---
 **Last Updated**: December 5, 2025
@@ -200,8 +198,4 @@ The digital merge in the app represents the logistics. Physical colony merge req
 - Frontend: `web-app/src/page/hiveEdit/JoinColonyModal.module.less`
 - Migration: `swarm-api/migrations/20251205130000_add_hive_merge_tracking.sql`
 
-**Documentation:**
-- [Technical Implementation Guide](../../../docs/📱%20Web-app/Join%20Colony.md)
-- [GraphQL API Reference](../../../docs/API/GraphQL.md)
-- [Database Schemas](../../../docs/📱%20Web-app/🥞%20DB%20schemas/)
 

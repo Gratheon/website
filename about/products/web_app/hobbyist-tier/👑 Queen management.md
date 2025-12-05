@@ -59,8 +59,6 @@ After splitting a hive, track which colony got the original queen and monitor th
 ### 🔍 Integration with Detection
 Works with automated queen detection - when AI finds a queen in your photo, you'll see a suggestion to mark that frame. You can confirm or override AI detections.
 
-### 📖 Learn More
-For technical implementation details, database schema, API specifications, and developer documentation, see [Queen Management Technical Documentation](../../../../docs/web-app/features/queen-management.md)
 
 ---
 **Last Updated**: December 5, 2025

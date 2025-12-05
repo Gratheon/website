@@ -321,7 +321,6 @@ graph TB
 ### 🔗 Related Documentation
 - [Frame Photo Upload Technical Documentation](./frame-photo-upload.md)
 - [Queen Detection Technical Documentation](./queen-detection.md)
-- [Cell Detection Technical Documentation](./cell-detection.md)
 
 ### 📚 Development Resources
 - [web-app frame components](https://github.com/Gratheon/web-app/tree/main/src/page/hiveEdit/frame)

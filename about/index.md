@@ -40,5 +40,4 @@ By our calculation the market opportunity for a single device is over 150M ARR e
 - 🫀 12+ [volunteering contributors](volunteer.md)
 - 🚀 Bootstrapping, pre-seed phase
 - 🪽 looking for angel investments for IoT field testing
-- 📊 [Product and Usage Metrics](products/web_app/Product%20and%20Usage%20Metrics.md)
 

@@ -279,7 +279,6 @@ Manual test scenarios:
 
 ### 🔗 Related Documentation
 - [Hive Management](./hive-management.md)
-- [Hive Section Management](./hive-section-management.md)
 - [Split Colony](./split-colony.md) - Creates new hive in same apiary
 - [swarm-api Service](https://github.com/Gratheon/swarm-api)
 

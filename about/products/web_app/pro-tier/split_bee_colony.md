@@ -62,8 +62,6 @@ Build nucleus colonies for sale by selecting 3-5 quality frames with brood patte
 - ⚠️ **Caution**: Late summer (less time to build up)
 - ❌ **Avoid**: Late fall or winter
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [Split Colony Technical Documentation](../../../../docs/web-app/features/split-colony.md)
 
 ---
 **Last Updated**: December 5, 2025

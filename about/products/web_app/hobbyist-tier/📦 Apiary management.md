@@ -53,8 +53,6 @@ View all your apiaries on an interactive map:
 - Identify which locations need attention
 - Perfect for planning expansion to new locations
 
-### 📖 Learn More
-For technical implementation details, database schema, API specifications, and developer documentation, see [Apiary Management Technical Documentation](../../../../docs/web-app/features/apiary-management.md)
 
 ---
 **Last Updated**: December 5, 2025

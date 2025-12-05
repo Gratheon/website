@@ -61,8 +61,6 @@ Track how many boxes and frames each hive has. When adding supers or removing ho
 - Associate scales for weight-based honey flow tracking
 - View all sensor data in context of individual hive
 
-### 📖 Learn More
-For technical implementation details, database schema, API specifications, and developer documentation, see [Hive Management Technical Documentation](../../../../docs/web-app/features/hive-management.md)
 
 ---
 **Last Updated**: December 5, 2025

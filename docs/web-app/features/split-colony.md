@@ -153,7 +153,6 @@ No special configuration required. Uses existing swarm-api database connection a
 
 ### 🔗 Related Documentation
 - [Join Colonies Technical Documentation](./join-colonies.md)
-- [Frame Management](./frame-management.md)
 - [Hive Management](./hive-management.md)
 
 ### 📚 Development Resources

@@ -204,10 +204,7 @@ BCRYPT_COST=12
 - No CAPTCHA or bot protection (may add if spam becomes issue)
 
 ### 🔗 Related Documentation
-- [User Login Technical Documentation](./user-login.md)
-- [User Profile Technical Documentation](./user-profile.md)
-- [Email Service Documentation](../email-service.md)
-- [Authentication Architecture](../authentication.md)
+- [User Profile Editing Technical Documentation](./user-profile-editing.md)
 
 ### 📚 Development Resources
 - [user-cycle repository](https://github.com/Gratheon/user-cycle)

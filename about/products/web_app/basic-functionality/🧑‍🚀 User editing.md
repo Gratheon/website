@@ -72,8 +72,6 @@ Changes apply immediately across the entire interface.
 - Email changes may require verification (confirmation email sent)
 - You'll be notified of any security-related account changes
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [User Profile Editing Technical Documentation](../../../../docs/web-app/features/user-profile-editing.md)
 
 ---
 **Last Updated**: December 5, 2025

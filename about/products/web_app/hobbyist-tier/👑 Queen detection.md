@@ -51,8 +51,6 @@ If AI doesn't detect a queen over 2-3 consecutive inspections, you'll get an ear
 - **False Positives**: May occasionally mark large worker bees or drones as queens
 - **Model Improvement**: We're actively training better models with more data
 
-### 📖 Learn More
-For technical implementation details, AI model specifications, and developer documentation, see [Queen Detection Technical Documentation](../../../../docs/web-app/features/queen-detection.md)
 
 ---
 **Last Updated**: December 5, 2025

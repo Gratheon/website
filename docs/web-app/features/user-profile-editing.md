@@ -231,9 +231,6 @@ ALLOWED_LANGUAGES=en,ru,uk,et,de,fr,es
 
 ### 🔗 Related Documentation
 - [User Registration Technical Documentation](./user-registration.md)
-- [User Login Technical Documentation](./user-login.md)
-- [Account Deletion Technical Documentation](./account-deletion.md)
-- [Localization System](../localization.md)
 
 ### 📚 Development Resources
 - [user-cycle repository](https://github.com/Gratheon/user-cycle)

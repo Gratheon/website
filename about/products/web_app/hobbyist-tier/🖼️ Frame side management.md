@@ -69,8 +69,6 @@ Toggle visibility for:
 - High-contrast overlays for easy visibility
 - Smooth zoom transitions
 
-### 📖 Learn More
-For technical implementation details, canvas rendering specs, and developer documentation, see [Frame Side Management Technical Documentation](../../../../docs/web-app/features/frame-side-management.md)
 
 ---
 **Last Updated**: December 5, 2025

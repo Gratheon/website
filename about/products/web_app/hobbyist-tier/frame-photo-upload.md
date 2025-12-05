@@ -62,9 +62,6 @@ Once uploaded, your photos are automatically analyzed for:
 - 🔴 Varroa mites
 
 
-### 📖 Learn More
-For technical implementation details, API specifications, and developer documentation, see [Frame Photo Upload Technical Documentation](../../../../docs/web-app/features/frame-photo-upload.md)
-
 ---
 **Last Updated**: December 5, 2025
 

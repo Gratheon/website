@@ -36,8 +36,6 @@ Log in once on your phone in the field, once on your computer at home - auto-log
 **Forgot Password**
 Use the password reset link to receive recovery email and regain access to your account quickly.
 
-### 📖 Learn More
-For technical implementation details, see [User Authentication Technical Documentation](../../../../docs/web-app/features/user-authentication.md)
 
 ---
 **Last Updated**: December 5, 2025

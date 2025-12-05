@@ -248,7 +248,6 @@ graph TB
 
 ### 🔗 Related Documentation
 - [Frame Side Management](./frame-side-management.md)
-- [Frame Analysis - Bee Counter](./bee-counter.md)
 - [Queen Detection](./queen-detection.md)
 - [image-splitter Service](https://github.com/Gratheon/image-splitter)
 - [models-bee-detector](https://github.com/Gratheon/models-bee-detector)
