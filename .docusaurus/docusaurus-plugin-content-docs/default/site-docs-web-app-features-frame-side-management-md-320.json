@@ -1,0 +1,24 @@
+{
+  "id": "web-app/features/frame-side-management",
+  "title": "frame-side-management",
+  "description": "",
+  "source": "@site/docs/web-app/features/frame-side-management.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/frame-side-management",
+  "permalink": "/docs/web-app/features/frame-side-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/frame-side-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
+  },
+  "next": {
+    "title": "hive-management",
+    "permalink": "/docs/web-app/features/hive-management"
+  }
+}

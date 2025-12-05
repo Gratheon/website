@@ -23,6 +23,44 @@ Queen bee lifecycle and breeding information management system tracking presence
 ### 📋 Technical Specifications
 
 #### Database Schema
+```mermaid
+erDiagram
+    hives ||--o| families : "has queen"
+    frame_sides ||--o{ detections : "has detections"
+    hives ||--o{ boxes : "contains"
+    boxes ||--o{ frames : "contains"
+    frames ||--|| frame_sides : "has two sides"
+    
+    hives {
+        int id PK
+        int apiary_id FK
+        varchar name
+        int family_id FK "links to queen info"
+    }
+    
+    families {
+        int id PK
+        varchar race "Carniolan, Italian, Russian, etc"
+        varchar added "year marked: 2023, 2024, 2025"
+        datetime last_treatment
+    }
+    
+    frame_sides {
+        int id PK
+        int frame_id FK
+        boolean has_queen "manual override"
+    }
+    
+    detections {
+        int id PK
+        int frame_side_id FK
+        enum detection_type "queen, bee, drone, etc"
+        json bbox_json
+        float confidence
+        boolean verified_by_user
+        timestamp created_at
+    }
+```
 
 #### GraphQL API
 ```graphql

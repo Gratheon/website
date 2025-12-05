@@ -178,8 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51574da3e80e0722",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/web-app/features/hive-management.md",
+    "docs/web-app/features/frame-side-management.md",
+    "docs/web-app/features/user-profile-editing.md",
+    "docs/web-app/features/user-registration.md",
     "docs/web-app/features/frame-photo-upload.md",
     "docs/web-app/features/join-colonies.md",
     "docs/web-app/features/queen-management.md",
@@ -222,10 +226,6 @@
     "public/img/queens.webp",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
-    "about/products/web_app/pro-tier/split_bee_colony.md",
-    "about/products/web_app/web_app.md",
-    "about/products/web_app/Product and Usage Metrics.md",
-    "about/products/web_app/hobbyist-tier/split_bee_colony.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/hobbyist-tier/👑 Queen management",
-  "title": "👑 Queen management",
-  "description": "Status beta | Priority: high",
+  "title": "👑 Queen Management",
+  "description": "🎯 Purpose",
   "source": "@site/about/products/web_app/hobbyist-tier/👑 Queen management.md",
   "sourceDirName": "products/web_app/hobbyist-tier",
   "slug": "/products/web_app/hobbyist-tier/👑 Queen management",
@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "status": "complete",
+    "title": "👑 Queen Management"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "👑 Queen Detection",
     "permalink": "/about/products/web_app/hobbyist-tier/👑 Queen detection"
   },
   "next": {
-    "title": "📦 Apiary management",
+    "title": "📦 Apiary Management",
     "permalink": "/about/products/web_app/hobbyist-tier/📦 Apiary management"
   }
 }

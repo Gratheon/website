@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Queen Management - Technical Documentation",
-    "permalink": "/docs/web-app/features/queen-management"
+    "title": "User Profile Editing - Technical Documentation",
+    "permalink": "/docs/web-app/features/user-profile-editing"
   },
   "next": {
-    "title": "gate-video-stream",
-    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+    "title": "frame-side-management",
+    "permalink": "/docs/web-app/features/frame-side-management"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "web-app/features/hive-management",
+  "title": "hive-management",
+  "description": "",
+  "source": "@site/docs/web-app/features/hive-management.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/hive-management",
+  "permalink": "/docs/web-app/features/hive-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/hive-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frame-side-management",
+    "permalink": "/docs/web-app/features/frame-side-management"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+  }
+}

@@ -371,6 +371,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/frame-side-management",
+              "path": "/docs/web-app/features/frame-side-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/hive-management",
+              "path": "/docs/web-app/features/hive-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/features/join-colonies",
               "path": "/docs/web-app/features/join-colonies",
               "sidebar": "tutorialSidebar"
@@ -388,6 +398,16 @@
             {
               "id": "web-app/features/split-colony",
               "path": "/docs/web-app/features/split-colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/user-profile-editing",
+              "path": "/docs/web-app/features/user-profile-editing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/user-registration",
+              "path": "/docs/web-app/features/user-registration",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1656,15 +1656,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6d3'),
+    component: ComponentCreator('/docs', 'fe4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'be8'),
+        component: ComponentCreator('/docs', 'a2b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4f2'),
+            component: ComponentCreator('/docs', 'f53'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2105,6 +2105,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/web-app/features/frame-side-management',
+                component: ComponentCreator('/docs/web-app/features/frame-side-management', '5b3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/hive-management',
+                component: ComponentCreator('/docs/web-app/features/hive-management', '14f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/web-app/features/join-colonies',
                 component: ComponentCreator('/docs/web-app/features/join-colonies', '46b'),
                 exact: true,
@@ -2125,6 +2137,18 @@ export default [
               {
                 path: '/docs/web-app/features/split-colony',
                 component: ComponentCreator('/docs/web-app/features/split-colony', '5d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/user-profile-editing',
+                component: ComponentCreator('/docs/web-app/features/user-profile-editing', 'ea9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/user-registration',
+                component: ComponentCreator('/docs/web-app/features/user-registration', 'ee2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

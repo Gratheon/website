@@ -1,71 +1,66 @@
-# 👑 Queen management
-
-**Status**: `feature` | **Development Stage**: `beta` | **Priority**: `high`
+---
+status: complete
+title: 👑 Queen Management
+---
 
 ### 🎯 Purpose
-Provides comprehensive queen bee tracking and management including lifecycle stages, breeding information, and presence monitoring for colony health assessment.
+Track your queen's lifecycle, breeding information, and location history to monitor colony reproductive health and make informed decisions about requeening or breeding programs.
 
 ### 🎭 User Story
 - As a beekeeper managing multiple colonies
-- I want to track queen status, breeding information, and lifecycle stages
-- So that I can monitor colony reproductive health and plan breeding or replacement activities
+- I want to track which frames have queens and monitor their lifecycle status
+- So that I can quickly diagnose reproductive issues and maintain healthy colonies
 
 ### 🚀 Key Benefits
-- **Lifecycle tracking**: Monitor queen development from cup to laying queen
-- **Breeding records**: Track queen race, year, and genetic information
-- **Colony health insights**: Understand brood patterns based on queen status
-- **Timeline management**: Historical tracking of queen presence and activities
+- **Lifecycle Tracking**: Monitor your queen's stage from virgin to laying to old & infertile
+- **Breeding Records**: Document queen race, year, and genetics for lineage tracking
+- **Location History**: Remember which frames your queen prefers over time
+- **Health Diagnosis**: Understand if missing brood is due to queenless colony or unmated queen
+- **Timeline View**: See when your queen was last spotted and track status changes
+- **Breeding Planning**: Track queen ages across your apiary to plan replacements
 
-### 🔧 Technical Overview
-Queen management system tracking presence, breeding details, and lifecycle stages. Integrates with frame analysis for automated queen detection and provides manual override capabilities for beekeepers to maintain accurate records.
+### 💡 Use Cases
 
-### 📋 Acceptance Criteria
-- Toggle queen presence on specific frame sides within hives
-- Record queen race, year, and breeding information
-- Track queen lifecycle stages: queen cup → virgin → mating → laying → old & infertile
-- Timeline calendar showing when queen was last seen and status changes
-- Integration with automated queen detection from frame analysis
-- Status indicators to help diagnose missing brood causes (no queen vs unmated queen)
-- Historical records of queen replacement and breeding activities
+**Track Queen Age**
+Mark your queen with year color and record it in the app. Get reminders when queens reach 2-3 years old and may need replacement.
 
-### 🚫 Out of Scope
-- Automated queen health assessment
-- Breeding program optimization recommendations
-- Genetic analysis integration
-- Commercial breeding record management
+**Diagnose Reproductive Issues**
+No brood in your hive? Check queen status: if marked as "virgin" or "mating", she may not be laying yet. If status is "old & infertile", time to requeen.
 
-### 🏗️ Implementation Approach
-- **Database**: Queen records with lifecycle stages and breeding metadata
-- **Frontend**: Queen management interface with timeline visualization
-- **Integration**: Links with frame analysis and automated queen detection
-- **Timeline**: Calendar-based tracking of queen status changes
-- **Validation**: Logic to correlate queen status with brood patterns
+**Breeding Program Management**
+Track which hives have queens from your best colonies. Record queen genetics and race to maintain desirable traits across your operation.
 
-### 📊 Success Metrics
-- Queen presence tracking accuracy >90%
-- Timeline data completeness for active queens
-- User engagement with lifecycle tracking features
-- Correlation accuracy between queen status and brood health
-- Integration success rate with automated detection systems
+**Post-Split Queen Tracking**
+After splitting a hive, track which colony got the original queen and monitor the other for new queen emergence and mating flights.
 
-### 🔗 Related Features
-- [👑 Queen detection](👑%20Queen%20detection.md)
-- [📦 Hive management](📦%20Hive%20management.md)
-- [🖼️ Frame side management](🖼️%20Frame%20side%20management.md)
-- [🐝 Frame analysis - bee counter](🐝%20Frame%20analysis%20-%20bee%20counter.md)
+### 🎓 How to Use
 
-### 📚 Resources & References
-- [Queen detection documentation](https://www.notion.so/Queen-detection-6efc6b5e9eac4d79a622abb89abdfde9?pvs=21)
-- Queen lifecycle management guidelines
-- Breeding record best practices
+1. **Mark queen location** - When you spot your queen on a frame, mark that frame in the app
+2. **Set lifecycle stage** - Update status: queen cup → virgin → mating → laying → old & infertile
+3. **Record breeding info** - Add queen race, year marked, and genetics if known
+4. **Track over time** - Timeline shows queen sightings and status changes
+5. **Plan replacements** - View all queens in your apiary sorted by age
 
-### 💬 Notes
-Advanced feature building on automated queen detection. Timeline helps beekeepers understand if missing brood is due to queenless condition or unmated queen status.
+#### 👑 Queen Lifecycle Stages
 
-**Key Lifecycle Stages:**
-- Queen cup → Virgin → Mating → Laying → Old & infertile
-- Timeline correlation with brood patterns for colony health assessment
+- **Queen Cup** - Colony is raising a new queen
+- **Virgin** - New queen emerged but not yet mated (7-14 days)
+- **Mating** - Queen is on mating flights (1-2 weeks)
+- **Laying** - Actively laying eggs (1-3 years typical lifespan)
+- **Old & Infertile** - Reduced laying or drone-laying queen (time to replace)
+
+#### 🎨 Queen Marking by Year
+- White - 2021, 2026
+- Yellow - 2022, 2027
+- Red - 2023, 2028
+- Green - 2024, 2029
+- Blue - 2025, 2030
+
+### 🔍 Integration with Detection
+Works with automated queen detection - when AI finds a queen in your photo, you'll see a suggestion to mark that frame. You can confirm or override AI detections.
+
+### 📖 Learn More
+For technical implementation details, database schema, API specifications, and developer documentation, see [Queen Management Technical Documentation](../../../../docs/web-app/features/queen-management.md)
 
 ---
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+**Last Updated**: December 5, 2025

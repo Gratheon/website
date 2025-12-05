@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/hobbyist-tier/🖼️ Frame side management",
-  "title": "🖼️ Frame side management",
-  "description": "Upload & detection",
+  "title": "🖼️ Frame Side Management",
+  "description": "🎯 Purpose",
   "source": "@site/about/products/web_app/hobbyist-tier/🖼️ Frame side management.md",
   "sourceDirName": "products/web_app/hobbyist-tier",
   "slug": "/products/web_app/hobbyist-tier/🖼️ Frame side management",
@@ -11,7 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "status": "complete"
+    "status": "complete",
+    "title": "🖼️ Frame Side Management"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

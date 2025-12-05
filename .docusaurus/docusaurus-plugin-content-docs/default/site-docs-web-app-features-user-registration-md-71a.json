@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/user-registration",
+  "title": "User Registration - Technical Documentation",
+  "description": "🎯 Overview",
+  "source": "@site/docs/web-app/features/user-registration.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/user-registration",
+  "permalink": "/docs/web-app/features/user-registration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/user-registration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
+  },
+  "next": {
+    "title": "User Profile Editing - Technical Documentation",
+    "permalink": "/docs/web-app/features/user-profile-editing"
+  }
+}

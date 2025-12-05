@@ -1,70 +1,60 @@
 ---
 status: complete
+title: 📦 Apiary Management
 ---
 
-# 📦 Apiary management
-
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Purpose
-Enables beekeepers to create and manage apiaries (collections of hives) for organizing multiple colonies by location, owner, or management approach.
+Organize your beehives into apiaries based on location, making it easy to manage multiple sites and plan efficient inspection routes across all your bee yards.
 
 ### 🎭 User Story
 - As a beekeeper with hives in multiple locations
-- I want to organize my hives into different apiaries
-- So that I can manage colonies by geographic location, ownership, or operational groups
+- I want to organize my hives into different apiaries by location
+- So that I can efficiently manage colonies across different sites and plan my inspection visits
 
 ### 🚀 Key Benefits
-- **Location-based organization**: Group hives by physical location or site
-- **Management efficiency**: Organize colonies for easier planning and inspection routes
-- **Multi-site operations**: Support for beekeepers managing multiple locations
-- **Operational grouping**: Flexible apiary creation for different management approaches
+- **Location-Based Organization**: Group hives by bee yard location (home apiary, out-yard, farm, etc.)
+- **Map Visualization**: See all your apiaries on a map with GPS coordinates
+- **Efficient Route Planning**: Organize inspection schedules by location to minimize travel
+- **Multi-Site Management**: Perfect for beekeepers with hives in backyard, community gardens, farms, and remote locations
+- **Quick Navigation**: Jump directly to any hive in any apiary with organized hierarchy
 
-### 🔧 Technical Overview
-Apiary management system providing hierarchical organization of beehives into location-based or operational groups. Supports multiple apiaries per user with individual naming, location tracking, and hive associations.
+### 💡 Use Cases
 
-### 📋 Acceptance Criteria
-- Create new apiaries with name, location, and description
-- Edit apiary details including GPS coordinates and management notes
-- Delete apiaries with proper hive reassignment or confirmation
-- Associate multiple hives with each apiary
-- GPS coordinate tracking and address lookup for apiary locations
-- Visual map display of apiary locations
-- Bulk operations for hives within an apiary
+**Hobby Beekeeper with Multiple Locations**
+Keep 3 hives in your backyard and 2 at a friend's farm. Create "Home Apiary" and "Farm Apiary" to organize them separately for easier management.
 
-### 🚫 Out of Scope
-- Weather integration for apiary locations
-- Automated apiary recommendations based on location
-- Regulatory compliance tracking per location
-- Commercial apiary licensing management
+**Urban Beekeeper**
+Manage hives across community gardens, rooftops, and parks. Create apiaries for each location to track which sites need attention.
 
-### 🏗️ Implementation Approach
-- **Database**: Hierarchical structure with apiary-to-hive relationships
-- **Frontend**: Apiary creation/editing with location mapping interface
-- **GPS Integration**: Location services and map visualization
-- **Bulk Operations**: Multi-hive management within apiary context
-- **Data Migration**: Hive reassignment when apiaries are modified
+**Sideline Beekeeper**
+Run 20-50 hives across 3-5 locations. Organize apiaries by site to plan efficient inspection routes and track performance by location.
 
-### 📊 Success Metrics
-- Apiary creation completion rate >95%
-- Hive association accuracy within apiaries
-- Location mapping functionality usage >70%
-- Multi-apiary user adoption rate
-- Bulk operation success rate for hive management
+**Commercial Pollination**
+Move hives between orchards and fields. Create temporary apiaries for each pollination contract location.
 
-### 🔗 Related Features
-- [📦 Hive management](📦%20Hive%20management.md)
-- [📦 Hive section management](📦%20Hive%20section%20management.md)
-- GPS and mapping functionality
+### 🎓 How to Use
 
-### 📚 Resources & References
-- [Apiary management interface](https://app.gratheon.com)
-- Community tier documentation
-- Location mapping guidelines
+1. **Create an apiary** - Click "Add Apiary" on your dashboard
+2. **Name your bee yard** - Give it a recognizable name (e.g., "Backyard", "Smith Farm", "Oak Street Garden")
+3. **Set location** - Add GPS coordinates to see it on map view
+4. **Add hives** - Create new hives within the apiary or move existing hives between apiaries
+5. **Manage easily** - View all hives in an apiary together, edit details, or reorganize as needed
 
-### 💬 Notes
-Higher-level organizational feature essential for beekeepers managing multiple sites or large-scale operations. Foundation for location-based analytics and management.
+#### 📍 Location Tips
+- Use descriptive names that help you remember the site
+- Add GPS coordinates for map view and directions
+- Note nearby landmarks or access instructions in apiary description
+- Keep track of property owner contact info if apiaries are on borrowed land
+
+### 🗺️ Map View
+View all your apiaries on an interactive map:
+- See distance between sites
+- Plan multi-apiary inspection routes
+- Identify which locations need attention
+- Perfect for planning expansion to new locations
+
+### 📖 Learn More
+For technical implementation details, database schema, API specifications, and developer documentation, see [Apiary Management Technical Documentation](../../../../docs/web-app/features/apiary-management.md)
 
 ---
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+**Last Updated**: December 5, 2025

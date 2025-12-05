@@ -1565,17 +1565,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-6d3": {
+  "/docs-fe4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-be8": {
+  "/docs-a2b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-4f2": {
+  "/docs-f53": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
@@ -1870,6 +1870,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-frame-photo-upload-9-ea-d3a"
   },
+  "/docs/web-app/features/frame-side-management-5b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-frame-side-management-320-b32"
+  },
+  "/docs/web-app/features/hive-management-14f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-hive-management-593-dd9"
+  },
   "/docs/web-app/features/join-colonies-46b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-join-coloniesb-5-c-3b8"
@@ -1885,6 +1893,14 @@
   "/docs/web-app/features/split-colony-5d8": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-split-colony-527-bc7"
+  },
+  "/docs/web-app/features/user-profile-editing-ea9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-user-profile-editing-3-fb-34c"
+  },
+  "/docs/web-app/features/user-registration-ee2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-user-registration-71-a-970"
   },
   "/docs/web-app/Tech stack, conventions, environments-670": {
     "__comp": "__comp---theme-doc-item-178-a40",

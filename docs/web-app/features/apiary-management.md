@@ -22,35 +22,40 @@ Hierarchical apiary management system enabling users to organize hives into loca
 ### 📋 Technical Specifications
 
 #### Database Schema
-```sql
-CREATE TABLE `apiaries` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `user_id` INT UNSIGNED NOT NULL,
-  `name` VARCHAR(250) DEFAULT NULL,
-  `lng` VARCHAR(20) DEFAULT '0',
-  `lat` VARCHAR(20) DEFAULT '0',
-  `active` TINYINT DEFAULT '1',
-  PRIMARY KEY (`id`),
-  INDEX (`user_id`, `active`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
-CREATE TABLE `hives` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `user_id` INT UNSIGNED NOT NULL,
-  `apiary_id` INT UNSIGNED NOT NULL,
-  `name` VARCHAR(100) NOT NULL,
-  `notes` TEXT,
-  `added` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  `active` TINYINT DEFAULT '1',
-  `collapse_date` DATETIME NULL,
-  `collapse_cause` VARCHAR(255) NULL,
-  `parent_hive_id` INT UNSIGNED NULL,
-  `split_date` DATETIME NULL,
-  PRIMARY KEY (`id`),
-  INDEX (`user_id`, `apiary_id`, `active`),
-  FOREIGN KEY (`apiary_id`) REFERENCES `apiaries`(`id`) ON DELETE CASCADE,
-  FOREIGN KEY (`parent_hive_id`) REFERENCES `hives`(`id`) ON DELETE SET NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+```mermaid
+erDiagram
+    users ||--o{ apiaries : "owns"
+    apiaries ||--o{ hives : "contains"
+    hives ||--o{ hives : "parent-child"
+    
+    users {
+        int id PK
+        varchar email
+        varchar password_hash
+    }
+    
+    apiaries {
+        int id PK
+        int user_id FK
+        varchar name
+        varchar lng "longitude coordinate"
+        varchar lat "latitude coordinate"
+        tinyint active "1=active, 0=inactive"
+    }
+    
+    hives {
+        int id PK
+        int user_id FK
+        int apiary_id FK
+        varchar name
+        text notes
+        timestamp added
+        tinyint active
+        datetime collapse_date "when hive died"
+        varchar collapse_cause
+        int parent_hive_id FK "for split tracking"
+        datetime split_date
+    }
 ```
 
 #### GraphQL API

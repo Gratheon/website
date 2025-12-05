@@ -1,69 +1,68 @@
 ---
 status: complete
+title: 📦 Hive Management
 ---
 
-# 📦 Hive management
-
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Purpose
-Provides core beehive management functionality allowing beekeepers to create, organize, and track individual hives within their apiaries.
+Create and manage individual hive records within your apiaries, tracking each colony's unique characteristics, equipment setup, and management history.
 
 ### 🎭 User Story
 - As a beekeeper managing multiple colonies
 - I want to create and organize individual hive records
-- So that I can track each colony's status, location, and management history separately
+- So that I can track each colony separately with its own photos, notes, and equipment
 
 ### 🚀 Key Benefits
-- **Colony organization**: Structure and track multiple hives systematically
-- **Individual tracking**: Separate records for each colony's unique characteristics
-- **Location management**: GPS coordinates and address tracking for hive placement
-- **Historical records**: Maintain timeline of hive activities and observations
+- **Digital Hive Records**: Create individual profiles for each colony with name, color, and notes
+- **Visual Organization**: Color-code your hives to match physical paint colors for easy identification
+- **Equipment Tracking**: Track boxes, frames, and sections within each hive structure
+- **Colony History**: View complete timeline of inspections, photos, and activities per hive
+- **Status Monitoring**: Mark hives as active, queenless, preparing to swarm, or collapsed
+- **Device Integration**: Connect entrance observers, scales, and sensors to specific hives
 
-### 🔧 Technical Overview
-Hive management system providing CRUD operations for individual beehive records within apiaries. Includes location tracking, hive naming, and association with sensors and monitoring equipment.
+### 💡 Use Cases
 
-### 📋 Acceptance Criteria
-- Create new hive records with name, type, and location information
-- Edit hive details including location, description, and management notes
-- Delete hive records with confirmation and data cleanup
-- Associate hives with specific apiaries for organization
-- GPS coordinate tracking and address lookup functionality
-- Hive status management (active, inactive, queenless, etc.)
-- Integration with telemetry and monitoring devices
+**New Hive Setup**
+Got a new package or nuc? Create a hive record with its starting configuration (1 box, 10 frames), add photos of the first inspection, and track growth over time.
 
-### 🚫 Out of Scope
-- Advanced hive health diagnostics (separate analysis features)
-- Automated hive recommendations
-- Cross-hive comparative analytics
-- Breeding program management
+**Color-Coded Identification**
+Paint your hives different colors? Set matching colors in the app so you can quickly identify which digital record corresponds to which physical hive in your yard.
 
-### 🏗️ Implementation Approach
-- **Database**: Hive records with apiary association and metadata
-- **Frontend**: Hive creation/editing forms with location selection
-- **GPS Integration**: Location services for coordinate tracking
-- **Device Linking**: Association with entrance observers and sensors
-- **Data Validation**: Input validation for hive parameters and constraints
+**Multi-Hive Comparison**
+Compare performance across hives in the same apiary. Which colony is bringing in the most pollen? Which needs feeding? Visual hive cards make comparison easy.
 
-### 📊 Success Metrics
-- Hive creation completion rate >95%
-- Location accuracy for GPS-enabled devices
-- Device association success rate for linked equipment
-- User engagement with hive management features >80%
-- Data integrity across hive record operations
+**Equipment Inventory**
+Track how many boxes and frames each hive has. When adding supers or removing honey, update the hive structure to maintain accurate records.
 
-### 🔗 Related Features
-- [📦 Apiary management](📦%20Apiary%20management.md)
-- [📦 Hive section management](📦%20Hive%20section%20management.md)
-- [👑 Queen management](👑%20Queen%20management.md)
+### 🎓 How to Use
 
-### 📚 Resources & References
-- [Hive management interface](https://app.gratheon.com)
-- Community tier documentation
+1. **Create a hive** - Click "Add Hive" within your chosen apiary
+2. **Name your colony** - Give it a memorable name (or use auto-generated names)
+3. **Choose colors** - Select colors matching your physical hive paint
+4. **Set structure** - Define initial boxes and frame count
+5. **Add notes** - Record colony origin, queen type, or special characteristics
+6. **Track over time** - Add inspection records, photos, and observations
 
-### 💬 Notes
-Foundational feature for beekeeping management. Essential for organizing colonies and integrating with monitoring systems.
+#### 🎨 Hive Identification Tips
+- Use distinctive names: "Yellow Powerhouse", "South Corner", "Gentle Giants"
+- Match digital colors to physical hive paint for easy field reference
+- Add notes about hive location within apiary: "closest to gate", "under oak tree"
+- Photo the hive exterior during setup for quick visual identification
+
+### 📊 Hive Status Options
+- **Active** - Normal, healthy colony
+- **Queenless** - No queen detected, may need intervention
+- **Preparing to Swarm** - Queen cells present, consider split
+- **Weak** - Low bee population, may need support
+- **Collapsed** - Colony died or absconded (historical record)
+
+### 🔗 Integration Features
+- Connect entrance observers to track bee traffic
+- Link temperature/humidity sensors for environmental monitoring
+- Associate scales for weight-based honey flow tracking
+- View all sensor data in context of individual hive
+
+### 📖 Learn More
+For technical implementation details, database schema, API specifications, and developer documentation, see [Hive Management Technical Documentation](../../../../docs/web-app/features/hive-management.md)
 
 ---
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+**Last Updated**: December 5, 2025

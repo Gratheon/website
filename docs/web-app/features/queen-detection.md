@@ -84,21 +84,30 @@ mutation verifyQueenDetection($detectionId: ID!, $verified: Boolean!) {
 ```
 
 #### Database Schema
-```sql
-CREATE TABLE detections (
-  id INT PRIMARY KEY AUTO_INCREMENT,
-  frame_side_id INT NOT NULL,
-  detection_type ENUM('bee', 'queen', 'drone', 'cell', 'varroa', 'cup', 'beetle', 'ant'),
-  bbox_json JSON,
-  confidence FLOAT,
-  verified_by_user BOOLEAN DEFAULT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  FOREIGN KEY (frame_side_id) REFERENCES frame_sides(id) ON DELETE CASCADE,
-  INDEX idx_detection_type (frame_side_id, detection_type)
-);
-
-CREATE TABLE jobs (
-  id INT PRIMARY KEY AUTO_INCREMENT,
+```mermaid
+erDiagram
+    frame_sides ||--o{ detections : "has many"
+    detections ||--o{ jobs : "triggers"
+    
+    frame_sides {
+        int id PK
+        int frame_id FK
+        varchar url
+        timestamp uploaded_at
+    }
+    
+    detections {
+        int id PK
+        int frame_side_id FK
+        enum detection_type "bee, queen, drone, cell, varroa, cup, beetle, ant"
+        json bbox_json "x, y, width, height"
+        float confidence "0.0 to 1.0"
+        boolean verified_by_user "null, true, false"
+        timestamp created_at
+    }
+    
+    jobs {
+        int id PK
   type ENUM('resize', 'detect_bees', 'detect_cells', 'detect_queens', 'detect_varroa', 'detect_cups'),
   frame_side_id INT NOT NULL,
   status ENUM('pending', 'processing', 'completed', 'failed'),

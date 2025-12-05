@@ -20,51 +20,27 @@ Enables new users to create accounts on the Gratheon platform with email verific
 - **Email verification**: Secure account activation to prevent spam and ensure valid contact
 - **Profile creation**: Automatic user profile setup for personalized experience
 
-### 🔧 Technical Overview
-Registration system with email-based account creation, automatic browser language detection during signup, and email verification workflow. Integrates with user profile database and localization system for immediate personalized experience.
+### 🎓 How to Use
 
-### 📋 Acceptance Criteria
-- Registration form accessible at app.gratheon.com/register
-- Required fields: email address and password with validation
-- Automatic browser language detection and assignment to user profile
-- Email verification sent immediately after registration
-- Account activation link in verification email
-- User profile created with detected language preference
-- Redirect to onboarding flow after successful verification
+1. **Visit registration page** - Go to [app.gratheon.com/register](https://app.gratheon.com/register)
+2. **Enter your email** - Use a valid email address you can access
+3. **Create password** - Choose a secure password (minimum 8 characters)
+4. **Submit form** - Click "Register" to create your account
+5. **Check your email** - Look for verification email (check spam folder if needed)
+6. **Verify account** - Click the activation link in the email
+7. **Start using Gratheon** - Begin setting up your apiaries and hives
 
-### 🚫 Out of Scope
-- Social media login integration (Google, Facebook, etc.)
-- Two-factor authentication during registration
-- Business/organization account types
-- Bulk user registration for teams
+#### 📧 Email Verification Tips
+- Check spam/junk folder if you don't see the email within a few minutes
+- Verification link is valid for 24 hours
+- You can request a new verification email if the link expires
+- Make sure to use an email you can access regularly for important notifications
 
-### 🏗️ Implementation Approach
-- **Frontend**: Registration form with client-side validation
-- **Backend**: User profile creation with language preference storage
-- **Email Service**: Automated verification email dispatch
-- **Language Detection**: Browser Accept-Language header parsing
-- **Database**: User profile record with language and verification status
-- **Security**: Password hashing and secure token generation for email verification
+### 🌍 Automatic Language Detection
+The app automatically detects your preferred language from your browser settings and sets up your account accordingly. You can change the language anytime in your profile settings.
 
-### 📊 Success Metrics
-- Registration form completion rate &gt;85% for users who start the process
-- Email delivery success rate &gt;95%
-- Account activation rate &gt;70% within 24 hours
-- Language detection accuracy &gt;90% for supported languages
-- Form validation error rate &lt;5%
-
-### 🔗 Related Features
-- [🌍 Localization](🌍%20Localization.md)
-- [🧑‍🚀 User login](🧑‍🚀%20User%20login.md)
-- [🧑‍🚀 User editing](🧑‍🚀%20User%20editing.md)
-
-### 📚 Resources & References
-- [User registration + password restoration flow](https://www.notion.so/User-registration-password-restoration-48f81c4ccbc748ceadf618b28eda9a39?pvs=21)
-- [Registration form at app.gratheon.com/register](https://app.gratheon.com/register)
-
-### 💬 Notes
-Core onboarding feature with automatic language detection integration. Essential for user acquisition and platform growth.
+### 📖 Learn More
+For technical implementation details, API specifications, and developer documentation, see [User Registration Technical Documentation](../../../../docs/web-app/features/user-registration.md)
 
 ---
-**Last Updated**: November 18, 2025
-**Next Review**: December 2025
+**Last Updated**: December 5, 2025

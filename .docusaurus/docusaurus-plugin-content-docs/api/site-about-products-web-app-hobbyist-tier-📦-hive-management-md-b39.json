@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/hobbyist-tier/📦 Hive management",
-  "title": "📦 Hive management",
-  "description": "Status stable | Priority: high",
+  "title": "📦 Hive Management",
+  "description": "🎯 Purpose",
   "source": "@site/about/products/web_app/hobbyist-tier/📦 Hive management.md",
   "sourceDirName": "products/web_app/hobbyist-tier",
   "slug": "/products/web_app/hobbyist-tier/📦 Hive management",
@@ -11,11 +11,12 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "status": "complete"
+    "status": "complete",
+    "title": "📦 Hive Management"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📦 Apiary management",
+    "title": "📦 Apiary Management",
     "permalink": "/about/products/web_app/hobbyist-tier/📦 Apiary management"
   },
   "next": {

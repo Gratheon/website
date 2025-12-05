@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/basic-functionality/🧑‍🚀 User editing",
-  "title": "🧑‍🚀 User editing",
-  "description": "Status stable | Priority: medium",
+  "title": "🧑‍🚀 User Profile Editing",
+  "description": "🎯 Purpose",
   "source": "@site/about/products/web_app/basic-functionality/🧑‍🚀 User editing.md",
   "sourceDirName": "products/web_app/basic-functionality",
   "slug": "/products/web_app/basic-functionality/🧑‍🚀 User editing",
@@ -11,7 +11,8 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "status": "complete"
+    "status": "complete",
+    "title": "🧑‍🚀 User Profile Editing"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
