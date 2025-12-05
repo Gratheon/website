@@ -180,6 +180,7 @@
   },
   "active": "51574da3e80e0722",
   "lastOpenFiles": [
+    "_setup-env.sh",
     "node_modules/@mermaid-js",
     "node_modules/@types",
     "public/blog/atom.xml",
@@ -190,7 +191,6 @@
     "public/blog/atom.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/wifi-exposure/index.html",
     "public/favicons/safari-pinned-tab.svg",
     "public/favicons/mstile-70x70.png",
     "public/favicons/mstile-310x310.png",
