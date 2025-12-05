@@ -41,6 +41,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "📱 Web-app/Join Colony",
+              "path": "/docs/📱 Web-app/Join Colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "📱 Web-app/Split Colony",
+              "path": "/docs/📱 Web-app/Split Colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "📱 Web-app/Tech stack, conventions, environments",
               "path": "/docs/📱 Web-app/Tech stack, conventions, environments",
               "sidebar": "tutorialSidebar"
@@ -2291,15 +2301,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-gtag": {
-    "default": {
-      "trackingID": [
-        "GTM-KH4KC9"
-      ],
-      "anonymizeIP": true,
-      "id": "default"
     }
   }
 }

@@ -121,3 +121,74 @@ Users can share individual hive inspections with others via a unique public URL.
 -   **Public Access:** Anyone with this link can view the specific inspection details without needing to log in.
 -   **Read-Only & Scoped:** Access via the share link is strictly read-only. The embedded share token limits data access specifically to the shared inspection and potentially its parent hive/apiary details necessary for context. It prevents access to any other data or the ability to perform modifications.
 -   **Security:** Share tokens are validated, and access is controlled by predefined scopes associated with the token. The **GraphQL Router enforces these scopes**, ensuring secure, limited data exposure by blocking unauthorized requests. (See [GraphQL API Authentication](../API/GraphQL.md#share-token-authentication-read-only-access) for technical details).
+
+### Split Colony
+
+Beekeepers can split a hive to create a new colony by moving selected frames to a new hive.
+
+-   **Access:** Click "Split Hive" button in the hive view (top section, after "Create Inspection")
+-   **Frame Selection:** Select 1-10 frames from any box to move to the new hive
+-   **New Hive Creation:** Provide a name for the new hive (or use auto-generated name)
+-   **Box Creation:** A new deep box is automatically created in the new hive to hold the selected frames
+-   **Database:**
+    - New hive record created with `parent_hive_id` and `split_date` fields
+    - Frames moved to new box via `MoveFramesToBox` operation
+    - History tracked bidirectionally (parent shows children, child shows parent)
+-   **GraphQL Operations:**
+    - Mutation: `splitHive(sourceHiveId, name, frameIds)` returns new Hive
+    - Query fields: `parentHive`, `childHives`, `splitDate` for lineage tracking
+-   **UI Features:**
+    - Visual frame preview with selection checkboxes
+    - Box-grouped frame display for easy navigation
+    - Random name generator with multi-language support
+    - Real-time updates via Redis pub/sub
+-   **Services Involved:**
+    - **swarm-api**: Hive split logic, box/frame management
+    - **web-app**: SplitHiveModal component for UI
+
+### Join Colony (Merge Hives)
+
+Beekeepers can merge two hives by moving boxes from source hive to target hive, combining colonies.
+
+-   **Access:** Click "Join Colony" button in the hive view (top section, after "Split Hive")
+-   **Hive Selection:** 
+    - Current hive becomes the source
+    - Select target hive from same apiary
+    - View bee counts, queen race, and year for both hives
+-   **Merge Types:** Three options for queen management:
+    1. **Both Queens (+):** Keep both queens alive, strongest survives naturally
+    2. **Target Queen (→):** Keep target queen, remove source queen
+    3. **Source Queen (←):** Keep source queen, remove target queen
+-   **Box Movement Logic:**
+    - **Kept in Source:** BOTTOM and GATE boxes remain in source hive
+    - **Moved to Target:** All other boxes (DEEP, SUPER, etc.) move to top of target hive
+    - **Position Recalculation:** Box positions automatically reordered
+-   **Database:**
+    - Source hive: `status='merged'`, `merged_into_hive_id`, `merge_date`, `merge_type`
+    - Boxes: `hive_id` updated, positions recalculated
+    - History: Bidirectional links (source shows target, target shows all merged sources)
+-   **GraphQL Operations:**
+    - Mutation: `joinHives(sourceHiveId, targetHiveId, mergeType)` returns updated target Hive
+    - Query fields: `mergedIntoHive`, `mergedFromHives`, `mergeDate`, `mergeType`
+-   **Source Hive After Merge:**
+    - Status: Non-editable (except delete)
+    - Display: "Merged into [Target Name]" with clickable link
+    - Boxes: Only BOTTOM/GATE remain
+    - Visual: Grayed out in apiary list
+    - Actions: Can be deleted via "Remove hive" button
+-   **Target Hive After Merge:**
+    - Status: Remains fully editable
+    - Display: "Merged from [Source Names]" with dates
+    - Boxes: Gains all moved boxes from source(s)
+    - History: Shows all merged source hives
+-   **UI Features:**
+    - Two-panel layout comparing source and target hives
+    - Interactive merge type toggle with descriptions
+    - Target hive selection from available hives in apiary
+    - Visual feedback for merged hives (grayed out)
+    - Complete merge history display
+    - Real-time updates via Redis pub/sub
+-   **Services Involved:**
+    - **swarm-api**: Join/merge logic, box movement, status updates
+    - **web-app**: JoinColonyModal component for UI
+

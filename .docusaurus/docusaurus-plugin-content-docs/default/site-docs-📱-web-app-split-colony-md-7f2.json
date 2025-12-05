@@ -1,0 +1,28 @@
+{
+  "id": "📱 Web-app/Split Colony",
+  "title": "Split Colony",
+  "description": "The Split Colony feature allows beekeepers to create a new hive by moving selected frames from an existing hive. This is a fundamental beekeeping practice used to prevent swarming, expand operations, or create nucleus colonies.",
+  "source": "@site/docs/📱 Web-app/Split Colony.md",
+  "sourceDirName": "📱 Web-app",
+  "slug": "/📱 Web-app/Split Colony",
+  "permalink": "/docs/📱 Web-app/Split Colony",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/📱 Web-app/Split Colony.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Split Colony"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱 Web-app",
+    "permalink": "/docs/📱 Web-app/"
+  },
+  "next": {
+    "title": "Join Colony (Merge Hives)",
+    "permalink": "/docs/📱 Web-app/Join Colony"
+  }
+}
