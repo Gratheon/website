@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc5a2b6127dc1c3a",
+        "id": "a9a65a8cf7baaba0",
         "type": "tabs",
         "children": [
           {
-            "id": "b6039d2a286f9816",
+            "id": "51574da3e80e0722",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "research/ResearchDB.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "ResearchDB"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,10 +170,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6039d2a286f9816",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "research/Models.md",
     "research/index.md",
