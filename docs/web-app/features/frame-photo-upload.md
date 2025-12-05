@@ -226,11 +226,11 @@ graph TB
 - Large images (>5MB): Slower processing
 
 #### Metrics
-- Average upload time: <2 seconds
+- Average upload time: under 2 seconds
 - Average processing time: 15-30 seconds (all detections)
-- Thumbnail generation: <3 seconds
-- Success rate: >98%
-- Job retry rate: <5%
+- Thumbnail generation: under 3 seconds
+- Success rate: over 98%
+- Job retry rate: under 5%
 
 ### 🚫 Technical Limitations
 

@@ -217,9 +217,9 @@ Manual test scenarios:
 - **Timeline Pagination**: Limit to last 100 sightings
 
 #### Metrics
-- Queen timeline query: <100ms (typical 10-20 sightings)
-- Update family info: <50ms
-- Age calculation: <1ms (in-memory)
+- Queen timeline query: under 100ms (typical 10-20 sightings)
+- Update family info: under 50ms
+- Age calculation: under 1ms (in-memory)
 - Typical user has 1-5 queens across all hives
 
 ### 🚫 Technical Limitations

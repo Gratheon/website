@@ -68,9 +68,22 @@ Test scenarios and approach
 User flow testing details
 
 ### 📊 Performance Considerations
-- Performance requirements
-- Optimization strategies
-- Known limitations
+
+#### Optimizations
+- List optimization strategies applied
+- Caching approaches
+- Query optimization techniques
+
+#### Bottlenecks
+- Identified performance bottlenecks
+- Resource-intensive operations
+- Rate limits or constraints
+
+#### Metrics
+- Response time: under 100ms
+- Throughput: X requests per second
+- Success rate: over 95%
+- Note: Use "under", "over", "approximately" instead of < > symbols to avoid MDX parsing errors
 
 ### 🚫 Technical Limitations
 - Current constraints

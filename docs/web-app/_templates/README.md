@@ -69,12 +69,12 @@ cp feature-technical-template.md ../features/[feature-slug].md
 - **Diagrams**: Use mermaid for architecture and data flow
 
 ### What TO Include in Technical Docs
-✅ Database schemas with migrations
+✅ Database ER diagrams (Mermaid format)
 ✅ GraphQL mutations, queries, subscriptions
 ✅ REST API endpoints with parameters
 ✅ Component architecture
 ✅ Data flow diagrams
-✅ Algorithm descriptions
+✅ Key operation names with descriptions
 ✅ Performance metrics and requirements
 ✅ Testing coverage and approach
 ✅ Configuration requirements
@@ -85,14 +85,43 @@ cp feature-technical-template.md ../features/[feature-slug].md
 ❌ Marketing language or sales pitch
 ❌ Extensive user scenarios (brief context OK)
 ❌ User-facing benefits (link to marketing page instead)
+❌ Raw SQL migration code (use ER diagrams instead)
+❌ Detailed implementation code (keep operation names only)
+❌ Less-than/greater-than symbols with numbers (use "under", "over" text)
 
 ### Code Formatting
 
-**SQL Schemas**
-```sql
-ALTER TABLE table_name
-  ADD COLUMN column_name TYPE,
-  ADD INDEX idx_column_name (column_name);
+**Database Schemas** (Use Mermaid ER Diagrams)
+```mermaid
+erDiagram
+    parent_table ||--o{ child_table : "relationship_name"
+    
+    parent_table {
+        int id PK
+        varchar name
+        timestamp created_at
+    }
+    
+    child_table {
+        int id PK
+        int parent_id FK
+        varchar field_name
+        enum status "pending, active, completed"
+    }
+```
+
+**Key Operations** (Names and Descriptions Only)
+```markdown
+**Mutations**
+- `createEntity(input)` - Creates new entity with validation
+- `updateEntity(id, input)` - Updates existing entity
+
+**Queries**
+- `entity(id)` - Fetches single entity with relations
+- `entities(filter)` - Lists entities with pagination
+
+**Computed Fields**
+- `Entity.calculatedField` - Computed from field_a + field_b
 ```
 
 **GraphQL APIs**
@@ -113,11 +142,38 @@ graph LR
     C --> D[Database]
 ```
 
+### MDX-Safe Formatting
+
+These documentation files use MDX (Markdown + JSX). Follow these rules to avoid compilation errors:
+
+**❌ AVOID: Comparison operators with numbers**
+```markdown
+- Response time: <100ms
+- Success rate: >95%
+```
+
+**✅ USE: Plain text alternatives**
+```markdown
+- Response time: under 100ms
+- Success rate: over 95%
+- Latency: approximately 50ms
+- Throughput: around 1000 req/s
+```
+
+**Alternative options if needed**:
+- HTML entities: `&lt;100ms` → &lt;100ms
+- Code blocks: \`<100ms\` → `<100ms`
+- Text: "under 100ms" or "less than 100ms" (preferred)
+
+**Why**: MDX interprets `<100` as the start of a JSX tag `<100>`, causing parsing errors.
+
 ## Examples
 
 See these technical documentation examples:
 - [Split Colony](../features/split-colony.md) - Complex feature with frame migration
 - [Join Colonies](../features/join-colonies.md) - Box movement with real-time events
+- [Frame Photo Upload](../features/frame-photo-upload.md) - ML pipeline with job queue
+- [Queen Management](../features/queen-management.md) - Timeline with computed fields
 
 ## Directory Structure
 

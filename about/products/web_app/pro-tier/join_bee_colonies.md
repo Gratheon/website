@@ -84,26 +84,6 @@ For technical implementation details, API specifications, and developer document
 
 ---
 **Last Updated**: December 5, 2025
-    status
-    
-    # If this hive was merged into another
-    mergedIntoHive {
-      id
-      name
-    }
-    mergeDate
-    mergeType
-    
-    # If other hives were merged into this one
-    mergedFromHives {
-      id
-      name
-      mergeDate
-      mergeType
-    }
-  }
-}
-```
 
 ### ⚠️ Important Considerations
 

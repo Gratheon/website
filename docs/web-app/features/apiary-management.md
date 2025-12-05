@@ -254,9 +254,9 @@ Manual test scenarios:
 - N+1 query issue when loading hives (partially optimized)
 
 #### Metrics
-- Average apiary query: <50ms
-- Create/update operation: <100ms
-- Map render time: <1 second (up to 20 apiaries)
+- Average apiary query: under 50ms
+- Create/update operation: under 100ms
+- Map render time: under 1 second (up to 20 apiaries)
 - Typical user has 1-5 apiaries, 5-30 hives
 
 ### 🚫 Technical Limitations
