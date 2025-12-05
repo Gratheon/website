@@ -25,46 +25,6 @@ Queen bee lifecycle and breeding information management system tracking presence
 ### 📋 Technical Specifications
 
 #### Database Schema
-```sql
-CREATE TABLE `families` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `user_id` INT DEFAULT NULL,
-  `race` VARCHAR(100) DEFAULT NULL,
-  `added` VARCHAR(4) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
-CREATE TABLE `hives` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `user_id` INT UNSIGNED NOT NULL,
-  `family_id` INT DEFAULT NULL,
-  `apiary_id` INT UNSIGNED DEFAULT NULL,
-  `name` VARCHAR(100) NOT NULL,
-  PRIMARY KEY (`id`),
-  FOREIGN KEY (`family_id`) REFERENCES `families`(`id`) ON DELETE SET NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
-CREATE TABLE `frames_sides` (
-  `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-  `user_id` INT UNSIGNED NOT NULL,
-  `brood` INT DEFAULT NULL,
-  `capped_brood` INT DEFAULT NULL,
-  `eggs` INT DEFAULT NULL,
-  `pollen` INT DEFAULT NULL,
-  `honey` INT DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
-CREATE TABLE `detections` (
-  `id` INT PRIMARY KEY AUTO_INCREMENT,
-  `frame_side_id` INT NOT NULL,
-  `detection_type` ENUM('bee', 'queen', 'drone', 'cell', 'varroa', 'cup', 'beetle', 'ant'),
-  `bbox_json` JSON,
-  `confidence` FLOAT,
-  `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  INDEX idx_queen_detections (frame_side_id, detection_type, created_at)
-) ENGINE=InnoDB;
-```
 
 #### GraphQL API
 ```graphql

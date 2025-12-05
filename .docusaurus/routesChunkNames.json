@@ -1565,17 +1565,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-0fb": {
+  "/docs-53f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-611": {
+  "/docs-366": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-76c": {
+  "/docs-80e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
@@ -1858,13 +1858,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-🥞-db-schemas-user-cycle-88-c-a11"
   },
-  "/docs/web-app/Bottom Board Implementation-8de": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-web-app-bottom-board-implementation-674-9eb"
-  },
   "/docs/web-app/features/apiary-management-942": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-apiary-management-8-fe-0e2"
+  },
+  "/docs/web-app/features/Bottom Board Implementation-3fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-bottom-board-implementationbac-b46"
   },
   "/docs/web-app/features/frame-photo-upload-af1": {
     "__comp": "__comp---theme-doc-item-178-a40",

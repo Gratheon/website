@@ -1,7 +1,5 @@
 # [Feature Name] - Technical Documentation
 
-**Status**: `[complete|in-progress|planned]` | **Development Stage**: `[alpha|beta|stable]` | **Priority**: `[low|medium|high|critical]`
-
 ### 🎯 Overview
 Brief technical description of what this feature does.
 

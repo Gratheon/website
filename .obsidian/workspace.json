@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web-app/web-app.md",
+                "file": "docs/web-app/_templates/feature-technical-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web-app"
+              "title": "feature-technical-template"
             }
           }
         ]
@@ -178,8 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d48a28b0037d20e3",
+  "active": "51574da3e80e0722",
   "lastOpenFiles": [
+    "docs/web-app/web-app.md",
+    "docs/web-app/UX - UI wireframes.md",
+    "docs/web-app/Tech stack, conventions, environments.md",
+    "docs/web-app/features/Bottom Board Implementation.md",
     "docs/web-app/features/queen-management.md",
     "about/products/web_app/hobbyist-tier/queen-management.md",
     "docs/web-app/features/queen-detection.md",
@@ -222,10 +226,6 @@
     "about/products/web_app/web_app.md",
     "about/products/web_app/Product and Usage Metrics.md",
     "about/products/web_app/hobbyist-tier/split_bee_colony.md",
-    "about/products/web_app/pro tier/↔️ Create colony split.md",
-    "docs/📱 Web-app/Split Colony.md",
-    "docs/📱 Web-app/Join Colony.md",
-    "research/Models.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

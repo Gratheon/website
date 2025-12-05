@@ -1656,15 +1656,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0fb'),
+    component: ComponentCreator('/docs', '53f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '611'),
+        component: ComponentCreator('/docs', '366'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '76c'),
+            component: ComponentCreator('/docs', '80e'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2087,14 +2087,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-app/Bottom Board Implementation',
-                component: ComponentCreator('/docs/web-app/Bottom Board Implementation', '8de'),
+                path: '/docs/web-app/features/apiary-management',
+                component: ComponentCreator('/docs/web-app/features/apiary-management', '942'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/web-app/features/apiary-management',
-                component: ComponentCreator('/docs/web-app/features/apiary-management', '942'),
+                path: '/docs/web-app/features/Bottom Board Implementation',
+                component: ComponentCreator('/docs/web-app/features/Bottom Board Implementation', '3fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

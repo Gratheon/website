@@ -1,0 +1,24 @@
+{
+  "id": "web-app/features/Bottom Board Implementation",
+  "title": "Bottom Board Implementation Guide",
+  "description": "Overview",
+  "source": "@site/docs/web-app/features/Bottom Board Implementation.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/Bottom Board Implementation",
+  "permalink": "/docs/web-app/features/Bottom Board Implementation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/Bottom Board Implementation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+  }
+}

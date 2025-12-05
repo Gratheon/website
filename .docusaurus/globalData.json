@@ -356,13 +356,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "web-app/Bottom Board Implementation",
-              "path": "/docs/web-app/Bottom Board Implementation",
+              "id": "web-app/features/apiary-management",
+              "path": "/docs/web-app/features/apiary-management",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "web-app/features/apiary-management",
-              "path": "/docs/web-app/features/apiary-management",
+              "id": "web-app/features/Bottom Board Implementation",
+              "path": "/docs/web-app/features/Bottom Board Implementation",
               "sidebar": "tutorialSidebar"
             },
             {

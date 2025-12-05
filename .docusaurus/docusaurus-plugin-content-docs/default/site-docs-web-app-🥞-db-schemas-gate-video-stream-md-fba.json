@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Queen Management - Technical Documentation",
-    "permalink": "/docs/web-app/features/queen-management"
+    "title": "Bottom Board Implementation Guide",
+    "permalink": "/docs/web-app/features/Bottom Board Implementation"
   },
   "next": {
     "title": "image-splitter",
