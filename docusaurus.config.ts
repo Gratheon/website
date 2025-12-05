@@ -38,10 +38,6 @@ const config: Config = {
     [
       "classic",
       {
-        gtag: {
-          trackingID: "GTM-KH4KC9",
-          anonymizeIP: true,
-        },
 
         docs: {
           sidebarPath: "./sidebars.ts",
@@ -89,6 +85,11 @@ const config: Config = {
           rehypePlugins: [],
           beforeDefaultRemarkPlugins: [],
           beforeDefaultRehypePlugins: [],
+        },
+
+        gtag: {
+          trackingID: "G-XXXXXXXXXX",
+          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],

@@ -2356,7 +2356,7 @@
   "docusaurus-plugin-google-gtag": {
     "default": {
       "trackingID": [
-        "GTM-KH4KC9"
+        "G-XXXXXXXXXX"
       ],
       "anonymizeIP": true,
       "id": "default"

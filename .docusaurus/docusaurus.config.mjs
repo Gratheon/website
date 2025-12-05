@@ -44,10 +44,6 @@ export default {
     [
       "classic",
       {
-        "gtag": {
-          "trackingID": "GTM-KH4KC9",
-          "anonymizeIP": true
-        },
         "docs": {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/"
@@ -89,6 +85,10 @@ export default {
           "rehypePlugins": [],
           "beforeDefaultRemarkPlugins": [],
           "beforeDefaultRehypePlugins": []
+        },
+        "gtag": {
+          "trackingID": "G-XXXXXXXXXX",
+          "anonymizeIP": true
         }
       }
     ]
