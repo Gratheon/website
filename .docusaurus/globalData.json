@@ -1285,6 +1285,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/hobbyist-tier/split_bee_colony",
+              "path": "/about/products/web_app/hobbyist-tier/split_bee_colony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro tier/🎥 Video streaming from phone",
               "path": "/about/products/web_app/pro tier/🎥 Video streaming from phone",
               "sidebar": "tutorialSidebar"

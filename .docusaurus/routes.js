@@ -229,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '1d0'),
+    component: ComponentCreator('/about', '53e'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '298'),
+        component: ComponentCreator('/about', '1b4'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '36b'),
+            component: ComponentCreator('/about', 'e52'),
             routes: [
               {
                 path: '/about/',
@@ -1304,6 +1304,12 @@ export default [
               {
                 path: '/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change', 'e32'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/hobbyist-tier/split_bee_colony',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/split_bee_colony', 'baf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

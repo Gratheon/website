@@ -593,17 +593,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-1d0": {
+  "/about-53e": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-298": {
+  "/about-1b4": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-36b": {
+  "/about-e52": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -1317,6 +1317,10 @@
   "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change-e32": {
     "__comp": "17896441",
     "content": "fde8da77"
+  },
+  "/about/products/web_app/hobbyist-tier/split_bee_colony-baf": {
+    "__comp": "17896441",
+    "content": "43a6ecaa"
   },
   "/about/products/web_app/pro tier/🎥 Video streaming from phone-80e": {
     "__comp": "17896441",
