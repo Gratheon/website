@@ -1,7 +1,7 @@
 {
   "id": "web-app/features/frame-side-management",
-  "title": "frame-side-management",
-  "description": "",
+  "title": "Frame Side Management - Technical Documentation",
+  "description": "🎯 Overview",
   "source": "@site/docs/web-app/features/frame-side-management.md",
   "sourceDirName": "web-app/features",
   "slug": "/web-app/features/frame-side-management",
@@ -11,14 +11,17 @@
   "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/frame-side-management.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bottom-board-management",
-    "permalink": "/docs/web-app/features/bottom-board-management"
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
   },
   "next": {
-    "title": "hive-management",
+    "title": "Hive Management - Technical Documentation",
     "permalink": "/docs/web-app/features/hive-management"
   }
 }

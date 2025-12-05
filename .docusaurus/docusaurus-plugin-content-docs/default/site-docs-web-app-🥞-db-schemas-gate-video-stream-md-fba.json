@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hive-management",
-    "permalink": "/docs/web-app/features/hive-management"
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
   },
   "next": {
     "title": "image-splitter",
