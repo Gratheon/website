@@ -124,71 +124,26 @@ Users can share individual hive inspections with others via a unique public URL.
 
 ### Split Colony
 
-Beekeepers can split a hive to create a new colony by moving selected frames to a new hive.
+Create new hives by moving selected frames from a strong colony. Prevents swarming and enables apiary expansion.
 
--   **Access:** Click "Split Hive" button in the hive view (top section, after "Create Inspection")
--   **Frame Selection:** Select 1-10 frames from any box to move to the new hive
--   **New Hive Creation:** Provide a name for the new hive (or use auto-generated name)
--   **Box Creation:** A new deep box is automatically created in the new hive to hold the selected frames
--   **Database:**
-    - New hive record created with `parent_hive_id` and `split_date` fields
-    - Frames moved to new box via `MoveFramesToBox` operation
-    - History tracked bidirectionally (parent shows children, child shows parent)
--   **GraphQL Operations:**
-    - Mutation: `splitHive(sourceHiveId, name, frameIds)` returns new Hive
-    - Query fields: `parentHive`, `childHives`, `splitDate` for lineage tracking
--   **UI Features:**
-    - Visual frame preview with selection checkboxes
-    - Box-grouped frame display for easy navigation
-    - Random name generator with multi-language support
-    - Real-time updates via Redis pub/sub
--   **Services Involved:**
-    - **swarm-api**: Hive split logic, box/frame management
-    - **web-app**: SplitHiveModal component for UI
+See [Split Colony Feature Documentation](../../about/products/web_app/pro%20tier/↔️%20Create%20colony%20split.md) for complete user guide.
+
+**Technical Overview:**
+-   **Mutation:** `splitHive(sourceHiveId, name, frameIds)` - Creates new hive with 1-10 selected frames
+-   **Database:** New hive record with `parent_hive_id` and `split_date` tracking
+-   **Services:** swarm-api (split logic), web-app (SplitHiveModal UI)
+-   **Real-time:** Redis pub/sub broadcasts `hive:split` event
 
 ### Join Colony (Merge Hives)
 
-Beekeepers can merge two hives by moving boxes from source hive to target hive, combining colonies.
+Merge two colonies by moving boxes from source to target hive. Strengthens weak colonies and manages queen genetics.
 
--   **Access:** Click "Join Colony" button in the hive view (top section, after "Split Hive")
--   **Hive Selection:** 
-    - Current hive becomes the source
-    - Select target hive from same apiary
-    - View bee counts, queen race, and year for both hives
--   **Merge Types:** Three options for queen management:
-    1. **Both Queens (+):** Keep both queens alive, strongest survives naturally
-    2. **Target Queen (→):** Keep target queen, remove source queen
-    3. **Source Queen (←):** Keep source queen, remove target queen
--   **Box Movement Logic:**
-    - **Kept in Source:** BOTTOM and GATE boxes remain in source hive
-    - **Moved to Target:** All other boxes (DEEP, SUPER, etc.) move to top of target hive
-    - **Position Recalculation:** Box positions automatically reordered
--   **Database:**
-    - Source hive: `status='merged'`, `merged_into_hive_id`, `merge_date`, `merge_type`
-    - Boxes: `hive_id` updated, positions recalculated
-    - History: Bidirectional links (source shows target, target shows all merged sources)
--   **GraphQL Operations:**
-    - Mutation: `joinHives(sourceHiveId, targetHiveId, mergeType)` returns updated target Hive
-    - Query fields: `mergedIntoHive`, `mergedFromHives`, `mergeDate`, `mergeType`
--   **Source Hive After Merge:**
-    - Status: Non-editable (except delete)
-    - Display: "Merged into [Target Name]" with clickable link
-    - Boxes: Only BOTTOM/GATE remain
-    - Visual: Grayed out in apiary list
-    - Actions: Can be deleted via "Remove hive" button
--   **Target Hive After Merge:**
-    - Status: Remains fully editable
-    - Display: "Merged from [Source Names]" with dates
-    - Boxes: Gains all moved boxes from source(s)
-    - History: Shows all merged source hives
--   **UI Features:**
-    - Two-panel layout comparing source and target hives
-    - Interactive merge type toggle with descriptions
-    - Target hive selection from available hives in apiary
-    - Visual feedback for merged hives (grayed out)
-    - Complete merge history display
-    - Real-time updates via Redis pub/sub
--   **Services Involved:**
-    - **swarm-api**: Join/merge logic, box movement, status updates
-    - **web-app**: JoinColonyModal component for UI
+See [Join Colonies Feature Documentation](../../about/products/web_app/pro%20tier/🫶🏻%20Join%20colonies.md) for complete user guide.
+
+**Technical Overview:**
+-   **Mutation:** `joinHives(sourceHiveId, targetHiveId, mergeType)` - Merges hives with queen management options
+-   **Database:** Source hive marked with `merged_into_hive_id`, `merge_date`, `merge_type`
+-   **Box Logic:** BOTTOM/GATE boxes stay in source, all others move to target
+-   **Services:** swarm-api (merge logic, box movement), web-app (JoinColonyModal UI)
+-   **Real-time:** Redis pub/sub broadcasts `hive:join` and `hive:merged` events
 

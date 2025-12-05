@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-53e": {
+  "/about-da4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-1b4": {
+  "/about-523": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-e52": {
+  "/about-813": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1365,6 +1365,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-split-bee-colony-43-a-aae"
   },
+  "/about/products/web_app/pro tier/↔️ Create colony split-8ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-↔️-create-colony-splitff-4-743"
+  },
   "/about/products/web_app/pro tier/🎥 Video streaming from phone-80e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-🎥-video-streaming-from-phone-30-d-754"
@@ -1377,9 +1381,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-📈-count-bees-in-the-cloud-865-4d4"
   },
-  "/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split-6f7": {
+  "/about/products/web_app/pro tier/🫶🏻 Join colonies-166": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-↔️-create-colony-splitbc-1-c59"
+    "content": "content---about-products-web-app-pro-tier-🫶🏻-join-coloniese-27-92b"
   },
   "/about/products/web_app/pro tier/ideas 💡/♻️ Hive ownership transfer-33e": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1460,10 +1464,6 @@
   "/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection-ff6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detectiondec-9da"
-  },
-  "/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies-a07": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-pro-tier-ideas-💡-🫶🏻-join-multiple-colonies-5-ca-e54"
   },
   "/about/products/web_app/pro tier/ideas 💡/🛰️ SkyFi integration-134": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1557,17 +1557,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-8be": {
+  "/docs-9af": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-557": {
+  "/docs-2fc": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-4d3": {
+  "/docs-95a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/📱 Web-app/-4b8": {
@@ -1593,14 +1593,6 @@
   "/docs/📱 Web-app/Bottom Board Implementation-bcb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-📱-web-app-bottom-board-implementationadb-a13"
-  },
-  "/docs/📱 Web-app/Join Colony-d0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-📱-web-app-join-colony-75-c-dc6"
-  },
-  "/docs/📱 Web-app/Split Colony-99b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-📱-web-app-split-colony-7-f-2-eb8"
   },
   "/docs/📱 Web-app/Tech stack, conventions, environments-cbc": {
     "__comp": "__comp---theme-doc-item-178-a40",

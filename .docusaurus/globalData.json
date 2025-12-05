@@ -41,16 +41,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "📱 Web-app/Join Colony",
-              "path": "/docs/📱 Web-app/Join Colony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "📱 Web-app/Split Colony",
-              "path": "/docs/📱 Web-app/Split Colony",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "📱 Web-app/Tech stack, conventions, environments",
               "path": "/docs/📱 Web-app/Tech stack, conventions, environments",
               "sidebar": "tutorialSidebar"
@@ -1300,6 +1290,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro tier/↔️ Create colony split",
+              "path": "/about/products/web_app/pro tier/↔️ Create colony split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro tier/🎥 Video streaming from phone",
               "path": "/about/products/web_app/pro tier/🎥 Video streaming from phone",
               "sidebar": "tutorialSidebar"
@@ -1315,8 +1310,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/pro tier/ideas 💡/↔️ Create colony split",
-              "path": "/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split",
+              "id": "products/web_app/pro tier/🫶🏻 Join colonies",
+              "path": "/about/products/web_app/pro tier/🫶🏻 Join colonies",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1417,11 +1412,6 @@
             {
               "id": "products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection",
               "path": "/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
-              "path": "/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies",
               "sidebar": "tutorialSidebar"
             },
             {

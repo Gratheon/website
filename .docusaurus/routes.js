@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '53e'),
+    component: ComponentCreator('/about', 'da4'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '1b4'),
+        component: ComponentCreator('/about', '523'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'e52'),
+            component: ComponentCreator('/about', '813'),
             routes: [
               {
                 path: '/about/',
@@ -1349,6 +1349,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/pro tier/↔️ Create colony split',
+                component: ComponentCreator('/about/products/web_app/pro tier/↔️ Create colony split', '8ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/pro tier/🎥 Video streaming from phone',
                 component: ComponentCreator('/about/products/web_app/pro tier/🎥 Video streaming from phone', '80e'),
                 exact: true,
@@ -1367,8 +1373,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split',
-                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/↔️ Create colony split', '6f7'),
+                path: '/about/products/web_app/pro tier/🫶🏻 Join colonies',
+                component: ComponentCreator('/about/products/web_app/pro tier/🫶🏻 Join colonies', '166'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1489,12 +1495,6 @@ export default [
               {
                 path: '/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection',
                 component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection', 'ff6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies',
-                component: ComponentCreator('/about/products/web_app/pro tier/ideas 💡/🫶🏻 Join multiple colonies', 'a07'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1644,15 +1644,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8be'),
+    component: ComponentCreator('/docs', '9af'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '557'),
+        component: ComponentCreator('/docs', '2fc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4d3'),
+            component: ComponentCreator('/docs', '95a'),
             routes: [
               {
                 path: '/docs/📱 Web-app/',
@@ -1687,18 +1687,6 @@ export default [
               {
                 path: '/docs/📱 Web-app/Bottom Board Implementation',
                 component: ComponentCreator('/docs/📱 Web-app/Bottom Board Implementation', 'bcb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/Join Colony',
-                component: ComponentCreator('/docs/📱 Web-app/Join Colony', 'd0d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/📱 Web-app/Split Colony',
-                component: ComponentCreator('/docs/📱 Web-app/Split Colony', '99b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
