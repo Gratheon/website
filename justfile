@@ -1,4 +1,4 @@
 start:
-    npm run start
+    pnpm run start
 build:
-    npm run build
+    pnpm run build
