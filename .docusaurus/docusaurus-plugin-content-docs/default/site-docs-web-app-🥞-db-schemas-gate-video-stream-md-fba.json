@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "frame-photo-upload",
-    "permalink": "/docs/web-app/features/frame-photo-upload"
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
   },
   "next": {
     "title": "image-splitter",

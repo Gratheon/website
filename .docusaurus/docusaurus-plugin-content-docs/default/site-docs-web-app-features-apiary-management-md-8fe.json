@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/apiary-management",
+  "title": "Apiary Management - Technical Documentation",
+  "description": "Status stable | Priority: high",
+  "source": "@site/docs/web-app/features/apiary-management.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/apiary-management",
+  "permalink": "/docs/web-app/features/apiary-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/apiary-management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frame Photo Upload - Technical Documentation",
+    "permalink": "/docs/web-app/features/frame-photo-upload"
+  },
+  "next": {
+    "title": "Queen Detection - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-detection"
+  }
+}

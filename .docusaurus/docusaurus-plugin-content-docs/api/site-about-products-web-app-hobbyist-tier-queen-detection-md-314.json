@@ -1,0 +1,26 @@
+{
+  "id": "products/web_app/hobbyist-tier/queen-detection",
+  "title": "👑 Queen Detection",
+  "description": "🎯 Purpose",
+  "source": "@site/about/products/web_app/hobbyist-tier/queen-detection.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/queen-detection",
+  "permalink": "/about/products/web_app/hobbyist-tier/queen-detection",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "in-progress",
+    "title": "👑 Queen Detection"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍🚀 User password change",
+    "permalink": "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change"
+  },
+  "next": {
+    "title": "👑 Queen Management",
+    "permalink": "/about/products/web_app/hobbyist-tier/queen-management"
+  }
+}

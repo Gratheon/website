@@ -1,0 +1,26 @@
+{
+  "id": "products/web_app/hobbyist-tier/queen-management",
+  "title": "👑 Queen Management",
+  "description": "🎯 Purpose",
+  "source": "@site/about/products/web_app/hobbyist-tier/queen-management.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/queen-management",
+  "permalink": "/about/products/web_app/hobbyist-tier/queen-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete",
+    "title": "👑 Queen Management"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👑 Queen Detection",
+    "permalink": "/about/products/web_app/hobbyist-tier/queen-detection"
+  },
+  "next": {
+    "title": "♻️ Public beehive view",
+    "permalink": "/about/products/web_app/hobbyist-tier/♻️ Public beehive view"
+  }
+}

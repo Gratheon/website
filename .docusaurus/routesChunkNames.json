@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-84a": {
+  "/about-e1a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-efd": {
+  "/about-ff9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-4d8": {
+  "/about-f03": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1369,6 +1369,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🧑‍🚀-user-password-changefde-805"
   },
+  "/about/products/web_app/hobbyist-tier/queen-detection-280": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-queen-detection-314-298"
+  },
+  "/about/products/web_app/hobbyist-tier/queen-management-8ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-queen-management-219-7a8"
+  },
   "/about/products/web_app/pro-tier/🎥 Video streaming from phone-610": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-🎥-video-streaming-from-phone-324-0f8"
@@ -1557,17 +1565,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-fc2": {
+  "/docs-0fb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-fb4": {
+  "/docs-611": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-24a": {
+  "/docs-76c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
@@ -1854,6 +1862,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-bottom-board-implementation-674-9eb"
   },
+  "/docs/web-app/features/apiary-management-942": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-apiary-management-8-fe-0e2"
+  },
   "/docs/web-app/features/frame-photo-upload-af1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-frame-photo-upload-9-ea-d3a"
@@ -1861,6 +1873,14 @@
   "/docs/web-app/features/join-colonies-46b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-join-coloniesb-5-c-3b8"
+  },
+  "/docs/web-app/features/queen-detection-995": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-queen-detection-651-8f8"
+  },
+  "/docs/web-app/features/queen-management-6ba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-queen-managementce-9-a76"
   },
   "/docs/web-app/features/split-colony-5d8": {
     "__comp": "__comp---theme-doc-item-178-a40",

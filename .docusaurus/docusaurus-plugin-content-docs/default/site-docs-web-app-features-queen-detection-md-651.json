@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/queen-detection",
+  "title": "Queen Detection - Technical Documentation",
+  "description": "Status beta | Priority: high",
+  "source": "@site/docs/web-app/features/queen-detection.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/queen-detection",
+  "permalink": "/docs/web-app/features/queen-detection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/queen-detection.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apiary Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/apiary-management"
+  },
+  "next": {
+    "title": "Queen Management - Technical Documentation",
+    "permalink": "/docs/web-app/features/queen-management"
+  }
+}

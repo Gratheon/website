@@ -180,6 +180,11 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "docs/web-app/features/queen-management.md",
+    "about/products/web_app/hobbyist-tier/queen-management.md",
+    "docs/web-app/features/queen-detection.md",
+    "about/products/web_app/hobbyist-tier/queen-detection.md",
+    "docs/web-app/features/apiary-management.md",
     "about/products/web_app/hobbyist-tier/apiary-management.md",
     "docs/web-app/features/frame-photo-upload.md",
     "about/products/web_app/hobbyist-tier/frame-photo-upload.md",
@@ -221,11 +226,6 @@
     "docs/📱 Web-app/Split Colony.md",
     "docs/📱 Web-app/Join Colony.md",
     "research/Models.md",
-    "research/index.md",
-    "research/Hacker projects.md",
-    "Untitled.md",
-    "about/products/_templates/feature-template.md",
-    "about/company/Team/Merchandise.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

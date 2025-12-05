@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '84a'),
+    component: ComponentCreator('/about', 'e1a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'efd'),
+        component: ComponentCreator('/about', 'ff9'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '4d8'),
+            component: ComponentCreator('/about', 'f03'),
             routes: [
               {
                 path: '/about/',
@@ -1355,6 +1355,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/hobbyist-tier/queen-detection',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/queen-detection', '280'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/hobbyist-tier/queen-management',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/queen-management', '8ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/pro-tier/🎥 Video streaming from phone',
                 component: ComponentCreator('/about/products/web_app/pro-tier/🎥 Video streaming from phone', '610'),
                 exact: true,
@@ -1644,15 +1656,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fc2'),
+    component: ComponentCreator('/docs', '0fb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fb4'),
+        component: ComponentCreator('/docs', '611'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '24a'),
+            component: ComponentCreator('/docs', '76c'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2081,6 +2093,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/web-app/features/apiary-management',
+                component: ComponentCreator('/docs/web-app/features/apiary-management', '942'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/web-app/features/frame-photo-upload',
                 component: ComponentCreator('/docs/web-app/features/frame-photo-upload', 'af1'),
                 exact: true,
@@ -2089,6 +2107,18 @@ export default [
               {
                 path: '/docs/web-app/features/join-colonies',
                 component: ComponentCreator('/docs/web-app/features/join-colonies', '46b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/queen-detection',
+                component: ComponentCreator('/docs/web-app/features/queen-detection', '995'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/queen-management',
+                component: ComponentCreator('/docs/web-app/features/queen-management', '6ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

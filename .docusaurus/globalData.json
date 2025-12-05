@@ -361,6 +361,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/apiary-management",
+              "path": "/docs/web-app/features/apiary-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/features/frame-photo-upload",
               "path": "/docs/web-app/features/frame-photo-upload",
               "sidebar": "tutorialSidebar"
@@ -368,6 +373,16 @@
             {
               "id": "web-app/features/join-colonies",
               "path": "/docs/web-app/features/join-colonies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/queen-detection",
+              "path": "/docs/web-app/features/queen-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "web-app/features/queen-management",
+              "path": "/docs/web-app/features/queen-management",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1307,6 +1322,16 @@
             {
               "id": "products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change",
               "path": "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/hobbyist-tier/queen-detection",
+              "path": "/about/products/web_app/hobbyist-tier/queen-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/hobbyist-tier/queen-management",
+              "path": "/about/products/web_app/hobbyist-tier/queen-management",
               "sidebar": "tutorialSidebar"
             },
             {
