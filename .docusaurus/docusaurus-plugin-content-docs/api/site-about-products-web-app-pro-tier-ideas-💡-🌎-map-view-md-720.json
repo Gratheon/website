@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/pro-tier/ideas 💡/🌎 Map view",
+  "title": "🌎 Map view",
+  "description": "Goal is for Industrial beekeepers to be able to see the big picture of their apiaries to",
+  "source": "@site/about/products/web_app/pro-tier/ideas 💡/🌎 Map view.md",
+  "sourceDirName": "products/web_app/pro-tier/ideas 💡",
+  "slug": "/products/web_app/pro-tier/ideas 💡/🌎 Map view",
+  "permalink": "/about/products/web_app/pro-tier/ideas 💡/🌎 Map view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚖️ Colony comparison",
+    "permalink": "/about/products/web_app/pro-tier/ideas 💡/⚖️ Colony comparison"
+  },
+  "next": {
+    "title": "🌞 Apiary top-down view of  relative to the sun",
+    "permalink": "/about/products/web_app/pro-tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun"
+  }
+}

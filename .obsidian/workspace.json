@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/web_app/hobbyist-tier/split_bee_colony.md",
+                "file": "about/products/web_app/pro-tier/📈 Count bees - in the cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split_bee_colony"
+              "title": "📈 Count bees - in the cloud"
             }
           }
         ]
@@ -180,9 +180,15 @@
   },
   "active": "51574da3e80e0722",
   "lastOpenFiles": [
-    "about/products/web_app/pro tier/↔️ Create colony split.md",
+    "about/products/web_app/pro-tier/join_bee_colonies.md",
+    "about/products/web_app/pro-tier/split_bee_colony.md",
+    "about/products/web_app/pro-tier/🎥 Video streaming from phone.md",
+    "about/products/web_app/pro-tier/📅 Varroa Treatment diary.md",
+    "about/products/web_app/pro-tier/📈 Count bees - in the cloud.md",
+    "about/products/web_app/web_app.md",
+    "about/products/web_app/Product and Usage Metrics.md",
     "about/products/web_app/hobbyist-tier/split_bee_colony.md",
-    "about/products/web_app/pro tier/🫶🏻 Join colonies.md",
+    "about/products/web_app/pro tier/↔️ Create colony split.md",
     "docs/📱 Web-app/Split Colony.md",
     "docs/📱 Web-app/Join Colony.md",
     "public/blog/atom.xml",
@@ -205,11 +211,9 @@
     "public/img/sharing.webp",
     "public/img/sensors.webp",
     "public/img/robot.jpeg",
-    "about/products/web_app/web_app.md",
     "research/Models.md",
     "research/index.md",
     "research/Hacker projects.md",
-    "about/products/web_app/Product and Usage Metrics.md",
     "Untitled.md",
     "about/products/_templates/feature-template.md",
     "about/company/Team/Merchandise.md",
@@ -222,10 +226,6 @@
     "about/problems/🐻 Bears destroying hives & colonies.md",
     "about/🌨️ Problems/🏘️ Bees attacking neighbours.md",
     "about/problems/biological/💢 Robbing state.md",
-    "about/problems/🌻 Precise pollination.md",
-    "about/problems/biological/❄️ Overwintering collapse.md",
-    "about/products/scales/scales.md",
-    "about/products/index.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

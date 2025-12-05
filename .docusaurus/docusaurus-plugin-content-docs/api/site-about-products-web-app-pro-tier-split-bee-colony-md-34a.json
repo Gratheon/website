@@ -1,0 +1,26 @@
+{
+  "id": "products/web_app/pro tier/split_bee_colony",
+  "title": "🐝 Split a bee colony",
+  "description": "Status stable | Priority: medium",
+  "source": "@site/about/products/web_app/pro tier/split_bee_colony.md",
+  "sourceDirName": "products/web_app/pro tier",
+  "slug": "/products/web_app/pro tier/split_bee_colony",
+  "permalink": "/about/products/web_app/pro tier/split_bee_colony",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete",
+    "title": "🐝 Split a bee colony"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪲 Hive beetle detection",
+    "permalink": "/about/products/web_app/pro tier/ideas 💡/🪲 Hive beetle detection"
+  },
+  "next": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/web_app/pro tier/🎥 Video streaming from phone"
+  }
+}

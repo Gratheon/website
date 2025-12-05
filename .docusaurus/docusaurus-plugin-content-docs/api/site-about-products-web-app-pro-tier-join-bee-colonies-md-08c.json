@@ -1,0 +1,26 @@
+{
+  "id": "products/web_app/pro-tier/join_bee_colonies",
+  "title": "🫶🏻 Join colonies",
+  "description": "🎯 Purpose",
+  "source": "@site/about/products/web_app/pro-tier/join_bee_colonies.md",
+  "sourceDirName": "products/web_app/pro-tier",
+  "slug": "/products/web_app/pro-tier/join_bee_colonies",
+  "permalink": "/about/products/web_app/pro-tier/join_bee_colonies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete",
+    "title": "🫶🏻 Join colonies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪲 Hive beetle detection",
+    "permalink": "/about/products/web_app/pro-tier/ideas 💡/🪲 Hive beetle detection"
+  },
+  "next": {
+    "title": "🐝 Split a bee colony",
+    "permalink": "/about/products/web_app/pro-tier/split_bee_colony"
+  }
+}

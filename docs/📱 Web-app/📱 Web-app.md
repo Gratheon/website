@@ -126,7 +126,7 @@ Users can share individual hive inspections with others via a unique public URL.
 
 Create new hives by moving selected frames from a strong colony. Prevents swarming and enables apiary expansion.
 
-See [Split Colony Feature Documentation](../../about/products/web_app/pro%20tier/↔️%20Create%20colony%20split.md) for complete user guide.
+See [Split Colony Feature Documentation](../../about/products/web_app/pro-tier/split_bee_colony.md) for complete user guide.
 
 **Technical Overview:**
 -   **Mutation:** `splitHive(sourceHiveId, name, frameIds)` - Creates new hive with 1-10 selected frames
@@ -138,7 +138,7 @@ See [Split Colony Feature Documentation](../../about/products/web_app/pro%20tier
 
 Merge two colonies by moving boxes from source to target hive. Strengthens weak colonies and manages queen genetics.
 
-See [Join Colonies Feature Documentation](../../about/products/web_app/pro%20tier/🫶🏻%20Join%20colonies.md) for complete user guide.
+See [Join Colonies Feature Documentation](../../about/products/web_app/pro-tier/join_bee_colonies.md) for complete user guide.
 
 **Technical Overview:**
 -   **Mutation:** `joinHives(sourceHiveId, targetHiveId, mergeType)` - Merges hives with queen management options
