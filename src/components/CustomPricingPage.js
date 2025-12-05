@@ -105,7 +105,9 @@ export default function CustomPricingPage() {
                 <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video Stream Playback</Link></li>
                 <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
                 <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
-                <li>📈 Hive telemetry storage (1 hour resolution)</li>
+                <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
+                <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/starter-tier/join_bee_colonies">Colony Joining Tool</Link></li>
+                <li>📅 &nbsp;<Link to="/about/products/web_app/pro-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -149,12 +151,9 @@ export default function CustomPricingPage() {
                 <li>📈 Hive telemetry storage</li>
                 <li>📊 Timeseries data analytics</li>
                 <li>🔔 AI-driven anomaly detection</li>
-                <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
-                <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/starter-tier/join_bee_colonies">Colony Joining Tool</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/pro-tier/hive_ownership_transfer">Hive ownership transfer</Link></li>
                 <li>⚖️ &nbsp;<Link to="/about/products/web_app/pro-tier/colony_comparison_analytics">Colony comparison analytics</Link></li>
                 <li>📦 &nbsp;<Link to="/about/products/web_app/pro-tier/inventory_management">Inventory management system</Link></li>
-                <li>📅 &nbsp;<Link to="/about/products/web_app/pro-tier/📅 Varroa Treatment diary">Advanced treatment tracking</Link></li>
                 <li>📓 Unlimited inspections per hive</li>
               </ul>
             </div>
@@ -164,7 +163,7 @@ export default function CustomPricingPage() {
                 <li>📈 Min 10 min telemetry resolution</li>
                 <li>🧑‍🚀 Up to 20 user accounts</li>
                 <li>🐝 Up to 150 hives</li>
-                <li>⛄️ 2 year image retention</li>
+                <li>⛄️ 3 year image retention</li>
               </ul>
             </div>
           </div>
@@ -196,7 +195,6 @@ export default function CustomPricingPage() {
               <h4>Features</h4>
               <ul className="pricing-card-features">
                 <li>🔔 &nbsp;<Link to="/about/products/web_app/flexible-tier/alerts">Alert management</Link></li>
-                <li>📈 High-resolution telemetry (up to 30 sec)</li>
                 <li>🎥 Entrance observer video analytics</li>
                 <li>📲 SMS alert notifications</li>
                 <li>🪝 Webhooks & API integrations</li>
