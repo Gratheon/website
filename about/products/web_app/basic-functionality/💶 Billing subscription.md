@@ -4,8 +4,6 @@ status: complete
 
 # 💶 Billing subscription
 
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Purpose
 Manages user subscriptions and billing for Gratheon platform tiers, enabling access to premium features and services based on subscription level.
 

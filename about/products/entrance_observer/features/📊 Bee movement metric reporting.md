@@ -1,7 +1,5 @@
 # 📊 Bee movement metric reporting
 
-**Status**: `feature` | **Development Stage**: `beta` | **Priority**: `high`
-
 ### 🎯 Purpose
 Collects, processes and transmits comprehensive bee movement analytics from entrance monitoring to provide actionable insights for beekeepers.
 

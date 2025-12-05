@@ -4,8 +4,6 @@ status: complete
 
 # 🧑‍🚀 User registration
 
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Purpose
 Enables new users to create accounts on the Gratheon platform with email verification and automatic language detection for localized onboarding experience.
 

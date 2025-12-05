@@ -1,7 +1,5 @@
 # 🐝 Guard detection
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Automatically detect and count guard bees stationed at the hive entrance to monitor colony defense capabilities and security status.
 

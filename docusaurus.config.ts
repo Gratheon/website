@@ -86,11 +86,6 @@ const config: Config = {
           beforeDefaultRemarkPlugins: [],
           beforeDefaultRehypePlugins: [],
         },
-
-        gtag: {
-          trackingID: "G-XXXXXXXXXX",
-          anonymizeIP: true,
-        },
       } satisfies Preset.Options,
     ],
   ],
@@ -253,6 +248,12 @@ const config: Config = {
   } satisfies Preset.ThemeConfig,
 
   plugins: [
+    [
+      "@docusaurus/plugin-google-tag-manager",
+      {
+        containerId: "GTM-KH4KC9",
+      },
+    ],
     [
       "@docusaurus/plugin-content-docs",
       {

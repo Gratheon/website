@@ -4,8 +4,6 @@ status: complete
 
 # 🧑‍🚀 User login
 
-**Status**: `complete`
-
 ### 🎯 Purpose
 Secure access to your beekeeping data with automatic login and password recovery. Your hive information is protected while staying easily accessible when you need it.
 

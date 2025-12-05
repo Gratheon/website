@@ -1,7 +1,5 @@
 # 🌻 Detect bees with pollen for foraging statistics
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `high`
-
 ### 🎯 Purpose
 Automatically detect and count bees carrying pollen loads at the hive entrance to track foraging activity and assess colony nutrition sources.
 

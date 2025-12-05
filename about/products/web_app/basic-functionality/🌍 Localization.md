@@ -1,7 +1,5 @@
 # 🌍 Localization
 
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Provides multi-language support for the web application with automatic language detection and user-configurable language preferences.
 

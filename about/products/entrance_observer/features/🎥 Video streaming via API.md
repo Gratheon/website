@@ -1,7 +1,5 @@
 # 🎥 Video streaming via API
 
-**Status**: `feature` | **Development Stage**: `beta` | **Priority**: `high`
-
 ### 🎯 Purpose
 Enables hardware devices to capture and stream video from beehive entrances to the cloud for remote monitoring and AI analysis.
 

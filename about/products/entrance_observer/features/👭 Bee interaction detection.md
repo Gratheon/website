@@ -1,7 +1,5 @@
 # 👭 Bee interaction detection
 
-**Status**: `feature` | **Development Stage**: `prototype` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Detects and analyzes social behaviors between bees at the hive entrance, including feeding interactions and communication behaviors.
 

@@ -1,7 +1,5 @@
 # 🛣️ Landing board heatmap generation
 
-**Status**: `feature` | **Development Stage**: `alpha` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Generates visual heatmaps showing bee movement patterns and activity zones on the landing board to optimize hive entrance design and understand traffic flow.
 

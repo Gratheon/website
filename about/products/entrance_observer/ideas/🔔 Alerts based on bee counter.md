@@ -1,7 +1,5 @@
 # 🔔 Alerts based on bee counter
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `high`
-
 ### 🎯 Purpose
 Generate intelligent alerts based on bee traffic patterns to notify beekeepers of potential issues requiring immediate attention or intervention.
 

@@ -1,7 +1,5 @@
 # 🐝 Detect orientation flights
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `low`
-
 ### 🎯 Purpose
 Detect young bee orientation flights to monitor colony health, track successful bee development, and understand learning behaviors at the hive entrance.
 

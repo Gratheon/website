@@ -1,7 +1,5 @@
 # 🩻 Bee pose generation
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Generate detailed morphometric models and pose estimation for individual bees to enable advanced behavioral analysis and health monitoring.
 

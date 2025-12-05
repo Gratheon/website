@@ -85,10 +85,6 @@ export default {
           "rehypePlugins": [],
           "beforeDefaultRemarkPlugins": [],
           "beforeDefaultRehypePlugins": []
-        },
-        "gtag": {
-          "trackingID": "G-XXXXXXXXXX",
-          "anonymizeIP": true
         }
       }
     ]
@@ -473,6 +469,12 @@ export default {
     }
   },
   "plugins": [
+    [
+      "@docusaurus/plugin-google-tag-manager",
+      {
+        "containerId": "GTM-KH4KC9"
+      }
+    ],
     [
       "@docusaurus/plugin-content-docs",
       {

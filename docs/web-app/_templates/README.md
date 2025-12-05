@@ -39,7 +39,6 @@ cp feature-technical-template.md ../features/[feature-slug].md
 
 2. Fill in the sections:
    - Replace `[Feature Name]` with actual feature name
-   - Set status, development stage, and priority
    - Write technical overview (1-2 sentences)
    - List components and services involved
    - Include actual schema changes with SQL
@@ -51,12 +50,7 @@ cp feature-technical-template.md ../features/[feature-slug].md
    - List technical constraints and limitations
    - Link related technical docs and repos
 
-3. Update metadata:
-   - Set correct status and development stage
-   - Update `Last Updated` date
-   - Set `Maintained By` team
-
-4. Link from marketing page:
+3. Link from marketing page:
    - Ensure corresponding marketing page links to this doc
 
 ## Guidelines

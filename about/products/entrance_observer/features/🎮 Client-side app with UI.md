@@ -1,7 +1,5 @@
 # 🎮 Client-side app with UI
 
-**Status**: `feature` | **Development Stage**: `beta` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Provides local web-based interface for beekeepers to monitor entrance observer metrics and video streams when internet connectivity is unavailable.
 

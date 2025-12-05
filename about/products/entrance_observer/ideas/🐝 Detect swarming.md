@@ -1,7 +1,5 @@
 # 🐝 Detect swarming
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `high`
-
 ### 🎯 Purpose
 Automatically detect swarm preparation and swarming events at the hive entrance to provide early warning for beekeepers to take preventive action.
 

@@ -2,10 +2,6 @@
 status: complete
 ---
 
-## 🧮 Hive Bottom Board & Varroa Monitoring
-
-**Status**: `feature` | **Development Stage**: `beta` | **Priority**: `high`
-
 ### 🎯 Purpose
 Track varroa mite infestation levels by uploading and analyzing images of the hive bottom board (the white slideable panel used for varroa mite counting).
 

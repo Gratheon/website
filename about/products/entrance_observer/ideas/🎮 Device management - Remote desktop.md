@@ -1,7 +1,5 @@
 # 🎮 Device management - Remote desktop
 
-**Status**: `idea` | **Development Stage**: `concept` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Enables remote desktop access to entrance observer devices for troubleshooting, configuration, and maintenance without physical access.
 

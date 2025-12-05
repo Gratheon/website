@@ -6,8 +6,6 @@ Use this template for consistent documentation across all features and ideas.
 
 ## 📝 [Feature/Idea Name]
 
-**Status**: `[feature|idea|todo]` | **Development Stage**: `[concept|prototype|alpha|beta|stable]` | **Priority**: `[low|medium|high|critical]`
-
 ### 🎯 Purpose
 Brief 1-2 sentence description of what this feature does or aims to achieve.
 

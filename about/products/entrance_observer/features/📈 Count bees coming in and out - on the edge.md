@@ -1,7 +1,5 @@
 # 📈 Count bees coming in and out - on the edge
 
-**Status**: `feature` | **Development Stage**: `alpha` | **Priority**: `high`
-
 ### 🎯 Purpose
 Real-time bee traffic monitoring system that counts individual bees entering and exiting the hive using computer vision on edge devices.
 

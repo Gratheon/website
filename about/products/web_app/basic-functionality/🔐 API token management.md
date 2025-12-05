@@ -4,8 +4,6 @@ status: complete
 
 # 🔐 API token management
 
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `high`
-
 ### 🎯 Purpose
 Enables users to generate, manage, and revoke API tokens for secure access to Gratheon services from external devices and applications.
 

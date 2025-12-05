@@ -4,8 +4,6 @@ status: complete
 
 # 🙅 User account deletion
 
-**Status**: `feature` | **Development Stage**: `stable` | **Priority**: `medium`
-
 ### 🎯 Purpose
 Enables users to permanently delete their Gratheon accounts and associated data in compliance with privacy regulations and app store requirements.
 
