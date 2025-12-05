@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/hobbyist-tier/apiary-management",
+  "title": "apiary-management",
+  "description": "",
+  "source": "@site/about/products/web_app/hobbyist-tier/apiary-management.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/apiary-management",
+  "permalink": "/about/products/web_app/hobbyist-tier/apiary-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧑‍🚀 User registration",
+    "permalink": "/about/products/web_app/basic-functionality/🧑‍🚀 User registration"
+  },
+  "next": {
+    "title": "frame-photo-upload",
+    "permalink": "/about/products/web_app/hobbyist-tier/frame-photo-upload"
+  }
+}

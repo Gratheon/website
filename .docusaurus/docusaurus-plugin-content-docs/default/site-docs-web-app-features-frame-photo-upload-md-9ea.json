@@ -1,0 +1,24 @@
+{
+  "id": "web-app/features/frame-photo-upload",
+  "title": "frame-photo-upload",
+  "description": "",
+  "source": "@site/docs/web-app/features/frame-photo-upload.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/frame-photo-upload",
+  "permalink": "/docs/web-app/features/frame-photo-upload",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/frame-photo-upload.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Join Colonies - Technical Documentation",
+    "permalink": "/docs/web-app/features/join-colonies"
+  },
+  "next": {
+    "title": "gate-video-stream",
+    "permalink": "/docs/web-app/🥞 DB schemas/gate-video-stream"
+  }
+}

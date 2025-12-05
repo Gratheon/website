@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/hobbyist-tier/frame-photo-upload",
+  "title": "frame-photo-upload",
+  "description": "",
+  "source": "@site/about/products/web_app/hobbyist-tier/frame-photo-upload.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/frame-photo-upload",
+  "permalink": "/about/products/web_app/hobbyist-tier/frame-photo-upload",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "apiary-management",
+    "permalink": "/about/products/web_app/hobbyist-tier/apiary-management"
+  },
+  "next": {
+    "title": "♻️ Apiary position sharing",
+    "permalink": "/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing"
+  }
+}

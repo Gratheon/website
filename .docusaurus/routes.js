@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '0ee'),
+    component: ComponentCreator('/about', '84a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e17'),
+        component: ComponentCreator('/about', 'efd'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '03a'),
+            component: ComponentCreator('/about', '4d8'),
             routes: [
               {
                 path: '/about/',
@@ -1301,6 +1301,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/hobbyist-tier/apiary-management',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/apiary-management', '122'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/hobbyist-tier/frame-photo-upload',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/frame-photo-upload', 'edf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing', '923'),
                 exact: true,
@@ -1632,15 +1644,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '16a'),
+    component: ComponentCreator('/docs', 'fc2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '893'),
+        component: ComponentCreator('/docs', 'fb4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f02'),
+            component: ComponentCreator('/docs', '24a'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2065,6 +2077,12 @@ export default [
               {
                 path: '/docs/web-app/Bottom Board Implementation',
                 component: ComponentCreator('/docs/web-app/Bottom Board Implementation', '8de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/frame-photo-upload',
+                component: ComponentCreator('/docs/web-app/features/frame-photo-upload', 'af1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

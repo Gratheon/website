@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-0ee": {
+  "/about-84a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-e17": {
+  "/about-efd": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-03a": {
+  "/about-4d8": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1333,6 +1333,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-🖼️-frame-side-management-578-f3f"
   },
+  "/about/products/web_app/hobbyist-tier/apiary-management-122": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-apiary-managemente-90-d0e"
+  },
+  "/about/products/web_app/hobbyist-tier/frame-photo-upload-edf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-frame-photo-upload-189-c8f"
+  },
   "/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing-923": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-♻️-apiary-position-sharing-4-fd-907"
@@ -1549,17 +1557,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-16a": {
+  "/docs-fc2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-893": {
+  "/docs-fb4": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-f02": {
+  "/docs-24a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
@@ -1845,6 +1853,10 @@
   "/docs/web-app/Bottom Board Implementation-8de": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-bottom-board-implementation-674-9eb"
+  },
+  "/docs/web-app/features/frame-photo-upload-af1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-frame-photo-upload-9-ea-d3a"
   },
   "/docs/web-app/features/join-colonies-46b": {
     "__comp": "__comp---theme-doc-item-178-a40",
