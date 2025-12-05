@@ -82,7 +82,7 @@ export default function CustomPricingPage() {
             </div>
           </div>
           <div className="pricing-card-footer">
-            <Link to="/register" className="pricing-button">Get Started</Link>
+            <Link to="https://app.gratheon.com/account/register" className="pricing-button">Get Started</Link>
           </div>
         </div>
 

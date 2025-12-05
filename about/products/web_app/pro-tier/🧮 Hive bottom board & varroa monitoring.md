@@ -207,7 +207,7 @@ mutation addFileToBox($boxId: ID!, $fileId: ID!, $hiveId: ID!) {
   - `migrations/018-box-files.sql` - Files table migration
 
 ### 🔗 Related Features
-- [🔎 Inspection Management](🔎%20Inspection%20management.md) - Inspection versioning
+- [🔎 Inspection Management](../starter-tier/🔎%20Inspection%20management.md) - Inspection versioning
 - [📺 Video Streaming Playback](../flexible-tier/video_playback.md) - Gate entrance monitoring
 - Varroa Detection Model (in development)
 
