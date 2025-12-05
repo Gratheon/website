@@ -87,7 +87,7 @@ export default function CustomPricingPage() {
         </div>
 
         {/* Starter Plan */}
-        <div className="pricing-card">
+        <div className="pricing-card simple featured">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Starter</div>
             <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}> / month</span></div>
