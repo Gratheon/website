@@ -16,14 +16,7 @@ jobs:
         run: git reset --hard && git pull
       - name: install
         working-directory: /www/website/
-        run: npm i
-        # && npm run build
-      # - name: move
-      #   working-directory: /www/website/
-      #   run: rm -rf /www/website/public && mv /www/website/build /www/website/public
-      # - name: cleanup
-      #   working-directory: /www/website/
-      #   run: rm -rf /www/website/node_modules
+        run: pnpm install
       - name: restart
         working-directory: /www/website/
         run: chmod +x restart.sh && ./restart.sh

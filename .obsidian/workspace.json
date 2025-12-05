@@ -180,6 +180,7 @@
   },
   "active": "51574da3e80e0722",
   "lastOpenFiles": [
+    "pnpm-lock.yaml",
     "public/blog/rss.xml",
     "public/blog/atom.xml",
     "public/blog/atom.css",
@@ -190,7 +191,6 @@
     "public/index.html",
     "public/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques/index.html",
     "public/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species/index.html",
-    "public/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery/index.html",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
