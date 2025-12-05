@@ -7,19 +7,27 @@ Gratheon web app is intended to help beekeepers manage apiary data, communicate 
 
 `status`: [TRL 6](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)
 
-## Core domain entitites
-Such domain entities include:
+## Core domain entities
 
-- Apiary - this is a set of beehives that are located together at specific location. Its easier for beekeepers to manage them this way. Apiary size is limited by the land around it that bees can pollinate.
-- Colony and Queen - Bees superorganism are often named a "bee colony". A queen is the only type of bee that lays eggs and that other worker bees are taking care of.
-	- Race - western honey bees (apis mellifera) have local variations that result in their appearance and behaviour that beekeepers value and want to know about.
-	- Year - queen age tells beekeepers how efficient the colony can be. Max age is 5 years, but as queen gets older, colony strength typically reduces
-- Hive - A beehive as a constructive element, composing of sections and modules.
-	- Hive sections and entrances - a vertical beehive consists of hollow wooden sections that can be of different size and can house beeframes. Section types include: Deep (brood), Super (honey), Entrance (gate), Inner Lid (ventilation), Queen Excluder, Feeder, and Bottom Board.
-	- Bottom Board - The bottom of the hive with a slideable white panel used for varroa mite monitoring
-	- Frames - a wooden frame with wax foundation inside of it that bees live on
-- Inspections - These are (regular) interventions of the beekeeper to understand what is the state of the beehive. We think if it as a snapshot of the entire beehive in time.
-- Treatments - Beekeepers add chemicals to the beehive to combat varroa mites. Keeping a diary-like track of these inspections helps to be consistent.
+| Entity | Description | Key Properties | Source |
+|--------|-------------|----------------|--------|
+| **Apiary** | Set of beehives located together at specific location. Size limited by surrounding land that bees can pollinate | Location (lat/lng), name, active status | swarm-api |
+| **Hive** | Physical beehive structure with vertical sections. Can be split, merged, or collapsed | Name, color, status, boxes, family, split/merge history, collapse tracking | swarm-api |
+| **Family (Colony/Queen)** | Bee superorganism led by queen that lays eggs | Race (apis mellifera variation), added year, age (auto-calculated), treatments | swarm-api |
+| **Box (Hive Section)** | Hollow wooden section that houses frames. Types: Deep (brood), Super (honey), Gate (entrance), Ventilation, Queen Excluder, Horizontal Feeder, Bottom Board | Type, position, color, frames | swarm-api |
+| **Frame** | Wooden frame with wax foundation inside sections. Types: Foundation, Empty Comb, Void, Partition, Feeder | Type, position, left/right sides | swarm-api |
+| **Frame Side** | One side of a frame where photos can be uploaded for AI analysis | File references for images, detected resources | swarm-api, image-splitter |
+| **Inspection** | Snapshot of entire beehive state during beekeeper intervention. Stores JSON data of hive composition at specific time | Hive ID, data (JSON), timestamp | swarm-api |
+| **Treatment** | Anti-varroa chemical interventions tracked per family/box/hive for medical history | Type, timestamp, target (hive/box/family) | swarm-api |
+| **File** | Uploaded images (frame photos, bottom board varroa photos). Processed through AI detection pipeline | Hash, dimensions, user ID, file type, detection jobs | image-splitter, gate-video-stream |
+| **Detected Resources** | AI-detected cell types on frame photos: Capped brood, Eggs, Honey, Larvae, Nectar, Pollen, Other | Class, coordinates (x,y), radius, probability | image-splitter |
+| **Detected Bees/Queens** | AI-detected bee and queen positions on frames | Bounding boxes, confidence scores | image-splitter |
+| **Detected Varroa** | AI-detected varroa mites on bottom board photos | Count, positions (coming soon) | image-splitter |
+| **Metrics (Telemetry)** | Time-series sensor data from IoT devices | Temperature (°C), humidity (%), weight (kg), timestamp | telemetry-api |
+| **Entrance Movement** | Bee traffic analysis from entrance video cameras | Bees in/out, net flow, speed stats, stationary bees, interactions | telemetry-api |
+| **Alert** | Generated warnings based on metric thresholds and rules | Text, metric type/value, hive ID, delivery status, timestamp | alerts |
+| **Alert Rule** | User-defined conditions that trigger alerts | Metric type, condition, threshold, duration, enabled status, scope (hive/apiary) | alerts |
+| **Alert Channel** | Delivery methods for alerts | Type (email/phone/telegram), contact info, time window, enabled status | alerts |
 
 ![](../../img/web-app.png)
 
