@@ -180,6 +180,9 @@
   },
   "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
+    "about/products/web_app/pro-tier/inventory_management.md",
+    "about/products/web_app/pro-tier/colony_comparison_analytics.md",
+    "about/products/web_app/pro-tier/hive_ownership_transfer.md",
     "about/products/web_app/flexible-tier/alerts.md",
     "about/products/web_app/flexible-tier/video_playback.md",
     "about/products/web_app/pro-tier/alerts.md",
@@ -223,9 +226,6 @@
     "node_modules/serve-static/node_modules/send/SECURITY.md",
     "node_modules/raw-body/node_modules/iconv-lite/Changelog.md",
     "node_modules/serve-static/node_modules/debug/CHANGELOG.md",
-    "node_modules/rc/node_modules/ini/README.md",
-    "node_modules/send/node_modules/http-errors/README.md",
-    "node_modules/send/node_modules/statuses/README.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

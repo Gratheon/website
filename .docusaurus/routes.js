@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'ffe'),
+    component: ComponentCreator('/about', '68d'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e2a'),
+        component: ComponentCreator('/about', '180'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8f7'),
+            component: ComponentCreator('/about', '57f'),
             routes: [
               {
                 path: '/about/',
@@ -1409,6 +1409,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/pro-tier/colony_comparison_analytics',
+                component: ComponentCreator('/about/products/web_app/pro-tier/colony_comparison_analytics', '6ce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro-tier/hive_ownership_transfer',
+                component: ComponentCreator('/about/products/web_app/pro-tier/hive_ownership_transfer', 'ee5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer',
                 component: ComponentCreator('/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer', '709'),
                 exact: true,
@@ -1561,6 +1573,12 @@ export default [
               {
                 path: '/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration',
                 component: ComponentCreator('/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration', '10a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/pro-tier/inventory_management',
+                component: ComponentCreator('/about/products/web_app/pro-tier/inventory_management', 'd60'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

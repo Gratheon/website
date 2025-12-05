@@ -636,17 +636,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-ffe": {
+  "/about-68d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-e2a": {
+  "/about-180": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-8f7": {
+  "/about-57f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1405,6 +1405,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-alerts-656-3dc"
   },
+  "/about/products/web_app/pro-tier/colony_comparison_analytics-6ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-colony-comparison-analyticsbef-894"
+  },
+  "/about/products/web_app/pro-tier/hive_ownership_transfer-ee5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-hive-ownership-transfer-690-cb0"
+  },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer-709": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-♻️-hive-ownership-transferc-02-e6b"
@@ -1508,6 +1516,10 @@
   "/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration-10a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integrationb-78-9fd"
+  },
+  "/about/products/web_app/pro-tier/inventory_management-d60": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-inventory-managementc-48-bb0"
   },
   "/about/products/web_app/starter-tier/✏️ Drawing on canvas-ad9": {
     "__comp": "__comp---theme-doc-item-178-a40",

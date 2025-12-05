@@ -1390,6 +1390,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/pro-tier/colony_comparison_analytics",
+              "path": "/about/products/web_app/pro-tier/colony_comparison_analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/hive_ownership_transfer",
+              "path": "/about/products/web_app/pro-tier/hive_ownership_transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "path": "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer",
               "sidebar": "tutorialSidebar"
@@ -1517,6 +1527,11 @@
             {
               "id": "products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration",
               "path": "/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/inventory_management",
+              "path": "/about/products/web_app/pro-tier/inventory_management",
               "sidebar": "tutorialSidebar"
             },
             {

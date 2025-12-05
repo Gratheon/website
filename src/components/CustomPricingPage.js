@@ -64,11 +64,11 @@ export default function CustomPricingPage() {
               <ul className="pricing-card-features">
                 <li>📦 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/apiary-management">Apiary & Hive Management</Link></li>
                 <li>🖼️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/frame-photo-upload">Frame Photo Upload</Link></li>
-                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝%20Frame%20analysis%20-%20bee%20counter">Worker Bee Detection</Link></li>
+                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Worker bee detection">Worker Bee Detection</Link></li>
                 <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/queen-detection">Queen Detection</Link></li>
-                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝%20Honeycomb%20cell%20detection%20%26%20management">Cell Analysis</Link></li>
-                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️%20Public%20beehive%20view">Public Hive Sharing</Link></li>
-                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️%20QR-code%20generation">QR Code Generation</Link></li>
+                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
+                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
+                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -99,14 +99,13 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
-                <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖%20Beekeeping%20advice%20with%20LLM">AI Beekeeping Assistant</Link></li>
-                <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎%20Inspection%20management">Inspection Management</Link></li>
-                <li>🧮 &nbsp;<Link to="/about/products/web_app/pro-tier/🧮%20Hive%20bottom%20board%20%26%20varroa%20monitoring">Varroa Monitoring</Link></li>
+                <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
+                <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
+                <li>🧮 &nbsp;<Link to="/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring">Varroa Monitoring</Link></li>
                 <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video Stream Playback</Link></li>
-                <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️%20Drawing%20on%20canvas">Frame Annotation Tool</Link></li>
-                <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭%20Feeding%20history">Feeding History</Link></li>
+                <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
+                <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                 <li>📈 Hive telemetry storage (1 hour resolution)</li>
-                <li>🔔 &nbsp;<Link to="/about/products/web_app/flexible-tier/alerts">Alert management</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -147,21 +146,22 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
-                <li>📈 Hive telemetry storage (10 min resolution)</li>
-                <li>📊 Timeseries data analytics & anomaly detection</li>
-                <li>🔔 Smart alert system</li>
-                <li>↔️ &nbsp;<Link to="/about/products/web_app/pro-tier/split_bee_colony">Colony Split Management</Link></li>
-                <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/pro-tier/join_bee_colonies">Colony Joining Tool</Link></li>
-                <li>♻️ Hive ownership transfer</li>
-                <li>⚖️ Colony comparison analytics</li>
-                <li>📦 Inventory management system</li>
-                <li>📅 Advanced treatment tracking</li>
+                <li>📈 Hive telemetry storage</li>
+                <li>📊 Timeseries data analytics</li>
+                <li>🔔 AI-driven anomaly detection</li>
+                <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
+                <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/starter-tier/join_bee_colonies">Colony Joining Tool</Link></li>
+                <li>♻️ &nbsp;<Link to="/about/products/web_app/pro-tier/hive_ownership_transfer">Hive ownership transfer</Link></li>
+                <li>⚖️ &nbsp;<Link to="/about/products/web_app/pro-tier/colony_comparison_analytics">Colony comparison analytics</Link></li>
+                <li>📦 &nbsp;<Link to="/about/products/web_app/pro-tier/inventory_management">Inventory management system</Link></li>
+                <li>📅 &nbsp;<Link to="/about/products/web_app/pro-tier/📅 Varroa Treatment diary">Advanced treatment tracking</Link></li>
                 <li>📓 Unlimited inspections per hive</li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
               <h4>Limitations</h4>
               <ul className="pricing-card-features">
+                <li>📈 Min 10 min telemetry resolution</li>
                 <li>🧑‍🚀 Up to 20 user accounts</li>
                 <li>🐝 Up to 150 hives</li>
                 <li>⛄️ 2 year image retention</li>
@@ -195,6 +195,7 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
+                <li>🔔 &nbsp;<Link to="/about/products/web_app/flexible-tier/alerts">Alert management</Link></li>
                 <li>📈 High-resolution telemetry (up to 30 sec)</li>
                 <li>🎥 Entrance observer video analytics</li>
                 <li>📲 SMS alert notifications</li>

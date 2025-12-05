@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/pro-tier/colony_comparison_analytics",
+  "title": "⚖️ Colony comparison analytics",
+  "description": "Colony comparison analytics provides side-by-side comparison of multiple hives to identify trends, patterns, and performance differences.",
+  "source": "@site/about/products/web_app/pro-tier/colony_comparison_analytics.md",
+  "sourceDirName": "products/web_app/pro-tier",
+  "slug": "/products/web_app/pro-tier/colony_comparison_analytics",
+  "permalink": "/about/products/web_app/pro-tier/colony_comparison_analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "⚖️ Colony comparison analytics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔔  Alerts",
+    "permalink": "/about/products/web_app/pro-tier/alerts"
+  },
+  "next": {
+    "title": "♻️ Hive ownership transfer",
+    "permalink": "/about/products/web_app/pro-tier/hive_ownership_transfer"
+  }
+}

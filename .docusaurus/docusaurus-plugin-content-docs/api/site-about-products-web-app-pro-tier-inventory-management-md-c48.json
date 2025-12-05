@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/pro-tier/inventory_management",
+  "title": "📦 Inventory management system",
+  "description": "Inventory management helps beekeepers track equipment, supplies, and beekeeping materials across multiple locations.",
+  "source": "@site/about/products/web_app/pro-tier/inventory_management.md",
+  "sourceDirName": "products/web_app/pro-tier",
+  "slug": "/products/web_app/pro-tier/inventory_management",
+  "permalink": "/about/products/web_app/pro-tier/inventory_management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📦 Inventory management system"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪲 Hive beetle detection",
+    "permalink": "/about/products/web_app/pro-tier/ideas 💡/🪲 Hive beetle detection"
+  },
+  "next": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/web_app/pro-tier/🎥 Video streaming from phone"
+  }
+}
