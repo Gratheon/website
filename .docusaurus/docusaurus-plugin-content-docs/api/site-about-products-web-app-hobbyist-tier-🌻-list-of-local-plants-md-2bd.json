@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/hobbyist-tier/🌻 list of local plants",
+  "title": "🌻 list of local plants",
+  "description": "User story",
+  "source": "@site/about/products/web_app/hobbyist-tier/🌻 list of local plants.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/🌻 list of local plants",
+  "permalink": "/about/products/web_app/hobbyist-tier/🌻 list of local plants",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "♻️ QR-code generation",
+    "permalink": "/about/products/web_app/hobbyist-tier/♻️ QR-code generation"
+  },
+  "next": {
+    "title": "🐝 Frame analysis - bee counter",
+    "permalink": "/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter"
+  }
+}

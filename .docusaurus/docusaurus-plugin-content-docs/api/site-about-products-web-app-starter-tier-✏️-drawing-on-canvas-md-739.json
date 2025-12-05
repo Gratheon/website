@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/starter-tier/✏️ Drawing on canvas",
+  "title": "✏️ Drawing on canvas",
+  "description": "User story",
+  "source": "@site/about/products/web_app/starter-tier/✏️ Drawing on canvas.md",
+  "sourceDirName": "products/web_app/starter-tier",
+  "slug": "/products/web_app/starter-tier/✏️ Drawing on canvas",
+  "permalink": "/about/products/web_app/starter-tier/✏️ Drawing on canvas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🦀 Varroa mite detection",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa mite detection"
+  },
+  "next": {
+    "title": "🍭 Feeding history",
+    "permalink": "/about/products/web_app/starter-tier/🍭 Feeding history"
+  }
+}

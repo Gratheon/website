@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter",
+  "title": "🐝 Frame analysis - bee counter",
+  "description": "User story",
+  "source": "@site/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter",
+  "permalink": "/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌻 list of local plants",
+    "permalink": "/about/products/web_app/hobbyist-tier/🌻 list of local plants"
+  },
+  "next": {
+    "title": "🐝 Frame side queen cup detection",
+    "permalink": "/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection"
+  }
+}

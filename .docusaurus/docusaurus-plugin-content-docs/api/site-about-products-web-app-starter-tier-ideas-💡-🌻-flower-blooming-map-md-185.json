@@ -1,0 +1,23 @@
+{
+  "id": "products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map",
+  "title": "🌻 Flower blooming map",
+  "description": "Idea is to show when specific flower within apiary vicinity is blooming.",
+  "source": "@site/about/products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map.md",
+  "sourceDirName": "products/web_app/starter-tier/ideas 💡",
+  "slug": "/products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map",
+  "permalink": "/about/products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "☀️ Solar radiance as weather datasource",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/☀️ Solar radiance as weather datasource"
+  },
+  "next": {
+    "title": "🐝 Drone brood detection",
+    "permalink": "/about/products/web_app/starter-tier/ideas 💡/🐝 Drone brood detection"
+  }
+}

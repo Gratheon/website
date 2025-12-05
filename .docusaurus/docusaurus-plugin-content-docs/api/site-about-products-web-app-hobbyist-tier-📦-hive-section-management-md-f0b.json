@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/hobbyist-tier/📦 Hive section management",
+  "title": "📦 Hive section management",
+  "description": "",
+  "source": "@site/about/products/web_app/hobbyist-tier/📦 Hive section management.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/📦 Hive section management",
+  "permalink": "/about/products/web_app/hobbyist-tier/📦 Hive section management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Hive management",
+    "permalink": "/about/products/web_app/hobbyist-tier/📦 Hive management"
+  },
+  "next": {
+    "title": "📸 Frame side photo upload",
+    "permalink": "/about/products/web_app/hobbyist-tier/📸 Frame side photo upload"
+  }
+}

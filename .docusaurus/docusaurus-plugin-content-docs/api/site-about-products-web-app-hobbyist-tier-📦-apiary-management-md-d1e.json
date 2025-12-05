@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/hobbyist-tier/📦 Apiary management",
+  "title": "📦 Apiary management",
+  "description": "Status stable | Priority: high",
+  "source": "@site/about/products/web_app/hobbyist-tier/📦 Apiary management.md",
+  "sourceDirName": "products/web_app/hobbyist-tier",
+  "slug": "/products/web_app/hobbyist-tier/📦 Apiary management",
+  "permalink": "/about/products/web_app/hobbyist-tier/📦 Apiary management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "status": "complete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👑 Queen management",
+    "permalink": "/about/products/web_app/hobbyist-tier/👑 Queen management"
+  },
+  "next": {
+    "title": "📦 Hive management",
+    "permalink": "/about/products/web_app/hobbyist-tier/📦 Hive management"
+  }
+}
