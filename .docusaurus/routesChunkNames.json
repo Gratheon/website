@@ -1,2498 +1,2541 @@
 {
-  "/blog-3e7": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "sidebar": "814f3328",
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-3e7": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "99e95662"
+        "content": "content---blog-99-e-858"
       },
       {
-        "content": "51fd1bf0"
+        "content": "content---blog-51-f-9c3"
       },
       {
-        "content": "5e2e3b12"
+        "content": "content---blog-5-e-2-ae1"
       },
       {
-        "content": "1c4d8cd2"
+        "content": "content---blog-1-c-4-ed3"
       },
       {
-        "content": "1c2cfd06"
+        "content": "content---blog-1-c-2-c8a"
       },
       {
-        "content": "4f73397c"
+        "content": "content---blog-4-f-7-4cb"
       },
       {
-        "content": "0eedd6fe"
+        "content": "content---blog-0-ee-571"
       },
       {
-        "content": "fa44c947"
+        "content": "content---blogfa-4-729"
       },
       {
-        "content": "b756995d"
+        "content": "content---blogb-75-acf"
       },
       {
-        "content": "3a6c6efe"
+        "content": "content---blog-3-a-6-3d7"
       },
       {
-        "content": "32af1b4b"
+        "content": "content---blog-32-a-860"
       },
       {
-        "content": "c9a8ecd6"
+        "content": "content---blogc-9-a-1d5"
       },
       {
-        "content": "bc471d38"
+        "content": "content---blogbc-4-8c6"
       },
       {
-        "content": "e126a871"
+        "content": "content---bloge-12-7e0"
       },
       {
-        "content": "ac4c6fb4"
+        "content": "content---blogac-4-3b8"
       },
       {
-        "content": "b7ea85ef"
+        "content": "content---blogb-7-e-644"
       },
       {
-        "content": "43391712"
+        "content": "content---blog-433-afa"
       },
       {
-        "content": "e154156a"
+        "content": "content---bloge-15-038"
       },
       {
-        "content": "77621ed5"
+        "content": "content---blog-776-f29"
       },
       {
-        "content": "fa730fa6"
+        "content": "content---blogfa-7-10c"
       }
     ],
-    "__props": "c15d9823"
+    "__props": "__props---blogc-15-573"
   },
   "/blog/2023/01/12/ 💶 Pitched to Picus Capital-7b0": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "5e9b843f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-01-12-💶-pitched-to-picus-capital-5-e-9-a9a"
   },
   "/blog/2023/10/10/ 🎒 Tehnopol tech startup bootcamp-f47": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "ff044014"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-10-🎒-tehnopol-tech-startup-bootcampff-0-878"
   },
   "/blog/2023/10/27/ 🛠️ Winner in API World + AI DevWorld Hackaton-33f": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "5c772a33"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-27-🛠️-winner-in-api-world-ai-dev-world-hackaton-5-c-7-394"
   },
   "/blog/2023/10/28/ 🛠️ Climathon hackathon-3f3": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "46df2af5"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-10-28-🛠️-climathon-hackathon-46-d-669"
   },
   "/blog/2023/11/05/ 🛰️ Participated in Garage48 Cassini hackathon-e9b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "47ac1116"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-11-05-🛰️-participated-in-garage-48-cassini-hackathon-47-a-d1e"
   },
   "/blog/2023/11/23/ 📢 Featured in a Delfi article-4be": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "6c99cf4e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-11-23-📢-featured-in-a-delfi-article-6-c-9-809"
   },
   "/blog/2023/12/06/ 📢 EstoniAI Meetup v5-cac": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "7221ffe4"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-12-06-📢-estoni-ai-meetup-v-5722-154"
   },
   "/blog/2023/12/20/ 📢 Devclub.eu talk about AI and bees-5d1": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "ae0dfdf9"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2023-12-20-📢-devclub-eu-talk-about-ai-and-beesae-0-ce3"
   },
   "/blog/2024/01/26/ 💶 Visiting Startup Day 2024-97c": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "286fee50"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-01-26-💶-visiting-startup-day-2024286-bde"
   },
   "/blog/2024/02/29/ 📢 Pitched at Founders Live-d73": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "2c96f76e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-02-29-📢-pitched-at-founders-live-2-c-9-a83"
   },
   "/blog/2024/03/24/ 📺 Kanal 7 interview-e1f": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "dcea8c13"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-03-24-📺-kanal-7-interviewdce-da4"
   },
   "/blog/2024/03/27/ 🎒 Participated in EAS.ee deeptech grant qualifications webinar-f89": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "a33cc7a6"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-03-27-🎒-participated-in-eas-ee-deeptech-grant-qualifications-webinara-33-3e7"
   },
   "/blog/2024/04/12/ 💶 Pitch to 500co-dac": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "16f0a8d7"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-04-12-💶-pitch-to-500-co-16-f-485"
   },
   "/blog/2024/05/05/ 💶 Sent deck to tilia.vc-352": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "be227058"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-💶-sent-deck-to-tilia-vcbe-2-943"
   },
   "/blog/2024/05/05/ 💶 Visited Latitude59-24b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "84fa48e7"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-💶-visited-latitude-5984-f-ca6"
   },
   "/blog/2024/05/05/ 🛠️ Participated in Prototron.ee fund-0e4": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "6856e000"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-05-🛠️-participated-in-prototron-ee-fund-685-edf"
   },
   "/blog/2024/06/10/ 🎒 Hosting internship school for QA engineers-8c3": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "8d023e88"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-10-🎒-hosting-internship-school-for-qa-engineers-8-d-0-f34"
   },
   "/blog/2024/06/17/ 💶 Pitch to purposetech.vc-dc4": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "d1d63994"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-17-💶-pitch-to-purposetech-vcd-1-d-7d3"
   },
   "/blog/2024/06/27/ 🛠️ Participated in K-space.ee hackathon-491": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "3784f427"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-06-27-🛠️-participated-in-k-space-ee-hackathon-378-424"
   },
   "/blog/2024/09/26/ 🎒 Attended Building a Viral Product Webinar-0a5": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "691f3f7f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-09-26-🎒-attended-building-a-viral-product-webinar-691-82c"
   },
   "/blog/2024/11/04/ 🎒 JAMK workshop 🇫🇮-eea": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "113e39ce"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-04-🎒-jamk-workshop-🇫🇮-113-625"
   },
   "/blog/2024/11/19/ 🎒 Attended Practical startup strategy webinar-f7b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "3e4c8fa5"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🎒-attended-practical-startup-strategy-webinar-3-e-4-19f"
   },
   "/blog/2024/11/19/ 🔬 Attended open hardware webinar-fe5": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "88d05031"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🔬-attended-open-hardware-webinar-88-d-6e2"
   },
   "/blog/2024/11/19/ 🛠️ Attending Garage48 hackaton Andmetorm kick-off-ac5": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "3eea779e"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-19-🛠️-attending-garage-48-hackaton-andmetorm-kick-off-3-ee-95e"
   },
   "/blog/2024/11/22/ 🎒 PurposeTech Early traction webinar-e2e": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "2d1bc889"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-22-🎒-purpose-tech-early-traction-webinar-2-d-1-461"
   },
   "/blog/2024/11/29/ 🛠️ Andmetorm hackathon-06b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "d45b41c0"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-29-🛠️-andmetorm-hackathond-45-fa6"
   },
   "/blog/2024/11/30/ 🤝 Gratheon joins NVIDIA Inception Program-2f3": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "46e278a6"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-11-30-🤝-gratheon-joins-nvidia-inception-program-46-e-404"
   },
   "/blog/2024/12/02/ 📢 Participated in Startup Pitch Practice webinar by Founder Institute-2f5": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "0d3879fc"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-12-02-📢-participated-in-startup-pitch-practice-webinar-by-founder-institute-0-d-3-3be"
   },
   "/blog/2024/12/03/ 🎒 Attended \"Robotics is easy\" local webinar for schools-283": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "a804c1f2"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-12-03-🎒-attended-robotics-is-easy-local-webinar-for-schoolsa-80-a62"
   },
   "/blog/2025/01/13/ 🤝 Visited VIDRIK-fa9": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "332e9a97"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-01-13-🤝-visited-vidrik-332-1bf"
   },
   "/blog/2025/02/19/ 🎒 Visited AI TalTech webinar-a7e": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "3256fee2"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-19-🎒-visited-ai-tal-tech-webinar-325-9d9"
   },
   "/blog/2025/02/20/ 💶 Tehnopol AI pre-accelerator event-16c": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "be85455c"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-02-20-💶-tehnopol-ai-pre-accelerator-eventbe-8-9d6"
   },
   "/blog/2025/03/19/ 💶 Tehnopol AI accelerator pitch-921": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "9cbe0656"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-03-19-💶-tehnopol-ai-accelerator-pitch-9-cb-eff"
   },
   "/blog/2025/04/25/ 💶  Attending EIC Accelerator and Ready2Scale webinar-2d3": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "942e0aaa"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-04-25-💶-attending-eic-accelerator-and-ready-2-scale-webinar-942-5d4"
   },
   "/blog/2025/05/13/ 🎒 ESTBAN Red flags in legal-cda": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "d1b3c02a"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-05-13-🎒-estban-red-flags-in-legald-1-b-091"
   },
   "/blog/2025/05/15/ 🎒 gscan webinar-ca7": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "2ad6baa8"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-05-15-🎒-gscan-webinar-2-ad-7ef"
   },
   "/blog/2025/10/10/ 🔬 Gratheon Whitepaper-08c": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "50231e49"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-10-10-🔬-gratheon-whitepaper-502-5ba"
   },
   "/blog/2025/10/16/ 🎒 Visual AI in Agriculture Webinar-fc7": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "41baec47"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-10-16-🎒-visual-ai-in-agriculture-webinar-41-b-b14"
   },
   "/blog/2025/11/15/ Prototron top 40 application form-d79": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---blog-2023-01-12-💶-pitched-to-picus-capitalace-6a3"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
-    "content": "807c886b"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-11-15-prototron-top-40-application-form-807-603"
   },
   "/blog/archive-182": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "__props": "f81c1134"
+    "__props": "__props---blog-archivef-81-229"
   },
   "/blog/page/2-cf6": {
-    "__comp": "a6aa9e1f",
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---blog-369-22e"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "90e54128"
+        "content": "content---blog-page-290-e-f4d"
       },
       {
-        "content": "91521523"
+        "content": "content---blog-page-2915-aa7"
       },
       {
-        "content": "0658933b"
+        "content": "content---blog-page-2065-cb3"
       },
       {
-        "content": "20b16fd7"
+        "content": "content---blog-page-220-b-b2d"
       },
       {
-        "content": "1f741928"
+        "content": "content---blog-page-21-f-7-c50"
       },
       {
-        "content": "75568b97"
+        "content": "content---blog-page-2755-e35"
       },
       {
-        "content": "2a470d39"
+        "content": "content---blog-page-22-a-4-3bc"
       },
       {
-        "content": "085d2eb1"
+        "content": "content---blog-page-2085-92e"
       },
       {
-        "content": "b66f2eed"
+        "content": "content---blog-page-2-b-66-e7c"
       },
       {
-        "content": "979803ea"
+        "content": "content---blog-page-2979-98b"
       },
       {
-        "content": "00815042"
+        "content": "content---blog-page-2008-5b6"
       },
       {
-        "content": "f4d87a25"
+        "content": "content---blog-page-2-f-4-d-65d"
       },
       {
-        "content": "7cbf22ef"
+        "content": "content---blog-page-27-cb-36e"
       },
       {
-        "content": "74327d2a"
+        "content": "content---blog-page-2743-e9b"
       },
       {
-        "content": "92d0fa76"
+        "content": "content---blog-page-292-d-a84"
       },
       {
-        "content": "40bb86c0"
+        "content": "content---blog-page-240-b-077"
       },
       {
-        "content": "97d1c4b1"
+        "content": "content---blog-page-297-d-440"
       },
       {
-        "content": "83e6dee3"
+        "content": "content---blog-page-283-e-c7c"
       },
       {
-        "content": "77ca604d"
+        "content": "content---blog-page-277-c-0e4"
       }
     ],
-    "__props": "8ea09047"
+    "__props": "__props---blog-page-28-ea-cf7"
   },
   "/pricing-c49": {
-    "__comp": "32e5485c",
+    "__comp": "__comp---site-pages-pricing-tsx-32-e-b5f",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---pricinga-74-6bc"
     },
-    "config": "5e9f5e1a"
+    "config": "config---pricing-5-e-9-f3b"
   },
   "/privacy-03e": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---pricinga-74-6bc"
     },
-    "content": "c93ff5e6"
+    "content": "content---privacyc-93-ad0"
   },
   "/terms-0f5": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---pricinga-74-6bc"
     },
-    "content": "aecb56f0"
+    "content": "content---termsaec-98a"
   },
   "/about-09f": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "360dc931"
+      "plugin": "plugin---about-360-66a"
     }
   },
   "/about-3e9": {
-    "__comp": "a7bd4aaa",
-    "__props": "a14d12f5"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---abouta-14-337"
   },
   "/about-50c": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
-    "__comp": "17896441",
-    "content": "230402f8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-230-53f"
   },
   "/about/📢 Press kit-bbe": {
-    "__comp": "17896441",
-    "content": "935965be"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-📢-press-kit-935-2fd"
   },
   "/about/company/-4f1": {
-    "__comp": "17896441",
-    "content": "c38f42bc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-c-38-14c"
   },
   "/about/company/🍰 Equity and fundraising plan-ea0": {
-    "__comp": "17896441",
-    "content": "a67f45c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-🍰-equity-and-fundraising-plana-67-3b6"
   },
   "/about/company/🏇 Go to market strategy-9d8": {
-    "__comp": "17896441",
-    "content": "af2ca651"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-🏇-go-to-market-strategyaf-2-535"
   },
   "/about/company/📊 Market analysis-b6a": {
-    "__comp": "17896441",
-    "content": "8c258961"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-📊-market-analysis-8-c-2-f26"
   },
   "/about/company/🤲 Why open source-c91": {
-    "__comp": "17896441",
-    "content": "4bc3e7d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-🤲-why-open-source-4-bc-78d"
   },
   "/about/company/Processes/☑️ Features and tasks-6ae": {
-    "__comp": "17896441",
-    "content": "41c83623"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-processes-☑️-features-and-tasks-41-c-fe3"
   },
   "/about/company/Processes/🎥 Meeting recordings-fba": {
-    "__comp": "17896441",
-    "content": "6d5f918e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-processes-🎥-meeting-recordings-6-d-5-da5"
   },
   "/about/company/Processes/🖥️ Services and tools that we use-537": {
-    "__comp": "17896441",
-    "content": "4406875a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-processes-🖥️-services-and-tools-that-we-use-440-231"
   },
   "/about/company/Team/-fa9": {
-    "__comp": "17896441",
-    "content": "495d7765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-495-022"
   },
   "/about/company/Team/Merchandise-858": {
-    "__comp": "17896441",
-    "content": "c3e34f68"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-merchandisec-3-e-811"
   },
   "/about/company/Team/Roles/-686": {
-    "__comp": "17896441",
-    "content": "b159c974"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-b-15-891"
   },
   "/about/company/Team/Roles/Beekeeper & Community manager 🐝-9cf": {
-    "__comp": "17896441",
-    "content": "bafec650"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-beekeeper-community-manager-🐝-baf-b08"
   },
   "/about/company/Team/Roles/Fullstack engineer-3b8": {
-    "__comp": "17896441",
-    "content": "35ebaa3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-fullstack-engineer-35-e-fff"
   },
   "/about/company/Team/Roles/Fullstack engineer 📱-63e": {
-    "__comp": "17896441",
-    "content": "f5dd4204"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-fullstack-engineer-📱-f-5-d-cd4"
   },
   "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics-dc3": {
-    "__comp": "17896441",
-    "content": "34afa043"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-internship-internship-io-t-mechatronics-34-a-3c4"
   },
   "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET-80b": {
-    "__comp": "17896441",
-    "content": "b8ea451f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-internship-internship-io-t-mechatronics-e-tb-8-e-4c9"
   },
   "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics-c38": {
-    "__comp": "17896441",
-    "content": "dff216dd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-internship-vidrik-internship-io-t-mechatronicsdff-bc2"
   },
   "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET-370": {
-    "__comp": "17896441",
-    "content": "fb59a67c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-internship-vidrik-internship-io-t-mechatronics-e-tfb-5-664"
   },
   "/about/company/Team/Roles/ML engineer 🧠-189": {
-    "__comp": "17896441",
-    "content": "574a32f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-ml-engineer-🧠-574-870"
   },
   "/about/company/Team/Roles/Product manager 🦉-666": {
-    "__comp": "17896441",
-    "content": "a99ffc9e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-product-manager-🦉-a-99-963"
   },
   "/about/company/Team/Roles/Response templates/-ec1": {
-    "__comp": "17896441",
-    "content": "20dcddff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-20-d-025"
   },
   "/about/company/Team/Roles/Response templates/Beekeeper-a57": {
-    "__comp": "17896441",
-    "content": "f7f80050"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-beekeeperf-7-f-787"
   },
   "/about/company/Team/Roles/Response templates/Fullstack engineer-7e1": {
-    "__comp": "17896441",
-    "content": "3ca48eaa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-fullstack-engineer-3-ca-269"
   },
   "/about/company/Team/Roles/Response templates/ML engineer role-92a": {
-    "__comp": "17896441",
-    "content": "db4b0a56"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-ml-engineer-roledb-4-062"
   },
   "/about/company/Team/Roles/Response templates/Robotics engineer-235": {
-    "__comp": "17896441",
-    "content": "8a225359"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-robotics-engineer-8-a-2-958"
   },
   "/about/company/Team/Roles/Response templates/UX designer-1df": {
-    "__comp": "17896441",
-    "content": "d0623309"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-response-templates-ux-designerd-06-184"
   },
   "/about/company/Team/Roles/Robotics engineer 🦾-f01": {
-    "__comp": "17896441",
-    "content": "a950c6e3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-robotics-engineer-🦾-a-95-d39"
   },
   "/about/company/Team/Roles/SRE - Devops - Infrastructure engineer-3e7": {
-    "__comp": "17896441",
-    "content": "48999066"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-sre-devops-infrastructure-engineer-489-ef4"
   },
   "/about/company/Team/Roles/UX designer 🔲-dfe": {
-    "__comp": "17896441",
-    "content": "45e9ac1f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-team-roles-ux-designer-🔲-45-e-10f"
   },
   "/about/company/values/-7a7": {
-    "__comp": "17896441",
-    "content": "1272cfa7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-127-5f2"
   },
   "/about/company/values/Adapt to change 🏕️-a00": {
-    "__comp": "17896441",
-    "content": "3d666384"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-adapt-to-change-🏕️-3-d-6-e49"
   },
   "/about/company/values/Ethical heart 🌳-420": {
-    "__comp": "17896441",
-    "content": "193a51f9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-ethical-heart-🌳-193-a1e"
   },
   "/about/company/values/Gather value 🍯-70d": {
-    "__comp": "17896441",
-    "content": "8d6e44e9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-gather-value-🍯-8-d-6-fe8"
   },
   "/about/company/values/Humbly kind 🧸-282": {
-    "__comp": "17896441",
-    "content": "3d8eeb4b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-humbly-kind-🧸-3-d-8-b59"
   },
   "/about/company/values/New horizons 🏔️-2e9": {
-    "__comp": "17896441",
-    "content": "18b45879"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-new-horizons-🏔️-18-b-fa3"
   },
   "/about/company/values/Observable mind 🧿-02f": {
-    "__comp": "17896441",
-    "content": "8ce4562a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-observable-mind-🧿-8-ce-7f3"
   },
   "/about/company/values/Radiate truth 🌞-990": {
-    "__comp": "17896441",
-    "content": "6f03eff3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-radiate-truth-🌞-6-f-0-159"
   },
   "/about/company/values/Team effort 🐝-a9a": {
-    "__comp": "17896441",
-    "content": "cce34d1a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-company-values-team-effort-🐝-cce-e3a"
   },
   "/about/credits-439": {
-    "__comp": "17896441",
-    "content": "d8406cca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-creditsd-84-163"
   },
   "/about/mission/-82f": {
-    "__comp": "17896441",
-    "content": "6682d981"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mission-668-cc8"
   },
   "/about/mission/Ethics-433": {
-    "__comp": "17896441",
-    "content": "aedb43bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mission-ethicsaed-305"
   },
   "/about/mission/Naming-44d": {
-    "__comp": "17896441",
-    "content": "25e39527"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mission-naming-25-e-d0e"
   },
   "/about/mission/Symbolism-0b5": {
-    "__comp": "17896441",
-    "content": "d1b0d387"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mission-symbolismd-1-b-5e0"
   },
   "/about/problems/-2b2": {
-    "__comp": "17896441",
-    "content": "fb72cb9e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-fb-7-18b"
   },
   "/about/problems/🌻 Precise pollination-798": {
-    "__comp": "17896441",
-    "content": "f47cb706"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🌻-precise-pollinationf-47-698"
   },
   "/about/problems/🍯 Counterfeit honey-37b": {
-    "__comp": "17896441",
-    "content": "c8d17239"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🍯-counterfeit-honeyc-8-d-4e2"
   },
   "/about/problems/🎒 Challenging to become a new beekeeper-dea": {
-    "__comp": "17896441",
-    "content": "8a34c809"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🎒-challenging-to-become-a-new-beekeeper-8-a-3-628"
   },
   "/about/problems/🐭 Mice killing a colony-8bc": {
-    "__comp": "17896441",
-    "content": "13f47d19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🐭-mice-killing-a-colony-13-f-759"
   },
   "/about/problems/🐻 Bears destroying hives & colonies-fa7": {
-    "__comp": "17896441",
-    "content": "6afec556"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🐻-bears-destroying-hives-colonies-6-af-f2b"
   },
   "/about/problems/👁️ Time-consuming inspections-a44": {
-    "__comp": "17896441",
-    "content": "7c8e99dc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-👁️-time-consuming-inspections-7-c-8-209"
   },
   "/about/problems/💀 Alcohol washing killing bees-c7a": {
-    "__comp": "17896441",
-    "content": "b6f68240"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-alcohol-washing-killing-beesb-6-f-317"
   },
   "/about/problems/💀 Colony without a queen-b6f": {
-    "__comp": "17896441",
-    "content": "daaaf74c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-colony-without-a-queendaa-817"
   },
   "/about/problems/💀 Intrusive inspections-eb2": {
-    "__comp": "17896441",
-    "content": "244cb553"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-💀-intrusive-inspections-244-551"
   },
   "/about/problems/📈 Long-term queen breeding tracking-cb8": {
-    "__comp": "17896441",
-    "content": "b3e3bceb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-📈-long-term-queen-breeding-trackingb-3-e-980"
   },
   "/about/problems/📦 Warehouse organization-15c": {
-    "__comp": "17896441",
-    "content": "16de80bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-📦-warehouse-organization-16-d-a40"
   },
   "/about/problems/🗃️ Poor hive ventilation-705": {
-    "__comp": "17896441",
-    "content": "0239afbb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🗃️-poor-hive-ventilation-023-583"
   },
   "/about/problems/🗃️ Storm wind collapsing beehives-107": {
-    "__comp": "17896441",
-    "content": "5c03e2d9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🗃️-storm-wind-collapsing-beehives-5-c-0-192"
   },
   "/about/problems/🗃️ Ugly beehives-d68": {
-    "__comp": "17896441",
-    "content": "21e36832"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🗃️-ugly-beehives-21-e-bad"
   },
   "/about/problems/🚛 Transport stress and risk-1a0": {
-    "__comp": "17896441",
-    "content": "5d9ef1c2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-🚛-transport-stress-and-risk-5-d-9-f58"
   },
   "/about/problems/biological/❄️ Overwintering collapse-eaf": {
-    "__comp": "17896441",
-    "content": "316a16a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-❄️-overwintering-collapse-316-bf2"
   },
   "/about/problems/biological/🍽️ Bee colony starvation-723": {
-    "__comp": "17896441",
-    "content": "732aa592"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-🍽️-bee-colony-starvation-732-73c"
   },
   "/about/problems/biological/💀 Colony with drone-laying queen-251": {
-    "__comp": "17896441",
-    "content": "16d7e652"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-💀-colony-with-drone-laying-queen-16-d-888"
   },
   "/about/problems/biological/💢 Hornet attacks-f1b": {
-    "__comp": "17896441",
-    "content": "ffa52039"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-💢-hornet-attacksffa-102"
   },
   "/about/problems/biological/💢 Robbing state-a33": {
-    "__comp": "17896441",
-    "content": "5e89d348"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-💢-robbing-state-5-e-8-728"
   },
   "/about/problems/biological/🦀 Diseases-84f": {
-    "__comp": "17896441",
-    "content": "31fbc127"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-🦀-diseases-31-f-ffd"
   },
   "/about/problems/biological/🦀 Infestations-a74": {
-    "__comp": "17896441",
-    "content": "37618a5d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-🦀-infestations-376-933"
   },
   "/about/problems/biological/🧶 Swarming-12a": {
-    "__comp": "17896441",
-    "content": "25ad85f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-biological-🧶-swarming-25-a-e4d"
   },
   "/about/problems/core/👁️ Observability of bee colony-d26": {
-    "__comp": "17896441",
-    "content": "3c45de1d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-core-👁️-observability-of-bee-colony-3-c-4-a50"
   },
   "/about/problems/core/💪🏻 Physical labor-c45": {
-    "__comp": "17896441",
-    "content": "b1b722f5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-core-💪🏻-physical-laborb-1-b-1f2"
   },
   "/about/problems/core/💪🏻 Unscalable work-10d": {
-    "__comp": "17896441",
-    "content": "4ebde5d3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-core-💪🏻-unscalable-work-4-eb-70a"
   },
   "/about/problems/systemic/🌲 Distant locations-6fb": {
-    "__comp": "17896441",
-    "content": "33f6c5f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-systemic-🌲-distant-locations-33-f-682"
   },
   "/about/problems/systemic/🌻 Monocultural agriculture-e44": {
-    "__comp": "17896441",
-    "content": "41c58806"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-systemic-🌻-monocultural-agriculture-41-c-2bb"
   },
   "/about/problems/systemic/🏘️ Multiple apiaries-31a": {
-    "__comp": "17896441",
-    "content": "3cebecb7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-systemic-🏘️-multiple-apiaries-3-ce-fd2"
   },
   "/about/problems/systemic/💢 Aggressive bee colonies-6ac": {
-    "__comp": "17896441",
-    "content": "dd01dff2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-systemic-💢-aggressive-bee-coloniesdd-0-6a7"
   },
   "/about/problems/systemic/🤢 Pesticide poisoning-81d": {
-    "__comp": "17896441",
-    "content": "25adf096"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-problems-systemic-🤢-pesticide-poisoning-25-a-51c"
   },
   "/about/products/-5dc": {
-    "__comp": "17896441",
-    "content": "5489ad2c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-548-6ee"
   },
   "/about/products/🧑‍🚀 Actions beekeepers make-94e": {
-    "__comp": "17896441",
-    "content": "570febd1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-🧑‍🚀-actions-beekeepers-make-570-8af"
   },
   "/about/products/clients/-420": {
-    "__comp": "17896441",
-    "content": "859747b1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-859-d7c"
   },
   "/about/products/clients/👨🏻 Potential new beekeepers-953": {
-    "__comp": "17896441",
-    "content": "e6f8032d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻-potential-new-beekeeperse-6-f-c3e"
   },
   "/about/products/clients/👨🏻‍💻 Tech-savvy engineers-62f": {
-    "__comp": "17896441",
-    "content": "764d2761"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍💻-tech-savvy-engineers-764-158"
   },
   "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers-252": {
-    "__comp": "17896441",
-    "content": "4620273b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍🚀-semi-professional-beekeepers-462-cb1"
   },
   "/about/products/clients/👨🏻‍🚒 Industrial beekeepers-7f0": {
-    "__comp": "17896441",
-    "content": "a21450ad"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👨🏻‍🚒-industrial-beekeepersa-21-b87"
   },
   "/about/products/clients/👩🏻 Tech scale-up companies-556": {
-    "__comp": "17896441",
-    "content": "f7f9b365"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👩🏻-tech-scale-up-companiesf-7-f-4c6"
   },
   "/about/products/clients/👩🏼‍🏫 Urban beekeepers-423": {
-    "__comp": "17896441",
-    "content": "85f5b6f3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-👩🏼‍🏫-urban-beekeepers-85-f-fd3"
   },
   "/about/products/clients/🧑🏻‍🌾 Farmers-6c1": {
-    "__comp": "17896441",
-    "content": "9e80ef3c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-🧑🏻‍🌾-farmers-9-e-8-cd9"
   },
   "/about/products/clients/🧑‍🚀 Hobby beekeepers-c8a": {
-    "__comp": "17896441",
-    "content": "aa61c9f7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-clients-🧑‍🚀-hobby-beekeepersaa-6-d7b"
   },
   "/about/products/entrance_counter_circular/-bc2": {
-    "__comp": "17896441",
-    "content": "9cca4ea8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-counter-circular-9-cc-f30"
   },
   "/about/products/entrance_observer/-889": {
-    "__comp": "17896441",
-    "content": "84262373"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-842-8d8"
   },
   "/about/products/entrance_observer/features/🎥 Video streaming via API-f47": {
-    "__comp": "17896441",
-    "content": "1c4765d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-🎥-video-streaming-via-api-1-c-4-170"
   },
   "/about/products/entrance_observer/features/🎮 Client-side app with UI-a67": {
-    "__comp": "17896441",
-    "content": "f8179e20"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-🎮-client-side-app-with-u-if-81-941"
   },
   "/about/products/entrance_observer/features/👭 Bee interaction detection-3a3": {
-    "__comp": "17896441",
-    "content": "26e24079"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-👭-bee-interaction-detection-26-e-de6"
   },
   "/about/products/entrance_observer/features/📈 Count bees coming in and out - on the edge-0d1": {
-    "__comp": "17896441",
-    "content": "98ef03b1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-📈-count-bees-coming-in-and-out-on-the-edge-98-e-103"
   },
   "/about/products/entrance_observer/features/📊 Bee movement metric reporting-69b": {
-    "__comp": "17896441",
-    "content": "94c4a823"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-📊-bee-movement-metric-reporting-94-c-ef5"
   },
   "/about/products/entrance_observer/features/🛣️ Landing board heatmap generation-186": {
-    "__comp": "17896441",
-    "content": "49f917da"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-features-🛣️-landing-board-heatmap-generation-49-f-e77"
   },
   "/about/products/entrance_observer/ideas/🌻 Detect bees with pollen for foraging statistics-c8a": {
-    "__comp": "17896441",
-    "content": "bd8679f0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🌻-detect-bees-with-pollen-for-foraging-statisticsbd-8-49b"
   },
   "/about/products/entrance_observer/ideas/🎮 Device management - Remote desktop-276": {
-    "__comp": "17896441",
-    "content": "c3349a21"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🎮-device-management-remote-desktopc-33-627"
   },
   "/about/products/entrance_observer/ideas/🐝 Bee pose - morphometric model-6f6": {
-    "__comp": "17896441",
-    "content": "96cd34a2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🐝-bee-pose-morphometric-model-96-c-225"
   },
   "/about/products/entrance_observer/ideas/🐝 Detect orientation flights-14d": {
-    "__comp": "17896441",
-    "content": "154acf0b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🐝-detect-orientation-flights-154-4a1"
   },
   "/about/products/entrance_observer/ideas/🐝 Detect swarming-809": {
-    "__comp": "17896441",
-    "content": "d6b722d8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🐝-detect-swarmingd-6-b-cbf"
   },
   "/about/products/entrance_observer/ideas/🐝 Guard detection-7c8": {
-    "__comp": "17896441",
-    "content": "d6fced0f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🐝-guard-detectiond-6-f-bd3"
   },
   "/about/products/entrance_observer/ideas/👑 Detect queen mating from entrance video-555": {
-    "__comp": "17896441",
-    "content": "7ac260bc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-👑-detect-queen-mating-from-entrance-video-7-ac-5be"
   },
   "/about/products/entrance_observer/ideas/🔔 Alerts based on bee counter-8ed": {
-    "__comp": "17896441",
-    "content": "302a96d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🔔-alerts-based-on-bee-counter-302-0bf"
   },
   "/about/products/entrance_observer/ideas/🤢 Detect pesticide exposure-4ad": {
-    "__comp": "17896441",
-    "content": "8dc58727"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🤢-detect-pesticide-exposure-8-dc-cb7"
   },
   "/about/products/entrance_observer/ideas/🩻 Bee pose generation-752": {
-    "__comp": "17896441",
-    "content": "0c77edb1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-ideas-🩻-bee-pose-generation-0-c-7-a8a"
   },
   "/about/products/entrance_observer/todo/🦀 Varroa mite infestation detection from video-8b3": {
-    "__comp": "17896441",
-    "content": "4db7bdbe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-todo-🦀-varroa-mite-infestation-detection-from-video-4-db-610"
   },
   "/about/products/entrance_observer/todo/🚁 Hornet attack detection-771": {
-    "__comp": "17896441",
-    "content": "adfa1c79"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-todo-🚁-hornet-attack-detectionadf-e35"
   },
   "/about/products/entrance_observer/todo/Drone bee detection and counting-bd1": {
-    "__comp": "17896441",
-    "content": "ec015a30"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-entrance-observer-todo-drone-bee-detection-and-countingec-0-7ee"
   },
   "/about/products/robotic_apiary/-3f1": {
-    "__comp": "17896441",
-    "content": "9523c04c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-apiary-952-ba8"
   },
   "/about/products/robotic_apiary/ideas/🤖 Moving robot between hives-f4a": {
-    "__comp": "17896441",
-    "content": "b23881ff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-apiary-ideas-🤖-moving-robot-between-hivesb-23-8ae"
   },
   "/about/products/robotic_apiary/ideas/🦀 Varroa mite detection with infra-red camera-afe": {
-    "__comp": "17896441",
-    "content": "beb7214b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-apiary-ideas-🦀-varroa-mite-detection-with-infra-red-camerabeb-a1c"
   },
   "/about/products/robotic_apiary/ideas/🦾 Cross-family frame movement resource balancing-2bb": {
-    "__comp": "17896441",
-    "content": "2bf0b4db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-apiary-ideas-🦾-cross-family-frame-movement-resource-balancing-2-bf-5ac"
   },
   "/about/products/robotic_apiary/ideas/🚛 Robot moving hives between fields-4b9": {
-    "__comp": "17896441",
-    "content": "3d07e48e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-apiary-ideas-🚛-robot-moving-hives-between-fields-3-d-0-a24"
   },
   "/about/products/robotic_beehive/-196": {
-    "__comp": "17896441",
-    "content": "e11d19ed"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-e-11-ada"
   },
   "/about/products/robotic_beehive/ideas/🍭 Automatic sugar syrup feeder-b9f": {
-    "__comp": "17896441",
-    "content": "a95e15bf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🍭-automatic-sugar-syrup-feedera-95-afa"
   },
   "/about/products/robotic_beehive/ideas/🎙️ 6-channel audio monitoring-a3e": {
-    "__comp": "17896441",
-    "content": "4ee5ca08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎙️-6-channel-audio-monitoring-4-ee-27b"
   },
   "/about/products/robotic_beehive/ideas/🎮 Client-side app with UI in manual override mode-7a6": {
-    "__comp": "17896441",
-    "content": "b2d5fcf7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎮-client-side-app-with-ui-in-manual-override-modeb-2-d-a33"
   },
   "/about/products/robotic_beehive/ideas/🎮 Connecting robot to web-app UX-645": {
-    "__comp": "17896441",
-    "content": "83b11764"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🎮-connecting-robot-to-web-app-ux-83-b-001"
   },
   "/about/products/robotic_beehive/ideas/🐝 Bee nursing video analysis-587": {
-    "__comp": "17896441",
-    "content": "a143be93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🐝-bee-nursing-video-analysisa-14-550"
   },
   "/about/products/robotic_beehive/ideas/🐝 Bee specialization classification-e71": {
-    "__comp": "17896441",
-    "content": "b66cdb73"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🐝-bee-specialization-classificationb-66-f5c"
   },
   "/about/products/robotic_beehive/ideas/🔊 Audio-interface to talk to bees-cc8": {
-    "__comp": "17896441",
-    "content": "ff4ec576"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔊-audio-interface-to-talk-to-beesff-4-122"
   },
   "/about/products/robotic_beehive/ideas/🔌 Energy autonomy-82d": {
-    "__comp": "17896441",
-    "content": "9ca8f72b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔌-energy-autonomy-9-ca-438"
   },
   "/about/products/robotic_beehive/ideas/🔥 Hive heating-dd4": {
-    "__comp": "17896441",
-    "content": "ee8a3402"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🔥-hive-heatingee-8-5f8"
   },
   "/about/products/robotic_beehive/ideas/🤖 Talk to bee colony with AI-ee5": {
-    "__comp": "17896441",
-    "content": "5df9058e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🤖-talk-to-bee-colony-with-ai-5-df-85d"
   },
   "/about/products/robotic_beehive/ideas/🦀 Hive bottom scanning-dec": {
-    "__comp": "17896441",
-    "content": "600de1b0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦀-hive-bottom-scanning-600-0a1"
   },
   "/about/products/robotic_beehive/ideas/🦾 Moveable hive bottom with varroa counting-782": {
-    "__comp": "17896441",
-    "content": "33c17f39"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-moveable-hive-bottom-with-varroa-counting-33-c-a5c"
   },
   "/about/products/robotic_beehive/ideas/🦾 Robotic frame reordering-347": {
-    "__comp": "17896441",
-    "content": "7bdd7103"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-frame-reordering-7-bd-3a4"
   },
   "/about/products/robotic_beehive/ideas/🦾 Robotic insertion of new frames-fae": {
-    "__comp": "17896441",
-    "content": "7ee425db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-insertion-of-new-frames-7-ee-de2"
   },
   "/about/products/robotic_beehive/ideas/🦾Robotic frame isolation & extraction-e94": {
-    "__comp": "17896441",
-    "content": "a12b752b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🦾-robotic-frame-isolation-extractiona-12-a6e"
   },
   "/about/products/robotic_beehive/ideas/🧪 Automatic acid treatment against varroa-164": {
-    "__comp": "17896441",
-    "content": "7e77ee9c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🧪-automatic-acid-treatment-against-varroa-7-e-7-b1c"
   },
   "/about/products/robotic_beehive/ideas/🚁 Ventilation control-c85": {
-    "__comp": "17896441",
-    "content": "8c7c5cf5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🚁-ventilation-control-8-c-7-16e"
   },
   "/about/products/robotic_beehive/ideas/🛑 Close mechanised hive entrance in case of robbing behaviour-d46": {
-    "__comp": "17896441",
-    "content": "8d4c260d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-close-mechanised-hive-entrance-in-case-of-robbing-behaviour-8-d-4-17c"
   },
   "/about/products/robotic_beehive/ideas/🛑 Close mechanized hive entrance in case of hornet attack-07c": {
-    "__comp": "17896441",
-    "content": "a9be7846"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-close-mechanized-hive-entrance-in-case-of-hornet-attacka-9-b-0a0"
   },
   "/about/products/robotic_beehive/ideas/🛑 Mechanically reduce hive entrance in case of high wind-fba": {
-    "__comp": "17896441",
-    "content": "75353199"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-ideas-🛑-mechanically-reduce-hive-entrance-in-case-of-high-wind-753-bd6"
   },
   "/about/products/robotic_beehive/todo/📸 Full hive inspection-589": {
-    "__comp": "17896441",
-    "content": "c5d86281"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-todo-📸-full-hive-inspectionc-5-d-f4f"
   },
   "/about/products/robotic_beehive/todo/📸 Real-time frame scanning-624": {
-    "__comp": "17896441",
-    "content": "42f4e423"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-robotic-beehive-todo-📸-real-time-frame-scanning-42-f-d64"
   },
   "/about/products/scales/-e1c": {
-    "__comp": "17896441",
-    "content": "d8f29e65"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-d-8-f-919"
   },
   "/about/products/scales/features/📈 Telemetry API-443": {
-    "__comp": "17896441",
-    "content": "cec12eb5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-features-📈-telemetry-ap-icec-bcf"
   },
   "/about/products/scales/ideas/🌩️ Measure atmospheric pressure-29e": {
-    "__comp": "17896441",
-    "content": "2a760506"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-🌩️-measure-atmospheric-pressure-2-a-7-d1b"
   },
   "/about/products/scales/ideas/🌪️ Wind speed measurement - Anemometer-76a": {
-    "__comp": "17896441",
-    "content": "1c0ff7b5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-🌪️-wind-speed-measurement-anemometer-1-c-0-270"
   },
   "/about/products/scales/ideas/💧 Internal humidity monitoring-d26": {
-    "__comp": "17896441",
-    "content": "5f11f1cc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-💧-internal-humidity-monitoring-5-f-1-cf6"
   },
   "/about/products/scales/ideas/💨 CO2 monitoring-9fe": {
-    "__comp": "17896441",
-    "content": "3899666b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-💨-co-2-monitoring-389-90b"
   },
   "/about/products/scales/ideas/💨 Measure PM2 pollution-fc3": {
-    "__comp": "17896441",
-    "content": "b274f7d3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-💨-measure-pm-2-pollutionb-27-088"
   },
   "/about/products/scales/ideas/📡 Connectivity over LoRa-40f": {
-    "__comp": "17896441",
-    "content": "3fd661be"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-📡-connectivity-over-lo-ra-3-fd-209"
   },
   "/about/products/scales/ideas/🔗 Home-assistant integration-b86": {
-    "__comp": "17896441",
-    "content": "aa44151f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-🔗-home-assistant-integrationaa-4-9c0"
   },
   "/about/products/scales/todo/⚖️ Weight monitoring-665": {
-    "__comp": "17896441",
-    "content": "f64a5a2d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-todo-⚖️-weight-monitoringf-64-296"
   },
   "/about/products/scales/todo/🌡️ Internal Temperature monitoring-17a": {
-    "__comp": "17896441",
-    "content": "e25d74f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-todo-🌡️-internal-temperature-monitoringe-25-530"
   },
   "/about/products/scales/todo/🐻 Tampering detection-283": {
-    "__comp": "17896441",
-    "content": "21020882"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-todo-🐻-tampering-detection-210-5a2"
   },
   "/about/products/web_app/-a39": {
-    "__comp": "17896441",
-    "content": "a41c9dd2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-a-41-729"
   },
   "/about/products/web_app/basic-functionality/🌍 Localization-396": {
-    "__comp": "17896441",
-    "content": "b6a193fe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🌍-localizationb-6-a-bdd"
   },
   "/about/products/web_app/basic-functionality/💶 Billing subscription-d79": {
-    "__comp": "17896441",
-    "content": "214a6db0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-💶-billing-subscription-214-8cc"
   },
   "/about/products/web_app/basic-functionality/🔐 API token management-856": {
-    "__comp": "17896441",
-    "content": "ed589039"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🔐-api-token-managemented-5-470"
   },
   "/about/products/web_app/basic-functionality/🧑‍🚀 User editing-39f": {
-    "__comp": "17896441",
-    "content": "a6423475"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🧑‍🚀-user-editinga-64-ea2"
   },
   "/about/products/web_app/basic-functionality/🧑‍🚀 User login-75b": {
-    "__comp": "17896441",
-    "content": "62a0cff3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🧑‍🚀-user-login-62-a-557"
   },
   "/about/products/web_app/basic-functionality/🧑‍🚀 User registration-1ec": {
-    "__comp": "17896441",
-    "content": "c7fb3422"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🧑‍🚀-user-registrationc-7-f-a4f"
   },
   "/about/products/web_app/basic-functionality/🙅 User account deletion-bcc": {
-    "__comp": "17896441",
-    "content": "491a1864"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-basic-functionality-🙅-user-account-deletion-491-abf"
   },
   "/about/products/web_app/flexible-tier/alerts-783": {
-    "__comp": "17896441",
-    "content": "2ca98006"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-flexible-tier-alerts-2-ca-e27"
   },
   "/about/products/web_app/flexible-tier/video_playback-737": {
-    "__comp": "17896441",
-    "content": "9168a314"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-flexible-tier-video-playback-916-4b6"
   },
   "/about/products/web_app/hobbyist-tier/♻️ Public beehive view-fc8": {
-    "__comp": "17896441",
-    "content": "ba9c0d94"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-♻️-public-beehive-viewba-9-a07"
   },
   "/about/products/web_app/hobbyist-tier/♻️ QR-code generation-7c7": {
-    "__comp": "17896441",
-    "content": "cc0c7d9a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-♻️-qr-code-generationcc-0-e62"
   },
   "/about/products/web_app/hobbyist-tier/🌻 list of local plants-9c0": {
-    "__comp": "17896441",
-    "content": "2bd316fc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🌻-list-of-local-plants-2-bd-bff"
   },
   "/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter-2d6": {
-    "__comp": "17896441",
-    "content": "f0ff5438"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-frame-analysis-bee-counterf-0-f-c8f"
   },
   "/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection-623": {
-    "__comp": "17896441",
-    "content": "4368c20d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-frame-side-queen-cup-detection-436-237"
   },
   "/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management-fc0": {
-    "__comp": "17896441",
-    "content": "daced868"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-honeycomb-cell-detection-managementdac-832"
   },
   "/about/products/web_app/hobbyist-tier/🐝 Worker bee detection-d01": {
-    "__comp": "17896441",
-    "content": "346642a3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-worker-bee-detection-346-0bd"
   },
   "/about/products/web_app/hobbyist-tier/👑 Queen detection-2fd": {
-    "__comp": "17896441",
-    "content": "f1b5cb19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-👑-queen-detectionf-1-b-0c3"
   },
   "/about/products/web_app/hobbyist-tier/👑 Queen management-152": {
-    "__comp": "17896441",
-    "content": "023adfa3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-👑-queen-management-023-318"
   },
   "/about/products/web_app/hobbyist-tier/📦 Apiary management-bef": {
-    "__comp": "17896441",
-    "content": "d1e44338"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-📦-apiary-managementd-1-e-e4f"
   },
   "/about/products/web_app/hobbyist-tier/📦 Hive management-9cc": {
-    "__comp": "17896441",
-    "content": "b396b95c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-📦-hive-managementb-39-ab4"
   },
   "/about/products/web_app/hobbyist-tier/📦 Hive section management-ee2": {
-    "__comp": "17896441",
-    "content": "f0b0337c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-📦-hive-section-managementf-0-b-a19"
   },
   "/about/products/web_app/hobbyist-tier/📸 Frame side photo upload-634": {
-    "__comp": "17896441",
-    "content": "615869bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-📸-frame-side-photo-upload-615-487"
   },
   "/about/products/web_app/hobbyist-tier/🖼️ Frame side management-bc2": {
-    "__comp": "17896441",
-    "content": "578c9e74"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-🖼️-frame-side-management-578-f3f"
   },
   "/about/products/web_app/hobbyist-tier/apiary-management-122": {
-    "__comp": "17896441",
-    "content": "e90afeec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-apiary-managemente-90-d0e"
   },
   "/about/products/web_app/hobbyist-tier/frame-photo-upload-edf": {
-    "__comp": "17896441",
-    "content": "18905b5e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-frame-photo-upload-189-c8f"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing-923": {
-    "__comp": "17896441",
-    "content": "4fd4a63b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-♻️-apiary-position-sharing-4-fd-907"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/🌪️ Weather alerts-d50": {
-    "__comp": "17896441",
-    "content": "40ef2fb0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🌪️-weather-alerts-40-e-9bb"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/🎒 Product onboarding videos & UI-4f2": {
-    "__comp": "17896441",
-    "content": "ace02c4f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🎒-product-onboarding-videos-u-iace-fb4"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/📍 Show close-by beekeepers from government registry-6d6": {
-    "__comp": "17896441",
-    "content": "eb45be81"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-📍-show-close-by-beekeepers-from-government-registryeb-4-121"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/🖮 keyboard shortcuts support-55e": {
-    "__comp": "17896441",
-    "content": "5dcbb9a2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🖮-keyboard-shortcuts-support-5-dc-616"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User email verification and change-063": {
-    "__comp": "17896441",
-    "content": "e03ebca1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🧑‍🚀-user-email-verification-and-changee-03-370"
   },
   "/about/products/web_app/hobbyist-tier/ideas 💡/🧑‍🚀 User password change-e32": {
-    "__comp": "17896441",
-    "content": "fde8da77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-ideas-💡-🧑‍🚀-user-password-changefde-805"
   },
   "/about/products/web_app/hobbyist-tier/queen-detection-280": {
-    "__comp": "17896441",
-    "content": "314d38cd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-queen-detection-314-298"
   },
   "/about/products/web_app/hobbyist-tier/queen-management-8ef": {
-    "__comp": "17896441",
-    "content": "219f8b7b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-hobbyist-tier-queen-management-219-7a8"
   },
   "/about/products/web_app/pro-tier/🎥 Video streaming from phone-610": {
-    "__comp": "17896441",
-    "content": "324245ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-🎥-video-streaming-from-phone-324-0f8"
   },
   "/about/products/web_app/pro-tier/📅 Varroa Treatment diary-50b": {
-    "__comp": "17896441",
-    "content": "20cdb892"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-📅-varroa-treatment-diary-20-c-0e3"
   },
   "/about/products/web_app/pro-tier/📈 Count bees - in the cloud-179": {
-    "__comp": "17896441",
-    "content": "f85ed367"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-📈-count-bees-in-the-cloudf-85-38c"
   },
   "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring-b54": {
-    "__comp": "17896441",
-    "content": "f937e44e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-🧮-hive-bottom-board-varroa-monitoringf-93-0af"
   },
   "/about/products/web_app/pro-tier/alerts-3a1": {
-    "__comp": "17896441",
-    "content": "6567e4fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-alerts-656-3dc"
   },
   "/about/products/web_app/pro-tier/colony_comparison_analytics-6ce": {
-    "__comp": "17896441",
-    "content": "bef7fcf4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-colony-comparison-analyticsbef-894"
   },
   "/about/products/web_app/pro-tier/hive_ownership_transfer-ee5": {
-    "__comp": "17896441",
-    "content": "690c23c6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-hive-ownership-transfer-690-cb0"
   },
   "/about/products/web_app/pro-tier/hive_telemetry_storage-0d7": {
-    "__comp": "17896441",
-    "content": "276e6c93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-hive-telemetry-storage-276-b00"
   },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer-709": {
-    "__comp": "17896441",
-    "content": "c022581c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-♻️-hive-ownership-transferc-02-e6b"
   },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Share video stream-968": {
-    "__comp": "17896441",
-    "content": "624610e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-♻️-share-video-stream-624-555"
   },
   "/about/products/web_app/pro-tier/ideas 💡/⚖️ Colony comparison-4d4": {
-    "__comp": "17896441",
-    "content": "02a265a4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-⚖️-colony-comparison-02-a-3bd"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🌎 Map view-772": {
-    "__comp": "17896441",
-    "content": "7200f36b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌎-map-view-720-816"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🌞 Apiary top-down view of  relative to the sun-421": {
-    "__comp": "17896441",
-    "content": "3f787374"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌞-apiary-top-down-view-of-relative-to-the-sun-3-f-7-e07"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🌻 Pollination optimization with hive placement recommendation-5ed": {
-    "__comp": "17896441",
-    "content": "01efc148"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🌻-pollination-optimization-with-hive-placement-recommendation-01-e-1b8"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🎮 Device management-cd0": {
-    "__comp": "17896441",
-    "content": "aac2e841"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🎮-device-managementaac-42b"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🐜 Ant detection-578": {
-    "__comp": "17896441",
-    "content": "39e0b257"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐜-ant-detection-39-e-6d5"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🐝 Analytics - demography and simulation-a32": {
-    "__comp": "17896441",
-    "content": "920b0cfb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-analytics-demography-and-simulation-920-e82"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🐝 Bee age classification-93f": {
-    "__comp": "17896441",
-    "content": "24093b1d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-bee-age-classification-240-04a"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🐝 Bee race classification-f7d": {
-    "__comp": "17896441",
-    "content": "72b21bc4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-bee-race-classification-72-b-15a"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🐝 Wax moth detection-49d": {
-    "__comp": "17896441",
-    "content": "e25d6d14"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🐝-wax-moth-detectione-25-e7b"
   },
   "/about/products/web_app/pro-tier/ideas 💡/👨🏻‍🚀 Multiple user support-860": {
-    "__comp": "17896441",
-    "content": "08c795ba"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-👨🏻‍🚀-multiple-user-support-08-c-c76"
   },
   "/about/products/web_app/pro-tier/ideas 💡/📅 Calendar view-c91": {
-    "__comp": "17896441",
-    "content": "a8d83cd7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-📅-calendar-viewa-8-d-ff2"
   },
   "/about/products/web_app/pro-tier/ideas 💡/📅 Google-calendar integration-fb1": {
-    "__comp": "17896441",
-    "content": "fc8a70a7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-📅-google-calendar-integrationfc-8-a4d"
   },
   "/about/products/web_app/pro-tier/ideas 💡/📈 Grafana access-339": {
-    "__comp": "17896441",
-    "content": "72d89347"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-📈-grafana-access-72-d-460"
   },
   "/about/products/web_app/pro-tier/ideas 💡/📦 Harvest hive frames and sections-95b": {
-    "__comp": "17896441",
-    "content": "66502b8b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-📦-harvest-hive-frames-and-sections-665-805"
   },
   "/about/products/web_app/pro-tier/ideas 💡/📦 Inventory management - warehouse view-e39": {
-    "__comp": "17896441",
-    "content": "49e891d8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-📦-inventory-management-warehouse-view-49-e-56b"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🔔 Drone detection-194": {
-    "__comp": "17896441",
-    "content": "cea6f430"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-drone-detectioncea-f63"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - spotty brood pattern detection-e34": {
-    "__comp": "17896441",
-    "content": "44db93ff"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-frame-analysis-spotty-brood-pattern-detection-44-d-ceb"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🔔 Frame analysis - starvation detection and alert-0ae": {
-    "__comp": "17896441",
-    "content": "27c300a4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-frame-analysis-starvation-detection-and-alert-27-c-310"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🔔 Timeseries Anomaly detection-1c8": {
-    "__comp": "17896441",
-    "content": "839d8516"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🔔-timeseries-anomaly-detection-839-9bc"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🪝 Webhooks integration-649": {
-    "__comp": "17896441",
-    "content": "5e7cb3dc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🪝-webhooks-integration-5-e-7-e21"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🪲 Hive beetle detection-5d2": {
-    "__comp": "17896441",
-    "content": "d0c1657e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🪲-hive-beetle-detectiond-0-c-ead"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🛰️ Apiary satellite view-f4b": {
-    "__comp": "17896441",
-    "content": "bc8b3f8e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-apiary-satellite-viewbc-8-71a"
   },
   "/about/products/web_app/pro-tier/ideas 💡/🛰️ SkyFi integration-10a": {
-    "__comp": "17896441",
-    "content": "b7834fc1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-ideas-💡-🛰️-sky-fi-integrationb-78-9fd"
   },
   "/about/products/web_app/pro-tier/inventory_management-d60": {
-    "__comp": "17896441",
-    "content": "c4823bfa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-inventory-managementc-48-bb0"
   },
   "/about/products/web_app/pro-tier/timeseries_data_analytics-8a5": {
-    "__comp": "17896441",
-    "content": "4280704e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-pro-tier-timeseries-data-analytics-428-800"
   },
   "/about/products/web_app/starter-tier/✏️ Drawing on canvas-ad9": {
-    "__comp": "17896441",
-    "content": "739fc099"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-✏️-drawing-on-canvas-739-313"
   },
   "/about/products/web_app/starter-tier/🍭 Feeding history-581": {
-    "__comp": "17896441",
-    "content": "75965b32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-🍭-feeding-history-759-7fc"
   },
   "/about/products/web_app/starter-tier/🔎 Inspection management-d1e": {
-    "__comp": "17896441",
-    "content": "d0d4a1f7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-🔎-inspection-managementd-0-d-892"
   },
   "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM-a20": {
-    "__comp": "17896441",
-    "content": "d69038c6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-🤖-beekeeping-advice-with-ll-md-69-4cd"
   },
   "/about/products/web_app/starter-tier/ideas 💡/☀️ Solar radiance as weather datasource-579": {
-    "__comp": "17896441",
-    "content": "c5ac815a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-☀️-solar-radiance-as-weather-datasourcec-5-a-13a"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🌻 Flower blooming map-a19": {
-    "__comp": "17896441",
-    "content": "185038c4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🌻-flower-blooming-map-185-14f"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🐝 Drone brood detection-49b": {
-    "__comp": "17896441",
-    "content": "7e3bc5ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🐝-drone-brood-detection-7-e-3-cde"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🐝 Frame analysis - chilled brood-aec": {
-    "__comp": "17896441",
-    "content": "048428c4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🐝-frame-analysis-chilled-brood-048-d03"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🐝 Laying workers cell detection-bff": {
-    "__comp": "17896441",
-    "content": "e778dffd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🐝-laying-workers-cell-detectione-77-327"
   },
   "/about/products/web_app/starter-tier/ideas 💡/📦 Manual inspections - Bulk file upload-0b9": {
-    "__comp": "17896441",
-    "content": "e0494330"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-📦-manual-inspections-bulk-file-uploade-04-015"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa infestation management-7cb": {
-    "__comp": "17896441",
-    "content": "d69ea990"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🦀-varroa-infestation-managementd-69-3cb"
   },
   "/about/products/web_app/starter-tier/ideas 💡/🦀 Varroa mite detection-01b": {
-    "__comp": "17896441",
-    "content": "4c1a4b4e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-ideas-💡-🦀-varroa-mite-detection-4-c-1-5cd"
   },
   "/about/products/web_app/starter-tier/join_bee_colonies-0b2": {
-    "__comp": "17896441",
-    "content": "14de8699"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-join-bee-colonies-14-d-3c6"
   },
   "/about/products/web_app/starter-tier/split_bee_colony-2f8": {
-    "__comp": "17896441",
-    "content": "1a8f6dc6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-split-bee-colony-1-a-8-2d9"
   },
   "/about/volunteer-9cc": {
-    "__comp": "17896441",
-    "content": "8a32c920"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-volunteer-8-a-3-7de"
   },
   "/docs-4c1": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-37b": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs-22a": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
-    "__comp": "17896441",
-    "content": "1b71d404"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-1-b-7-c9e"
   },
   "/docs/API/Authentication-b44": {
-    "__comp": "17896441",
-    "content": "0949ff52"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-authentication-094-d4c"
   },
   "/docs/API/GraphQL-5a9": {
-    "__comp": "17896441",
-    "content": "56164757"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-graph-ql-561-b87"
   },
   "/docs/API/Ratelimiting-4b0": {
-    "__comp": "17896441",
-    "content": "261cf5f0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-ratelimiting-261-22f"
   },
   "/docs/API/REST-359": {
-    "__comp": "17896441",
-    "content": "07eacee5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-rest-07-e-274"
   },
   "/docs/API/Share Token Authentication-321": {
-    "__comp": "17896441",
-    "content": "08c66475"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-share-token-authentication-08-c-b01"
   },
   "/docs/beehive-sensors/-4d7": {
-    "__comp": "17896441",
-    "content": "549dfbf8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-549-9a7"
   },
   "/docs/beehive-sensors/3d model-c9b": {
-    "__comp": "17896441",
-    "content": "82a9ed48"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-3-d-model-82-a-61d"
   },
   "/docs/beehive-sensors/Choice of procesor chip-390": {
-    "__comp": "17896441",
-    "content": "cb3f6299"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-choice-of-procesor-chipcb-3-821"
   },
   "/docs/beehive-sensors/components/-831": {
-    "__comp": "17896441",
-    "content": "085a332b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-085-485"
   },
   "/docs/beehive-sensors/components/aluminium-profile-e8a": {
-    "__comp": "17896441",
-    "content": "a01c9fa1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-aluminium-profilea-01-480"
   },
   "/docs/beehive-sensors/components/battery-45e": {
-    "__comp": "17896441",
-    "content": "ec08bcc6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-batteryec-0-e74"
   },
   "/docs/beehive-sensors/components/battery-shield-33f": {
-    "__comp": "17896441",
-    "content": "7117bdcd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-battery-shield-711-101"
   },
   "/docs/beehive-sensors/components/case-409": {
-    "__comp": "17896441",
-    "content": "8624a8ce"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-case-862-e86"
   },
   "/docs/beehive-sensors/components/display-581": {
-    "__comp": "17896441",
-    "content": "2c68ccaf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-display-2-c-6-fad"
   },
   "/docs/beehive-sensors/components/DS18B20-f0b": {
-    "__comp": "17896441",
-    "content": "9e959c97"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-ds-18-b-209-e-9-ff6"
   },
   "/docs/beehive-sensors/components/ESP32-715": {
-    "__comp": "17896441",
-    "content": "c67178e7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-esp-32-c-67-4ff"
   },
   "/docs/beehive-sensors/components/HX711-bar-44d": {
-    "__comp": "17896441",
-    "content": "89f8728b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-hx-711-bar-89-f-586"
   },
   "/docs/beehive-sensors/components/screws-2b1": {
-    "__comp": "17896441",
-    "content": "9cf2c725"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-screws-9-cf-4fb"
   },
   "/docs/beehive-sensors/components/todo/Air Quality Sensor-a52": {
-    "__comp": "17896441",
-    "content": "009c6f0f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-air-quality-sensor-009-39c"
   },
   "/docs/beehive-sensors/components/todo/Barometric pressure sensor-eb3": {
-    "__comp": "17896441",
-    "content": "c7259e68"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-barometric-pressure-sensorc-72-778"
   },
   "/docs/beehive-sensors/components/todo/Barometric sensor - BMP180-1cf": {
-    "__comp": "17896441",
-    "content": "6d3343ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-barometric-sensor-bmp-1806-d-3-283"
   },
   "/docs/beehive-sensors/components/todo/Carbon Dioxide CO2 Temperature Humidity VOCs Air Quality Sensor Module-e66": {
-    "__comp": "17896441",
-    "content": "e9ead86f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-carbon-dioxide-co-2-temperature-humidity-vo-cs-air-quality-sensor-modulee-9-e-5d3"
   },
   "/docs/beehive-sensors/components/todo/CO2 sensor - ENS160-d4a": {
-    "__comp": "17896441",
-    "content": "6b15b6af"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-co-2-sensor-ens-1606-b-1-c90"
   },
   "/docs/beehive-sensors/components/todo/HX711-flat-fc5": {
-    "__comp": "17896441",
-    "content": "400f2614"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-hx-711-flat-400-29b"
   },
   "/docs/beehive-sensors/components/todo/Microphone Amplifier Stable-3a8": {
-    "__comp": "17896441",
-    "content": "ab277577"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-microphone-amplifier-stableab-2-f37"
   },
   "/docs/beehive-sensors/components/todo/PM2 dust sensor-85b": {
-    "__comp": "17896441",
-    "content": "b4906ee5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-pm-2-dust-sensorb-49-123"
   },
   "/docs/beehive-sensors/components/todo/Tampering - Vibration sensor-4f3": {
-    "__comp": "17896441",
-    "content": "48f6a630"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-tampering-vibration-sensor-48-f-f1d"
   },
   "/docs/beehive-sensors/components/todo/Temperature - Humidity sensor alternative-9d2": {
-    "__comp": "17896441",
-    "content": "50755208"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-components-todo-temperature-humidity-sensor-alternative-507-d36"
   },
   "/docs/beehive-sensors/Installation-655": {
-    "__comp": "17896441",
-    "content": "74290f1b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-beehive-sensors-installation-742-58b"
   },
   "/docs/entrance-observer/-efa": {
-    "__comp": "17896441",
-    "content": "38892000"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-388-8b1"
   },
   "/docs/entrance-observer/Bill of materials-4a9": {
-    "__comp": "17896441",
-    "content": "a36f9d65"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-bill-of-materialsa-36-b0c"
   },
   "/docs/entrance-observer/components-jetson/Camera - Mokose 4k-188": {
-    "__comp": "17896441",
-    "content": "a2ab379a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-camera-mokose-4-ka-2-a-438"
   },
   "/docs/entrance-observer/components-jetson/Camera lens-021": {
-    "__comp": "17896441",
-    "content": "f8efe50f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-camera-lensf-8-e-cf9"
   },
   "/docs/entrance-observer/components-jetson/Camera mount-a0e": {
-    "__comp": "17896441",
-    "content": "a3176fe5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-camera-mounta-31-2d4"
   },
   "/docs/entrance-observer/components-jetson/Jetson Nano-13a": {
-    "__comp": "17896441",
-    "content": "9f6cbaa9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-jetson-nano-9-f-6-7ed"
   },
   "/docs/entrance-observer/components-jetson/Jetson Nano case-884": {
-    "__comp": "17896441",
-    "content": "99b61d82"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-jetson-nano-case-99-b-0b8"
   },
   "/docs/entrance-observer/components-jetson/SD card for Jetson Nano-5d4": {
-    "__comp": "17896441",
-    "content": "34837511"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-sd-card-for-jetson-nano-348-ddd"
   },
   "/docs/entrance-observer/components-jetson/Wi-Fi antennas-4a1": {
-    "__comp": "17896441",
-    "content": "165c38b2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-wi-fi-antennas-165-71d"
   },
   "/docs/entrance-observer/components-jetson/WiFi module for Jetson Nano-d56": {
-    "__comp": "17896441",
-    "content": "d57493ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-jetson-wi-fi-module-for-jetson-nanod-57-e86"
   },
   "/docs/entrance-observer/components-orin/2020 Aluminum Extrusion-553": {
-    "__comp": "17896441",
-    "content": "b5a7153f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-2020-aluminum-extrusionb-5-a-87c"
   },
   "/docs/entrance-observer/components-orin/Camera-b68": {
-    "__comp": "17896441",
-    "content": "461636c3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-camera-461-2fb"
   },
   "/docs/entrance-observer/components-orin/Camera lens-013": {
-    "__comp": "17896441",
-    "content": "0b93088b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-camera-lens-0-b-9-ed6"
   },
   "/docs/entrance-observer/components-orin/Case-7c3": {
-    "__comp": "17896441",
-    "content": "8213473a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-case-821-109"
   },
   "/docs/entrance-observer/components-orin/Display-e4b": {
-    "__comp": "17896441",
-    "content": "690dcc08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-display-690-63b"
   },
   "/docs/entrance-observer/components-orin/M2 SSD-f0f": {
-    "__comp": "17896441",
-    "content": "41d3a346"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-m-2-ssd-41-d-bcf"
   },
   "/docs/entrance-observer/components-orin/Mounts-3d8": {
-    "__comp": "17896441",
-    "content": "465ac278"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-mounts-465-bb1"
   },
   "/docs/entrance-observer/components-orin/Orin Nano-2e9": {
-    "__comp": "17896441",
-    "content": "00b71287"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-orin-nano-00-b-04b"
   },
   "/docs/entrance-observer/components-orin/Plexiglass-f61": {
-    "__comp": "17896441",
-    "content": "0c3a939a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-plexiglass-0-c-3-490"
   },
   "/docs/entrance-observer/components-orin/WiFi antennas-312": {
-    "__comp": "17896441",
-    "content": "2a959499"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-components-orin-wi-fi-antennas-2-a-9-634"
   },
   "/docs/entrance-observer/Jetson Nano setup-ab4": {
-    "__comp": "17896441",
-    "content": "f6250501"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-jetson-nano-setupf-62-2c9"
   },
   "/docs/entrance-observer/Jetson Orin setup-231": {
-    "__comp": "17896441",
-    "content": "5d61cf87"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-jetson-orin-setup-5-d-6-254"
   },
   "/docs/entrance-observer/ML processing devices-e9d": {
-    "__comp": "17896441",
-    "content": "b7ac82f1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-ml-processing-devicesb-7-a-1d8"
   },
   "/docs/entrance-observer/Remote Desktop connection setup-d07": {
-    "__comp": "17896441",
-    "content": "d16a6972"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-remote-desktop-connection-setupd-16-23d"
   },
   "/docs/entrance-observer/Which model to use for vision-a4a": {
-    "__comp": "17896441",
-    "content": "154f5236"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entrance-observer-which-model-to-use-for-vision-154-35d"
   },
   "/docs/robotic-beehive/-73b": {
-    "__comp": "17896441",
-    "content": "93c1e7db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-93-c-1da"
   },
   "/docs/robotic-beehive/4 axis gantry-0f3": {
-    "__comp": "17896441",
-    "content": "c7212cc1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-4-axis-gantryc-72-144"
   },
   "/docs/robotic-beehive/CAD modelling 🫖-3f4": {
-    "__comp": "17896441",
-    "content": "3cdafb08"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-cad-modelling-🫖-3-cd-80b"
   },
   "/docs/robotic-beehive/components/-f3d": {
-    "__comp": "17896441",
-    "content": "4e9b69f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-4-e-9-202"
   },
   "/docs/robotic-beehive/components/Camera - Mokose 4k-c1d": {
-    "__comp": "17896441",
-    "content": "764d2635"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-camera-mokose-4-k-764-850"
   },
   "/docs/robotic-beehive/components/NVMe M2 SSD for Jetson Orin-d5e": {
-    "__comp": "17896441",
-    "content": "88032bfa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-components-nv-me-m-2-ssd-for-jetson-orin-880-cce"
   },
   "/docs/robotic-beehive/Design-cad": {
-    "__comp": "17896441",
-    "content": "31b89075"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-design-31-b-e3d"
   },
   "/docs/robotic-beehive/FUYU 3-axis gantry + AMC-4030 controller info-f25": {
-    "__comp": "17896441",
-    "content": "b62061c9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-fuyu-3-axis-gantry-amc-4030-controller-infob-62-70f"
   },
   "/docs/robotic-beehive/Jetson Orin Nano setup-971": {
-    "__comp": "17896441",
-    "content": "fe7babf1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-jetson-orin-nano-setupfe-7-290"
   },
   "/docs/robotic-beehive/Robot Vendors-8d6": {
-    "__comp": "17896441",
-    "content": "06a34215"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-robotic-beehive-robot-vendors-06-a-40d"
   },
   "/docs/web-app/-824": {
-    "__comp": "17896441",
-    "content": "08c8fc68"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-08-c-f96"
   },
   "/docs/web-app/🥞 DB schemas/gate-video-stream-049": {
-    "__comp": "17896441",
-    "content": "fba9c999"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-gate-video-streamfba-f74"
   },
   "/docs/web-app/🥞 DB schemas/image-splitter-584": {
-    "__comp": "17896441",
-    "content": "cbdf4c50"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-image-splittercbd-83c"
   },
   "/docs/web-app/🥞 DB schemas/swarm-api-c03": {
-    "__comp": "17896441",
-    "content": "4e156b49"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-swarm-api-4-e-1-924"
   },
   "/docs/web-app/🥞 DB schemas/user-cycle-9e7": {
-    "__comp": "17896441",
-    "content": "88cc92aa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-🥞-db-schemas-user-cycle-88-c-a11"
   },
   "/docs/web-app/features/apiary-management-942": {
-    "__comp": "17896441",
-    "content": "8fe78d69"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-apiary-management-8-fe-0e2"
   },
   "/docs/web-app/features/bottom-board-management-6e3": {
-    "__comp": "17896441",
-    "content": "2755ded1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-bottom-board-management-275-5b9"
   },
   "/docs/web-app/features/frame-photo-upload-af1": {
-    "__comp": "17896441",
-    "content": "9ea7f286"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-frame-photo-upload-9-ea-d3a"
   },
   "/docs/web-app/features/frame-side-management-5b3": {
-    "__comp": "17896441",
-    "content": "32022e77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-frame-side-management-320-b32"
   },
   "/docs/web-app/features/hive-management-14f": {
-    "__comp": "17896441",
-    "content": "5934a872"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-hive-management-593-dd9"
   },
   "/docs/web-app/features/join-colonies-46b": {
-    "__comp": "17896441",
-    "content": "b5c36da2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-join-coloniesb-5-c-3b8"
   },
   "/docs/web-app/features/queen-detection-995": {
-    "__comp": "17896441",
-    "content": "6513e176"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-queen-detection-651-8f8"
   },
   "/docs/web-app/features/queen-management-6ba": {
-    "__comp": "17896441",
-    "content": "ce9b8728"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-queen-managementce-9-a76"
   },
   "/docs/web-app/features/split-colony-5d8": {
-    "__comp": "17896441",
-    "content": "52730ebe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-split-colony-527-bc7"
   },
   "/docs/web-app/features/telemetry-storage-af7": {
-    "__comp": "17896441",
-    "content": "5285c273"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-telemetry-storage-528-d98"
   },
   "/docs/web-app/features/timeseries-analytics-3e2": {
-    "__comp": "17896441",
-    "content": "2b2fe518"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-timeseries-analytics-2-b-2-f81"
   },
   "/docs/web-app/features/user-profile-editing-ea9": {
-    "__comp": "17896441",
-    "content": "3fbc4224"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-user-profile-editing-3-fb-34c"
   },
   "/docs/web-app/features/user-registration-ee2": {
-    "__comp": "17896441",
-    "content": "71a3dc54"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-user-registration-71-a-970"
   },
   "/docs/web-app/Tech stack, conventions, environments-670": {
-    "__comp": "17896441",
-    "content": "6f9771d2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-tech-stack-conventions-environments-6-f-9-d84"
   },
   "/docs/web-app/UX - UI wireframes-772": {
-    "__comp": "17896441",
-    "content": "2564e957"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-ux-ui-wireframes-256-93e"
   },
   "/research-c9c": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "69ce07ac"
+      "plugin": "plugin---research-69-c-fe6"
     }
   },
   "/research-c93": {
-    "__comp": "a7bd4aaa",
-    "__props": "262322ab"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---research-262-273"
   },
   "/research-49d": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/research/-0df": {
-    "__comp": "17896441",
-    "content": "ca801a32"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-ca-8-83e"
   },
   "/research/Competition/-108": {
-    "__comp": "17896441",
-    "content": "eb328586"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-eb-3-fe9"
   },
   "/research/Competition/🇦🇺 Beemate-8f6": {
-    "__comp": "17896441",
-    "content": "6528ac34"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇦🇺-beemate-652-34e"
   },
   "/research/Competition/🇦🇺 Purple Hive-8e2": {
-    "__comp": "17896441",
-    "content": "a225be62"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇦🇺-purple-hivea-22-4c1"
   },
   "/research/Competition/🇨🇦 Nectar-ff5": {
-    "__comp": "17896441",
-    "content": "ea898a3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇨🇦-nectarea-8-9b2"
   },
   "/research/Competition/🇩🇪 ApicAI-87f": {
-    "__comp": "17896441",
-    "content": "eb8c25be"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇩🇪-apic-a-ieb-8-738"
   },
   "/research/Competition/🇮🇱 BeeHero-0af": {
-    "__comp": "17896441",
-    "content": "292898cb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇮🇱-bee-hero-292-d7c"
   },
   "/research/Competition/🇮🇱 Beewise-95d": {
-    "__comp": "17896441",
-    "content": "829cff19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇮🇱-beewise-829-d2b"
   },
   "/research/Competition/🇳🇱 Beep NL-a5e": {
-    "__comp": "17896441",
-    "content": "8adcd357"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇳🇱-beep-nl-8-ad-ed1"
   },
   "/research/Competition/🇺🇸 Best Bees-bc9": {
-    "__comp": "17896441",
-    "content": "8f03604b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇺🇸-best-bees-8-f-0-6f0"
   },
   "/research/Competition/🇺🇸 HiveGenie-bb5": {
-    "__comp": "17896441",
-    "content": "c6e68155"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-🇺🇸-hive-geniec-6-e-2e5"
   },
   "/research/Competition/3bee-5ca": {
-    "__comp": "17896441",
-    "content": "bf87e693"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-3-beebf-8-938"
   },
   "/research/Competition/AgriSound-30a": {
-    "__comp": "17896441",
-    "content": "007c1f8a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-agri-sound-007-f9b"
   },
   "/research/Competition/ApiaryBook-7c7": {
-    "__comp": "17896441",
-    "content": "a2fe1a27"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-apiary-booka-2-f-986"
   },
   "/research/Competition/ApiManager-7a4": {
-    "__comp": "17896441",
-    "content": "93433df3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-api-manager-934-39c"
   },
   "/research/Competition/ApiZoom-7f4": {
-    "__comp": "17896441",
-    "content": "0df7fd1b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-api-zoom-0-df-11b"
   },
   "/research/Competition/BeeHiveMonitoring-563": {
-    "__comp": "17896441",
-    "content": "3d990a58"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-hive-monitoring-3-d-9-35b"
   },
   "/research/Competition/BeehiveMonitoringUSA-0ba": {
-    "__comp": "17896441",
-    "content": "0cd1534a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beehive-monitoring-usa-0-cd-e09"
   },
   "/research/Competition/beehold.rs-6ed": {
-    "__comp": "17896441",
-    "content": "7374f1ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beehold-rs-737-58a"
   },
   "/research/Competition/beeing-eff": {
-    "__comp": "17896441",
-    "content": "a6c6a0e5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beeinga-6-c-760"
   },
   "/research/Competition/BeeLab-f73": {
-    "__comp": "17896441",
-    "content": "aa60bc2f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-labaa-6-ea7"
   },
   "/research/Competition/BeeOrganizer-e64": {
-    "__comp": "17896441",
-    "content": "10702bc7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-organizer-107-45a"
   },
   "/research/Competition/BeePlus Beekeeping-b2d": {
-    "__comp": "17896441",
-    "content": "6e86a4fa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-plus-beekeeping-6-e-8-59b"
   },
   "/research/Competition/BeeSage-bd3": {
-    "__comp": "17896441",
-    "content": "2779049b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-sage-277-465"
   },
   "/research/Competition/beescanning-7be": {
-    "__comp": "17896441",
-    "content": "d12c7238"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beescanningd-12-949"
   },
   "/research/Competition/Beetight 2-ce8": {
-    "__comp": "17896441",
-    "content": "00636c33"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beetight-2006-a9a"
   },
   "/research/Competition/BeeZee-a27": {
-    "__comp": "17896441",
-    "content": "c3e006e9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-bee-zeec-3-e-f6b"
   },
   "/research/Competition/Beezon-0d7": {
-    "__comp": "17896441",
-    "content": "8549d00d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-beezon-854-5d1"
   },
   "/research/Competition/Broodminder-982": {
-    "__comp": "17896441",
-    "content": "3fdf8269"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-broodminder-3-fd-241"
   },
   "/research/Competition/BuzzBox-523": {
-    "__comp": "17896441",
-    "content": "8165e2de"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-buzz-box-816-72f"
   },
   "/research/Competition/ForSage-8eb": {
-    "__comp": "17896441",
-    "content": "67aab1dd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-for-sage-67-a-a56"
   },
   "/research/Competition/Gobuzzr-479": {
-    "__comp": "17896441",
-    "content": "20f821e6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-gobuzzr-20-f-553"
   },
   "/research/Competition/HIIVE Link-f55": {
-    "__comp": "17896441",
-    "content": "97be2b65"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hiive-link-97-b-5f5"
   },
   "/research/Competition/HiveBloom-f1f": {
-    "__comp": "17896441",
-    "content": "cb688ccf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-bloomcb-6-130"
   },
   "/research/Competition/HiveMind-d79": {
-    "__comp": "17896441",
-    "content": "d4cbf594"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-mindd-4-c-137"
   },
   "/research/Competition/HivePulse-bee": {
-    "__comp": "17896441",
-    "content": "e6c9ffed"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hive-pulsee-6-c-7e0"
   },
   "/research/Competition/hivetracks-ff1": {
-    "__comp": "17896441",
-    "content": "476cb829"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-hivetracks-476-5e9"
   },
   "/research/Competition/HoneyInstruments-c75": {
-    "__comp": "17896441",
-    "content": "7d0d7c6f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-honey-instruments-7-d-0-65a"
   },
   "/research/Competition/i-bee-f0b": {
-    "__comp": "17896441",
-    "content": "19a80fdc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-i-bee-19-a-3e4"
   },
   "/research/Competition/InspectNext-696": {
-    "__comp": "17896441",
-    "content": "0d2bba70"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-inspect-next-0-d-2-9c0"
   },
   "/research/Competition/IntelligentHives-89d": {
-    "__comp": "17896441",
-    "content": "fee0ed03"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-intelligent-hivesfee-3d9"
   },
   "/research/Competition/io-bee-827": {
-    "__comp": "17896441",
-    "content": "c29c7e2c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-io-beec-29-00e"
   },
   "/research/Competition/OSBeehives-538": {
-    "__comp": "17896441",
-    "content": "21f90c94"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-os-beehives-21-f-51e"
   },
   "/research/Competition/Pollenity-5a5": {
-    "__comp": "17896441",
-    "content": "b893f156"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-pollenityb-89-9d7"
   },
   "/research/Competition/Prohiver-576": {
-    "__comp": "17896441",
-    "content": "8797d8fe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-prohiver-879-a5b"
   },
   "/research/Competition/SMSVaga-903": {
-    "__comp": "17896441",
-    "content": "5475c69c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-sms-vaga-547-20e"
   },
   "/research/Competition/Solutionbee-0ef": {
-    "__comp": "17896441",
-    "content": "e06f7db0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-solutionbeee-06-c13"
   },
   "/research/Competition/Апипульс-6be": {
-    "__comp": "17896441",
-    "content": "441076a3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-competition-апипульс-441-2ca"
   },
   "/research/Datasets-5b5": {
-    "__comp": "17896441",
-    "content": "89a66ba8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-datasets-89-a-b93"
   },
   "/research/Hacker projects-16f": {
-    "__comp": "17896441",
-    "content": "306850cc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-hacker-projects-306-305"
   },
   "/research/Models-a87": {
-    "__comp": "17896441",
-    "content": "5409948d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-models-540-237"
   },
   "/research/papers/-79b": {
-    "__comp": "17896441",
-    "content": "ba4fcde3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-ba-4-e43"
   },
   "/research/papers/⭐️ An AI-Based Open-Source Software for Varroa Mite Fall Analysis in Honeybee Colonies-3a2": {
-    "__comp": "17896441",
-    "content": "ecee732a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-an-ai-based-open-source-software-for-varroa-mite-fall-analysis-in-honeybee-coloniesece-8fc"
   },
   "/research/papers/⭐️ Automated Video Monitoring of Unmarked and Marked Honey Bees at the Hive Entrance-d33": {
-    "__comp": "17896441",
-    "content": "9afbd952"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-automated-video-monitoring-of-unmarked-and-marked-honey-bees-at-the-hive-entrance-9-af-c66"
   },
   "/research/papers/⭐️ Automatic detection and classification of honey bee comb cells using deeplearning-ce6": {
-    "__comp": "17896441",
-    "content": "92a68b98"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-automatic-detection-and-classification-of-honey-bee-comb-cells-using-deeplearning-92-a-0a0"
   },
   "/research/papers/⭐️ Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots-e02": {
-    "__comp": "17896441",
-    "content": "2fea1297"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-autonomous-tracking-of-honey-bee-behaviors-over-long-term-periods-with-cooperating-robots-2-fe-257"
   },
   "/research/papers/⭐️ BeeAlarmed. Masters thesis-da5": {
-    "__comp": "17896441",
-    "content": "67dec8ec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-bee-alarmed-masters-thesis-67-d-429"
   },
   "/research/papers/⭐️ Deep Edge IoT for Acoustic Detection of Queenless Beehives-1e7": {
-    "__comp": "17896441",
-    "content": "07ce91c8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-deep-edge-io-t-for-acoustic-detection-of-queenless-beehives-07-c-ce1"
   },
   "/research/papers/⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives-155": {
-    "__comp": "17896441",
-    "content": "f6802b34"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-deep-bees-building-and-scaling-convolutional-neuronal-nets-for-fast-and-large-scale-visual-monitoring-of-bee-hivesf-68-6c9"
   },
   "/research/papers/⭐️ LabelBee a web platform for large-scale semi-automated analysis of honeybee behavior from video-fb1": {
-    "__comp": "17896441",
-    "content": "a23654de"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-label-bee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-videoa-23-ed1"
   },
   "/research/papers/⭐️ Markerless tracking of an entire honey bee colony-852": {
-    "__comp": "17896441",
-    "content": "d484f8a2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-markerless-tracking-of-an-entire-honey-bee-colonyd-48-652"
   },
   "/research/papers/⭐️ Towards dense object tracking in a 2D honeybee hive-9a1": {
-    "__comp": "17896441",
-    "content": "b9470706"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-⭐️-towards-dense-object-tracking-in-a-2-d-honeybee-hiveb-94-f34"
   },
   "/research/papers/A Minimally Invasive Approach Towards “Ecosystem Hacking” With Honeybees-5b4": {
-    "__comp": "17896441",
-    "content": "74341387"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-a-minimally-invasive-approach-towards-ecosystem-hacking-with-honeybees-743-cf6"
   },
   "/research/papers/A Preliminary Study of Image Analysis forParasite Detection on Honey Bees-54e": {
-    "__comp": "17896441",
-    "content": "faa6e67f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-a-preliminary-study-of-image-analysis-for-parasite-detection-on-honey-beesfaa-f7b"
   },
   "/research/papers/Accuracy vs. Energy-e9e": {
-    "__comp": "17896441",
-    "content": "6d6ee4d4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-accuracy-vs-energy-6-d-6-7a0"
   },
   "/research/papers/Advances in Beehive Monitoring Systems Low-Cost Integrating Sensor Technology for Improved Apiculture Management-46c": {
-    "__comp": "17896441",
-    "content": "8725d865"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-advances-in-beehive-monitoring-systems-low-cost-integrating-sensor-technology-for-improved-apiculture-management-872-d91"
   },
   "/research/papers/Ambient Electromagnetic Radiation as a Predictor of Honey Bee Traffic-393": {
-    "__comp": "17896441",
-    "content": "156a796a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-ambient-electromagnetic-radiation-as-a-predictor-of-honey-bee-traffic-156-cbd"
   },
   "/research/papers/Analysis of Energy Consumption in a Precision Beekeeping System-a7a": {
-    "__comp": "17896441",
-    "content": "89349b07"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-analysis-of-energy-consumption-in-a-precision-beekeeping-system-893-c1a"
   },
   "/research/papers/Analysis of the Waggle Dance Motion of Honeybees for the Design of a Biomimetic Honeybee Robot-27f": {
-    "__comp": "17896441",
-    "content": "583ee05d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-analysis-of-the-waggle-dance-motion-of-honeybees-for-the-design-of-a-biomimetic-honeybee-robot-583-e30"
   },
   "/research/papers/Apis mellifera Bee Verification with IoT and Graph Neural Network-178": {
-    "__comp": "17896441",
-    "content": "fae4e331"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-apis-mellifera-bee-verification-with-io-t-and-graph-neural-networkfae-098"
   },
   "/research/papers/Application of Data Layering in Precision Beekeeping The Concept-cfb": {
-    "__comp": "17896441",
-    "content": "592e3a45"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-application-of-data-layering-in-precision-beekeeping-the-concept-592-be2"
   },
   "/research/papers/Approximation of functions-c10": {
-    "__comp": "17896441",
-    "content": "f68a461f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-approximation-of-functionsf-68-ca7"
   },
   "/research/papers/Audio, Image, Video, and Weather Datasets for Continuous Electronic Beehive Monitoring-f3e": {
-    "__comp": "17896441",
-    "content": "6d4e4265"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-audio-image-video-and-weather-datasets-for-continuous-electronic-beehive-monitoring-6-d-4-a50"
   },
   "/research/papers/Automated monitoring of bee behaviour using connected hives Towards a computational apidology-1ac": {
-    "__comp": "17896441",
-    "content": "bac8523f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-automated-monitoring-of-bee-behaviour-using-connected-hives-towards-a-computational-apidologybac-77f"
   },
   "/research/papers/Automatic detection and decoding of honeybee waggle dances-580": {
-    "__comp": "17896441",
-    "content": "1c677f16"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-automatic-detection-and-decoding-of-honeybee-waggle-dances-1-c-6-c99"
   },
   "/research/papers/Automatic methods for long-term tracking and the detection and decoding of communication dancesin honeybees-8c6": {
-    "__comp": "17896441",
-    "content": "1f447065"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-automatic-methods-for-long-term-tracking-and-the-detection-and-decoding-of-communication-dancesin-honeybees-1-f-4-bbe"
   },
   "/research/papers/Be-Hive-708": {
-    "__comp": "17896441",
-    "content": "ce841b81"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-be-hivece-8-75a"
   },
   "/research/papers/Bee colony remote monitoring based on IoT using ESP-NOW protocol-701": {
-    "__comp": "17896441",
-    "content": "4c697f28"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-bee-colony-remote-monitoring-based-on-io-t-using-esp-now-protocol-4-c-6-00f"
   },
   "/research/papers/Bee Together Joining Bee Audio Datasets for Hive Extrapolation in AI-Based Monitoring-348": {
-    "__comp": "17896441",
-    "content": "bc7eb768"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-bee-together-joining-bee-audio-datasets-for-hive-extrapolation-in-ai-based-monitoringbc-7-8e0"
   },
   "/research/papers/BeeNet - An End-To-End Deep Network For Bee Surveillance-26a": {
-    "__comp": "17896441",
-    "content": "b503b2e6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-bee-net-an-end-to-end-deep-network-for-bee-surveillanceb-50-a75"
   },
   "/research/papers/BeePIV A Method to Measure Apis Mellifera Traffic with Particle Image Velocimetry in Videos-dfc": {
-    "__comp": "17896441",
-    "content": "c398656b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-bee-piv-a-method-to-measure-apis-mellifera-traffic-with-particle-image-velocimetry-in-videosc-39-7ba"
   },
   "/research/papers/Bio-Hybrid Systems for Ecosystem Level Effects-a68": {
-    "__comp": "17896441",
-    "content": "ff02776f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-bio-hybrid-systems-for-ecosystem-level-effectsff-0-e70"
   },
   "/research/papers/Biodiversity conservation and current threats to European honeybees-a3a": {
-    "__comp": "17896441",
-    "content": "46f70240"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-biodiversity-conservation-and-current-threats-to-european-honeybees-46-f-b08"
   },
   "/research/papers/Buzzing with Intelligence A Systematic Review of SmartBeehive Technologies-f53": {
-    "__comp": "17896441",
-    "content": "8fab534c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-buzzing-with-intelligence-a-systematic-review-of-smart-beehive-technologies-8-fa-11e"
   },
   "/research/papers/Comparing weight dynamics between urban and rural honeybee colonies in Latvia-a9b": {
-    "__comp": "17896441",
-    "content": "fc988f9c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-comparing-weight-dynamics-between-urban-and-rural-honeybee-colonies-in-latviafc-9-bf8"
   },
   "/research/papers/Current achievements and future developments of a novel AI based visual monitoring of beehives in ecotoxicology and for the monitoring of landscape structures-a72": {
-    "__comp": "17896441",
-    "content": "7bc333c1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-current-achievements-and-future-developments-of-a-novel-ai-based-visual-monitoring-of-beehives-in-ecotoxicology-and-for-the-monitoring-of-landscape-structures-7-bc-a64"
   },
   "/research/papers/Deep Learning-Based Detection of Honey Storage Areas in Apismellifera Colonies for Predicting Physical Parameters of Honey via Linear Regression-6d9": {
-    "__comp": "17896441",
-    "content": "b49262ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-deep-learning-based-detection-of-honey-storage-areas-in-apismellifera-colonies-for-predicting-physical-parameters-of-honey-via-linear-regressionb-49-0b7"
   },
   "/research/papers/DeepLabCut-28f": {
-    "__comp": "17896441",
-    "content": "ae8e9146"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-deep-lab-cutae-8-dcc"
   },
   "/research/papers/DeepLabCut-based daily behavioural and posture analysis in a cricket-d8c": {
-    "__comp": "17896441",
-    "content": "dc71b375"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-deep-lab-cut-based-daily-behavioural-and-posture-analysis-in-a-cricketdc-7-2d1"
   },
   "/research/papers/DeepPoseKit-ffb": {
-    "__comp": "17896441",
-    "content": "1defab88"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-deep-pose-kit-1-de-6e0"
   },
   "/research/papers/Digital Transformation of Beekeeping through the Use of a Decision Making Architecture-e63": {
-    "__comp": "17896441",
-    "content": "4ea16c79"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-digital-transformation-of-beekeeping-through-the-use-of-a-decision-making-architecture-4-ea-6fb"
   },
   "/research/papers/Evaluation of Single-Shot Object Detection Models for Identifying Fanning Behavior in Honeybees at the Hive Entrance-6f1": {
-    "__comp": "17896441",
-    "content": "ed880d04"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-evaluation-of-single-shot-object-detection-models-for-identifying-fanning-behavior-in-honeybees-at-the-hive-entranceed-8-ef2"
   },
   "/research/papers/Evaluation of the honey bee colonies weight gain during theintensive foraging period-67b": {
-    "__comp": "17896441",
-    "content": "248229b2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-evaluation-of-the-honey-bee-colonies-weight-gain-during-theintensive-foraging-period-248-8e9"
   },
   "/research/papers/HiveLink – IoT based Smart Bee Hive MonitoringSystem-ced": {
-    "__comp": "17896441",
-    "content": "74525efa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-hive-link-io-t-based-smart-bee-hive-monitoring-system-745-b62"
   },
   "/research/papers/Honey Bee Colonies Remote Monitoring System-5ad": {
-    "__comp": "17896441",
-    "content": "16ba4118"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honey-bee-colonies-remote-monitoring-system-16-b-f8f"
   },
   "/research/papers/Honey bees modify plantpollinator network structure-994": {
-    "__comp": "17896441",
-    "content": "08567849"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honey-bees-modify-plantpollinator-network-structure-085-7c5"
   },
   "/research/papers/Honey bulk DNA metagenomic analysis to identify honey biological-0bc": {
-    "__comp": "17896441",
-    "content": "66bc092c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honey-bulk-dna-metagenomic-analysis-to-identify-honey-biological-66-b-60e"
   },
   "/research/papers/Honeybee In-Out Monitoring System by Object Recognition and Tracking from Real-Time Webcams-d0d": {
-    "__comp": "17896441",
-    "content": "db51c6f1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honeybee-in-out-monitoring-system-by-object-recognition-and-tracking-from-real-time-webcamsdb-5-212"
   },
   "/research/papers/Honeybee Re-identification in Video New Datasets and Impact of Self-supervision-abc": {
-    "__comp": "17896441",
-    "content": "07179d7f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honeybee-re-identification-in-video-new-datasets-and-impact-of-self-supervision-071-d4f"
   },
   "/research/papers/Honeybees on the move - Pollination services and honey production-ae3": {
-    "__comp": "17896441",
-    "content": "8c0ffd20"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-honeybees-on-the-move-pollination-services-and-honey-production-8-c-0-a70"
   },
   "/research/papers/Identifying Queenlessness in Honeybee Hives from Audio Signals Using Machine Learning-49c": {
-    "__comp": "17896441",
-    "content": "de7d551a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-identifying-queenlessness-in-honeybee-hives-from-audio-signals-using-machine-learningde-7-a1d"
   },
   "/research/papers/Impact of the precision beekeeping on the living environment-7f4": {
-    "__comp": "17896441",
-    "content": "96336326"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-impact-of-the-precision-beekeeping-on-the-living-environment-963-978"
   },
   "/research/papers/Importance of GIS solutions for beekeepers a review-bcc": {
-    "__comp": "17896441",
-    "content": "8eb20877"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-importance-of-gis-solutions-for-beekeepers-a-review-8-eb-6d3"
   },
   "/research/papers/Integration of Scales and Cameras in Nondisruptive Electronic Beehive Monitoring-4bc": {
-    "__comp": "17896441",
-    "content": "72899757"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-integration-of-scales-and-cameras-in-nondisruptive-electronic-beehive-monitoring-728-296"
   },
   "/research/papers/Intelligent beehive monitoring system based on internet of things and colony state analysis-a4f": {
-    "__comp": "17896441",
-    "content": "1bdd54c0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-intelligent-beehive-monitoring-system-based-on-internet-of-things-and-colony-state-analysis-1-bd-ef9"
   },
   "/research/papers/Internet of Things Smart Beehive Network-972": {
-    "__comp": "17896441",
-    "content": "9aa4a750"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-internet-of-things-smart-beehive-network-9-aa-aec"
   },
   "/research/papers/IoT and Machine Learning Techniques for Precision Beekeeping A Review-db7": {
-    "__comp": "17896441",
-    "content": "4ba70d59"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-io-t-and-machine-learning-techniques-for-precision-beekeeping-a-review-4-ba-7ab"
   },
   "/research/papers/Keypoint-Based Bee Orientation Estimation and Ramp Detection at the Hive Entrance for Bee Behavior Identification System-9c8": {
-    "__comp": "17896441",
-    "content": "af36742c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-keypoint-based-bee-orientation-estimation-and-ramp-detection-at-the-hive-entrance-for-bee-behavior-identification-systemaf-3-e23"
   },
   "/research/papers/Labeled dataset for bee detection and direction estimation on entrance to beehive-1e5": {
-    "__comp": "17896441",
-    "content": "504039a2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-labeled-dataset-for-bee-detection-and-direction-estimation-on-entrance-to-beehive-504-799"
   },
   "/research/papers/Machine Learning and Computer Vision Techniques in Continuous Beehive Monitoring Applications A Survey-c31": {
-    "__comp": "17896441",
-    "content": "a36d108a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-machine-learning-and-computer-vision-techniques-in-continuous-beehive-monitoring-applications-a-surveya-36-68d"
   },
   "/research/papers/Mapping Crop Types for Beekeepers Using Sentinel-2 Satellite Image Time Series Five Essential Crops in the Pollination Services-713": {
-    "__comp": "17896441",
-    "content": "47c9aa7b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-mapping-crop-types-for-beekeepers-using-sentinel-2-satellite-image-time-series-five-essential-crops-in-the-pollination-services-47-c-adf"
   },
   "/research/papers/Model for the bee apiary location evaluation-17f": {
-    "__comp": "17896441",
-    "content": "662b3b46"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-model-for-the-bee-apiary-location-evaluation-662-649"
   },
   "/research/papers/Modular sensory hardware and data processing solution forimplementation of the precision beekeeping-500": {
-    "__comp": "17896441",
-    "content": "6167df71"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-modular-sensory-hardware-and-data-processing-solution-forimplementation-of-the-precision-beekeeping-616-eb2"
   },
   "/research/papers/Multiple Animals Tracking in VideoUsing Part Affinity Fields-ee1": {
-    "__comp": "17896441",
-    "content": "34853507"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-multiple-animals-tracking-in-video-using-part-affinity-fields-348-0e2"
   },
   "/research/papers/mybee-d6f": {
-    "__comp": "17896441",
-    "content": "e69624d6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-mybeee-69-1ad"
   },
   "/research/papers/On Image Classification in Video Analysis of Omnidirectional Apis Mellifera Traffic Random Reinforced Forests vs. Shallow Convolutional Networks-c92": {
-    "__comp": "17896441",
-    "content": "256fc749"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-on-image-classification-in-video-analysis-of-omnidirectional-apis-mellifera-traffic-random-reinforced-forests-vs-shallow-convolutional-networks-256-2c0"
   },
   "/research/papers/Open Remote Web Lab for Learning Robotics andROS With Physical and Simulated Robots in anAuthentic Developer Environment-94f": {
-    "__comp": "17896441",
-    "content": "6a9eff2b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-open-remote-web-lab-for-learning-robotics-and-ros-with-physical-and-simulated-robots-in-an-authentic-developer-environment-6-a-9-c1d"
   },
   "/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences-130": {
-    "__comp": "17896441",
-    "content": "d01e767a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-pdfs-beehive-smart-detector-device-for-the-detection-of-critical-conditions-that-utilize-edge-device-computations-and-deep-learning-inferencesd-01-5ea"
   },
   "/research/papers/Pollinators as Data Collectors Estimating Floral Diversity with Bees and Computer Vision-74c": {
-    "__comp": "17896441",
-    "content": "97bd00ee"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-pollinators-as-data-collectors-estimating-floral-diversity-with-bees-and-computer-vision-97-b-a81"
   },
   "/research/papers/Precision Apiculture – IoT System for Remote Monitoring of Honeybee Colonies-245": {
-    "__comp": "17896441",
-    "content": "686309ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-precision-apiculture-io-t-system-for-remote-monitoring-of-honeybee-colonies-686-8d4"
   },
   "/research/papers/Precision Beekeeping Systems State of the Art, Pros and Cons, and Their Application as Tools for Advancing theBeekeeping Sector-c61": {
-    "__comp": "17896441",
-    "content": "d14d6e2a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-precision-beekeeping-systems-state-of-the-art-pros-and-cons-and-their-application-as-tools-for-advancing-the-beekeeping-sectord-14-2d5"
   },
   "/research/papers/Precision Monitoring of Honey Bee-66e": {
-    "__comp": "17896441",
-    "content": "64a7cbee"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-precision-monitoring-of-honey-bee-64-a-609"
   },
   "/research/papers/Raspberry Pi Bee Health Monitoring Device-81a": {
-    "__comp": "17896441",
-    "content": "515d2376"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-raspberry-pi-bee-health-monitoring-device-515-8c2"
   },
   "/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking-db6": {
-    "__comp": "17896441",
-    "content": "48e370cc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-real-time-low-latency-closed-loop-feedback-using-markerless-posture-tracking-48-e-791"
   },
   "/research/papers/Reception and learning of electric fields in bees-bce": {
-    "__comp": "17896441",
-    "content": "32e162ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-reception-and-learning-of-electric-fields-in-bees-32-e-939"
   },
   "/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network-cec": {
-    "__comp": "17896441",
-    "content": "6828c38e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-recognition-of-pollen-bearing-bees-from-video-using-convolutional-neural-network-682-c96"
   },
   "/research/papers/Self-Powered Smart Beehive Monitoring and ControlSystem (SBMaCS)-69c": {
-    "__comp": "17896441",
-    "content": "aa4df431"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-self-powered-smart-beehive-monitoring-and-control-system-sb-ma-cs-aa-4-bb1"
   },
   "/research/papers/SLEAP-496": {
-    "__comp": "17896441",
-    "content": "b9d279cd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-slea-pb-9-d-ac4"
   },
   "/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis-075": {
-    "__comp": "17896441",
-    "content": "5560d9cd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-smart-beehive-monitoring-for-remote-regions-ph-d-thesis-556-ba6"
   },
   "/research/papers/Social networks predict the life and death of honeybees-062": {
-    "__comp": "17896441",
-    "content": "93215949"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-social-networks-predict-the-life-and-death-of-honeybees-932-e3b"
   },
   "/research/papers/Solution for automated bee colony weight monitoring-20c": {
-    "__comp": "17896441",
-    "content": "8cf51ec9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-solution-for-automated-bee-colony-weight-monitoring-8-cf-0fd"
   },
   "/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount-8ef": {
-    "__comp": "17896441",
-    "content": "916dd1d0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-the-development-of-honey-bee-coloniesassessed-using-a-new-semi-automated-broodcounting-method-comb-count-916-60f"
   },
   "/research/papers/The prediction of swarming in honeybee colonies using vibrational spectra-36f": {
-    "__comp": "17896441",
-    "content": "d72d10d2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-the-prediction-of-swarming-in-honeybee-colonies-using-vibrational-spectrad-72-56c"
   },
   "/research/papers/The Use of Products with a Monitoring System for Remote Bee Detection in Beekeeping in Czechia-071": {
-    "__comp": "17896441",
-    "content": "97724c74"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-the-use-of-products-with-a-monitoring-system-for-remote-bee-detection-in-beekeeping-in-czechia-977-8d7"
   },
   "/research/papers/Toward an intelligent and efficient beehive A survey of precision beekeeping systems and services-a0f": {
-    "__comp": "17896441",
-    "content": "9669ac2f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-toward-an-intelligent-and-efficient-beehive-a-survey-of-precision-beekeeping-systems-and-services-966-61b"
   },
   "/research/papers/Towards Robotic Mapping of a Honeybee Comb-ec0": {
-    "__comp": "17896441",
-    "content": "8696d5c6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-towards-robotic-mapping-of-a-honeybee-comb-869-ba8"
   },
   "/research/papers/Towards Varroa destructor mite detection using a narrow spectra illumination-2da": {
-    "__comp": "17896441",
-    "content": "27fa2986"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-towards-varroa-destructor-mite-detection-using-a-narrow-spectra-illumination-27-f-868"
   },
   "/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence-714": {
-    "__comp": "17896441",
-    "content": "aff183df"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-tracking-all-members-of-a-honey-bee-colony-over-their-lifetime-using-learned-models-of-correspondenceaff-95d"
   },
   "/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key-3be": {
-    "__comp": "17896441",
-    "content": "46dba741"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-tracking-varroa-parasitism-using-handheld-infrared-cameras-is-eusocial-fever-the-key-46-d-ebb"
   },
   "/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species-711": {
-    "__comp": "17896441",
-    "content": "87b57a46"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-transformer-models-improve-the-acoustic-recognition-of-buzz-pollinating-bee-species-87-b-318"
   },
   "/research/papers/Varroa Destructor Classification Using Legendre Fourier Moments with Different Color Spaces-5e8": {
-    "__comp": "17896441",
-    "content": "e04beb74"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-varroa-destructor-classification-using-legendre-fourier-moments-with-different-color-spacese-04-2b2"
   },
   "/research/papers/Varroa destructor detection on honey bees using hyperspectral imagery-a00": {
-    "__comp": "17896441",
-    "content": "e72d831d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-varroa-destructor-detection-on-honey-bees-using-hyperspectral-imagerye-72-d53"
   },
   "/research/papers/Visual Diagnosis of the Varroa Destructor Parasitic Mite in Honeybees Using Object Detector Techniques-ce9": {
-    "__comp": "17896441",
-    "content": "2c001fcb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-visual-diagnosis-of-the-varroa-destructor-parasitic-mite-in-honeybees-using-object-detector-techniques-2-c-0-8f4"
   },
   "/research/papers/wifi-exposure-d31": {
-    "__comp": "17896441",
-    "content": "6b7c2242"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---research-papers-wifi-exposure-6-b-7-4ce"
   },
   "/-dec": {
-    "__comp": "4fd05c72",
+    "__comp": "__comp---site-pages-index-tsx-4-fd-71b",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---pricinga-74-6bc"
     },
-    "config": "5e9f5e1a"
+    "config": "config---pricing-5-e-9-f3b"
   }
 }
