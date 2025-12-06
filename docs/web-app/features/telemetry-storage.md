@@ -27,46 +27,73 @@ Time-series data storage and querying system for IoT sensor metrics from beehive
 ### 📋 Technical Specifications
 
 #### Database Schema
-```sql
-CREATE TABLE telemetry_metrics (
-  id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-  hive_id INT UNSIGNED NOT NULL,
-  user_id INT UNSIGNED NOT NULL,
-  metric_type ENUM('temperature', 'humidity', 'weight') NOT NULL,
-  value FLOAT NOT NULL,
-  timestamp DATETIME(3) NOT NULL,
-  device_id VARCHAR(64),
-  INDEX idx_hive_time (hive_id, timestamp DESC),
-  INDEX idx_user_hive (user_id, hive_id),
-  INDEX idx_type_time (metric_type, timestamp DESC)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-CREATE TABLE entrance_traffic (
-  id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-  hive_id INT UNSIGNED NOT NULL,
-  box_id INT UNSIGNED NOT NULL,
-  user_id INT UNSIGNED NOT NULL,
-  bees_in FLOAT DEFAULT 0,
-  bees_out FLOAT DEFAULT 0,
-  net_flow FLOAT DEFAULT 0,
-  avg_speed FLOAT DEFAULT 0,
-  p95_speed FLOAT DEFAULT 0,
-  stationary_bees INT DEFAULT 0,
-  detected_bees INT DEFAULT 0,
-  bee_interactions INT DEFAULT 0,
-  timestamp DATETIME(3) NOT NULL,
-  INDEX idx_hive_time (hive_id, timestamp DESC),
-  INDEX idx_box_time (box_id, timestamp DESC),
-  INDEX idx_user_hive (user_id, hive_id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+```mermaid
+erDiagram
+    users ||--o{ telemetry_metrics : "owns"
+    users ||--o{ entrance_traffic : "owns"
+    hives ||--o{ telemetry_metrics : "has"
+    hives ||--o{ entrance_traffic : "has"
+    boxes ||--o{ entrance_traffic : "monitors"
+    devices ||--o{ telemetry_metrics : "sends"
+    
+    telemetry_metrics {
+        bigint id PK
+        int hive_id FK
+        int user_id FK
+        enum metric_type "temperature, humidity, weight"
+        float value
+        datetime timestamp "millisecond precision"
+        varchar device_id FK "optional"
+    }
+    
+    entrance_traffic {
+        bigint id PK
+        int hive_id FK
+        int box_id FK
+        int user_id FK
+        float bees_in
+        float bees_out
+        float net_flow
+        float avg_speed
+        float p95_speed
+        int stationary_bees
+        int detected_bees
+        int bee_interactions
+        datetime timestamp "millisecond precision"
+    }
+    
+    users {
+        int id PK
+        varchar email
+    }
+    
+    hives {
+        int id PK
+        int user_id FK
+        varchar name
+    }
+    
+    boxes {
+        int id PK
+        int hive_id FK
+        enum type "DEEP, SUPER, GATE, BOTTOM"
+    }
+    
+    devices {
+        varchar device_id PK
+        int hive_id FK
+        enum type "sensor, camera"
+    }
 ```
 
 **Table Design Rationale:**
 - Separate tables for different metric categories (environmental vs entrance traffic)
 - Millisecond precision timestamps for high-frequency data
-- Composite indexes optimized for time-range queries per hive
-- user_id for data isolation and query optimization
-- device_id for tracking data source and debugging
+- Composite indexes on (hive_id, timestamp DESC) for time-range queries
+- Indexes on (user_id, hive_id) for data isolation
+- Indexes on (metric_type, timestamp DESC) for filtered queries
+- device_id tracks data source for debugging
 
 #### GraphQL API
 ```graphql
