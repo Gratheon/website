@@ -1,7 +1,7 @@
 {
   "id": "products/web_app/pro-tier/hive_ownership_transfer",
-  "title": "♻️ Hive ownership transfer",
-  "description": "Hive ownership transfer allows beekeepers to transfer complete hive records, history, and data to another user account within the Gratheon platform.",
+  "title": "hive_ownership_transfer",
+  "description": "f---",
   "source": "@site/about/products/web_app/pro-tier/hive_ownership_transfer.md",
   "sourceDirName": "products/web_app/pro-tier",
   "slug": "/products/web_app/pro-tier/hive_ownership_transfer",
@@ -10,9 +10,7 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {
-    "title": "♻️ Hive ownership transfer"
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "⚖️ Colony comparison analytics",
