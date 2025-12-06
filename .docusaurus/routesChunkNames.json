@@ -593,17 +593,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-d3a": {
+  "/about-09f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-999": {
+  "/about-3e9": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-8d4": {
+  "/about-50c": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -1482,6 +1482,10 @@
     "__comp": "17896441",
     "content": "c4823bfa"
   },
+  "/about/products/web_app/pro-tier/timeseries_data_analytics-8a5": {
+    "__comp": "17896441",
+    "content": "4280704e"
+  },
   "/about/products/web_app/starter-tier/✏️ Drawing on canvas-ad9": {
     "__comp": "17896441",
     "content": "739fc099"
@@ -1542,17 +1546,17 @@
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-74f": {
+  "/docs-4c1": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-b80": {
+  "/docs-37b": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-58c": {
+  "/docs-22a": {
     "__comp": "a94703ab"
   },
   "/docs/API/-a9c": {
@@ -1874,6 +1878,10 @@
   "/docs/web-app/features/telemetry-storage-af7": {
     "__comp": "17896441",
     "content": "5285c273"
+  },
+  "/docs/web-app/features/timeseries-analytics-3e2": {
+    "__comp": "17896441",
+    "content": "2b2fe518"
   },
   "/docs/web-app/features/user-profile-editing-ea9": {
     "__comp": "17896441",

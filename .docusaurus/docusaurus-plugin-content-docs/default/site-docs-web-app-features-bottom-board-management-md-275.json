@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hive Telemetry Storage - Technical Documentation",
-    "permalink": "/docs/web-app/features/telemetry-storage"
+    "title": "Timeseries Data Analytics - Technical Documentation",
+    "permalink": "/docs/web-app/features/timeseries-analytics"
   },
   "next": {
     "title": "gate-video-stream",

@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/timeseries-analytics",
+  "title": "Timeseries Data Analytics - Technical Documentation",
+  "description": "🎯 Overview",
+  "source": "@site/docs/web-app/features/timeseries-analytics.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/timeseries-analytics",
+  "permalink": "/docs/web-app/features/timeseries-analytics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/timeseries-analytics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hive Telemetry Storage - Technical Documentation",
+    "permalink": "/docs/web-app/features/telemetry-storage"
+  },
+  "next": {
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
+  }
+}

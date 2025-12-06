@@ -406,6 +406,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/timeseries-analytics",
+              "path": "/docs/web-app/features/timeseries-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/features/user-profile-editing",
               "path": "/docs/web-app/features/user-profile-editing",
               "sidebar": "tutorialSidebar"
@@ -1542,6 +1547,11 @@
             {
               "id": "products/web_app/pro-tier/inventory_management",
               "path": "/about/products/web_app/pro-tier/inventory_management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/timeseries_data_analytics",
+              "path": "/about/products/web_app/pro-tier/timeseries_data_analytics",
               "sidebar": "tutorialSidebar"
             },
             {

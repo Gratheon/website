@@ -1,0 +1,25 @@
+{
+  "id": "products/web_app/pro-tier/timeseries_data_analytics",
+  "title": "📊 Timeseries data analytics",
+  "description": "Multi-hive analytics dashboard for comparing colony metrics over time, identifying trends, correlations, and anomalies across your apiary.",
+  "source": "@site/about/products/web_app/pro-tier/timeseries_data_analytics.md",
+  "sourceDirName": "products/web_app/pro-tier",
+  "slug": "/products/web_app/pro-tier/timeseries_data_analytics",
+  "permalink": "/about/products/web_app/pro-tier/timeseries_data_analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "📊 Timeseries data analytics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📦 Inventory management system",
+    "permalink": "/about/products/web_app/pro-tier/inventory_management"
+  },
+  "next": {
+    "title": "🎥 Video streaming from phone",
+    "permalink": "/about/products/web_app/pro-tier/🎥 Video streaming from phone"
+  }
+}

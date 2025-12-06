@@ -229,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'd3a'),
+    component: ComponentCreator('/about', '09f'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '999'),
+        component: ComponentCreator('/about', '3e9'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '8d4'),
+            component: ComponentCreator('/about', '50c'),
             routes: [
               {
                 path: '/about/',
@@ -1554,6 +1554,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/pro-tier/timeseries_data_analytics',
+                component: ComponentCreator('/about/products/web_app/pro-tier/timeseries_data_analytics', '8a5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/starter-tier/✏️ Drawing on canvas',
                 component: ComponentCreator('/about/products/web_app/starter-tier/✏️ Drawing on canvas', 'ad9'),
                 exact: true,
@@ -1651,15 +1657,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '74f'),
+    component: ComponentCreator('/docs', '4c1'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b80'),
+        component: ComponentCreator('/docs', '37b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '58c'),
+            component: ComponentCreator('/docs', '22a'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2138,6 +2144,12 @@ export default [
               {
                 path: '/docs/web-app/features/telemetry-storage',
                 component: ComponentCreator('/docs/web-app/features/telemetry-storage', 'af7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/timeseries-analytics',
+                component: ComponentCreator('/docs/web-app/features/timeseries-analytics', '3e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
