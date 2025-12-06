@@ -5,11 +5,19 @@ sidebar_position: 13
 # Timeseries Data Analytics - Technical Documentation
 
 ### 🎯 Overview
-Interactive multi-hive analytics dashboard built with React and lightweight-charts for real-time visualization of telemetry data, inspection records, and environmental metrics. Enables cross-hive comparison with synchronized time-axis navigation and data export capabilities.
+Interactive telemetry data visualization system built with React and lightweight-charts, available in two modes: individual hive view (7-day recent metrics under hive "Metrics" tab) and multi-hive analytics dashboard (`/time` page) for cross-colony comparison. Enables real-time visualization of telemetry data, inspection records, and environmental metrics with synchronized time-axis navigation and data export capabilities.
 
 ### 🏗️ Architecture
 
 #### Components
+
+**Individual Hive View** (`/apiaries/:id/hives/:id` - Metrics tab):
+- **HiveWeightGraph**: Container component for single hive metrics
+- **WeightChart**: 7-day weight data for individual hive
+- **TemperatureChart**: 7-day temperature data for individual hive
+- **EntranceMovementChart**: 7-day entrance traffic for individual hive
+
+**Multi-Hive Analytics** (`/time` page):
 - **TimeView**: Main container component managing state and data fetching
 - **ChartContainer**: Reusable wrapper for all chart types with export and alert features
 - **PopulationChart**: Bee population estimates from inspections with ideal curve overlay
@@ -83,6 +91,58 @@ erDiagram
 
 #### GraphQL API
 
+**Individual Hive View Query:**
+```graphql
+query hiveWeight(
+  $hiveId: ID!
+  $timeRangeMin: Int
+  $timeFrom: DateTime!
+  $timeTo: DateTime!
+) {
+  weightKg(hiveId: $hiveId, timeRangeMin: $timeRangeMin) {
+    ... on MetricFloatList {
+      metrics {
+        t
+        v
+      }
+    }
+    ... on TelemetryError {
+      message
+      code
+    }
+  }
+  
+  temperatureCelsius(hiveId: $hiveId, timeRangeMin: $timeRangeMin) {
+    ... on MetricFloatList {
+      metrics {
+        t
+        v
+      }
+    }
+    ... on TelemetryError {
+      message
+      code
+    }
+  }
+  
+  entranceMovement(hiveId: $hiveId, timeFrom: $timeFrom, timeTo: $timeTo) {
+    ... on EntranceMovementList {
+      metrics {
+        time
+        beesIn
+        beesOut
+        netFlow
+      }
+    }
+    ... on TelemetryError {
+      message
+      code
+    }
+  }
+}
+```
+
+**Multi-Hive Analytics Query:**
 ```graphql
 query MultiHiveTelemetry(
   $days: Int!
@@ -212,7 +272,14 @@ const [showIdealCurve, setShowIdealCurve] = useState(true)
 const [enabledCharts, setEnabledCharts] = useState({...})
 ```
 
-**Data Flow:**
+**Data Flow (Individual Hive View):**
+1. User navigates to hive details page
+2. Clicks "Metrics" tab in hive navigation
+3. Fixed 7-day query fetches weight, temperature, entrance data
+4. Three charts render with synchronized time axis
+5. Charts auto-refresh every 30 seconds
+
+**Data Flow (Multi-Hive Analytics):**
 1. Fetch apiaries and hives from GraphQL
 2. Store hives in local Dexie DB for offline access
 3. User selects apiary → filters hives
@@ -493,12 +560,14 @@ useEffect(() => {
 ### 💬 Technical Notes
 
 **Implementation Decisions:**
+- Two separate views: quick hive metrics (7 days) vs comprehensive multi-hive analytics
 - Chose lightweight-charts over Chart.js for better performance with large datasets
 - Used IndexedDB (Dexie) instead of Redux for offline-first architecture
 - Dynamic GraphQL queries avoid overfetching data for unselected hives
 - LocalStorage for preferences balances persistence with privacy
 - URL parameters enable shareable deep links to specific views
 - Chart synchronization uses pub-sub pattern for loose coupling
+- Individual hive view uses fixed 7-day range for simplicity and performance
 
 **Integration Considerations:**
 - Hive list must be synced from GraphQL to local DB on initial load

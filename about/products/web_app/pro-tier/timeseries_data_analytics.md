@@ -4,9 +4,16 @@ title: 📊 Timeseries data analytics
 
 Multi-hive analytics dashboard for comparing colony metrics over time, identifying trends, correlations, and anomalies across your apiary.
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/aBsKVInYCno" title="Features - Telemetry API" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Overview
 
-The timeseries analytics view provides a unified dashboard to analyze multiple hives simultaneously. By overlaying data from different colonies, beekeepers can quickly identify patterns, compare performance, and spot outliers.
+The timeseries analytics feature provides telemetry data visualization in two ways:
+
+1. **Individual hive view** - Single hive metrics accessible from hive details page under the "Metrics" tab
+2. **Multi-hive analytics** - Comparative dashboard at `/time` for analyzing multiple hives simultaneously
+
+By overlaying data from different colonies, beekeepers can quickly identify patterns, compare performance, and spot outliers.
 
 This feature helps:
 - Compare colony development across your apiary
@@ -46,6 +53,20 @@ Overlay environmental data to understand external factors:
 
 ## How it works
 
+### Individual hive view
+
+1. **Navigate to hive details**
+   - Open any hive from apiary view
+   - Click the "Metrics" tab in the hive navigation
+
+2. **View single hive data**
+   - Weight chart (last 7 days)
+   - Temperature chart (last 7 days)
+   - Entrance movement chart (last 7 days)
+   - Charts automatically synchronized for easy correlation
+
+### Multi-hive analytics dashboard
+
 1. **Select apiary**
    - Choose which apiary to analyze
    - Filters hives to the selected location
@@ -76,6 +97,10 @@ Overlay environmental data to understand external factors:
    - Export as CSV for external analysis
 
 ## Features
+
+### Two viewing modes
+- **Individual hive**: Quick access to recent metrics (7 days) from hive details page
+- **Multi-hive dashboard**: Comprehensive analytics at `/time` for cross-hive comparison
 
 ### Cross-hive comparison
 Overlay multiple hives on the same chart with color-coded lines. Quickly identify which colonies are gaining weight faster, maintaining stable temperatures, or showing unusual entrance activity patterns.
