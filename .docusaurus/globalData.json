@@ -401,6 +401,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/telemetry-storage",
+              "path": "/docs/web-app/features/telemetry-storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/features/user-profile-editing",
               "path": "/docs/web-app/features/user-profile-editing",
               "sidebar": "tutorialSidebar"
@@ -1397,6 +1402,11 @@
             {
               "id": "products/web_app/pro-tier/hive_ownership_transfer",
               "path": "/about/products/web_app/pro-tier/hive_ownership_transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/pro-tier/hive_telemetry_storage",
+              "path": "/about/products/web_app/pro-tier/hive_telemetry_storage",
               "sidebar": "tutorialSidebar"
             },
             {

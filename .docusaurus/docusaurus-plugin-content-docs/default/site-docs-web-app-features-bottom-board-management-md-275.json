@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "User Profile Editing - Technical Documentation",
-    "permalink": "/docs/web-app/features/user-profile-editing"
+    "title": "Hive Telemetry Storage - Technical Documentation",
+    "permalink": "/docs/web-app/features/telemetry-storage"
   },
   "next": {
     "title": "gate-video-stream",

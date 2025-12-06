@@ -593,17 +593,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-68d": {
+  "/about-d3a": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-180": {
+  "/about-999": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-57f": {
+  "/about-8d4": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -1370,6 +1370,10 @@
     "__comp": "17896441",
     "content": "690c23c6"
   },
+  "/about/products/web_app/pro-tier/hive_telemetry_storage-0d7": {
+    "__comp": "17896441",
+    "content": "276e6c93"
+  },
   "/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer-709": {
     "__comp": "17896441",
     "content": "c022581c"
@@ -1538,17 +1542,17 @@
     "__comp": "17896441",
     "content": "8a32c920"
   },
-  "/docs-fe4": {
+  "/docs-74f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-a2b": {
+  "/docs-b80": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-f53": {
+  "/docs-58c": {
     "__comp": "a94703ab"
   },
   "/docs/API/-a9c": {
@@ -1866,6 +1870,10 @@
   "/docs/web-app/features/split-colony-5d8": {
     "__comp": "17896441",
     "content": "52730ebe"
+  },
+  "/docs/web-app/features/telemetry-storage-af7": {
+    "__comp": "17896441",
+    "content": "5285c273"
   },
   "/docs/web-app/features/user-profile-editing-ea9": {
     "__comp": "17896441",

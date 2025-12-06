@@ -148,7 +148,7 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
-                <li>📈 Hive telemetry storage</li>
+                <li>📈 &nbsp;<Link to="/about/products/web_app/pro-tier/hive_telemetry_storage">Hive telemetry storage</Link></li>
                 <li>📊 Timeseries data analytics</li>
                 <li>🔔 AI-driven anomaly detection</li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/pro-tier/hive_ownership_transfer">Hive ownership transfer</Link></li>

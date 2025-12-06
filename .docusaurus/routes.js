@@ -229,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '68d'),
+    component: ComponentCreator('/about', 'd3a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '180'),
+        component: ComponentCreator('/about', '999'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '57f'),
+            component: ComponentCreator('/about', '8d4'),
             routes: [
               {
                 path: '/about/',
@@ -1386,6 +1386,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/pro-tier/hive_telemetry_storage',
+                component: ComponentCreator('/about/products/web_app/pro-tier/hive_telemetry_storage', '0d7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer',
                 component: ComponentCreator('/about/products/web_app/pro-tier/ideas 💡/♻️ Hive ownership transfer', '709'),
                 exact: true,
@@ -1645,15 +1651,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fe4'),
+    component: ComponentCreator('/docs', '74f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a2b'),
+        component: ComponentCreator('/docs', 'b80'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f53'),
+            component: ComponentCreator('/docs', '58c'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2126,6 +2132,12 @@ export default [
               {
                 path: '/docs/web-app/features/split-colony',
                 component: ComponentCreator('/docs/web-app/features/split-colony', '5d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/telemetry-storage',
+                component: ComponentCreator('/docs/web-app/features/telemetry-storage', 'af7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

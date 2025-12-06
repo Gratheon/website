@@ -1,0 +1,27 @@
+{
+  "id": "web-app/features/telemetry-storage",
+  "title": "Hive Telemetry Storage - Technical Documentation",
+  "description": "🎯 Overview",
+  "source": "@site/docs/web-app/features/telemetry-storage.md",
+  "sourceDirName": "web-app/features",
+  "slug": "/web-app/features/telemetry-storage",
+  "permalink": "/docs/web-app/features/telemetry-storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/gratheon/website/tree/main/packages/create-docusaurus/templates/shared/docs/web-app/features/telemetry-storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Profile Editing - Technical Documentation",
+    "permalink": "/docs/web-app/features/user-profile-editing"
+  },
+  "next": {
+    "title": "bottom-board-management",
+    "permalink": "/docs/web-app/features/bottom-board-management"
+  }
+}
