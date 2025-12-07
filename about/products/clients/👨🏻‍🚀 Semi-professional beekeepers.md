@@ -1,4 +1,0 @@
-- Has lots of beehives > 10-50
-- Has motorized honey-badger, wax melter
-- Owns a piece of land
-- Sells honey for locals, has a company

@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🖥️ Services and tools that we use",
-    "permalink": "/about/company/Processes/🖥️ Services and tools that we use"
+    "title": "Potential New Beekeepers",
+    "permalink": "/about/company/clients/👨🏻 Potential new beekeepers"
   },
   "next": {
-    "title": "🏇 Go to market strategy",
-    "permalink": "/about/company/🏇 Go to market strategy"
+    "title": "☑️ Features and tasks",
+    "permalink": "/about/company/Processes/☑️ Features and tasks"
   }
 }

@@ -46,7 +46,7 @@ We're not focusing solely on saving honeybees as a species, because globally col
 
 - **Employment:** Technology complements beekeepers' work, enabling them to scale operations and improve bee care
 - **Knowledge sharing:** Reducing barriers for [new beekeepers](../problems/🎒%20Challenging%20to%20become%20a%20new%20beekeeper.md) through education
-- **Accessibility:** Making advanced beekeeping tools available to [semi-professional beekeepers](../products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md), not just industrial operations
+- **Accessibility:** Making advanced beekeeping tools available to [semi-professional beekeepers](../company/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md), not just industrial operations
 - **Community building:** Fostering collaboration between beekeepers and researchers
 
 ## 🏗️ Product Design Ethics

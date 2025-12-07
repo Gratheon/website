@@ -1,0 +1,27 @@
+{
+  "id": "company/clients/👩🏼‍🏫 Urban beekeepers",
+  "title": "Urban Beekeepers",
+  "description": "Profile",
+  "source": "@site/about/company/clients/👩🏼‍🏫 Urban beekeepers.md",
+  "sourceDirName": "company/clients",
+  "slug": "/company/clients/👩🏼‍🏫 Urban beekeepers",
+  "permalink": "/about/company/clients/👩🏼‍🏫 Urban beekeepers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Urban Beekeepers",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "permalink": "/about/company/clients/🧑‍🚀 Hobby beekeepers"
+  },
+  "next": {
+    "title": "Corporate Hive Sponsorship Program",
+    "permalink": "/about/company/clients/👩🏻 Tech scale-up companies"
+  }
+}

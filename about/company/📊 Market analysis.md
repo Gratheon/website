@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+---
+
+
 ## Estonia
 
 As we are Estonia-based, may be useful to track this data too to be able to extrapolate it on the world

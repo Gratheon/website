@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a65a8cf7baaba0",
+        "id": "0f3aae9007d9ac46",
         "type": "tabs",
         "children": [
           {
-            "id": "51574da3e80e0722",
+            "id": "88c0d10615870a9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "about/company/Processes/☑️ Features and tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "☑️ Features and tasks"
             }
           }
         ]
@@ -174,32 +178,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51574da3e80e0722",
+  "active": "88c0d10615870a9c",
   "lastOpenFiles": [
-    "about/products/clients/_archived_Tech-savvy-engineers.md.bak",
-    "research/papers/index.md",
-    "research/Competition/index.md",
-    "about/products/web_app/pro-tier/alerts.md",
-    "public/blog/atom.xml",
     "public/blog/rss.xml",
+    "public/blog/atom.xml",
     "public/blog/atom.css",
     "public/blog/rss.css",
     "public/blog/atom.xsl",
     "public/blog/rss.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence/index.html",
-    "public/research/papers/Transformer Models improve the acoustic recognition of buzz-pollinating bee species/index.html",
+    "public/research/papers/pdfs/Beehive Smart Detector Device for the Detection of CriticalConditions That Utilize Edge Device Computations and DeepLearning Inferences/index.html",
+    "public/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key/index.html",
+    "public/research/papers/wifi-exposure/index.html",
     "public/img/windows.png",
-    "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
+    "public/img/varroa.webp",
     "public/img/undraw_docusaurus_react.svg",
+    "public/img/queens.webp",
     "public/img/undraw_docusaurus_mountain.svg",
+    "public/img/logo_v7w.svg",
     "public/img/temp.webp",
     "public/img/tallinn.png",
-    "public/img/sharing.webp",
-    "public/img/sensors.webp",
-    "public/img/robot.jpeg",
+    "public/img/nvidia-inception-program-badge-rgb-for-screen.svg",
+    "about/company/Processes/🎥 Meeting recordings.md",
+    "about/company/Processes/🖥️ Services and tools that we use.md",
+    "about/company/Processes/☑️ Features and tasks.md",
+    "about/company/clients/index.md",
+    "about/company/🍰 Equity and fundraising plan.md",
+    "about/company/🏇 Go to market strategy.md",
+    "about/company/📊 Market analysis.md",
+    "about/company/clients/🧑‍🚀 Hobby beekeepers.md",
+    "about/company/🤲 Why open source.md",
+    "about/products/index.md",
+    "about/products/🧑‍🚀 Actions beekeepers make.md",
+    "research/papers/index.md",
+    "research/Competition/index.md",
+    "about/products/web_app/pro-tier/alerts.md",
     "docs/web-app/features/timeseries-analytics.md",
     "about/products/web_app/pro-tier/timeseries_data_analytics.md",
     "docs/web-app/features/telemetry-storage.md",
@@ -211,17 +226,6 @@
     "about/products/web_app/flexible-tier/video_playback.md",
     "docs/web-app/features/frame-side-management.md",
     "node_modules/@types/react-dom/README.md",
-    "node_modules/@types/prop-types/README.md",
-    "node_modules/dotenv/SECURITY.md",
-    "node_modules/sockjs/node_modules/uuid/README.md",
-    "node_modules/sockjs/node_modules/uuid/LICENSE.md",
-    "node_modules/sockjs/node_modules/uuid/CONTRIBUTING.md",
-    "node_modules/sockjs/node_modules/uuid/CHANGELOG.md",
-    "node_modules/pino/docs/diagnostics.md",
-    "node_modules/@docusaurus/types/node_modules/webpack-merge/README.md",
-    "node_modules/light-my-request/node_modules/process-warning/README.md",
-    "node_modules/config-chain/node_modules/ini/README.md",
-    "node_modules/body-parser/node_modules/iconv-lite/Changelog.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

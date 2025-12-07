@@ -1,7 +1,7 @@
 {
   "id": "products/clients/👨🏻 Potential new beekeepers",
-  "title": "👨🏻 Potential new beekeepers",
-  "description": "- Someone like 🧑‍🚀 Hobby beekeepers or 🧑🏻‍🌾 Farmers who wants to take care of bees but is afraid and lacks information",
+  "title": "Potential New Beekeepers",
+  "description": "Profile",
   "source": "@site/about/products/clients/👨🏻 Potential new beekeepers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/👨🏻 Potential new beekeepers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Potential New Beekeepers",
+    "sidebar_position": 8
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Corporate Hive Sponsorship Program",
-    "permalink": "/about/products/clients/👩🏻 Tech scale-up companies"
+    "title": "Farmers",
+    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
   },
   "next": {
-    "title": "👨🏻‍🚀 Semi-professional beekeepers",
-    "permalink": "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers"
+    "title": "Circular entrance counter",
+    "permalink": "/about/products/entrance_counter_circular/"
   }
 }

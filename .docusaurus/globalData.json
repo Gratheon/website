@@ -485,6 +485,46 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/clients/👨🏻 Potential new beekeepers",
+              "path": "/about/company/clients/👨🏻 Potential new beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/👨🏻‍🚀 Semi-professional beekeepers",
+              "path": "/about/company/clients/👨🏻‍🚀 Semi-professional beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/👨🏻‍🚒 Industrial beekeepers",
+              "path": "/about/company/clients/👨🏻‍🚒 Industrial beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/👩🏻 Tech scale-up companies",
+              "path": "/about/company/clients/👩🏻 Tech scale-up companies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/👩🏼‍🏫 Urban beekeepers",
+              "path": "/about/company/clients/👩🏼‍🏫 Urban beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/🧑🏻‍🌾 Farmers",
+              "path": "/about/company/clients/🧑🏻‍🌾 Farmers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/🧑‍🚀 Hobby beekeepers",
+              "path": "/about/company/clients/🧑‍🚀 Hobby beekeepers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/clients/index",
+              "path": "/about/company/clients/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/index",
               "path": "/about/company/",
               "sidebar": "tutorialSidebar"
@@ -847,46 +887,6 @@
             {
               "id": "products/🧑‍🚀 Actions beekeepers make",
               "path": "/about/products/🧑‍🚀 Actions beekeepers make",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/👨🏻 Potential new beekeepers",
-              "path": "/about/products/clients/👨🏻 Potential new beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/👨🏻‍🚀 Semi-professional beekeepers",
-              "path": "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/👨🏻‍🚒 Industrial beekeepers",
-              "path": "/about/products/clients/👨🏻‍🚒 Industrial beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/👩🏻 Tech scale-up companies",
-              "path": "/about/products/clients/👩🏻 Tech scale-up companies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/👩🏼‍🏫 Urban beekeepers",
-              "path": "/about/products/clients/👩🏼‍🏫 Urban beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/🧑🏻‍🌾 Farmers",
-              "path": "/about/products/clients/🧑🏻‍🌾 Farmers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/🧑‍🚀 Hobby beekeepers",
-              "path": "/about/products/clients/🧑‍🚀 Hobby beekeepers",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/clients/index",
-              "path": "/about/products/clients/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2386,6 +2386,12 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-tag-manager": {
+    "default": {
+      "containerId": "GTM-KH4KC9",
+      "id": "default"
     }
   }
 }

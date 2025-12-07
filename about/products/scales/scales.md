@@ -21,9 +21,9 @@ Out of all beekeeping issues, this product is helping with these:
 - [🌲 Distant locations](../../problems/systemic/🌲%20Distant%20locations.md)
 
 ## Target audience
-- [🧑‍🚀 Hobby beekeepers](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
-- [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
-- [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md)
+- [🧑‍🚀 Hobby beekeepers](../../company/clients/🧑‍🚀%20Hobby%20beekeepers.md)
+- [👨🏻‍🚒 Industrial beekeepers](../../company/clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
+- [👩🏼‍🏫 Urban beekeepers](../../company/clients/👩🏼‍🏫%20Urban%20beekeepers.md)
 
 
 ### Prototype

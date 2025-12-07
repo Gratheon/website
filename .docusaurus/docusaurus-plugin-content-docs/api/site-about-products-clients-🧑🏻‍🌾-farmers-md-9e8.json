@@ -1,7 +1,7 @@
 {
   "id": "products/clients/🧑🏻‍🌾 Farmers",
-  "title": "🧑🏻‍🌾 Farmers",
-  "description": "- Main motivation - improving yields with 🌻 Precise pollination",
+  "title": "Farmers",
+  "description": "Profile",
   "source": "@site/about/products/clients/🧑🏻‍🌾 Farmers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/🧑🏻‍🌾 Farmers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Farmers",
+    "sidebar_position": 7
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👩🏼‍🏫 Urban beekeepers",
-    "permalink": "/about/products/clients/👩🏼‍🏫 Urban beekeepers"
+    "title": "Industrial/Commercial Beekeepers",
+    "permalink": "/about/products/clients/👨🏻‍🚒 Industrial beekeepers"
   },
   "next": {
-    "title": "Circular entrance counter",
-    "permalink": "/about/products/entrance_counter_circular/"
+    "title": "Potential New Beekeepers",
+    "permalink": "/about/products/clients/👨🏻 Potential new beekeepers"
   }
 }

@@ -35,11 +35,11 @@ Out of all beekeeping issues, this product is helping with these:
 
 ### Target clients
 
-A robotic inspection platform will cost (>2000 EUR) and its main value is in digitalization and organization of the apiary state. It might be too cumbersome for [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md) and too hard for [👨🏻 Potential new beekeepers](../clients/👨🏻%20Potential%20new%20beekeepers.md). But it does look viable for:
+A robotic inspection platform will cost (>2000 EUR) and its main value is in digitalization and organization of the apiary state. It might be too cumbersome for [👨🏻‍🚒 Industrial beekeepers](../../company/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) or [🧑🏻‍🌾 Farmers](../../company/clients/🧑🏻‍🌾%20Farmers.md) and too hard for [👨🏻 Potential new beekeepers](../../company/clients/👨🏻%20Potential%20new%20beekeepers.md). But it does look viable for:
 
-- [👨🏻‍🚀 Semi-professional beekeepers](../clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md)
-- [👩🏼‍🏫 Urban beekeepers](../clients/👩🏼‍🏫%20Urban%20beekeepers.md)
-- [👩🏻 Corporate Hive Sponsorship Program](../clients/👩🏻%20Tech%20scale-up%20companies.md)
+- [👨🏻‍🚀 Semi-professional beekeepers](../../company/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md)
+- [👩🏼‍🏫 Urban beekeepers](../../company/clients/👩🏼‍🏫%20Urban%20beekeepers.md)
+- [👩🏻 Corporate Hive Sponsorship Program](../../company/clients/👩🏻%20Tech%20scale-up%20companies.md)
 
 ![](../../img/president.png)
 

@@ -1,6 +1,0 @@
-- Main motivation - improving yields with [🌻 Precise pollination](../../problems/🌻%20Precise%20pollination.md)
-- Deals with lots of different things
-- gardening, field work
-- animals - chickens, dairy, sheep
-- tractors, construction
-- Lives outside the city so [🌲 Distant locations](../../problems/systemic/🌲%20Distant%20locations.md) is an issue with poor internet coverage

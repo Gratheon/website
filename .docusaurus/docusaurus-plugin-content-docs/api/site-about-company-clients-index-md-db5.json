@@ -1,0 +1,27 @@
+{
+  "id": "company/clients/index",
+  "title": "👨🏻‍🚀 Target Clients",
+  "description": "Gratheon's customer segments prioritized by strategic importance and revenue potential.",
+  "source": "@site/about/company/clients/index.md",
+  "sourceDirName": "company/clients",
+  "slug": "/company/clients/",
+  "permalink": "/about/company/clients/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "👨🏻‍🚀 Target Clients"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏇 Go to market strategy",
+    "permalink": "/about/company/🏇 Go to market strategy"
+  },
+  "next": {
+    "title": "Semi-professional Beekeepers",
+    "permalink": "/about/company/clients/👨🏻‍🚀 Semi-professional beekeepers"
+  }
+}

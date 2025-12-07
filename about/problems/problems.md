@@ -14,7 +14,7 @@ Bees are essential for global food security, with over 35% of food production de
 
 ## The Core Challenge
 
-Traditional beekeeping requires constant [👁️ Observability of bee colony](core/👁️%20Observability%20of%20bee%20colony.md) through [💪🏻 Physical labor](core/💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). This approach becomes [💪🏻 Unscalable work](core/💪🏻%20Unscalable%20work.md) as operations grow, especially for [👨🏻‍🚒 Industrial beekeepers](../products/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) managing [🏘️ Multiple apiaries](systemic/🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](systemic/🌲%20Distant%20locations.md).
+Traditional beekeeping requires constant [👁️ Observability of bee colony](core/👁️%20Observability%20of%20bee%20colony.md) through [💪🏻 Physical labor](core/💪🏻%20Physical%20labor.md) and [👁️ Time-consuming inspections](👁️%20Time-consuming%20inspections.md). This approach becomes [💪🏻 Unscalable work](core/💪🏻%20Unscalable%20work.md) as operations grow, especially for [👨🏻‍🚒 Industrial beekeepers](../company/clients/👨🏻‍🚒%20Industrial%20beekeepers.md) managing [🏘️ Multiple apiaries](systemic/🏘️%20Multiple%20apiaries.md) at [🌲 Distant locations](systemic/🌲%20Distant%20locations.md).
 
 ## Problem Categories
 

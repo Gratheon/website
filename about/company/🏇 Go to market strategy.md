@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 ## Pricing
 Our main revenue stream is [web_app](../products/web_app/web_app.md) SaaS data analytics services with flat or usage based pricing. For hardware, we want to keep prices relatively low, to have maximum adoption rate, promoting subscription model.
 

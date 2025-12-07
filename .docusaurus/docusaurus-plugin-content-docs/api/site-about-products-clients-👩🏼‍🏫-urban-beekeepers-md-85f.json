@@ -1,7 +1,7 @@
 {
   "id": "products/clients/👩🏼‍🏫 Urban beekeepers",
-  "title": "👩🏼‍🏫 Urban beekeepers",
-  "description": "An extension of Backyard beekeepers, but in city area where main concern is ability to inspect bees without too much swarming hassle affecting neighbours",
+  "title": "Urban Beekeepers",
+  "description": "Profile",
   "source": "@site/about/products/clients/👩🏼‍🏫 Urban beekeepers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/👩🏼‍🏫 Urban beekeepers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Urban Beekeepers",
+    "sidebar_position": 4
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👨🏻‍🚒 Industrial beekeepers",
-    "permalink": "/about/products/clients/👨🏻‍🚒 Industrial beekeepers"
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "permalink": "/about/products/clients/🧑‍🚀 Hobby beekeepers"
   },
   "next": {
-    "title": "🧑🏻‍🌾 Farmers",
-    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
+    "title": "Corporate Hive Sponsorship Program",
+    "permalink": "/about/products/clients/👩🏻 Tech scale-up companies"
   }
 }

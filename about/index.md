@@ -17,7 +17,7 @@ Did you know that on average 20% to 40 % of bee colonies die every year. They di
 My name is Artjom we at Gratheon develop a new type of beehive that inspects the bees automatically. It consists of 3 devices that send data about beehive and an app that analyzes weight, images and video with AI and alerts the user to improve awareness and prevent collapse.
 
 ### Team and traction
-We are targeting [👨🏻‍🚀 semi-professional beekeepers](./products/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) in Europe and offer SaaS.  
+We are targeting [👨🏻‍🚀 semi-professional beekeepers](company/clients/👨🏻‍🚀%20Semi-professional%20beekeepers.md) in Europe and offer SaaS.  
 We are a [small team](company/Team/index.md) are engineers and researchers from companies like Pipedrive, Clarifai, Fits.me, Taltech.  We are open source and had [lots of volunteers](volunteer.md). We have around 200 registered users.
 
 ### Ask

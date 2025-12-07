@@ -47,8 +47,8 @@ Out of all beekeeping issues, this product is helping with these:
 
 ## Target audience
 
-- [🧑‍🚀 Hobby beekeepers & Tech enthusiasts](../clients/🧑‍🚀%20Hobby%20beekeepers.md)
-- [👩🏻 Corporate Hive Sponsorship Program](../clients/👩🏻%20Tech%20scale-up%20companies.md)
+- [🧑‍🚀 Hobby beekeepers & Tech enthusiasts](../../company/clients/🧑‍🚀%20Hobby%20beekeepers.md)
+- [👩🏻 Corporate Hive Sponsorship Program](../../company/clients/👩🏻%20Tech%20scale-up%20companies.md)
 
 
 ### Version history

@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🍰 Equity and fundraising plan",
-    "permalink": "/about/company/🍰 Equity and fundraising plan"
-  },
-  "next": {
     "title": "📊 Market analysis",
     "permalink": "/about/company/📊 Market analysis"
+  },
+  "next": {
+    "title": "👨🏻‍🚀 Target Clients",
+    "permalink": "/about/company/clients/"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "company/clients/🧑🏻‍🌾 Farmers",
+  "title": "Farmers",
+  "description": "Profile",
+  "source": "@site/about/company/clients/🧑🏻‍🌾 Farmers.md",
+  "sourceDirName": "company/clients",
+  "slug": "/company/clients/🧑🏻‍🌾 Farmers",
+  "permalink": "/about/company/clients/🧑🏻‍🌾 Farmers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Farmers",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Industrial/Commercial Beekeepers",
+    "permalink": "/about/company/clients/👨🏻‍🚒 Industrial beekeepers"
+  },
+  "next": {
+    "title": "Potential New Beekeepers",
+    "permalink": "/about/company/clients/👨🏻 Potential new beekeepers"
+  }
+}

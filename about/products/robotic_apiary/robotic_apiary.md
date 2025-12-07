@@ -21,8 +21,8 @@ Out of all beekeeping issues, this product is helping with these:
 
 ### Target audience
 
-- [👨🏻‍🚒 Industrial beekeepers](../clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
-- [🧑🏻‍🌾 Farmers](../clients/🧑🏻‍🌾%20Farmers.md)
+- [👨🏻‍🚒 Industrial beekeepers](../../company/clients/👨🏻‍🚒%20Industrial%20beekeepers.md)
+- [🧑🏻‍🌾 Farmers](../../company/clients/🧑🏻‍🌾%20Farmers.md)
 
 ## Challenges / Requirements
 

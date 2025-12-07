@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', '3e7'),
     exact: true
@@ -264,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'a59'),
+    component: ComponentCreator('/about', 'cfb'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '76d'),
+        component: ComponentCreator('/about', 'a99'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'c4f'),
+            component: ComponentCreator('/about', '69d'),
             routes: [
               {
                 path: '/about/',
@@ -313,6 +278,54 @@ export default [
               {
                 path: '/about/company/🤲 Why open source',
                 component: ComponentCreator('/about/company/🤲 Why open source', 'c91'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/',
+                component: ComponentCreator('/about/company/clients/', '5c3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/👨🏻 Potential new beekeepers',
+                component: ComponentCreator('/about/company/clients/👨🏻 Potential new beekeepers', '2c6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/👨🏻‍🚀 Semi-professional beekeepers',
+                component: ComponentCreator('/about/company/clients/👨🏻‍🚀 Semi-professional beekeepers', 'a95'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/👨🏻‍🚒 Industrial beekeepers',
+                component: ComponentCreator('/about/company/clients/👨🏻‍🚒 Industrial beekeepers', 'd42'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/👩🏻 Tech scale-up companies',
+                component: ComponentCreator('/about/company/clients/👩🏻 Tech scale-up companies', '9fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/👩🏼‍🏫 Urban beekeepers',
+                component: ComponentCreator('/about/company/clients/👩🏼‍🏫 Urban beekeepers', '9db'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/🧑🏻‍🌾 Farmers',
+                component: ComponentCreator('/about/company/clients/🧑🏻‍🌾 Farmers', 'a01'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/clients/🧑‍🚀 Hobby beekeepers',
+                component: ComponentCreator('/about/company/clients/🧑‍🚀 Hobby beekeepers', '7a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -745,54 +758,6 @@ export default [
               {
                 path: '/about/products/🧑‍🚀 Actions beekeepers make',
                 component: ComponentCreator('/about/products/🧑‍🚀 Actions beekeepers make', '94e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/',
-                component: ComponentCreator('/about/products/clients/', '420'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👨🏻 Potential new beekeepers',
-                component: ComponentCreator('/about/products/clients/👨🏻 Potential new beekeepers', '953'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers',
-                component: ComponentCreator('/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers', '252'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👨🏻‍🚒 Industrial beekeepers',
-                component: ComponentCreator('/about/products/clients/👨🏻‍🚒 Industrial beekeepers', '7f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👩🏻 Tech scale-up companies',
-                component: ComponentCreator('/about/products/clients/👩🏻 Tech scale-up companies', '556'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👩🏼‍🏫 Urban beekeepers',
-                component: ComponentCreator('/about/products/clients/👩🏼‍🏫 Urban beekeepers', '423'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/🧑🏻‍🌾 Farmers',
-                component: ComponentCreator('/about/products/clients/🧑🏻‍🌾 Farmers', '6c1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/🧑‍🚀 Hobby beekeepers',
-                component: ComponentCreator('/about/products/clients/🧑‍🚀 Hobby beekeepers', 'c8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

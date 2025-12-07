@@ -1,0 +1,27 @@
+{
+  "id": "company/clients/🧑‍🚀 Hobby beekeepers",
+  "title": "Hobby Beekeepers & Tech Enthusiasts",
+  "description": "Profile",
+  "source": "@site/about/company/clients/🧑‍🚀 Hobby beekeepers.md",
+  "sourceDirName": "company/clients",
+  "slug": "/company/clients/🧑‍🚀 Hobby beekeepers",
+  "permalink": "/about/company/clients/🧑‍🚀 Hobby beekeepers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Semi-professional Beekeepers",
+    "permalink": "/about/company/clients/👨🏻‍🚀 Semi-professional beekeepers"
+  },
+  "next": {
+    "title": "Urban Beekeepers",
+    "permalink": "/about/company/clients/👩🏼‍🏫 Urban beekeepers"
+  }
+}

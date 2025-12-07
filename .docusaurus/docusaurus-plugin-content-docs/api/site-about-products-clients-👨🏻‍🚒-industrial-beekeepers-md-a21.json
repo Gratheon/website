@@ -1,7 +1,7 @@
 {
   "id": "products/clients/👨🏻‍🚒 Industrial beekeepers",
-  "title": "👨🏻‍🚒 Industrial beekeepers",
-  "description": "- Pollination services for farmers ~90% of income",
+  "title": "Industrial/Commercial Beekeepers",
+  "description": "Profile",
   "source": "@site/about/products/clients/👨🏻‍🚒 Industrial beekeepers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/👨🏻‍🚒 Industrial beekeepers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Industrial/Commercial Beekeepers",
+    "sidebar_position": 6
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👨🏻‍🚀 Semi-professional beekeepers",
-    "permalink": "/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers"
+    "title": "Corporate Hive Sponsorship Program",
+    "permalink": "/about/products/clients/👩🏻 Tech scale-up companies"
   },
   "next": {
-    "title": "👩🏼‍🏫 Urban beekeepers",
-    "permalink": "/about/products/clients/👩🏼‍🏫 Urban beekeepers"
+    "title": "Farmers",
+    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
   }
 }

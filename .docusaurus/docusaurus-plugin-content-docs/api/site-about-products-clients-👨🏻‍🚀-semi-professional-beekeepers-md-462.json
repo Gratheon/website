@@ -1,7 +1,7 @@
 {
   "id": "products/clients/👨🏻‍🚀 Semi-professional beekeepers",
-  "title": "👨🏻‍🚀 Semi-professional beekeepers",
-  "description": "- Has lots of beehives > 10-50",
+  "title": "Semi-professional Beekeepers",
+  "description": "Profile",
   "source": "@site/about/products/clients/👨🏻‍🚀 Semi-professional beekeepers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/👨🏻‍🚀 Semi-professional beekeepers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Semi-professional Beekeepers",
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👨🏻 Potential new beekeepers",
-    "permalink": "/about/products/clients/👨🏻 Potential new beekeepers"
+    "title": "Target Clients",
+    "permalink": "/about/products/clients/"
   },
   "next": {
-    "title": "👨🏻‍🚒 Industrial beekeepers",
-    "permalink": "/about/products/clients/👨🏻‍🚒 Industrial beekeepers"
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "permalink": "/about/products/clients/🧑‍🚀 Hobby beekeepers"
   }
 }
