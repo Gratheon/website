@@ -1,7 +1,7 @@
 {
   "id": "products/clients/👩🏻 Tech scale-up companies",
-  "title": "👩🏻 Tech scale-up companies",
-  "description": "- High tech companies For example organizations such as LHV, TalTech, Pipedrive do have bees on rooftops",
+  "title": "Corporate Hive Sponsorship Program",
+  "description": "Overview",
   "source": "@site/about/products/clients/👩🏻 Tech scale-up companies.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/👩🏻 Tech scale-up companies",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Corporate Hive Sponsorship Program",
+    "sidebar_position": 5
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👨🏻‍🚒 Industrial beekeepers",
-    "permalink": "/about/products/clients/👨🏻‍🚒 Industrial beekeepers"
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "permalink": "/about/products/clients/🧑‍🚀 Hobby beekeepers"
   },
   "next": {
-    "title": "👩🏼‍🏫 Urban beekeepers",
-    "permalink": "/about/products/clients/👩🏼‍🏫 Urban beekeepers"
+    "title": "👨🏻 Potential new beekeepers",
+    "permalink": "/about/products/clients/👨🏻 Potential new beekeepers"
   }
 }

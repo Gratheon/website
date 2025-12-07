@@ -1,7 +1,7 @@
 {
   "id": "products/clients/🧑‍🚀 Hobby beekeepers",
-  "title": "🧑‍🚀 Hobby beekeepers",
-  "description": "Owns a house outside of the city",
+  "title": "Hobby Beekeepers & Tech Enthusiasts",
+  "description": "Profile",
   "source": "@site/about/products/clients/🧑‍🚀 Hobby beekeepers.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/🧑‍🚀 Hobby beekeepers",
@@ -10,14 +10,18 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "👩🏼‍🏫 Urban beekeepers",
-    "permalink": "/about/products/clients/👩🏼‍🏫 Urban beekeepers"
+    "title": "Target Clients",
+    "permalink": "/about/products/clients/"
   },
   "next": {
-    "title": "🧑🏻‍🌾 Farmers",
-    "permalink": "/about/products/clients/🧑🏻‍🌾 Farmers"
+    "title": "Corporate Hive Sponsorship Program",
+    "permalink": "/about/products/clients/👩🏻 Tech scale-up companies"
   }
 }

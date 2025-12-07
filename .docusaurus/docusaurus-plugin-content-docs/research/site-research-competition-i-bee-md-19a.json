@@ -1,7 +1,7 @@
 {
   "id": "Competition/i-bee",
   "title": "i-bee",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/i-bee.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/i-bee",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.i-bee.net/en/",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "European beekeepers",
+    "location": "Europe (multi-language site)"
   },
   "sidebar": "researchSidebar",
   "previous": {

@@ -1,7 +1,7 @@
 {
   "id": "products/clients/index",
-  "title": "Target clients",
-  "description": "- 👨🏻‍🚒 Industrial beekeepers",
+  "title": "Target Clients",
+  "description": "Gratheon's customer segments prioritized by strategic importance and revenue potential.",
   "source": "@site/about/products/clients/index.md",
   "sourceDirName": "products/clients",
   "slug": "/products/clients/",
@@ -13,7 +13,7 @@
   "sidebarPosition": 9,
   "frontMatter": {
     "sidebar_position": 9,
-    "title": "Target clients"
+    "title": "Target Clients"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/about/products/robotic_apiary/ideas/🦾 Cross-family frame movement resource balancing"
   },
   "next": {
-    "title": "👨🏻 Potential new beekeepers",
-    "permalink": "/about/products/clients/👨🏻 Potential new beekeepers"
+    "title": "Hobby Beekeepers & Tech Enthusiasts",
+    "permalink": "/about/products/clients/🧑‍🚀 Hobby beekeepers"
   }
 }
