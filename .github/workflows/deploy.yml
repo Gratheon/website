@@ -24,14 +24,7 @@ jobs:
       - name: build site
         run: |
           source ./setup-env.sh
-          rm -rf public_new
+          rm -rf build
           pnpm run build
-          mv public public_new
-      - name: atomic deploy
-        run: |
-          rm -rf public_old
-          [ -d "public" ] && mv public public_old
-          mv public_new public
-          rm -rf public_old
       - name: restart services
         run: ./restart.sh
