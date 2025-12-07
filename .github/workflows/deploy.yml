@@ -21,10 +21,5 @@ jobs:
         run: |
           source ./setup-env.sh
           pnpm install
-      - name: build site
-        run: |
-          source ./setup-env.sh
-          rm -rf build
-          pnpm run build
       - name: restart services
         run: ./restart.sh
