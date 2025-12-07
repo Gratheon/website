@@ -264,15 +264,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '09f'),
+    component: ComponentCreator('/about', 'a59'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '3e9'),
+        component: ComponentCreator('/about', '76d'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '50c'),
+            component: ComponentCreator('/about', 'c4f'),
             routes: [
               {
                 path: '/about/',
@@ -757,12 +757,6 @@ export default [
               {
                 path: '/about/products/clients/👨🏻 Potential new beekeepers',
                 component: ComponentCreator('/about/products/clients/👨🏻 Potential new beekeepers', '953'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/clients/👨🏻‍💻 Tech-savvy engineers',
-                component: ComponentCreator('/about/products/clients/👨🏻‍💻 Tech-savvy engineers', '62f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

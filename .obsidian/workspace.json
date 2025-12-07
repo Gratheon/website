@@ -176,6 +176,7 @@
   },
   "active": "51574da3e80e0722",
   "lastOpenFiles": [
+    "about/products/clients/_archived_Tech-savvy-engineers.md.bak",
     "research/papers/index.md",
     "research/Competition/index.md",
     "about/products/web_app/pro-tier/alerts.md",
@@ -221,7 +222,6 @@
     "node_modules/light-my-request/node_modules/process-warning/README.md",
     "node_modules/config-chain/node_modules/ini/README.md",
     "node_modules/body-parser/node_modules/iconv-lite/Changelog.md",
-    "node_modules/body-parser/node_modules/iconv-lite/README.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }
