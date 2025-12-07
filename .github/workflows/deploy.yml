@@ -22,4 +22,6 @@ jobs:
           source ./setup-env.sh
           pnpm install
       - name: restart services
-        run: ./restart.sh
+        run: |
+          chmod +x ./restart.sh
+          ./restart.sh
