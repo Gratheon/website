@@ -6,7 +6,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build --out-dir public",
+    "build": "NODE_OPTIONS='--max-old-space-size=2048' docusaurus build --out-dir public_new",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
+    "@docusaurus/faster": "3.9.2",
     "@docusaurus/plugin-content-docs": "3.9.2",
     "@docusaurus/plugin-content-pages": "3.9.2",
     "@docusaurus/plugin-google-gtag": "3.9.2",

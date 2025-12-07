@@ -16,3 +16,5 @@ case ":$PATH:" in
   *) export PATH="$PNPM_HOME:$PATH" ;;
 esac
 
+export NODE_OPTIONS="--max-old-space-size=2048"
+

@@ -25,7 +25,8 @@ jobs:
         run: |
           source ./setup-env.sh
           rm -rf public_new
-          pnpm exec docusaurus build --out-dir public_new
+          pnpm run build
+          mv public public_new
       - name: atomic deploy
         run: |
           rm -rf public_old

@@ -2392,5 +2392,11 @@
       ],
       "breadcrumbs": true
     }
+  },
+  "docusaurus-plugin-google-tag-manager": {
+    "default": {
+      "containerId": "GTM-KH4KC9",
+      "id": "default"
+    }
   }
 }
