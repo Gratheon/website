@@ -7,11 +7,11 @@ sidebar_position: 9
 ![](../../img/pie.jpg)
 </div></div>
 
-💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [values](values/values.md) and reasoning
+💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [values](../values/values.md) and reasoning
 
 Equity is a mechanism of motivation and compensation at startups with early company stages when risks are high and cash is low as well as attracting and retaining professional talent at later company phases. 
 
-Making everyone owning the company is part of our company values - [Team effort 🐝](values/Team%20effort%20🐝.md) and [Gather value 🍯](values/Gather%20value%20🍯.md)
+Making everyone owning the company is part of our company values - [Team effort 🐝](../values/Team%20effort%20🐝.md) and [Gather value 🍯](../values/Gather%20value%20🍯.md)
 
 ## Ownership (CAP table)
 
@@ -119,12 +119,12 @@ To combat this we add `Join time risk coefficient` (above) that depends on compa
 The negative side is that it is not possible to balance in advance amount of employees and their levels. So to calculate base level (2000 shares), we assume that we can hire 100 Senior engineers + have some buffer for
 
 
-![](img/levels.png)
+![](../img/levels.png)
 Vesting in different companies, source - **Levels.fyi**
 
-![](img/Screenshot%202024-12-05%20at%2020.18.08.png)
+![](../img/Screenshot%202024-12-05%20at%2020.18.08.png)
 
-![](img/WhatsApp%20Image%202024-12-06%20at%2009.50.40.jpeg)
+![](../img/WhatsApp%20Image%202024-12-06%20at%2009.50.40.jpeg)
 ## Software to consider
 
 - [koos.io](http://koos.io)

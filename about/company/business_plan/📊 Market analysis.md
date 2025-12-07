@@ -69,45 +69,29 @@ We see that on average per colony, we have ~23kg per year
 [https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en](https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en)
 
 ### Amount of beekeepers in EU countries
-![](img/Screenshot%202024-12-02%20at%2019.39.51.png)
+![](../img/Screenshot%202024-12-02%20at%2019.39.51.png)
 (source - https://www.europarl.europa.eu/RegData/etudes/ATAG/2017/608786/EPRS_ATA%282017%29608786_EN.pdf )
 ### Amount of beehives in EU countries
 
-![](img/Pasted%20image%2020241202185703.png)
 [https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/edn-20230519-1](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/edn-20230519-1)
 
-
-![](img/Pasted%20image%2020241202185723.png)
 Source - [https://agriculture.ec.europa.eu/system/files/2022-04/market-presentation-honey_en_0.pdf](https://agriculture.ec.europa.eu/system/files/2022-04/market-presentation-honey_en_0.pdf)
 
-
-![](img/Pasted%20image%2020241202185743.png)
-
-<object data={require('./img/market-presentation-honey_autumn2024_en.pdf').default} type="application/pdf" width="100%" height="800"></object>
-![](img/market-presentation-honey_autumn2024_en.pdf)
+<object data={require('../img/market-presentation-honey_autumn2024_en.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
 ## Worldwide honey exports & imports
 
-
-![](img/Pasted%20image%2020241202185810.png)
-source - [https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf](https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf)
-
-
-![](img/Pasted%20image%2020241202185827.png)
-source - [https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf](https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf)
-
-![](img/Pasted%20image%2020241202185844.png)
 source - [https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf](https://www.pbc.org.pk/wp-content/uploads/Potential-of-Honey-in-Pakistan-An-Analysis-of-the-Global-and-Domestic-Market.pdf)
 
 
 ## Bee statistics
 
-![](img/Pasted%20image%2020241202185949.png)
 Colony loss. BeeInformed [https://beeinformed.org/2022/07/27/united-states-honey-bee-colony-losses-2021-2022-preliminary-results-from-the-bee-informed-partnership/](https://beeinformed.org/2022/07/27/united-states-honey-bee-colony-losses-2021-2022-preliminary-results-from-the-bee-informed-partnership/)
 
 ### Bee races
 Which races are owned by beekeepers in Estonia
-![](img/Screenshot%202024-12-02%20at%2019.13.10.png)Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf
+![](../img/Screenshot%202024-12-02%20at%2019.13.10.png)
+Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/business_plan/business_plan.md",
+                "file": "about/company/business_plan/📊 Market analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "business_plan"
+              "title": "📊 Market analysis"
             }
           }
         ]
@@ -180,32 +180,33 @@
   },
   "active": "88c0d10615870a9c",
   "lastOpenFiles": [
-    "about/company/Processes/☑️ Features and tasks.md",
-    "about/company/business_plan",
     "public/blog/atom.xml",
     "public/blog/rss.xml",
-    "public/blog/rss.css",
     "public/blog/atom.css",
+    "public/blog/rss.css",
     "public/blog/atom.xsl",
     "public/blog/rss.xsl",
     "public/sitemap.xml",
     "public/index.html",
-    "public/research/papers/Tracking All Members of a Honey Bee Colony Over Their Lifetime Using Learned Models of Correspondence/index.html",
+    "public/research/papers/Tracking Varroa Parasitism Using Handheld Infrared Cameras Is Eusocial Fever the Key/index.html",
+    "public/research/papers/wifi-exposure/index.html",
+    "public/research/papers/wifi-exposure",
+    "public/favicons/safari-pinned-tab.svg",
+    "public/favicons/mstile-310x310.png",
+    "public/favicons/mstile-70x70.png",
+    "public/favicons/mstile-310x150.png",
     "public/img/windows.png",
     "public/img/varroa.webp",
     "public/img/undraw_docusaurus_tree.svg",
     "public/img/undraw_docusaurus_react.svg",
     "public/img/undraw_docusaurus_mountain.svg",
     "public/img/temp.webp",
-    "public/img/tallinn.png",
-    "public/img/sharing.webp",
-    "public/img/sensors.webp",
-    "public/img/robot.jpeg",
+    "about/company/business_plan/business_plan.md",
+    "about/company/Processes/☑️ Features and tasks.md",
     "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/clients/index.md",
     "about/company/Team/🍰 Equity and fundraising plan.md",
-    "about/company/business_plan/business_plan.md",
     "about/company/business_plan/📊 Market analysis.md",
     "about/company/clients/🧑‍🚀 Hobby beekeepers.md",
     "about/company/🤲 Why open source.md",

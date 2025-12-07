@@ -11,7 +11,7 @@ pricing: 350€ - 550€ per device
 
 ⚠️ **MOST DIRECT COMPETITOR TO GRATHEON**
 
-Apic AI comes from research background - [⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives](../../../../research/papers/⭐️%20DeepBees%20–%20Building%20and%20Scaling%20Convolutional%20Neuronal%20Nets%20For%20Fast%20and%20Large-scale%20Visual%20Monitoring%20of%20Bee%20Hives.md). Company focuses on pollination analysis.
+Apic AI comes from research background (DeepBees paper - Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives). Company focuses on pollination analysis.
 
 ## Product Features
 - NVIDIA Jetson device at hive entrance
