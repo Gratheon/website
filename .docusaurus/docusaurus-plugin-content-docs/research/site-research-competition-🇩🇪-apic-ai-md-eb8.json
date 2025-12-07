@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇩🇪 ApicAI",
   "title": "🇩🇪 ApicAI",
-  "description": "Apic AI comes from research background - ⭐️ DeepBees – Building and Scaling Convolutional Neuronal Nets For Fast and Large-scale Visual Monitoring of Bee Hives. Company focuses on pollination analysis.",
+  "description": "Overview",
   "source": "@site/research/Competition/🇩🇪 ApicAI.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇩🇪 ApicAI",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://apic.ai/",
-    "products": "👁️‍🗨️ Entrance Observer"
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 1,
+    "threat_level": "VERY HIGH",
+    "target_market": "Professional/Semi-professional beekeepers in Europe",
+    "pricing": "350€ - 550€ per device"
   },
   "sidebar": "researchSidebar",
   "previous": {

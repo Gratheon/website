@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇮🇱 BeeHero",
   "title": "🇮🇱 BeeHero",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/🇮🇱 BeeHero.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇮🇱 BeeHero",
@@ -12,7 +12,10 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.beehero.io/",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 2,
+    "threat_level": "HIGH",
+    "target_market": "Commercial beekeepers, Pollination services"
   },
   "sidebar": "researchSidebar",
   "previous": {

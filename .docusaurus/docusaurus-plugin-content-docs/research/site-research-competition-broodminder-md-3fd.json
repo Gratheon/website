@@ -1,7 +1,7 @@
 {
   "id": "Competition/Broodminder",
   "title": "Broodminder",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/Broodminder.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/Broodminder",
@@ -12,7 +12,10 @@
   "version": "current",
   "frontMatter": {
     "url": "broodminder.com",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 3,
+    "threat_level": "MEDIUM-HIGH",
+    "target_market": "Hobby and Semi-professional beekeepers"
   },
   "sidebar": "researchSidebar",
   "previous": {
