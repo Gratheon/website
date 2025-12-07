@@ -1,5 +1,7 @@
 Huge event, maybe too early for the project
 
+<!-- truncate -->
+
 ## Networking
 - with Jabok C. But he is pitching Austria as a place for startups + [https://viennaup.com/](https://viennaup.com/)
 - with Janne A. He is pitching intellectual property protection

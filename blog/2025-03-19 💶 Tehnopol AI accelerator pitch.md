@@ -6,6 +6,8 @@ We're pitching Gratheon to Tehnopol's AI Accelerator program with the following 
 2. 1min for business plan
 3. 1min for 6-month plan, detailing what we aim to achieve during the AI Accelerator program (month by month)
 
+<!-- truncate -->
+
 ## AI Accelerator Plan
 
 Our primary goal is to make Gratheon **production- and GTM ready** (securing first paying customers!) by focusing on targeted product development.

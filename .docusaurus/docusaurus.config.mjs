@@ -22,6 +22,10 @@ export default {
   },
   "markdown": {
     "mermaid": true,
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    },
     "format": "mdx",
     "emoji": true,
     "mdx1Compat": {
@@ -31,10 +35,6 @@ export default {
     },
     "anchors": {
       "maintainCase": false
-    },
-    "hooks": {
-      "onBrokenMarkdownLinks": "warn",
-      "onBrokenMarkdownImages": "throw"
     }
   },
   "themes": [
