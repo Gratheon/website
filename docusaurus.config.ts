@@ -234,7 +234,7 @@ const config: Config = {
           ],
         },
       ],
-      // copyright: `Copyright ${new Date().getFullYear()} Gratheon`,
+      copyright: `Copyright © ${new Date().getFullYear()} Gratheon OÜ. Gratheon™ is a pending EU trademark.`,
     },
 
     blog: {

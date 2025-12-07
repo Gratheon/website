@@ -3,10 +3,25 @@ sidebar_position: 1
 hide_table_of_contents: true
 ---
 
+# Brand Symbolism
+
 Colors represent main wavelengths that 🐝 bees can see, company values and other associations:
 ![](../../src/img/Pasted%20image%2020241028105230.png)
 
 ![](img/logo-png-high-res.png)
+
+
+## Gratheon™ Trademark Notice
+While our software remains open source under AGPL license (see [Why open source](/about/company/🤲%20Why%20open%20source)), the Gratheon brand and logo are protected trademarks.
+*EU trademark registration filed December 2025 (Nice classes 9, 42, 7)*
+
+**Gratheon™** is a pending European Union trademark of Gratheon OÜ, filed December 2025 under Nice Classification classes:
+- **Class 9:**: Electronic monitoring apparatus and instruments for beehives; weighing scales for beehives; temperature and humidity sensors; video cameras for monitoring beehive entrances; robotic apparatus for beehive inspection; downloadable mobile applications for beehive management; downloadable computer software for apiary data analysis; IoT (Internet of Things) sensors.
+- **Class 42:**: Software as a service (SaaS) services featuring software for beehive management and monitoring; cloud computing services for apiary data storage and analysis; platform as a service (PaaS) featuring computer software platforms for apiary management; artificial intelligence as a service (AIaaS) featuring software using artificial intelligence for analyzing bee behavior and health; providing temporary use of online non-downloadable software for beehive data analytics; scientific research and analysis services in the field of apiculture.
+- **Class 7:**: Robotic apparatus for beehive inspection; automated lifting mechanisms for beehive sections; industrial robots for agricultural use; mechanized equipment for apiculture; robotic platforms for automated beehive frame imaging.
+
+The ® symbol will be used after EUIPO registration approval (expected Q2 2026).
+
 
 ## Brand meanings and association matrix
 

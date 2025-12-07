@@ -2,7 +2,6 @@
 sidebar_position: 2
 ---
 
-
 Company name has multiple meanings on different layers, so there is no definitive answer
 
 ## Scientific
