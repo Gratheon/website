@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇦🇺 Beemate",
   "title": "🇦🇺 Beemate",
-  "description": "https://blynk.io/clients/beemate-ai-powered-hives",
+  "description": "Overview",
   "source": "@site/research/Competition/🇦🇺 Beemate.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇦🇺 Beemate",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://beemate.buzz/",
-    "products": "👁️‍🗨️ Entrance Observer"
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 3,
+    "threat_level": "MEDIUM",
+    "target_market": "Australian beekeepers",
+    "location": "Australia"
   },
   "sidebar": "researchSidebar",
   "previous": {

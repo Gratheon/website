@@ -1,7 +1,7 @@
 {
   "id": "Competition/OSBeehives",
   "title": "OSBeehives",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/OSBeehives.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/OSBeehives",
@@ -11,7 +11,11 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 7,
+    "threat_level": "LOW",
+    "target_market": "Educational, urban beekeepers",
+    "approach": "Open Source Hardware + Software"
   },
   "sidebar": "researchSidebar",
   "previous": {

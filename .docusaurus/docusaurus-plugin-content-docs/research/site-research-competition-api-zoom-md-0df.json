@@ -1,7 +1,7 @@
 {
   "id": "Competition/ApiZoom",
   "title": "ApiZoom",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/ApiZoom.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/ApiZoom",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.apizoom.app/",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW",
+    "target_market": "French-speaking beekeepers",
+    "location": "France (likely)"
   },
   "sidebar": "researchSidebar",
   "previous": {

@@ -1,7 +1,7 @@
 {
   "id": "Competition/ApiaryBook",
   "title": "ApiaryBook",
-  "description": "Romania origin",
+  "description": "Overview",
   "source": "@site/research/Competition/ApiaryBook.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/ApiaryBook",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://apiarybook.com",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 5,
+    "threat_level": "LOW",
+    "target_market": "European beekeepers",
+    "location": "Romania"
   },
   "sidebar": "researchSidebar",
   "previous": {

@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇺🇸 Best Bees",
   "title": "🇺🇸 Best Bees",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/🇺🇸 Best Bees.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇺🇸 Best Bees",
@@ -12,7 +12,12 @@
   "version": "current",
   "frontMatter": {
     "url": "https://bestbees.com/smarthive-lp/",
-    "products": "👁️‍🗨️ Entrance Observer"
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 4,
+    "threat_level": "MEDIUM",
+    "target_market": "US commercial beekeepers",
+    "location": "Massachusetts, USA",
+    "model": "Managed beekeeping service + technology"
   },
   "sidebar": "researchSidebar",
   "previous": {

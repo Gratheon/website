@@ -1,7 +1,7 @@
 {
   "id": "Competition/ApiManager",
   "title": "ApiManager",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/ApiManager.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/ApiManager",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://apimanager.net/",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 5,
+    "threat_level": "LOW",
+    "target_market": "European beekeepers (Netherlands likely)",
+    "location": "Europe"
   },
   "sidebar": "researchSidebar",
   "previous": {

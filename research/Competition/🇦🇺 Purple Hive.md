@@ -1,15 +1,67 @@
 ---
 url: https://www.vimanatech.com.au/about
 products: 👁️‍🗨️ Entrance Observer
+priority: 4
+threat_level: LOW-MEDIUM
+target_market: Australian beekeepers (varroa biosecurity)
+location: Australia
+specialization: Varroa mite detection
 ---
-- Focus is on varroa mite detection from 2 video cameras (top and bottom)
-- NOT a bee counter
-- Makes photo every 1 sec
-- Low power voltage
-- 3d printed outer case out of ABS plastic
-- SMS notification
-- 4G
-- solar powered
+
+## Overview
+
+Purple Hive is an Australian project focused specifically on varroa mite detection using computer vision. Uses dual cameras (top and bottom) for comprehensive mite monitoring.
+
+## Product Features
+- Focus on varroa mite detection from 2 video cameras (top and bottom)
+- NOT a bee counter (specialized use case)
+- Makes photo every 1 second
+- Low power consumption
+- 3D printed outer case (ABS plastic)
+- SMS notification system
+- 4G connectivity
+- Solar powered (autonomous operation)
+
+## Technical Specifications
+- Dual camera setup for better mite detection
+- Edge processing for privacy and low bandwidth
+- Image capture every second (high frequency)
+- Designed for Australian biosecurity context
+
+## Competitive Analysis
+
+### Strengths
+- Specialized focus on critical problem (varroa)
+- Dual camera approach (more comprehensive than single entrance camera)
+- Solar powered (excellent for remote locations)
+- Low power design (practical for field deployment)
+- SMS notifications (works without internet)
+- 4G connectivity (no WiFi required)
+- 3D printed case (cost-effective, customizable)
+
+### Weaknesses vs Gratheon
+- Single-purpose device (varroa only, not general monitoring)
+- NOT a bee counter (limited functionality)
+- Australia-focused (varroa recently arrived there)
+- Smaller project (less funding/resources)
+- Limited to entrance monitoring
+- No internal frame inspection
+
+### Strategic Implications
+- Validates importance of varroa detection features
+- Dual camera approach is interesting (consider for Gratheon)
+- Solar power and low-power design are valuable lessons
+- SMS fallback is smart for connectivity issues
+- Geographic separation (Australia vs Europe)
+- Could partner for varroa detection algorithms
+- Gratheon can offer more comprehensive solution (counting + varroa + more)
+
+## Lessons for Gratheon
+- Varroa detection is critical feature to include
+- Consider solar power option for remote apiaries
+- SMS notifications as backup to app notifications
+- Low power consumption extends deployment options
+- 3D printed cases can reduce hardware costs
 
 
 <iframe width="433" height="244" src="https://www.youtube.com/embed/KcPBLImSX60" title="Purple Hive Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇳🇱 Beep NL",
   "title": "🇳🇱 Beep NL",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/🇳🇱 Beep NL.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇳🇱 Beep NL",
@@ -12,7 +12,12 @@
   "version": "current",
   "frontMatter": {
     "url": "https://beep.nl/",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 3,
+    "threat_level": "MEDIUM",
+    "target_market": "European hobbyist and semi-pro beekeepers",
+    "location": "Netherlands",
+    "approach": "Open Source"
   },
   "sidebar": "researchSidebar",
   "previous": {

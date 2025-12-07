@@ -1,7 +1,7 @@
 {
   "id": "Competition/io-bee",
   "title": "io-bee",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/io-bee.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/io-bee",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://io-bee.eu/",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 5,
+    "threat_level": "MEDIUM",
+    "target_market": "European semi-professional beekeepers",
+    "location": "Europe (.eu domain)"
   },
   "sidebar": "researchSidebar",
   "previous": {

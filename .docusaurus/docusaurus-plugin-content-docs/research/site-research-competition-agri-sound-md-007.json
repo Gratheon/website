@@ -1,7 +1,7 @@
 {
   "id": "Competition/AgriSound",
   "title": "AgriSound",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/AgriSound.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/AgriSound",
@@ -12,7 +12,13 @@
   "version": "current",
   "frontMatter": {
     "url": "https://agrisound.io/",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 4,
+    "threat_level": "MEDIUM",
+    "target_market": "Commercial beekeepers, Research",
+    "location": "UK",
+    "specialization": "Acoustic monitoring (sound-based AI)",
+    "innovation": "High"
   },
   "sidebar": "researchSidebar",
   "previous": {

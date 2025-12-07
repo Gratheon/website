@@ -1,7 +1,7 @@
 {
   "id": "Competition/HoneyInstruments",
   "title": "HoneyInstruments",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/HoneyInstruments.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/HoneyInstruments",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.honeyinstruments.com/en",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 5,
+    "threat_level": "MEDIUM",
+    "target_market": "Professional European beekeepers",
+    "location": "Europe (multi-language site)"
   },
   "sidebar": "researchSidebar",
   "previous": {

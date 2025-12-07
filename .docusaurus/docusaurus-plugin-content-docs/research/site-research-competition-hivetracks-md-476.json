@@ -1,7 +1,7 @@
 {
   "id": "Competition/hivetracks",
   "title": "hivetracks",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/hivetracks.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/hivetracks",
@@ -12,7 +12,10 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.hivetracks.com/",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 4,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "US hobbyist and semi-pro beekeepers"
   },
   "sidebar": "researchSidebar",
   "previous": {

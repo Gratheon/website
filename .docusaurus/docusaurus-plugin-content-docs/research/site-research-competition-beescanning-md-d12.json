@@ -1,7 +1,7 @@
 {
   "id": "Competition/beescanning",
   "title": "beescanning",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/beescanning.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/beescanning",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.beescanning.com/",
-    "products": "📱Web-app"
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "Global beekeepers",
+    "specialization": "QR code scanning for hive tracking"
   },
   "sidebar": "researchSidebar",
   "previous": {

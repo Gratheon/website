@@ -1,7 +1,7 @@
 {
   "id": "Competition/Gobuzzr",
   "title": "Gobuzzr",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/Gobuzzr.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/Gobuzzr",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.gobuzzr.com/",
-    "products": "🌡️ Beehive IoT sensors"
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "Hobbyist and semi-professional beekeepers",
+    "location": "USA (likely)"
   },
   "sidebar": "researchSidebar",
   "previous": {

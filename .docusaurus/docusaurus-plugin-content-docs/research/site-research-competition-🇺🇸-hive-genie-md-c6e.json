@@ -1,7 +1,7 @@
 {
   "id": "Competition/🇺🇸 HiveGenie",
   "title": "🇺🇸 HiveGenie",
-  "description": "",
+  "description": "Overview",
   "source": "@site/research/Competition/🇺🇸 HiveGenie.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/🇺🇸 HiveGenie",
@@ -12,7 +12,11 @@
   "version": "current",
   "frontMatter": {
     "url": "https://www.hivegenie.com/our-product/",
-    "products": "👁️‍🗨️ Entrance Observer"
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 5,
+    "threat_level": "MEDIUM",
+    "target_market": "US beekeepers, pollination services",
+    "location": "USA"
   },
   "sidebar": "researchSidebar",
   "previous": {

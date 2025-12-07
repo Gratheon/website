@@ -1,7 +1,7 @@
 {
   "id": "Competition/index",
   "title": "Commercial projects",
-  "description": "This is a list of great apps, devices, code repos and products that we look at for inspiration",
+  "description": "This is a list of great apps, devices, code repos and products that we look at for inspiration and competitive intelligence.",
   "source": "@site/research/Competition/index.md",
   "sourceDirName": "Competition",
   "slug": "/Competition/",
