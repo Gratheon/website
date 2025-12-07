@@ -269,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '190'),
+    component: ComponentCreator('/about', 'a07'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '268'),
+        component: ComponentCreator('/about', '126'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '907'),
+            component: ComponentCreator('/about', '57f'),
             routes: [
               {
                 path: '/about/',
@@ -660,6 +660,12 @@ export default [
               {
                 path: '/about/company/Processes/🖥️ Services and tools that we use',
                 component: ComponentCreator('/about/company/Processes/🖥️ Services and tools that we use', '537'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP',
+                component: ComponentCreator('/about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP', '9ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
