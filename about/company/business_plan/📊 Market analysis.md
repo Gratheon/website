@@ -53,7 +53,6 @@ We see that on average per colony, we have ~23kg per year
 
 <object data={require('../img/uuring-2016-mesindussektor-2015.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![Eesti mesindussektori struktuur](../img/uuring-2016-mesindussektor-2015.pdf)
 
 
 

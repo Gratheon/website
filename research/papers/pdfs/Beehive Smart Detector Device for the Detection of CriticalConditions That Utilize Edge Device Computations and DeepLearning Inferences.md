@@ -5,7 +5,6 @@ orgs:
   - 🇬🇷 University of Ioannina
 ---
 
-- [PDF](sensors-24-05444-v3.pdf)
+[PDF](sensors-24-05444-v3.pdf)
 
-
-![](sensors-24-05444-v3.pdf)
+<object data={require('./sensors-24-05444-v3.pdf').default} type="application/pdf" width="100%" height="800"></object>

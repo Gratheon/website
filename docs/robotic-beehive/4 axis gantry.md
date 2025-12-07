@@ -43,10 +43,12 @@ When choosing the appropriate driver for the system, it must be done according t
 - [**Yahboom 6 Axis Robot Arm**](https://www.notion.so/Yahboom-6-Axis-Robot-Arm-1236c7765b2e4524a88fee8281b1bc33?pvs=21)
 
 [PDF](img/TFG-I-1682.pdf)
-![](img/TFG-I-1682.pdf)
+
+<object data={require('./img/TFG-I-1682.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
 [PDF](img/Torras_Amat_Júlia_TFG.pdf)
-![](img/Torras_Amat_Júlia_TFG.pdf)
+
+<object data={require('./img/Torras_Amat_Júlia_TFG.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
 
 

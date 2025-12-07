@@ -18,5 +18,3 @@ source - Celvia CC AS, https://gratheon.com/research/Honey%20bulk%20DNA%20metage
 source - Celvia CC AS, https://gratheon.com/research/Honey%20bulk%20DNA%20metagenomic%20analysis%20to%20identify%20honey%20biological
 
 <object data={require('../img/1214.infovoldik_ahm-2009v.pdf').default} type="application/pdf" width="100%" height="800"></object>
-
-![](../img/1214.infovoldik_ahm-2009v.pdf)

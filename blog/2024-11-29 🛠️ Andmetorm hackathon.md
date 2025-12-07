@@ -23,7 +23,6 @@ Participants and mentors collective foto by Tiit Tamme / Garage 48:
 
 <object data={require('./img/andmetorm.pdf').default} type="application/pdf" width="100%" height="400"></object>
 
-![](img/andmetorm.pdf)
 
 <!--truncate-->
 
