@@ -16,10 +16,12 @@ jobs:
         run: |
           git reset --hard
           git pull
-      - name: restart search service
+          rm -rf .docusaurus
+      - name: install dependencies
+        run: |
+          source ./setup-env.sh
+          pnpm install
+      - name: restart services
         run: |
           chmod +x ./restart.sh
           ./restart.sh
-      - name: reload nginx
-        run: |
-          sudo nginx -t && sudo nginx -s reload
