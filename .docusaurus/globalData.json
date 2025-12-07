@@ -780,6 +780,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/prototron_dataroom/MARKETING_MENTOR_PREP",
+              "path": "/about/company/prototron_dataroom/MARKETING_MENTOR_PREP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Team/🍰 Equity and fundraising plan",
               "path": "/about/company/Team/🍰 Equity and fundraising plan",
               "sidebar": "tutorialSidebar"
@@ -2391,12 +2396,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-tag-manager": {
-    "default": {
-      "containerId": "GTM-KH4KC9",
-      "id": "default"
     }
   }
 }
