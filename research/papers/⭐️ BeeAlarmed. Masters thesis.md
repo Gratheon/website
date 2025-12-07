@@ -17,5 +17,3 @@ Couldn’t find actual PDF, only the source code
 
 [VIDEO](pdfs/fabien.mov)
 
-![](pdfs/fabien.mov)
-

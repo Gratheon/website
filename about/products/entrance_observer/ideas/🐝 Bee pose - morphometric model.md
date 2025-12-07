@@ -17,7 +17,7 @@ Here is an example from [[DeepBees – Building and Scaling Convolutional Neuron
 
 [**LabelBee: a web platform for large-scale semi-automated analysis of honeybee behavior from video**](https://www.notion.so/LabelBee-a-web-platform-for-large-scale-semi-automated-analysis-of-honeybee-behavior-from-video-d4e940ed7aee48a6821507ceaa43e603?pvs=21) :
 
-![](../img/Screen%20Recording%202023-10-25%20at%2002.39.02.mov)
+[VIDEO](../img/Screen%20Recording%202023-10-25%20at%2002.39.02.mov)
 
 Optionally also:
 
