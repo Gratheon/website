@@ -44,6 +44,9 @@ As we prepare for our €40k angel round and deploy IoT hardware to beekeepers i
 
 While we maintain our open source philosophy for code (AGPL license), protecting the Gratheon brand ensures that our identity and market positioning remain distinct as we scale.
 
+![](img/Screenshot%202025-12-07%20at%2023.10.04.png)
+
+
 ---
 
 *Gratheon™ is a pending EU trademark of Gratheon OÜ. Application filed with EUIPO December 2025.*
