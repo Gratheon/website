@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BuzzBox",
+  "title": "BuzzBox",
+  "description": "",
+  "source": "@site/about/company/Competition/BuzzBox.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BuzzBox",
+  "permalink": "/about/company/Competition/BuzzBox",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.kickstarter.com/projects/181034265/buzzbox-advanced-beehive-sensor-and-smartphone-app?ref=discovery&term=beehive",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Broodminder",
+    "permalink": "/about/company/Competition/Broodminder"
+  },
+  "next": {
+    "title": "ForSage",
+    "permalink": "/about/company/Competition/ForSage"
+  }
+}

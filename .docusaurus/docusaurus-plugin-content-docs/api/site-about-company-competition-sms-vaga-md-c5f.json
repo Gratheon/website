@@ -1,0 +1,23 @@
+{
+  "id": "company/Competition/SMSVaga",
+  "title": "SMSVaga",
+  "description": "smsvaga.com",
+  "source": "@site/about/company/Competition/SMSVaga.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/SMSVaga",
+  "permalink": "/about/company/Competition/SMSVaga",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prohiver",
+    "permalink": "/about/company/Competition/Prohiver"
+  },
+  "next": {
+    "title": "Solutionbee",
+    "permalink": "/about/company/Competition/Solutionbee"
+  }
+}

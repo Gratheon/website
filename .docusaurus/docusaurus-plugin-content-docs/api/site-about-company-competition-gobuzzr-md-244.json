@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/Gobuzzr",
+  "title": "Gobuzzr",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/Gobuzzr.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/Gobuzzr",
+  "permalink": "/about/company/Competition/Gobuzzr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.gobuzzr.com/",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "Hobbyist and semi-professional beekeepers",
+    "location": "USA (likely)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ForSage",
+    "permalink": "/about/company/Competition/ForSage"
+  },
+  "next": {
+    "title": "HIIVE Link",
+    "permalink": "/about/company/Competition/HIIVE Link"
+  }
+}

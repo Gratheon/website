@@ -1,0 +1,26 @@
+{
+  "id": "company/Team/🍰 Equity and fundraising plan",
+  "title": "🍰 Equity and fundraising plan",
+  "description": "💡 This page is summarizing the long-term plan of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our values and reasoning",
+  "source": "@site/about/company/Team/🍰 Equity and fundraising plan.md",
+  "sourceDirName": "company/Team",
+  "slug": "/company/Team/🍰 Equity and fundraising plan",
+  "permalink": "/about/company/Team/🍰 Equity and fundraising plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚽️ Team",
+    "permalink": "/about/company/Team/"
+  },
+  "next": {
+    "title": "Merchandise",
+    "permalink": "/about/company/Team/Merchandise"
+  }
+}

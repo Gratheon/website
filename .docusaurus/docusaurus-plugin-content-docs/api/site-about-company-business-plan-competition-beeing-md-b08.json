@@ -1,0 +1,25 @@
+{
+  "id": "company/business_plan/Competition/beeing",
+  "title": "beeing",
+  "description": "- beehive for urban beekeeping",
+  "source": "@site/about/company/business_plan/Competition/beeing.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/beeing",
+  "permalink": "/about/company/business_plan/Competition/beeing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beeing.it/en/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "beehold.rs",
+    "permalink": "/about/company/business_plan/Competition/beehold.rs"
+  },
+  "next": {
+    "title": "beescanning",
+    "permalink": "/about/company/business_plan/Competition/beescanning"
+  }
+}

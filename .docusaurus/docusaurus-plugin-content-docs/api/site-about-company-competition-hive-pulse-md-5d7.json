@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/HivePulse",
+  "title": "HivePulse",
+  "description": "",
+  "source": "@site/about/company/Competition/HivePulse.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/HivePulse",
+  "permalink": "/about/company/Competition/HivePulse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://hivepulse.co.za/",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HiveMind",
+    "permalink": "/about/company/Competition/HiveMind"
+  },
+  "next": {
+    "title": "HoneyInstruments",
+    "permalink": "/about/company/Competition/HoneyInstruments"
+  }
+}

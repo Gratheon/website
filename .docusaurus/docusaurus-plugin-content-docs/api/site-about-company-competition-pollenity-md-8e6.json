@@ -1,0 +1,23 @@
+{
+  "id": "company/Competition/Pollenity",
+  "title": "Pollenity",
+  "description": "sound monitoring - beebot",
+  "source": "@site/about/company/Competition/Pollenity.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/Pollenity",
+  "permalink": "/about/company/Competition/Pollenity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OSBeehives",
+    "permalink": "/about/company/Competition/OSBeehives"
+  },
+  "next": {
+    "title": "Prohiver",
+    "permalink": "/about/company/Competition/Prohiver"
+  }
+}

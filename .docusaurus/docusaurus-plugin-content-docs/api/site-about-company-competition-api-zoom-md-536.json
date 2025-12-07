@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/ApiZoom",
+  "title": "ApiZoom",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/ApiZoom.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/ApiZoom",
+  "permalink": "/about/company/Competition/ApiZoom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.apizoom.app/",
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW",
+    "target_market": "French-speaking beekeepers",
+    "location": "France (likely)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ApiManager",
+    "permalink": "/about/company/Competition/ApiManager"
+  },
+  "next": {
+    "title": "ApiaryBook",
+    "permalink": "/about/company/Competition/ApiaryBook"
+  }
+}

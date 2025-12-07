@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BeeZee",
+  "title": "BeeZee",
+  "description": "",
+  "source": "@site/about/company/Competition/BeeZee.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeeZee",
+  "permalink": "/about/company/Competition/BeeZee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system/",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeeSage",
+    "permalink": "/about/company/Competition/BeeSage"
+  },
+  "next": {
+    "title": "BeehiveMonitoringUSA",
+    "permalink": "/about/company/Competition/BeehiveMonitoringUSA"
+  }
+}

@@ -465,23 +465,253 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/🍰 Equity and fundraising plan",
-              "path": "/about/company/🍰 Equity and fundraising plan",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/🏇 Go to market strategy",
-              "path": "/about/company/🏇 Go to market strategy",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/📊 Market analysis",
-              "path": "/about/company/📊 Market analysis",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/🤲 Why open source",
               "path": "/about/company/🤲 Why open source",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/📊 Market analysis",
+              "path": "/about/company/business_plan/📊 Market analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/business_plan",
+              "path": "/about/company/business_plan/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇦🇺 Beemate",
+              "path": "/about/company/business_plan/Competition/🇦🇺 Beemate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇦🇺 Purple Hive",
+              "path": "/about/company/business_plan/Competition/🇦🇺 Purple Hive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇨🇦 Nectar",
+              "path": "/about/company/business_plan/Competition/🇨🇦 Nectar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇩🇪 ApicAI",
+              "path": "/about/company/business_plan/Competition/🇩🇪 ApicAI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇮🇱 BeeHero",
+              "path": "/about/company/business_plan/Competition/🇮🇱 BeeHero",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇮🇱 Beewise",
+              "path": "/about/company/business_plan/Competition/🇮🇱 Beewise",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇳🇱 Beep NL",
+              "path": "/about/company/business_plan/Competition/🇳🇱 Beep NL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇺🇸 Best Bees",
+              "path": "/about/company/business_plan/Competition/🇺🇸 Best Bees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/🇺🇸 HiveGenie",
+              "path": "/about/company/business_plan/Competition/🇺🇸 HiveGenie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/3bee",
+              "path": "/about/company/business_plan/Competition/3bee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/AgriSound",
+              "path": "/about/company/business_plan/Competition/AgriSound",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/ApiaryBook",
+              "path": "/about/company/business_plan/Competition/ApiaryBook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/ApiManager",
+              "path": "/about/company/business_plan/Competition/ApiManager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/ApiZoom",
+              "path": "/about/company/business_plan/Competition/ApiZoom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeeHiveMonitoring",
+              "path": "/about/company/business_plan/Competition/BeeHiveMonitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeehiveMonitoringUSA",
+              "path": "/about/company/business_plan/Competition/BeehiveMonitoringUSA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/beehold.rs",
+              "path": "/about/company/business_plan/Competition/beehold.rs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/beeing",
+              "path": "/about/company/business_plan/Competition/beeing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeeLab",
+              "path": "/about/company/business_plan/Competition/BeeLab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeeOrganizer",
+              "path": "/about/company/business_plan/Competition/BeeOrganizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeePlus Beekeeping",
+              "path": "/about/company/business_plan/Competition/BeePlus Beekeeping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeeSage",
+              "path": "/about/company/business_plan/Competition/BeeSage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/beescanning",
+              "path": "/about/company/business_plan/Competition/beescanning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Beetight 2",
+              "path": "/about/company/business_plan/Competition/Beetight 2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BeeZee",
+              "path": "/about/company/business_plan/Competition/BeeZee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Beezon",
+              "path": "/about/company/business_plan/Competition/Beezon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Broodminder",
+              "path": "/about/company/business_plan/Competition/Broodminder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/BuzzBox",
+              "path": "/about/company/business_plan/Competition/BuzzBox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/ForSage",
+              "path": "/about/company/business_plan/Competition/ForSage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Gobuzzr",
+              "path": "/about/company/business_plan/Competition/Gobuzzr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/HIIVE Link",
+              "path": "/about/company/business_plan/Competition/HIIVE Link",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/HiveBloom",
+              "path": "/about/company/business_plan/Competition/HiveBloom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/HiveMind",
+              "path": "/about/company/business_plan/Competition/HiveMind",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/HivePulse",
+              "path": "/about/company/business_plan/Competition/HivePulse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/hivetracks",
+              "path": "/about/company/business_plan/Competition/hivetracks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/HoneyInstruments",
+              "path": "/about/company/business_plan/Competition/HoneyInstruments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/i-bee",
+              "path": "/about/company/business_plan/Competition/i-bee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/index",
+              "path": "/about/company/business_plan/Competition/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/InspectNext",
+              "path": "/about/company/business_plan/Competition/InspectNext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/IntelligentHives",
+              "path": "/about/company/business_plan/Competition/IntelligentHives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/io-bee",
+              "path": "/about/company/business_plan/Competition/io-bee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/OSBeehives",
+              "path": "/about/company/business_plan/Competition/OSBeehives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Pollenity",
+              "path": "/about/company/business_plan/Competition/Pollenity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Prohiver",
+              "path": "/about/company/business_plan/Competition/Prohiver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/SMSVaga",
+              "path": "/about/company/business_plan/Competition/SMSVaga",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Solutionbee",
+              "path": "/about/company/business_plan/Competition/Solutionbee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/business_plan/Competition/Апипульс",
+              "path": "/about/company/business_plan/Competition/Апипульс",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -542,6 +772,11 @@
             {
               "id": "company/Processes/🖥️ Services and tools that we use",
               "path": "/about/company/Processes/🖥️ Services and tools that we use",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Team/🍰 Equity and fundraising plan",
+              "path": "/about/company/Team/🍰 Equity and fundraising plan",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -1653,241 +1888,6 @@
           "path": "/research",
           "mainDocId": "index",
           "docs": [
-            {
-              "id": "Competition/🇦🇺 Beemate",
-              "path": "/research/Competition/🇦🇺 Beemate",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇦🇺 Purple Hive",
-              "path": "/research/Competition/🇦🇺 Purple Hive",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇨🇦 Nectar",
-              "path": "/research/Competition/🇨🇦 Nectar",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇩🇪 ApicAI",
-              "path": "/research/Competition/🇩🇪 ApicAI",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇮🇱 BeeHero",
-              "path": "/research/Competition/🇮🇱 BeeHero",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇮🇱 Beewise",
-              "path": "/research/Competition/🇮🇱 Beewise",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇳🇱 Beep NL",
-              "path": "/research/Competition/🇳🇱 Beep NL",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇺🇸 Best Bees",
-              "path": "/research/Competition/🇺🇸 Best Bees",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/🇺🇸 HiveGenie",
-              "path": "/research/Competition/🇺🇸 HiveGenie",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/3bee",
-              "path": "/research/Competition/3bee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/AgriSound",
-              "path": "/research/Competition/AgriSound",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/ApiaryBook",
-              "path": "/research/Competition/ApiaryBook",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/ApiManager",
-              "path": "/research/Competition/ApiManager",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/ApiZoom",
-              "path": "/research/Competition/ApiZoom",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeeHiveMonitoring",
-              "path": "/research/Competition/BeeHiveMonitoring",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeehiveMonitoringUSA",
-              "path": "/research/Competition/BeehiveMonitoringUSA",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/beehold.rs",
-              "path": "/research/Competition/beehold.rs",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/beeing",
-              "path": "/research/Competition/beeing",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeeLab",
-              "path": "/research/Competition/BeeLab",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeeOrganizer",
-              "path": "/research/Competition/BeeOrganizer",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeePlus Beekeeping",
-              "path": "/research/Competition/BeePlus Beekeeping",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeeSage",
-              "path": "/research/Competition/BeeSage",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/beescanning",
-              "path": "/research/Competition/beescanning",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Beetight 2",
-              "path": "/research/Competition/Beetight 2",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BeeZee",
-              "path": "/research/Competition/BeeZee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Beezon",
-              "path": "/research/Competition/Beezon",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Broodminder",
-              "path": "/research/Competition/Broodminder",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/BuzzBox",
-              "path": "/research/Competition/BuzzBox",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/ForSage",
-              "path": "/research/Competition/ForSage",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Gobuzzr",
-              "path": "/research/Competition/Gobuzzr",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HIIVE Link",
-              "path": "/research/Competition/HIIVE Link",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HiveBloom",
-              "path": "/research/Competition/HiveBloom",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HiveMind",
-              "path": "/research/Competition/HiveMind",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HivePulse",
-              "path": "/research/Competition/HivePulse",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/hivetracks",
-              "path": "/research/Competition/hivetracks",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/HoneyInstruments",
-              "path": "/research/Competition/HoneyInstruments",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/i-bee",
-              "path": "/research/Competition/i-bee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/index",
-              "path": "/research/Competition/",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/InspectNext",
-              "path": "/research/Competition/InspectNext",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/IntelligentHives",
-              "path": "/research/Competition/IntelligentHives",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/io-bee",
-              "path": "/research/Competition/io-bee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/OSBeehives",
-              "path": "/research/Competition/OSBeehives",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Pollenity",
-              "path": "/research/Competition/Pollenity",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Prohiver",
-              "path": "/research/Competition/Prohiver",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/SMSVaga",
-              "path": "/research/Competition/SMSVaga",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Solutionbee",
-              "path": "/research/Competition/Solutionbee",
-              "sidebar": "researchSidebar"
-            },
-            {
-              "id": "Competition/Апипульс",
-              "path": "/research/Competition/Апипульс",
-              "sidebar": "researchSidebar"
-            },
             {
               "id": "Datasets",
               "path": "/research/Datasets",

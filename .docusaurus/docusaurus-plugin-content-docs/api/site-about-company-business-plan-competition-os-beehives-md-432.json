@@ -1,0 +1,29 @@
+{
+  "id": "company/business_plan/Competition/OSBeehives",
+  "title": "OSBeehives",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/OSBeehives.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/OSBeehives",
+  "permalink": "/about/company/business_plan/Competition/OSBeehives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app",
+    "priority": 7,
+    "threat_level": "LOW",
+    "target_market": "Educational, urban beekeepers",
+    "approach": "Open Source Hardware + Software"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IntelligentHives",
+    "permalink": "/about/company/business_plan/Competition/IntelligentHives"
+  },
+  "next": {
+    "title": "Pollenity",
+    "permalink": "/about/company/business_plan/Competition/Pollenity"
+  }
+}

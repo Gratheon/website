@@ -229,15 +229,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'cfb'),
+    component: ComponentCreator('/about', '190'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'a99'),
+        component: ComponentCreator('/about', '268'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '69d'),
+            component: ComponentCreator('/about', '907'),
             routes: [
               {
                 path: '/about/',
@@ -258,26 +258,302 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/🍰 Equity and fundraising plan',
-                component: ComponentCreator('/about/company/🍰 Equity and fundraising plan', 'ea0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/🏇 Go to market strategy',
-                component: ComponentCreator('/about/company/🏇 Go to market strategy', '9d8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/📊 Market analysis',
-                component: ComponentCreator('/about/company/📊 Market analysis', 'b6a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/🤲 Why open source',
                 component: ComponentCreator('/about/company/🤲 Why open source', 'c91'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/',
+                component: ComponentCreator('/about/company/business_plan/', '3b5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/📊 Market analysis',
+                component: ComponentCreator('/about/company/business_plan/📊 Market analysis', 'c29'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/',
+                component: ComponentCreator('/about/company/business_plan/Competition/', '212'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇦🇺 Beemate',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇦🇺 Beemate', '950'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇦🇺 Purple Hive',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇦🇺 Purple Hive', 'cbb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇨🇦 Nectar',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇨🇦 Nectar', '9eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇩🇪 ApicAI',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇩🇪 ApicAI', '7c2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇮🇱 BeeHero',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇮🇱 BeeHero', '04d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇮🇱 Beewise',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇮🇱 Beewise', '539'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇳🇱 Beep NL',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇳🇱 Beep NL', '5f5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇺🇸 Best Bees',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇺🇸 Best Bees', 'fe2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/🇺🇸 HiveGenie',
+                component: ComponentCreator('/about/company/business_plan/Competition/🇺🇸 HiveGenie', '7c3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/3bee',
+                component: ComponentCreator('/about/company/business_plan/Competition/3bee', '57b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/AgriSound',
+                component: ComponentCreator('/about/company/business_plan/Competition/AgriSound', '6a9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/ApiaryBook',
+                component: ComponentCreator('/about/company/business_plan/Competition/ApiaryBook', '5eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/ApiManager',
+                component: ComponentCreator('/about/company/business_plan/Competition/ApiManager', '93e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/ApiZoom',
+                component: ComponentCreator('/about/company/business_plan/Competition/ApiZoom', 'dce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeeHiveMonitoring',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeeHiveMonitoring', 'a2b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeehiveMonitoringUSA',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeehiveMonitoringUSA', 'd54'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/beehold.rs',
+                component: ComponentCreator('/about/company/business_plan/Competition/beehold.rs', '91f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/beeing',
+                component: ComponentCreator('/about/company/business_plan/Competition/beeing', '85f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeeLab',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeeLab', '983'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeeOrganizer',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeeOrganizer', 'ffd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeePlus Beekeeping',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeePlus Beekeeping', '644'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeeSage',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeeSage', '23c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/beescanning',
+                component: ComponentCreator('/about/company/business_plan/Competition/beescanning', 'ce1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Beetight 2',
+                component: ComponentCreator('/about/company/business_plan/Competition/Beetight 2', '88a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BeeZee',
+                component: ComponentCreator('/about/company/business_plan/Competition/BeeZee', 'dbf'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Beezon',
+                component: ComponentCreator('/about/company/business_plan/Competition/Beezon', 'c3b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Broodminder',
+                component: ComponentCreator('/about/company/business_plan/Competition/Broodminder', '3ff'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/BuzzBox',
+                component: ComponentCreator('/about/company/business_plan/Competition/BuzzBox', 'ea8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/ForSage',
+                component: ComponentCreator('/about/company/business_plan/Competition/ForSage', '0f5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Gobuzzr',
+                component: ComponentCreator('/about/company/business_plan/Competition/Gobuzzr', 'f6b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/HIIVE Link',
+                component: ComponentCreator('/about/company/business_plan/Competition/HIIVE Link', 'a74'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/HiveBloom',
+                component: ComponentCreator('/about/company/business_plan/Competition/HiveBloom', '857'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/HiveMind',
+                component: ComponentCreator('/about/company/business_plan/Competition/HiveMind', 'b42'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/HivePulse',
+                component: ComponentCreator('/about/company/business_plan/Competition/HivePulse', '15b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/hivetracks',
+                component: ComponentCreator('/about/company/business_plan/Competition/hivetracks', '5ed'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/HoneyInstruments',
+                component: ComponentCreator('/about/company/business_plan/Competition/HoneyInstruments', '905'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/i-bee',
+                component: ComponentCreator('/about/company/business_plan/Competition/i-bee', '3cd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/InspectNext',
+                component: ComponentCreator('/about/company/business_plan/Competition/InspectNext', 'baa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/IntelligentHives',
+                component: ComponentCreator('/about/company/business_plan/Competition/IntelligentHives', '809'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/io-bee',
+                component: ComponentCreator('/about/company/business_plan/Competition/io-bee', 'f9f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/OSBeehives',
+                component: ComponentCreator('/about/company/business_plan/Competition/OSBeehives', '35b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Pollenity',
+                component: ComponentCreator('/about/company/business_plan/Competition/Pollenity', '746'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Prohiver',
+                component: ComponentCreator('/about/company/business_plan/Competition/Prohiver', '966'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/SMSVaga',
+                component: ComponentCreator('/about/company/business_plan/Competition/SMSVaga', 'df3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Solutionbee',
+                component: ComponentCreator('/about/company/business_plan/Competition/Solutionbee', '1b6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/business_plan/Competition/Апипульс',
+                component: ComponentCreator('/about/company/business_plan/Competition/Апипульс', '82b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -350,6 +626,12 @@ export default [
               {
                 path: '/about/company/Team/',
                 component: ComponentCreator('/about/company/Team/', 'fa9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Team/🍰 Equity and fundraising plan',
+                component: ComponentCreator('/about/company/Team/🍰 Equity and fundraising plan', '6a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -2179,301 +2461,19 @@ export default [
   },
   {
     path: '/research',
-    component: ComponentCreator('/research', 'c9c'),
+    component: ComponentCreator('/research', '640'),
     routes: [
       {
         path: '/research',
-        component: ComponentCreator('/research', 'c93'),
+        component: ComponentCreator('/research', '324'),
         routes: [
           {
             path: '/research',
-            component: ComponentCreator('/research', '49d'),
+            component: ComponentCreator('/research', '947'),
             routes: [
               {
                 path: '/research/',
                 component: ComponentCreator('/research/', '0df'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/',
-                component: ComponentCreator('/research/Competition/', '108'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇦🇺 Beemate',
-                component: ComponentCreator('/research/Competition/🇦🇺 Beemate', '8f6'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇦🇺 Purple Hive',
-                component: ComponentCreator('/research/Competition/🇦🇺 Purple Hive', '8e2'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇨🇦 Nectar',
-                component: ComponentCreator('/research/Competition/🇨🇦 Nectar', 'ff5'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇩🇪 ApicAI',
-                component: ComponentCreator('/research/Competition/🇩🇪 ApicAI', '87f'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇮🇱 BeeHero',
-                component: ComponentCreator('/research/Competition/🇮🇱 BeeHero', '0af'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇮🇱 Beewise',
-                component: ComponentCreator('/research/Competition/🇮🇱 Beewise', '95d'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇳🇱 Beep NL',
-                component: ComponentCreator('/research/Competition/🇳🇱 Beep NL', 'a5e'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇺🇸 Best Bees',
-                component: ComponentCreator('/research/Competition/🇺🇸 Best Bees', 'bc9'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/🇺🇸 HiveGenie',
-                component: ComponentCreator('/research/Competition/🇺🇸 HiveGenie', 'bb5'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/3bee',
-                component: ComponentCreator('/research/Competition/3bee', '5ca'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/AgriSound',
-                component: ComponentCreator('/research/Competition/AgriSound', '30a'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/ApiaryBook',
-                component: ComponentCreator('/research/Competition/ApiaryBook', '7c7'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/ApiManager',
-                component: ComponentCreator('/research/Competition/ApiManager', '7a4'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/ApiZoom',
-                component: ComponentCreator('/research/Competition/ApiZoom', '7f4'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeeHiveMonitoring',
-                component: ComponentCreator('/research/Competition/BeeHiveMonitoring', '563'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeehiveMonitoringUSA',
-                component: ComponentCreator('/research/Competition/BeehiveMonitoringUSA', '0ba'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/beehold.rs',
-                component: ComponentCreator('/research/Competition/beehold.rs', '6ed'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/beeing',
-                component: ComponentCreator('/research/Competition/beeing', 'eff'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeeLab',
-                component: ComponentCreator('/research/Competition/BeeLab', 'f73'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeeOrganizer',
-                component: ComponentCreator('/research/Competition/BeeOrganizer', 'e64'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeePlus Beekeeping',
-                component: ComponentCreator('/research/Competition/BeePlus Beekeeping', 'b2d'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeeSage',
-                component: ComponentCreator('/research/Competition/BeeSage', 'bd3'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/beescanning',
-                component: ComponentCreator('/research/Competition/beescanning', '7be'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Beetight 2',
-                component: ComponentCreator('/research/Competition/Beetight 2', 'ce8'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BeeZee',
-                component: ComponentCreator('/research/Competition/BeeZee', 'a27'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Beezon',
-                component: ComponentCreator('/research/Competition/Beezon', '0d7'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Broodminder',
-                component: ComponentCreator('/research/Competition/Broodminder', '982'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/BuzzBox',
-                component: ComponentCreator('/research/Competition/BuzzBox', '523'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/ForSage',
-                component: ComponentCreator('/research/Competition/ForSage', '8eb'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Gobuzzr',
-                component: ComponentCreator('/research/Competition/Gobuzzr', '479'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HIIVE Link',
-                component: ComponentCreator('/research/Competition/HIIVE Link', 'f55'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HiveBloom',
-                component: ComponentCreator('/research/Competition/HiveBloom', 'f1f'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HiveMind',
-                component: ComponentCreator('/research/Competition/HiveMind', 'd79'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HivePulse',
-                component: ComponentCreator('/research/Competition/HivePulse', 'bee'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/hivetracks',
-                component: ComponentCreator('/research/Competition/hivetracks', 'ff1'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/HoneyInstruments',
-                component: ComponentCreator('/research/Competition/HoneyInstruments', 'c75'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/i-bee',
-                component: ComponentCreator('/research/Competition/i-bee', 'f0b'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/InspectNext',
-                component: ComponentCreator('/research/Competition/InspectNext', '696'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/IntelligentHives',
-                component: ComponentCreator('/research/Competition/IntelligentHives', '89d'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/io-bee',
-                component: ComponentCreator('/research/Competition/io-bee', '827'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/OSBeehives',
-                component: ComponentCreator('/research/Competition/OSBeehives', '538'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Pollenity',
-                component: ComponentCreator('/research/Competition/Pollenity', '5a5'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Prohiver',
-                component: ComponentCreator('/research/Competition/Prohiver', '576'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/SMSVaga',
-                component: ComponentCreator('/research/Competition/SMSVaga', '903'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Solutionbee',
-                component: ComponentCreator('/research/Competition/Solutionbee', '0ef'),
-                exact: true,
-                sidebar: "researchSidebar"
-              },
-              {
-                path: '/research/Competition/Апипульс',
-                component: ComponentCreator('/research/Competition/Апипульс', '6be'),
                 exact: true,
                 sidebar: "researchSidebar"
               },

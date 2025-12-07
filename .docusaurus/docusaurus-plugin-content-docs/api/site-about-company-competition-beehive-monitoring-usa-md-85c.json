@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BeehiveMonitoringUSA",
+  "title": "BeehiveMonitoringUSA",
+  "description": "",
+  "source": "@site/about/company/Competition/BeehiveMonitoringUSA.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeehiveMonitoringUSA",
+  "permalink": "/about/company/Competition/BeehiveMonitoringUSA",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "🌡️ Beehive IoT sensors",
+    "url": "https://beehivemonitoringusa.com"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeeZee",
+    "permalink": "/about/company/Competition/BeeZee"
+  },
+  "next": {
+    "title": "Beetight 2",
+    "permalink": "/about/company/Competition/Beetight 2"
+  }
+}

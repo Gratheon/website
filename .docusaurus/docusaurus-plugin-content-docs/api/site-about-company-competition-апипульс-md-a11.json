@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/Апипульс",
+  "title": "Апипульс",
+  "description": "400 EUR for a set",
+  "source": "@site/about/company/Competition/Апипульс.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/Апипульс",
+  "permalink": "/about/company/Competition/Апипульс",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://apipulse.ru/",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "io-bee",
+    "permalink": "/about/company/Competition/io-bee"
+  },
+  "next": {
+    "title": "🇦🇺 Beemate",
+    "permalink": "/about/company/Competition/🇦🇺 Beemate"
+  }
+}

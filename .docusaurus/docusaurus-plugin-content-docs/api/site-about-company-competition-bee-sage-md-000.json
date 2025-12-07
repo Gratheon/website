@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BeeSage",
+  "title": "BeeSage",
+  "description": "",
+  "source": "@site/about/company/Competition/BeeSage.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeeSage",
+  "permalink": "/about/company/Competition/BeeSage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beesage.co/",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeePlus Beekeeping",
+    "permalink": "/about/company/Competition/BeePlus Beekeeping"
+  },
+  "next": {
+    "title": "BeeZee",
+    "permalink": "/about/company/Competition/BeeZee"
+  }
+}

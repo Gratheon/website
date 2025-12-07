@@ -1,0 +1,27 @@
+{
+  "id": "company/business_plan/Competition/index",
+  "title": "Commercial projects",
+  "description": "This is a list of great apps, devices, code repos and products that we look at for inspiration and competitive intelligence.",
+  "source": "@site/about/company/business_plan/Competition/index.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/",
+  "permalink": "/about/company/business_plan/Competition/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Commercial projects",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📊 Market analysis",
+    "permalink": "/about/company/business_plan/📊 Market analysis"
+  },
+  "next": {
+    "title": "3bee",
+    "permalink": "/about/company/business_plan/Competition/3bee"
+  }
+}

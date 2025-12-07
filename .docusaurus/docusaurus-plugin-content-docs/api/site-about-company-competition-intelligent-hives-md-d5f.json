@@ -1,0 +1,31 @@
+{
+  "id": "company/Competition/IntelligentHives",
+  "title": "IntelligentHives",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/IntelligentHives.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/IntelligentHives",
+  "permalink": "/about/company/Competition/IntelligentHives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://intelligenthives.eu",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 4,
+    "threat_level": "MEDIUM",
+    "target_market": "European professional beekeepers",
+    "location": "Europe (.eu domain)",
+    "approach": "AI-focused (name suggests)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InspectNext",
+    "permalink": "/about/company/Competition/InspectNext"
+  },
+  "next": {
+    "title": "OSBeehives",
+    "permalink": "/about/company/Competition/OSBeehives"
+  }
+}

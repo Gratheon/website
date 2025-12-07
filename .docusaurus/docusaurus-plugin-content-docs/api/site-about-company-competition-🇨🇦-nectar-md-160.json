@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/🇨🇦 Nectar",
+  "title": "🇨🇦 Nectar",
+  "description": "Beekeeping organizer for migratory beekeepers",
+  "source": "@site/about/company/Competition/🇨🇦 Nectar.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/🇨🇦 Nectar",
+  "permalink": "/about/company/Competition/🇨🇦 Nectar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.nectar.buzz/",
+    "priority": 2,
+    "description": "Beekeeping organizer for migratory beekeepers",
+    "products": "📱Web-app",
+    "threat_level": "MEDIUM",
+    "target_market": "Migratory beekeepers, Semi-professional"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇦🇺 Purple Hive",
+    "permalink": "/about/company/Competition/🇦🇺 Purple Hive"
+  },
+  "next": {
+    "title": "🇩🇪 ApicAI",
+    "permalink": "/about/company/Competition/🇩🇪 ApicAI"
+  }
+}

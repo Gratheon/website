@@ -1,0 +1,31 @@
+{
+  "id": "company/Competition/🇮🇱 Beewise",
+  "title": "🇮🇱 Beewise",
+  "description": "Industrial level robotic beehives with image processing. Rent model",
+  "source": "@site/about/company/Competition/🇮🇱 Beewise.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/🇮🇱 Beewise",
+  "permalink": "/about/company/Competition/🇮🇱 Beewise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Industrial level robotic beehives with image processing. Rent model",
+    "url": "https://beewise.ag/",
+    "products": "🪬 Robotic Apiary",
+    "priority": 1,
+    "pricing": "v1 - 600$ (40 hives)v2 - $400/month per container + 2000$ delivery",
+    "threat_level": "HIGH",
+    "target_market": "Enterprise/Commercial beekeepers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇮🇱 BeeHero",
+    "permalink": "/about/company/Competition/🇮🇱 BeeHero"
+  },
+  "next": {
+    "title": "🇳🇱 Beep NL",
+    "permalink": "/about/company/Competition/🇳🇱 Beep NL"
+  }
+}

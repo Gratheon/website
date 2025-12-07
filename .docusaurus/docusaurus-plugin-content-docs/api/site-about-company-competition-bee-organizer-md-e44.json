@@ -1,0 +1,25 @@
+{
+  "id": "company/Competition/BeeOrganizer",
+  "title": "BeeOrganizer",
+  "description": "",
+  "source": "@site/about/company/Competition/BeeOrganizer.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeeOrganizer",
+  "permalink": "/about/company/Competition/BeeOrganizer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeeLab",
+    "permalink": "/about/company/Competition/BeeLab"
+  },
+  "next": {
+    "title": "BeePlus Beekeeping",
+    "permalink": "/about/company/Competition/BeePlus Beekeeping"
+  }
+}

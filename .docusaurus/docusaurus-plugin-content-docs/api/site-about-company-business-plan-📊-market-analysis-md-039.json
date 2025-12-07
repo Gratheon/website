@@ -1,0 +1,26 @@
+{
+  "id": "company/business_plan/📊 Market analysis",
+  "title": "📊 Market analysis",
+  "description": "Estonia",
+  "source": "@site/about/company/business_plan/📊 Market analysis.md",
+  "sourceDirName": "company/business_plan",
+  "slug": "/company/business_plan/📊 Market analysis",
+  "permalink": "/about/company/business_plan/📊 Market analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏇 Go to market strategy",
+    "permalink": "/about/company/business_plan/"
+  },
+  "next": {
+    "title": "Commercial projects",
+    "permalink": "/about/company/business_plan/Competition/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/🇦🇺 Beemate",
+  "title": "🇦🇺 Beemate",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/🇦🇺 Beemate.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/🇦🇺 Beemate",
+  "permalink": "/about/company/Competition/🇦🇺 Beemate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beemate.buzz/",
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 3,
+    "threat_level": "MEDIUM",
+    "target_market": "Australian beekeepers",
+    "location": "Australia"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Апипульс",
+    "permalink": "/about/company/Competition/Апипульс"
+  },
+  "next": {
+    "title": "🇦🇺 Purple Hive",
+    "permalink": "/about/company/Competition/🇦🇺 Purple Hive"
+  }
+}

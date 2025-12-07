@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/i-bee",
+  "title": "i-bee",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/i-bee.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/i-bee",
+  "permalink": "/about/company/Competition/i-bee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.i-bee.net/en/",
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "European beekeepers",
+    "location": "Europe (multi-language site)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hivetracks",
+    "permalink": "/about/company/Competition/hivetracks"
+  },
+  "next": {
+    "title": "io-bee",
+    "permalink": "/about/company/Competition/io-bee"
+  }
+}

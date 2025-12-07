@@ -1,0 +1,31 @@
+{
+  "id": "company/business_plan/Competition/🇳🇱 Beep NL",
+  "title": "🇳🇱 Beep NL",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/🇳🇱 Beep NL.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/🇳🇱 Beep NL",
+  "permalink": "/about/company/business_plan/Competition/🇳🇱 Beep NL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://beep.nl/",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 3,
+    "threat_level": "MEDIUM",
+    "target_market": "European hobbyist and semi-pro beekeepers",
+    "location": "Netherlands",
+    "approach": "Open Source"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇮🇱 Beewise",
+    "permalink": "/about/company/business_plan/Competition/🇮🇱 Beewise"
+  },
+  "next": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/about/company/business_plan/Competition/🇺🇸 Best Bees"
+  }
+}

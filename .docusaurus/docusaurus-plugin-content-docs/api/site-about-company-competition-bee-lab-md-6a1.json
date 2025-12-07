@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BeeLab",
+  "title": "BeeLab",
+  "description": "",
+  "source": "@site/about/company/Competition/BeeLab.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeeLab",
+  "permalink": "/about/company/Competition/BeeLab",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "BeeLab.se",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeeHiveMonitoring",
+    "permalink": "/about/company/Competition/BeeHiveMonitoring"
+  },
+  "next": {
+    "title": "BeeOrganizer",
+    "permalink": "/about/company/Competition/BeeOrganizer"
+  }
+}

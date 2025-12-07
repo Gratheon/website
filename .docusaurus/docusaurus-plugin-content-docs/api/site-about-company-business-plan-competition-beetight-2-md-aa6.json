@@ -1,0 +1,25 @@
+{
+  "id": "company/business_plan/Competition/Beetight 2",
+  "title": "Beetight 2",
+  "description": "",
+  "source": "@site/about/company/business_plan/Competition/Beetight 2.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/Beetight 2",
+  "permalink": "/about/company/business_plan/Competition/Beetight 2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeehiveMonitoringUSA",
+    "permalink": "/about/company/business_plan/Competition/BeehiveMonitoringUSA"
+  },
+  "next": {
+    "title": "Beezon",
+    "permalink": "/about/company/business_plan/Competition/Beezon"
+  }
+}

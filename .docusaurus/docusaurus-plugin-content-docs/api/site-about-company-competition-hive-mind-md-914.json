@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/HiveMind",
+  "title": "HiveMind",
+  "description": "",
+  "source": "@site/about/company/Competition/HiveMind.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/HiveMind",
+  "permalink": "/about/company/Competition/HiveMind",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.kickstarter.com/projects/hivemind/innovative-wireless-beehive-scales?ref=discovery&term=beehive",
+    "products": "🌡️ Beehive IoT sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HiveBloom",
+    "permalink": "/about/company/Competition/HiveBloom"
+  },
+  "next": {
+    "title": "HivePulse",
+    "permalink": "/about/company/Competition/HivePulse"
+  }
+}

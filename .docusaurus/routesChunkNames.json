@@ -593,17 +593,17 @@
     },
     "content": "aecb56f0"
   },
-  "/about-cfb": {
+  "/about-190": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "360dc931"
     }
   },
-  "/about-a99": {
+  "/about-268": {
     "__comp": "a7bd4aaa",
     "__props": "a14d12f5"
   },
-  "/about-69d": {
+  "/about-907": {
     "__comp": "a94703ab"
   },
   "/about/-498": {
@@ -618,21 +618,205 @@
     "__comp": "17896441",
     "content": "c38f42bc"
   },
-  "/about/company/🍰 Equity and fundraising plan-ea0": {
-    "__comp": "17896441",
-    "content": "a67f45c7"
-  },
-  "/about/company/🏇 Go to market strategy-9d8": {
-    "__comp": "17896441",
-    "content": "af2ca651"
-  },
-  "/about/company/📊 Market analysis-b6a": {
-    "__comp": "17896441",
-    "content": "8c258961"
-  },
   "/about/company/🤲 Why open source-c91": {
     "__comp": "17896441",
     "content": "4bc3e7d5"
+  },
+  "/about/company/business_plan/-3b5": {
+    "__comp": "17896441",
+    "content": "2439878a"
+  },
+  "/about/company/business_plan/📊 Market analysis-c29": {
+    "__comp": "17896441",
+    "content": "03971c42"
+  },
+  "/about/company/business_plan/Competition/-212": {
+    "__comp": "17896441",
+    "content": "1823ba0c"
+  },
+  "/about/company/business_plan/Competition/🇦🇺 Beemate-950": {
+    "__comp": "17896441",
+    "content": "198c7b23"
+  },
+  "/about/company/business_plan/Competition/🇦🇺 Purple Hive-cbb": {
+    "__comp": "17896441",
+    "content": "0e3aad07"
+  },
+  "/about/company/business_plan/Competition/🇨🇦 Nectar-9eb": {
+    "__comp": "17896441",
+    "content": "882867cd"
+  },
+  "/about/company/business_plan/Competition/🇩🇪 ApicAI-7c2": {
+    "__comp": "17896441",
+    "content": "268f9d3e"
+  },
+  "/about/company/business_plan/Competition/🇮🇱 BeeHero-04d": {
+    "__comp": "17896441",
+    "content": "896c0375"
+  },
+  "/about/company/business_plan/Competition/🇮🇱 Beewise-539": {
+    "__comp": "17896441",
+    "content": "254db32c"
+  },
+  "/about/company/business_plan/Competition/🇳🇱 Beep NL-5f5": {
+    "__comp": "17896441",
+    "content": "3e4218ec"
+  },
+  "/about/company/business_plan/Competition/🇺🇸 Best Bees-fe2": {
+    "__comp": "17896441",
+    "content": "8c6bf362"
+  },
+  "/about/company/business_plan/Competition/🇺🇸 HiveGenie-7c3": {
+    "__comp": "17896441",
+    "content": "6b898d94"
+  },
+  "/about/company/business_plan/Competition/3bee-57b": {
+    "__comp": "17896441",
+    "content": "cd49d0b9"
+  },
+  "/about/company/business_plan/Competition/AgriSound-6a9": {
+    "__comp": "17896441",
+    "content": "6a77c9b5"
+  },
+  "/about/company/business_plan/Competition/ApiaryBook-5eb": {
+    "__comp": "17896441",
+    "content": "84d1f490"
+  },
+  "/about/company/business_plan/Competition/ApiManager-93e": {
+    "__comp": "17896441",
+    "content": "9f035420"
+  },
+  "/about/company/business_plan/Competition/ApiZoom-dce": {
+    "__comp": "17896441",
+    "content": "2947287c"
+  },
+  "/about/company/business_plan/Competition/BeeHiveMonitoring-a2b": {
+    "__comp": "17896441",
+    "content": "e491c9e0"
+  },
+  "/about/company/business_plan/Competition/BeehiveMonitoringUSA-d54": {
+    "__comp": "17896441",
+    "content": "1abbf4c3"
+  },
+  "/about/company/business_plan/Competition/beehold.rs-91f": {
+    "__comp": "17896441",
+    "content": "bc7a8b12"
+  },
+  "/about/company/business_plan/Competition/beeing-85f": {
+    "__comp": "17896441",
+    "content": "b08adf8c"
+  },
+  "/about/company/business_plan/Competition/BeeLab-983": {
+    "__comp": "17896441",
+    "content": "91060e25"
+  },
+  "/about/company/business_plan/Competition/BeeOrganizer-ffd": {
+    "__comp": "17896441",
+    "content": "a5b585a7"
+  },
+  "/about/company/business_plan/Competition/BeePlus Beekeeping-644": {
+    "__comp": "17896441",
+    "content": "917b4434"
+  },
+  "/about/company/business_plan/Competition/BeeSage-23c": {
+    "__comp": "17896441",
+    "content": "ba44c348"
+  },
+  "/about/company/business_plan/Competition/beescanning-ce1": {
+    "__comp": "17896441",
+    "content": "c1a44a0d"
+  },
+  "/about/company/business_plan/Competition/Beetight 2-88a": {
+    "__comp": "17896441",
+    "content": "aa6ddd6a"
+  },
+  "/about/company/business_plan/Competition/BeeZee-dbf": {
+    "__comp": "17896441",
+    "content": "7368c66e"
+  },
+  "/about/company/business_plan/Competition/Beezon-c3b": {
+    "__comp": "17896441",
+    "content": "04a1fdaf"
+  },
+  "/about/company/business_plan/Competition/Broodminder-3ff": {
+    "__comp": "17896441",
+    "content": "bb66477a"
+  },
+  "/about/company/business_plan/Competition/BuzzBox-ea8": {
+    "__comp": "17896441",
+    "content": "50fd2ab4"
+  },
+  "/about/company/business_plan/Competition/ForSage-0f5": {
+    "__comp": "17896441",
+    "content": "fe6b46c5"
+  },
+  "/about/company/business_plan/Competition/Gobuzzr-f6b": {
+    "__comp": "17896441",
+    "content": "5174e258"
+  },
+  "/about/company/business_plan/Competition/HIIVE Link-a74": {
+    "__comp": "17896441",
+    "content": "6bff2825"
+  },
+  "/about/company/business_plan/Competition/HiveBloom-857": {
+    "__comp": "17896441",
+    "content": "378f0656"
+  },
+  "/about/company/business_plan/Competition/HiveMind-b42": {
+    "__comp": "17896441",
+    "content": "377fd5d5"
+  },
+  "/about/company/business_plan/Competition/HivePulse-15b": {
+    "__comp": "17896441",
+    "content": "b55a18ad"
+  },
+  "/about/company/business_plan/Competition/hivetracks-5ed": {
+    "__comp": "17896441",
+    "content": "3191ffce"
+  },
+  "/about/company/business_plan/Competition/HoneyInstruments-905": {
+    "__comp": "17896441",
+    "content": "d5fa45db"
+  },
+  "/about/company/business_plan/Competition/i-bee-3cd": {
+    "__comp": "17896441",
+    "content": "fb15dfb4"
+  },
+  "/about/company/business_plan/Competition/InspectNext-baa": {
+    "__comp": "17896441",
+    "content": "0ed1453d"
+  },
+  "/about/company/business_plan/Competition/IntelligentHives-809": {
+    "__comp": "17896441",
+    "content": "f5d5c6c5"
+  },
+  "/about/company/business_plan/Competition/io-bee-f9f": {
+    "__comp": "17896441",
+    "content": "23e84963"
+  },
+  "/about/company/business_plan/Competition/OSBeehives-35b": {
+    "__comp": "17896441",
+    "content": "4320ac66"
+  },
+  "/about/company/business_plan/Competition/Pollenity-746": {
+    "__comp": "17896441",
+    "content": "80e6263b"
+  },
+  "/about/company/business_plan/Competition/Prohiver-966": {
+    "__comp": "17896441",
+    "content": "1b806c48"
+  },
+  "/about/company/business_plan/Competition/SMSVaga-df3": {
+    "__comp": "17896441",
+    "content": "5b33f57d"
+  },
+  "/about/company/business_plan/Competition/Solutionbee-1b6": {
+    "__comp": "17896441",
+    "content": "cb09c802"
+  },
+  "/about/company/business_plan/Competition/Апипульс-82b": {
+    "__comp": "17896441",
+    "content": "3f0efcf7"
   },
   "/about/company/clients/-5c3": {
     "__comp": "17896441",
@@ -681,6 +865,10 @@
   "/about/company/Team/-fa9": {
     "__comp": "17896441",
     "content": "495d7765"
+  },
+  "/about/company/Team/🍰 Equity and fundraising plan-6a0": {
+    "__comp": "17896441",
+    "content": "1d30a2f7"
   },
   "/about/company/Team/Merchandise-858": {
     "__comp": "17896441",
@@ -1895,210 +2083,22 @@
     "__comp": "17896441",
     "content": "2564e957"
   },
-  "/research-c9c": {
+  "/research-640": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "69ce07ac"
     }
   },
-  "/research-c93": {
+  "/research-324": {
     "__comp": "a7bd4aaa",
     "__props": "262322ab"
   },
-  "/research-49d": {
+  "/research-947": {
     "__comp": "a94703ab"
   },
   "/research/-0df": {
     "__comp": "17896441",
     "content": "ca801a32"
-  },
-  "/research/Competition/-108": {
-    "__comp": "17896441",
-    "content": "eb328586"
-  },
-  "/research/Competition/🇦🇺 Beemate-8f6": {
-    "__comp": "17896441",
-    "content": "6528ac34"
-  },
-  "/research/Competition/🇦🇺 Purple Hive-8e2": {
-    "__comp": "17896441",
-    "content": "a225be62"
-  },
-  "/research/Competition/🇨🇦 Nectar-ff5": {
-    "__comp": "17896441",
-    "content": "ea898a3b"
-  },
-  "/research/Competition/🇩🇪 ApicAI-87f": {
-    "__comp": "17896441",
-    "content": "eb8c25be"
-  },
-  "/research/Competition/🇮🇱 BeeHero-0af": {
-    "__comp": "17896441",
-    "content": "292898cb"
-  },
-  "/research/Competition/🇮🇱 Beewise-95d": {
-    "__comp": "17896441",
-    "content": "829cff19"
-  },
-  "/research/Competition/🇳🇱 Beep NL-a5e": {
-    "__comp": "17896441",
-    "content": "8adcd357"
-  },
-  "/research/Competition/🇺🇸 Best Bees-bc9": {
-    "__comp": "17896441",
-    "content": "8f03604b"
-  },
-  "/research/Competition/🇺🇸 HiveGenie-bb5": {
-    "__comp": "17896441",
-    "content": "c6e68155"
-  },
-  "/research/Competition/3bee-5ca": {
-    "__comp": "17896441",
-    "content": "bf87e693"
-  },
-  "/research/Competition/AgriSound-30a": {
-    "__comp": "17896441",
-    "content": "007c1f8a"
-  },
-  "/research/Competition/ApiaryBook-7c7": {
-    "__comp": "17896441",
-    "content": "a2fe1a27"
-  },
-  "/research/Competition/ApiManager-7a4": {
-    "__comp": "17896441",
-    "content": "93433df3"
-  },
-  "/research/Competition/ApiZoom-7f4": {
-    "__comp": "17896441",
-    "content": "0df7fd1b"
-  },
-  "/research/Competition/BeeHiveMonitoring-563": {
-    "__comp": "17896441",
-    "content": "3d990a58"
-  },
-  "/research/Competition/BeehiveMonitoringUSA-0ba": {
-    "__comp": "17896441",
-    "content": "0cd1534a"
-  },
-  "/research/Competition/beehold.rs-6ed": {
-    "__comp": "17896441",
-    "content": "7374f1ca"
-  },
-  "/research/Competition/beeing-eff": {
-    "__comp": "17896441",
-    "content": "a6c6a0e5"
-  },
-  "/research/Competition/BeeLab-f73": {
-    "__comp": "17896441",
-    "content": "aa60bc2f"
-  },
-  "/research/Competition/BeeOrganizer-e64": {
-    "__comp": "17896441",
-    "content": "10702bc7"
-  },
-  "/research/Competition/BeePlus Beekeeping-b2d": {
-    "__comp": "17896441",
-    "content": "6e86a4fa"
-  },
-  "/research/Competition/BeeSage-bd3": {
-    "__comp": "17896441",
-    "content": "2779049b"
-  },
-  "/research/Competition/beescanning-7be": {
-    "__comp": "17896441",
-    "content": "d12c7238"
-  },
-  "/research/Competition/Beetight 2-ce8": {
-    "__comp": "17896441",
-    "content": "00636c33"
-  },
-  "/research/Competition/BeeZee-a27": {
-    "__comp": "17896441",
-    "content": "c3e006e9"
-  },
-  "/research/Competition/Beezon-0d7": {
-    "__comp": "17896441",
-    "content": "8549d00d"
-  },
-  "/research/Competition/Broodminder-982": {
-    "__comp": "17896441",
-    "content": "3fdf8269"
-  },
-  "/research/Competition/BuzzBox-523": {
-    "__comp": "17896441",
-    "content": "8165e2de"
-  },
-  "/research/Competition/ForSage-8eb": {
-    "__comp": "17896441",
-    "content": "67aab1dd"
-  },
-  "/research/Competition/Gobuzzr-479": {
-    "__comp": "17896441",
-    "content": "20f821e6"
-  },
-  "/research/Competition/HIIVE Link-f55": {
-    "__comp": "17896441",
-    "content": "97be2b65"
-  },
-  "/research/Competition/HiveBloom-f1f": {
-    "__comp": "17896441",
-    "content": "cb688ccf"
-  },
-  "/research/Competition/HiveMind-d79": {
-    "__comp": "17896441",
-    "content": "d4cbf594"
-  },
-  "/research/Competition/HivePulse-bee": {
-    "__comp": "17896441",
-    "content": "e6c9ffed"
-  },
-  "/research/Competition/hivetracks-ff1": {
-    "__comp": "17896441",
-    "content": "476cb829"
-  },
-  "/research/Competition/HoneyInstruments-c75": {
-    "__comp": "17896441",
-    "content": "7d0d7c6f"
-  },
-  "/research/Competition/i-bee-f0b": {
-    "__comp": "17896441",
-    "content": "19a80fdc"
-  },
-  "/research/Competition/InspectNext-696": {
-    "__comp": "17896441",
-    "content": "0d2bba70"
-  },
-  "/research/Competition/IntelligentHives-89d": {
-    "__comp": "17896441",
-    "content": "fee0ed03"
-  },
-  "/research/Competition/io-bee-827": {
-    "__comp": "17896441",
-    "content": "c29c7e2c"
-  },
-  "/research/Competition/OSBeehives-538": {
-    "__comp": "17896441",
-    "content": "21f90c94"
-  },
-  "/research/Competition/Pollenity-5a5": {
-    "__comp": "17896441",
-    "content": "b893f156"
-  },
-  "/research/Competition/Prohiver-576": {
-    "__comp": "17896441",
-    "content": "8797d8fe"
-  },
-  "/research/Competition/SMSVaga-903": {
-    "__comp": "17896441",
-    "content": "5475c69c"
-  },
-  "/research/Competition/Solutionbee-0ef": {
-    "__comp": "17896441",
-    "content": "e06f7db0"
-  },
-  "/research/Competition/Апипульс-6be": {
-    "__comp": "17896441",
-    "content": "441076a3"
   },
   "/research/Datasets-5b5": {
     "__comp": "17896441",

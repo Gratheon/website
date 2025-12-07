@@ -1,0 +1,30 @@
+{
+  "id": "company/Competition/🇩🇪 ApicAI",
+  "title": "🇩🇪 ApicAI",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/🇩🇪 ApicAI.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/🇩🇪 ApicAI",
+  "permalink": "/about/company/Competition/🇩🇪 ApicAI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://apic.ai/",
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 1,
+    "threat_level": "VERY HIGH",
+    "target_market": "Professional/Semi-professional beekeepers in Europe",
+    "pricing": "350€ - 550€ per device"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇨🇦 Nectar",
+    "permalink": "/about/company/Competition/🇨🇦 Nectar"
+  },
+  "next": {
+    "title": "🇮🇱 BeeHero",
+    "permalink": "/about/company/Competition/🇮🇱 BeeHero"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "company/business_plan/Competition/HoneyInstruments",
+  "title": "HoneyInstruments",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/HoneyInstruments.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/HoneyInstruments",
+  "permalink": "/about/company/business_plan/Competition/HoneyInstruments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.honeyinstruments.com/en",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 5,
+    "threat_level": "MEDIUM",
+    "target_market": "Professional European beekeepers",
+    "location": "Europe (multi-language site)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HivePulse",
+    "permalink": "/about/company/business_plan/Competition/HivePulse"
+  },
+  "next": {
+    "title": "InspectNext",
+    "permalink": "/about/company/business_plan/Competition/InspectNext"
+  }
+}

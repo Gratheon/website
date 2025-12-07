@@ -1,0 +1,30 @@
+{
+  "id": "company/business_plan/Competition/ApiaryBook",
+  "title": "ApiaryBook",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/ApiaryBook.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/ApiaryBook",
+  "permalink": "/about/company/business_plan/Competition/ApiaryBook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://apiarybook.com",
+    "products": "📱Web-app",
+    "priority": 5,
+    "threat_level": "LOW",
+    "target_market": "European beekeepers",
+    "location": "Romania"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ApiZoom",
+    "permalink": "/about/company/business_plan/Competition/ApiZoom"
+  },
+  "next": {
+    "title": "BeeHiveMonitoring",
+    "permalink": "/about/company/business_plan/Competition/BeeHiveMonitoring"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "company/business_plan/Competition/🇺🇸 HiveGenie",
+  "title": "🇺🇸 HiveGenie",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/🇺🇸 HiveGenie.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/🇺🇸 HiveGenie",
+  "permalink": "/about/company/business_plan/Competition/🇺🇸 HiveGenie",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.hivegenie.com/our-product/",
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 5,
+    "threat_level": "MEDIUM",
+    "target_market": "US beekeepers, pollination services",
+    "location": "USA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇺🇸 Best Bees",
+    "permalink": "/about/company/business_plan/Competition/🇺🇸 Best Bees"
+  },
+  "next": {
+    "title": "🫀 Culture and values",
+    "permalink": "/about/company/values/"
+  }
+}

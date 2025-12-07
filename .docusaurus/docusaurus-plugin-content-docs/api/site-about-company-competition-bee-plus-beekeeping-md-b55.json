@@ -1,0 +1,26 @@
+{
+  "id": "company/Competition/BeePlus Beekeeping",
+  "title": "BeePlus Beekeeping",
+  "description": "",
+  "source": "@site/about/company/Competition/BeePlus Beekeeping.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/BeePlus Beekeeping",
+  "permalink": "/about/company/Competition/BeePlus Beekeeping",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app",
+    "url": "https://www.hive-tool.com/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BeeOrganizer",
+    "permalink": "/about/company/Competition/BeeOrganizer"
+  },
+  "next": {
+    "title": "BeeSage",
+    "permalink": "/about/company/Competition/BeeSage"
+  }
+}

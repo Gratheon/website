@@ -1,0 +1,29 @@
+{
+  "id": "company/Competition/Broodminder",
+  "title": "Broodminder",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/Broodminder.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/Broodminder",
+  "permalink": "/about/company/Competition/Broodminder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "broodminder.com",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 3,
+    "threat_level": "MEDIUM-HIGH",
+    "target_market": "Hobby and Semi-professional beekeepers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beezon",
+    "permalink": "/about/company/Competition/Beezon"
+  },
+  "next": {
+    "title": "BuzzBox",
+    "permalink": "/about/company/Competition/BuzzBox"
+  }
+}

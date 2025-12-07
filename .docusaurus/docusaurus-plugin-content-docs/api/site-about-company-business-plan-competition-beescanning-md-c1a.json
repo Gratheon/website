@@ -1,0 +1,30 @@
+{
+  "id": "company/business_plan/Competition/beescanning",
+  "title": "beescanning",
+  "description": "Overview",
+  "source": "@site/about/company/business_plan/Competition/beescanning.md",
+  "sourceDirName": "company/business_plan/Competition",
+  "slug": "/company/business_plan/Competition/beescanning",
+  "permalink": "/about/company/business_plan/Competition/beescanning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.beescanning.com/",
+    "products": "📱Web-app",
+    "priority": 6,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "Global beekeepers",
+    "specialization": "QR code scanning for hive tracking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "beeing",
+    "permalink": "/about/company/business_plan/Competition/beeing"
+  },
+  "next": {
+    "title": "hivetracks",
+    "permalink": "/about/company/business_plan/Competition/hivetracks"
+  }
+}

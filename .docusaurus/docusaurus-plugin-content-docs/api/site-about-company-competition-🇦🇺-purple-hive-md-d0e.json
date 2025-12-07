@@ -1,0 +1,31 @@
+{
+  "id": "company/Competition/🇦🇺 Purple Hive",
+  "title": "🇦🇺 Purple Hive",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/🇦🇺 Purple Hive.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/🇦🇺 Purple Hive",
+  "permalink": "/about/company/Competition/🇦🇺 Purple Hive",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.vimanatech.com.au/about",
+    "products": "👁️‍🗨️ Entrance Observer",
+    "priority": 4,
+    "threat_level": "LOW-MEDIUM",
+    "target_market": "Australian beekeepers (varroa biosecurity)",
+    "location": "Australia",
+    "specialization": "Varroa mite detection"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🇦🇺 Beemate",
+    "permalink": "/about/company/Competition/🇦🇺 Beemate"
+  },
+  "next": {
+    "title": "🇨🇦 Nectar",
+    "permalink": "/about/company/Competition/🇨🇦 Nectar"
+  }
+}

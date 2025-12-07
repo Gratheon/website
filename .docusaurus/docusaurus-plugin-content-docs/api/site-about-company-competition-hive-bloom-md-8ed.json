@@ -1,0 +1,25 @@
+{
+  "id": "company/Competition/HiveBloom",
+  "title": "HiveBloom",
+  "description": "",
+  "source": "@site/about/company/Competition/HiveBloom.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/HiveBloom",
+  "permalink": "/about/company/Competition/HiveBloom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "products": "📱Web-app"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HIIVE Link",
+    "permalink": "/about/company/Competition/HIIVE Link"
+  },
+  "next": {
+    "title": "HiveMind",
+    "permalink": "/about/company/Competition/HiveMind"
+  }
+}

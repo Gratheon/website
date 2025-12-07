@@ -1,0 +1,29 @@
+{
+  "id": "company/Competition/3bee",
+  "title": "3bee",
+  "description": "Overview",
+  "source": "@site/about/company/Competition/3bee.md",
+  "sourceDirName": "company/Competition",
+  "slug": "/company/Competition/3bee",
+  "permalink": "/about/company/Competition/3bee",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "url": "https://www.3bee.com/en/",
+    "products": "🌡️ Beehive IoT sensors",
+    "priority": 4,
+    "threat_level": "MEDIUM",
+    "target_market": "European beekeepers, ESG/Corporate partnerships"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commercial projects",
+    "permalink": "/about/company/Competition/"
+  },
+  "next": {
+    "title": "AgriSound",
+    "permalink": "/about/company/Competition/AgriSound"
+  }
+}
