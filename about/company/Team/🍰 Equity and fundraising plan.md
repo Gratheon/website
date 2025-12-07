@@ -4,7 +4,7 @@ sidebar_position: 9
 
 
 <div style={{ height:150, overflow:"hidden", verticalAlign:"middle", marginBottom:10, borderRadius:5 }}><div style={{ marginTop: "-20%" }}>
-![](../img/pie.jpg)
+![](../../img/pie.jpg)
 </div></div>
 
 💡 This page is summarizing the long-term **plan** of the equity program for the employees, founders, investors and advisors. At this phase these are just fantasies, but it should give insight for investors and potential employees into our [values](values/values.md) and reasoning
@@ -28,12 +28,12 @@ This is an approximate expected distribution of shares over time.
 - As company matures, founders shares are diluted in order to create team-centric culture where so team pool is expanded
 	- every employee owns options
 	- amount of options depends on:
-		- role (responsibility)
-		- impact (knowledge)
-		- peer review (compassion)
-		- performance (revenue generation)
+	- role (responsibility)
+	- impact (knowledge)
+	- peer review (compassion)
+	- performance (revenue generation)
 
-![](img/Screenshot%202024-12-06%20at%2000.30.39.png)
+![](../img/Screenshot%202024-12-06%20at%2000.30.39.png)
 
 
 |                                                             | angel phase 🪽                                         | pre-seed 🫛                                                            | seed 🌱                                                                    | series A 🌳                                 | series B 🌳  |

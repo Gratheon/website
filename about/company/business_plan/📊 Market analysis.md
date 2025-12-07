@@ -31,29 +31,29 @@ Source - [https://www.facebook.com/groups/108065015894483/posts/7747932681907640
 
 Below - age distribution of estonian beekeepers depending on amount of owned bee colonies, that answered a poll. The older you are, the less likely you are to won lots of colonies.
 
-![](img/Screenshot%202024-12-02%20at%2019.05.27.png)
+![](../img/Screenshot%202024-12-02%20at%2019.05.27.png)
 Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf
 
 ## Legal entity
 The more you bee colonies you own, the more likely you to use a company (green) or private enterpreneur (blue) legal entity
 
-![](img/Screenshot%202024-12-02%20at%2019.10.12.png)
+![](../img/Screenshot%202024-12-02%20at%2019.10.12.png)
 Source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf
 ### Geographic distribution 
-![](img/Pasted%20image%2020241202184428.png)
+![](../img/Pasted%20image%2020241202184428.png)
 
 ### Honey production and cost
 We see that on average per colony, we have ~23kg per year
-![](img/Screenshot%202024-12-02%20at%2019.29.31.png)
+![](../img/Screenshot%202024-12-02%20at%2019.29.31.png)
 ( source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
 
 
-![](img/Screenshot%202024-12-02%20at%2019.32.44.png)
+![](../img/Screenshot%202024-12-02%20at%2019.32.44.png)
 (source - https://sekkumine.mesinduskogu.ee/wp-content/uploads/2024/07/Eesti-mesindussektori-struktuur-2021.pdf )
 
-<object data={require('./img/uuring-2016-mesindussektor-2015.pdf').default} type="application/pdf" width="100%" height="800"></object>
+<object data={require('../img/uuring-2016-mesindussektor-2015.pdf').default} type="application/pdf" width="100%" height="800"></object>
 
-![Eesti mesindussektori struktuur](img/uuring-2016-mesindussektor-2015.pdf)
+![Eesti mesindussektori struktuur](../img/uuring-2016-mesindussektor-2015.pdf)
 
 
 
@@ -64,8 +64,8 @@ We see that on average per colony, we have ~23kg per year
 - 101 M colonies in 2021 - FAO ([source](https://www.notion.so/Marketing-Statistics-06c02962e8294bb98756a75155ce7a6b?pvs=21))
 
 ### Number of bees
-![](img/Pasted%20image%2020241202185912.png)
-![](img/Pasted%20image%2020241202185925.png)
+![](../img/Pasted%20image%2020241202185912.png)
+![](../img/Pasted%20image%2020241202185925.png)
 [https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en](https://agriculture.ec.europa.eu/news/beekeeping-sector-results-pilot-study-honey-bee-selection-2022-03-15_en)
 
 ### Amount of beekeepers in EU countries
