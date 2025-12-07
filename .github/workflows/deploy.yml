@@ -8,30 +8,29 @@ on:
 jobs:
   deploy:
     runs-on: self-hosted
+    defaults:
+      run:
+        working-directory: /www/website/
     steps:
-      - name: reset
-        working-directory: /www/website/
-        run: git reset --hard && rm -rf /www/website/.docusaurus
-      - name: pull
-        working-directory: /www/website/
-        run: git reset --hard && git pull
-      - name: setup env and install
-        working-directory: /www/website/
+      - name: pull latest code
         run: |
-          export NVM_DIR="$HOME/.nvm"
-          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-          export TMPDIR="$HOME/tmp"
-          mkdir -p "$TMPDIR"
-          nvm use
-          export PNPM_HOME="$HOME/.local/share/pnpm"
-          if ! command -v pnpm &> /dev/null; then
-            curl -fsSL https://get.pnpm.io/install.sh | sh -
-          fi
-          case ":$PATH:" in
-            *":$PNPM_HOME:"*) ;;
-            *) export PATH="$PNPM_HOME:$PATH" ;;
-          esac
+          git reset --hard
+          git pull
+          rm -rf .docusaurus
+      - name: install dependencies
+        run: |
+          source ./setup-env.sh
           pnpm install
-      - name: restart
-        working-directory: /www/website/
-        run: chmod +x restart.sh && ./restart.sh
+      - name: build site
+        run: |
+          source ./setup-env.sh
+          rm -rf public_new
+          pnpm exec docusaurus build --out-dir public_new
+      - name: atomic deploy
+        run: |
+          rm -rf public_old
+          [ -d "public" ] && mv public public_old
+          mv public_new public
+          rm -rf public_old
+      - name: restart services
+        run: ./restart.sh
