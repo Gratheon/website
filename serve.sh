@@ -12,5 +12,5 @@ if [ ! -d "build" ]; then
 fi
 
 echo "Starting docusaurus serve..."
-exec npx docusaurus serve --host 0.0.0.0 --port 3000 --no-open
+exec npx docusaurus serve --host 0.0.0.0 --port 8081 --no-open
 
