@@ -2009,15 +2009,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4c1'),
+    component: ComponentCreator('/docs', 'c80'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '37b'),
+        component: ComponentCreator('/docs', '251'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '22a'),
+            component: ComponentCreator('/docs', 'e36'),
             routes: [
               {
                 path: '/docs/API/',
@@ -2466,6 +2466,12 @@ export default [
               {
                 path: '/docs/web-app/features/hive-management',
                 component: ComponentCreator('/docs/web-app/features/hive-management', '14f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/web-app/features/hive-placement-planner',
+                component: ComponentCreator('/docs/web-app/features/hive-placement-planner', 'aef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

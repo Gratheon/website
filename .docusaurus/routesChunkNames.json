@@ -1811,17 +1811,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-volunteer-8-a-3-7de"
   },
-  "/docs-4c1": {
+  "/docs-c80": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-37b": {
+  "/docs-251": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-22a": {
+  "/docs-e36": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/API/-a9c": {
@@ -2123,6 +2123,10 @@
   "/docs/web-app/features/hive-management-14f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-web-app-features-hive-management-593-dd9"
+  },
+  "/docs/web-app/features/hive-placement-planner-aef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-web-app-features-hive-placement-plannera-7-a-279"
   },
   "/docs/web-app/features/join-colonies-46b": {
     "__comp": "__comp---theme-doc-item-178-a40",

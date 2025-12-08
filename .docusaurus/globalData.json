@@ -381,6 +381,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/hive-placement-planner",
+              "path": "/docs/web-app/features/hive-placement-planner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/features/join-colonies",
               "path": "/docs/web-app/features/join-colonies",
               "sidebar": "tutorialSidebar"
