@@ -269,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '984'),
+    component: ComponentCreator('/about', 'b90'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '870'),
+        component: ComponentCreator('/about', '06d'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'dc6'),
+            component: ComponentCreator('/about', 'cb3'),
             routes: [
               {
                 path: '/about/',
@@ -672,6 +672,12 @@ export default [
               {
                 path: '/about/company/prototron_dataroom/MARKETING_MENTOR_PREP',
                 component: ComponentCreator('/about/company/prototron_dataroom/MARKETING_MENTOR_PREP', 'c05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/prototron_dataroom/PRODUCT_DEVELOPMENT_MENTOR_PREP',
+                component: ComponentCreator('/about/company/prototron_dataroom/PRODUCT_DEVELOPMENT_MENTOR_PREP', '6c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
