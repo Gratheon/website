@@ -30,7 +30,7 @@ Gratheon is an Estonian deeptech startup building a comprehensive beehive monito
 - Pre-seed bootstrapping phase
 - Participating in Prototron accelerator (€40k target)
 - Fundraising plan: Angel (€40k) → Pre-seed (€1M) → Seed (€5M)
-- Trademark filed Dec 2025 (Estonian coverage, €300)
+- Trademark filed Dec 2025 (Estonian coverage, €300) - **Amendment required Dec 8: Estonian translations submitted, word protection issue being resolved**
 
 **Primary Strengths:**
 - Mission-driven brand with strong symbolism ("Harmonize humanity with nature")

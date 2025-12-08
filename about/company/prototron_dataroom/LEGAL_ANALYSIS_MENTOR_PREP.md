@@ -126,19 +126,27 @@ Gratheon OÜ is an Estonian startup developing smart beehive hardware and SaaS a
 6. **No trade secret protection** - all algorithms and processes are public
 7. **Brand is the only moat** - extremely risky for hardware business
 
-### 2.2 Trademark Protection ⚠️ PENDING (ESTONIA ONLY)
-**Status:** Estonian trademark application filed December 7, 2025 with Patendiamet
+### 2.2 Trademark Protection ⚠️ PENDING (ESTONIA ONLY - AMENDMENT REQUIRED)
+**Status:** Estonian trademark application M2025001179 filed December 7, 2025 with Patendiamet
 
-**Filed Protection:**
-- ✅ Combined logo + text mark "Gratheon" filed with Estonian Patent Office
-- ✅ Class 9 (electronic apparatus, IoT, software)
-- ✅ Class 42 (SaaS, cloud computing, AI services)
-- ✅ Class 7 (robotics, machinery)
-- ✅ Cost: €300 (significantly cheaper than EU-wide €1,000)
+**🚨 CRITICAL UPDATE (December 8, 2025):**
+Patent Office (Ave Burget) feedback received - application requires immediate amendments:
+- ❌ **Class descriptions in English not accepted** - must be in Estonian
+- ❌ **Filed as figurative mark only** - word "Gratheon" not included as protectable element
+- ⏰ **Response deadline:** December 10, 2025 (2 days)
+- ✅ **Estonian translations submitted** (Classes 7, 9, 42)
+- ❓ **Clarification requested:** Can current application be amended to include word protection, or separate wordmark filing needed?
+
+**Filed Protection (Pending Amendment):**
+- ⚠️ Logo mark filed (but word "Gratheon" may not be protected - issue being clarified)
+- ✅ Class 9 (electronic apparatus, IoT, software) - Estonian translation submitted Dec 8
+- ✅ Class 42 (SaaS, cloud computing, AI services) - Estonian translation submitted Dec 8
+- ✅ Class 7 (robotics, machinery) - Estonian translation submitted Dec 8
+- ✅ Cost: €300 (may need additional €300 for separate wordmark if amendment not possible)
 - ✅ Blog post published announcing filing
 - ✅ Website updated with ™ symbol and pending trademark notice
 - **Coverage:** Estonia only
-- **Expected registration:** Q2 2026 (2-3 months examination + 3 months opposition)
+- **Expected registration:** Q2 2026 (pending successful amendment resolution)
 
 **Remaining Gaps:**
 - EU-wide protection not filed - only covers Estonia, not other 26 EU countries (+€1,000 for EUIPO)
