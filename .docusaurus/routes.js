@@ -269,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '763'),
+    component: ComponentCreator('/about', '9c1'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'f90'),
+        component: ComponentCreator('/about', '593'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '80d'),
+            component: ComponentCreator('/about', '183'),
             routes: [
               {
                 path: '/about/',
@@ -1920,6 +1920,12 @@ export default [
               {
                 path: '/about/products/web_app/starter-tier/🔎 Inspection management',
                 component: ComponentCreator('/about/products/web_app/starter-tier/🔎 Inspection management', 'd1e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/starter-tier/🗺️ Hive placement planner',
+                component: ComponentCreator('/about/products/web_app/starter-tier/🗺️ Hive placement planner', '623'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

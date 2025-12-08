@@ -1825,6 +1825,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/starter-tier/🗺️ Hive placement planner",
+              "path": "/about/products/web_app/starter-tier/🗺️ Hive placement planner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
               "path": "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
               "sidebar": "tutorialSidebar"
