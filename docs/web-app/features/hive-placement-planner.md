@@ -457,7 +457,7 @@ handleCanvasMouseUp() {
 ### 📊 Performance Considerations
 
 **Rendering Optimization**
-- Canvas redraws on state change (acceptable for <100 objects)
+- Canvas redraws on state change (acceptable for `<100` objects)
 - Shadow calculations: O(n) where n = obstacles + hives
 - Map-based placements: O(1) lookups
 - ResizeObserver throttled by browser (~16ms)

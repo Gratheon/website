@@ -102,14 +102,14 @@ Gratheon is an Estonian deeptech startup building beehive monitoring IoT hardwar
 | Category | Metric | Target | Current Status |
 |----------|--------|--------|----------------|
 | **Cash** | Bank balance | Track weekly | Unknown |
-| **Cash** | Monthly burn rate | <€5k pre-funding | Unknown |
+| **Cash** | Monthly burn rate | `<€5k` pre-funding | Unknown |
 | **Cash** | Runway (months) | >12 months | Unknown |
 | **Revenue** | MRR (Monthly Recurring Revenue) | €500 by Q2 2026 | Unknown (likely €0) |
 | **Revenue** | ARR (Annual Recurring Revenue) | €100k by 2027 | Unknown |
 | **Customers** | Paying customers | 50 by Q4 2026 | Unknown (200 registered, 0 paying?) |
 | **Customers** | Free → Paid conversion rate | >5% | Unknown |
-| **Customers** | Monthly churn rate | <5% | Unknown |
-| **Unit Econ** | CAC (Customer Acquisition Cost) | <€100 | Unknown |
+| **Customers** | Monthly churn rate | `<5%` | Unknown |
+| **Unit Econ** | CAC (Customer Acquisition Cost) | `<€100` | Unknown |
 | **Unit Econ** | LTV (Lifetime Value) | >€500 | Unknown |
 | **Unit Econ** | LTV/CAC ratio | >3:1 | Unknown |
 | **Margins** | SaaS gross margin | >70% | Unknown |
@@ -169,7 +169,7 @@ Gratheon is an Estonian deeptech startup building beehive monitoring IoT hardwar
 
 **Questions for Mentor:**
 1. At 200 registered users with €0 MRR, should we focus on conversion before adding more features?
-2. What's acceptable CAC for €15/mo product? (Rule of thumb: <€50?)
+2. What's acceptable CAC for €15/mo product? (Rule of thumb: `<€50`?)
 3. How to estimate AI inference costs before scaling? (Run pilot with 10 paying users?)
 4. Should we delay hardware launch until SaaS unit economics proven?
 
@@ -651,7 +651,7 @@ Timeline to 20 sponsors:
    - How to set up billing for usage-based Flexible tier (€100/1000 tokens)?
 
 5. **Unit Economics:**
-   - What's acceptable CAC for €15/mo SaaS product in niche market? (<€50? <€100?)
+   - What's acceptable CAC for €15/mo SaaS product in niche market? (&lt;€50? &lt;€100?)
    - How to estimate AI inference costs before scaling? (Pilot with 10 paying users and measure?)
    - What's realistic hardware gross margin for low-volume (20-100 units/year) deeptech? (30%? 50%?)
 
@@ -669,7 +669,7 @@ Timeline to 20 sponsors:
 
 8. **Revenue Forecasting:**
    - What's realistic conversion rate from free to paid for niche B2B SaaS? (5%? 10%? 20%?)
-   - What's acceptable churn rate for annual subscription? (<5%? <10%?)
+   - What's acceptable churn rate for annual subscription? (`<5%`? `<10%`?)
    - How to forecast blended revenue (hardware one-time + SaaS recurring)?
 
 ---

@@ -750,7 +750,7 @@ No evidence of:
 - **NPS:** Unknown ❌ (target: 30+ "would recommend")
 - **Test Coverage:** Low ❌ (target: 60% for critical paths)
 - **Deployment Frequency:** Unknown ❌ (target: weekly releases)
-- **Bug Escape Rate:** Unknown ❌ (target: <5 P0 bugs/month)
+- **Bug Escape Rate:** Unknown ❌ (target: `<5` P0 bugs/month)
 
 ---
 

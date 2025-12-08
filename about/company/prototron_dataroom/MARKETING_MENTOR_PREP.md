@@ -592,7 +592,7 @@ Footer:
 **Retention:**
 - User activation: % of signups who upload first frame (target: 40%)
 - Monthly active users: Track existing users → +20%
-- Churn rate: Track paid subscriber cancellations (target: <10%/month)
+- Churn rate: Track paid subscriber cancellations (target: `<10%`/month)
 
 ---
 
