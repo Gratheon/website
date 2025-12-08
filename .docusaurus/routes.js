@@ -269,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'b90'),
+    component: ComponentCreator('/about', 'b49'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '06d'),
+        component: ComponentCreator('/about', 'e80'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', 'cb3'),
+            component: ComponentCreator('/about', 'ba3'),
             routes: [
               {
                 path: '/about/',
@@ -660,6 +660,12 @@ export default [
               {
                 path: '/about/company/Processes/🖥️ Services and tools that we use',
                 component: ComponentCreator('/about/company/Processes/🖥️ Services and tools that we use', '537'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP',
+                component: ComponentCreator('/about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP', '3db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
