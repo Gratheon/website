@@ -143,18 +143,10 @@ Patent Office (Ave Burget) feedback received - application requires immediate am
 - ✅ Class 42 (SaaS, cloud computing, AI services) - Estonian translation submitted Dec 8
 - ✅ Class 7 (robotics, machinery) - Estonian translation submitted Dec 8
 - ✅ Cost: €300 (may need additional €300 for separate wordmark if amendment not possible)
-- ✅ Blog post published announcing filing
-- ✅ Website updated with ™ symbol and pending trademark notice
-- **Coverage:** Estonia only
-- **Expected registration:** Q2 2026 (pending successful amendment resolution)
-
-**Remaining Gaps:**
-- EU-wide protection not filed - only covers Estonia, not other 26 EU countries (+€1,000 for EUIPO)
-- Wordmark only (text without logo) not filed - consider for broader protection (+€300 Estonian)
 - Product name trademarks (e.g., "Entrance Observer", "Robotic Beehive") not filed
 - International protection (Madrid Protocol) not yet pursued
 
-**Recommendation Priority:** HIGH - Consider EU-wide filing if expanding beyond Estonia
+- **Expected registration:** Q2 2026 (pending successful amendment resolution)
 
 **Actions Taken:**
 - Blog post: "Gratheon Trademark Filed" (December 7, 2025)

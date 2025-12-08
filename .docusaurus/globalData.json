@@ -780,6 +780,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/prototron_dataroom/FINANCE_MENTOR_PREP",
+              "path": "/about/company/prototron_dataroom/FINANCE_MENTOR_PREP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP",
               "path": "/about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP",
               "sidebar": "tutorialSidebar"
