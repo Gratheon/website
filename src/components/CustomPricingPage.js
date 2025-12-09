@@ -491,9 +491,9 @@ export default function CustomPricingPage() {
       </div>
     </div> {/* End addon-section */}
 
-    <h2>Hardware Devices</h2>
+      <h2>Hardware Devices</h2>
 
-    <p>If you buy a device, you are not vendor-locked and we do not force you to pay for web-app subscription, but it's much less hassle for you and this would support us in the long term as a company. If you choose to setup fully local integration and manage data storage yourself, you can use our docs.</p>
+      <p>If you buy a device, you are not vendor-locked and we do not force you to pay for web-app subscription, but it's much less hassle for you and this would support us in the long term as a company. If you choose to setup fully local integration and manage data storage yourself, you can use our docs.</p>
 
 
       <div className="hardware-devices-container">
@@ -608,6 +608,6 @@ export default function CustomPricingPage() {
         <p><strong>Note:</strong> Each hardware device operates off-grid. For integration with web-app, a subscription fee must be used that covers data management services specific to that device</p>
         <p>* Tokens are valid for 1 year. Unused tokens do not roll over.</p>
       </div>
-    </div> {/* End pricing-page-wrapper */}
+    </div>
   );
 }
