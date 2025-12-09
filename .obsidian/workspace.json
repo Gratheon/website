@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/scales/scales.md",
+                "file": "docs/beehive-sensors/components/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scales"
+              "title": "index"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "ef1831a6beba9818",
   "lastOpenFiles": [
+    "about/products/scales/scales.md",
     "about/products/web_app/starter-tier/🗺️ Hive placement planner.md",
     "about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP.md",
     "docs/web-app/features/hive-placement-planner.md",
@@ -225,7 +226,6 @@
     "docs/web-app/features/timeseries-analytics.md",
     "about/products/web_app/pro-tier/timeseries_data_analytics.md",
     "docs/web-app/features/telemetry-storage.md",
-    "about/products/web_app/pro-tier/hive_telemetry_storage.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }
