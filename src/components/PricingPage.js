@@ -14,8 +14,13 @@ export default function PricingPage() {
         <div className="pricing-page-header">
           <h1 className="pricing-page-title">⚖️ Pricing Plans</h1>
           <p className="pricing-page-subtitle">
-            Choose the plan that best fits your beekeeping needs. Our subscription model is designed to support beekeepers of all sizes.
+            Choose the plan that best fits your beekeeping needs. Our flexible subscription model supports beekeepers from hobbyists to large operations.
           </p>
+          <div className="pricing-highlight-bar">
+            <span className="highlight-item">🟡 Starter - Perfect for beginners</span>
+            <span className="highlight-item">🟢 Professional - For serious beekeepers</span>
+            <span className="highlight-item">🔵 Flexible - One-time purchase</span>
+          </div>
         </div>
         
         <div className="pricing-container">
@@ -27,10 +32,12 @@ export default function PricingPage() {
             </div>
             <div className="pricing-card-body">
               <ul className="pricing-card-features">
-                <li>Up to 5 hives</li>
-                <li>20 frames per hive max</li>
-                <li>20 images per day max</li>
-                <li>1 year image retention</li>
+                <li>🆓 Always free</li>
+                <li>📦 Up to 5 hives</li>
+                <li>🖼️ 20 frames per hive max</li>
+                <li>📸 20 images per day max</li>
+                <li>💾 1 year image retention</li>
+                <li>💬 Community support</li>
               </ul>
             </div>
             <div className="pricing-card-footer">
@@ -52,10 +59,12 @@ export default function PricingPage() {
             </div>
             <div className="pricing-card-body">
               <ul className="pricing-card-features">
-                <li>1 user max</li>
-                <li>Up to 20 hives</li>
-                <li>40 frames per hive</li>
-                <li>2 years image retention</li>
+                <li>✅ 1 user account</li>
+                <li>📦 Up to 20 hives</li>
+                <li>🖼️ 40 frames per hive</li>
+                <li>💾 2 years image retention</li>
+                <li>📧 Email support</li>
+                <li>📱 Mobile app access</li>
               </ul>
             </div>
             <div className="pricing-card-footer">
@@ -63,7 +72,7 @@ export default function PricingPage() {
             </div>
           </div>
           
-          <div className="pricing-card professional">
+          <div className="pricing-card professional featured">
             <div className="pricing-card-header">
               <div className="pricing-card-title">Professional</div>
               <div className="pricing-card-price">
@@ -77,10 +86,13 @@ export default function PricingPage() {
             </div>
             <div className="pricing-card-body">
               <ul className="pricing-card-features">
-                <li>Up to 50 users</li>
-                <li>Up to 10,000 hives</li>
-                <li>60 frames per hive max</li>
-                <li>7 days video retention</li>
+                <li>👥 Up to 50 users</li>
+                <li>🏭 Up to 10,000 hives</li>
+                <li>🖼️ 60 frames per hive max</li>
+                <li>🎥 7 days video retention</li>
+                <li>📊 Advanced analytics</li>
+                <li>🔧 Priority support</li>
+                <li>🚀 API access</li>
               </ul>
             </div>
             <div className="pricing-card-footer">
@@ -88,7 +100,7 @@ export default function PricingPage() {
             </div>
           </div>
 
-          <div className="pricing-card flexible">
+          <div className="pricing-card flexible featured">
             <div className="pricing-card-header">
               <div className="pricing-card-title">Flexible</div>
               <div className="pricing-card-price">€100<span style={{fontSize: "1rem"}}> one-time</span></div>
@@ -96,15 +108,74 @@ export default function PricingPage() {
             </div>
             <div className="pricing-card-body">
               <ul className="pricing-card-features">
-                <li>No recurring payments</li>
-                <li>Basic feature access</li>
-                <li>Community support</li>
-                <li>Lifetime access</li>
+                <li>💰 No recurring payments</li>
+                <li>🔑 Lifetime access</li>
+                <li>📊 Basic features</li>
+                <li>💬 Community support</li>
+                <li>📱 Mobile app access</li>
+                <li>🏠 Self-hosted option</li>
               </ul>
             </div>
             <div className="pricing-card-footer">
               <Link to="#" className="pricing-button">Buy Once</Link>
             </div>
+          </div>
+        </div>
+
+        <div className="plan-comparison-section">
+          <h2>Plan Comparison</h2>
+          <div className="comparison-table-container">
+            <table className="comparison-table">
+              <thead>
+                <tr>
+                  <th>Feature</th>
+                  <th>Community</th>
+                  <th>Starter</th>
+                  <th>Professional</th>
+                  <th>Flexible</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Monthly Cost</strong></td>
+                  <td>€0</td>
+                  <td>€22</td>
+                  <td>€55</td>
+                  <td>€0*</td>
+                </tr>
+                <tr>
+                  <td><strong>Yearly Option</strong></td>
+                  <td>-</td>
+                  <td>€220 (17% off)</td>
+                  <td>€599 (9% off)</td>
+                  <td>€100 one-time</td>
+                </tr>
+                <tr>
+                  <td><strong>Max Hives</strong></td>
+                  <td>5</td>
+                  <td>20</td>
+                  <td>10,000</td>
+                  <td>Unlimited*</td>
+                </tr>
+                <tr>
+                  <td><strong>Users</strong></td>
+                  <td>1</td>
+                  <td>1</td>
+                  <td>50</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td><strong>Support</strong></td>
+                  <td>Community</td>
+                  <td>Email</td>
+                  <td>Priority</td>
+                  <td>Community</td>
+                </tr>
+              </tbody>
+            </table>
+            <p style={{fontSize: "0.85rem", color: "var(--ifm-color-emphasis-600)", marginTop: "1rem"}}>
+              * Flexible plan includes basic features with lifetime access after one-time purchase
+            </p>
           </div>
         </div>
 
@@ -147,6 +218,18 @@ export default function PricingPage() {
               </tr>
             </tbody>
           </table>
+        </div>
+
+        <div className="pricing-cta-section">
+          <h2>Ready to get started?</h2>
+          <p>Join thousands of beekeepers who trust Gratheon to manage their apiaries effectively.</p>
+          <div className="cta-buttons">
+            <Link to="/account/register" className="cta-button primary">Start Free Trial</Link>
+            <Link to="/contact" className="cta-button secondary">Contact Sales</Link>
+          </div>
+          <p className="cta-note">
+            All plans include a 14-day free trial. No credit card required for Community plan.
+          </p>
         </div>
       </div>
     </Layout>

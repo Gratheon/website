@@ -1,4 +1,176 @@
-/* Pricing page specific styles */
+/* Pricing page header styles */
+.pricing-page-wrapper {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.pricing-page-title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, #FFD900, #2f8b0b, #0248ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.pricing-page-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.plan-comparison-section {
+  margin: 4rem 0;
+}
+
+.plan-comparison-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.comparison-table-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.comparison-table {
+  width: 100%;
+  max-width: 800px;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  margin-bottom: 1rem;
+}
+
+.comparison-table th {
+  background: linear-gradient(135deg, var(--ifm-color-primary-light), var(--ifm-color-primary));
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.comparison-table td {
+  padding: 0.8rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.comparison-table tr:nth-child(even) {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.comparison-table td:first-child {
+  font-weight: 500;
+  text-align: left;
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+@media (max-width: 768px) {
+  .comparison-table {
+    font-size: 0.85rem;
+  }
+
+  .comparison-table th,
+  .comparison-table td {
+    padding: 0.6rem 0.4rem;
+  }
+}
+
+.pricing-cta-section {
+  text-align: center;
+  margin-top: 4rem;
+  padding: 3rem 2rem;
+  background: linear-gradient(135deg, var(--ifm-color-primary-light), var(--ifm-color-primary-lighter));
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-cta-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-primary-darkest);
+}
+
+.pricing-cta-section p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.cta-button {
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+.cta-button.primary {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.cta-button.primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.cta-button.secondary {
+  background-color: transparent;
+  color: var(--ifm-color-primary-darkest);
+  border: 2px solid var(--ifm-color-primary);
+}
+
+.cta-button.secondary:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.cta-note {
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-600);
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .pricing-cta-section {
+    padding: 2rem 1rem;
+  }
+
+  .pricing-cta-section h2 {
+    font-size: 2rem;
+  }
+
+  .cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Pricing container styles */
 .pricing-container {
   display: flex;
   flex-wrap: wrap;
@@ -48,7 +220,34 @@
 
 .pricing-card-description {
   font-size: 0.9rem;
-  color: var(--ifm-color-emphasis-700);
+  color: var(--ifm-color-emphasis-800);
+}
+
+.pricing-highlight-bar {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+  padding: 0.8rem;
+  background-color: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+  flex-wrap: wrap;
+}
+
+.highlight-item {
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.3rem 0.8rem;
+  border-radius: 16px;
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+@media (max-width: 768px) {
+  .pricing-highlight-bar {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+  }
 }
 
 .pricing-card-body {
