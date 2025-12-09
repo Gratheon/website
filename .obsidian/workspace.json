@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hive placement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88c0d10615870a9c",
+  "active": "a8dd2de626a6cb91",
   "lastOpenFiles": [
     "docs/web-app/features/hive-placement-planner.md",
     "about/products/web_app/starter-tier/🗺️ Hive placement planner.md",
