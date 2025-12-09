@@ -184,6 +184,59 @@ export default function CustomPricingPage() {
             <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
           </div>
         </div>
+
+        {/* Enterprise Plan */}
+        <div className="pricing-card enterprise featured">
+          <div className="pricing-card-header">
+            <div className="pricing-card-title">Enterprise</div>
+            <div className="pricing-card-price">Custom Pricing</div>
+            <div className="pricing-card-description">
+              For large commercial operations with thousands of hives
+            </div>
+            <div style={{
+              background: '#666',
+              color: 'white',
+              padding: '4px 8px',
+              borderRadius: '4px',
+              fontSize: '0.75rem',
+              marginTop: '8px',
+              display: 'inline-block'
+            }}>
+              Contact Required
+            </div>
+          </div>
+          <div className="pricing-card-body">
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>🔬 Research data access & export</li>
+                <li>🛠️ Custom integrations & API development</li>
+                <li>🏢 On-premise deployment options</li>
+                <li>📞 24/7 priority support & maintenance</li>
+                <li>👥 Dedicated customer success manager</li>
+                <li>⚡ High-priority processing & SLA guarantees</li>
+                <li>🔐 Advanced security & compliance features</li>
+                <li>📊 Custom reporting & analytics dashboards</li>
+                <li>🌐 Multi-location management</li>
+                <li>📋 Custom training & onboarding</li>
+                <li>🔧 Custom feature development</li>
+              </ul>
+            </div>
+            <div className="pricing-limitations-section">
+              <h4>Scale</h4>
+              <ul className="pricing-card-features">
+                <li>🐝 1000+ hives supported</li>
+                <li>👥 Unlimited user accounts</li>
+                <li>⛄️ Unlimited data retention</li>
+                <li>📈 Real-time telemetry (1-sec resolution)</li>
+                <li>🚀 Priority processing queue</li>
+              </ul>
+            </div>
+          </div>
+          <div className="pricing-card-footer">
+            <Link to="mailto:enterprise@gratheon.com" className="pricing-button">Contact Enterprise Sales</Link>
+          </div>
+        </div>
       </div>
 
 
@@ -252,11 +305,9 @@ export default function CustomPricingPage() {
               <li style={{ marginBottom: '0.5rem' }}>🔔 Alert management & notifications</li>
               <li style={{ marginBottom: '0.5rem' }}>🎥 Video analytics processing</li>
               <li style={{ marginBottom: '0.5rem' }}>📲 SMS alert notifications</li>
-              <li style={{ marginBottom: '0.5rem' }}>🪝 Webhooks & API integrations</li>
-              <li style={{ marginBottom: '0.5rem' }}>📦 Unlimited hive management</li>
+              <li style={{ marginBottom: '0.5rem' }}>🪝 Basic webhooks & API integrations</li>
+              <li style={{ marginBottom: '0.5rem' }}>📦 Extra hive capacity beyond tier limits</li>
               <li style={{ marginBottom: '0.5rem' }}>🖼️ Advanced frame analysis</li>
-              <li style={{ marginBottom: '0.5rem' }}>🔬 Research data access & export</li>
-              <li style={{ marginBottom: '0.5rem' }}>🛠️ Custom integrations</li>
             </ul>
 
             <div style={{
