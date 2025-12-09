@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "88c0d10615870a9c",
+  "active": "d48a28b0037d20e3",
   "lastOpenFiles": [
     "about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP.md",
     "docs/web-app/features/hive-placement-planner.md",

@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'ca2'),
     exact: true
@@ -234,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '9c1'),
+    component: ComponentCreator('/about', '6ef'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '593'),
+        component: ComponentCreator('/about', 'e7c'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '183'),
+            component: ComponentCreator('/about', '02e'),
             routes: [
               {
                 path: '/about/',
@@ -1559,6 +1594,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary', '386'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/products/web_app/hobbyist-tier/📦 Apiary management',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/📦 Apiary management', 'bef'),
                 exact: true,
@@ -1657,12 +1698,6 @@ export default [
               {
                 path: '/about/products/web_app/pro-tier/🎥 Video streaming from phone',
                 component: ComponentCreator('/about/products/web_app/pro-tier/🎥 Video streaming from phone', '610'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/pro-tier/📅 Varroa Treatment diary',
-                component: ComponentCreator('/about/products/web_app/pro-tier/📅 Varroa Treatment diary', '50b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

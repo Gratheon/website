@@ -69,6 +69,7 @@ export default function CustomPricingPage() {
                 <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
+                <li>📅 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -107,7 +108,7 @@ export default function CustomPricingPage() {
                 <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                 <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
                 <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/starter-tier/join_bee_colonies">Colony Joining Tool</Link></li>
-                <li>📅 &nbsp;<Link to="/about/products/web_app/pro-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
+                <li>🗺️ &nbsp;<Link to="/about/products/web_app/starter-tier/🗺️ Hive placement planner">Hive Placement Planner</Link></li>
               </ul>
             </div>
             <div className="pricing-limitations-section">

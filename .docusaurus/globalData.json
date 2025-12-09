@@ -1555,6 +1555,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/hobbyist-tier/📅 Varroa Treatment diary",
+              "path": "/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/hobbyist-tier/📦 Apiary management",
               "path": "/about/products/web_app/hobbyist-tier/📦 Apiary management",
               "sidebar": "tutorialSidebar"
@@ -1637,11 +1642,6 @@
             {
               "id": "products/web_app/pro-tier/🎥 Video streaming from phone",
               "path": "/about/products/web_app/pro-tier/🎥 Video streaming from phone",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/pro-tier/📅 Varroa Treatment diary",
-              "path": "/about/products/web_app/pro-tier/📅 Varroa Treatment diary",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2421,12 +2421,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-tag-manager": {
-    "default": {
-      "containerId": "GTM-KH4KC9",
-      "id": "default"
     }
   }
 }
