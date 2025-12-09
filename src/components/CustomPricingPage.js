@@ -91,7 +91,13 @@ export default function CustomPricingPage() {
         <div className="pricing-card simple featured">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Starter</div>
-            <div className="pricing-card-price">€15<span style={{ fontSize: "1rem" }}> / month</span></div>
+            <div className="pricing-card-price">
+              €22<span style={{ fontSize: "1rem" }}> / month</span>
+              <br />
+              <span style={{fontSize: "1.2rem", opacity: 0.8}}>€220/year</span>
+              <br />
+              <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 17% with yearly billing</small>
+            </div>
             <div className="pricing-card-description">
               For small-scale beekeepers
             </div>
@@ -129,7 +135,13 @@ export default function CustomPricingPage() {
         <div className="pricing-card featured professional">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
-            <div className="pricing-card-price">€49<span style={{ fontSize: "1rem" }}> / month</span></div>
+            <div className="pricing-card-price">
+              €55<span style={{ fontSize: "1rem" }}> / month</span>
+              <br />
+              <span style={{fontSize: "1.2rem", opacity: 0.8}}>€599/year</span>
+              <br />
+              <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 9% with yearly billing</small>
+            </div>
             <div className="pricing-card-description">
               For commercial beekeepers
             </div>
@@ -177,8 +189,8 @@ export default function CustomPricingPage() {
         <div className="pricing-card featured flexible">
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
-            <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> for 1000 tokens*</span></div>
-            <div className="pricing-card-description">For research & enterprise users</div>
+            <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> one-time*</span></div>
+            <div className="pricing-card-description">Pay once, use forever</div>
             <div style={{
               background: '#f39c12',
               color: 'white',
