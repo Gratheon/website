@@ -52,7 +52,7 @@ export default function CustomPricingPage() {
 
       <div className="pricing-container">
         {/* Hobbyist Plan */}
-        <div className="pricing-card">
+        <div className="pricing-card" data-tier="hobbyist" style={{ order: 1 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Hobbyist</div>
             <div className="pricing-card-price">Free</div>
@@ -88,7 +88,7 @@ export default function CustomPricingPage() {
         </div>
 
         {/* Starter Plan */}
-        <div className="pricing-card simple featured">
+        <div className="pricing-card simple featured" data-tier="starter" style={{ order: 2 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Starter</div>
             <div className="pricing-card-price">
@@ -132,7 +132,43 @@ export default function CustomPricingPage() {
           </div>
         </div>
 
-        <div className="pricing-card featured professional">
+        {/* Flexible Plan */}
+        <div className="pricing-card flexible featured" data-tier="flexible" style={{ order: 3 }}>
+          <div className="pricing-card-header">
+            <div className="pricing-card-title">Flexible</div>
+            <div className="pricing-card-price">€100<span style={{ fontSize: "1rem" }}> one-time</span></div>
+            <div className="pricing-card-description">Pay once, use forever</div>
+            <div style={{
+              background: '#f39c12',
+              color: 'white',
+              padding: '4px 8px',
+              borderRadius: '4px',
+              fontSize: '0.75rem',
+              marginTop: '8px',
+              display: 'inline-block'
+            }}>
+              In Development
+            </div>
+          </div>
+          <div className="pricing-card-body">
+            <div className="pricing-features-section">
+              <h4>Features</h4>
+              <ul className="pricing-card-features">
+                <li>🔔 Alert management & notifications</li>
+                <li>🎥 Video analytics processing</li>
+                <li>📲 SMS alert notifications</li>
+                <li>🪝 Basic webhooks & API integrations</li>
+                <li>📦 Extra hive capacity beyond tier limits</li>
+                <li>🖼️ Advanced frame analysis</li>
+              </ul>
+            </div>
+          </div>
+          <div className="pricing-card-footer">
+            <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
+          </div>
+        </div>
+
+        <div className="pricing-card featured professional" data-tier="professional" style={{ order: 4 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
             <div className="pricing-card-price">
@@ -186,7 +222,7 @@ export default function CustomPricingPage() {
         </div>
 
         {/* Enterprise Plan */}
-        <div className="pricing-card enterprise featured">
+        <div className="pricing-card enterprise featured" data-tier="enterprise" style={{ order: 5 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Enterprise</div>
             <div className="pricing-card-price">Custom Pricing</div>
@@ -213,13 +249,10 @@ export default function CustomPricingPage() {
                 <li>🛠️ Custom integrations & API development</li>
                 <li>🏢 On-premise deployment options</li>
                 <li>📞 24/7 priority support & maintenance</li>
-                <li>👥 Dedicated customer success manager</li>
                 <li>⚡ High-priority processing & SLA guarantees</li>
                 <li>🔐 Advanced security & compliance features</li>
                 <li>📊 Custom reporting & analytics dashboards</li>
-                <li>🌐 Multi-location management</li>
                 <li>📋 Custom training & onboarding</li>
-                <li>🔧 Custom feature development</li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -240,14 +273,15 @@ export default function CustomPricingPage() {
       </div>
 
 
-      {/* Addon Section - Unified Layout */}
-      <div className="addon-section" style={{
-        marginTop: '4rem',
-        padding: '2rem',
-        background: 'linear-gradient(135deg, rgba(2, 72, 255, 0.05), rgba(2, 72, 255, 0.02))',
-        borderRadius: '16px',
-        border: '2px solid #0248ff'
-      }}>
+      {/* Addon Section - Fluid connection with Flexible tier */}
+      <div className="addon-section-wrapper">
+        <div className="addon-section" style={{
+          marginTop: '2rem',
+          padding: '2rem',
+          background: 'linear-gradient(135deg, rgba(2, 72, 255, 0.05), rgba(2, 72, 255, 0.02))',
+          borderRadius: '16px',
+          border: '2px solid #0248ff'
+        }}>
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <h2 style={{
             color: '#0248ff',
@@ -257,7 +291,7 @@ export default function CustomPricingPage() {
             backgroundClip: 'text',
             fontSize: '2.5rem'
           }}>
-            Addon Plan - Pay Per Use
+            Addon Tokens - Usage Calculator
           </h2>
           <div style={{
             fontSize: '1.5rem',
@@ -268,7 +302,7 @@ export default function CustomPricingPage() {
             €100 for 1000 tokens*
           </div>
           <p style={{ fontSize: '1.1rem', color: '#666' }}>
-            Perfect for research, enterprise users, and flexible usage patterns
+            Buy addon tokens to extend your current tier's capacity or access premium features
           </p>
           <div style={{
             background: '#f39c12',
@@ -295,19 +329,19 @@ export default function CustomPricingPage() {
             minWidth: '300px',
             maxWidth: '400px'
           }}>
-            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>What's Included</h3>
+            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>How It Works</h3>
             <ul style={{
               listStyle: 'none',
               padding: 0,
               fontSize: '1rem',
               lineHeight: '1.8'
             }}>
-              <li style={{ marginBottom: '0.5rem' }}>🔔 Alert management & notifications</li>
-              <li style={{ marginBottom: '0.5rem' }}>🎥 Video analytics processing</li>
-              <li style={{ marginBottom: '0.5rem' }}>📲 SMS alert notifications</li>
-              <li style={{ marginBottom: '0.5rem' }}>🪝 Basic webhooks & API integrations</li>
-              <li style={{ marginBottom: '0.5rem' }}>📦 Extra hive capacity beyond tier limits</li>
-              <li style={{ marginBottom: '0.5rem' }}>🖼️ Advanced frame analysis</li>
+              <li style={{ marginBottom: '0.5rem' }}>💰 Purchase tokens in bundles of 1000</li>
+              <li style={{ marginBottom: '0.5rem' }}>🔋 Tokens never expire (valid for 1 year)</li>
+              <li style={{ marginBottom: '0.5rem' }}>⚡ Use tokens for premium features</li>
+              <li style={{ marginBottom: '0.5rem' }}>📈 Scale beyond your tier limits</li>
+              <li style={{ marginBottom: '0.5rem' }}>🧮 Calculate your exact usage below</li>
+              <li style={{ marginBottom: '0.5rem' }}>💳 No recurring charges</li>
             </ul>
 
             <div style={{
@@ -541,6 +575,7 @@ export default function CustomPricingPage() {
         </div>
       </div>
     </div> {/* End addon-section */}
+    </div> {/* End addon-section-wrapper */}
 
       <h2>Hardware Devices</h2>
 

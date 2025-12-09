@@ -1,7 +1,7 @@
 /* Pricing page header styles */
 .pricing-page-wrapper {
   padding: 2rem 1rem;
-  max-width: 1600px;
+  max-width: 1800px;
   margin: 0 auto;
 }
 
@@ -320,6 +320,97 @@
   transform: scale(1.05) translateY(-5px);
 }
 
+/* Flexible tier fluid connection styles */
+.addon-section-wrapper {
+  position: relative;
+}
+
+/* Desktop-specific fluid connection */
+@media (min-width: 1400px) {
+  /* Make Flexible column taller in desktop */
+  .pricing-card.flexible.featured {
+    height: 1500px !important;
+    position: relative;
+    margin-bottom: 0;
+    display: flex !important;
+    flex-direction: column;
+  }
+
+  .pricing-card.flexible.featured .pricing-card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-bottom: 4rem;
+  }
+
+  .pricing-card.flexible.featured .pricing-card-footer {
+    margin-top: auto;
+    position: relative;
+  }
+
+  .addon-section-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    position: relative;
+    padding: 2rem;
+    margin-top: -200px; /* Overlap with Flexible column */
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.15);
+    z-index: 10;
+  }
+
+  .addon-section {
+    margin-top: 0 !important;
+    background: transparent !important; /* Make addon section background transparent */
+    border: none !important; /* Remove border since wrapper has white background */
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    position: relative;
+    padding: 0 !important; /* Remove padding since wrapper has it */
+  }
+}
+
+/* Tablet view adjustment */
+@media (max-width: 1399px) and (min-width: 1000px) {
+  .addon-section-wrapper {
+    margin-top: 4rem !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+
+  .addon-section {
+    background: linear-gradient(135deg, rgba(2, 72, 255, 0.05), rgba(2, 72, 255, 0.02)) !important;
+    border: 2px solid #0248ff !important;
+    border-radius: 16px !important;
+    padding: 2rem !important;
+  }
+
+  .pricing-card.flexible.featured {
+    height: auto !important; /* Reset height for tablet */
+  }
+}
+
+/* Mobile view - hide connector */
+@media (max-width: 999px) {
+  .addon-section-wrapper {
+    margin-top: 4rem !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+
+  .addon-section {
+    background: linear-gradient(135deg, rgba(2, 72, 255, 0.05), rgba(2, 72, 255, 0.02)) !important;
+    border: 2px solid #0248ff !important;
+    border-radius: 16px !important;
+    padding: 2rem !important;
+  }
+}
+
 /* Pricing container styles */
 .pricing-container {
   display: flex;
@@ -327,12 +418,71 @@
   justify-content: center;
   gap: 2rem;
   margin: 2rem 0;
+  min-height: 500px; /* Ensure enough height for cards */
+}
+
+/* Responsive pricing container adjustments for 5 cards */
+@media (min-width: 1600px) {
+  .pricing-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+
+  .pricing-card {
+    flex: 1;
+    max-width: 280px;
+    min-width: 260px;
+  }
+}
+
+@media (max-width: 1599px) and (min-width: 1200px) {
+  .pricing-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    max-width: 1100px;
+    margin: 2rem auto;
+  }
+
+  .pricing-card {
+    max-width: none;
+    min-width: 300px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 768px) {
+  .pricing-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+
+  .pricing-card {
+    max-width: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .pricing-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin: 2rem auto;
+  }
+
+  .pricing-card {
+    max-width: none;
+  }
 }
 
 .pricing-card {
   flex: 1;
-  min-width: 280px;
-  max-width: 320px;
+  min-width: 260px;
+  max-width: 300px;
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   overflow: hidden;
@@ -519,6 +669,24 @@
 }
 
 .pricing-card.professional.featured .pricing-card-description {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 500;
+}
+
+.pricing-card.flexible.featured .pricing-card-header {
+  background-color: #0248ff;
+  color: white;
+}
+
+.pricing-card.flexible.featured {
+  border: 2px solid #0248ff;
+}
+
+.pricing-card.flexible.featured .pricing-card-title {
+  color: white;
+}
+
+.pricing-card.flexible.featured .pricing-card-description {
   color: rgba(255, 255, 255, 0.9);
   font-weight: 500;
 }
