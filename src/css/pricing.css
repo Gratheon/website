@@ -170,6 +170,100 @@
   }
 }
 
+/* Addon section and calculator styling */
+.addon-section table {
+  border: 2px solid #0248ff !important;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.addon-section thead tr {
+  background: linear-gradient(135deg, #0248ff, #0040e8) !important;
+  color: white !important;
+}
+
+.addon-section tbody tr:nth-child(even) {
+  background-color: rgba(2, 72, 255, 0.05);
+}
+
+.addon-section tbody tr:hover {
+  background-color: rgba(2, 72, 255, 0.1);
+}
+
+.addon-section input[type="number"] {
+  border: 1px solid #0248ff;
+  border-radius: 4px;
+  padding: 0.3rem 0.5rem;
+  width: 80px;
+}
+
+.addon-section input[type="number"]:focus {
+  outline: none;
+  border-color: #0040e8;
+  box-shadow: 0 0 0 2px rgba(2, 72, 255, 0.2);
+}
+
+.addon-section .token-result {
+  color: #0248ff;
+  font-weight: 600;
+}
+
+.addon-section th {
+  padding: 0.8rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.addon-section td {
+  padding: 0.8rem;
+  border-bottom: 1px solid rgba(2, 72, 255, 0.1);
+}
+
+.service-description {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.2rem;
+  font-style: italic;
+}
+
+/* Legacy flexible calculator styling for compatibility */
+.flexible-calculator {
+  border: 2px solid #0248ff !important;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.flexible-calculator thead tr {
+  background: linear-gradient(135deg, #0248ff, #0040e8) !important;
+  color: white !important;
+}
+
+.flexible-calculator tbody tr:nth-child(even) {
+  background-color: rgba(2, 72, 255, 0.05);
+}
+
+.flexible-calculator tbody tr:hover {
+  background-color: rgba(2, 72, 255, 0.1);
+}
+
+.flexible-calculator input[type="number"] {
+  border: 1px solid #0248ff;
+  border-radius: 4px;
+  padding: 0.3rem 0.5rem;
+  width: 80px;
+}
+
+.flexible-calculator input[type="number"]:focus {
+  outline: none;
+  border-color: #0040e8;
+  box-shadow: 0 0 0 2px rgba(2, 72, 255, 0.2);
+}
+
+.flexible-calculator .token-result {
+  color: #0248ff;
+  font-weight: 600;
+}
+
 /* Pricing container styles */
 .pricing-container {
   display: flex;

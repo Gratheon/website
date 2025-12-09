@@ -25,7 +25,7 @@ export default function CustomPricingPage() {
       (calculatorValues.hives * 2) +
       (calculatorValues.frames * 0.02) +
       (calculatorValues.frameUploads * 0.25) +
-      (calculatorValues.inspections * 1);
+      calculatorValues.inspections;
     return Math.round(tokens * 100) / 100;
   };
 
@@ -184,63 +184,145 @@ export default function CustomPricingPage() {
             <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
           </div>
         </div>
-
-
-        <div className="pricing-card featured flexible">
-          <div className="pricing-card-header">
-            <div className="pricing-card-title">Flexible</div>
-            <div className="pricing-card-price">€100 <span style={{ fontSize: "1rem" }}> one-time*</span></div>
-            <div className="pricing-card-description">Pay once, use forever</div>
-            <div style={{
-              background: '#f39c12',
-              color: 'white',
-              padding: '4px 8px',
-              borderRadius: '4px',
-              fontSize: '0.75rem',
-              marginTop: '8px',
-              display: 'inline-block'
-            }}>
-              In Development
-            </div>
-          </div>
-          <div className="pricing-card-body">
-            <div className="pricing-features-section">
-              <h4>Features</h4>
-              <ul className="pricing-card-features">
-                <li>🔔 &nbsp;<Link to="/about/products/web_app/flexible-tier/alerts">Alert management</Link></li>
-                <li>🎥 Entrance observer video analytics</li>
-                <li>📲 SMS alert notifications</li>
-                <li>🪝 Webhooks & API integrations</li>
-                <li>📦 Unlimited hive management</li>
-                <li>🖼️ Unlimited frame analysis</li>
-                <li>📓 Unlimited inspection history</li>
-                <li>🧑‍🚀 Unlimited user accounts</li>
-                <li>🔬 Research data access & export</li>
-                <li>🏢 Enterprise support & SLA</li>
-                <li>🛠️ Custom integrations</li>
-                <li>⛄️ Unlimited data retention</li>
-              </ul>
-            </div>
-          </div>
-          <div className="pricing-card-footer">
-            <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
-          </div>
-        </div>
       </div>
 
-      <div style={{ textAlign: 'center', marginTop: '3rem' }}>
-        <h2>Flexible Plan - Token Usage & Price Calculator</h2>
 
-        <div className="price-calculator">
-          <table className="token-calculator-table">
-            <thead>
-              <tr>
-                <th>Service</th>
-                <th>Token Cost</th>
-                <th>Usage/Month</th>
-                <th>Tokens Needed</th>
-              </tr>
-            </thead>
+      {/* Addon Section - Unified Layout */}
+      <div className="addon-section" style={{
+        marginTop: '4rem',
+        padding: '2rem',
+        background: 'linear-gradient(135deg, rgba(2, 72, 255, 0.05), rgba(2, 72, 255, 0.02))',
+        borderRadius: '16px',
+        border: '2px solid #0248ff'
+      }}>
+        <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
+          <h2 style={{
+            color: '#0248ff',
+            background: 'linear-gradient(135deg, #0248ff, #0040e8)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            backgroundClip: 'text',
+            fontSize: '2.5rem'
+          }}>
+            Addon Plan - Pay Per Use
+          </h2>
+          <div style={{
+            fontSize: '1.5rem',
+            color: '#0248ff',
+            marginBottom: '1rem',
+            fontWeight: 'bold'
+          }}>
+            €100 for 1000 tokens*
+          </div>
+          <p style={{ fontSize: '1.1rem', color: '#666' }}>
+            Perfect for research, enterprise users, and flexible usage patterns
+          </p>
+          <div style={{
+            background: '#f39c12',
+            color: 'white',
+            padding: '6px 12px',
+            borderRadius: '6px',
+            fontSize: '0.9rem',
+            display: 'inline-block',
+            marginTop: '8px'
+          }}>
+            In Development
+          </div>
+        </div>
+
+        <div style={{
+          display: 'flex',
+          gap: '3rem',
+          alignItems: 'flex-start',
+          flexWrap: 'wrap'
+        }}>
+          {/* Left side - Plan info and CTA */}
+          <div style={{
+            flex: '1',
+            minWidth: '300px',
+            maxWidth: '400px'
+          }}>
+            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>What's Included</h3>
+            <ul style={{
+              listStyle: 'none',
+              padding: 0,
+              fontSize: '1rem',
+              lineHeight: '1.8'
+            }}>
+              <li style={{ marginBottom: '0.5rem' }}>🔔 Alert management & notifications</li>
+              <li style={{ marginBottom: '0.5rem' }}>🎥 Video analytics processing</li>
+              <li style={{ marginBottom: '0.5rem' }}>📲 SMS alert notifications</li>
+              <li style={{ marginBottom: '0.5rem' }}>🪝 Webhooks & API integrations</li>
+              <li style={{ marginBottom: '0.5rem' }}>📦 Unlimited hive management</li>
+              <li style={{ marginBottom: '0.5rem' }}>🖼️ Advanced frame analysis</li>
+              <li style={{ marginBottom: '0.5rem' }}>🔬 Research data access & export</li>
+              <li style={{ marginBottom: '0.5rem' }}>🛠️ Custom integrations</li>
+            </ul>
+
+            <div style={{
+              marginTop: '2rem',
+              padding: '1.5rem',
+              background: 'linear-gradient(135deg, rgba(2, 72, 255, 0.1), rgba(2, 72, 255, 0.05))',
+              border: '1px solid #0248ff',
+              borderRadius: '12px'
+            }}>
+              <div style={{
+                fontSize: '1.2rem',
+                marginBottom: '0.5rem',
+                color: '#0248ff',
+                fontWeight: 'bold'
+              }}>
+                Total tokens needed: {calculateTokens()}
+              </div>
+              <div style={{
+                fontSize: '1.2rem',
+                color: '#0248ff',
+                fontWeight: 'bold'
+              }}>
+                Estimated monthly cost: €{calculateCost()}
+              </div>
+              <Link
+                to="mailto:sales@gratheon.com"
+                style={{
+                  display: 'inline-block',
+                  marginTop: '1rem',
+                  padding: '0.8rem 1.5rem',
+                  background: '#0248ff',
+                  color: 'white',
+                  textDecoration: 'none',
+                  borderRadius: '8px',
+                  fontWeight: '600'
+                }}
+              >
+                Contact Sales
+              </Link>
+            </div>
+          </div>
+
+          {/* Right side - Calculator Table */}
+          <div style={{
+            flex: '2',
+            minWidth: '500px'
+          }}>
+            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>Usage Calculator</h3>
+            <table className="token-calculator-table" style={{
+              width: '100%',
+              border: '2px solid #0248ff',
+              borderRadius: '8px',
+              overflow: 'hidden',
+              fontSize: '0.9rem'
+            }}>
+              <thead>
+                <tr style={{
+                  background: 'linear-gradient(135deg, #0248ff, #0040e8)',
+                  color: 'white'
+                }}>
+                  <th>Service</th>
+                  <th>Token Cost</th>
+                  <th>Usage/Month</th>
+                  <th>Tokens Needed</th>
+                </tr>
+              </thead>
             <tbody>
               <tr>
                 <td>
@@ -308,7 +390,7 @@ export default function CustomPricingPage() {
                     placeholder="inspections"
                   />
                 </td>
-                <td className="token-result">{(calculatorValues.inspections * 1).toFixed(0)}</td>
+                <td className="token-result">{calculatorValues.inspections}</td>
               </tr>
               <tr>
                 <td>
@@ -397,22 +479,21 @@ export default function CustomPricingPage() {
               </tr>
             </tbody>
           </table>
-
-          <div className="calculator-results">
-            <div className="result-item">
-              <strong>Total tokens needed: {calculateTokens()}</strong>
-            </div>
-            <div className="result-item">
-              <strong>Estimated monthly cost: €{calculateCost()}</strong>
-            </div>
-          </div>
+          <p style={{
+            fontSize: '0.85rem',
+            color: '#666',
+            marginTop: '1rem',
+            fontStyle: 'italic'
+          }}>
+            * Tokens are valid for 1 year. Unused tokens do not roll over.
+          </p>
         </div>
       </div>
+    </div> {/* End addon-section */}
 
+    <h2>Hardware Devices</h2>
 
-      <h2>Hardware Devices</h2>
-
-      <p>If you buy a device, you are not vendor-locked and we do not force you to pay for web-app subscription, but it's much less hassle for you and this would support us in the long term as a company. If you choose to setup fully local integration and manage data storage yourself, you can use our docs.</p>
+    <p>If you buy a device, you are not vendor-locked and we do not force you to pay for web-app subscription, but it's much less hassle for you and this would support us in the long term as a company. If you choose to setup fully local integration and manage data storage yourself, you can use our docs.</p>
 
 
       <div className="hardware-devices-container">
@@ -521,12 +602,12 @@ export default function CustomPricingPage() {
             <Link to="https://discord.gg/PcbP4uedWj" className="pricing-button">Join Discord</Link>
           </div>
         </div>
-      
-        <div className="device-pricing-info">
-          <p><strong>Note:</strong> Each hardware device operates off-grid. For integration with web-app, a subscription fee must be used that covers data management services specific to that device</p>
-          <p>* Tokens are valid for 1 year. Unused tokens do not roll over.</p>
-        </div>
-          </div>
-        </div>
+      </div> {/* End hardware-devices-container */}
+
+      <div className="device-pricing-info">
+        <p><strong>Note:</strong> Each hardware device operates off-grid. For integration with web-app, a subscription fee must be used that covers data management services specific to that device</p>
+        <p>* Tokens are valid for 1 year. Unused tokens do not roll over.</p>
+      </div>
+    </div> {/* End pricing-page-wrapper */}
   );
 }
