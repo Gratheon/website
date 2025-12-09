@@ -38,10 +38,16 @@ export default function PricingPage() {
             </div>
           </div>
           
-          <div className="pricing-card featured">
+          <div className="pricing-card simple featured">
             <div className="pricing-card-header">
-              <div className="pricing-card-title">Essential</div>
-              <div className="pricing-card-price">€15<span style={{fontSize: "1rem"}}>/month</span></div>
+              <div className="pricing-card-title">Starter</div>
+              <div className="pricing-card-price">
+                €22<span style={{fontSize: "1rem"}}>/month</span>
+                <br />
+                <span style={{fontSize: "1.2rem", opacity: 0.8}}>€220/year</span>
+                <br />
+                <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 17% with yearly billing</small>
+              </div>
               <div className="pricing-card-description">2 weeks free trial</div>
             </div>
             <div className="pricing-card-body">
@@ -57,11 +63,17 @@ export default function PricingPage() {
             </div>
           </div>
           
-          <div className="pricing-card">
+          <div className="pricing-card professional">
             <div className="pricing-card-header">
               <div className="pricing-card-title">Professional</div>
-              <div className="pricing-card-price">Custom</div>
-              <div className="pricing-card-description">€10 per user/month + €5 per beehive/month</div>
+              <div className="pricing-card-price">
+                €55<span style={{fontSize: "1rem"}}>/month</span>
+                <br />
+                <span style={{fontSize: "1.2rem", opacity: 0.8}}>€599/year</span>
+                <br />
+                <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 9% with yearly billing</small>
+              </div>
+              <div className="pricing-card-description">Advanced beekeeping management</div>
             </div>
             <div className="pricing-card-body">
               <ul className="pricing-card-features">
@@ -73,6 +85,25 @@ export default function PricingPage() {
             </div>
             <div className="pricing-card-footer">
               <Link to="#" className="pricing-button">Contact Sales</Link>
+            </div>
+          </div>
+
+          <div className="pricing-card flexible">
+            <div className="pricing-card-header">
+              <div className="pricing-card-title">Flexible</div>
+              <div className="pricing-card-price">€100<span style={{fontSize: "1rem"}}> one-time</span></div>
+              <div className="pricing-card-description">Pay once, use forever</div>
+            </div>
+            <div className="pricing-card-body">
+              <ul className="pricing-card-features">
+                <li>No recurring payments</li>
+                <li>Basic feature access</li>
+                <li>Community support</li>
+                <li>Lifetime access</li>
+              </ul>
+            </div>
+            <div className="pricing-card-footer">
+              <Link to="#" className="pricing-button">Buy Once</Link>
             </div>
           </div>
         </div>
