@@ -541,6 +541,62 @@
   margin-bottom: 0.5rem;
 }
 
+/* Monthly price styling */
+.price-monthly {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.price-period {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+/* Yearly price group styling */
+.price-yearly-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  margin-top: 0.5rem;
+}
+
+.price-yearly {
+  font-size: 1.4rem;
+  font-weight: 600;
+  opacity: 0.85;
+  line-height: 1.1;
+}
+
+.price-discount {
+  font-size: 0.75rem;
+  opacity: 0.7;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+/* Enterprise tier pricing customization */
+.enterprise-price {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+.enterprise-custom-text {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.enterprise-pricing-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+  opacity: 0.8;
+  line-height: 1;
+}
+
 .pricing-card-description {
   font-size: 0.9rem;
   color: var(--ifm-color-emphasis-800);

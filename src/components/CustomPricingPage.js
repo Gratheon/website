@@ -92,11 +92,11 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Starter</div>
             <div className="pricing-card-price">
-              €22<span style={{ fontSize: "1rem" }}> / month</span>
-              <br />
-              <span style={{fontSize: "1.2rem", opacity: 0.8}}>€220/year</span>
-              <br />
-              <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 17% with yearly billing</small>
+              <div className="price-monthly">€22<span className="price-period"> / month</span></div>
+              <div className="price-yearly-group">
+                <span className="price-yearly">€220/year</span>
+                <small className="price-discount">Save 17% with yearly billing</small>
+              </div>
             </div>
             <div className="pricing-card-description">
               For small-scale beekeepers
@@ -180,11 +180,11 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Professional</div>
             <div className="pricing-card-price">
-              €55<span style={{ fontSize: "1rem" }}> / month</span>
-              <br />
-              <span style={{fontSize: "1.2rem", opacity: 0.8}}>€599/year</span>
-              <br />
-              <small style={{fontSize: "0.8rem", opacity: 0.7}}>Save 9% with yearly billing</small>
+              <div className="price-monthly">€55<span className="price-period"> / month</span></div>
+              <div className="price-yearly-group">
+                <span className="price-yearly">€599/year</span>
+                <small className="price-discount">Save 9% with yearly billing</small>
+              </div>
             </div>
             <div className="pricing-card-description">
               For commercial beekeepers
@@ -233,7 +233,10 @@ export default function CustomPricingPage() {
         <div className="pricing-card enterprise featured" data-tier="enterprise" style={{ order: 5 }}>
           <div className="pricing-card-header">
             <div className="pricing-card-title">Enterprise</div>
-            <div className="pricing-card-price">Custom Pricing</div>
+            <div className="pricing-card-price enterprise-price">
+              <span className="enterprise-custom-text">Custom</span>
+              <span className="enterprise-pricing-text">Pricing</span>
+            </div>
             <div className="pricing-card-description">
               For large commercial operations with thousands of hives
             </div>
