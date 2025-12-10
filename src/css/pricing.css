@@ -327,7 +327,14 @@
 
 /* Desktop-specific fluid connection */
 @media (min-width: 1400px) {
-  /* Make Flexible column taller in desktop */
+
+    .pricing-card {
+        max-width: 300px;
+    }
+
+
+
+    /* Make Flexible column taller in desktop */
   .pricing-card.flexible.featured {
     height: 1400px !important;
     position: relative;
@@ -340,7 +347,7 @@
     border-radius: 12px 12px 0 0;
     box-shadow: none;
     flex: none !important; /* Prevent flex shrinking */
-    min-height: 1400px !important; /* Ensure minimum height */
+    min-height: 1440px !important; /* Ensure minimum height */
     max-height: none !important; /* Remove any max-height restrictions */
   }
 
@@ -448,7 +455,7 @@
   /* Flexible card gets special treatment */
   .pricing-card.flexible.featured {
     flex: none !important; /* Don't participate in flex sizing */
-    width: 280px !important; /* Fixed width */
+    width: 380px !important; /* Fixed width */
   }
 }
 
@@ -463,7 +470,7 @@
 
   .pricing-card {
     max-width: none;
-    min-width: 300px;
+    min-width: 360px;
   }
 }
 
@@ -497,7 +504,7 @@
 .pricing-card {
   flex: 1;
   min-width: 260px;
-  max-width: 300px;
+  /*max-width: 300px;*/
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   overflow: hidden;
@@ -691,6 +698,7 @@
 .pricing-card.flexible.featured .pricing-card-header {
   background-color: #0248ff;
   color: white;
+    border-radius: 10px 10px 0 0;
 }
 
 .pricing-card.flexible.featured {
@@ -731,7 +739,7 @@
 
 .pricing-card.flexible.featured:hover {
   transform: none;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: none;
 }
 
 /* Additional desktop-specific Flexible card rules */
@@ -740,6 +748,7 @@
     overflow: visible !important; /* Allow content to extend */
     position: relative !important;
     align-self: flex-start !important; /* Align to top of flex container */
+  margin-top: -40px;
   }
 }
 
@@ -1139,7 +1148,7 @@
 }
 
 .token-calculator-table th {
-  background-color: var(--ifm-table-head-background);
+  background-color:  #0248ff;
   color: var(--ifm-table-head-color);
   padding: 1rem;
   text-align: left;
@@ -1147,21 +1156,21 @@
 }
 
 .token-calculator-table th:first-child {
-  border-top-left-radius: 8px;
-  width: 40%; /* Increased from 35% */
+  /*border-top-left-radius: 8px;*/
+  /*width: 40%; !* Increased from 35% *!*/
 }
 
 .token-calculator-table th:nth-child(2) {
-  width: 20%; /* Decreased from 25% */
+  /*width: 20%; !* Decreased from 25% *!*/
 }
 
 .token-calculator-table th:nth-child(3) {
-  width: 25%; /* Same */
+  /*width: 25%; !* Same *!*/
 }
 
 .token-calculator-table th:last-child {
-  border-top-right-radius: 8px;
-  width: 15%; /* Same */
+  /*border-top-right-radius: 8px;*/
+  /*width: 15%; !* Same *!*/
 }
 
 .token-calculator-table td {

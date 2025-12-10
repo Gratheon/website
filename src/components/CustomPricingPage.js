@@ -137,7 +137,7 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
             <div className="pricing-card-price">€100<span style={{ fontSize: "1rem" }}> one-time</span></div>
-            <div className="pricing-card-description">Pay once, use forever</div>
+            <div className="pricing-card-description">Buy once, pay per use</div>
             <div style={{
               background: '#f39c12',
               color: 'white',
@@ -235,7 +235,7 @@ export default function CustomPricingPage() {
               marginTop: '8px',
               display: 'inline-block'
             }}>
-              Contact Required
+              Contract Required
             </div>
           </div>
           <div className="pricing-card-body">
