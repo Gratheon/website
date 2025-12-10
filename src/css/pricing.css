@@ -459,7 +459,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 1rem;
     align-items: flex-start; /* Align cards to top, allow different heights */
   }
 
@@ -472,7 +472,7 @@
   /* Flexible card gets special treatment */
   .pricing-card.flexible.featured {
     flex: none !important; /* Don't participate in flex sizing */
-    width: 380px !important; /* Fixed width */
+    width: 340px !important; /* Fixed width */
   }
 }
 
@@ -549,7 +549,7 @@
 .pricing-highlight-bar {
   display: flex;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 1rem;
   margin-top: 1rem;
   padding: 0.8rem;
   background-color: var(--ifm-color-emphasis-100);

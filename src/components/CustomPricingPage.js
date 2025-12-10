@@ -137,7 +137,7 @@ export default function CustomPricingPage() {
           <div className="pricing-card-header">
             <div className="pricing-card-title">Flexible</div>
             <div className="pricing-card-price">€100<span style={{ fontSize: "1rem" }}> one-time</span></div>
-            <div className="pricing-card-description">Buy once, pay per use</div>
+            <div className="pricing-card-description">Pay only for what you use</div>
             <div style={{
               background: '#f39c12',
               color: 'white',
@@ -152,14 +152,25 @@ export default function CustomPricingPage() {
           </div>
           <div className="pricing-card-body">
             <div className="pricing-features-section">
-              <h4>Features</h4>
+              <h4>Pay-per-use Infrastructure Features</h4>
               <ul className="pricing-card-features">
-                <li>🔔 Alert management & notifications</li>
-                <li>🎥 Video analytics processing</li>
+                <li>📦 Extra hive & frame capacity beyond tier limits</li>
+                <li>🖼️ Additional frame uploads & AI analysis</li>
+                <li>📓 Extra beehive inspections</li>
+                <li>📈 Telemetry data requests from IoT sensors</li>
+                <li>📈 Long-term sensor data point storage</li>
                 <li>📲 SMS alert notifications</li>
-                <li>🪝 Basic webhooks & API integrations</li>
-                <li>📦 Extra hive capacity beyond tier limits</li>
-                <li>🖼️ Advanced frame analysis</li>
+                <li>🎥 Video processing & storage (entrance observer)</li>
+                <li>🪝 Webhook calls & API integrations</li>
+              </ul>
+            </div>
+            <div className="pricing-features-section">
+              <h4>Perfect For</h4>
+              <ul className="pricing-card-features">
+                <li>📊 Variable workload beekeepers</li>
+                <li>🔬 Research & experimentation</li>
+                <li>⚡ Scaling beyond fixed tier limits</li>
+                <li>💰 Cost control with exact usage</li>
               </ul>
             </div>
           </div>
@@ -271,7 +282,7 @@ export default function CustomPricingPage() {
 
 
       {/* Addon Section - Fluid connection with Flexible tier */}
-      <div className="addon-section-wrapper">
+      <div className="addon-section-wrapper" id="addon-calculator">
         <div className="addon-section" style={{
           marginTop: '2rem',
           padding: '2rem',
@@ -288,7 +299,7 @@ export default function CustomPricingPage() {
             backgroundClip: 'text',
             fontSize: '2.5rem'
           }}>
-            Addon Tokens - Usage Calculator
+            Flexible Addon Features - Usage Calculator
           </h2>
           <div style={{
             fontSize: '1.5rem',
@@ -299,7 +310,7 @@ export default function CustomPricingPage() {
             €100 for 1000 tokens*
           </div>
           <p style={{ fontSize: '1.1rem', color: '#666' }}>
-            Buy addon tokens to extend your current tier's capacity or access premium features
+            Calculate exact costs for infrastructure features that scale with usage
           </p>
           <div style={{
             background: '#f39c12',
@@ -326,19 +337,19 @@ export default function CustomPricingPage() {
             minWidth: '300px',
             maxWidth: '400px'
           }}>
-            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>How It Works</h3>
+            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>How Flexible Addons Work</h3>
             <ul style={{
               listStyle: 'none',
               padding: 0,
               fontSize: '1rem',
               lineHeight: '1.8'
             }}>
-              <li style={{ marginBottom: '0.5rem' }}>💰 Purchase tokens in bundles of 1000</li>
-              <li style={{ marginBottom: '0.5rem' }}>🔋 Tokens never expire (valid for 1 year)</li>
-              <li style={{ marginBottom: '0.5rem' }}>⚡ Use tokens for premium features</li>
-              <li style={{ marginBottom: '0.5rem' }}>📈 Scale beyond your tier limits</li>
-              <li style={{ marginBottom: '0.5rem' }}>🧮 Calculate your exact usage below</li>
-              <li style={{ marginBottom: '0.5rem' }}>💳 No recurring charges</li>
+              <li style={{ marginBottom: '0.5rem' }}>💰 Buy €100 starter pack (1000 tokens)</li>
+              <li style={{ marginBottom: '0.5rem' }}>🔋 Tokens valid for 1 year, never expire</li>
+              <li style={{ marginBottom: '0.5rem' }}>⚡ Use tokens for infrastructure features</li>
+              <li style={{ marginBottom: '0.5rem' }}>📈 Scale beyond any tier limits</li>
+              <li style={{ marginBottom: '0.5rem' }}>🧮 Pay only for exact usage</li>
+              <li style={{ marginBottom: '0.5rem' }}>💳 No monthly recurring charges</li>
             </ul>
 
             <div style={{
@@ -386,7 +397,7 @@ export default function CustomPricingPage() {
             flex: '2',
             minWidth: '500px'
           }}>
-            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>Usage Calculator</h3>
+            <h3 style={{ color: '#0248ff', marginBottom: '1rem' }}>Infrastructure Features & Pricing</h3>
             <table className="token-calculator-table" style={{
               width: '100%',
               border: '2px solid #0248ff',
@@ -399,10 +410,10 @@ export default function CustomPricingPage() {
                   background: 'linear-gradient(135deg, #0248ff, #0040e8)',
                   color: 'white'
                 }}>
-                  <th>Service</th>
-                  <th>Token Cost</th>
-                  <th>Usage/Month</th>
-                  <th>Tokens Needed</th>
+                  <th>Infrastructure Feature</th>
+                  <th>Token Cost per Unit</th>
+                  <th>Your Monthly Usage</th>
+                  <th>Tokens Required</th>
                 </tr>
               </thead>
             <tbody>
