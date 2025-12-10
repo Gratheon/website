@@ -163,9 +163,6 @@ export default function CustomPricingPage() {
               </ul>
             </div>
           </div>
-          <div className="pricing-card-footer">
-            <Link to="mailto:sales@gratheon.com" className="pricing-button">Contact Sales</Link>
-          </div>
         </div>
 
         <div className="pricing-card featured professional" data-tier="professional" style={{ order: 4 }}>
