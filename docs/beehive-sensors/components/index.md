@@ -34,4 +34,4 @@ title: Bill of materials
 ## Possible vendors
 
 + 146 USD https://www.alibaba.com/product-detail/Weight-Pesage-Industrial-Balanzas-Load-Cell_1600454137483.html?spm=a2700.galleryofferlist.normal_offer.d_title.38c713a0EKDwRy&priceId=6e22a495b4744c7799663b3e1da26427
-+ 10
++ 100 usd https://www.alibaba.com/product-detail/Stainless-Steel-Waterproof-Weighing-Industrial-Scale_1600910558433.html?spm=a2700.details.popular_products.11.6a5948747Tm3az
