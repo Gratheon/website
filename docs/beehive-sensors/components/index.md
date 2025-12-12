@@ -24,8 +24,8 @@ title: Bill of materials
 | [Tampering - Vibration sensor](docs/beehive-sensors/components/todo/Tampering%20-%20Vibration%20sensor.md)                                                                                                 | \-    | \-             | \-    |
 | [Temperature - Humidity sensor alternative](docs/beehive-sensors/components/todo/Temperature%20-%20Humidity%20sensor%20alternative.md)                                                                     | \-    | \-             | \-    |
 | [Battery (18650 type, Li-ion) shield](docs/beehive-sensors/components/battery-shield.md)                                                                                                                   | 5.53  | \-             | \-    |
-| [Display - LCD1602](docs/beehive-sensors/components/display.md)                                                                                                                                            | 2.64  | \-             | \-    |
 | [Screws M4 x 25mm](docs/beehive-sensors/components/screws.md)                                                                                                                                              | 10.76 | \-             | \-    |
+| [Display - LCD1602](docs/beehive-sensors/components/display.md)                                                                                                                                            | 2.64  | \-             | \-    |
 <!-- SerializedQuery END -->
 
 
@@ -35,3 +35,4 @@ title: Bill of materials
 
 + 146 USD https://www.alibaba.com/product-detail/Weight-Pesage-Industrial-Balanzas-Load-Cell_1600454137483.html?spm=a2700.galleryofferlist.normal_offer.d_title.38c713a0EKDwRy&priceId=6e22a495b4744c7799663b3e1da26427
 + 100 usd https://www.alibaba.com/product-detail/Stainless-Steel-Waterproof-Weighing-Industrial-Scale_1600910558433.html?spm=a2700.details.popular_products.11.6a5948747Tm3az
++ http://en.pilot-scale.com/product_category/Bench-scale-series.html
