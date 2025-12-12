@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/Team/Merchandise.md",
+                "file": "about/company/legal/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merchandise"
+              "title": "index"
             }
           }
         ]
@@ -180,6 +180,13 @@
   },
   "active": "ef1831a6beba9818",
   "lastOpenFiles": [
+    "about/company/Team/Merchandise.md",
+    "about/company/legal/index.md",
+    "about/company/legal/CONTRIBUTING.md",
+    "about/company/legal/CLA-CORPORATE.md",
+    "about/company/legal/CLA-INDIVIDUAL.md",
+    "about/company/legal/LICENSE-COMMERCIAL.md",
+    "about/company/legal",
     "about/company/Team/index.md",
     "about/company/Team/🍰 Equity and fundraising plan.md",
     "about/company/Team/Roles/Roles.md",
@@ -194,7 +201,6 @@
     "build/blog/atom.xsl",
     "build/sitemap.xml",
     "build/index.html",
-    "build/research/papers/wifi-exposure/index.html",
     "build/assets/files/heatmap-09-06 1-cb3df197f262ec5d9f96b9e824de83d6.png",
     "build/assets/files/Screenshot 2024-07-10 at 21.05.39-00ca393e4b223dc2d2f2505a8ce01650.png",
     "build/assets/images/Screenshot 2025-04-25 at 11.21.49-c9071486e8c2c4b12e8b60cb2e17b7bc.png",
@@ -220,12 +226,6 @@
     "about/company/Processes/🎥 Meeting recordings.md",
     "about/company/Processes/🖥️ Services and tools that we use.md",
     "about/company/clients/index.md",
-    "about/company/clients/🧑‍🚀 Hobby beekeepers.md",
-    "about/company/🤲 Why open source.md",
-    "about/products/index.md",
-    "about/products/🧑‍🚀 Actions beekeepers make.md",
-    "research/papers/index.md",
-    "about/company/business_plan/Competition/index.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

@@ -765,6 +765,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/legal/CLA-CORPORATE",
+              "path": "/about/company/legal/CLA-CORPORATE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/legal/CLA-INDIVIDUAL",
+              "path": "/about/company/legal/CLA-INDIVIDUAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/legal/CONTRIBUTING",
+              "path": "/about/company/legal/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/legal/index",
+              "path": "/about/company/legal/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/legal/LICENSE-COMMERCIAL",
+              "path": "/about/company/legal/LICENSE-COMMERCIAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/Processes/☑️ Features and tasks",
               "path": "/about/company/Processes/☑️ Features and tasks",
               "sidebar": "tutorialSidebar"

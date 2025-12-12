@@ -269,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'b72'),
+    component: ComponentCreator('/about', '82a'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e04'),
+        component: ComponentCreator('/about', '9ec'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '251'),
+            component: ComponentCreator('/about', 'a81'),
             routes: [
               {
                 path: '/about/',
@@ -642,6 +642,36 @@ export default [
               {
                 path: '/about/company/clients/🧑‍🚀 Hobby beekeepers',
                 component: ComponentCreator('/about/company/clients/🧑‍🚀 Hobby beekeepers', '7a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/legal/',
+                component: ComponentCreator('/about/company/legal/', 'da9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/legal/CLA-CORPORATE',
+                component: ComponentCreator('/about/company/legal/CLA-CORPORATE', '317'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/legal/CLA-INDIVIDUAL',
+                component: ComponentCreator('/about/company/legal/CLA-INDIVIDUAL', '122'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/legal/CONTRIBUTING',
+                component: ComponentCreator('/about/company/legal/CONTRIBUTING', 'c95'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/legal/LICENSE-COMMERCIAL',
+                component: ComponentCreator('/about/company/legal/LICENSE-COMMERCIAL', '153'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
