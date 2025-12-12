@@ -10,11 +10,8 @@ Idea so far yellow T-shirt
 ## T-shirts
 
 brand - Elevate, nanaimo
-
 printing type - Cd trukk, TTG
-
 type - cotton, elastan
-
 
 ## Hoodie
 brand - Russell

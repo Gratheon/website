@@ -780,6 +780,61 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "company/Processes/Hiring/Hiring",
+              "path": "/about/company/Processes/Hiring/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Internship/Internship_IoT_Mechatronics",
+              "path": "/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Internship/Internship_IoT_Mechatronics_ET",
+              "path": "/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics_ET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics",
+              "path": "/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+              "path": "/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/Beekeeper",
+              "path": "/about/company/Processes/Hiring/Response templates/Beekeeper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/Fullstack engineer",
+              "path": "/about/company/Processes/Hiring/Response templates/Fullstack engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/ML engineer role",
+              "path": "/about/company/Processes/Hiring/Response templates/ML engineer role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/Response templates",
+              "path": "/about/company/Processes/Hiring/Response templates/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/Robotics engineer",
+              "path": "/about/company/Processes/Hiring/Response templates/Robotics engineer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "company/Processes/Hiring/Response templates/UX designer",
+              "path": "/about/company/Processes/Hiring/Response templates/UX designer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP",
               "path": "/about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP",
               "sidebar": "tutorialSidebar"
@@ -835,26 +890,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "company/Team/Roles/Internship/Internship_IoT_Mechatronics",
-              "path": "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET",
-              "path": "/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
-              "path": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
-              "path": "/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "company/Team/Roles/ML engineer 🧠",
               "path": "/about/company/Team/Roles/ML engineer 🧠",
               "sidebar": "tutorialSidebar"
@@ -862,36 +897,6 @@
             {
               "id": "company/Team/Roles/Product manager 🦉",
               "path": "/about/company/Team/Roles/Product manager 🦉",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/Beekeeper",
-              "path": "/about/company/Team/Roles/Response templates/Beekeeper",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/Fullstack engineer",
-              "path": "/about/company/Team/Roles/Response templates/Fullstack engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/ML engineer role",
-              "path": "/about/company/Team/Roles/Response templates/ML engineer role",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/Response templates",
-              "path": "/about/company/Team/Roles/Response templates/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/Robotics engineer",
-              "path": "/about/company/Team/Roles/Response templates/Robotics engineer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "company/Team/Roles/Response templates/UX designer",
-              "path": "/about/company/Team/Roles/Response templates/UX designer",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2421,12 +2426,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-tag-manager": {
-    "default": {
-      "containerId": "GTM-KH4KC9",
-      "id": "default"
     }
   }
 }

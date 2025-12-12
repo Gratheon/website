@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'ca2'),
     exact: true
@@ -234,15 +269,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '6ef'),
+    component: ComponentCreator('/about', 'b72'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'e7c'),
+        component: ComponentCreator('/about', 'e04'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '02e'),
+            component: ComponentCreator('/about', '251'),
             routes: [
               {
                 path: '/about/',
@@ -629,6 +664,72 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/about/company/Processes/Hiring/',
+                component: ComponentCreator('/about/company/Processes/Hiring/', '3cc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics',
+                component: ComponentCreator('/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics', '81f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics_ET',
+                component: ComponentCreator('/about/company/Processes/Hiring/Internship/Internship_IoT_Mechatronics_ET', '285'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics',
+                component: ComponentCreator('/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics', '1eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics_ET',
+                component: ComponentCreator('/about/company/Processes/Hiring/Internship/VIDRIK_Internship_IoT_Mechatronics_ET', 'e36'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/', '3b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/Beekeeper',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/Beekeeper', '037'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/Fullstack engineer',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/Fullstack engineer', '22c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/ML engineer role',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/ML engineer role', '11a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/Robotics engineer',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/Robotics engineer', 'e96'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/company/Processes/Hiring/Response templates/UX designer',
+                component: ComponentCreator('/about/company/Processes/Hiring/Response templates/UX designer', 'ed3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP',
                 component: ComponentCreator('/about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP', '3db'),
                 exact: true,
@@ -701,30 +802,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics',
-                component: ComponentCreator('/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics', 'dc3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET',
-                component: ComponentCreator('/about/company/Team/Roles/Internship/Internship_IoT_Mechatronics_ET', '80b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics',
-                component: ComponentCreator('/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics', 'c38'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET',
-                component: ComponentCreator('/about/company/Team/Roles/Internship/VIDRIK_Internship_IoT_Mechatronics_ET', '370'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/company/Team/Roles/ML engineer 🧠',
                 component: ComponentCreator('/about/company/Team/Roles/ML engineer 🧠', '189'),
                 exact: true,
@@ -733,42 +810,6 @@ export default [
               {
                 path: '/about/company/Team/Roles/Product manager 🦉',
                 component: ComponentCreator('/about/company/Team/Roles/Product manager 🦉', '666'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/', 'ec1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/Beekeeper',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/Beekeeper', 'a57'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/Fullstack engineer',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/Fullstack engineer', '7e1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/ML engineer role',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/ML engineer role', '92a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/Robotics engineer',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/Robotics engineer', '235'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/company/Team/Roles/Response templates/UX designer',
-                component: ComponentCreator('/about/company/Team/Roles/Response templates/UX designer', '1df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
