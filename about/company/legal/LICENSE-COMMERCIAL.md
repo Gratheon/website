@@ -1,6 +1,6 @@
 GRATHEON COMMERCIAL LICENSE AGREEMENT
 
-Copyright (c) 2025 Gratheon (Artjom Kurapov)
+Copyright (c) 2025 Gratheon OÜ
 
 This Commercial License Agreement ("Agreement") is entered into between
 Gratheon ("Licensor") and the customer identified in the Order Form
@@ -18,18 +18,18 @@ herein contained, the parties agree as follows:
 1. DEFINITIONS
 
    1.1 "Software" means the Gratheon beehive management platform, including
-       all components, modules, and services as specified in the Order Form.
+   all components, modules, and services as specified in the Order Form.
 
    1.2 "Commercial Use" means use of the Software for commercial purposes,
-       including but not limited to revenue-generating activities.
+   including but not limited to revenue-generating activities.
 
    1.3 "Order Form" means the document specifying the licensed components,
-       number of users, hives, deployment type, fees, and term.
+   number of users, hives, deployment type, fees, and term.
 
 2. GRANT OF LICENSE
 
    2.1 Subject to the terms of this Agreement and payment of applicable fees,
-       Licensor grants Licensee a non-exclusive, non-transferable license to:
+   Licensor grants Licensee a non-exclusive, non-transferable license to:
 
        (a) Use, execute, and display the Software
        (b) Modify the Software for internal use
@@ -38,7 +38,7 @@ herein contained, the parties agree as follows:
        (d) Use the Software for Commercial Use
 
    2.2 This license explicitly exempts Licensee from the requirements of the
-       GNU Affero General Public License v3, including:
+   GNU Affero General Public License v3, including:
 
        (a) No obligation to disclose source code
        (b) No obligation to license modifications under AGPL
@@ -58,41 +58,32 @@ herein contained, the parties agree as follows:
        (e) Share login credentials or license keys with unauthorized users
 
    3.2 Number of users, hives, and deployment scope are limited as specified
-       in the Order Form.
+   in the Order Form.
 
-4. LICENSE TIERS (as specified in Order Form)
+4. ENTERPRISE LICENSE
 
-   4.1 Enterprise Basic
-       - On-premise or cloud deployment
+   The Enterprise License includes:
+   
+   4.1 Deployment Options
+       - On-premise deployment on Licensee's infrastructure
+       - Cloud/hosted deployment option
        - Custom deployment assistance
-       - Standard support (business hours)
-       - Up to specified number of users and hives
+   
+   4.2 Support and Maintenance
+       - Email and ticket support
+       - Bug fixes and security patches
+       - Regular software updates
+       - Technical assistance for deployment and integration
+   
+   4.3 Customization Rights
+       - Modify the Software for internal use
+   
+   4.4 Scale
+       - Number of users, hives, and features as specified in Order Form
+       - Custom SLA guarantees available (if specified in Order Form)
+       - Priority support options available (if specified in Order Form)
 
-   4.2 Enterprise Premium
-       - All Enterprise Basic features
-       - 24/7 priority support
-       - SLA guarantees (99.5% uptime for hosted)
-       - Custom integrations and API development
-       - Unlimited users and hives
-
-   4.3 White-Label License
-       - All Enterprise Premium features
-       - Right to rebrand and customize UI
-       - Source code access (for modifications)
-       - Custom deployment and training
-
-5. SUPPORT AND MAINTENANCE
-
-   5.1 Support level is specified in the Order Form and may include:
-       - Email/ticket support
-       - Phone support
-       - On-site visits
-       - Training and onboarding
-
-   5.2 Maintenance includes bug fixes, security patches, and updates as
-       released by Licensor.
-
-6. FEES AND PAYMENT
+5. FEES AND PAYMENT
 
    5.1 Licensee agrees to pay fees as specified in the Order Form.
 
