@@ -140,7 +140,12 @@ OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
 ## 8. Miscellaneous
 
 8.1 This Agreement will be governed by and construed in accordance with the 
-    laws of [Your Jurisdiction] excluding its conflicts of law provisions.
+    laws of Estonia excluding its conflicts of law provisions. Under certain 
+    circumstances, the governing law in this section might be superseded by 
+    the United Nations Convention on Contracts for the International Sale of 
+    Goods ("UN Convention") and the parties intend to avoid the application 
+    of the UN Convention to this Agreement and, thus, exclude the application 
+    of the UN Convention in its entirety to this Agreement.
 
 8.2 This Agreement sets out the entire agreement between You and Us for Your 
     Contributions to Us and overrides all other agreements or understandings.
@@ -213,6 +218,13 @@ emailing pilot@gratheon.com.
 
 Please sign by printing, signing, and emailing to pilot@gratheon.com.
 
-This CLA is based on the Harmony Entity Contributor License Agreement 
-(http://harmonyagreements.org).
+---
+
+**Based on Harmony Agreements**
+
+This agreement is based on the Harmony Entity Contributor License Agreement, 
+Version 1.0 (http://harmonyagreements.org).
+
+The Harmony Agreements are licensed under a Creative Commons Attribution 3.0 
+Unported License.
 
