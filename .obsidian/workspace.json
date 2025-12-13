@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/legal/index.md",
+                "file": "about/company/legal/CLA-INDIVIDUAL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "CLA-INDIVIDUAL"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "ef1831a6beba9818",
   "lastOpenFiles": [
-    "about/company/Team/Merchandise.md",
-    "about/company/legal/index.md",
-    "about/company/legal/CONTRIBUTING.md",
     "about/company/legal/CLA-CORPORATE.md",
+    "about/company/legal/index.md",
+    "about/company/Team/Merchandise.md",
+    "about/company/legal/CONTRIBUTING.md",
     "about/company/legal/CLA-INDIVIDUAL.md",
     "about/company/legal/LICENSE-COMMERCIAL.md",
     "about/company/legal",
