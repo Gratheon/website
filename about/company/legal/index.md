@@ -2,7 +2,6 @@
 title: Legal Documents
 description: Legal documents and agreements for Gratheon contributors and customers
 ---
-
 # Legal Documents
 
 This page contains all legal documents related to contributing to Gratheon OÜ projects and commercial licensing.
@@ -53,18 +52,3 @@ Gratheon OÜ uses a **dual-licensing model**:
 - Custom integrations
 
 See our [Pricing Page](https://gratheon.com/pricing) for details.
-
-## Questions?
-
-- **CLA questions**: pilot@gratheon.com
-- **Commercial licensing**: pilot@gratheon.com
-- **General questions**: Open an issue in the relevant repository
-
-## About Gratheon OÜ
-
-Gratheon OÜ is an Estonian company developing open source beehive management and analytics software.
-
-- **Website**: https://gratheon.com
-- **Email**: pilot@gratheon.com
-- **Registry Code**: [To be added]
-
