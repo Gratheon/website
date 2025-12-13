@@ -37,8 +37,8 @@ We use [CLA Assistant](https://cla-assistant.io) to streamline the CLA process:
 4. **That's it!** Once signed, you can contribute to any Gratheon repository.
 
 Alternatively, you can:
-- Download the [Individual CLA](../templates/CLA-INDIVIDUAL.md)
-- Or [Corporate CLA](../templates/CLA-CORPORATE.md) if contributing on behalf 
+- Download the [Individual CLA](CLA-INDIVIDUAL.md)
+- Or [Corporate CLA](CLA-CORPORATE.md) if contributing on behalf 
   of a company
 - Sign and email to contributors@gratheon.com
 
@@ -46,7 +46,7 @@ Alternatively, you can:
 
 If you're contributing as part of your job, your employer needs to sign the 
 Corporate CLA. Please have your legal department review and sign the 
-[Corporate CLA](../templates/CLA-CORPORATE.md).
+[Corporate CLA](CLA-CORPORATE.md).
 
 ## Code of Conduct
 
