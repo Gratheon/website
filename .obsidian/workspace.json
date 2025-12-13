@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP.md",
+                "file": "about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BUSINESS_DEVELOPMENT_MENTOR_PREP"
+              "title": "LEGAL_ANALYSIS_MENTOR_PREP"
             }
           }
         ]
@@ -180,6 +180,8 @@
   },
   "active": "ef1831a6beba9818",
   "lastOpenFiles": [
+    "about/company/prototron_dataroom/FINANCE_MENTOR_PREP.md",
+    "about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP.md",
     "about/company/legal/CLA-INDIVIDUAL.md",
     "about/company/legal/CLA-CORPORATE.md",
     "about/company/legal/index.md",
@@ -215,8 +217,6 @@
     "about/products/web_app/starter-tier/🗺️ Hive placement planner.md",
     "about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP.md",
     "docs/web-app/features/hive-placement-planner.md",
-    "about/company/prototron_dataroom/FINANCE_MENTOR_PREP.md",
-    "about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP.md",
     "about/company/prototron_dataroom/PRODUCT_DEVELOPMENT_MENTOR_PREP.md",
     "about/company/prototron_dataroom/MARKETING_MENTOR_PREP.md",
     "blog/2025-12-07 🏛️ Gratheon Trademark Filed.md",
