@@ -154,9 +154,9 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Pay-per-use Infrastructure Features</h4>
               <ul className="pricing-card-features">
-                <li> </li>
-                <li>🎥 Video processing & storage</li>
+                <li>🎥 Hive entrance video processing & storage</li>
                 <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video playback</Link></li>
+                <li>🚿 &nbsp; Increased IoT telemetry rate limits</li>
 
                 <li>🛠 SMS alert notifications</li>
                 <li>🛠 Webhook calls & API integrations</li>
