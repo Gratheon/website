@@ -1,5 +1,6 @@
 ---
 status: complete
+title: 🦀 Hive bottom board varroa counting
 ---
 
 ### 🎯 Purpose

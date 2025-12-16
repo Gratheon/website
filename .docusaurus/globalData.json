@@ -1680,11 +1680,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
-              "path": "/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "products/web_app/pro-tier/alerts",
               "path": "/about/products/web_app/pro-tier/alerts",
               "sidebar": "tutorialSidebar"
@@ -1867,6 +1862,11 @@
             {
               "id": "products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
               "path": "/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "products/web_app/starter-tier/hive_bottom_varroa_count",
+              "path": "/about/products/web_app/starter-tier/hive_bottom_varroa_count",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2451,12 +2451,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-tag-manager": {
-    "default": {
-      "containerId": "GTM-KH4KC9",
-      "id": "default"
     }
   }
 }

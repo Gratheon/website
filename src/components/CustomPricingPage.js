@@ -108,8 +108,7 @@ export default function CustomPricingPage() {
               <ul className="pricing-card-features">
                 <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
                 <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
-                <li>🧮 &nbsp;<Link to="/about/products/web_app/pro-tier/🧮 Hive bottom board & varroa monitoring">Varroa Monitoring</Link></li>
-                <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video Stream Playback</Link></li>
+                <li>🧮 &nbsp;<Link to="/about/products/web_app/starter-tier/hive_bottom_varroa_count">🦀 Hive bottom board varroa counting</Link></li>
                 <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
                 <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                 <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
@@ -147,21 +146,23 @@ export default function CustomPricingPage() {
               marginTop: '8px',
               display: 'inline-block'
             }}>
-              In Development
+                🛠In Development
             </div>
           </div>
           <div className="pricing-card-body">
             <div className="pricing-features-section">
               <h4>Pay-per-use Infrastructure Features</h4>
               <ul className="pricing-card-features">
+                <li>📈 Frequent telemetry requests</li>
+                <li>🎥 Video processing & storage</li>
+                <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video playback</Link></li>
+
+                <li>📲 SMS alert notifications 🛠</li>
+                <li>🪝 Webhook calls & API integrations 🛠️</li>
+
                 <li>📦 Extra hive & frame capacity beyond tier limits</li>
-                <li>🖼️ Additional frame uploads & AI analysis</li>
+                <li>🖼️ Additional frame uploads</li>
                 <li>📓 Extra beehive inspections</li>
-                <li>📈 Telemetry data requests from IoT sensors</li>
-                <li>📈 Long-term sensor data point storage</li>
-                <li>📲 SMS alert notifications</li>
-                <li>🎥 Video processing & storage (entrance observer)</li>
-                <li>🪝 Webhook calls & API integrations</li>
               </ul>
             </div>
             <div className="pricing-features-section">
@@ -198,7 +199,7 @@ export default function CustomPricingPage() {
               marginTop: '8px',
               display: 'inline-block'
             }}>
-              In Development
+                🛠In Development
             </div>
           </div>
           <div className="pricing-card-body">
@@ -324,7 +325,7 @@ export default function CustomPricingPage() {
             display: 'inline-block',
             marginTop: '8px'
           }}>
-            In Development
+              🛠 In Development
           </div>
         </div>
 
