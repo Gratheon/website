@@ -68,8 +68,9 @@ export default function CustomPricingPage() {
                 <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/queen-detection">Queen Detection</Link></li>
                 <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
-                <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
-                <li>📅 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
+                  <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
+                  <li>📅 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
+                  <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/hive_ownership_transfer">Hive ownership transfer</Link> 🛠️</li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -108,7 +109,7 @@ export default function CustomPricingPage() {
               <ul className="pricing-card-features">
                 <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
                 <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
-                <li>🧮 &nbsp;<Link to="/about/products/web_app/starter-tier/hive_bottom_varroa_count">🦀 Hive bottom board varroa counting</Link></li>
+                <li>🦀 &nbsp;<Link to="/about/products/web_app/starter-tier/hive_bottom_varroa_count">Hive bottom board varroa counting</Link></li>
                 <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
                 <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                 <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
@@ -157,8 +158,8 @@ export default function CustomPricingPage() {
                 <li>🎥 Video processing & storage</li>
                 <li>📺 &nbsp;<Link to="/about/products/web_app/flexible-tier/video_playback">Video playback</Link></li>
 
-                <li>📲 SMS alert notifications 🛠</li>
-                <li>🪝 Webhook calls & API integrations 🛠️</li>
+                <li>🛠 SMS alert notifications</li>
+                <li>🛠 Webhook calls & API integrations</li>
 
                 <li>📦 Extra hive & frame capacity beyond tier limits</li>
                 <li>🖼️ Additional frame uploads</li>
@@ -207,12 +208,12 @@ export default function CustomPricingPage() {
               <h4>Features</h4>
               <ul className="pricing-card-features">
                 <li>📈 &nbsp;<Link to="/about/products/web_app/pro-tier/hive_telemetry_storage">Hive telemetry storage</Link></li>
-                <li>📊 &nbsp;<Link to="/about/products/web_app/pro-tier/timeseries_data_analytics">Timeseries data analytics</Link></li>
-                <li>🔔 AI-driven anomaly detection</li>
-                <li>♻️ &nbsp;<Link to="/about/products/web_app/pro-tier/hive_ownership_transfer">Hive ownership transfer</Link></li>
-                <li>⚖️ &nbsp;<Link to="/about/products/web_app/pro-tier/colony_comparison_analytics">Colony comparison analytics</Link></li>
-                <li>📦 &nbsp;<Link to="/about/products/web_app/pro-tier/inventory_management">Inventory management system</Link></li>
-                <li>📓 Unlimited inspections per hive</li>
+                <li>📊 &nbsp;<Link to="/about/products/web_app/pro-tier/timeseries_data_analytics">Timeseries data analytics</Link>️</li>
+                  <li>🛠 &nbsp;<Link to="/about/products/web_app/pro-tier/colony_comparison_analytics">Colony comparison analytics</Link></li>
+                  <li>🛠 &nbsp;<Link to="/about/products/web_app/pro-tier/inventory_management">Warehouse inventory management</Link>️</li>
+                  <li>🛠 &nbsp; AI-driven anomaly detection</li>
+                  <li>🛠 &nbsp; Device management️</li>
+                  <li>📓 Unlimited inspections per hive</li>
               </ul>
             </div>
             <div className="pricing-limitations-section">
@@ -257,11 +258,10 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
-                <li>🔬 Research data access & export</li>
                 <li>🛠️ Custom integrations & API development</li>
                 <li>🏢 On-premise deployment options</li>
                 <li>📞 24/7 priority support & maintenance</li>
-                <li>⚡ High-priority processing & SLA guarantees</li>
+                <li>⚡  High-priority processing & SLA guarantees</li>
                 <li>🔐 Advanced security & compliance features</li>
                 <li>📊 Custom reporting & analytics dashboards</li>
                 <li>📋 Custom training & onboarding</li>

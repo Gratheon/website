@@ -1625,6 +1625,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "products/web_app/hobbyist-tier/hive_ownership_transfer",
+              "path": "/about/products/web_app/hobbyist-tier/hive_ownership_transfer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing",
               "path": "/about/products/web_app/hobbyist-tier/ideas 💡/♻️ Apiary position sharing",
               "sidebar": "tutorialSidebar"
@@ -1687,11 +1692,6 @@
             {
               "id": "products/web_app/pro-tier/colony_comparison_analytics",
               "path": "/about/products/web_app/pro-tier/colony_comparison_analytics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "products/web_app/pro-tier/hive_ownership_transfer",
-              "path": "/about/products/web_app/pro-tier/hive_ownership_transfer",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -2451,6 +2451,12 @@
         }
       ],
       "breadcrumbs": true
+    }
+  },
+  "docusaurus-plugin-google-tag-manager": {
+    "default": {
+      "containerId": "GTM-KH4KC9",
+      "id": "default"
     }
   }
 }
