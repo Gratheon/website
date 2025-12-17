@@ -1,5 +1,9 @@
 We're incredibly thankful to share the outstanding work of three student teams from University of Tartu who chose Gratheon as their machine learning course project. This work was completed as part of the Machine Learning course (MTAT.03.227) taught by [Dmytro Fishman](https://www.linkedin.com/in/dmytro-fishman/), Associate Professor at University of Tartu. Their contributions are moving us closer to our mission of protecting bees through AI-powered monitoring.
 
+![](img/Screenshot%202025-12-17%20at%2012.57.55.png)
+
+![](img/Screenshot%202025-12-17%20at%2012.57.13.png)
+
 <!-- truncate -->
 
 ## Team T30 - Bee Type Detection (Vol 2)
@@ -28,8 +32,9 @@ What amazes us most is not just the technical excellence, but their commitment t
 
 To all eleven students: Your work embodies our mission to "**harmonize humanity with nature**." You've contributed to something bigger than any individual project - you're helping protect pollinators that are essential for global food security.
 
-Special thanks to Associate Professor **Dmytro Fishman** for fostering an environment where students can tackle real-world challenges and contribute to open-source projects that make a tangible difference.
+Special thanks to Associate Professor Dmytro Fishman for fostering an environment where students can tackle real-world challenges and contribute to open-source projects that make a tangible difference and teaching assistants that help out with that - [Mari-Liis Allikivi](https://www.linkedin.com/in/mari-liis-allikivi-33668a248/), [Chingiz Alikhanov](https://www.linkedin.com/in/chingiz-alikhanov-83803729b/), [Ali Zeynalli](https://www.linkedin.com/in/alizeynalli1205/), [Hasan Tanvir](https://www.linkedin.com/in/hasantanvir79/), [Dzvinka Yarish](https://www.linkedin.com/in/dzvinka-yarish-97635a134/).
 
+Check also [Presentations](https://drive.google.com/drive/folders/12ciUaNCjHmDuEruKZil__kNGml_Ye_1j?usp=drive_link "https://drive.google.com/drive/folders/12ciUaNCjHmDuEruKZil__kNGml_Ye_1j?usp=drive_link") teams made.
 ## Learn More
 
 - [Gratheon Entrance Observer](https://gratheon.com/about/products/entrance_observer/)

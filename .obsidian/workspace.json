@@ -11,10 +11,14 @@
             "id": "b4a96b4f95ae87f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog/2025-12-17 🎓 University of Tartu Students Advance Bee Monitoring with AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-12-17 🎓 University of Tartu Students Advance Bee Monitoring with AI"
             }
           }
         ]
@@ -176,7 +180,6 @@
   },
   "active": "b4a96b4f95ae87f3",
   "lastOpenFiles": [
-    "about/index.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -185,18 +188,20 @@
     "build/blog/rss.xsl",
     "build/sitemap.xml",
     "build/index.html",
-    "build/research/papers/Towards Robotic Mapping of a Honeybee Comb/index.html",
-    "build/research/papers/The development of honey bee coloniesassessed using a new semi-automated broodcounting method CombCount/index.html",
-    "build/assets/images/Screenshot 2025-05-15 at 11.13.39-e79f354395e83b2f1b7a72d7884794e8.png",
-    "build/assets/images/Screenshot 2024-12-04 at 14.12.04-9092348eca43d5fa25e3e80b3d46152a.png",
-    "build/assets/images/sunflower-7933994-1c6bb866e09adab2ac5e97367710ff42.jpg",
-    "build/assets/images/672538ac29707dcae0af0837_slider-all-the-features-cropped-c747dc9b8cf78394f1b9b872634d5870.webp",
-    "build/assets/images/436202645_10161734083722973_395574856169740131_n-48ad8ace16b8f36fa42a64d490130b2d.jpg",
-    "build/assets/images/Screenshot 2025-05-15 at 11.16.59-e3c7b86d13632acd2d20672c52210f2a.png",
-    "build/assets/images/Pasted image 20241113010733-c222883561b2177768469bcd59564180.png",
-    "build/assets/images/Moldy-frame-ed-3d6aeb21fc18cba0414b21530e3451c4.webp",
-    "build/assets/images/Screenshot 2024-11-22 at 17.14.38-2eff9c028e5177730d974ab48b8561ab.png",
-    "build/assets/images/Screenshot 2024-07-21 at 18.17.28-d81c1ecb6a9a9cab15e1817db0fa1ee7.png",
+    "build/research/papers/Smart Beehive Monitoring for Remote Regions - PhD thesis/index.html",
+    "build/research/papers/Recognition of Pollen-bearing Bees from Video using Convolutional Neural Network/index.html",
+    "build/research/papers/Real-time, low-latency closed-loop feedback using markerless posture tracking/index.html",
+    "build/assets/images/Screenshot 2025-04-25 at 11.36.38-9f9d8425615eaee75dd1807b6fb14c71.png",
+    "build/assets/images/Screenshot 2024-11-19 at 21.17.07-6bdd332915c7bb5417f719ebc1180b79.png",
+    "build/assets/images/Screenshot 2025-04-25 at 11.31.37-29bf8815d53738a1863deefe89c56ff3.png",
+    "build/assets/images/Pasted image 20241228012800-aeb8da5c11dcf6302898ec4280e8b250.png",
+    "build/assets/images/Screenshot 2024-12-03 at 13.32.11-d0d8d1a8ef54caf0e2bae679102e2a93.png",
+    "build/assets/images/435094050_10161678545892973_7404118579682025802_n-2ba18b850100d5da31420595724b0146.jpg",
+    "build/assets/images/20250220_101031-d27741ef707f37142a341f4f4bfc162a.jpg",
+    "build/assets/images/Screenshot 2025-04-25 at 11.13.24-594b70744a0f11b895331d52f6f953f1.png",
+    "build/assets/images/1730367850604-6d44b5f887b682570471dd83cf54b093.jpg",
+    "build/assets/images/president-4de3d04759916adff95642c3d77a3735.png",
+    "about/index.md",
     "about/company/index.md",
     "about/products/web_app/hobbyist-tier/hive_ownership_transfer.md",
     "about/products/web_app/flexible-tier/video_playback.md",

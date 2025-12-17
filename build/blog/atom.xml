@@ -2,11 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gratheon.com/blog</id>
     <title>Gratheon Blog</title>
-    <updated>2025-12-07T00:00:00.000Z</updated>
+    <updated>2025-12-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gratheon.com/blog"/>
     <subtitle>Gratheon Blog</subtitle>
     <icon>https://gratheon.com/favicons/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ 🎓 University of Tartu Students Advance Bee Monitoring with AI]]></title>
+        <id>https://gratheon.com/blog/2025/12/17/ 🎓 University of Tartu Students Advance Bee Monitoring with AI</id>
+        <link href="https://gratheon.com/blog/2025/12/17/ 🎓 University of Tartu Students Advance Bee Monitoring with AI"/>
+        <updated>2025-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're incredibly thankful to share the outstanding work of three student teams from University of Tartu who chose Gratheon as their machine learning course project. This work was completed as part of the Machine Learning course (MTAT.03.227) taught by Dmytro Fishman, Associate Professor at University of Tartu. Their contributions are moving us closer to our mission of protecting bees through AI-powered monitoring.]]></summary>
+        <content type="html"><![CDATA[<p>We're incredibly thankful to share the outstanding work of three student teams from University of Tartu who chose Gratheon as their machine learning course project. This work was completed as part of the Machine Learning course (MTAT.03.227) taught by <a href="https://www.linkedin.com/in/dmytro-fishman/" target="_blank" rel="noopener noreferrer" class="">Dmytro Fishman</a>, Associate Professor at University of Tartu. Their contributions are moving us closer to our mission of protecting bees through AI-powered monitoring.</p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-12-17%20at%2012.57.55-9ae5019e540e3693993a61d9e7291124.png" width="2044" height="1082" class="img_Uobs"></p>
+<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202025-12-17%20at%2012.57.13-1f0f53059bb36a0a44af720fbf1155be.png" width="1268" height="864" class="img_Uobs"></p>
+<h2 class="anchor anchorTargetStickyNavbar_rb2N" id="team-t30---bee-type-detection-vol-2">Team T30 - Bee Type Detection (Vol 2)<a href="https://gratheon.com/blog/2025/12/17/%20%F0%9F%8E%93%20University%20of%20Tartu%20Students%20Advance%20Bee%20Monitoring%20with%20AI#team-t30---bee-type-detection-vol-2" class="hash-link" aria-label="Direct link to Team T30 - Bee Type Detection (Vol 2)" title="Direct link to Team T30 - Bee Type Detection (Vol 2)" translate="no">​</a></h2>
+<p><a href="https://www.linkedin.com/in/kreete-kuusk/" target="_blank" rel="noopener noreferrer" class="">Kreete Kuusk</a>, Danni Zhang, <a href="https://www.linkedin.com/in/jasper-luik/" target="_blank" rel="noopener noreferrer" class="">Jasper Luik</a>, and <a href="https://www.linkedin.com/in/rasmus-mirma/" target="_blank" rel="noopener noreferrer" class="">Rasmus Mirma</a> developed a YOLOv10 model achieving <strong>96.7% precision</strong> in distinguishing drone bees from worker bees. Their sophisticated approach included manual dataset curation, intelligent augmentation strategies, and automatic image splitting - critical for understanding colony health dynamics.</p>
+<p><strong>GitHub:</strong> <a href="https://github.com/KreeteKuusk/Bee-type-detection-ML2025" target="_blank" rel="noopener noreferrer" class="">https://github.com/KreeteKuusk/Bee-type-detection-ML2025</a></p>
+<p><img decoding="async" loading="lazy" src="https://raw.githubusercontent.com/KreeteKuusk/Bee-type-detection-ML2025/main/results/train/confusion_matrix_normalized.png" alt="Bee type detection results" class="img_Uobs"></p>
+<h2 class="anchor anchorTargetStickyNavbar_rb2N" id="team-t14---hornet-detection-system">Team T14 - Hornet Detection System<a href="https://gratheon.com/blog/2025/12/17/%20%F0%9F%8E%93%20University%20of%20Tartu%20Students%20Advance%20Bee%20Monitoring%20with%20AI#team-t14---hornet-detection-system" class="hash-link" aria-label="Direct link to Team T14 - Hornet Detection System" title="Direct link to Team T14 - Hornet Detection System" translate="no">​</a></h2>
+<p><a href="https://www.linkedin.com/in/albertunn/" target="_blank" rel="noopener noreferrer" class="">Albert Unn</a>, <a href="https://www.linkedin.com/in/kadi-liis-kivi/" target="_blank" rel="noopener noreferrer" class="">Kadi-Liis Kivi</a>, <a href="https://www.linkedin.com/in/karen-roht/" target="_blank" rel="noopener noreferrer" class="">Karen Roht</a>, and <a href="https://www.linkedin.com/in/otto-kase/" target="_blank" rel="noopener noreferrer" class="">Otto Kase</a> tackled a life-or-death challenge. Hornets can destroy bee colonies within hours. Their YOLOv8-nano model (<strong>96.7% precision, 91.2% recall</strong>) provides early warning capabilities, manually labeling over 1,250 images and creating production-ready deployment for edge devices.</p>
+<p>This detection system is crucial for beekeepers as early detection can mean the difference between saving or losing an entire colony.</p>
+<h2 class="anchor anchorTargetStickyNavbar_rb2N" id="team-t41---multi-class-bee-detection-on-video">Team T41 - Multi-Class Bee Detection on Video<a href="https://gratheon.com/blog/2025/12/17/%20%F0%9F%8E%93%20University%20of%20Tartu%20Students%20Advance%20Bee%20Monitoring%20with%20AI#team-t41---multi-class-bee-detection-on-video" class="hash-link" aria-label="Direct link to Team T41 - Multi-Class Bee Detection on Video" title="Direct link to Team T41 - Multi-Class Bee Detection on Video" translate="no">​</a></h2>
+<p><a href="https://www.linkedin.com/in/norman-tolmats/" target="_blank" rel="noopener noreferrer" class="">Norman Tolmats</a>, <a href="https://www.linkedin.com/in/mihkel-kulu/" target="_blank" rel="noopener noreferrer" class="">Mihkel Kulu</a>, <a href="https://www.linkedin.com/in/joonas-tiitson/" target="_blank" rel="noopener noreferrer" class="">Joonas Tiitson</a>, and <a href="https://www.linkedin.com/in/markus-kivime/" target="_blank" rel="noopener noreferrer" class="">Markus Kivime</a> pushed the boundaries further by detecting pollen-carrying bees in real-time video streams. Their work on weakly supervised learning and auto-labeling pipelines (30k+ images) demonstrates the future of scalable AI solutions.</p>
+<p><strong>GitHub:</strong> <a href="https://github.com/bukyt/beeDetection" target="_blank" rel="noopener noreferrer" class="">https://github.com/bukyt/beeDetection</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_rb2N" id="impact-on-gratheons-mission">Impact on Gratheon's Mission<a href="https://gratheon.com/blog/2025/12/17/%20%F0%9F%8E%93%20University%20of%20Tartu%20Students%20Advance%20Bee%20Monitoring%20with%20AI#impact-on-gratheons-mission" class="hash-link" aria-label="Direct link to Impact on Gratheon's Mission" title="Direct link to Impact on Gratheon's Mission" translate="no">​</a></h2>
+<p>What amazes us most is not just the technical excellence, but their commitment to open-source principles and practical deployment. These students went beyond academic requirements - they created production-ready tools that will directly impact beekeepers and their colonies.</p>
+<p>To all eleven students: Your work embodies our mission to "<strong>harmonize humanity with nature</strong>." You've contributed to something bigger than any individual project - you're helping protect pollinators that are essential for global food security.</p>
+<p>Special thanks to Associate Professor Dmytro Fishman for fostering an environment where students can tackle real-world challenges and contribute to open-source projects that make a tangible difference and teaching assistants that help out with that - <a href="https://www.linkedin.com/in/mari-liis-allikivi-33668a248/" target="_blank" rel="noopener noreferrer" class="">Mari-Liis Allikivi</a>, <a href="https://www.linkedin.com/in/chingiz-alikhanov-83803729b/" target="_blank" rel="noopener noreferrer" class="">Chingiz Alikhanov</a>, <a href="https://www.linkedin.com/in/alizeynalli1205/" target="_blank" rel="noopener noreferrer" class="">Ali Zeynalli</a>, <a href="https://www.linkedin.com/in/hasantanvir79/" target="_blank" rel="noopener noreferrer" class="">Hasan Tanvir</a>, <a href="https://www.linkedin.com/in/dzvinka-yarish-97635a134/" target="_blank" rel="noopener noreferrer" class="">Dzvinka Yarish</a>.</p>
+<p>Check also <a href="https://drive.google.com/drive/folders/12ciUaNCjHmDuEruKZil__kNGml_Ye_1j?usp=drive_link" target="_blank" rel="noopener noreferrer" title="https://drive.google.com/drive/folders/12ciUaNCjHmDuEruKZil__kNGml_Ye_1j?usp=drive_link" class="">Presentations</a> teams made.</p>
+<h2 class="anchor anchorTargetStickyNavbar_rb2N" id="learn-more">Learn More<a href="https://gratheon.com/blog/2025/12/17/%20%F0%9F%8E%93%20University%20of%20Tartu%20Students%20Advance%20Bee%20Monitoring%20with%20AI#learn-more" class="hash-link" aria-label="Direct link to Learn More" title="Direct link to Learn More" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://gratheon.com/about/products/entrance_observer/" target="_blank" rel="noopener noreferrer" class="">Gratheon Entrance Observer</a></li>
+<li class=""><a href="https://gratheon.com/about/credits" target="_blank" rel="noopener noreferrer" class="">All Contributors</a></li>
+<li class=""><a href="https://gratheon.com/about/volunteer" target="_blank" rel="noopener noreferrer" class="">How to Volunteer</a></li>
+</ul>
+<p>Thank you for choosing to make a difference. 🌻🐝</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 🏛️ Gratheon Trademark Filed]]></title>
         <id>https://gratheon.com/blog/2025/12/07/ 🏛️ Gratheon Trademark Filed</id>
@@ -1058,34 +1090,5 @@ Use cases:
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2017.51.26-419f6953a9b5a10ed5e13ffb86783597.png" width="3436" height="1694" class="img_Uobs"></p>
 <p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2019.37.37-81a6cfdb6e6b1900d49e10e705630914.png" width="3406" height="1940" class="img_Uobs">
 <img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2018.31.01-01db27711b1de8661c0358cd4387e1d5.png" width="1898" height="1072" class="img_Uobs"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2018.50.52-a8abb45b22e1d90092ee2fbeb35c7efc.png" width="1716" height="1076" class="img_Uobs"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2018.51.39-2de7f9ca747fabd655c3809fa5a6a53b.png" width="1744" height="1074" class="img_Uobs"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2018.56.49-521c7d4d76e1d5c9abf39a757ac23c6f.png" width="1844" height="1076" class="img_Uobs"><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-19%20at%2019.24.01-8354f8681cff7fec197bd8276893b55f.png" width="1990" height="1300" class="img_Uobs"></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 🎒 JAMK workshop 🇫🇮]]></title>
-        <id>https://gratheon.com/blog/2024/11/04/ 🎒 JAMK workshop 🇫🇮</id>
-        <link href="https://gratheon.com/blog/2024/11/04/ 🎒 JAMK workshop 🇫🇮"/>
-        <updated>2024-11-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Attended JAMK workshop that is looking for precise pollination and food-related startups.]]></summary>
-        <content type="html"><![CDATA[<p>Attended JAMK workshop that is looking for precise pollination and food-related startups.</p>
-<p><a href="https://anicare.fi/en/homepage/" target="_blank" rel="noopener noreferrer" class="">AniCare</a> was one of the example startups that was featured</p>
-<p><a href="https://www.jamk.fi/en/jamk/focus-areas/bioeconomy/bioboosters" target="_blank" rel="noopener noreferrer" class="">https://www.jamk.fi/en/jamk/focus-areas/bioeconomy/bioboosters</a>
-<a href="https://www.jamk.fi/en/project/agriventure-finland-2025" target="_blank" rel="noopener noreferrer" class="">https://www.jamk.fi/en/project/agriventure-finland-2025</a></p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.26.19-0c88debfa7df0f58a3b610d50e2bf381.png" width="2324" height="1414" class="img_Uobs"></p>
-<p>From startups that BioBoosters has supported, I liked:</p>
-<ul>
-<li class=""><a href="https://antrobotics.de/" target="_blank" rel="noopener noreferrer" class="">https://antrobotics.de/</a></li>
-<li class=""><a href="https://geopard.tech/" target="_blank" rel="noopener noreferrer" class="">https://geopard.tech/</a></li>
-<li class=""><a href="https://lensor.io/lensor-application/" target="_blank" rel="noopener noreferrer" class="">https://lensor.io/lensor-application/</a></li>
-<li class=""><a href="https://soilscout.com/" target="_blank" rel="noopener noreferrer" class="">https://soilscout.com/</a></li>
-<li class=""><a href="https://www.trabotyx.com/" target="_blank" rel="noopener noreferrer" class="">https://www.trabotyx.com/</a></li>
-<li class=""><a href="https://weedbot.eu/" target="_blank" rel="noopener noreferrer" class="">https://weedbot.eu/</a></li>
-</ul>
-<p><a href="https://gratheon.com/assets/files/Test%20Farms%202025_deck%20for%20participants-962d4adb01d4433ec0d0bf2d8e7e2ab5.pdf" target="_blank" class="">PDF</a></p>
-<object data="/assets/files/Test Farms 2025_deck for participants-962d4adb01d4433ec0d0bf2d8e7e2ab5.pdf" type="application/pdf" width="100%" height="800"></object>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.32.58-f16daaaa24dfbf2c8b09571c5c0c2415.png" width="2378" height="1332" class="img_Uobs"></p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.27.43-d0d36915d41180b0bf69ae2d214a1b13.png" width="2172" height="1218" class="img_Uobs"></p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.26.56-b0e53bbf15b00ed1d310d4a12fbb7a1d.png" width="2166" height="1218" class="img_Uobs"></p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.38.02-5cbf8c3e5b8ac7c27494d63f793de094.png" width="2196" height="1468" class="img_Uobs"></p>
-<p><img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.36.27-85025f8495bb10a55407903bb881dab6.png" width="2194" height="1492" class="img_Uobs">
-<img decoding="async" loading="lazy" src="https://gratheon.com/assets/images/Screenshot%202024-11-04%20at%2015.38.29-fe101984cd84e78a35516caea5b97b8d.png" width="2198" height="1504" class="img_Uobs"></p>]]></content>
     </entry>
 </feed>
