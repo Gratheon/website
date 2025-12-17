@@ -426,6 +426,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "web-app/features/varroa-bottom-detection",
+              "path": "/docs/web-app/features/varroa-bottom-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "web-app/Tech stack, conventions, environments",
               "path": "/docs/web-app/Tech stack, conventions, environments",
               "sidebar": "tutorialSidebar"
@@ -2451,12 +2456,6 @@
         }
       ],
       "breadcrumbs": true
-    }
-  },
-  "docusaurus-plugin-google-tag-manager": {
-    "default": {
-      "containerId": "GTM-KH4KC9",
-      "id": "default"
     }
   }
 }
