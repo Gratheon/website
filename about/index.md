@@ -11,7 +11,7 @@ Gratheon helps beekeepers to protect bees, understand colony development, and sc
 
 ## Elevator pitch
 ### Problem
-Did you know that on average 20% to 40 % of bee colonies die every year. They die from hunger, [🦀 Varroa Mite Infestations](problems/biological/🦀%20Infestations.md), late  [🧶 Swarming](problems/biological/🧶%20Swarming.md) or because beekeeper was too lazy to lift heavy beehives to inspect them every 2 weeks.
+Did you know that on average 20% to 40 % of bee colonies die every year. They die from hunger, [🦀 Varroa Mite Infestations](problems/biological/🦀%20Infestations.md), late  [🧶 Swarming](problems/biological/🧶%20Swarming.md) or because beekeeper was too tired to lift heavy beehives to inspect them every 1-2 weeks.
 
 ## Solution
 My name is Artjom we at Gratheon develop a new type of beehive that inspects the bees automatically. It consists of 3 devices that send data about beehive and an app that analyzes weight, images and video with AI and alerts the user to improve awareness and prevent collapse.
