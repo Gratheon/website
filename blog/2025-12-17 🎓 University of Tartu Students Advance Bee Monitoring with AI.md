@@ -12,13 +12,13 @@ We're incredibly thankful to share the outstanding work of three student teams f
 
 **GitHub:** https://github.com/KreeteKuusk/Bee-type-detection-ML2025
 
-![Bee type detection results](https://raw.githubusercontent.com/KreeteKuusk/Bee-type-detection-ML2025/main/results/train/confusion_matrix_normalized.png)
-
 ## Team T14 - Hornet Detection System
 
 [Albert Unn](https://www.linkedin.com/in/albertunn/), [Kadi-Liis Kivi](https://www.linkedin.com/in/kadi-liis-kivi/), [Karen Roht](https://www.linkedin.com/in/karen-roht/), and [Otto Kase](https://www.linkedin.com/in/otto-kase/) tackled a life-or-death challenge. Hornets can destroy bee colonies within hours. Their YOLOv8-nano model (**96.7% precision, 91.2% recall**) provides early warning capabilities, manually labeling over 1,250 images and creating production-ready deployment for edge devices.
 
 This detection system is crucial for beekeepers as early detection can mean the difference between saving or losing an entire colony.
+
+**GitHub:** [https://github.com/OttoKase/HornetDetector](https://github.com/OttoKase/HornetDetector "https://github.com/OttoKase/HornetDetector")
 
 ## Team T41 - Multi-Class Bee Detection on Video
 
