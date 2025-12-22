@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/scales/ideas/Easy battery replacement.md",
+                "file": "about/products/web_app/pro-tier/colony_comparison_analytics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Easy battery replacement"
+              "title": "colony_comparison_analytics"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 421.5
   },
   "right": {
     "id": "676a491059176ac1",
@@ -180,8 +180,26 @@
   },
   "active": "b4a96b4f95ae87f3",
   "lastOpenFiles": [
-    "about/products/scales/ideas/Measure weight distribution with multiple sensors.md",
+    "about/products/web_app/hobbyist-tier/hive_ownership_transfer.md",
+    "about/products/web_app/hobbyist-tier/apiary-management.md",
+    "about/products/web_app/hobbyist-tier/queen-detection.md",
+    "about/products/web_app/hobbyist-tier/👑 Queen management.md",
+    "about/products/web_app/hobbyist-tier/👑 Queen detection.md",
+    "about/products/web_app/hobbyist-tier/queen-management.md",
+    "about/products/web_app/hobbyist-tier/🖼️ Frame side management.md",
+    "about/products/web_app/hobbyist-tier/frame-photo-upload.md",
+    "about/products/web_app/hobbyist-tier/📸 Frame side photo upload.md",
+    "about/products/web_app/hobbyist-tier/📦 Hive section management.md",
+    "about/products/web_app/hobbyist-tier/📦 Hive management.md",
+    "about/products/web_app/hobbyist-tier/📦 Apiary management.md",
+    "about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary.md",
+    "about/products/web_app/hobbyist-tier/🐝 Worker bee detection.md",
+    "about/products/web_app/hobbyist-tier/🌻 List local plants.md",
+    "about/products/web_app/hobbyist-tier/🐝 Count bees.md",
+    "about/products/web_app/hobbyist-tier/🐝 Queen cup detection.md",
+    "about/products/web_app/starter-tier/🐝 Honeycomb cell detection & management.md",
     "about/products/scales/ideas/Easy battery replacement.md",
+    "about/products/scales/ideas/Measure weight distribution with multiple sensors.md",
     "blog/2025-12-17 🎓 University of Tartu Students Advance Bee Monitoring with AI.md",
     "docs/web-app/features/varroa-bottom-detection.md",
     "build/blog/rss.xml",
@@ -206,26 +224,8 @@
     "build/assets/images/Screenshot 2025-09-17 at 12.06.31-6e8010440c3ed8af48b4de0600124461.png",
     "about/index.md",
     "about/company/index.md",
-    "about/products/web_app/hobbyist-tier/hive_ownership_transfer.md",
     "about/products/web_app/flexible-tier/video_playback.md",
     "about/products/web_app/starter-tier/hive_bottom_varroa_count.md",
-    "about/company/legal/index.md",
-    "about/company/legal/LICENSE-COMMERCIAL.md",
-    "about/company/prototron_dataroom/LEGAL_ANALYSIS_MENTOR_PREP.md",
-    "about/company/prototron_dataroom/FINANCE_MENTOR_PREP.md",
-    "about/company/prototron_dataroom/BUSINESS_DEVELOPMENT_MENTOR_PREP.md",
-    "about/company/legal/CLA-INDIVIDUAL.md",
-    "about/company/legal/CLA-CORPORATE.md",
-    "about/company/Team/Merchandise.md",
-    "about/company/legal/CONTRIBUTING.md",
-    "about/company/Team/index.md",
-    "about/company/Team/🍰 Equity and fundraising plan.md",
-    "about/company/Team/Roles/Roles.md",
-    "about/company/Processes/Hiring/Hiring.md",
-    "docs/beehive-sensors/components/index.md",
-    "about/products/scales/scales.md",
-    "about/products/web_app/starter-tier/🗺️ Hive placement planner.md",
-    "docs/web-app/features/hive-placement-planner.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

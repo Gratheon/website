@@ -674,17 +674,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-308": {
+  "/about-117": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-696": {
+  "/about-b86": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-33e": {
+  "/about-4ca": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1567,41 +1567,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-♻️-qr-code-generationcc-0-e62"
   },
-  "/about/products/web_app/hobbyist-tier/🌻 list of local plants-9c0": {
+  "/about/products/web_app/hobbyist-tier/🌻 List local plants-df4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-🌻-list-of-local-plants-2-bd-bff"
+    "content": "content---about-products-web-app-hobbyist-tier-🌻-list-local-plants-8-d-1-2a0"
   },
-  "/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter-2d6": {
+  "/about/products/web_app/hobbyist-tier/🐝 Count bees-111": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-🐝-frame-analysis-bee-counterf-0-f-c8f"
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-count-beesa-21-f65"
   },
-  "/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection-623": {
+  "/about/products/web_app/hobbyist-tier/🐝 Queen cup detection-0cd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-🐝-frame-side-queen-cup-detection-436-237"
-  },
-  "/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management-fc0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-🐝-honeycomb-cell-detection-managementdac-832"
+    "content": "content---about-products-web-app-hobbyist-tier-🐝-queen-cup-detection-872-f61"
   },
   "/about/products/web_app/hobbyist-tier/🐝 Worker bee detection-d01": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-🐝-worker-bee-detection-346-0bd"
   },
-  "/about/products/web_app/hobbyist-tier/👑 Queen detection-2fd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-👑-queen-detectionf-1-b-0c3"
-  },
-  "/about/products/web_app/hobbyist-tier/👑 Queen management-152": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-👑-queen-management-023-318"
-  },
   "/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary-386": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-📅-varroa-treatment-diary-4-eb-53c"
-  },
-  "/about/products/web_app/hobbyist-tier/📦 Apiary management-bef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-📦-apiary-managementd-1-e-e4f"
   },
   "/about/products/web_app/hobbyist-tier/📦 Hive management-9cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1611,10 +1595,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-📦-hive-section-managementf-0-b-a19"
   },
-  "/about/products/web_app/hobbyist-tier/📸 Frame side photo upload-634": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-📸-frame-side-photo-upload-615-487"
-  },
   "/about/products/web_app/hobbyist-tier/🖼️ Frame side management-bc2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-🖼️-frame-side-management-578-f3f"
@@ -1622,10 +1602,6 @@
   "/about/products/web_app/hobbyist-tier/apiary-management-122": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-hobbyist-tier-apiary-managemente-90-d0e"
-  },
-  "/about/products/web_app/hobbyist-tier/frame-photo-upload-edf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-products-web-app-hobbyist-tier-frame-photo-upload-189-c8f"
   },
   "/about/products/web_app/hobbyist-tier/hive_ownership_transfer-961": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1806,6 +1782,10 @@
   "/about/products/web_app/starter-tier/🍭 Feeding history-581": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-web-app-starter-tier-🍭-feeding-history-759-7fc"
+  },
+  "/about/products/web_app/starter-tier/🐝 Honeycomb cell detection & management-e6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-web-app-starter-tier-🐝-honeycomb-cell-detection-managementfeb-2d2"
   },
   "/about/products/web_app/starter-tier/🔎 Inspection management-d1e": {
     "__comp": "__comp---theme-doc-item-178-a40",

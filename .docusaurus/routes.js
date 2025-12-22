@@ -279,15 +279,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '308'),
+    component: ComponentCreator('/about', '117'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '696'),
+        component: ComponentCreator('/about', 'b86'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '33e'),
+            component: ComponentCreator('/about', '4ca'),
             routes: [
               {
                 path: '/about/',
@@ -1610,26 +1610,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/hobbyist-tier/🌻 list of local plants',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🌻 list of local plants', '9c0'),
+                path: '/about/products/web_app/hobbyist-tier/🌻 List local plants',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🌻 List local plants', 'df4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🐝 Frame analysis - bee counter', '2d6'),
+                path: '/about/products/web_app/hobbyist-tier/🐝 Count bees',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🐝 Count bees', '111'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🐝 Frame side queen cup detection', '623'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management', 'fc0'),
+                path: '/about/products/web_app/hobbyist-tier/🐝 Queen cup detection',
+                component: ComponentCreator('/about/products/web_app/hobbyist-tier/🐝 Queen cup detection', '0cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1640,26 +1634,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/hobbyist-tier/👑 Queen detection',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/👑 Queen detection', '2fd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/hobbyist-tier/👑 Queen management',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/👑 Queen management', '152'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary', '386'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/hobbyist-tier/📦 Apiary management',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/📦 Apiary management', 'bef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1676,12 +1652,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/products/web_app/hobbyist-tier/📸 Frame side photo upload',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/📸 Frame side photo upload', '634'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/about/products/web_app/hobbyist-tier/🖼️ Frame side management',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/🖼️ Frame side management', 'bc2'),
                 exact: true,
@@ -1690,12 +1660,6 @@ export default [
               {
                 path: '/about/products/web_app/hobbyist-tier/apiary-management',
                 component: ComponentCreator('/about/products/web_app/hobbyist-tier/apiary-management', '122'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/about/products/web_app/hobbyist-tier/frame-photo-upload',
-                component: ComponentCreator('/about/products/web_app/hobbyist-tier/frame-photo-upload', 'edf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -1966,6 +1930,12 @@ export default [
               {
                 path: '/about/products/web_app/starter-tier/🍭 Feeding history',
                 component: ComponentCreator('/about/products/web_app/starter-tier/🍭 Feeding history', '581'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/web_app/starter-tier/🐝 Honeycomb cell detection & management',
+                component: ComponentCreator('/about/products/web_app/starter-tier/🐝 Honeycomb cell detection & management', 'e6f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
