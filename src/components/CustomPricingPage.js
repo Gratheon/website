@@ -66,7 +66,6 @@ export default function CustomPricingPage() {
                 <li>🖼️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/frame-photo-upload">Frame Photo Upload</Link></li>
                 <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Worker bee detection">Worker Bee Detection</Link></li>
                 <li>👑 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/queen-detection">Queen Detection</Link></li>
-                <li>🐝 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
                 <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ Public beehive view">Public Hive Sharing</Link></li>
                   <li>♻️ &nbsp;<Link to="/about/products/web_app/hobbyist-tier/♻️ QR-code generation">QR Code Generation</Link></li>
                   <li>📅 &nbsp;<Link to="/about/products/web_app/hobbyist-tier/📅 Varroa Treatment diary">Treatment Diary</Link></li>
@@ -107,13 +106,14 @@ export default function CustomPricingPage() {
             <div className="pricing-features-section">
               <h4>Features</h4>
               <ul className="pricing-card-features">
+                  <li>🐝 &nbsp;<Link to="/about/products/web_app/starter-tier/🐝 Honeycomb cell detection & management">Cell Analysis</Link></li>
+                  <li>🦀 &nbsp;<Link to="/about/products/web_app/starter-tier/hive_bottom_varroa_count">Hive bottom board varroa counting</Link></li>
                   <li>🗺️ &nbsp;<Link to="/about/products/web_app/starter-tier/🗺️ Hive placement planner">Hive Placement Planner</Link></li>
                   <li>🔎 &nbsp;<Link to="/about/products/web_app/starter-tier/🔎 Inspection management">Inspection Management</Link></li>
                   <li>🍭 &nbsp;<Link to="/about/products/web_app/starter-tier/🍭 Feeding history">Feeding History</Link></li>
                   <li>↔️ &nbsp;<Link to="/about/products/web_app/starter-tier/split_bee_colony">Colony Split Management</Link></li>
                   <li>🫶🏻 &nbsp;<Link to="/about/products/web_app/starter-tier/join_bee_colonies">Colony Joining Tool</Link></li>
                   <li>✏️ &nbsp;<Link to="/about/products/web_app/starter-tier/✏️ Drawing on canvas">Frame Annotation Tool</Link></li>
-                  <li>🦀 &nbsp;<Link to="/about/products/web_app/starter-tier/hive_bottom_varroa_count">Hive bottom board varroa counting</Link></li>
                   <li>🤖 &nbsp;<Link to="/about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM">AI Beekeeping Assistant</Link></li>
               </ul>
             </div>

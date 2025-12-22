@@ -578,7 +578,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-776-f29"
+        "content": "content---blog-page-2776-0be"
       },
       {
         "content": "content---blog-page-2-fa-7-513"
@@ -648,7 +648,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-page-277-c-0e4"
+        "content": "content---blog-page-377-c-d26"
       }
     ],
     "__props": "__props---blog-page-318-f-0ee"
@@ -674,17 +674,17 @@
     },
     "content": "content---termsaec-98a"
   },
-  "/about-d4e": {
+  "/about-308": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-360-66a"
     }
   },
-  "/about-150": {
+  "/about-696": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---abouta-14-337"
   },
-  "/about-0af": {
+  "/about-33e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/about/-498": {
@@ -1498,6 +1498,14 @@
   "/about/products/scales/ideas/🔗 Home-assistant integration-b86": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-products-scales-ideas-🔗-home-assistant-integrationaa-4-9c0"
+  },
+  "/about/products/scales/ideas/Easy battery replacement-fe3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-easy-battery-replacement-9-b-9-d94"
+  },
+  "/about/products/scales/ideas/Measure weight distribution with multiple sensors-bd3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-products-scales-ideas-measure-weight-distribution-with-multiple-sensorse-58-921"
   },
   "/about/products/scales/todo/⚖️ Weight monitoring-665": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -279,15 +279,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'd4e'),
+    component: ComponentCreator('/about', '308'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', '150'),
+        component: ComponentCreator('/about', '696'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '0af'),
+            component: ComponentCreator('/about', '33e'),
             routes: [
               {
                 path: '/about/',
@@ -1504,6 +1504,18 @@ export default [
               {
                 path: '/about/products/scales/ideas/🔗 Home-assistant integration',
                 component: ComponentCreator('/about/products/scales/ideas/🔗 Home-assistant integration', 'b86'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/scales/ideas/Easy battery replacement',
+                component: ComponentCreator('/about/products/scales/ideas/Easy battery replacement', 'fe3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/about/products/scales/ideas/Measure weight distribution with multiple sensors',
+                component: ComponentCreator('/about/products/scales/ideas/Measure weight distribution with multiple sensors', 'bd3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

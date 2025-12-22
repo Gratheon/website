@@ -3,149 +3,114 @@
 ### 🎯 Overview
 This feature enables varroa mite detection from hive bottom board images using AI/ML models. Bottom boards (white sticky sheets placed at the hive floor) collect fallen varroa mites, which are then counted from uploaded photos. Unlike frame-based varroa detection that uses Clarifai API, bottom board detection calls a self-hosted YOLOv11 model service.
 
+**Status:** ✅ **Implemented** (December 2024)
+
 ### 🏗️ Architecture
 
 #### System Overview
 ```mermaid
 graph TB
-    A[web-app UI] -->|1. Add bottom box| B[graphql-router]
-    A -->|2. Upload image| B
-    B --> C[swarm-api]
-    B --> D[image-splitter]
-    C -->|Store box| E[(MySQL - boxes)]
-    D -->|Store file| F[(MySQL - files)]
-    D -->|Link file to box| G[(MySQL - files_box_rel)]
-    D -->|Upload image| H[AWS S3]
-    D -->|Queue job| I[Job Queue]
-    I -->|Process| J[detectVarroaBottom worker]
-    J -->|HTTP POST| K[models-varroa-bottom:8750]
-    K -->|Detections| J
-    J -->|Store results| L[(MySQL - varroa_bottom_detections)]
-    J -->|Publish event| M[Redis PubSub]
-    M --> A
+    A[web-app UI] -->|1. Upload image| B[graphql-router]
+    A -->|2. Link to box| B
+    B --> C[image-splitter]
+    C -->|Store file| D[(MySQL - files)]
+    C -->|Upload to S3| E[AWS S3/MinIO]
+    C -->|Create job| F[Job Queue - TYPE_VARROA_BOTTOM]
+    F -->|Process| G[detectVarroaBottom worker]
+    G -->|Download image| E
+    G -->|HTTP POST multipart| H[models-varroa-bottom:8750<br/>Flask + YOLOv11]
+    H -->|JSON response| G
+    G -->|Store results| I[(MySQL - varroa_bottom_detections)]
+    G -->|Publish event| J[Redis PubSub]
+    J -->|Real-time update| A
 ```
 
 #### Components
 
 **Frontend (web-app)**
-- `BottomBox.tsx` - Upload UI component
-- `hiveButtons.tsx` - "Add bottom" button
-- `hiveEdit/index.tsx` - Hive structure integration
+- `src/page/hiveEdit/bottomBox/BottomBox.tsx` - Upload UI component with file selection
+- `src/page/hiveEdit/index.tsx` - Hive structure integration showing bottom board
+- GraphQL mutations: `uploadFrameSide`, `addFileToBox`
 
 **Backend Services**
-- **swarm-api** (Go) - Hive structure management, BOTTOM box type
-- **image-splitter** (TypeScript) - Image upload, storage, varroa detection orchestration
-- **models-varroa-bottom** (Python) - YOLOv11 inference server for varroa detection
+- **image-splitter** (TypeScript/Node.js) - Image upload, storage, varroa detection orchestration
+  - Worker: `src/workers/detectVarroaBottom.ts` - Downloads image, calls model API, stores results
+  - Model: `src/models/boxFile.ts` - Database operations for box files and detections
+  - Config: `src/config/config.dev.ts`, `src/config/config.default.ts` - Model URL configuration
+  
+- **models-varroa-bottom** (Python/Flask) - YOLOv11 inference server
+  - `server_flask.py` - Flask HTTP server handling multipart/form-data uploads
+  - `detect.py` - YOLOv11 model inference wrapper
+  - Model: YOLOv11-nano trained on varroa mite images (best.pt)
+  - Port: 8750
+  
 - **graphql-router** - API gateway routing GraphQL queries/mutations
 
 **Infrastructure**
-- AWS S3 - Image storage
-- MySQL - Metadata and detection results
+- AWS S3/MinIO - Image storage (original + resized versions: 1024px, 512px, 128px)
+- MySQL - Metadata, box relations, and detection results
 - Redis - Job queue and pub/sub for real-time updates
 
 ### 📋 Technical Specifications
 
 #### Database Schema
 
-**swarm-api database:**
-```sql
--- boxes table stores hive structure components
-CREATE TABLE `boxes` (
-  `id` int unsigned NOT NULL AUTO_INCREMENT,
-  `user_id` int unsigned NOT NULL,
-  `hive_id` int NOT NULL,
-  `active` tinyint(1) NOT NULL DEFAULT '1',
-  `color` varchar(10) DEFAULT '#ffc848',
-  `position` mediumint DEFAULT NULL,
-  `type` enum('SUPER','DEEP','GATE','VENTILATION','QUEEN_EXCLUDER','HORIZONTAL_FEEDER','BOTTOM') 
-         CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL DEFAULT 'DEEP',
-  PRIMARY KEY (`id`),
-  KEY `user_id` (`user_id`),
-  KEY `hive_id` (`hive_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-```
+**Key Tables (image-splitter database):**
 
-Migration: `swarm-api/migrations/20251201025115_add_bottom_box_type.sql`
+**files** - Uploaded image metadata
+- Primary key: `id`, Unique: `(user_id, hash)`
+- Stores: hash, extension, dimensions, upload timestamp
 
-**image-splitter database:**
-```sql
--- files table stores uploaded image metadata
-CREATE TABLE `files` (
-  `id` int unsigned NOT NULL AUTO_INCREMENT,
-  `user_id` int unsigned NOT NULL,
-  `hash` varchar(64) NOT NULL,
-  `ext` varchar(10) DEFAULT NULL,
-  `url_version` int DEFAULT 1,
-  `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `user_file` (`user_id`, `hash`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin;
+**files_box_rel** - Links files to bottom boxes
+- Composite key: `(file_id, box_id, user_id)`
+- Supports inspection versioning via nullable `inspection_id`
 
--- files_box_rel links images to bottom boxes
-CREATE TABLE `files_box_rel` (
-  `box_id` int unsigned NOT NULL,
-  `file_id` int unsigned NOT NULL,
-  `user_id` int unsigned NOT NULL,
-  `inspection_id` INT NULL DEFAULT NULL,
-  `added_time` datetime DEFAULT CURRENT_TIMESTAMP,
-  INDEX (`user_id`, `box_id`, `inspection_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin;
+**varroa_bottom_detections** - AI detection results
+- Primary key: `id`, Unique: `file_id` (one detection per file)
+- Stores: varroa_count, detections JSON, model_version, processed timestamp
+- Indexed by: `(user_id, box_id)` for fast queries
 
--- varroa_bottom_detections stores AI detection results (TO BE CREATED)
-CREATE TABLE `varroa_bottom_detections` (
-  `id` int unsigned NOT NULL AUTO_INCREMENT,
-  `file_id` int unsigned NOT NULL,
-  `box_id` int unsigned NOT NULL,
-  `user_id` int unsigned NOT NULL,
-  `varroa_count` int NOT NULL DEFAULT 0,
-  `detections` JSON NULL,
-  `model_version` varchar(50) DEFAULT 'yolov11-nano',
-  `processed_at` datetime DEFAULT CURRENT_TIMESTAMP,
-  PRIMARY KEY (`id`),
-  UNIQUE KEY `file_detection` (`file_id`),
-  KEY `user_box` (`user_id`, `box_id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin;
-```
+**jobs** - Async task queue
+- Supports retry logic with `calls` counter
+- Indexed by: `(name, process_start_time, process_end_time, calls)`
 
-Migrations: 
-- `image-splitter/migrations/018-box-files.sql` (existing)
-- `image-splitter/migrations/XXX-varroa-bottom-detections.sql` (to be created)
+**Migrations:**
+- `018-box-files.sql` - files_box_rel table
+- `020-varroa-bottom-detections.sql` - varroa_bottom_detections table
+- `017-jobs.sql` - jobs table
 
-**Detection JSON format:**
+**Detection JSON format (normalized 0-1 range):**
 ```json
-{
-  "count": 8,
-  "detections": [
-    {
-      "x": 100.5,
-      "y": 200.3,
-      "width": 15.2,
-      "height": 12.8,
-      "confidence": 0.92
-    }
-  ]
-}
+[
+  {
+    "x": 0.5586,
+    "y": 0.6187,
+    "w": 0.0157,
+    "c": 0.92
+  },
+  {
+    "x": 0.2741,
+    "y": 0.2944,
+    "w": 0.0152,
+    "c": 0.88
+  }
+]
 ```
+- Coordinates are normalized to 0-1 range relative to original image dimensions
+- `x`, `y` = center position (4 decimal precision)
+- `w` = width as fraction of image width (4 decimal precision)  
+- `c` = confidence score (2 decimal precision)
 
 #### GraphQL API
 
 **Mutations:**
 ```graphql
-# Add bottom box to hive structure
-mutation addBox($hiveId: ID!, $position: Int!, $type: BoxType!) {
-  addBox(hiveId: $hiveId, position: $position, type: $type) {
-    id
-    type
-    position
-    color
-  }
-}
-
-# Upload image file (returns fileId)
+# Upload image file (returns fileId) - used for ALL image uploads including bottom boards
 mutation uploadFrameSide($file: Upload!) {
   uploadFrameSide(file: $file) {
     id
     url
+    hash
     resizes {
       id
       url
@@ -155,70 +120,101 @@ mutation uploadFrameSide($file: Upload!) {
 }
 
 # Link uploaded file to bottom box (triggers varroa detection job)
-mutation addFileToBox($boxId: ID!, $fileId: ID!, $hiveId: ID!) {
-  addFileToBox(boxId: $boxId, fileId: $fileId, hiveId: $hiveId)
-}
-
-# Query varroa detection results (TO BE IMPLEMENTED)
-query getVarroaBottomDetections($boxId: ID!, $inspectionId: ID) {
-  varroaBottomDetections(boxId: $boxId, inspectionId: $inspectionId) {
-    id
-    fileId
-    varroaCount
-    detections {
-      x
-      y
-      width
-      height
-      confidence
-    }
-    processedAt
-  }
+mutation addFileToBox($boxId: ID!, $fileId: ID!, $hiveId: ID!, $boxType: String) {
+  addFileToBox(boxId: $boxId, fileId: $fileId, hiveId: $hiveId, boxType: $boxType)
 }
 ```
 
 **Query:**
 ```graphql
-query getBox($id: ID!) {
-  box(id: $id) {
+# Get bottom box files with varroa detection results
+query varroaBottomDetections($boxId: ID!, $inspectionId: ID) {
+  varroaBottomDetections(boxId: $boxId, inspectionId: $inspectionId) {
     id
-    type
-    position
-    files {
+    fileId
+    boxId
+    varroaCount
+    detections
+    processedAt
+  }
+}
+
+# Get box files
+query boxFiles($boxId: ID!, $inspectionId: ID) {
+  boxFiles(boxId: $boxId, inspectionId: $inspectionId) {
+    fileId
+    userId
+    boxId
+    file {
       id
       url
-      varroaDetection {
-        count
-        detections
-      }
+      hash
+      ext
     }
+    addedTime
   }
 }
 ```
 
+**Subscriptions (Real-time Updates):**
+```graphql
+# Subscribe to varroa detection completion events
+subscription onBoxVarroaDetected($boxId: String) {
+  onBoxVarroaDetected(boxId: $boxId) {
+    fileId
+    boxId
+    varroaCount
+    detections
+    isComplete
+  }
+}
+```
+
+**Subscription Flow:**
+1. Worker publishes to Redis channel: `{userId}.box.{boxId}.varroa_detected`
+2. event-stream-filter forwards to GraphQL WebSocket subscription
+3. web-app receives real-time update and refetches detection data
+4. UI updates to show detection results without page reload
+
+**Implementation:**
+- event-stream-filter: `src/index.ts` - `onBoxVarroaDetected` resolver
+- web-app: `src/page/hiveEdit/bottomBox/BottomBox.tsx` - `useSubscription` hook
+- image-splitter: `src/workers/detectVarroaBottom.ts` - publishes event after detection complete
+
+**Implementation Note:** The `uploadFrameSide` mutation name is kept for backward compatibility - it handles ALL file uploads including bottom board images, not just frame sides.
+
 #### REST API - models-varroa-bottom
 
 **Endpoint:** `POST /`  
-**Host:** `http://models-varroa-bottom:8750`  
+**Host:** `http://models-varroa-bottom:8750` (Docker) or `http://localhost:8750` (local)
 **Content-Type:** `multipart/form-data`
+**Implementation:** Flask + YOLOv11-nano
+**Model:** `/app/model/weights/best.pt`
+**Inference Parameters:**
+- `conf_thres`: 0.1 (confidence threshold)
+- `iou_thres`: 0.5 (IoU threshold for NMS)
+- `imgsz`: 6016 (image size for inference)
+- `max_det`: 2000 (maximum detections per image)
 
 **Request:**
 ```bash
-curl -X POST -F "file=@bottom_board.jpg" http://models-varroa-bottom:8750
+curl -X POST -F "file=@bottom_board.jpg" http://localhost:8750
 ```
 
-**Response (Success):**
+**Response (Success with detections):**
 ```json
 {
   "message": "File processed successfully",
-  "count": 8,
+  "count": 191,
   "result": [
     {
-      "x1": 2193.93,
-      "y1": 1456.21,
-      "x2": 2208.15,
-      "y2": 1470.43,
-      "confidence": 0.92
+      "x1": 2193.928955078125,
+      "y1": 3836.9970703125,
+      "x2": 2257.2607421875,
+      "y2": 3905.6357421875,
+      "confidence": 0.9389985203742981,
+      "class": 0,
+      "class_name": "varroa_mite"
     }
   ]
 }
@@ -228,277 +224,259 @@ curl -X POST -F "file=@bottom_board.jpg" http://models-varroa-bottom:8750
 ```json
 {
   "message": "No varroa mites detected",
-  "result": []
+  "result": [],
+  "count": 0
 }
 ```
 
-**Response (Error):**
+**Response (Error - missing file):**
 ```json
 {
-  "message": "Error message"
+  "message": "Missing 'file' field in form data"
+}
+```
+
+**Response (Error - invalid file):**
+```json
+{
+  "message": "No file selected"
 }
 ```
 
 ### 🔧 Implementation Details
 
-#### Current State
+#### File Upload Flow
 
-**Existing Frame Varroa Detection (Clarifai-based):**
-- File: `image-splitter/src/workers/detectVarroa.ts`
-- Uses Clarifai API for frame side images
-- Splits images into 9 chunks for better detection
-- Stores results in `files_frame_side_rel.detected_varroa` (JSON)
-- Job type: `TYPE_VARROA`
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant W as web-app
+    participant GR as graphql-router
+    participant IS as image-splitter
+    participant S3 as S3/MinIO
+    participant DB as MySQL
+    participant Q as Job Queue
 
-**Existing Bottom Board Upload:**
-- Bottom box type added to swarm-api
-- File upload via `uploadFrameSide` mutation
-- File-to-box linking via `addFileToBox` mutation
-- Files stored in `files_box_rel` table
-- No varroa detection currently triggered
+    U->>W: Select bottom board image
+    W->>GR: uploadFrameSide(file)
+    GR->>IS: Upload mutation
+    IS->>IS: Calculate hash, validate
+    IS->>DB: INSERT INTO files
+    IS->>S3: Upload original image
+    IS->>Q: Create RESIZE job
+    IS-->>W: Return fileId, url, hash
+    
+    W->>GR: addFileToBox(boxId, fileId, boxType: "BOTTOM")
+    GR->>IS: Link mutation
+    IS->>DB: INSERT INTO files_box_rel
+    IS->>DB: INSERT INTO files_hive_rel
+    IS->>Q: Create VARROA_BOTTOM job (triggered by boxType)
+    IS-->>W: Success
+    W->>U: Show upload complete
+```
 
-#### Required Implementation
+**Key Files:**
+- `web-app/src/page/hiveEdit/bottomBox/BottomBox.tsx` - UI component, triggers upload + link with `boxType: "BOTTOM"`
+- `image-splitter/src/graphql/upload-frame-side.ts` - Handles file upload, creates RESIZE job only
+- `image-splitter/src/graphql/resolvers.ts` - `addFileToBox` checks boxType and creates VARROA_BOTTOM job
 
-**1. New Worker: `detectVarroaBottom.ts`**
+#### Detection Processing Flow
 
-Location: `image-splitter/src/workers/detectVarroaBottom.ts`
+```mermaid
+sequenceDiagram
+    participant Q as Job Queue
+    participant W as detectVarroaBottom Worker
+    participant S3 as S3/MinIO
+    participant M as models-varroa-bottom
+    participant DB as MySQL
+    participant R as Redis PubSub
+    participant UI as web-app
 
-```typescript
-import axios from 'axios';
-import config from '../config';
-import { logger } from '../logger';
-import { downloadS3FileToLocalTmp } from './common/downloadFile';
-import boxFileModel from '../models/boxFile';
-import { generateChannelName, publisher } from '../redisPubSub';
+    Q->>W: Pick VARROA_BOTTOM job
+    W->>DB: Fetch box file metadata
+    W->>S3: Download original image
+    W->>W: Read file to buffer
+    W->>M: POST /  (multipart/form-data)
+    M->>M: Decode JPEG, run YOLOv11
+    M-->>W: JSON {count, result[]}
+    W->>W: Transform coordinates
+    W->>DB: INSERT/UPDATE varroa_bottom_detections
+    W->>R: Publish varroa_detected event
+    R-->>UI: Real-time update
+    W->>W: Cleanup temp files
+    W->>Q: Mark job complete
+```
 
-export async function detectVarroaBottom(fileId: number, payload: any) {
-  const boxFile = await boxFileModel.getBoxFileByFileId(fileId);
-  
-  if (!boxFile) {
-    throw new Error(`Box file ${fileId} not found`);
-  }
+**Key Files:**
+- `image-splitter/src/workers/detectVarroaBottom.ts` - Main worker logic
+- `image-splitter/src/workers/orchestrator.ts` - Registers worker for VARROA_BOTTOM jobs
+- `image-splitter/src/models/boxFile.ts` - DB operations for detections
+- `models-varroa-bottom/server_flask.py` - Flask HTTP server
+- `models-varroa-bottom/detect.py` - YOLOv11 inference wrapper
 
-  logger.info('detectVarroaBottom - processing file', { fileId, boxId: boxFile.box_id });
-  
-  const localPath = await downloadS3FileToLocalTmp(boxFile);
-  
-  const formData = new FormData();
-  formData.append('file', fs.createReadStream(localPath));
-  
-  const response = await axios.post(
-    config.models.varroaBottomUrl,
-    formData,
-    {
-      headers: formData.getHeaders(),
-      timeout: 60000
+#### Data Model Relationships
+
+```mermaid
+erDiagram
+    files ||--o{ files_box_rel : "1:N"
+    files ||--o{ files_hive_rel : "1:N"
+    files ||--o| varroa_bottom_detections : "1:1"
+    files_box_rel ||--o| varroa_bottom_detections : "1:1"
+    
+    files {
+        int id PK
+        int user_id
+        string hash UK
+        string ext
+        int width
+        int height
+        datetime created_at
     }
-  );
-  
-  const { count, result } = response.data;
-  
-  const detections = result.map(d => ({
-    x: (d.x1 + d.x2) / 2,
-    y: (d.y1 + d.y2) / 2,
-    width: d.x2 - d.x1,
-    height: d.y2 - d.y1,
-    confidence: d.confidence
-  }));
-  
-  await boxFileModel.updateVarroaDetections(
-    fileId,
-    boxFile.box_id,
-    boxFile.user_id,
-    count,
-    detections
-  );
-  
-  publisher().publish(
-    generateChannelName(
-      boxFile.user_id,
-      'box',
-      boxFile.box_id,
-      'varroa_detected'
-    ),
-    JSON.stringify({
-      fileId,
-      varroaCount: count,
-      detections
-    })
-  );
-  
-  logger.info('detectVarroaBottom - complete', { fileId, count });
-}
+    
+    files_box_rel {
+        int box_id
+        int file_id FK
+        int user_id
+        int inspection_id "nullable"
+        datetime added_time
+    }
+    
+    files_hive_rel {
+        int hive_id
+        int file_id FK
+        int user_id
+    }
+    
+    varroa_bottom_detections {
+        int id PK
+        int file_id FK "unique"
+        int box_id
+        int user_id
+        int varroa_count
+        json detections
+        string model_version
+        datetime processed_at
+    }
 ```
-
-**2. New Job Type**
-
-Location: `image-splitter/src/models/jobs.ts`
-
-```typescript
-export const TYPE_VARROA_BOTTOM = "varroa_bottom";
-```
-
-**3. Register Worker in Orchestrator**
-
-Location: `image-splitter/src/workers/orchestrator.ts`
-
-```typescript
-import { detectVarroaBottom } from './detectVarroaBottom';
-import { TYPE_VARROA_BOTTOM } from '../models/jobs';
-
-jobsModel.processJobInLoop(TYPE_VARROA_BOTTOM, detectVarroaBottom);
-```
-
-**4. Queue Job on Upload**
-
-Location: `image-splitter/src/graphql/resolvers.ts`
-
-```typescript
-addFileToBox: async (_, {boxId, fileId, hiveId}, {uid}) => {
-  await boxFileModel.addBoxRelation(fileId, boxId, uid);
-  await fileModel.addHiveRelation(fileId, hiveId, uid);
-  
-  const box = await getBoxType(boxId);
-  if (box.type === 'BOTTOM') {
-    await jobs.addJob(TYPE_VARROA_BOTTOM, fileId);
-  }
-  
-  return true;
-}
-```
-
-**5. Configuration**
-
-Location: `image-splitter/src/config/config.default.ts`
-
-```typescript
-export default {
-  models: {
-    varroaBottomUrl: process.env.VARROA_BOTTOM_URL || 'http://models-varroa-bottom:8750'
-  }
-}
-```
-
-**6. Database Model Extensions**
-
-Location: `image-splitter/src/models/boxFile.ts`
-
-```typescript
-async updateVarroaDetections(
-  fileId: number,
-  boxId: number, 
-  userId: number,
-  count: number,
-  detections: any[]
-) {
-  await storage().query(
-    sql`INSERT INTO varroa_bottom_detections 
-        (file_id, box_id, user_id, varroa_count, detections)
-        VALUES (${fileId}, ${boxId}, ${userId}, ${count}, ${JSON.stringify(detections)})
-        ON DUPLICATE KEY UPDATE
-        varroa_count = VALUES(varroa_count),
-        detections = VALUES(detections),
-        processed_at = NOW()`
-  );
-}
-
-async getVarroaDetections(boxId: number, userId: number, inspectionId: number | null = null) {
-  const result = await storage().query(
-    sql`SELECT vbd.* 
-        FROM varroa_bottom_detections vbd
-        JOIN files_box_rel fbr ON fbr.file_id = vbd.file_id
-        WHERE vbd.box_id = ${boxId}
-          AND vbd.user_id = ${userId}
-          AND fbr.inspection_id ${inspectionId ? sql`= ${inspectionId}` : sql`IS NULL`}
-        ORDER BY vbd.processed_at DESC
-        LIMIT 1`
-  );
-  return result[0] || null;
-}
-```
-
-#### Data Flow
-
-**Upload Flow:**
-1. User clicks "Upload bottom board image" in web-app
-2. `uploadFrameSide` mutation uploads file to S3, returns `fileId`
-3. `addFileToBox` mutation links file to bottom box
-4. Job queued: `TYPE_VARROA_BOTTOM` with `fileId`
-5. Worker downloads image from S3
-6. Worker calls models-varroa-bottom HTTP API
-7. Worker stores detections in `varroa_bottom_detections` table
-8. Worker publishes Redis event with results
-9. Web-app receives real-time update via subscription
-
-**Query Flow:**
-1. User opens hive bottom board view
-2. GraphQL query fetches box files and associated varroa detections
-3. UI displays image with overlay showing detected mites
-4. Historical data shown via inspection versioning
 
 ### ⚙️ Configuration
 
-**Environment Variables (image-splitter):**
-```bash
-VARROA_BOTTOM_URL=http://models-varroa-bottom:8750
-```
+**Service URLs:**
+- Dev: `http://models-varroa-bottom:8750` (Docker service name)
+- Prod: `http://localhost:8750` (both services use `network_mode: host`)
 
-**Docker Compose (models-varroa-bottom):**
-```yaml
-models-varroa-bottom:
-  image: gratheon/models-varroa-bottom:latest
-  ports:
-    - "8750:8750"
-  volumes:
-    - ./models-varroa-bottom/model:/app/model
-```
+**Network Modes:**
+- Dev: Default Docker bridge network (services communicate via names)
+- Prod: Host network (`network_mode: host` in both docker-compose.prod.yml)
+
+**Configuration Files:**
+- `image-splitter/src/config/config.dev.ts` - Dev environment
+- `image-splitter/src/config/config.default.ts` - Production environment
+- `models-varroa-bottom/docker-compose.dev.yml` - Dev deployment
+- `models-varroa-bottom/docker-compose.prod.yml` - Prod deployment with host networking
 
 ### 🧪 Testing
 
-#### Manual Testing
+#### Quick Test - Model API
 ```bash
-# Test models-varroa-bottom API directly
-curl -X POST -F "file=@test_bottom_board.jpg" http://localhost:8750
-
-# Expected response with detections
-{
-  "message": "File processed successfully",
-  "count": 5,
-  "result": [...]
-}
+cd models-varroa-bottom
+curl -X POST -F "file=@Sample images/IMG_6098.jpg" http://localhost:8750
 ```
 
-#### Integration Testing
-```typescript
-// test/varroa-bottom-detection.test.ts
-describe('Varroa Bottom Detection', () => {
-  it('should queue detection job when bottom box file uploaded', async () => {
-    const fileId = await uploadFile('bottom_board.jpg');
-    const boxId = await createBottomBox(hiveId);
-    
-    await addFileToBox(boxId, fileId, hiveId);
-    
-    const job = await jobs.fetchUnprocessed(null, TYPE_VARROA_BOTTOM);
-    expect(job.ref_id).toBe(fileId);
-  });
-  
-  it('should call models-varroa-bottom and store results', async () => {
-    const detections = await detectVarroaBottom(fileId, {});
-    
-    const results = await boxFileModel.getVarroaDetections(boxId, userId);
-    expect(results.varroa_count).toBeGreaterThan(0);
-    expect(results.detections).toBeArray();
-  });
-});
+#### Full Integration Test
+1. Start services: `just start` in both repos
+2. Upload image via web-app UI
+3. Check logs: `docker logs gratheon-image-splitter-1 | grep detectVarroaBottom`
+4. Query results: `SELECT * FROM varroa_bottom_detections ORDER BY processed_at DESC LIMIT 1;`
+
+#### Debug Job Processing
+```bash
+# Check if job was created
+mysql -h localhost -P 5100 -u root -ptest image-splitter \
+  -e "SELECT * FROM jobs WHERE name='varroa_bottom' ORDER BY id DESC LIMIT 5;"
+
+# Check for failures
+mysql -h localhost -P 5100 -u root -ptest image-splitter \
+  -e "SELECT id, ref_id, error FROM jobs WHERE name='varroa_bottom' AND error IS NOT NULL;"
 ```
 
 ### 📊 Performance Considerations
 
-#### Optimizations
-- Bottom board images typically 3-6 MB, processed in under 10 seconds
-- No image chunking needed (unlike frame detection with 9 chunks)
-- Single HTTP call to models-varroa-bottom reduces latency
-- Results cached in database, no reprocessing on view
+#### Image Processing
+- Bottom board images: typically 6048x8064 pixels, 3-6 MB
+- Processing time: 5-15 seconds per image on CPU
+- No image chunking needed (unlike frame detection)
+- Single HTTP call to model reduces latency
+
+#### Optimizations Implemented
+1. **File Buffer Upload** - Send entire file in memory vs streaming for reliability
+2. **Flask Threading** - Multiple concurrent requests supported
+3. **Model Caching** - YOLOv11 model loaded once on server start, reused for all requests
+4. **Database Caching** - Results stored, no reprocessing on subsequent views
+5. **Job Queue** - Async processing doesn't block upload response
+
+#### Resource Usage
+- **models-varroa-bottom**: ~2 GB RAM, less than 10% CPU during inference
+- **image-splitter**: ~500 MB RAM for worker process
+- **S3 Storage**: Original (3-6 MB) + 3 resized versions (1024px, 512px, 128px)
+
+### 🐛 Common Issues
+
+| Issue | Diagnosis | Solution |
+|-------|-----------|----------|
+| No detection results | Check jobs table for failures | Verify `boxType: "BOTTOM"` was passed in mutation |
+| 0 detections on image with mites | Check model logs, test image manually | Verify image JPEG magic bytes (`ffd8`), check model weights loaded |
+| Connection refused | Network misconfiguration | Dev: Use `models-varroa-bottom:8750`, Prod: Use `localhost:8750` with host network |
+| Memory limit exceeded | Large image (>6MB) | Already handled by preprocessing for images >4000px |
+| Timeout | Slow inference | Increase timeout (currently 120s), check CPU resources |
+
+### 📝 Future Improvements
+
+**Short-term:**
+1. Add GraphQL subscription for real-time detection updates
+2. Display detection overlay on uploaded images in UI
+3. Historical trend analysis (varroa count over time)
+4. Export detection data as CSV/JSON
+
+**Long-term:**
+1. GPU support for faster inference
+2. Batch processing multiple images
+3. Detection confidence tuning UI
+4. Integration with treatment recommendations
+5. Mobile app support for image uploads
+
+### 🔗 Related Documentation
+
+- [Frame Photo Upload](./frame-photo-upload.md)
+- [Bottom Board Management](./bottom-board-management.md)
+- [Hive Management](./hive-management.md)
+- [models-varroa-bottom README](/models-varroa-bottom/README.md)
+- [image-splitter README](/image-splitter/README.md)
+
+### 📌 Key Files Changed
+
+**image-splitter:**
+- `src/workers/detectVarroaBottom.ts` - New worker for varroa detection
+- `src/models/boxFile.ts` - Database operations for detections
+- `src/models/jobs.ts` - Added TYPE_VARROA_BOTTOM constant
+- `src/workers/orchestrator.ts` - Registered new worker
+- `src/graphql/resolvers.ts` - Added boxType parameter handling
+- `src/graphql/upload-frame-side.ts` - Fixed job creation (resize only)
+- `src/config/config.dev.ts` - Added varroaBottomUrl configuration
+- `src/config/config.default.ts` - Added varroaBottomUrl configuration
+- `migrations/020-varroa-bottom-detections.sql` - New table for detections
+
+**web-app:**
+- `src/page/hiveEdit/bottomBox/BottomBox.tsx` - Added boxType parameter to mutation
+
+**models-varroa-bottom:**
+- `server_flask.py` - New Flask server (replaced old cgi-based server.py)
+- `detect.py` - Added detailed logging
+- `requirements-server.txt` - Added Flask dependency
+- `Dockerfile` - Updated to use Flask server
+- `docker-compose.dev.yml` - New dev configuration
+- `docker-compose.prod.yml` - New prod configuration with host networking
+- `justfile` - Added start/stop commands for dev/prod
 
 #### Bottlenecks
 - models-varroa-bottom CPU-only inference (no GPU requirement per upstream)
@@ -572,7 +550,7 @@ describe('Varroa Bottom Detection', () => {
 - No image resize needed for bottom boards (unlike frames with thumbnails)
 
 ---
-**Last Updated**: December 17, 2025  
-**Implementation Status**: Planning / Design Phase  
-**Next Steps**: Create migration, implement detectVarroaBottom worker, add GraphQL resolvers
+**Last Updated**: December 22, 2024  
+**Implementation Status**: ✅ Completed  
+**Key Components**: image-splitter worker, models-varroa-bottom Flask server, web-app UI integration
 
