@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/products/web_app/pro-tier/colony_comparison_analytics.md",
+                "file": "about/products/web_app/starter-tier/hive_bottom_varroa_count.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "colony_comparison_analytics"
+              "title": "hive_bottom_varroa_count"
             }
           }
         ]
@@ -180,6 +180,11 @@
   },
   "active": "b4a96b4f95ae87f3",
   "lastOpenFiles": [
+    "about/products/web_app/starter-tier/🗺️ Hive placement planner.md",
+    "about/products/web_app/starter-tier/🤖 Beekeeping advice with LLM.md",
+    "about/products/web_app/starter-tier/hive_bottom_varroa_count.md",
+    "about/products/web_app/starter-tier/join_bee_colonies.md",
+    "about/products/web_app/pro-tier/colony_comparison_analytics.md",
     "about/products/web_app/hobbyist-tier/hive_ownership_transfer.md",
     "about/products/web_app/hobbyist-tier/apiary-management.md",
     "about/products/web_app/hobbyist-tier/queen-detection.md",
@@ -201,7 +206,6 @@
     "about/products/scales/ideas/Easy battery replacement.md",
     "about/products/scales/ideas/Measure weight distribution with multiple sensors.md",
     "blog/2025-12-17 🎓 University of Tartu Students Advance Bee Monitoring with AI.md",
-    "docs/web-app/features/varroa-bottom-detection.md",
     "build/blog/rss.xml",
     "build/blog/rss.css",
     "build/blog/atom.xml",
@@ -222,10 +226,6 @@
     "build/assets/images/Screenshot 2025-09-13 at 12.30.27-45979be3142bcc40a74091650dd65da5.png",
     "build/assets/images/Screenshot 2024-03-27 at 10.20.55-7049332e70b459e090bff2d23d6ae296.png",
     "build/assets/images/Screenshot 2025-09-17 at 12.06.31-6e8010440c3ed8af48b4de0600124461.png",
-    "about/index.md",
-    "about/company/index.md",
-    "about/products/web_app/flexible-tier/video_playback.md",
-    "about/products/web_app/starter-tier/hive_bottom_varroa_count.md",
     "about/products/entrance_observer/Untitled.canvas"
   ]
 }

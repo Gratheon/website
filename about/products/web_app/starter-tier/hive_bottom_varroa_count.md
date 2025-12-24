@@ -5,6 +5,9 @@ title: 🦀 Hive bottom board varroa counting
 
 Varroa mites are parasitic pests that weaken honey bee colonies by feeding on their hemolymph. Regular monitoring of varroa populations is essential for colony health. Traditional counting methods involve placing a white sticky board at the hive bottom and manually counting fallen mites - a time-consuming and error-prone process.
 
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1ghYZX55LP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 🎯 Purpose
 Track varroa mite infestation levels by uploading and analyzing images of your hive bottom board. The app automatically counts varroa mites using AI, eliminating manual counting and providing accurate historical trends.
 
@@ -102,8 +105,3 @@ Images are versioned with inspections:
 
 **For Developers:**
 - [Technical Documentation](../../../../docs/web-app/features/varroa-bottom-detection.md) - Architecture, API, implementation details
-
----
-**Status**: In Progress  
-**Last Updated**: December 17, 2025
-
